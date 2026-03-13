@@ -110,6 +110,42 @@ Generated files:
 - `data/processed/test.jsonl`
 - `data/processed/metadata.json`
 
+## Phase 3 Quick Start (PubMedBERT NER Training)
+
+Train token-classification model from processed JSONL splits:
+
+```bash
+python scripts/run_ner_training.py --config configs/ner_train.yaml --data-dir data/processed --output-dir artifacts/models/pubmedbert_ner
+```
+
+Training outputs:
+- `artifacts/models/pubmedbert_ner/model/`
+- `artifacts/models/pubmedbert_ner/label_mapping.json`
+
+## Phase 4 Quick Start (NER Inference)
+
+Run entity extraction on text or extraction JSON output:
+
+```bash
+python scripts/run_ner_inference.py --input data/interim/extracted_text/sample.json --model-dir artifacts/models/pubmedbert_ner/model --output artifacts/sample_outputs/ner_predictions.json
+```
+
+Inference output:
+- `artifacts/sample_outputs/ner_predictions.json`
+- Contains normalized entity objects with `label`, `text`, `start`, `end`, and `score`
+
+## Phase 5 Quick Start (One-Command Pipeline)
+
+Run extraction + NER + rule-based interpretation in one command:
+
+```bash
+python scripts/run_pipeline.py --input data/raw/pdfs_digital/sample.pdf --model-dir artifacts/models/pubmedbert_ner/model --output artifacts/sample_outputs/pipeline_output.json
+```
+
+Pipeline output:
+- `artifacts/sample_outputs/pipeline_output.json`
+- Includes extraction payload, NER entities, interpreted rows, and status summary
+
 ## Detailed Folder Structure (Implementation)
 
 Use the following structure to keep data, models, services, and experiments cleanly separated:
