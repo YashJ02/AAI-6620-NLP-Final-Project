@@ -1,0 +1,9 @@
+[project]
+name = "blood-report-analyzer"
+version = "0.1.0"
+description = "Health Blood Report Analyzer and Recommendation Engine"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

@@ -1,0 +1,4 @@
+classification:
+  default_strategy: rule_based
+  fallback_strategy: ml_classifier
+

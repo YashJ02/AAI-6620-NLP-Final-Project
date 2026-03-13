@@ -1,0 +1,5 @@
+router:
+  mode: auto
+  digital_engine: pymupdf
+  scanned_engine: surya
+

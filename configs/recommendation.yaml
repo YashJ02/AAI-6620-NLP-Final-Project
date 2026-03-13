@@ -1,0 +1,6 @@
+retrieval:
+  baseline: tfidf
+  semantic: faiss_sentence_transformer
+nlg:
+  template_engine: jinja2
+
