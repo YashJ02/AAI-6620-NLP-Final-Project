@@ -9,12 +9,14 @@ from src.api.models import ExtractionRequest
 from src.api.models import InterpretationRequest
 from src.api.models import NerRequest
 from src.api.models import PipelineRequest
+from src.api.models import RecommendationRequest
 from src.extraction.pymupdf_extractor import extract_text_pymupdf
 from src.extraction.router import route_pdf
 from src.extraction.surya_ocr_extractor import extract_text_surya
 from src.interpretation.rule_classifier import classify_records
 from src.interpretation.rule_classifier import summarize_statuses
 from src.ner.infer_pubmedbert import predict
+from src.recommendation.service import generate_recommendations
 
 
 router = APIRouter(prefix="/v1", tags=["pipeline"])
@@ -51,6 +53,18 @@ def interpret_endpoint(payload: InterpretationRequest) -> dict:
 	return {"row_count": len(rows), "status_summary": summary, "rows": rows}
 
 
+@router.post("/recommend")
+def recommend_endpoint(payload: RecommendationRequest) -> dict:
+	return generate_recommendations(
+		interpreted_rows=payload.interpreted_rows,
+		ner_entities=payload.ner_entities,
+		status_summary=payload.status_summary,
+		patient_id=payload.patient_id,
+		query=payload.query,
+		top_k=payload.top_k,
+	)
+
+
 @router.post("/pipeline")
 def pipeline_endpoint(payload: PipelineRequest) -> dict:
 	pdf_path = Path(payload.pdf_path)
@@ -72,6 +86,13 @@ def pipeline_endpoint(payload: PipelineRequest) -> dict:
 
 	interpreted_rows = classify_records(rows)
 	status_summary = summarize_statuses(interpreted_rows)
+	recommendation = generate_recommendations(
+		interpreted_rows=interpreted_rows,
+		ner_entities=ner_entities,
+		status_summary=status_summary,
+		patient_id=extraction_output.get("document_id", pdf_path.stem),
+		top_k=5,
+	)
 
 	return {
 		"document_id": extraction_output.get("document_id", pdf_path.stem),
@@ -85,6 +106,11 @@ def pipeline_endpoint(payload: PipelineRequest) -> dict:
 			"row_count": len(interpreted_rows),
 			"status_summary": status_summary,
 			"rows": interpreted_rows,
+		},
+		"recommendation": {
+			"query": recommendation["query"],
+			"results": recommendation["results"],
+			"summary": recommendation["summary"],
 		},
 	}
 

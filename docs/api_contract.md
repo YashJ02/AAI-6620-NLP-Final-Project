@@ -104,6 +104,48 @@ Request:
 }
 ```
 
+## Recommend
+
+Endpoint:
+
+- `POST /v1/recommend`
+
+Request:
+
+```json
+{
+  "query": "low hemoglobin iron foods",
+  "interpreted_rows": [],
+  "ner_entities": [],
+  "status_summary": {
+    "low": 0,
+    "normal": 0,
+    "high": 0,
+    "unknown": 0
+  },
+  "patient_id": "demo",
+  "top_k": 5
+}
+```
+
+Response:
+
+```json
+{
+  "query": "low hemoglobin iron foods",
+  "results": [
+    {
+      "id": "advice_iron_low_1",
+      "text": "For low hemoglobin, include iron-rich foods...",
+      "score": 0.81,
+      "combined_score": 0.61,
+      "method": "semantic"
+    }
+  ],
+  "summary": "Report summary for demo: ..."
+}
+```
+
 Response:
 
 ```json

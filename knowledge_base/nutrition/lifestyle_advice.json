@@ -1,3 +1,44 @@
-[]
+[
+	{
+		"id": "advice_iron_low_1",
+		"text": "For low hemoglobin, include iron-rich foods like lentils, spinach, beans, and lean red meat with vitamin C sources to improve absorption.",
+		"source": "Mayo Clinic"
+	},
+	{
+		"id": "advice_glucose_high_1",
+		"text": "For high glucose, reduce refined sugars, prioritize whole grains and vegetables, and target at least 150 minutes of moderate weekly activity.",
+		"source": "ADA"
+	},
+	{
+		"id": "advice_tsh_high_1",
+		"text": "Abnormal TSH may require clinician follow-up; maintain regular sleep, avoid abrupt iodine supplement changes, and monitor symptoms consistently.",
+		"source": "ATA"
+	},
+	{
+		"id": "advice_lipids_high_1",
+		"text": "For elevated LDL or total cholesterol, increase soluble fiber intake, reduce trans fats, and emphasize unsaturated fats from nuts and fish.",
+		"source": "AHA"
+	},
+	{
+		"id": "advice_triglycerides_high_1",
+		"text": "For high triglycerides, limit alcohol and added sugars, choose complex carbs, and include omega-3 rich foods such as salmon and walnuts.",
+		"source": "AHA"
+	},
+	{
+		"id": "advice_vitamin_d_low_1",
+		"text": "For low vitamin D, combine safe sunlight exposure with dietary sources like fortified milk, eggs, and fatty fish, and discuss supplementation with a clinician.",
+		"source": "NIH ODS"
+	},
+	{
+		"id": "advice_b12_low_1",
+		"text": "For low vitamin B12, include dairy, eggs, fish, and fortified cereals; vegetarians may need targeted supplementation under medical guidance.",
+		"source": "NIH ODS"
+	},
+	{
+		"id": "advice_general_followup_1",
+		"text": "Any persistent abnormal biomarker should be re-tested and interpreted with a healthcare professional in the context of symptoms and medical history.",
+		"source": "Clinical Best Practice"
+	}
+]
 
 

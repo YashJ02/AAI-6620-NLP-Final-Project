@@ -10,6 +10,7 @@ from src.extraction.surya_ocr_extractor import extract_text_surya
 from src.interpretation.rule_classifier import classify_records
 from src.interpretation.rule_classifier import summarize_statuses
 from src.ner.infer_pubmedbert import predict
+from src.recommendation.service import generate_recommendations
 
 
 def _extract(pdf_path: Path) -> dict:
@@ -54,6 +55,13 @@ def main() -> None:
     parsed_rows = _get_parsed_rows(extraction_output)
     interpreted_rows = classify_records(parsed_rows)
     interpretation_summary = summarize_statuses(interpreted_rows)
+    recommendation = generate_recommendations(
+        interpreted_rows=interpreted_rows,
+        ner_entities=ner_entities,
+        status_summary=interpretation_summary,
+        patient_id=extraction_output.get("document_id", pdf_path.stem),
+        top_k=5,
+    )
 
     output_payload = {
         "document_id": extraction_output.get("document_id", pdf_path.stem),
@@ -67,6 +75,11 @@ def main() -> None:
             "row_count": len(interpreted_rows),
             "status_summary": interpretation_summary,
             "rows": interpreted_rows,
+        },
+        "recommendation": {
+            "query": recommendation["query"],
+            "results": recommendation["results"],
+            "summary": recommendation["summary"],
         },
     }
 

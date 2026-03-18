@@ -146,6 +146,30 @@ Pipeline output:
 - `artifacts/sample_outputs/pipeline_output.json`
 - Includes extraction payload, NER entities, interpreted rows, and status summary
 
+## Phase 6 Quick Start (Recommendation Indexes)
+
+Build retrieval indexes for recommendation modules:
+
+```bash
+python scripts/build_indexes.py
+```
+
+Generated index artifacts:
+- `knowledge_base/retrieval_index/tfidf/tfidf_index.npz`
+- `knowledge_base/retrieval_index/faiss/faiss.index` (when semantic deps are available)
+
+## Phase 7 Quick Start (Evaluation)
+
+Run NER + retrieval evaluation:
+
+```bash
+python scripts/run_evaluation.py --data-dir data/processed --model-dir artifacts/models/pubmedbert_ner/model --retrieval-benchmark data/processed/retrieval_eval.jsonl --top-k 5 --output artifacts/metrics/evaluation_metrics.json
+```
+
+Evaluation output:
+- `artifacts/metrics/evaluation_metrics.json`
+- Contains NER token metrics and retrieval precision/recall/MRR
+
 ## Detailed Folder Structure (Implementation)
 
 Use the following structure to keep data, models, services, and experiments cleanly separated:
