@@ -78,10 +78,10 @@ def _bbox_to_percent(bbox: list[list[float]], image_w: int, image_h: int) -> dic
     }
 
 
-def _load_reader(languages: list[str]):
+def _load_reader(languages: list[str], gpu: bool):
     import easyocr
 
-    return easyocr.Reader(languages, gpu=False)
+    return easyocr.Reader(languages, gpu=gpu)
 
 
 def generate(
@@ -91,12 +91,13 @@ def generate(
     limit: int | None,
     min_confidence: float,
     languages: list[str],
+    gpu: bool,
 ) -> tuple[int, int]:
     tasks = json.loads(tasks_path.read_text(encoding="utf-8"))
     if not isinstance(tasks, list):
         raise ValueError("Expected task JSON list")
 
-    reader = _load_reader(languages)
+    reader = _load_reader(languages, gpu=gpu)
     used = tasks[:limit] if limit and limit > 0 else tasks
 
     emitted = 0
@@ -177,6 +178,11 @@ def main() -> None:
         default=["en"],
         help="EasyOCR language codes",
     )
+    parser.add_argument(
+        "--gpu",
+        action="store_true",
+        help="Enable GPU mode for EasyOCR (requires CUDA-capable torch build)",
+    )
     args = parser.parse_args()
 
     with_predictions, emitted = generate(
@@ -186,6 +192,7 @@ def main() -> None:
         limit=(args.limit if args.limit > 0 else None),
         min_confidence=float(args.min_confidence),
         languages=args.languages,
+        gpu=bool(args.gpu),
     )
     print(f"[OK] Tasks with weak predictions: {with_predictions}")
     print(f"[OK] Total predicted entities: {emitted}")

@@ -1,0 +1,580 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "image": "/data/local-files/?d=datasets/lbmaske/AHD-0425-PA-0007561_JITENDRA TRIVEDI DS_28-04-2025_1019-21_AM.pdf_page_9.png",
+      "image_path": "datasets/lbmaske/AHD-0425-PA-0007561_JITENDRA TRIVEDI DS_28-04-2025_1019-21_AM.pdf_page_9.png",
+      "file_name": "AHD-0425-PA-0007561_JITENDRA TRIVEDI DS_28-04-2025_1019-21_AM.pdf_page_9.png",
+      "doc_key": "AHD-0425-PA-0007561_JITENDRA TRIVEDI DS_28-04-2025_1019-21_AM",
+      "split": "val"
+    },
+    "annotations": [],
+    "predictions": [
+      {
+        "model_version": "easyocr-weak-v1",
+        "result": [
+          {
+            "id": "pred_1_1",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.2686,
+              "y": 10.6028,
+              "width": 13.3091,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.8617
+          },
+          {
+            "id": "pred_1_2",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 70.7199,
+              "y": 10.5173,
+              "width": 5.3842,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.9999
+          },
+          {
+            "id": "pred_1_3",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 79.9758,
+              "y": 10.6028,
+              "width": 5.4446,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.9998
+          },
+          {
+            "id": "pred_1_4",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 89.1107,
+              "y": 10.5173,
+              "width": 5.3842,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.9995
+          },
+          {
+            "id": "pred_1_5",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.2686,
+              "y": 11.8427,
+              "width": 12.4622,
+              "height": 1.2398,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.729
+          },
+          {
+            "id": "pred_1_14",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.2686,
+              "y": 17.8709,
+              "width": 13.1881,
+              "height": 1.1971,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9326
+          },
+          {
+            "id": "pred_1_25",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.2686,
+              "y": 23.8136,
+              "width": 13.1881,
+              "height": 1.2398,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9983
+          },
+          {
+            "id": "pred_1_60",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 70.7804,
+              "y": 39.7606,
+              "width": 5.2027,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "STATUS"
+              ]
+            },
+            "score": 1.0
+          },
+          {
+            "id": "pred_1_73",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 57.8342,
+              "y": 48.2685,
+              "width": 7.9855,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9997
+          },
+          {
+            "id": "pred_1_94",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 62.8474,
+              "width": 9.5584,
+              "height": 1.1971,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9968
+          },
+          {
+            "id": "pred_1_96",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 79.9758,
+              "y": 62.8474,
+              "width": 2.2989,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.9226
+          },
+          {
+            "id": "pred_1_97",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 89.1712,
+              "y": 62.8474,
+              "width": 2.2989,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.8955
+          },
+          {
+            "id": "pred_1_98",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 65.156,
+              "width": 8.2275,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9947
+          },
+          {
+            "id": "pred_1_100",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 79.9758,
+              "y": 65.2416,
+              "width": 3.0248,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.5753
+          },
+          {
+            "id": "pred_1_101",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 89.1712,
+              "y": 65.2416,
+              "width": 3.1458,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.8476
+          },
+          {
+            "id": "pred_1_110",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 72.4241,
+              "width": 8.8324,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9514
+          },
+          {
+            "id": "pred_1_115",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 74.8183,
+              "width": 8.9534,
+              "height": 1.1971,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9995
+          },
+          {
+            "id": "pred_1_120",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 77.2125,
+              "width": 8.9534,
+              "height": 1.1971,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9971
+          },
+          {
+            "id": "pred_1_122",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 70.6594,
+              "y": 77.2125,
+              "width": 4.1137,
+              "height": 1.1971,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.606
+          },
+          {
+            "id": "pred_1_125",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 79.6067,
+              "width": 8.9534,
+              "height": 1.1971,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9982
+          },
+          {
+            "id": "pred_1_127",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 70.7804,
+              "y": 79.6067,
+              "width": 3.1458,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.507
+          },
+          {
+            "id": "pred_1_129",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 89.1712,
+              "y": 79.6067,
+              "width": 3.1458,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.4763
+          },
+          {
+            "id": "pred_1_130",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 81.9153,
+              "width": 8.9534,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.7992
+          },
+          {
+            "id": "pred_1_135",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.3896,
+              "y": 84.3095,
+              "width": 8.9534,
+              "height": 1.2826,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.8362
+          },
+          {
+            "id": "pred_1_136",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 61.948,
+              "y": 84.395,
+              "width": 3.6298,
+              "height": 1.1971,
+              "rotation": 0,
+              "rectanglelabels": [
+                "BIOMARKER"
+              ]
+            },
+            "score": 0.9996
+          },
+          {
+            "id": "pred_1_137",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 70.7804,
+              "y": 84.395,
+              "width": 3.6298,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.9999
+          },
+          {
+            "id": "pred_1_138",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 79.9758,
+              "y": 84.395,
+              "width": 4.4767,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.9998
+          },
+          {
+            "id": "pred_1_139",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "original_width": 1653,
+            "original_height": 2339,
+            "image_rotation": 0,
+            "value": {
+              "x": 89.1712,
+              "y": 84.395,
+              "width": 4.5977,
+              "height": 1.1116,
+              "rotation": 0,
+              "rectanglelabels": [
+                "VALUE"
+              ]
+            },
+            "score": 0.8233
+          }
+        ]
+      }
+    ]
+  }
+]
