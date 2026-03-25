@@ -1,0 +1,12 @@
+<View>
+  <Header value="Blood Report Entity Labeling" />
+  <Text name="meta" value="Doc: $doc_key | Split: $split | File: $file_name" />
+  <Image name="image" value="$image" zoom="true" rotateControl="true" />
+  <RectangleLabels name="label" toName="image" strokeWidth="2">
+    <Label value="BIOMARKER" background="#2D6A4F" />
+    <Label value="VALUE" background="#1D3557" />
+    <Label value="UNIT" background="#6D597A" />
+    <Label value="REFERENCE_RANGE" background="#9C6644" />
+    <Label value="STATUS" background="#B56576" />
+  </RectangleLabels>
+</View>
