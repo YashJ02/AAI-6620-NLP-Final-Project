@@ -9,7 +9,6 @@ from src.extraction.router import route_pdf
 from src.extraction.surya_ocr_extractor import extract_text_surya
 from src.interpretation.rule_classifier import classify_records
 from src.interpretation.rule_classifier import summarize_statuses
-from src.ner.infer_pubmedbert import predict
 from src.recommendation.service import generate_recommendations
 
 
@@ -27,6 +26,15 @@ def _get_parsed_rows(extraction_output: dict) -> list[dict]:
     first_table = tables[0] if isinstance(tables[0], dict) else {}
     rows = first_table.get("rows", []) if isinstance(first_table, dict) else []
     return rows if isinstance(rows, list) else []
+
+
+def _predict_entities(text: str, model_dir: str) -> list[dict]:
+    try:
+        from src.ner.infer_pubmedbert import predict
+    except Exception as exc:
+        raise RuntimeError(f"NER runtime unavailable: {exc}") from exc
+
+    return predict(text=text, model_dir=model_dir)
 
 
 def main() -> None:
@@ -50,7 +58,7 @@ def main() -> None:
 
     extraction_output = _extract(pdf_path)
     full_text = extraction_output.get("full_text", "")
-    ner_entities = predict(text=full_text, model_dir=args.model_dir) if full_text else []
+    ner_entities = _predict_entities(text=full_text, model_dir=args.model_dir) if full_text else []
 
     parsed_rows = _get_parsed_rows(extraction_output)
     interpreted_rows = classify_records(parsed_rows)

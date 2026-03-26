@@ -4,10 +4,6 @@ from pydantic import BaseModel
 from pydantic import Field
 
 
-class HealthResponse(BaseModel):
-	status: str = "ok"
-
-
 class ExtractionRequest(BaseModel):
 	pdf_path: str = Field(..., description="Absolute or workspace-relative PDF path")
 

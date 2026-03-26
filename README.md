@@ -213,10 +213,6 @@ AAI-6620---NLP-Final-Project/
 |       |-- tfidf/
 |       `-- faiss/
 |-- src/
-|   |-- common/
-|   |   |-- constants.py
-|   |   |-- schema.py
-|   |   `-- logging_utils.py
 |   |-- extraction/
 |   |   |-- router.py
 |   |   |-- pymupdf_extractor.py
@@ -225,13 +221,10 @@ AAI-6620---NLP-Final-Project/
 |   |-- ner/
 |   |   |-- dataset_builder.py
 |   |   |-- train_pubmedbert.py
-|   |   |-- infer_pubmedbert.py
-|   |   `-- spacy_fallback.py
+|   |   `-- infer_pubmedbert.py
 |   |-- interpretation/
-|   |   |-- unit_normalizer.py
 |   |   |-- range_matcher.py
-|   |   |-- rule_classifier.py
-|   |   `-- ml_classifier.py
+|   |   `-- rule_classifier.py
 |   |-- recommendation/
 |   |   |-- tfidf_retriever.py
 |   |   |-- semantic_retriever.py
@@ -242,8 +235,7 @@ AAI-6620---NLP-Final-Project/
 |   |   |-- routes.py
 |   |   `-- models.py
 |   `-- frontend/
-|       |-- streamlit_app.py
-|       `-- plotly_components.py
+|       `-- streamlit_app.py
 |-- scripts/
 |   |-- run_extraction.py
 |   |-- run_annotation_export.py
@@ -288,16 +280,15 @@ Recommended ownership mapping:
 ## Current Status
 
 Completed:
-- Problem scoping and architecture design
-- Tech stack selection and research
-- Annotation schema and guideline drafting
-- Data source identification
-- Team task planning
+- End-to-end digital PDF pipeline (extraction -> NER -> interpretation -> recommendation)
+- FastAPI endpoints for extraction, NER, interpretation, recommendation, and full pipeline
+- Label Studio dataset conversion and PubMedBERT training/inference scripts
+- Retrieval and recommendation modules with TF-IDF + semantic retrieval
 
 Next:
-- Gather corpus files
-- Start Label Studio annotation
-- Implement Phase 1 extraction pipeline
+- Implement real OCR extraction for scanned PDFs in `surya_ocr_extractor.py`
+- Finalize annotation set and retrain NER with larger, cleaner labels
+- Add production smoke tests and refresh docs/contracts for release
 
 ## Team Responsibilities (Primary Ownership)
 

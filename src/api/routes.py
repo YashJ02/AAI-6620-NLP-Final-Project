@@ -15,7 +15,6 @@ from src.extraction.router import route_pdf
 from src.extraction.surya_ocr_extractor import extract_text_surya
 from src.interpretation.rule_classifier import classify_records
 from src.interpretation.rule_classifier import summarize_statuses
-from src.ner.infer_pubmedbert import predict
 from src.recommendation.service import generate_recommendations
 
 
@@ -29,6 +28,15 @@ def _extract_from_pdf(pdf_path: Path) -> dict:
 	return extract_text_surya(str(pdf_path))
 
 
+def _predict_entities(text: str, model_dir: str) -> list[dict]:
+	try:
+		from src.ner.infer_pubmedbert import predict
+	except Exception as exc:
+		raise RuntimeError(f"NER runtime unavailable: {exc}") from exc
+
+	return predict(text=text, model_dir=model_dir)
+
+
 @router.post("/extract")
 def extract_endpoint(payload: ExtractionRequest) -> dict:
 	pdf_path = Path(payload.pdf_path)
@@ -40,9 +48,11 @@ def extract_endpoint(payload: ExtractionRequest) -> dict:
 @router.post("/ner")
 def ner_endpoint(payload: NerRequest) -> dict:
 	try:
-		entities = predict(text=payload.text, model_dir=payload.model_dir)
+		entities = _predict_entities(text=payload.text, model_dir=payload.model_dir)
 	except FileNotFoundError as exc:
 		raise HTTPException(status_code=400, detail=str(exc)) from exc
+	except RuntimeError as exc:
+		raise HTTPException(status_code=500, detail=str(exc)) from exc
 	return {"entity_count": len(entities), "entities": entities}
 
 
@@ -75,9 +85,11 @@ def pipeline_endpoint(payload: PipelineRequest) -> dict:
 	full_text = extraction_output.get("full_text", "")
 
 	try:
-		ner_entities = predict(text=full_text, model_dir=payload.model_dir) if full_text else []
+		ner_entities = _predict_entities(text=full_text, model_dir=payload.model_dir) if full_text else []
 	except FileNotFoundError as exc:
 		raise HTTPException(status_code=400, detail=str(exc)) from exc
+	except RuntimeError as exc:
+		raise HTTPException(status_code=500, detail=str(exc)) from exc
 
 	tables = extraction_output.get("tables", [])
 	rows = []

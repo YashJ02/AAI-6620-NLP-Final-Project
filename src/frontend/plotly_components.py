@@ -1,2 +1,0 @@
-"""Reusable Plotly visual components."""
-
