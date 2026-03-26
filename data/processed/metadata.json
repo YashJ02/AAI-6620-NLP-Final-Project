@@ -1,0 +1,12 @@
+{
+  "total_examples": 0,
+  "train_examples": 0,
+  "val_examples": 0,
+  "test_examples": 0,
+  "labels": [
+    "BIOMARKER",
+    "REFERENCE_RANGE",
+    "UNIT",
+    "VALUE"
+  ]
+}

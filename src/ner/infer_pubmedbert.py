@@ -70,7 +70,10 @@ def predict(text: str, model_dir: str = "artifacts/models/pubmedbert_ner/model",
 
     all_entities: list[dict] = []
     for chunk_start, chunk_text in _split_text(text):
-        predictions = ner_pipeline(chunk_text, truncation=True, max_length=max_length)
+        try:
+            predictions = ner_pipeline(chunk_text, truncation=True, max_length=max_length)
+        except TypeError:
+            predictions = ner_pipeline(chunk_text)
         for pred in predictions:
             start = int(pred.get("start", 0)) + chunk_start
             end = int(pred.get("end", 0)) + chunk_start
