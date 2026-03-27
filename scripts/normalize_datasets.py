@@ -397,6 +397,22 @@ def _count_pdf_files(path: Path) -> int:
     return int(sum(1 for _ in path.rglob("*.pdf")))
 
 
+def _count_image_files(path: Path) -> int:
+    if not path.exists():
+        return 0
+    extensions = {"*.png", "*.jpg", "*.jpeg", "*.tif", "*.tiff", "*.bmp", "*.webp"}
+    count = 0
+    for pattern in extensions:
+        count += int(sum(1 for _ in path.rglob(pattern)))
+    return count
+
+
+def _count_json_files(path: Path) -> int:
+    if not path.exists():
+        return 0
+    return int(sum(1 for _ in path.rglob("*.json")))
+
+
 def _readiness_level(score: float) -> str:
     if score >= 0.8:
         return "high"
@@ -418,12 +434,16 @@ def build_data_position_report(
 
     pdf_digital = _count_pdf_files(data_dir / "raw" / "pdfs_digital")
     pdf_scanned = _count_pdf_files(data_dir / "raw" / "pdfs_scanned")
+    images_scanned = _count_image_files(data_dir / "raw" / "images_scanned")
+    images_reference = _count_image_files(data_dir / "raw" / "images_reference")
+    extracted_json = _count_json_files(data_dir / "interim" / "extracted_text")
     train_rows = _count_jsonl_rows(data_dir / "processed" / "train.jsonl")
     val_rows = _count_jsonl_rows(data_dir / "processed" / "val.jsonl")
     test_rows = _count_jsonl_rows(data_dir / "processed" / "test.jsonl")
     retrieval_eval_rows = _count_jsonl_rows(data_dir / "processed" / "retrieval_eval.jsonl")
 
-    extraction_score = min(1.0, (pdf_digital + pdf_scanned) / 50.0)
+    extraction_inputs = pdf_digital + pdf_scanned + images_scanned
+    extraction_score = min(1.0, extraction_inputs / 50.0)
     ner_score = min(1.0, (train_rows + val_rows + test_rows) / 300.0)
     interpretation_score = min(1.0, range_stats.get("final_rows", 0) / 40.0)
     recommendation_score = min(1.0, food_stats.get("final_rows", 0) / 5000.0)
@@ -442,6 +462,10 @@ def build_data_position_report(
             "extraction": {
                 "pdf_digital": int(pdf_digital),
                 "pdf_scanned": int(pdf_scanned),
+                "images_scanned": int(images_scanned),
+                "images_reference": int(images_reference),
+                "extraction_inputs": int(extraction_inputs),
+                "extracted_json_outputs": int(extracted_json),
                 "score": round(float(extraction_score), 3),
                 "level": _readiness_level(extraction_score),
             },
@@ -493,7 +517,7 @@ def build_data_position_report(
         f"- Biomarker observation rows: {observation_stats.get('rows', 0)}",
         "",
         "## Immediate Next Gaps",
-        "- Add real PDFs into data/raw/pdfs_digital and data/raw/pdfs_scanned.",
+        "- Run extraction across data/raw to populate data/interim/extracted_text JSON outputs.",
         "- Create text-span Label Studio annotations and export train/val/test JSONL.",
         "- Expand retrieval_eval.jsonl with more benchmark queries.",
     ]

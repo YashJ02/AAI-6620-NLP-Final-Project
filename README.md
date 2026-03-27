@@ -80,21 +80,22 @@ By the end of this project, we aim to deliver:
 
 ## Phase 1 Quick Start (Extraction)
 
-Run extraction on one PDF:
+Run extraction on one PDF or image:
 
 ```bash
 python scripts/run_extraction.py --input data/raw/pdfs_digital/sample.pdf
 ```
 
-Run extraction on a folder of PDFs:
+Run extraction on a folder of supported documents:
 
 ```bash
 python scripts/run_extraction.py --input data/raw --output-dir data/interim/extracted_text
 ```
 
 Output format:
-- One JSON file per PDF in `data/interim/extracted_text/`
+- One JSON file per input document in `data/interim/extracted_text/`
 - Includes routed engine (`pymupdf` or `surya`), page text, blocks, and metadata
+- Supported inputs: `.pdf`, `.png`, `.jpg`, `.jpeg`, `.tif`, `.tiff`, `.bmp`, `.webp`
 
 ## Phase 2 Quick Start (Annotation to NER Dataset)
 

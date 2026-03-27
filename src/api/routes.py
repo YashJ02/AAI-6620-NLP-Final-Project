@@ -11,7 +11,8 @@ from src.api.models import NerRequest
 from src.api.models import PipelineRequest
 from src.api.models import RecommendationRequest
 from src.extraction.pymupdf_extractor import extract_text_pymupdf
-from src.extraction.router import route_pdf
+from src.extraction.router import is_supported_document
+from src.extraction.router import route_document
 from src.extraction.surya_ocr_extractor import extract_text_surya
 from src.interpretation.rule_classifier import classify_records
 from src.interpretation.rule_classifier import summarize_statuses
@@ -21,11 +22,11 @@ from src.recommendation.service import generate_recommendations
 router = APIRouter(prefix="/v1", tags=["pipeline"])
 
 
-def _extract_from_pdf(pdf_path: Path) -> dict:
-	engine = route_pdf(str(pdf_path))
+def _extract_from_source(source_path: Path) -> dict:
+	engine = route_document(str(source_path))
 	if engine == "pymupdf":
-		return extract_text_pymupdf(str(pdf_path))
-	return extract_text_surya(str(pdf_path))
+		return extract_text_pymupdf(str(source_path))
+	return extract_text_surya(str(source_path))
 
 
 def _predict_entities(text: str, model_dir: str) -> list[dict]:
@@ -39,10 +40,10 @@ def _predict_entities(text: str, model_dir: str) -> list[dict]:
 
 @router.post("/extract")
 def extract_endpoint(payload: ExtractionRequest) -> dict:
-	pdf_path = Path(payload.pdf_path)
-	if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
-		raise HTTPException(status_code=400, detail="Invalid PDF path.")
-	return _extract_from_pdf(pdf_path)
+	source_path = Path(payload.pdf_path)
+	if not source_path.exists() or not is_supported_document(source_path):
+		raise HTTPException(status_code=400, detail="Invalid extraction input path.")
+	return _extract_from_source(source_path)
 
 
 @router.post("/ner")
@@ -77,11 +78,11 @@ def recommend_endpoint(payload: RecommendationRequest) -> dict:
 
 @router.post("/pipeline")
 def pipeline_endpoint(payload: PipelineRequest) -> dict:
-	pdf_path = Path(payload.pdf_path)
-	if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
-		raise HTTPException(status_code=400, detail="Invalid PDF path.")
+	source_path = Path(payload.pdf_path)
+	if not source_path.exists() or not is_supported_document(source_path):
+		raise HTTPException(status_code=400, detail="Invalid extraction input path.")
 
-	extraction_output = _extract_from_pdf(pdf_path)
+	extraction_output = _extract_from_source(source_path)
 	full_text = extraction_output.get("full_text", "")
 
 	try:
@@ -102,13 +103,13 @@ def pipeline_endpoint(payload: PipelineRequest) -> dict:
 		interpreted_rows=interpreted_rows,
 		ner_entities=ner_entities,
 		status_summary=status_summary,
-		patient_id=extraction_output.get("document_id", pdf_path.stem),
+		patient_id=extraction_output.get("document_id", source_path.stem),
 		top_k=5,
 	)
 
 	return {
-		"document_id": extraction_output.get("document_id", pdf_path.stem),
-		"source_path": str(pdf_path),
+		"document_id": extraction_output.get("document_id", source_path.stem),
+		"source_path": str(source_path),
 		"extraction": extraction_output,
 		"ner": {
 			"entity_count": len(ner_entities),

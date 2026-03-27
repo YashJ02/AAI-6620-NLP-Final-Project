@@ -26,6 +26,17 @@ def _create_scanned_style_pdf(out_path: Path) -> None:
     doc.close()
 
 
+def _create_scanned_style_image(out_path: Path) -> None:
+    pil = pytest.importorskip("PIL.Image")
+    draw_mod = pytest.importorskip("PIL.ImageDraw")
+
+    img = pil.new("RGB", (900, 1200), color="white")
+    draw = draw_mod.Draw(img)
+    draw.text((60, 120), "WBC 6.2 x10^9/L 4.0-11.0", fill="black")
+    draw.text((60, 170), "PLATELETS 220 x10^9/L 150-450", fill="black")
+    img.save(out_path)
+
+
 def test_extract_text_surya_on_scanned_pdf(tmp_path: Path):
     try:
         import easyocr  # noqa: F401
@@ -45,3 +56,25 @@ def test_extract_text_surya_on_scanned_pdf(tmp_path: Path):
     assert "metadata" in result
     assert "tables" in result
     assert result["metadata"]["page_count"] == 1
+
+
+def test_extract_text_surya_on_image(tmp_path: Path):
+    try:
+        import easyocr  # noqa: F401
+    except Exception as exc:
+        pytest.skip(f"easyocr runtime unavailable: {exc}")
+
+    image_path = tmp_path / "scanned_sample.png"
+    _create_scanned_style_image(image_path)
+
+    result = extract_text_surya(str(image_path))
+
+    assert result["engine"] == "surya"
+    assert result["document_id"] == "scanned_sample"
+    assert isinstance(result["pages"], list)
+    assert len(result["pages"]) == 1
+    assert "full_text" in result
+    assert "metadata" in result
+    assert "tables" in result
+    assert result["metadata"]["page_count"] == 1
+    assert result["metadata"]["source_type"] == "image"

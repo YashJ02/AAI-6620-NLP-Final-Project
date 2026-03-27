@@ -5,7 +5,10 @@ from pydantic import Field
 
 
 class ExtractionRequest(BaseModel):
-	pdf_path: str = Field(..., description="Absolute or workspace-relative PDF path")
+	pdf_path: str = Field(
+		...,
+		description="Absolute or workspace-relative extraction input path (.pdf/.png/.jpg/.jpeg/.tif/.tiff/.bmp/.webp)",
+	)
 
 
 class NerRequest(BaseModel):
@@ -18,7 +21,7 @@ class InterpretationRequest(BaseModel):
 
 
 class PipelineRequest(BaseModel):
-	pdf_path: str
+	pdf_path: str = Field(..., description="Path to extraction input (PDF or image)")
 	model_dir: str = "artifacts/models/pubmedbert_ner/model"
 
 

@@ -5,28 +5,46 @@ import json
 from pathlib import Path
 
 from src.extraction.pymupdf_extractor import extract_text_pymupdf
-from src.extraction.router import route_pdf
+from src.extraction.router import is_supported_document
+from src.extraction.router import route_document
 from src.extraction.surya_ocr_extractor import extract_text_surya
 
 
-def _collect_pdfs(input_path: Path) -> list[Path]:
-    if input_path.is_file() and input_path.suffix.lower() == ".pdf":
+def _collect_documents(input_path: Path) -> list[Path]:
+    if input_path.is_file() and is_supported_document(input_path):
         return [input_path]
     if input_path.is_dir():
-        return sorted(input_path.rglob("*.pdf"))
+        return sorted(
+            [
+                candidate
+                for candidate in input_path.rglob("*")
+                if candidate.is_file() and is_supported_document(candidate)
+            ]
+        )
     return []
 
 
-def _extract_one(pdf_path: Path) -> dict:
-    engine = route_pdf(str(pdf_path))
+def _extract_one(document_path: Path) -> dict:
+    engine = route_document(str(document_path))
     if engine == "pymupdf":
-        return extract_text_pymupdf(str(pdf_path))
-    return extract_text_surya(str(pdf_path))
+        return extract_text_pymupdf(str(document_path))
+    return extract_text_surya(str(document_path))
+
+
+def _output_name(document_path: Path) -> str:
+    if document_path.suffix.lower() == ".pdf":
+        return f"{document_path.stem}.json"
+    suffix_slug = document_path.suffix.lower().replace(".", "")
+    return f"{document_path.stem}_{suffix_slug}.json"
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Run Phase 1 PDF extraction")
-    parser.add_argument("--input", required=True, help="PDF file or directory containing PDFs")
+    parser = argparse.ArgumentParser(description="Run Phase 1 document extraction")
+    parser.add_argument(
+        "--input",
+        required=True,
+        help="Supported document file or directory (.pdf, .png, .jpg, .jpeg, .tif, .tiff, .bmp, .webp)",
+    )
     parser.add_argument(
         "--output-dir",
         default="data/interim/extracted_text",
@@ -38,19 +56,19 @@ def main() -> None:
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    pdf_files = _collect_pdfs(input_path)
-    if not pdf_files:
-        raise FileNotFoundError(f"No PDF files found at: {input_path}")
+    input_files = _collect_documents(input_path)
+    if not input_files:
+        raise FileNotFoundError(f"No supported document files found at: {input_path}")
 
     processed = 0
-    for pdf_path in pdf_files:
-        extracted = _extract_one(pdf_path)
-        output_path = output_dir / f"{pdf_path.stem}.json"
+    for input_file in input_files:
+        extracted = _extract_one(input_file)
+        output_path = output_dir / _output_name(input_file)
         output_path.write_text(json.dumps(extracted, indent=2), encoding="utf-8")
         processed += 1
-        print(f"[OK] {pdf_path.name} -> {output_path}")
+        print(f"[OK] {input_file.name} -> {output_path}")
 
-    print(f"Completed extraction for {processed} file(s).")
+    print(f"Completed extraction for {processed} document(s).")
 
 
 if __name__ == "__main__":

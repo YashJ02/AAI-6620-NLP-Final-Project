@@ -5,18 +5,19 @@ import json
 from pathlib import Path
 
 from src.extraction.pymupdf_extractor import extract_text_pymupdf
-from src.extraction.router import route_pdf
+from src.extraction.router import is_supported_document
+from src.extraction.router import route_document
 from src.extraction.surya_ocr_extractor import extract_text_surya
 from src.interpretation.rule_classifier import classify_records
 from src.interpretation.rule_classifier import summarize_statuses
 from src.recommendation.service import generate_recommendations
 
 
-def _extract(pdf_path: Path) -> dict:
-    engine = route_pdf(str(pdf_path))
+def _extract(document_path: Path) -> dict:
+    engine = route_document(str(document_path))
     if engine == "pymupdf":
-        return extract_text_pymupdf(str(pdf_path))
-    return extract_text_surya(str(pdf_path))
+        return extract_text_pymupdf(str(document_path))
+    return extract_text_surya(str(document_path))
 
 
 def _get_parsed_rows(extraction_output: dict) -> list[dict]:
@@ -39,7 +40,11 @@ def _predict_entities(text: str, model_dir: str) -> list[dict]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run end-to-end blood report pipeline")
-    parser.add_argument("--input", required=True, help="Path to a PDF file")
+    parser.add_argument(
+        "--input",
+        required=True,
+        help="Path to a supported extraction input (.pdf, .png, .jpg, .jpeg, .tif, .tiff, .bmp, .webp)",
+    )
     parser.add_argument(
         "--model-dir",
         default="artifacts/models/pubmedbert_ner/model",
@@ -52,11 +57,11 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    pdf_path = Path(args.input)
-    if not pdf_path.exists() or pdf_path.suffix.lower() != ".pdf":
-        raise FileNotFoundError(f"PDF input not found: {args.input}")
+    source_path = Path(args.input)
+    if not source_path.exists() or not is_supported_document(source_path):
+        raise FileNotFoundError(f"Supported input not found: {args.input}")
 
-    extraction_output = _extract(pdf_path)
+    extraction_output = _extract(source_path)
     full_text = extraction_output.get("full_text", "")
     ner_entities = _predict_entities(text=full_text, model_dir=args.model_dir) if full_text else []
 
@@ -67,13 +72,13 @@ def main() -> None:
         interpreted_rows=interpreted_rows,
         ner_entities=ner_entities,
         status_summary=interpretation_summary,
-        patient_id=extraction_output.get("document_id", pdf_path.stem),
+        patient_id=extraction_output.get("document_id", source_path.stem),
         top_k=5,
     )
 
     output_payload = {
-        "document_id": extraction_output.get("document_id", pdf_path.stem),
-        "source_path": str(pdf_path),
+        "document_id": extraction_output.get("document_id", source_path.stem),
+        "source_path": str(source_path),
         "extraction": extraction_output,
         "ner": {
             "entity_count": len(ner_entities),
