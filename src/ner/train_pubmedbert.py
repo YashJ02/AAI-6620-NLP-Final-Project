@@ -153,19 +153,14 @@ def train(config_path: str, data_dir: str, output_dir: str) -> None:
         report_to=[],
     )
 
-    trainer_kwargs = {
-        "model": model,
-        "args": args,
-        "train_dataset": train_dataset,
-        "eval_dataset": val_dataset,
-        "compute_metrics": _compute_metrics,
-    }
-
-    # transformers>=5 renamed `tokenizer` to `processing_class`.
-    try:
-        trainer = Trainer(tokenizer=tokenizer, **trainer_kwargs)
-    except TypeError:
-        trainer = Trainer(processing_class=tokenizer, **trainer_kwargs)
+    trainer = Trainer(
+        model=model,
+        args=args,
+        train_dataset=train_dataset,
+        eval_dataset=val_dataset,
+        tokenizer=tokenizer,
+        compute_metrics=_compute_metrics,
+    )
 
     trainer.train()
     trainer.save_model(str(out_dir / "model"))
