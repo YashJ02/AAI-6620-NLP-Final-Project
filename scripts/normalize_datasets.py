@@ -285,7 +285,13 @@ def convert_reference_ranges(datasets_dir: Path, ranges_csv: Path, unit_map_csv:
     merged.to_csv(ranges_csv, index=False)
 
     # Seed identity conversions so the map is not empty.
-    units = sorted({u for u in merged["unit"].astype(str).tolist() if u.strip()})
+    units = sorted(
+        {
+            str(u).strip()
+            for u in merged["unit"].tolist()
+            if pd.notna(u) and str(u).strip()
+        }
+    )
     identity = pd.DataFrame(
         {
             "biomarker": ["*" for _ in units],

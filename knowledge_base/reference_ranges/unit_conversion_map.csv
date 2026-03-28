@@ -7,5 +7,8 @@ biomarker,from_unit,to_unit,multiplier,offset
 *,fL,fL,1.0,0.0
 *,g/dL,g/dL,1.0,0.0
 *,mU/L,mU/L,1.0,0.0
+*,mg/dL,mg/dL,1.0,0.0
+*,mmHg,mmHg,1.0,0.0
 *,ng/dL,ng/dL,1.0,0.0
+*,pg,pg,1.0,0.0
 *,ug/L,ug/L,1.0,0.0

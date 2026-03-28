@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 import fitz
@@ -27,8 +28,17 @@ def _get_ocr_reader():
             "Install dependencies from requirements.txt and ensure torch runtime is healthy."
         ) from exc
 
-    # Prefer CPU by default for portability. If CUDA build is available, EasyOCR can still leverage it.
-    _OCR_READER = easyocr.Reader(["en"], gpu=False)
+    prefer_gpu = os.getenv("OCR_USE_GPU", "1").strip().lower() not in {"0", "false", "no"}
+    use_gpu = False
+    if prefer_gpu:
+        try:
+            import torch
+
+            use_gpu = bool(torch.cuda.is_available())
+        except Exception:
+            use_gpu = False
+
+    _OCR_READER = easyocr.Reader(["en"], gpu=use_gpu)
     return _OCR_READER
 
 

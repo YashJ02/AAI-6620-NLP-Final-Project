@@ -2,3 +2,119 @@
 {"query": "high glucose diet activity advice", "relevant_ids": ["advice_glucose_high_1"]}
 {"query": "high LDL cholesterol soluble fiber foods", "relevant_ids": ["advice_lipids_high_1", "usda_4"]}
 {"query": "low vitamin d dietary sources", "relevant_ids": ["advice_vitamin_d_low_1", "usda_9"]}
+{"query": "high Blood glucose nutrition advice", "relevant_ids": ["advice_glucose_high_1", "usda_27148", "usda_50494"]}
+{"query": "low Blood glucose nutrition advice", "relevant_ids": ["advice_glucose_high_1", "usda_51502", "usda_49567"]}
+{"query": "normal range support for Blood glucose", "relevant_ids": ["advice_glucose_high_1", "advice_iron_low_1", "usda_63279"]}
+{"query": "high Dansite (Strip) nutrition advice", "relevant_ids": ["usda_36732", "usda_36759", "usda_36752"]}
+{"query": "low Dansite (Strip) nutrition advice", "relevant_ids": ["usda_36732", "usda_36759", "usda_36752"]}
+{"query": "normal range support for Dansite (Strip)", "relevant_ids": ["usda_36732", "usda_36759", "usda_36752"]}
+{"query": "high Diastolic BP nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Diastolic BP nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Diastolic BP", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Eritrosit nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Eritrosit nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Eritrosit", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Ferritin nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Ferritin nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Ferritin", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Glikozile Hemoglobin (HbA1c) nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Glikozile Hemoglobin (HbA1c) nutrition advice", "relevant_ids": ["advice_iron_low_1", "usda_51502", "usda_49567"]}
+{"query": "normal range support for Glikozile Hemoglobin (HbA1c)", "relevant_ids": ["advice_iron_low_1", "usda_63271", "usda_63279"]}
+{"query": "high HDL nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low HDL nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for HDL", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Haemoglobin nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Haemoglobin nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Haemoglobin", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high HbA1C nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low HbA1C nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for HbA1C", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Hematokrit nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Hematokrit nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Hematokrit", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Hemoglobin nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Hemoglobin nutrition advice", "relevant_ids": ["advice_iron_low_1", "usda_51502", "usda_49567"]}
+{"query": "normal range support for Hemoglobin", "relevant_ids": ["advice_iron_low_1", "usda_63271", "usda_63279"]}
+{"query": "high LDL nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low LDL nutrition advice", "relevant_ids": ["advice_lipids_high_1", "usda_51502", "usda_49567"]}
+{"query": "normal range support for LDL", "relevant_ids": ["advice_lipids_high_1", "advice_iron_low_1", "usda_63279"]}
+{"query": "high Lenfosit% nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Lenfosit% nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Lenfosit%", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Lökosit nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Lökosit nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Lökosit", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high MCH nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low MCH nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for MCH", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high MCHC nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low MCHC nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for MCHC", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high MCV nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low MCV nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for MCV", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Monosit% nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Monosit% nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Monosit%", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Nötrofil% nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Nötrofil% nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Nötrofil%", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high PCT nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low PCT nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for PCT", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high PDW nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low PDW nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for PDW", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Platelet Count nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Platelet Count nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Platelet Count", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high RDW nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low RDW nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for RDW", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high RDW-SD nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low RDW-SD nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for RDW-SD", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Red Blood Cells nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Red Blood Cells nutrition advice", "relevant_ids": ["usda_46416", "usda_46331", "usda_46419"]}
+{"query": "normal range support for Red Blood Cells", "relevant_ids": ["usda_46419", "usda_46411", "usda_46422"]}
+{"query": "high Serbest T4 nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Serbest T4 nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Serbest T4", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Systolic BP nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Systolic BP nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Systolic BP", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high Total IgE nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Total IgE nutrition advice", "relevant_ids": ["advice_lipids_high_1", "usda_51502", "usda_49567"]}
+{"query": "normal range support for Total IgE", "relevant_ids": ["advice_lipids_high_1", "advice_iron_low_1", "usda_63279"]}
+{"query": "high Triglycerides nutrition advice", "relevant_ids": ["advice_triglycerides_high_1", "usda_27148", "usda_50494"]}
+{"query": "low Triglycerides nutrition advice", "relevant_ids": ["advice_triglycerides_high_1", "usda_51502", "usda_49567"]}
+{"query": "normal range support for Triglycerides", "relevant_ids": ["advice_triglycerides_high_1", "advice_iron_low_1", "usda_63279"]}
+{"query": "high Trombosit nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low Trombosit nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for Trombosit", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high White Blood Cells nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low White Blood Cells nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for White Blood Cells", "relevant_ids": ["usda_60917", "usda_60926", "usda_61301"]}
+{"query": "high age nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low age nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for age", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high bmi nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low bmi nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for bmi", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high cholesterol nutrition advice", "relevant_ids": ["usda_50492", "usda_27148", "usda_50494"]}
+{"query": "low cholesterol nutrition advice", "relevant_ids": ["usda_17785", "usda_16906", "usda_63031"]}
+{"query": "normal range support for cholesterol", "relevant_ids": ["usda_5486", "usda_10301", "usda_10334"]}
+{"query": "high creatinine nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low creatinine nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for creatinine", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high diabetes nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low diabetes nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for diabetes", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high glucose nutrition advice", "relevant_ids": ["advice_glucose_high_1", "usda_27148", "usda_50494"]}
+{"query": "low glucose nutrition advice", "relevant_ids": ["advice_glucose_high_1", "usda_51502", "usda_49567"]}
+{"query": "normal range support for glucose", "relevant_ids": ["advice_glucose_high_1", "advice_iron_low_1", "usda_63279"]}
+{"query": "high hypertension nutrition advice", "relevant_ids": ["usda_27148", "usda_50494", "usda_27146"]}
+{"query": "low hypertension nutrition advice", "relevant_ids": ["usda_51502", "usda_49567", "usda_63055"]}
+{"query": "normal range support for hypertension", "relevant_ids": ["usda_63279", "usda_63278", "usda_63277"]}
+{"query": "high pH (Strip) nutrition advice", "relevant_ids": ["usda_36732", "usda_36759", "usda_36752"]}
+{"query": "low pH (Strip) nutrition advice", "relevant_ids": ["usda_36732", "usda_36759", "usda_36752"]}
