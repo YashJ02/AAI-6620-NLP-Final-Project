@@ -1,0 +1,699 @@
+{
+  "document_id": "GUR-0425-PA-0056422_CASHLESS CLAIM FILE GAURAB PATHAK_0001_compressed_27-04-2025_0804-45_PM@E.pdf_page_37",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056422_CASHLESS CLAIM FILE GAURAB PATHAK_0001_compressed_27-04-2025_0804-45_PM@E.pdf_page_37.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "spirolabs\nName\nMr GAURAV PATHAK\nCollected\n24/Apr{2025 05:23PM\nPatient\nReceived\n24/4pr/2025 06.23PM\nAge{Gender\n39 Y 0 M 0 D /M\n26/Apr/2025 06:51PM\nVisit ID\nSPI1917\nReported\nStatus\nFinal Renor\nUHIOYN?\nClient Code\n0ji\nRef, BY\nDr.DR KUNAL\nMEDUX HOSPITAL\nBarcode No\n10001965\nPane Name\nDEPARTMENT OF SEROLOGY\nUri\nBoRel_Ringe\nRult\nTeaN n\"\nSCRUB TYPHUS -IgMiggilg4\n5ample Typa\nSERUV\nNEGATIVE~POSITIVE\nScrun Typhus IgM1\nNEGAMVE\nRAD BEMUN HROMA HXRAFHIC ASsAY\nNECATME-Po8 TNVE\nScrub Typhu: Igc\nNECATIVE\nRAPDD MMUNUTHIROVATOGRAMHIC ASSAY\nEnd 0f Report\nai\"f\nDr Pankaisiutna\n(Microblo ogibt)\nNOTE Tala dacmanis ral vald Icr mcilro cqal purtoze\nM134-670887\nNi roptrte Are rorelar d cintaly\ncusidmercattusktolgu I\nVie ieuraie blorm noormacaca\nYeuJr * Jly requested 1o\nistng Ylu 9 Bready",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            429.0,
+            52.0,
+            1063.0,
+            240.0
+          ],
+          "text": "spirolabs",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            420.0,
+            240.0,
+            446.0
+          ],
+          "text": "Name",
+          "confidence": 0.8391
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            325.0,
+            407.0,
+            637.0,
+            447.0
+          ],
+          "text": "Mr GAURAV PATHAK",
+          "confidence": 0.9702
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            398.0,
+            905.0,
+            437.0
+          ],
+          "text": "Collected",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            391.0,
+            1325.0,
+            435.0
+          ],
+          "text": "24/Apr{2025 05:23PM",
+          "confidence": 0.669
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            422.0,
+            157.0,
+            452.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9239
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            436.0,
+            901.0,
+            473.0
+          ],
+          "text": "Received",
+          "confidence": 0.9319
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            425.0,
+            1325.0,
+            470.0
+          ],
+          "text": "24/4pr/2025 06.23PM",
+          "confidence": 0.2526
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            450.0,
+            219.0,
+            494.0
+          ],
+          "text": "Age{Gender",
+          "confidence": 0.8524
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            327.0,
+            443.0,
+            553.0,
+            483.0
+          ],
+          "text": "39 Y 0 M 0 D /M",
+          "confidence": 0.78
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            463.0,
+            1327.0,
+            506.0
+          ],
+          "text": "26/Apr/2025 06:51PM",
+          "confidence": 0.3769
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            492.0,
+            164.0,
+            524.0
+          ],
+          "text": "Visit ID",
+          "confidence": 0.2328
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            328.0,
+            484.0,
+            446.0,
+            516.0
+          ],
+          "text": "SPI1917",
+          "confidence": 0.9298
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            472.0,
+            903.0,
+            509.0
+          ],
+          "text": "Reported",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            776.0,
+            510.0,
+            870.0,
+            540.0
+          ],
+          "text": "Status",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            504.0,
+            1202.0,
+            536.0
+          ],
+          "text": "Final Renor",
+          "confidence": 0.8238
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            526.0,
+            180.0,
+            558.0
+          ],
+          "text": "UHIOYN?",
+          "confidence": 0.2088
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            544.0,
+            938.0,
+            576.0
+          ],
+          "text": "Client Code",
+          "confidence": 0.7805
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            538.0,
+            1088.0,
+            570.0
+          ],
+          "text": "0ji",
+          "confidence": 0.1915
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            557.0,
+            163.0,
+            596.0
+          ],
+          "text": "Ref, BY",
+          "confidence": 0.6513
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            329.0,
+            553.0,
+            513.0,
+            589.0
+          ],
+          "text": "Dr.DR KUNAL",
+          "confidence": 0.5099
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            331.0,
+            584.0,
+            583.0,
+            623.0
+          ],
+          "text": "MEDUX HOSPITAL",
+          "confidence": 0.8589
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            580.0,
+            934.0,
+            608.0
+          ],
+          "text": "Barcode No",
+          "confidence": 0.5209
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            569.0,
+            1171.0,
+            607.0
+          ],
+          "text": "10001965",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            596.0,
+            224.0,
+            628.0
+          ],
+          "text": "Pane Name",
+          "confidence": 0.9599
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            623.0,
+            990.0,
+            671.0
+          ],
+          "text": "DEPARTMENT OF SEROLOGY",
+          "confidence": 0.8422
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1022.0,
+            666.0,
+            1072.0,
+            692.0
+          ],
+          "text": "Uri",
+          "confidence": 0.5855
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1234.0,
+            659.0,
+            1400.0,
+            687.0
+          ],
+          "text": "BoRel_Ringe",
+          "confidence": 0.2839
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            676.0,
+            710.0,
+            700.0
+          ],
+          "text": "Rult",
+          "confidence": 0.5559
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            690.0,
+            158.0,
+            716.0
+          ],
+          "text": "TeaN n\"",
+          "confidence": 0.1185
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            765.0,
+            397.0,
+            805.0
+          ],
+          "text": "SCRUB TYPHUS -IgMiggilg4",
+          "confidence": 0.4368
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            60.0,
+            816.0,
+            212.0,
+            846.0
+          ],
+          "text": "5ample Typa",
+          "confidence": 0.5434
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            810.0,
+            322.0,
+            842.0
+          ],
+          "text": "SERUV",
+          "confidence": 0.4153
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            824.0,
+            1449.0,
+            860.0
+          ],
+          "text": "NEGATIVE~POSITIVE",
+          "confidence": 0.5496
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            852.0,
+            281.0,
+            884.0
+          ],
+          "text": "Scrun Typhus IgM1",
+          "confidence": 0.1828
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            840.0,
+            742.0,
+            872.0
+          ],
+          "text": "NEGAMVE",
+          "confidence": 0.3111
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            871.0,
+            571.0,
+            911.0
+          ],
+          "text": "RAD BEMUN HROMA HXRAFHIC ASsAY",
+          "confidence": 0.0594
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            884.0,
+            1447.0,
+            921.0
+          ],
+          "text": "NECATME-Po8 TNVE",
+          "confidence": 0.1991
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            914.0,
+            278.0,
+            946.0
+          ],
+          "text": "Scrub Typhu: Igc",
+          "confidence": 0.2893
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            899.0,
+            745.0,
+            935.0
+          ],
+          "text": "NECATIVE",
+          "confidence": 0.9677
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            930.0,
+            565.0,
+            975.0
+          ],
+          "text": "RAPDD MMUNUTHIROVATOGRAMHIC ASSAY",
+          "confidence": 0.121
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            698.0,
+            1002.0,
+            866.0,
+            1032.0
+          ],
+          "text": "End 0f Report",
+          "confidence": 0.4615
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1013.0,
+            1882.0,
+            1242.0,
+            1960.0
+          ],
+          "text": "ai\"f",
+          "confidence": 0.2286
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1042.0,
+            1990.0,
+            1254.0,
+            2020.0
+          ],
+          "text": "Dr Pankaisiutna",
+          "confidence": 0.171
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            2014.0,
+            1231.0,
+            2053.0
+          ],
+          "text": "(Microblo ogibt)",
+          "confidence": 0.1606
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            2112.0,
+            750.0,
+            2139.0
+          ],
+          "text": "NOTE Tala dacmanis ral vald Icr mcilro cqal purtoze",
+          "confidence": 0.033
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            2112.0,
+            1142.0,
+            2138.0
+          ],
+          "text": "M134-670887",
+          "confidence": 0.4327
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            2142.0,
+            508.0,
+            2172.0
+          ],
+          "text": "Ni roptrte Are rorelar d cintaly",
+          "confidence": 0.0491
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            864.0,
+            2158.0,
+            1124.0,
+            2184.0
+          ],
+          "text": "cusidmercattusktolgu I",
+          "confidence": 0.0183
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            2176.0,
+            554.0,
+            2202.0
+          ],
+          "text": "Vie ieuraie blorm noormacaca",
+          "confidence": 0.0048
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            2206.0,
+            452.0,
+            2234.0
+          ],
+          "text": "YeuJr * Jly requested 1o",
+          "confidence": 0.1018
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            2234.0,
+            400.0,
+            2266.0
+          ],
+          "text": "istng Ylu 9 Bready",
+          "confidence": 0.0627
+        }
+      ]
+    }
+  ],
+  "full_text": "spirolabs\nName\nMr GAURAV PATHAK\nCollected\n24/Apr{2025 05:23PM\nPatient\nReceived\n24/4pr/2025 06.23PM\nAge{Gender\n39 Y 0 M 0 D /M\n26/Apr/2025 06:51PM\nVisit ID\nSPI1917\nReported\nStatus\nFinal Renor\nUHIOYN?\nClient Code\n0ji\nRef, BY\nDr.DR KUNAL\nMEDUX HOSPITAL\nBarcode No\n10001965\nPane Name\nDEPARTMENT OF SEROLOGY\nUri\nBoRel_Ringe\nRult\nTeaN n\"\nSCRUB TYPHUS -IgMiggilg4\n5ample Typa\nSERUV\nNEGATIVE~POSITIVE\nScrun Typhus IgM1\nNEGAMVE\nRAD BEMUN HROMA HXRAFHIC ASsAY\nNECATME-Po8 TNVE\nScrub Typhu: Igc\nNECATIVE\nRAPDD MMUNUTHIROVATOGRAMHIC ASSAY\nEnd 0f Report\nai\"f\nDr Pankaisiutna\n(Microblo ogibt)\nNOTE Tala dacmanis ral vald Icr mcilro cqal purtoze\nM134-670887\nNi roptrte Are rorelar d cintaly\ncusidmercattusktolgu I\nVie ieuraie blorm noormacaca\nYeuJr * Jly requested 1o\nistng Ylu 9 Bready",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SPI1",
+          "biomarker_normalized": "SPI1",
+          "value": "917",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SPI1917",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "End",
+          "biomarker_normalized": "End",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "End 0f Report",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "M1",
+          "biomarker_normalized": "M1",
+          "value": "34",
+          "unit": "",
+          "reference_range": "134-670887",
+          "source_line": "M134-670887",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "YeuJr * Jly requested",
+          "biomarker_normalized": "YeuJr * Jly requested",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "YeuJr * Jly requested 1o",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "istng Ylu",
+          "biomarker_normalized": "istng Ylu",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "istng Ylu 9 Bready",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 52,
+    "ocr_avg_confidence": 0.5083,
+    "parsed_row_count": 5
+  }
+}

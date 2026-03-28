@@ -1,0 +1,1476 @@
+{
+  "document_id": "BLR-0425-PA-0042598_Q-bgh20250427165405127229018626_250427_1656@F.pdf_page_28",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042598_Q-bgh20250427165405127229018626_250427_1656@F.pdf_page_28.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "bhaNDaRI GrOUP Of HOSPITALS\nB HRC\nBHANdari HOSPItaL & Research CeNtre) DIAGNOSTIC DIVISION\nNA B H\nA Tradition of Excellence\nn0 room\nfor error\nAccrediteo\nGF; Scheme No. 54, Opp. Meghdoot Garden, Vijay Nagar Indore\n452 010 (MP\nTel.\n(0731-\n4733333, 4003333\nFax\n(0731) 4733554\n2552844\nREP\nRT\nBACTERIOLOGY\nUHID\n5605934\nReg: No.\nADMIT-1014665\nAccession No.\nDr\nMAHAK BHANDARI\nReported\n10.42\nWard\nICCU\n3F\nInvestigation\nResult\nUnit\nBio. Ref. Interval\nAFB\nZNSTAIN ROUTINE\nSample\nPLEURAL FLUID\nResult\nNo AFB seen in the given sample_\nRemark\nZN stain provides only presumptive diagnosis of Mycobacterial disease; TB culture is regarded as gold standard for diagnosis.\nFalse negative results expected in case of low bacterial load or during early infection _\nAccuracy of sputum AFB test depends on the quality of sputum sample submitted:\nClinical correlation\nis essential if suspicion is high and AFB report is negative. Culture\n& molecular methods like CBNAAT/TrueNAT is\nrecommended for confirmation\nChecked By\n13471\nPRAKASH\nUHID\n5605934\nReg: No:\nADMIT-1014665\nAccession No.\nDr_\nMAHAK BHANDARI\nReported\n10.42\nWard\nICCU\n3F\nInvestigation\nResult\nUnit\nBio. Ref: Interval\nGRAM STAIN ROUTINE\nSample\nPLEURAL FLUID\nLeucoyte\nNo pus cells seen.\nOrganism\nNo micro-organism seen_\nRemark\nGram stain provides only the presumptive diagnosis; Findings of Gram stain should be confirmed through culture method:\nPositive Gram stain report indicates the type of microorganism and its morphology based on the type of cells seen.\nFalse negative Gram stain report may be due to:\nPoor sensitivity of Microscopy method:\nPaucibacillary\nnature of specimen\nor\nduring the presence of organisms like Treponema, Mycoplasma, Chlamydia\n& Rickettsia which do not\nstain as they lack cell walls or are too small in size\nDifficult interpretation of anaerobic bacteria, Legionella, Brucella, Francisella & bacteria exhibiting the effects of antibiotics\nChecked By\n13471\nPRAKASH\nUHID\n5605934\nReg: No.\nADMIT-1014665\nAccession No.\nDr\nMAHAK BHANDARI\nReported\n12.22\nWard\n222 (PVT AC)\n2F NEW BL\nInvestigation\nResult\nUnit\nBio. Ref. Interval\nCULTURE & SENSITIVITY\nSAMPLE\nPLEURAL FLUID CIS_\nCULTURE REPORT\nNo aerobic pathogen grown after\n48 hours of incubation_\nRemark\nTEXT\nGAfETYA}\nQuALITY ,\n1\nSewonihospan5\nREseARCHcEl",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            367.0,
+            74.0,
+            1353.0,
+            134.0
+          ],
+          "text": "bhaNDaRI GrOUP Of HOSPITALS",
+          "confidence": 0.2725
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            127.0,
+            283.0,
+            143.0
+          ],
+          "text": "B HRC",
+          "confidence": 0.8872
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            373.0,
+            145.0,
+            1371.0,
+            187.0
+          ],
+          "text": "BHANdari HOSPItaL & Research CeNtre) DIAGNOSTIC DIVISION",
+          "confidence": 0.2026
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1428.0,
+            176.0,
+            1502.0,
+            200.0
+          ],
+          "text": "NA B H",
+          "confidence": 0.6181
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            533.0,
+            183.0,
+            865.0,
+            225.0
+          ],
+          "text": "A Tradition of Excellence",
+          "confidence": 0.8106
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            186.0,
+            1202.0,
+            210.0
+          ],
+          "text": "n0 room",
+          "confidence": 0.6843
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1199.0,
+            181.0,
+            1305.0,
+            217.0
+          ],
+          "text": "for error",
+          "confidence": 0.4453
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1419.0,
+            198.0,
+            1509.0,
+            222.0
+          ],
+          "text": "Accrediteo",
+          "confidence": 0.6178
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            431.0,
+            232.0,
+            1201.0,
+            270.0
+          ],
+          "text": "GF; Scheme No. 54, Opp. Meghdoot Garden, Vijay Nagar Indore",
+          "confidence": 0.5553
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            236.0,
+            1386.0,
+            264.0
+          ],
+          "text": "452 010 (MP",
+          "confidence": 0.4849
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            264.0,
+            204.0,
+            290.0
+          ],
+          "text": "Tel.",
+          "confidence": 0.8428
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            266.0,
+            296.0,
+            294.0
+          ],
+          "text": "(0731-",
+          "confidence": 0.6641
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            262.0,
+            534.0,
+            293.0
+          ],
+          "text": "4733333, 4003333",
+          "confidence": 0.6815
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            266.0,
+            592.0,
+            292.0
+          ],
+          "text": "Fax",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            264.0,
+            802.0,
+            296.0
+          ],
+          "text": "(0731) 4733554",
+          "confidence": 0.9801
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            810.0,
+            266.0,
+            920.0,
+            292.0
+          ],
+          "text": "2552844",
+          "confidence": 0.9517
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            695.0,
+            307.0,
+            847.0,
+            351.0
+          ],
+          "text": "REP",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            919.0,
+            307.0,
+            1015.0,
+            351.0
+          ],
+          "text": "RT",
+          "confidence": 0.8743
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            358.0,
+            962.0,
+            388.0
+          ],
+          "text": "BACTERIOLOGY",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            444.0,
+            176.0,
+            468.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            442.0,
+            398.0,
+            468.0
+          ],
+          "text": "5605934",
+          "confidence": 0.8943
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            476.0,
+            208.0,
+            507.0
+          ],
+          "text": "Reg: No.",
+          "confidence": 0.5354
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            476.0,
+            468.0,
+            502.0
+          ],
+          "text": "ADMIT-1014665",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            510.0,
+            264.0,
+            534.0
+          ],
+          "text": "Accession No.",
+          "confidence": 0.9497
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            510.0,
+            726.0,
+            534.0
+          ],
+          "text": "Dr",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            510.0,
+            910.0,
+            534.0
+          ],
+          "text": "MAHAK BHANDARI",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1097.0,
+            511.0,
+            1197.0,
+            535.0
+          ],
+          "text": "Reported",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            510.0,
+            1402.0,
+            534.0
+          ],
+          "text": "10.42",
+          "confidence": 0.9123
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            544.0,
+            176.0,
+            568.0
+          ],
+          "text": "Ward",
+          "confidence": 0.7782
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            542.0,
+            368.0,
+            568.0
+          ],
+          "text": "ICCU",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            380.0,
+            544.0,
+            408.0,
+            568.0
+          ],
+          "text": "3F",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            610.0,
+            258.0,
+            638.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.7904
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            610.0,
+            736.0,
+            634.0
+          ],
+          "text": "Result",
+          "confidence": 0.6914
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            610.0,
+            1148.0,
+            634.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            610.0,
+            1464.0,
+            634.0
+          ],
+          "text": "Bio. Ref. Interval",
+          "confidence": 0.8807
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            668.0,
+            144.0,
+            692.0
+          ],
+          "text": "AFB",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            667.0,
+            371.0,
+            692.0
+          ],
+          "text": "ZNSTAIN ROUTINE",
+          "confidence": 0.8301
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            710.0,
+            188.0,
+            736.0
+          ],
+          "text": "Sample",
+          "confidence": 0.8827
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            708.0,
+            814.0,
+            732.0
+          ],
+          "text": "PLEURAL FLUID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            744.0,
+            178.0,
+            768.0
+          ],
+          "text": "Result",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            742.0,
+            972.0,
+            768.0
+          ],
+          "text": "No AFB seen in the given sample_",
+          "confidence": 0.7418
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            780.0,
+            186.0,
+            806.0
+          ],
+          "text": "Remark",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            809.0,
+            1196.0,
+            837.0
+          ],
+          "text": "ZN stain provides only presumptive diagnosis of Mycobacterial disease; TB culture is regarded as gold standard for diagnosis.",
+          "confidence": 0.4662
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            839.0,
+            870.0,
+            867.0
+          ],
+          "text": "False negative results expected in case of low bacterial load or during early infection _",
+          "confidence": 0.5195
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            871.0,
+            849.0,
+            897.0
+          ],
+          "text": "Accuracy of sputum AFB test depends on the quality of sputum sample submitted:",
+          "confidence": 0.8522
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            902.0,
+            377.0,
+            926.0
+          ],
+          "text": "Clinical correlation",
+          "confidence": 0.7228
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            900.0,
+            1082.0,
+            929.0
+          ],
+          "text": "is essential if suspicion is high and AFB report is negative. Culture",
+          "confidence": 0.782
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            902.0,
+            1564.0,
+            926.0
+          ],
+          "text": "& molecular methods like CBNAAT/TrueNAT is",
+          "confidence": 0.7541
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            930.0,
+            438.0,
+            954.0
+          ],
+          "text": "recommended for confirmation",
+          "confidence": 0.8397
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            958.0,
+            210.0,
+            984.0
+          ],
+          "text": "Checked By",
+          "confidence": 0.7173
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            958.0,
+            284.0,
+            982.0
+          ],
+          "text": "13471",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            394.0,
+            958.0,
+            486.0,
+            982.0
+          ],
+          "text": "PRAKASH",
+          "confidence": 0.9019
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1024.0,
+            176.0,
+            1048.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1024.0,
+            398.0,
+            1048.0
+          ],
+          "text": "5605934",
+          "confidence": 0.7245
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1056.0,
+            208.0,
+            1085.0
+          ],
+          "text": "Reg: No:",
+          "confidence": 0.8496
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1056.0,
+            468.0,
+            1082.0
+          ],
+          "text": "ADMIT-1014665",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1090.0,
+            262.0,
+            1116.0
+          ],
+          "text": "Accession No.",
+          "confidence": 0.8648
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            699.0,
+            1093.0,
+            725.0,
+            1113.0
+          ],
+          "text": "Dr_",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1092.0,
+            910.0,
+            1116.0
+          ],
+          "text": "MAHAK BHANDARI",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            1092.0,
+            1198.0,
+            1118.0
+          ],
+          "text": "Reported",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            1092.0,
+            1402.0,
+            1116.0
+          ],
+          "text": "10.42",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1124.0,
+            174.0,
+            1148.0
+          ],
+          "text": "Ward",
+          "confidence": 0.8969
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            1124.0,
+            366.0,
+            1148.0
+          ],
+          "text": "ICCU",
+          "confidence": 0.5813
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            380.0,
+            1124.0,
+            408.0,
+            1148.0
+          ],
+          "text": "3F",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1190.0,
+            258.0,
+            1218.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1192.0,
+            736.0,
+            1216.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            1190.0,
+            1148.0,
+            1216.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            1190.0,
+            1464.0,
+            1216.0
+          ],
+          "text": "Bio. Ref: Interval",
+          "confidence": 0.8677
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1248.0,
+            342.0,
+            1274.0
+          ],
+          "text": "GRAM STAIN ROUTINE",
+          "confidence": 0.6844
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1290.0,
+            188.0,
+            1316.0
+          ],
+          "text": "Sample",
+          "confidence": 0.8827
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1288.0,
+            814.0,
+            1314.0
+          ],
+          "text": "PLEURAL FLUID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1323.0,
+            202.0,
+            1352.0
+          ],
+          "text": "Leucoyte",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1322.0,
+            830.0,
+            1348.0
+          ],
+          "text": "No pus cells seen.",
+          "confidence": 0.7664
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1358.0,
+            206.0,
+            1384.0
+          ],
+          "text": "Organism",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1356.0,
+            892.0,
+            1382.0
+          ],
+          "text": "No micro-organism seen_",
+          "confidence": 0.6219
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1394.0,
+            184.0,
+            1418.0
+          ],
+          "text": "Remark",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1421.0,
+            1170.0,
+            1451.0
+          ],
+          "text": "Gram stain provides only the presumptive diagnosis; Findings of Gram stain should be confirmed through culture method:",
+          "confidence": 0.6099
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1451.0,
+            1112.0,
+            1482.0
+          ],
+          "text": "Positive Gram stain report indicates the type of microorganism and its morphology based on the type of cells seen.",
+          "confidence": 0.8593
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1485.0,
+            580.0,
+            1512.0
+          ],
+          "text": "False negative Gram stain report may be due to:",
+          "confidence": 0.939
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1515.0,
+            494.0,
+            1542.0
+          ],
+          "text": "Poor sensitivity of Microscopy method:",
+          "confidence": 0.6104
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            1545.0,
+            320.0,
+            1574.0
+          ],
+          "text": "Paucibacillary",
+          "confidence": 0.9094
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            1548.0,
+            518.0,
+            1572.0
+          ],
+          "text": "nature of specimen",
+          "confidence": 0.7537
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            525.0,
+            1553.0,
+            547.0,
+            1569.0
+          ],
+          "text": "or",
+          "confidence": 0.9762
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            1545.0,
+            1298.0,
+            1575.0
+          ],
+          "text": "during the presence of organisms like Treponema, Mycoplasma, Chlamydia",
+          "confidence": 0.6743
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            1548.0,
+            1564.0,
+            1572.0
+          ],
+          "text": "& Rickettsia which do not",
+          "confidence": 0.7723
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1574.0,
+            594.0,
+            1600.0
+          ],
+          "text": "stain as they lack cell walls or are too small in size",
+          "confidence": 0.7733
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1598.0,
+            1173.0,
+            1626.0
+          ],
+          "text": "Difficult interpretation of anaerobic bacteria, Legionella, Brucella, Francisella & bacteria exhibiting the effects of antibiotics",
+          "confidence": 0.5613
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1632.0,
+            210.0,
+            1660.0
+          ],
+          "text": "Checked By",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1632.0,
+            284.0,
+            1656.0
+          ],
+          "text": "13471",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            394.0,
+            1632.0,
+            486.0,
+            1656.0
+          ],
+          "text": "PRAKASH",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1700.0,
+            176.0,
+            1724.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1698.0,
+            398.0,
+            1724.0
+          ],
+          "text": "5605934",
+          "confidence": 0.8943
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1732.0,
+            208.0,
+            1763.0
+          ],
+          "text": "Reg: No.",
+          "confidence": 0.5354
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            313.0,
+            1729.0,
+            468.0,
+            1759.0
+          ],
+          "text": "ADMIT-1014665",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1766.0,
+            262.0,
+            1790.0
+          ],
+          "text": "Accession No.",
+          "confidence": 0.7985
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            1766.0,
+            726.0,
+            1790.0
+          ],
+          "text": "Dr",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1766.0,
+            910.0,
+            1790.0
+          ],
+          "text": "MAHAK BHANDARI",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1097.0,
+            1768.0,
+            1197.0,
+            1792.0
+          ],
+          "text": "Reported",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            1766.0,
+            1402.0,
+            1790.0
+          ],
+          "text": "12.22",
+          "confidence": 0.4846
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1800.0,
+            176.0,
+            1824.0
+          ],
+          "text": "Ward",
+          "confidence": 0.7782
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1798.0,
+            450.0,
+            1826.0
+          ],
+          "text": "222 (PVT AC)",
+          "confidence": 0.5497
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            1800.0,
+            572.0,
+            1824.0
+          ],
+          "text": "2F NEW BL",
+          "confidence": 0.7636
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1866.0,
+            258.0,
+            1894.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.7904
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1866.0,
+            736.0,
+            1890.0
+          ],
+          "text": "Result",
+          "confidence": 0.6914
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            1866.0,
+            1148.0,
+            1890.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            1866.0,
+            1464.0,
+            1890.0
+          ],
+          "text": "Bio. Ref. Interval",
+          "confidence": 0.8807
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1922.0,
+            364.0,
+            1948.0
+          ],
+          "text": "CULTURE & SENSITIVITY",
+          "confidence": 0.9165
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1964.0,
+            194.0,
+            1988.0
+          ],
+          "text": "SAMPLE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1960.0,
+            854.0,
+            1986.0
+          ],
+          "text": "PLEURAL FLUID CIS_",
+          "confidence": 0.7155
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1996.0,
+            286.0,
+            2020.0
+          ],
+          "text": "CULTURE REPORT",
+          "confidence": 0.9025
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1992.0,
+            972.0,
+            2023.0
+          ],
+          "text": "No aerobic pathogen grown after",
+          "confidence": 0.8653
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            2024.0,
+            876.0,
+            2048.0
+          ],
+          "text": "48 hours of incubation_",
+          "confidence": 0.9132
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            2058.0,
+            186.0,
+            2082.0
+          ],
+          "text": "Remark",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            2089.0,
+            227.0,
+            2109.0
+          ],
+          "text": "TEXT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            1397.6573935716708,
+            72.96883040753735,
+            1469.3426064283292,
+            123.03116959246265
+          ],
+          "text": "GAfETYA}",
+          "confidence": 0.0057
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            1462.0092999728895,
+            77.0658509254747,
+            1527.9907000271105,
+            118.9341490745253
+          ],
+          "text": "QuALITY ,",
+          "confidence": 0.191
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            1523.4199852094343,
+            126.06927321394346,
+            1544.5800147905657,
+            166.93072678605654
+          ],
+          "text": "1",
+          "confidence": 0.1292
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            144.4879539946939,
+            136.0221024864296,
+            264.5120460053061,
+            251.9778975135704
+          ],
+          "text": "Sewonihospan5",
+          "confidence": 0.0016
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            262.07899166023174,
+            166.7504864339047,
+            348.92100833976826,
+            239.2495135660953
+          ],
+          "text": "REseARCHcEl",
+          "confidence": 0.1031
+        }
+      ]
+    }
+  ],
+  "full_text": "bhaNDaRI GrOUP Of HOSPITALS\nB HRC\nBHANdari HOSPItaL & Research CeNtre) DIAGNOSTIC DIVISION\nNA B H\nA Tradition of Excellence\nn0 room\nfor error\nAccrediteo\nGF; Scheme No. 54, Opp. Meghdoot Garden, Vijay Nagar Indore\n452 010 (MP\nTel.\n(0731-\n4733333, 4003333\nFax\n(0731) 4733554\n2552844\nREP\nRT\nBACTERIOLOGY\nUHID\n5605934\nReg: No.\nADMIT-1014665\nAccession No.\nDr\nMAHAK BHANDARI\nReported\n10.42\nWard\nICCU\n3F\nInvestigation\nResult\nUnit\nBio. Ref. Interval\nAFB\nZNSTAIN ROUTINE\nSample\nPLEURAL FLUID\nResult\nNo AFB seen in the given sample_\nRemark\nZN stain provides only presumptive diagnosis of Mycobacterial disease; TB culture is regarded as gold standard for diagnosis.\nFalse negative results expected in case of low bacterial load or during early infection _\nAccuracy of sputum AFB test depends on the quality of sputum sample submitted:\nClinical correlation\nis essential if suspicion is high and AFB report is negative. Culture\n& molecular methods like CBNAAT/TrueNAT is\nrecommended for confirmation\nChecked By\n13471\nPRAKASH\nUHID\n5605934\nReg: No:\nADMIT-1014665\nAccession No.\nDr_\nMAHAK BHANDARI\nReported\n10.42\nWard\nICCU\n3F\nInvestigation\nResult\nUnit\nBio. Ref: Interval\nGRAM STAIN ROUTINE\nSample\nPLEURAL FLUID\nLeucoyte\nNo pus cells seen.\nOrganism\nNo micro-organism seen_\nRemark\nGram stain provides only the presumptive diagnosis; Findings of Gram stain should be confirmed through culture method:\nPositive Gram stain report indicates the type of microorganism and its morphology based on the type of cells seen.\nFalse negative Gram stain report may be due to:\nPoor sensitivity of Microscopy method:\nPaucibacillary\nnature of specimen\nor\nduring the presence of organisms like Treponema, Mycoplasma, Chlamydia\n& Rickettsia which do not\nstain as they lack cell walls or are too small in size\nDifficult interpretation of anaerobic bacteria, Legionella, Brucella, Francisella & bacteria exhibiting the effects of antibiotics\nChecked By\n13471\nPRAKASH\nUHID\n5605934\nReg: No.\nADMIT-1014665\nAccession No.\nDr\nMAHAK BHANDARI\nReported\n12.22\nWard\n222 (PVT AC)\n2F NEW BL\nInvestigation\nResult\nUnit\nBio. Ref. Interval\nCULTURE & SENSITIVITY\nSAMPLE\nPLEURAL FLUID CIS_\nCULTURE REPORT\nNo aerobic pathogen grown after\n48 hours of incubation_\nRemark\nTEXT\nGAfETYA}\nQuALITY ,\n1\nSewonihospan5\nREseARCHcEl",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "GF; Scheme No.",
+          "biomarker_normalized": "GF; Scheme No.",
+          "value": "54",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "GF; Scheme No. 54, Opp. Meghdoot Garden, Vijay Nagar Indore",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "ADMIT",
+          "biomarker_normalized": "ADMIT",
+          "value": "1014665",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ADMIT-1014665",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 119,
+    "ocr_avg_confidence": 0.8073,
+    "parsed_row_count": 2
+  }
+}

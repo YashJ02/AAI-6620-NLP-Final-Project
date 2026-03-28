@@ -1,0 +1,699 @@
+{
+  "document_id": "CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_28-04-2025_1125-47_AM@F.pdf_page_4",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_28-04-2025_1125-47_AM@F.pdf_page_4.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF BIOCHEMISTRY\nASHM-QF-LS(BCI-7I\nName\nMrs. KALIAMMAL m\nAge\n59Yr OMth ODays\nGender\nFemale\nUhIO\nMmhip.37802\nWiBNo RelNo\nEMERGENCYIENG 3 B\nSIN\nLRN\n51181610\n17001857\nSpeclmen\nSentn\nRel Doctor\nDr RAJESH PRABHIU P\nCollecled on\n22 -APr 7025 06. 33 30 pm\nReceived on\n2NR-2025 0g 41,spm\nReporod 01\n22-APa ?028 07 39,77 Pl\nIESL NAME\nRESULI\nBLOLOGICAL REEERENCE INTERVALS\nUNITS\nLIPASE\nSERUN\n2010\n0\n51\nUI\nComments\n(Nole\nKindly correlale Ihc values wilh clinical findings)\nRepon Stalus Final\nEND OF REPORT *\nCHECKED BY\n1002951\nM Elovn\n1002951\nFirst Repont Printed Or ;\n22-APR-2025 08.13.53 PM\nPrnled On\n26-APR-2025 05*47.19 PM\nDr Elamathlu\nPATHOLOGIST\nPue !2f",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            725.0,
+            215.0,
+            1177.0,
+            251.0
+          ],
+          "text": "DEPARTMENT OF BIOCHEMISTRY",
+          "confidence": 0.8936
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1287.0,
+            293.0,
+            1555.0,
+            325.0
+          ],
+          "text": "ASHM-QF-LS(BCI-7I",
+          "confidence": 0.2123
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            385.0,
+            236.0,
+            414.0
+          ],
+          "text": "Name",
+          "confidence": 0.5273
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            385.0,
+            582.0,
+            415.0
+          ],
+          "text": "Mrs. KALIAMMAL m",
+          "confidence": 0.3409
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            386.0,
+            1032.0,
+            418.0
+          ],
+          "text": "Age",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            382.0,
+            1262.0,
+            419.0
+          ],
+          "text": "59Yr OMth ODays",
+          "confidence": 0.9141
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            386.0,
+            1410.0,
+            412.0
+          ],
+          "text": "Gender",
+          "confidence": 0.5887
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            386.0,
+            1542.0,
+            412.0
+          ],
+          "text": "Female",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            434.0,
+            232.0,
+            462.0
+          ],
+          "text": "UhIO",
+          "confidence": 0.2166
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            430.0,
+            856.0,
+            460.0
+          ],
+          "text": "Mmhip.37802",
+          "confidence": 0.2655
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            978.0,
+            434.0,
+            1132.0,
+            460.0
+          ],
+          "text": "WiBNo RelNo",
+          "confidence": 0.6291
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            432.0,
+            1422.0,
+            462.0
+          ],
+          "text": "EMERGENCYIENG 3 B",
+          "confidence": 0.5906
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            482.0,
+            214.0,
+            508.0
+          ],
+          "text": "SIN",
+          "confidence": 0.8281
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            482.0,
+            290.0,
+            508.0
+          ],
+          "text": "LRN",
+          "confidence": 0.7468
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            480.0,
+            466.0,
+            510.0
+          ],
+          "text": "51181610",
+          "confidence": 0.7515
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            488.0,
+            480.0,
+            598.0,
+            510.0
+          ],
+          "text": "17001857",
+          "confidence": 0.6935
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            526.0,
+            280.0,
+            554.0
+          ],
+          "text": "Speclmen",
+          "confidence": 0.7932
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            524.0,
+            426.0,
+            550.0
+          ],
+          "text": "Sentn",
+          "confidence": 0.2988
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            568.0,
+            290.0,
+            594.0
+          ],
+          "text": "Rel Doctor",
+          "confidence": 0.9812
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            566.0,
+            584.0,
+            592.0
+          ],
+          "text": "Dr RAJESH PRABHIU P",
+          "confidence": 0.2526
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            870.0,
+            262.0,
+            894.0
+          ],
+          "text": "Collecled on",
+          "confidence": 0.4127
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            322.0,
+            870.0,
+            550.0,
+            894.0
+          ],
+          "text": "22 -APr 7025 06. 33 30 pm",
+          "confidence": 0.0771
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            592.0,
+            874.0,
+            704.0,
+            898.0
+          ],
+          "text": "Received on",
+          "confidence": 0.4312
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            870.0,
+            986.0,
+            894.0
+          ],
+          "text": "2NR-2025 0g 41,spm",
+          "confidence": 0.1471
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1020.0,
+            870.0,
+            1134.0,
+            894.0
+          ],
+          "text": "Reporod 01",
+          "confidence": 0.5003
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1224.0,
+            862.0,
+            1452.0,
+            888.0
+          ],
+          "text": "22-APa ?028 07 39,77 Pl",
+          "confidence": 0.0818
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            918.0,
+            282.0,
+            948.0
+          ],
+          "text": "IESL NAME",
+          "confidence": 0.4822
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            918.0,
+            854.0,
+            946.0
+          ],
+          "text": "RESULI",
+          "confidence": 0.8958
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            918.0,
+            1319.0,
+            944.0
+          ],
+          "text": "BLOLOGICAL REEERENCE INTERVALS",
+          "confidence": 0.5821
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1394.0,
+            918.0,
+            1472.0,
+            948.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9821
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            978.0,
+            234.0,
+            1008.0
+          ],
+          "text": "LIPASE",
+          "confidence": 0.6528
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            978.0,
+            334.0,
+            1008.0
+          ],
+          "text": "SERUN",
+          "confidence": 0.2159
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            978.0,
+            828.0,
+            1008.0
+          ],
+          "text": "2010",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            978.0,
+            970.0,
+            1004.0
+          ],
+          "text": "0",
+          "confidence": 0.6066
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            976.0,
+            1026.0,
+            1004.0
+          ],
+          "text": "51",
+          "confidence": 0.9687
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1392.0,
+            976.0,
+            1436.0,
+            1002.0
+          ],
+          "text": "UI",
+          "confidence": 0.445
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1014.0,
+            273.0,
+            1040.0
+          ],
+          "text": "Comments",
+          "confidence": 0.9781
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            1014.0,
+            384.0,
+            1040.0
+          ],
+          "text": "(Nole",
+          "confidence": 0.5589
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            395.0,
+            1011.0,
+            922.0,
+            1042.0
+          ],
+          "text": "Kindly correlale Ihc values wilh clinical findings)",
+          "confidence": 0.5189
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1144.0,
+            348.0,
+            1172.0
+          ],
+          "text": "Repon Stalus Final",
+          "confidence": 0.5998
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            1294.0,
+            946.0,
+            1324.0
+          ],
+          "text": "END OF REPORT *",
+          "confidence": 0.9155
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            1804.0,
+            310.0,
+            1834.0
+          ],
+          "text": "CHECKED BY",
+          "confidence": 0.6282
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            1804.0,
+            432.0,
+            1832.0
+          ],
+          "text": "1002951",
+          "confidence": 0.5166
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1762.0,
+            1331.0,
+            1834.0
+          ],
+          "text": "M Elovn",
+          "confidence": 0.1528
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            339.0,
+            1834.0,
+            429.0,
+            1860.0
+          ],
+          "text": "1002951",
+          "confidence": 0.9159
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1865.0,
+            410.0,
+            1898.0
+          ],
+          "text": "First Repont Printed Or ;",
+          "confidence": 0.3986
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            1864.0,
+            726.0,
+            1892.0
+          ],
+          "text": "22-APR-2025 08.13.53 PM",
+          "confidence": 0.2763
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            274.0,
+            1896.0,
+            394.0,
+            1922.0
+          ],
+          "text": "Prnled On",
+          "confidence": 0.6331
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            1896.0,
+            726.0,
+            1926.0
+          ],
+          "text": "26-APR-2025 05*47.19 PM",
+          "confidence": 0.3154
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            1900.0,
+            1324.0,
+            1928.0
+          ],
+          "text": "Dr Elamathlu",
+          "confidence": 0.1116
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1160.0,
+            1930.0,
+            1332.0,
+            1960.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.8141
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            748.0,
+            2000.0,
+            850.0,
+            2031.0
+          ],
+          "text": "Pue !2f",
+          "confidence": 0.1773
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF BIOCHEMISTRY\nASHM-QF-LS(BCI-7I\nName\nMrs. KALIAMMAL m\nAge\n59Yr OMth ODays\nGender\nFemale\nUhIO\nMmhip.37802\nWiBNo RelNo\nEMERGENCYIENG 3 B\nSIN\nLRN\n51181610\n17001857\nSpeclmen\nSentn\nRel Doctor\nDr RAJESH PRABHIU P\nCollecled on\n22 -APr 7025 06. 33 30 pm\nReceived on\n2NR-2025 0g 41,spm\nReporod 01\n22-APa ?028 07 39,77 Pl\nIESL NAME\nRESULI\nBLOLOGICAL REEERENCE INTERVALS\nUNITS\nLIPASE\nSERUN\n2010\n0\n51\nUI\nComments\n(Nole\nKindly correlale Ihc values wilh clinical findings)\nRepon Stalus Final\nEND OF REPORT *\nCHECKED BY\n1002951\nM Elovn\n1002951\nFirst Repont Printed Or ;\n22-APR-2025 08.13.53 PM\nPrnled On\n26-APR-2025 05*47.19 PM\nDr Elamathlu\nPATHOLOGIST\nPue !2f",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "ASHM-QF-LS(BCI",
+          "biomarker_normalized": "ASHM-QF-LS(BCI",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ASHM-QF-LS(BCI-7I",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Mmhip.",
+          "biomarker_normalized": "Mmhip.",
+          "value": "37802",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mmhip.37802",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "EMERGENCYIENG",
+          "biomarker_normalized": "EMERGENCYIENG",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EMERGENCYIENG 3 B",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Reporod",
+          "biomarker_normalized": "Reporod",
+          "value": "01",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reporod 01",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Pue !",
+          "biomarker_normalized": "Pue !",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Pue !2f",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 52,
+    "ocr_avg_confidence": 0.5675,
+    "parsed_row_count": 5
+  }
+}

@@ -1,0 +1,831 @@
+{
+  "document_id": "GUR-0425-PA-0044765_Q-PURAVALLINVESTIGATIONREPORTANDXRAYREPORTANDVITALCHART_250428_1134@F.pdf_page_8",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0044765_Q-PURAVALLINVESTIGATIONREPORTANDXRAYREPORTANDVITALCHART_250428_1134@F.pdf_page_8.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Patient Id\nSrl No.\n119\nSWASTIK HOSPITAL\nTest\nNormal Value\nHAEMATOLOGY\nSERUM VITAMIN B12\n258.9\n211.0\n911.0\nSEROLOGY\nVITAMIN D 25 HYDROXY\nCLIA\nVitamin D, 25\nHydroxy\n14.0\nnglml\n2 30 nglml)\nExpected Value:\nA more recent consensus of expert leads to the conclusion that for general health a desirable concentration\nof vitamin D (25-OH) is 2 30 ng/ml ( 2 75 nmol/L)\nKef;\nVieth R, et al. The urgent need t0 recommened a intake of Vitamin D that is effective\nAm J Clin Nutr 2007; 85 .649\n650\nComments\nVitamin D is acquired either by exposure to sunlight or ingestion of food containing food vit D. It is\nmetabolized to vit D, 25 hydroxy in the liver in the first\nby vit D,25-hydroxylase system:\nA small amount\nof it further\nmetabolized by hydroxylation in kidney to vit D\n1,25 dihydroxy: Since vit D, 25 hydroxy is\nthe predominant circulating form of Vit D in normal population, it is considered to be the most reliable index\nof vit D status:\nThe measurement of 25-OH-D is becoming increasingly important in thel\nvarious disorders of calcium metabolism associated with Rickets\npregnancy,\nnutritional and renal osteodystrophy, hypoparathyroidism , and\nPage &\nC\"rma\nJha\nDr. S\":\nUES\nD@uRVNNAN\nMbb` #\nMBE\n& Lpi\nC 48138\nD3C; i\nRegn_Wo. DMC\npglml\nstep\ngets\nStlk,\n#o\nGeneral\n~UkGiDNL\nHR",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            432.0,
+            298.0,
+            464.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            444.0,
+            753.0,
+            476.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.9654
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            794.0,
+            450.0,
+            846.0,
+            480.0
+          ],
+          "text": "119",
+          "confidence": 0.5104
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            513.0,
+            587.0,
+            552.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9688
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            602.0,
+            180.0,
+            630.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1183.0,
+            631.0,
+            1346.0,
+            662.0
+          ],
+          "text": "Normal Value",
+          "confidence": 0.9603
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            643.0,
+            739.0,
+            994.0,
+            795.0
+          ],
+          "text": "HAEMATOLOGY",
+          "confidence": 0.9544
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            833.0,
+            449.0,
+            873.0
+          ],
+          "text": "SERUM VITAMIN B12",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            848.0,
+            800.0,
+            880.0
+          ],
+          "text": "258.9",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            858.0,
+            1262.0,
+            890.0
+          ],
+          "text": "211.0",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            860.0,
+            1360.0,
+            892.0
+          ],
+          "text": "911.0",
+          "confidence": 0.9863
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            683.0,
+            908.0,
+            944.0,
+            962.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.7828
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            967.0,
+            497.0,
+            1009.0
+          ],
+          "text": "VITAMIN D 25 HYDROXY",
+          "confidence": 0.7954
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1004.0,
+            218.0,
+            1034.0
+          ],
+          "text": "CLIA",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            1047.0,
+            355.0,
+            1087.0
+          ],
+          "text": "Vitamin D, 25",
+          "confidence": 0.9258
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            372.0,
+            1049.0,
+            503.0,
+            1093.0
+          ],
+          "text": "Hydroxy",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1060.0,
+            778.0,
+            1090.0
+          ],
+          "text": "14.0",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            1061.0,
+            1003.0,
+            1101.0
+          ],
+          "text": "nglml",
+          "confidence": 0.9853
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1139.0,
+            1065.0,
+            1311.0,
+            1105.0
+          ],
+          "text": "2 30 nglml)",
+          "confidence": 0.9847
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1155.0,
+            376.0,
+            1195.0
+          ],
+          "text": "Expected Value:",
+          "confidence": 0.9085
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1186.0,
+            1468.0,
+            1238.0
+          ],
+          "text": "A more recent consensus of expert leads to the conclusion that for general health a desirable concentration",
+          "confidence": 0.9541
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1223.0,
+            761.0,
+            1267.0
+          ],
+          "text": "of vitamin D (25-OH) is 2 30 ng/ml ( 2 75 nmol/L)",
+          "confidence": 0.5434
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1286.0,
+            196.0,
+            1312.0
+          ],
+          "text": "Kef;",
+          "confidence": 0.4529
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1315.0,
+            1005.0,
+            1353.0
+          ],
+          "text": "Vieth R, et al. The urgent need t0 recommened a intake of Vitamin D that is effective",
+          "confidence": 0.5861
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            1325.0,
+            1306.0,
+            1356.0
+          ],
+          "text": "Am J Clin Nutr 2007; 85 .649",
+          "confidence": 0.7199
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            1330.0,
+            1360.0,
+            1356.0
+          ],
+          "text": "650",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1370.0,
+            293.0,
+            1407.0
+          ],
+          "text": "Comments",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1435.0,
+            1345.0,
+            1479.0
+          ],
+          "text": "Vitamin D is acquired either by exposure to sunlight or ingestion of food containing food vit D. It is",
+          "confidence": 0.7307
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1467.0,
+            810.0,
+            1505.0
+          ],
+          "text": "metabolized to vit D, 25 hydroxy in the liver in the first",
+          "confidence": 0.6155
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            867.0,
+            1470.0,
+            1259.0,
+            1510.0
+          ],
+          "text": "by vit D,25-hydroxylase system:",
+          "confidence": 0.9562
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            1474.0,
+            1460.0,
+            1505.0
+          ],
+          "text": "A small amount",
+          "confidence": 0.9782
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1498.0,
+            290.0,
+            1530.0
+          ],
+          "text": "of it further",
+          "confidence": 0.6911
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            349.0,
+            1496.0,
+            917.0,
+            1537.0
+          ],
+          "text": "metabolized by hydroxylation in kidney to vit D",
+          "confidence": 0.8139
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            1499.0,
+            1437.0,
+            1541.0
+          ],
+          "text": "1,25 dihydroxy: Since vit D, 25 hydroxy is",
+          "confidence": 0.7579
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1525.0,
+            1461.0,
+            1569.0
+          ],
+          "text": "the predominant circulating form of Vit D in normal population, it is considered to be the most reliable index",
+          "confidence": 0.7597
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1562.0,
+            326.0,
+            1592.0
+          ],
+          "text": "of vit D status:",
+          "confidence": 0.8336
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            1587.0,
+            1039.0,
+            1631.0
+          ],
+          "text": "The measurement of 25-OH-D is becoming increasingly important in thel",
+          "confidence": 0.6873
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1621.0,
+            947.0,
+            1659.0
+          ],
+          "text": "various disorders of calcium metabolism associated with Rickets",
+          "confidence": 0.662
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1249.0,
+            1632.0,
+            1393.0,
+            1664.0
+          ],
+          "text": "pregnancy,",
+          "confidence": 0.6615
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1653.0,
+            907.0,
+            1691.0
+          ],
+          "text": "nutritional and renal osteodystrophy, hypoparathyroidism , and",
+          "confidence": 0.6886
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            1939.0,
+            796.0,
+            1969.0
+          ],
+          "text": "Page &",
+          "confidence": 0.7246
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            860.0,
+            1936.0,
+            984.0,
+            1964.0
+          ],
+          "text": "C\"rma",
+          "confidence": 0.124
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            1962.0,
+            260.0,
+            1994.0
+          ],
+          "text": "Jha",
+          "confidence": 0.2984
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            631.0,
+            1953.0,
+            731.0,
+            1995.0
+          ],
+          "text": "Dr. S\":",
+          "confidence": 0.2855
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            1968.0,
+            986.0,
+            1998.0
+          ],
+          "text": "UES",
+          "confidence": 0.3151
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1157.0,
+            1939.0,
+            1457.0,
+            2007.0
+          ],
+          "text": "D@uRVNNAN",
+          "confidence": 0.1998
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            1981.0,
+            800.0,
+            2026.0
+          ],
+          "text": "Mbb` #",
+          "confidence": 0.1943
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            1990.0,
+            1212.0,
+            2022.0
+          ],
+          "text": "MBE",
+          "confidence": 0.3093
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            2018.0,
+            810.0,
+            2050.0
+          ],
+          "text": "& Lpi",
+          "confidence": 0.549
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            1998.0,
+            1005.0,
+            2072.0
+          ],
+          "text": "C 48138",
+          "confidence": 0.1917
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1159.0,
+            2025.0,
+            1354.0,
+            2066.0
+          ],
+          "text": "D3C; i",
+          "confidence": 0.0433
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            2035.0,
+            917.0,
+            2089.0
+          ],
+          "text": "Regn_Wo. DMC",
+          "confidence": 0.3663
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            913.3447882227953,
+            847.1747334096149,
+            1001.6552117772047,
+            890.8252665903851
+          ],
+          "text": "pglml",
+          "confidence": 0.9008
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            803.2372373344142,
+            1467.162537993715,
+            871.7627626655858,
+            1508.837462006285
+          ],
+          "text": "step",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            287.3447882227953,
+            1496.8967116098497,
+            351.6552117772047,
+            1535.1032883901503
+          ],
+          "text": "gets",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            213.98198161801108,
+            1863.685230965371,
+            318.01801838198895,
+            1927.314769034629
+          ],
+          "text": "Stlk,",
+          "confidence": 0.1097
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            296.07225554620123,
+            1872.0835899750778,
+            369.92774445379877,
+            1935.9164100249222
+          ],
+          "text": "#o",
+          "confidence": 0.3409
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            635.2111456180002,
+            2018.4243228056832,
+            735.7888543819998,
+            2060.5756771943165
+          ],
+          "text": "General",
+          "confidence": 0.6637
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            196.03612714091537,
+            2023.0638451878108,
+            334.96387285908463,
+            2102.936154812189
+          ],
+          "text": "~UkGiDNL",
+          "confidence": 0.0641
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            315.42752122286237,
+            2026.417220415357,
+            371.57247877713763,
+            2075.582779584643
+          ],
+          "text": "HR",
+          "confidence": 0.2496
+        }
+      ]
+    }
+  ],
+  "full_text": "Patient Id\nSrl No.\n119\nSWASTIK HOSPITAL\nTest\nNormal Value\nHAEMATOLOGY\nSERUM VITAMIN B12\n258.9\n211.0\n911.0\nSEROLOGY\nVITAMIN D 25 HYDROXY\nCLIA\nVitamin D, 25\nHydroxy\n14.0\nnglml\n2 30 nglml)\nExpected Value:\nA more recent consensus of expert leads to the conclusion that for general health a desirable concentration\nof vitamin D (25-OH) is 2 30 ng/ml ( 2 75 nmol/L)\nKef;\nVieth R, et al. The urgent need t0 recommened a intake of Vitamin D that is effective\nAm J Clin Nutr 2007; 85 .649\n650\nComments\nVitamin D is acquired either by exposure to sunlight or ingestion of food containing food vit D. It is\nmetabolized to vit D, 25 hydroxy in the liver in the first\nby vit D,25-hydroxylase system:\nA small amount\nof it further\nmetabolized by hydroxylation in kidney to vit D\n1,25 dihydroxy: Since vit D, 25 hydroxy is\nthe predominant circulating form of Vit D in normal population, it is considered to be the most reliable index\nof vit D status:\nThe measurement of 25-OH-D is becoming increasingly important in thel\nvarious disorders of calcium metabolism associated with Rickets\npregnancy,\nnutritional and renal osteodystrophy, hypoparathyroidism , and\nPage &\nC\"rma\nJha\nDr. S\":\nUES\nD@uRVNNAN\nMbb` #\nMBE\n& Lpi\nC 48138\nD3C; i\nRegn_Wo. DMC\npglml\nstep\ngets\nStlk,\n#o\nGeneral\n~UkGiDNL\nHR",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SERUM VITAMIN B1",
+          "biomarker_normalized": "SERUM VITAMIN B1",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SERUM VITAMIN B12",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "VITAMIN D",
+          "biomarker_normalized": "VITAMIN D",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "VITAMIN D 25 HYDROXY",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Vitamin D,",
+          "biomarker_normalized": "Vitamin D,",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Vitamin D, 25",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "of vitamin D (",
+          "biomarker_normalized": "of vitamin D (",
+          "value": "25",
+          "unit": "ng/ml",
+          "reference_range": "",
+          "source_line": "of vitamin D (25-OH) is 2 30 ng/ml ( 2 75 nmol/L)",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Am J Clin Nutr",
+          "biomarker_normalized": "Am J Clin Nutr",
+          "value": "2007",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Am J Clin Nutr 2007; 85 .649",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "metabolized to vit D,",
+          "biomarker_normalized": "metabolized to vit D,",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "metabolized to vit D, 25 hydroxy in the liver in the first",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "by vit D,",
+          "biomarker_normalized": "by vit D,",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "by vit D,25-hydroxylase system:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "The measurement of",
+          "biomarker_normalized": "The measurement of",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "The measurement of 25-OH-D is becoming increasingly important in thel",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "C",
+          "biomarker_normalized": "C",
+          "value": "48138",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "C 48138",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 60,
+    "ocr_avg_confidence": 0.6955,
+    "parsed_row_count": 9
+  }
+}

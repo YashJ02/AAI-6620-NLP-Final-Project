@@ -1,0 +1,1992 @@
+{
+  "document_id": "DEL-0425-PA-0051395_FINAL BILL OF Mrs. GANIPISETTY RAJYALAKSHMI_27-04-2025_0328-59_PM@E.pdf_page_26",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\DEL-0425-PA-0051395_FINAL BILL OF Mrs. GANIPISETTY RAJYALAKSHMI_27-04-2025_0328-59_PM@E.pdf_page_26.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Name\nMrs_\nGANIPISETTY\nRAJYALAKSHMI\nIP No\nIP496459\nBill No\nINT1823780\nGrand Total\n331,545.00\nS.No\nService\nDraft not\nC BC\nJ(AUTOMATION\nSTANDARD METHOD)\nC B C (HB,PCV,TC,DCJAUTOMATION +STANDARD METHOD)\n2\nERYTHROCYTE SEDIMENTATION RATE (ESR)\nHaematology\n2\nCOAGULATION PROFILE\nACTIVATED PARTIAL THROMBOPLASTIN TIME\nHaematology\n2\nFACTOR XIII\nSCREENING\nHaematology\n3\nPLATELET COUNT\nHaematology\nPROTHROMBIN TIME\nHaematology\n5\nTHROMBIN TIME\nHaematology\n3\nLab Others\n2\nALKALINE PHOSPHATASE\nSERUMIPLASMA\nLab Others\nALT(SGPT)\nSERUM\nPLASMA\nLab Others\nAMYLASE\nSERUMPLASMA\nLab Others\n5\nBILIRUBIN, TOTAL\nSERUM\nLab Others\nCALCIUM\nSERUM\nLab Others\nCARBONDIOXIDE, TOTAL\nSERUMIPLASMA\nLab Others\nC B C WITH ESR (AUTOMATION\nSTANDARD METHOD)\nLab Others\nCHLORIDE\nSERUM\nPLASMA\nLab Others\n10\nCHOLESTEROL\nSERUM\nPLASMA\nLab Others\n11\nCREATININE\nSERUM\nPLASMA\nLab Others\n12\nGLUCOSE\nSERUM\nPLASMA (RANDOMICASUAL)\nLab Others\n13\nMAGNESIUM\nSERUM\nLab Others\n14\nPHOSPHORUS, INORGANIC\nSERUM\nLab Others\n15\nPOTASSIUM\nSERUM\nPLASMA\nLab Others\n16\nPREALBUMIN SERUM\nLab Others\n17\nPROTEIN, TOTAL\nSERUM\nPLASMA\nLab Others\n18\nSODIUM\nSERUM\nPLASMA\nLab Others\n19\nUREA\nSERUM\nPLASMA\nLab Others\n20\nURIC ACID - SERUM\nLab Others\n21\nURINE ROUTINE (CUE)\nLab Others\nSERUMIPLASMA\nLab Others\nCHLORIDE\nSERUM\nPLASMA\nLab Others\nCREATININE\nSERUM\nPLASMA\nLab Others\nGLUCOSE\nSERUM\nPLASMA (RANDOMICASUAL)\nLab Others\n5\nPOTASSIUM\nSERUM\nPLASMA\nLab Others\nPREALBUMIN SERUM\nLab Others\nSODIUM\nSERUM\nPLASMA\nLab Others\nUREA\nSERUM\nPLASMA\nLab Others\nSCREENING PACK DIALYSIS PROFILE\nANTI HCV ELISA\nLab Others\nHBsAg\nLab Others\nHIV\n1+2 SCREENING(Ag+Ab)\nLab Others\nVDRL (QUALITATIVE)\nBLOOD\nLab Others\npisclaimer\nAll the above dates indicated as Date & Time of the\nonly\nentry",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            206.0,
+            120.0,
+            232.0
+          ],
+          "text": "Name",
+          "confidence": 0.9937
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            202.0,
+            196.0,
+            228.0
+          ],
+          "text": "Mrs_",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            202.0,
+            374.0,
+            230.0
+          ],
+          "text": "GANIPISETTY",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            202.0,
+            574.0,
+            228.0
+          ],
+          "text": "RAJYALAKSHMI",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            206.0,
+            818.0,
+            232.0
+          ],
+          "text": "IP No",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            848.0,
+            202.0,
+            960.0,
+            230.0
+          ],
+          "text": "IP496459",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            206.0,
+            1332.0,
+            232.0
+          ],
+          "text": "Bill No",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1364.0,
+            202.0,
+            1508.0,
+            230.0
+          ],
+          "text": "INT1823780",
+          "confidence": 0.7854
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1148.0,
+            374.0,
+            1288.0,
+            400.0
+          ],
+          "text": "Grand Total",
+          "confidence": 0.7513
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1476.0,
+            372.0,
+            1602.0,
+            400.0
+          ],
+          "text": "331,545.00",
+          "confidence": 0.7906
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            440.0,
+            158.0,
+            464.0
+          ],
+          "text": "S.No",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            440.0,
+            294.0,
+            466.0
+          ],
+          "text": "Service",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            411.0,
+            934.0,
+            485.0
+          ],
+          "text": "Draft not",
+          "confidence": 0.5047
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            472.0,
+            274.0,
+            496.0
+          ],
+          "text": "C BC",
+          "confidence": 0.6698
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            465.0,
+            579.0,
+            503.0
+          ],
+          "text": "J(AUTOMATION",
+          "confidence": 0.681
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            599.0,
+            466.0,
+            863.0,
+            503.0
+          ],
+          "text": "STANDARD METHOD)",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            502.0,
+            858.0,
+            530.0
+          ],
+          "text": "C B C (HB,PCV,TC,DCJAUTOMATION +STANDARD METHOD)",
+          "confidence": 0.69
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            539.0,
+            125.0,
+            561.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            534.0,
+            700.0,
+            566.0
+          ],
+          "text": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+          "confidence": 0.8229
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            538.0,
+            1124.0,
+            566.0
+          ],
+          "text": "Haematology",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            575.0,
+            143.0,
+            597.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            570.0,
+            500.0,
+            600.0
+          ],
+          "text": "COAGULATION PROFILE",
+          "confidence": 0.9674
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            601.0,
+            702.0,
+            628.0
+          ],
+          "text": "ACTIVATED PARTIAL THROMBOPLASTIN TIME",
+          "confidence": 0.9325
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            988.0,
+            604.0,
+            1124.0,
+            632.0
+          ],
+          "text": "Haematology",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            639.0,
+            125.0,
+            661.0
+          ],
+          "text": "2",
+          "confidence": 0.6511
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            635.0,
+            340.0,
+            662.0
+          ],
+          "text": "FACTOR XIII",
+          "confidence": 0.9597
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            636.0,
+            492.0,
+            662.0
+          ],
+          "text": "SCREENING",
+          "confidence": 0.9133
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            631.0,
+            1125.0,
+            667.0
+          ],
+          "text": "Haematology",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            671.0,
+            127.0,
+            693.0
+          ],
+          "text": "3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            670.0,
+            404.0,
+            694.0
+          ],
+          "text": "PLATELET COUNT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            670.0,
+            1124.0,
+            698.0
+          ],
+          "text": "Haematology",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            702.0,
+            436.0,
+            728.0
+          ],
+          "text": "PROTHROMBIN TIME",
+          "confidence": 0.6873
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            697.0,
+            1125.0,
+            733.0
+          ],
+          "text": "Haematology",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            739.0,
+            127.0,
+            761.0
+          ],
+          "text": "5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            735.0,
+            388.0,
+            762.0
+          ],
+          "text": "THROMBIN TIME",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            730.0,
+            1125.0,
+            767.0
+          ],
+          "text": "Haematology",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            775.0,
+            143.0,
+            797.0
+          ],
+          "text": "3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            802.0,
+            1102.0,
+            828.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            839.0,
+            125.0,
+            861.0
+          ],
+          "text": "2",
+          "confidence": 0.6511
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            836.0,
+            488.0,
+            862.0
+          ],
+          "text": "ALKALINE PHOSPHATASE",
+          "confidence": 0.9557
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            836.0,
+            684.0,
+            862.0
+          ],
+          "text": "SERUMIPLASMA",
+          "confidence": 0.9725
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            836.0,
+            1102.0,
+            862.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            868.0,
+            328.0,
+            896.0
+          ],
+          "text": "ALT(SGPT)",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            870.0,
+            426.0,
+            894.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            870.0,
+            534.0,
+            896.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            870.0,
+            1102.0,
+            894.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            902.0,
+            316.0,
+            928.0
+          ],
+          "text": "AMYLASE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            902.0,
+            512.0,
+            928.0
+          ],
+          "text": "SERUMPLASMA",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            902.0,
+            1102.0,
+            928.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            937.0,
+            127.0,
+            959.0
+          ],
+          "text": "5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            936.0,
+            404.0,
+            962.0
+          ],
+          "text": "BILIRUBIN, TOTAL",
+          "confidence": 0.8593
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            936.0,
+            502.0,
+            962.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            936.0,
+            1102.0,
+            962.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            968.0,
+            310.0,
+            994.0
+          ],
+          "text": "CALCIUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            970.0,
+            410.0,
+            994.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            970.0,
+            1102.0,
+            994.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1002.0,
+            482.0,
+            1028.0
+          ],
+          "text": "CARBONDIOXIDE, TOTAL",
+          "confidence": 0.9472
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            494.0,
+            1002.0,
+            676.0,
+            1028.0
+          ],
+          "text": "SERUMIPLASMA",
+          "confidence": 0.9274
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1002.0,
+            1102.0,
+            1028.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1036.0,
+            546.0,
+            1064.0
+          ],
+          "text": "C B C WITH ESR (AUTOMATION",
+          "confidence": 0.8145
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            566.0,
+            1036.0,
+            806.0,
+            1064.0
+          ],
+          "text": "STANDARD METHOD)",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1036.0,
+            1102.0,
+            1062.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1070.0,
+            324.0,
+            1094.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            1070.0,
+            426.0,
+            1094.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            440.0,
+            1070.0,
+            534.0,
+            1094.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1070.0,
+            1102.0,
+            1094.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1102.0,
+            140.0,
+            1128.0
+          ],
+          "text": "10",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1102.0,
+            378.0,
+            1128.0
+          ],
+          "text": "CHOLESTEROL",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            390.0,
+            1102.0,
+            476.0,
+            1128.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            490.0,
+            1102.0,
+            584.0,
+            1128.0
+          ],
+          "text": "PLASMA",
+          "confidence": 0.8778
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1102.0,
+            1102.0,
+            1128.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1136.0,
+            136.0,
+            1160.0
+          ],
+          "text": "11",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1136.0,
+            344.0,
+            1162.0
+          ],
+          "text": "CREATININE",
+          "confidence": 0.7808
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            1136.0,
+            444.0,
+            1162.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            1136.0,
+            552.0,
+            1162.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1136.0,
+            1102.0,
+            1162.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1170.0,
+            140.0,
+            1194.0
+          ],
+          "text": "12",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1168.0,
+            318.0,
+            1194.0
+          ],
+          "text": "GLUCOSE",
+          "confidence": 0.9338
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            1170.0,
+            420.0,
+            1194.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            432.0,
+            1166.0,
+            746.0,
+            1198.0
+          ],
+          "text": "PLASMA (RANDOMICASUAL)",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1170.0,
+            1102.0,
+            1194.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1202.0,
+            140.0,
+            1228.0
+          ],
+          "text": "13",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1202.0,
+            348.0,
+            1228.0
+          ],
+          "text": "MAGNESIUM",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            362.0,
+            1202.0,
+            448.0,
+            1228.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1202.0,
+            1102.0,
+            1228.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1236.0,
+            140.0,
+            1260.0
+          ],
+          "text": "14",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1236.0,
+            512.0,
+            1262.0
+          ],
+          "text": "PHOSPHORUS, INORGANIC",
+          "confidence": 0.8132
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            522.0,
+            1236.0,
+            610.0,
+            1262.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1236.0,
+            1102.0,
+            1262.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1270.0,
+            140.0,
+            1294.0
+          ],
+          "text": "15",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1268.0,
+            340.0,
+            1294.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.7128
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            1270.0,
+            440.0,
+            1294.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1270.0,
+            550.0,
+            1294.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1270.0,
+            1102.0,
+            1294.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1302.0,
+            140.0,
+            1328.0
+          ],
+          "text": "16",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1302.0,
+            442.0,
+            1328.0
+          ],
+          "text": "PREALBUMIN SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1302.0,
+            1102.0,
+            1328.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1336.0,
+            138.0,
+            1360.0
+          ],
+          "text": "17",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1334.0,
+            394.0,
+            1362.0
+          ],
+          "text": "PROTEIN, TOTAL",
+          "confidence": 0.8712
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            1336.0,
+            492.0,
+            1362.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1336.0,
+            600.0,
+            1362.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1336.0,
+            1102.0,
+            1362.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1370.0,
+            140.0,
+            1394.0
+          ],
+          "text": "18",
+          "confidence": 0.7406
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1370.0,
+            300.0,
+            1394.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1370.0,
+            400.0,
+            1394.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.73
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1370.0,
+            508.0,
+            1394.0
+          ],
+          "text": "PLASMA",
+          "confidence": 0.953
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1370.0,
+            1102.0,
+            1394.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1402.0,
+            140.0,
+            1428.0
+          ],
+          "text": "19",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1402.0,
+            272.0,
+            1428.0
+          ],
+          "text": "UREA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            284.0,
+            1402.0,
+            372.0,
+            1428.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            1402.0,
+            480.0,
+            1428.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1402.0,
+            1102.0,
+            1428.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1436.0,
+            142.0,
+            1464.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1436.0,
+            422.0,
+            1462.0
+          ],
+          "text": "URIC ACID - SERUM",
+          "confidence": 0.9353
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1436.0,
+            1102.0,
+            1462.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1470.0,
+            138.0,
+            1494.0
+          ],
+          "text": "21",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1468.0,
+            454.0,
+            1496.0
+          ],
+          "text": "URINE ROUTINE (CUE)",
+          "confidence": 0.7965
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1470.0,
+            1102.0,
+            1494.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            494.0,
+            1536.0,
+            676.0,
+            1562.0
+          ],
+          "text": "SERUMIPLASMA",
+          "confidence": 0.4914
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1536.0,
+            1102.0,
+            1562.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1570.0,
+            326.0,
+            1594.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.988
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            1570.0,
+            426.0,
+            1594.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            440.0,
+            1570.0,
+            534.0,
+            1594.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1570.0,
+            1102.0,
+            1594.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1602.0,
+            342.0,
+            1628.0
+          ],
+          "text": "CREATININE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            1602.0,
+            444.0,
+            1628.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            1602.0,
+            552.0,
+            1628.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1602.0,
+            1102.0,
+            1628.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1636.0,
+            320.0,
+            1664.0
+          ],
+          "text": "GLUCOSE",
+          "confidence": 0.7329
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1636.0,
+            420.0,
+            1662.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            432.0,
+            1636.0,
+            746.0,
+            1664.0
+          ],
+          "text": "PLASMA (RANDOMICASUAL)",
+          "confidence": 0.9908
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1636.0,
+            1102.0,
+            1662.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1671.0,
+            127.0,
+            1693.0
+          ],
+          "text": "5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1668.0,
+            340.0,
+            1694.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.7128
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            1670.0,
+            440.0,
+            1694.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1670.0,
+            550.0,
+            1694.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1670.0,
+            1102.0,
+            1694.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1702.0,
+            442.0,
+            1728.0
+          ],
+          "text": "PREALBUMIN SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1702.0,
+            1102.0,
+            1728.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1736.0,
+            300.0,
+            1762.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1736.0,
+            400.0,
+            1762.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 141,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1736.0,
+            508.0,
+            1762.0
+          ],
+          "text": "PLASMA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 142,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1736.0,
+            1102.0,
+            1762.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 143,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1768.0,
+            272.0,
+            1794.0
+          ],
+          "text": "UREA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 144,
+          "block_type": 0,
+          "bbox": [
+            284.0,
+            1770.0,
+            372.0,
+            1794.0
+          ],
+          "text": "SERUM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 145,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            1770.0,
+            480.0,
+            1794.0
+          ],
+          "text": "PLASMA",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 146,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1770.0,
+            1102.0,
+            1794.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 147,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1804.0,
+            656.0,
+            1834.0
+          ],
+          "text": "SCREENING PACK DIALYSIS PROFILE",
+          "confidence": 0.7657
+        },
+        {
+          "block_no": 148,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1836.0,
+            382.0,
+            1862.0
+          ],
+          "text": "ANTI HCV ELISA",
+          "confidence": 0.9369
+        },
+        {
+          "block_no": 149,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1836.0,
+            1102.0,
+            1862.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 150,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1870.0,
+            278.0,
+            1898.0
+          ],
+          "text": "HBsAg",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 151,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1870.0,
+            1102.0,
+            1894.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 152,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1902.0,
+            262.0,
+            1928.0
+          ],
+          "text": "HIV",
+          "confidence": 0.5795
+        },
+        {
+          "block_no": 153,
+          "block_type": 0,
+          "bbox": [
+            274.0,
+            1902.0,
+            539.0,
+            1930.0
+          ],
+          "text": "1+2 SCREENING(Ag+Ab)",
+          "confidence": 0.8083
+        },
+        {
+          "block_no": 154,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1902.0,
+            1102.0,
+            1928.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 155,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1936.0,
+            434.0,
+            1964.0
+          ],
+          "text": "VDRL (QUALITATIVE)",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 156,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            1936.0,
+            530.0,
+            1962.0
+          ],
+          "text": "BLOOD",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 157,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1936.0,
+            1102.0,
+            1962.0
+          ],
+          "text": "Lab Others",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 158,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            1994.0,
+            178.0,
+            2026.0
+          ],
+          "text": "pisclaimer",
+          "confidence": 0.9817
+        },
+        {
+          "block_no": 159,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            1992.0,
+            794.0,
+            2020.0
+          ],
+          "text": "All the above dates indicated as Date & Time of the",
+          "confidence": 0.6227
+        },
+        {
+          "block_no": 160,
+          "block_type": 0,
+          "bbox": [
+            856.0,
+            1994.0,
+            908.0,
+            2022.0
+          ],
+          "text": "only",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 161,
+          "block_type": 0,
+          "bbox": [
+            791.1357258102613,
+            1989.1448741467184,
+            857.8642741897387,
+            2025.8551258532816
+          ],
+          "text": "entry",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "Name\nMrs_\nGANIPISETTY\nRAJYALAKSHMI\nIP No\nIP496459\nBill No\nINT1823780\nGrand Total\n331,545.00\nS.No\nService\nDraft not\nC BC\nJ(AUTOMATION\nSTANDARD METHOD)\nC B C (HB,PCV,TC,DCJAUTOMATION +STANDARD METHOD)\n2\nERYTHROCYTE SEDIMENTATION RATE (ESR)\nHaematology\n2\nCOAGULATION PROFILE\nACTIVATED PARTIAL THROMBOPLASTIN TIME\nHaematology\n2\nFACTOR XIII\nSCREENING\nHaematology\n3\nPLATELET COUNT\nHaematology\nPROTHROMBIN TIME\nHaematology\n5\nTHROMBIN TIME\nHaematology\n3\nLab Others\n2\nALKALINE PHOSPHATASE\nSERUMIPLASMA\nLab Others\nALT(SGPT)\nSERUM\nPLASMA\nLab Others\nAMYLASE\nSERUMPLASMA\nLab Others\n5\nBILIRUBIN, TOTAL\nSERUM\nLab Others\nCALCIUM\nSERUM\nLab Others\nCARBONDIOXIDE, TOTAL\nSERUMIPLASMA\nLab Others\nC B C WITH ESR (AUTOMATION\nSTANDARD METHOD)\nLab Others\nCHLORIDE\nSERUM\nPLASMA\nLab Others\n10\nCHOLESTEROL\nSERUM\nPLASMA\nLab Others\n11\nCREATININE\nSERUM\nPLASMA\nLab Others\n12\nGLUCOSE\nSERUM\nPLASMA (RANDOMICASUAL)\nLab Others\n13\nMAGNESIUM\nSERUM\nLab Others\n14\nPHOSPHORUS, INORGANIC\nSERUM\nLab Others\n15\nPOTASSIUM\nSERUM\nPLASMA\nLab Others\n16\nPREALBUMIN SERUM\nLab Others\n17\nPROTEIN, TOTAL\nSERUM\nPLASMA\nLab Others\n18\nSODIUM\nSERUM\nPLASMA\nLab Others\n19\nUREA\nSERUM\nPLASMA\nLab Others\n20\nURIC ACID - SERUM\nLab Others\n21\nURINE ROUTINE (CUE)\nLab Others\nSERUMIPLASMA\nLab Others\nCHLORIDE\nSERUM\nPLASMA\nLab Others\nCREATININE\nSERUM\nPLASMA\nLab Others\nGLUCOSE\nSERUM\nPLASMA (RANDOMICASUAL)\nLab Others\n5\nPOTASSIUM\nSERUM\nPLASMA\nLab Others\nPREALBUMIN SERUM\nLab Others\nSODIUM\nSERUM\nPLASMA\nLab Others\nUREA\nSERUM\nPLASMA\nLab Others\nSCREENING PACK DIALYSIS PROFILE\nANTI HCV ELISA\nLab Others\nHBsAg\nLab Others\nHIV\n1+2 SCREENING(Ag+Ab)\nLab Others\nVDRL (QUALITATIVE)\nBLOOD\nLab Others\npisclaimer\nAll the above dates indicated as Date & Time of the\nonly\nentry",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "IP4",
+          "biomarker_normalized": "IP4",
+          "value": "96459",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IP496459",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "INT1",
+          "biomarker_normalized": "INT1",
+          "value": "823780",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "INT1823780",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 162,
+    "ocr_avg_confidence": 0.9291,
+    "parsed_row_count": 2
+  }
+}

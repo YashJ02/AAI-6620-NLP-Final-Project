@@ -1,0 +1,1233 @@
+{
+  "document_id": "GUR-0425-PA-0045348_Q-FINALBILLWITHDISCHARGEDOCUMENTS_250411_1130@F.pdf_page_86",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0045348_Q-FINALBILLWITHDISCHARGEDOCUMENTS_250411_1130@F.pdf_page_86.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Matt 0l Eucaynte\nAN I0\n9001\n2015\nNabh ACCRIDITId HO:PIAL\nMULTI SPECIALITY\nIHTSHWAR\nHOSPITAL LAB\n(A unit of metro pathlabs\nNaa h\nTB Hospital Road; Near Jagadhri Gate; Ambala City )\nPorieni\nIshwar Hospital Cashless\nSamiplcRecrvcaOl\n03/40./2025 07*54AM\n10585398\nReportng DreTTim:\n03/4p./2025 10.43AM\nTempemhn\nKaintained\nSumple Type\nSejum\nDEPARTMENT OF Biochemistry\nTest Name\nValue\nUnit\nBlo Ref Interval\nMLKAUNE PhOpiuTAY\n112 00\nUAL\n56.0\n119.0\nUcchud AMP\nJTAL Kotein\n721\neldi\n64 - 8,3\nMcthud: MLRET\nALaUN\n3,65\neldl\n3.2-46\nMahedd Bromucrnol Grn\nRunol funclon [031\nCRLA INIML\n0 Ja\nmgdl\n0,7-14\nMcshod: Kinel > Alkalnc Picmte (Jatfe Rexstico}\nFoon MREA\n45,20\nmud\n18,0 - 55.0\nAetliod GLDH UREASE\nURIC 4LID\n418\nmgldl\n15 77\nMath| URICASE\nEnd Of Report\nDr;\nMEDICAL SUPRITENDENT\n0\nISKIAR HOSPiTAL\nH\n0\nFabe 5ois\nFqcilititt :\nFully Aulemilic\nHemnatokr} Aealyrers\nHanorl Ayi\nISHWAR HOspItal\nMuloputholn\nMin Pin Ceoak Saiu Rood, Metr S10ji Mjnd\nJAF\nCybspatholuz}\nFHAC\nDc\nkayot\nDi\n'HAR UR\nKesc,\nAZUMDAR\nRATHLABs)\n@pp hOlusv\n~A:\nReg Na (KMC 3708 4\n4J\nRepo./o..4N24942\n(lccicine)\nCon_elleni\nISHWAR\nPattal g/st\nHoSpital\n0",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            69.0,
+            1550.0,
+            96.0
+          ],
+          "text": "Matt 0l Eucaynte",
+          "confidence": 0.0305
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            88.0,
+            396.0,
+            114.0
+          ],
+          "text": "AN I0",
+          "confidence": 0.1616
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            88.0,
+            458.0,
+            114.0
+          ],
+          "text": "9001",
+          "confidence": 0.8341
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            468.0,
+            88.0,
+            524.0,
+            114.0
+          ],
+          "text": "2015",
+          "confidence": 0.8013
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            86.0,
+            828.0,
+            112.0
+          ],
+          "text": "Nabh ACCRIDITId HO:PIAL",
+          "confidence": 0.0613
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            860.0,
+            116.0,
+            1226.0,
+            168.0
+          ],
+          "text": "MULTI SPECIALITY",
+          "confidence": 0.9852
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            82.0,
+            856.0,
+            256.0
+          ],
+          "text": "IHTSHWAR",
+          "confidence": 0.2696
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            166.0,
+            1182.0,
+            216.0
+          ],
+          "text": "HOSPITAL LAB",
+          "confidence": 0.7239
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            233.0,
+            967.0,
+            282.0
+          ],
+          "text": "(A unit of metro pathlabs",
+          "confidence": 0.6791
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1422.0,
+            240.0,
+            1520.0,
+            272.0
+          ],
+          "text": "Naa h",
+          "confidence": 0.094
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            277.0,
+            1116.0,
+            325.0
+          ],
+          "text": "TB Hospital Road; Near Jagadhri Gate; Ambala City )",
+          "confidence": 0.6154
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            400.0,
+            198.0,
+            428.0
+          ],
+          "text": "Porieni",
+          "confidence": 0.306
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            437.0,
+            472.0,
+            763.0,
+            512.0
+          ],
+          "text": "Ishwar Hospital Cashless",
+          "confidence": 0.5868
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            476.0,
+            1150.0,
+            506.0
+          ],
+          "text": "SamiplcRecrvcaOl",
+          "confidence": 0.0804
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1245.0,
+            475.0,
+            1538.0,
+            511.0
+          ],
+          "text": "03/40./2025 07*54AM",
+          "confidence": 0.4037
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            439.0,
+            511.0,
+            579.0,
+            551.0
+          ],
+          "text": "10585398",
+          "confidence": 0.6365
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            511.0,
+            1147.0,
+            549.0
+          ],
+          "text": "Reportng DreTTim:",
+          "confidence": 0.1848
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1245.0,
+            513.0,
+            1539.0,
+            549.0
+          ],
+          "text": "03/4p./2025 10.43AM",
+          "confidence": 0.4412
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            559.0,
+            344.0,
+            589.0
+          ],
+          "text": "Tempemhn",
+          "confidence": 0.1788
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            442.0,
+            560.0,
+            574.0,
+            586.0
+          ],
+          "text": "Kaintained",
+          "confidence": 0.2128
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            560.0,
+            1070.0,
+            592.0
+          ],
+          "text": "Sumple Type",
+          "confidence": 0.4166
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            560.0,
+            1320.0,
+            586.0
+          ],
+          "text": "Sejum",
+          "confidence": 0.1248
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            633.0,
+            677.0,
+            1040.0,
+            710.0
+          ],
+          "text": "DEPARTMENT OF Biochemistry",
+          "confidence": 0.639
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            724.0,
+            254.0,
+            756.0
+          ],
+          "text": "Test Name",
+          "confidence": 0.7025
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            726.0,
+            722.0,
+            756.0
+          ],
+          "text": "Value",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            726.0,
+            994.0,
+            756.0
+          ],
+          "text": "Unit",
+          "confidence": 0.7018
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            725.0,
+            1351.0,
+            757.0
+          ],
+          "text": "Blo Ref Interval",
+          "confidence": 0.5383
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            767.0,
+            358.0,
+            796.0
+          ],
+          "text": "MLKAUNE PhOpiuTAY",
+          "confidence": 0.0136
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            772.0,
+            736.0,
+            802.0
+          ],
+          "text": "112 00",
+          "confidence": 0.3678
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            772.0,
+            984.0,
+            804.0
+          ],
+          "text": "UAL",
+          "confidence": 0.5401
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            772.0,
+            1218.0,
+            804.0
+          ],
+          "text": "56.0",
+          "confidence": 0.9314
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            772.0,
+            1306.0,
+            804.0
+          ],
+          "text": "119.0",
+          "confidence": 0.9244
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            796.0,
+            266.0,
+            824.0
+          ],
+          "text": "Ucchud AMP",
+          "confidence": 0.1546
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            828.0,
+            273.0,
+            856.0
+          ],
+          "text": "JTAL Kotein",
+          "confidence": 0.0748
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            830.0,
+            706.0,
+            862.0
+          ],
+          "text": "721",
+          "confidence": 0.5396
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            931.0,
+            831.0,
+            991.0,
+            869.0
+          ],
+          "text": "eldi",
+          "confidence": 0.9421
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            832.0,
+            1262.0,
+            864.0
+          ],
+          "text": "64 - 8,3",
+          "confidence": 0.4514
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            856.0,
+            294.0,
+            884.0
+          ],
+          "text": "Mcthud: MLRET",
+          "confidence": 0.253
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            888.0,
+            216.0,
+            914.0
+          ],
+          "text": "ALaUN",
+          "confidence": 0.0794
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            892.0,
+            706.0,
+            922.0
+          ],
+          "text": "3,65",
+          "confidence": 0.6173
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            891.0,
+            991.0,
+            927.0
+          ],
+          "text": "eldl",
+          "confidence": 0.3167
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            892.0,
+            1262.0,
+            922.0
+          ],
+          "text": "3.2-46",
+          "confidence": 0.5906
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            916.0,
+            394.0,
+            942.0
+          ],
+          "text": "Mahedd Bromucrnol Grn",
+          "confidence": 0.1207
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            948.0,
+            308.0,
+            974.0
+          ],
+          "text": "Runol funclon [031",
+          "confidence": 0.1645
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            986.0,
+            238.0,
+            1012.0
+          ],
+          "text": "CRLA INIML",
+          "confidence": 0.282
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            990.0,
+            706.0,
+            1020.0
+          ],
+          "text": "0 Ja",
+          "confidence": 0.3217
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            987.0,
+            1012.0,
+            1028.0
+          ],
+          "text": "mgdl",
+          "confidence": 0.6278
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            990.0,
+            1260.0,
+            1020.0
+          ],
+          "text": "0,7-14",
+          "confidence": 0.494
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1012.0,
+            590.0,
+            1042.0
+          ],
+          "text": "Mcshod: Kinel > Alkalnc Picmte (Jatfe Rexstico}",
+          "confidence": 0.125
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1046.0,
+            248.0,
+            1072.0
+          ],
+          "text": "Foon MREA",
+          "confidence": 0.2302
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1050.0,
+            718.0,
+            1080.0
+          ],
+          "text": "45,20",
+          "confidence": 0.843
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            931.0,
+            1049.0,
+            1009.0,
+            1085.0
+          ],
+          "text": "mud",
+          "confidence": 0.1548
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1050.0,
+            1290.0,
+            1080.0
+          ],
+          "text": "18,0 - 55.0",
+          "confidence": 0.3071
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1072.0,
+            366.0,
+            1102.0
+          ],
+          "text": "Aetliod GLDH UREASE",
+          "confidence": 0.1173
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1106.0,
+            224.0,
+            1134.0
+          ],
+          "text": "URIC 4LID",
+          "confidence": 0.3288
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1110.0,
+            704.0,
+            1138.0
+          ],
+          "text": "418",
+          "confidence": 0.8565
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            1109.0,
+            1009.0,
+            1145.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.3311
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1110.0,
+            1258.0,
+            1138.0
+          ],
+          "text": "15 77",
+          "confidence": 0.3961
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1131.0,
+            306.0,
+            1159.0
+          ],
+          "text": "Math| URICASE",
+          "confidence": 0.2772
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            713.0,
+            1240.0,
+            907.0,
+            1280.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.4568
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1596.0,
+            510.0,
+            1646.0
+          ],
+          "text": "Dr;",
+          "confidence": 0.2626
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            835.0,
+            1857.0,
+            1233.0,
+            1934.0
+          ],
+          "text": "MEDICAL SUPRITENDENT",
+          "confidence": 0.6385
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            1896.0,
+            564.0,
+            1955.0
+          ],
+          "text": "0",
+          "confidence": 0.6514
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            862.0,
+            1906.0,
+            1212.0,
+            1968.0
+          ],
+          "text": "ISKIAR HOSPiTAL",
+          "confidence": 0.0936
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            376.0,
+            1908.0,
+            478.0,
+            2020.0
+          ],
+          "text": "H",
+          "confidence": 0.1237
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1973.0,
+            1045.0,
+            2005.0
+          ],
+          "text": "0",
+          "confidence": 0.1723
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1438.0,
+            1989.0,
+            1556.0,
+            2019.0
+          ],
+          "text": "Fabe 5ois",
+          "confidence": 0.1356
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1463.0,
+            2020.0,
+            1590.0,
+            2050.0
+          ],
+          "text": "Fqcilititt :",
+          "confidence": 0.1281
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1404.0,
+            2050.0,
+            1566.0,
+            2076.0
+          ],
+          "text": "Fully Aulemilic",
+          "confidence": 0.5989
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1349.0,
+            2072.0,
+            1572.0,
+            2102.0
+          ],
+          "text": "Hemnatokr} Aealyrers",
+          "confidence": 0.2037
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            2100.0,
+            1572.0,
+            2128.0
+          ],
+          "text": "Hanorl Ayi",
+          "confidence": 0.0271
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            2134.0,
+            366.0,
+            2162.0
+          ],
+          "text": "ISHWAR HOspItal",
+          "confidence": 0.1161
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1422.0,
+            2126.0,
+            1570.0,
+            2154.0
+          ],
+          "text": "Muloputholn",
+          "confidence": 0.2108
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            2158.0,
+            564.0,
+            2186.0
+          ],
+          "text": "Min Pin Ceoak Saiu Rood, Metr S10ji Mjnd",
+          "confidence": 0.052
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            871.0,
+            2145.0,
+            949.0,
+            2181.0
+          ],
+          "text": "JAF",
+          "confidence": 0.5502
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1424.0,
+            2152.0,
+            1570.0,
+            2180.0
+          ],
+          "text": "Cybspatholuz}",
+          "confidence": 0.2014
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1508.0,
+            2178.0,
+            1572.0,
+            2200.0
+          ],
+          "text": "FHAC",
+          "confidence": 0.4354
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            172.65465441200737,
+            565.0422957386388,
+            212.34534558799263,
+            584.9577042613612
+          ],
+          "text": "Dc",
+          "confidence": 0.3241
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1237.0277360627988,
+            1584.0490820806353,
+            1418.9722639372012,
+            1681.9509179193647
+          ],
+          "text": "kayot",
+          "confidence": 0.1661
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1170.1946534803506,
+            1595.0866917312576,
+            1259.8053465196494,
+            1657.9133082687424
+          ],
+          "text": "Di",
+          "confidence": 0.2357
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            491.0032866269625,
+            1601.0499675588485,
+            653.9967133730376,
+            1689.9500324411515
+          ],
+          "text": "'HAR UR",
+          "confidence": 0.059
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1169.0455569185722,
+            1636.0680303808392,
+            1281.9544430814278,
+            1705.9319696191608
+          ],
+          "text": "Kesc,",
+          "confidence": 0.1513
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            630.0111439076759,
+            1637.0316324430744,
+            854.9888560923241,
+            1745.9683675569256
+          ],
+          "text": "AZUMDAR",
+          "confidence": 0.9104
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            86.02174868228045,
+            1626.983134781444,
+            356.9782513177196,
+            1884.016865218556
+          ],
+          "text": "RATHLABs)",
+          "confidence": 0.1262
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1261.0136083395005,
+            1661.0263603692285,
+            1527.9863916604995,
+            1767.9736396307715
+          ],
+          "text": "@pp hOlusv",
+          "confidence": 0.1058
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1426.1257074671407,
+            1661.0778621224576,
+            1540.8742925328593,
+            1726.9221378775424
+          ],
+          "text": "~A:",
+          "confidence": 0.0652
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1186.0256279972161,
+            1679.0198114734276,
+            1500.9743720027839,
+            1800.9801885265724
+          ],
+          "text": "Reg Na (KMC 3708 4",
+          "confidence": 0.0605
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            606.2182421447433,
+            1681.0970966215455,
+            687.7817578552567,
+            1740.9029033784545
+          ],
+          "text": "4J",
+          "confidence": 0.129
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            476.04792192385224,
+            1685.0187970590216,
+            779.9520780761477,
+            1809.9812029409784
+          ],
+          "text": "Repo./o..4N24942",
+          "confidence": 0.087
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            673.0,
+            1702.0502525316942,
+            840.0,
+            1781.9497474683058
+          ],
+          "text": "(lccicine)",
+          "confidence": 0.1451
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1176.0019275437467,
+            1716.0390939795766,
+            1344.9980724562533,
+            1794.9609060204234
+          ],
+          "text": "Con_elleni",
+          "confidence": 0.1988
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            443.000878674575,
+            1712.0395826365625,
+            612.999121325425,
+            1800.9604173634375
+          ],
+          "text": "ISHWAR",
+          "confidence": 0.9766
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1323.0108114030313,
+            1749.0386106164317,
+            1499.9891885969687,
+            1838.9613893835683
+          ],
+          "text": "Pattal g/st",
+          "confidence": 0.0346
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            593.0084469543102,
+            1754.0342469783857,
+            791.9915530456898,
+            1848.9657530216143
+          ],
+          "text": "HoSpital",
+          "confidence": 0.3193
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            84.55376842786131,
+            1855.01340876702,
+            189.4462315721387,
+            2077.98659123298
+          ],
+          "text": "0",
+          "confidence": 0.195
+        }
+      ]
+    }
+  ],
+  "full_text": "Matt 0l Eucaynte\nAN I0\n9001\n2015\nNabh ACCRIDITId HO:PIAL\nMULTI SPECIALITY\nIHTSHWAR\nHOSPITAL LAB\n(A unit of metro pathlabs\nNaa h\nTB Hospital Road; Near Jagadhri Gate; Ambala City )\nPorieni\nIshwar Hospital Cashless\nSamiplcRecrvcaOl\n03/40./2025 07*54AM\n10585398\nReportng DreTTim:\n03/4p./2025 10.43AM\nTempemhn\nKaintained\nSumple Type\nSejum\nDEPARTMENT OF Biochemistry\nTest Name\nValue\nUnit\nBlo Ref Interval\nMLKAUNE PhOpiuTAY\n112 00\nUAL\n56.0\n119.0\nUcchud AMP\nJTAL Kotein\n721\neldi\n64 - 8,3\nMcthud: MLRET\nALaUN\n3,65\neldl\n3.2-46\nMahedd Bromucrnol Grn\nRunol funclon [031\nCRLA INIML\n0 Ja\nmgdl\n0,7-14\nMcshod: Kinel > Alkalnc Picmte (Jatfe Rexstico}\nFoon MREA\n45,20\nmud\n18,0 - 55.0\nAetliod GLDH UREASE\nURIC 4LID\n418\nmgldl\n15 77\nMath| URICASE\nEnd Of Report\nDr;\nMEDICAL SUPRITENDENT\n0\nISKIAR HOSPiTAL\nH\n0\nFabe 5ois\nFqcilititt :\nFully Aulemilic\nHemnatokr} Aealyrers\nHanorl Ayi\nISHWAR HOspItal\nMuloputholn\nMin Pin Ceoak Saiu Rood, Metr S10ji Mjnd\nJAF\nCybspatholuz}\nFHAC\nDc\nkayot\nDi\n'HAR UR\nKesc,\nAZUMDAR\nRATHLABs)\n@pp hOlusv\n~A:\nReg Na (KMC 3708 4\n4J\nRepo./o..4N24942\n(lccicine)\nCon_elleni\nISHWAR\nPattal g/st\nHoSpital\n0",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Matt",
+          "biomarker_normalized": "Matt",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Matt 0l Eucaynte",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Runol funclon [",
+          "biomarker_normalized": "Runol funclon [",
+          "value": "031",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Runol funclon [031",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "URIC",
+          "biomarker_normalized": "URIC",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "URIC 4LID",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Fabe",
+          "biomarker_normalized": "Fabe",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Fabe 5ois",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Min Pin Ceoak Saiu Rood, Metr S1",
+          "biomarker_normalized": "Min Pin Ceoak Saiu Rood, Metr S1",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Min Pin Ceoak Saiu Rood, Metr S10ji Mjnd",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Reg Na (KMC",
+          "biomarker_normalized": "Reg Na (KMC",
+          "value": "3708",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reg Na (KMC 3708 4",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Repo./o..",
+          "biomarker_normalized": "Repo./o..",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Repo./o..4N24942",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 95,
+    "ocr_avg_confidence": 0.3635,
+    "parsed_row_count": 7
+  }
+}

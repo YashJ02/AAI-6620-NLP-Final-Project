@@ -1,0 +1,1218 @@
+{
+  "document_id": "GUR-0425-PA-0053434_Q-PREETI4837000111zon_250427_1314@F.pdf_page_38",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053434_Q-PREETI4837000111zon_250427_1314@F.pdf_page_38.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "0RCAR SUPER SPECIALITY HOSPITAL\n%5\n& TRAUMA CENTRE\ndpp. Civil Hospital, Sonipat\nMob\nTransactian No;\n42325\nPatient Nime\nMRS PREETI\nDate\nMobile Ne\n4837\nDoctor Nane\nKumaRI\nReporting Date\nBIOCHEMISTRY REPORI\nHost Nan\nVIAMIN D3L25 QHJ\nCOMPONENT\nRESULIS\nUNITS\nREFE RANGE\nMIAMINI325-OH\nWITAMIN P3(25-Oh)\n19.6\nne/ml\n20-.100\nBlologica Rel Interval\nDeficienc\nBelow ?0   ng/ml\nInsufficie cy\n20.0\n30.0 nelml\nSufficiend\n330.0-100.0\nToxlcily\nbovc 100.0 ng/ml\ncOMMENTES\nCholicai-ifcrol (vitamin D3| i5 synthesized in thc skin\n7 dehydrocholestrol in\nresponse\n0 sunlight: Erogocalciferol ( vltamin D2} comes essentilly from diet Jnd\n(supplemehts The assay mcsurcs both D2 (Ergocalciferol) and D3 (Cholecalciferol)\nmelabolites ofvitamin D\nVitamin Dstatus is best determined DY measurcment of 25 hydroxy Vitamin D,as i I5\nthc majorclrculating\nand has longer half Iile (2-3 weeks) than 1,25 Dihydroxy\nvitamin Di\n5-8 hrsk\n2 Both chplicalciferol and Ergocalciferol are converted in Iiver to 25 OH Vitamin D\n3.25 OH MLamin D is considered the best Indicator ol Vitamin D nutritional slalus-\nVitamii D toxicity is recognizcd, but is arere Occurancc.\n5.Vitamin\nIcvel shows seasonal varition, with values being 40-SO% lower in winter\nIhan in summer.\nDecrease\nLevels:\nInadequate exposure to sunlight,\nDietary deficiency:\nDr. GURLEEN GILL\nVitamin\nmalabsorption_\nMBBS,\nM\nSevere\ncpatocellular disease\nD (Pathology)\nNo.\n~SMCIRI21938\nEND OF REPORT**t\nHose\nDr. SWETA KUJMARI\nMB.BRM.s\n(Obs: & Gyriae\nRegd: HN 01324;\nCBC, Thyroid, Kidney Finction Test,LIver Function Test; Lipid Protile. Blood Sugar LH, FSH, Prolactin, B-HCG, TORCH, CA-125,CEA, PSA\n30/40 Coled Depplec Ultrasound, H.S G. IVP; Barlum Studles, Digital X-[\nMult Sllce Spiral CT Scan;EC.G\nEG-21 Channels EMG NcV Vep 8.ERA. PfT & Comprehensive Health Check-Wesetc.\n30/4D Ultrasound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FC R MEDICO LEGAL PURPOSE\nTm\n24 12 yurtan #|\nng/ml\nUrom\nTrom\nRega:\nRay\n7\nufaat",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            263.0,
+            75.0,
+            1407.0,
+            163.0
+          ],
+          "text": "0RCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.5108
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            169.0,
+            203.0,
+            259.0
+          ],
+          "text": "%5",
+          "confidence": 0.1372
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            533.0,
+            164.0,
+            1139.0,
+            250.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9965
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            253.0,
+            756.0,
+            309.0
+          ],
+          "text": "dpp. Civil Hospital, Sonipat",
+          "confidence": 0.5406
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            784.0,
+            254.0,
+            866.0,
+            302.0
+          ],
+          "text": "Mob",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            444.0,
+            396.0,
+            472.0
+          ],
+          "text": "Transactian No;",
+          "confidence": 0.5628
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            456.0,
+            444.0,
+            534.0,
+            472.0
+          ],
+          "text": "42325",
+          "confidence": 0.9903
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            480.0,
+            378.0,
+            510.0
+          ],
+          "text": "Patient Nime",
+          "confidence": 0.5297
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            478.0,
+            598.0,
+            508.0
+          ],
+          "text": "MRS PREETI",
+          "confidence": 0.5813
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            478.0,
+            1134.0,
+            504.0
+          ],
+          "text": "Date",
+          "confidence": 0.8948
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            514.0,
+            330.0,
+            544.0
+          ],
+          "text": "Mobile Ne",
+          "confidence": 0.4424
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            512.0,
+            1262.0,
+            538.0
+          ],
+          "text": "4837",
+          "confidence": 0.8182
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            550.0,
+            374.0,
+            578.0
+          ],
+          "text": "Doctor Nane",
+          "confidence": 0.3678
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            548.0,
+            682.0,
+            578.0
+          ],
+          "text": "KumaRI",
+          "confidence": 0.4521
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            548.0,
+            1140.0,
+            578.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.8768
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            621.0,
+            821.0,
+            659.0
+          ],
+          "text": "BIOCHEMISTRY REPORI",
+          "confidence": 0.8724
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            688.0,
+            335.0,
+            717.0
+          ],
+          "text": "Host Nan",
+          "confidence": 0.2339
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            456.0,
+            686.0,
+            694.0,
+            718.0
+          ],
+          "text": "VIAMIN D3L25 QHJ",
+          "confidence": 0.409
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            722.0,
+            382.0,
+            754.0
+          ],
+          "text": "COMPONENT",
+          "confidence": 0.2405
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            643.0,
+            721.0,
+            749.0,
+            751.0
+          ],
+          "text": "RESULIS",
+          "confidence": 0.7847
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            720.0,
+            1172.0,
+            750.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.5136
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            718.0,
+            1356.0,
+            750.0
+          ],
+          "text": "REFE RANGE",
+          "confidence": 0.6018
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            761.0,
+            439.0,
+            792.0
+          ],
+          "text": "MIAMINI325-OH",
+          "confidence": 0.2802
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            793.0,
+            455.0,
+            829.0
+          ],
+          "text": "WITAMIN P3(25-Oh)",
+          "confidence": 0.2086
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            796.0,
+            834.0,
+            822.0
+          ],
+          "text": "19.6",
+          "confidence": 0.8621
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1093.0,
+            791.0,
+            1171.0,
+            827.0
+          ],
+          "text": "ne/ml",
+          "confidence": 0.473
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            794.0,
+            1294.0,
+            820.0
+          ],
+          "text": "20-.100",
+          "confidence": 0.6042
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            853.0,
+            471.0,
+            889.0
+          ],
+          "text": "Blologica Rel Interval",
+          "confidence": 0.8939
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            890.0,
+            338.0,
+            920.0
+          ],
+          "text": "Deficienc",
+          "confidence": 0.7908
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            885.0,
+            553.0,
+            923.0
+          ],
+          "text": "Below ?0   ng/ml",
+          "confidence": 0.449
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            923.0,
+            371.0,
+            959.0
+          ],
+          "text": "Insufficie cy",
+          "confidence": 0.682
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            380.0,
+            924.0,
+            438.0,
+            954.0
+          ],
+          "text": "20.0",
+          "confidence": 0.941
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            447.0,
+            923.0,
+            579.0,
+            959.0
+          ],
+          "text": "30.0 nelml",
+          "confidence": 0.5814
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            962.0,
+            340.0,
+            992.0
+          ],
+          "text": "Sufficiend",
+          "confidence": 0.5848
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            960.0,
+            490.0,
+            990.0
+          ],
+          "text": "330.0-100.0",
+          "confidence": 0.7286
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            996.0,
+            316.0,
+            1028.0
+          ],
+          "text": "Toxlcily",
+          "confidence": 0.7025
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            341.0,
+            995.0,
+            547.0,
+            1031.0
+          ],
+          "text": "bovc 100.0 ng/ml",
+          "confidence": 0.9236
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1032.0,
+            382.0,
+            1064.0
+          ],
+          "text": "cOMMENTES",
+          "confidence": 0.4566
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            249.0,
+            1065.0,
+            831.0,
+            1101.0
+          ],
+          "text": "Cholicai-ifcrol (vitamin D3| i5 synthesized in thc skin",
+          "confidence": 0.2985
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            889.0,
+            1061.0,
+            1145.0,
+            1098.0
+          ],
+          "text": "7 dehydrocholestrol in",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1108.0,
+            330.0,
+            1136.0
+          ],
+          "text": "response",
+          "confidence": 0.96
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            339.0,
+            1099.0,
+            1123.0,
+            1135.0
+          ],
+          "text": "0 sunlight: Erogocalciferol ( vltamin D2} comes essentilly from diet Jnd",
+          "confidence": 0.3911
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            1133.0,
+            1133.0,
+            1176.0
+          ],
+          "text": "(supplemehts The assay mcsurcs both D2 (Ergocalciferol) and D3 (Cholecalciferol)",
+          "confidence": 0.5324
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1174.0,
+            502.0,
+            1204.0
+          ],
+          "text": "melabolites ofvitamin D",
+          "confidence": 0.6331
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1205.0,
+            1171.0,
+            1243.0
+          ],
+          "text": "Vitamin Dstatus is best determined DY measurcment of 25 hydroxy Vitamin D,as i I5",
+          "confidence": 0.3566
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1243.0,
+            463.0,
+            1279.0
+          ],
+          "text": "thc majorclrculating",
+          "confidence": 0.6913
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            517.0,
+            1240.0,
+            1143.0,
+            1278.0
+          ],
+          "text": "and has longer half Iile (2-3 weeks) than 1,25 Dihydroxy",
+          "confidence": 0.5995
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1281.0,
+            336.0,
+            1310.0
+          ],
+          "text": "vitamin Di",
+          "confidence": 0.5377
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            344.0,
+            1282.0,
+            444.0,
+            1312.0
+          ],
+          "text": "5-8 hrsk",
+          "confidence": 0.5291
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            1313.0,
+            1135.0,
+            1349.0
+          ],
+          "text": "2 Both chplicalciferol and Ergocalciferol are converted in Iiver to 25 OH Vitamin D",
+          "confidence": 0.4454
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1349.0,
+            1133.0,
+            1385.0
+          ],
+          "text": "3.25 OH MLamin D is considered the best Indicator ol Vitamin D nutritional slalus-",
+          "confidence": 0.4345
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            1388.0,
+            874.0,
+            1421.0
+          ],
+          "text": "Vitamii D toxicity is recognizcd, but is arere Occurancc.",
+          "confidence": 0.3122
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1426.0,
+            338.0,
+            1454.0
+          ],
+          "text": "5.Vitamin",
+          "confidence": 0.6071
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            359.0,
+            1418.0,
+            1157.0,
+            1458.0
+          ],
+          "text": "Icvel shows seasonal varition, with values being 40-SO% lower in winter",
+          "confidence": 0.5765
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1462.0,
+            414.0,
+            1492.0
+          ],
+          "text": "Ihan in summer.",
+          "confidence": 0.3223
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1496.0,
+            336.0,
+            1524.0
+          ],
+          "text": "Decrease",
+          "confidence": 0.9567
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            1496.0,
+            432.0,
+            1524.0
+          ],
+          "text": "Levels:",
+          "confidence": 0.7361
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            245.0,
+            1529.0,
+            617.0,
+            1565.0
+          ],
+          "text": "Inadequate exposure to sunlight,",
+          "confidence": 0.6001
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            1564.0,
+            455.0,
+            1601.0
+          ],
+          "text": "Dietary deficiency:",
+          "confidence": 0.7877
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1051.0,
+            1563.0,
+            1431.0,
+            1623.0
+          ],
+          "text": "Dr. GURLEEN GILL",
+          "confidence": 0.8953
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            1601.0,
+            334.0,
+            1633.0
+          ],
+          "text": "Vitamin",
+          "confidence": 0.9898
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            353.0,
+            1600.0,
+            528.0,
+            1633.0
+          ],
+          "text": "malabsorption_",
+          "confidence": 0.5961
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1051.0,
+            1608.0,
+            1162.0,
+            1653.0
+          ],
+          "text": "MBBS,",
+          "confidence": 0.8068
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1171.0,
+            1617.0,
+            1209.0,
+            1653.0
+          ],
+          "text": "M",
+          "confidence": 0.3678
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            1640.0,
+            324.0,
+            1670.0
+          ],
+          "text": "Severe",
+          "confidence": 0.9834
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            1634.0,
+            579.0,
+            1671.0
+          ],
+          "text": "cpatocellular disease",
+          "confidence": 0.5573
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1614.0,
+            1429.0,
+            1667.0
+          ],
+          "text": "D (Pathology)",
+          "confidence": 0.7117
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1147.0,
+            1653.0,
+            1210.0,
+            1693.0
+          ],
+          "text": "No.",
+          "confidence": 0.7847
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1195.0,
+            1644.0,
+            1430.0,
+            1705.0
+          ],
+          "text": "~SMCIRI21938",
+          "confidence": 0.305
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            597.0,
+            1737.0,
+            877.0,
+            1773.0
+          ],
+          "text": "END OF REPORT**t",
+          "confidence": 0.3055
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            237.0,
+            1760.0,
+            294.0,
+            1788.0
+          ],
+          "text": "Hose",
+          "confidence": 0.4991
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1804.0,
+            880.0,
+            1860.0
+          ],
+          "text": "Dr. SWETA KUJMARI",
+          "confidence": 0.4513
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            619.0,
+            1847.0,
+            868.0,
+            1903.0
+          ],
+          "text": "MB.BRM.s",
+          "confidence": 0.1588
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            591.0,
+            1894.0,
+            861.0,
+            1935.0
+          ],
+          "text": "(Obs: & Gyriae",
+          "confidence": 0.5235
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1925.0,
+            882.0,
+            1974.0
+          ],
+          "text": "Regd: HN 01324;",
+          "confidence": 0.557
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            1992.0,
+            1605.0,
+            2037.0
+          ],
+          "text": "CBC, Thyroid, Kidney Finction Test,LIver Function Test; Lipid Protile. Blood Sugar LH, FSH, Prolactin, B-HCG, TORCH, CA-125,CEA, PSA",
+          "confidence": 0.074
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            2043.0,
+            1027.0,
+            2083.0
+          ],
+          "text": "30/40 Coled Depplec Ultrasound, H.S G. IVP; Barlum Studles, Digital X-[",
+          "confidence": 0.1007
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1077.0,
+            2041.0,
+            1485.0,
+            2077.0
+          ],
+          "text": "Mult Sllce Spiral CT Scan;EC.G",
+          "confidence": 0.208
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            347.0,
+            2073.0,
+            1359.0,
+            2112.0
+          ],
+          "text": "EG-21 Channels EMG NcV Vep 8.ERA. PfT & Comprehensive Health Check-Wesetc.",
+          "confidence": 0.1062
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            2134.0,
+            1561.0,
+            2200.0
+          ],
+          "text": "30/4D Ultrasound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab",
+          "confidence": 0.6453
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            2214.0,
+            782.0,
+            2268.0
+          ],
+          "text": "NOT FC R MEDICO LEGAL PURPOSE",
+          "confidence": 0.5167
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            2217.0,
+            1007.0,
+            2259.0
+          ],
+          "text": "Tm",
+          "confidence": 0.1411
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            2217.0,
+            1431.0,
+            2259.0
+          ],
+          "text": "24 12 yurtan #|",
+          "confidence": 0.0859
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            483.5430712064641,
+            955.5800531983135,
+            561.4569287935359,
+            994.4199468016865
+          ],
+          "text": "ng/ml",
+          "confidence": 0.6567
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            825.110126028514,
+            1063.1638810551212,
+            891.889873971486,
+            1097.8361189448788
+          ],
+          "text": "Urom",
+          "confidence": 0.1829
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            455.11727913671876,
+            1243.1638810551212,
+            519.8827208632812,
+            1277.8361189448788
+          ],
+          "text": "Trom",
+          "confidence": 0.6793
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1048.0887903436903,
+            1647.0912945443088,
+            1153.9112096563097,
+            1700.9087054556912
+          ],
+          "text": "Rega:",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1016.1588023617526,
+            2041.1219034952862,
+            1080.8411976382474,
+            2080.878096504714
+          ],
+          "text": "Ray",
+          "confidence": 0.5253
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1001.3422853577002,
+            2216.1317018509494,
+            1069.6577146422999,
+            2261.8682981490506
+          ],
+          "text": "7",
+          "confidence": 0.0488
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1060.102633403899,
+            2206.9531250296504,
+            1169.897366596101,
+            2269.0468749703496
+          ],
+          "text": "ufaat",
+          "confidence": 0.1405
+        }
+      ]
+    }
+  ],
+  "full_text": "0RCAR SUPER SPECIALITY HOSPITAL\n%5\n& TRAUMA CENTRE\ndpp. Civil Hospital, Sonipat\nMob\nTransactian No;\n42325\nPatient Nime\nMRS PREETI\nDate\nMobile Ne\n4837\nDoctor Nane\nKumaRI\nReporting Date\nBIOCHEMISTRY REPORI\nHost Nan\nVIAMIN D3L25 QHJ\nCOMPONENT\nRESULIS\nUNITS\nREFE RANGE\nMIAMINI325-OH\nWITAMIN P3(25-Oh)\n19.6\nne/ml\n20-.100\nBlologica Rel Interval\nDeficienc\nBelow ?0   ng/ml\nInsufficie cy\n20.0\n30.0 nelml\nSufficiend\n330.0-100.0\nToxlcily\nbovc 100.0 ng/ml\ncOMMENTES\nCholicai-ifcrol (vitamin D3| i5 synthesized in thc skin\n7 dehydrocholestrol in\nresponse\n0 sunlight: Erogocalciferol ( vltamin D2} comes essentilly from diet Jnd\n(supplemehts The assay mcsurcs both D2 (Ergocalciferol) and D3 (Cholecalciferol)\nmelabolites ofvitamin D\nVitamin Dstatus is best determined DY measurcment of 25 hydroxy Vitamin D,as i I5\nthc majorclrculating\nand has longer half Iile (2-3 weeks) than 1,25 Dihydroxy\nvitamin Di\n5-8 hrsk\n2 Both chplicalciferol and Ergocalciferol are converted in Iiver to 25 OH Vitamin D\n3.25 OH MLamin D is considered the best Indicator ol Vitamin D nutritional slalus-\nVitamii D toxicity is recognizcd, but is arere Occurancc.\n5.Vitamin\nIcvel shows seasonal varition, with values being 40-SO% lower in winter\nIhan in summer.\nDecrease\nLevels:\nInadequate exposure to sunlight,\nDietary deficiency:\nDr. GURLEEN GILL\nVitamin\nmalabsorption_\nMBBS,\nM\nSevere\ncpatocellular disease\nD (Pathology)\nNo.\n~SMCIRI21938\nEND OF REPORT**t\nHose\nDr. SWETA KUJMARI\nMB.BRM.s\n(Obs: & Gyriae\nRegd: HN 01324;\nCBC, Thyroid, Kidney Finction Test,LIver Function Test; Lipid Protile. Blood Sugar LH, FSH, Prolactin, B-HCG, TORCH, CA-125,CEA, PSA\n30/40 Coled Depplec Ultrasound, H.S G. IVP; Barlum Studles, Digital X-[\nMult Sllce Spiral CT Scan;EC.G\nEG-21 Channels EMG NcV Vep 8.ERA. PfT & Comprehensive Health Check-Wesetc.\n30/4D Ultrasound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FC R MEDICO LEGAL PURPOSE\nTm\n24 12 yurtan #|\nng/ml\nUrom\nTrom\nRega:\nRay\n7\nufaat",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "VIAMIN D3L2",
+          "biomarker_normalized": "VIAMIN D3L2",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "VIAMIN D3L25 QHJ",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MIAMINI3",
+          "biomarker_normalized": "MIAMINI3",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MIAMINI325-OH",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "WITAMIN P3(",
+          "biomarker_normalized": "WITAMIN P3(",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "WITAMIN P3(25-Oh)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Below ?",
+          "biomarker_normalized": "Below ?",
+          "value": "0",
+          "unit": "ng/ml",
+          "reference_range": "",
+          "source_line": "Below ?0 ng/ml",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "bovc",
+          "biomarker_normalized": "bovc",
+          "value": "100.0",
+          "unit": "ng/ml",
+          "reference_range": "",
+          "source_line": "bovc 100.0 ng/ml",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Vitamin Dstatus is best determined DY measurcment of",
+          "biomarker_normalized": "Vitamin Dstatus is best determined DY measurcment of",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Vitamin Dstatus is best determined DY measurcment of 25 hydroxy Vitamin D,as i I5",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "and has longer half Iile (",
+          "biomarker_normalized": "and has longer half Iile (",
+          "value": "2",
+          "unit": "",
+          "reference_range": "2-3",
+          "source_line": "and has longer half Iile (2-3 weeks) than 1,25 Dihydroxy",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Icvel shows seasonal varition, with values being",
+          "biomarker_normalized": "Icvel shows seasonal varition, with values being",
+          "value": "40",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Icvel shows seasonal varition, with values being 40-SO% lower in winter",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~SMCIRI2",
+          "biomarker_normalized": "~SMCIRI2",
+          "value": "1938",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~SMCIRI21938",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Regd: HN",
+          "biomarker_normalized": "Regd: HN",
+          "value": "01324",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd: HN 01324;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CBC, Thyroid, Kidney Finction Test,LIver Function Test; Lipid Protile. Blood Sugar LH, FSH, Prolactin, B-HCG, TORCH, CA",
+          "biomarker_normalized": "CBC, Thyroid, Kidney Finction Test,LIver Function Test; Lipid Protile. Blood Sugar LH, FSH, Prolactin, B-HCG, TORCH, CA",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBC, Thyroid, Kidney Finction Test,LIver Function Test; Lipid Protile. Blood Sugar LH, FSH, Prolactin, B-HCG, TORCH, CA-125,CEA, PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "EG",
+          "biomarker_normalized": "EG",
+          "value": "21",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EG-21 Channels EMG NcV Vep 8.ERA. PfT & Comprehensive Health Check-Wesetc.",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 90,
+    "ocr_avg_confidence": 0.5603,
+    "parsed_row_count": 12
+  }
+}

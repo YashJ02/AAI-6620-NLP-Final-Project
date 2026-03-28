@@ -1,0 +1,1560 @@
+{
+  "document_id": "MUM-0125-PA-0001141_W2500438UNADKAT ASHWIN_27-04-2025_1001-12_AM.pdf_page_113",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\MUM-0125-PA-0001141_W2500438UNADKAT ASHWIN_27-04-2025_1001-12_AM.pdf_page_113.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RADIOMETER ABL8OO FLEX\nABL835 RUBY-WANAWORIE NAEL MC-5307\n03.58 PM\n1/21/2025\nPATIENT REPORT\nSyririge:\n5 195uL\nSample #\n41361\nIdentifications\nPatient IC\nW2500438\nPatient Laste\nPatientl\nSample]\nArterial\n22,0\nFO_(I)\n21.0 %\nBlood Gas Values\nPH\n7.413\n7.350\n7 450\nPCO,\n41.5\nmmFs\n35 0\n45,0\npOz\n47.1\nrrts\n83.0\n108\nAcid Base Status\ncHCO, (P st)c\n25.9\nrro / -\ncHCO,\n26.0\nrnmo /_\ncCO,(Blc\n56.3\nVol%\nc3ase(\n1.3\nrnro / _\nBase(\n1.3\nrmo / _\nBaro\n704\nrmHc\nOximetiy' Values\nciHb\n6.2\nFctc;\n10.6\n%\n50,\n79.0\n%6\nctO,c\n6.3\nVol\"\nFO,Hb\n76.6\n%\nFCOHb\n1.5\nElectrolyre Values\ncNat\n137\nrmon _\n135\n146\nckt\n3.9\nrnon_\n35\n5 0\ncCa?'\n1.09\nrnmo /_\n1.15\n29\ncCi\"\n104\nrino /L\n95\n105\nMetabolite Values\ncLac\n4.8 _\ntinn /_\n0 5\n1.6\nTemperature Corrected Velles\npH(T )c\n7.634\npCO,(T Ic\n20.1\nmmHc'\npO; T lc\n16.3\nmmHs\nOxyger Status\nFShunte\n23.4\nco\np5O:\n29.25\nrrs\nNotes\nValue(s) below reference range\nValuels) above the critical lirnits\nCalculated value(s)\nEstimated value( S)\nCer\n0.0\n4rou\nVeAjeAe0\n~(Plc\nB)c\nEcflc\n(cL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            50.0,
+            786.0,
+            103.0
+          ],
+          "text": "RADIOMETER ABL8OO FLEX",
+          "confidence": 0.6609
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            132.0,
+            570.0,
+            162.0
+          ],
+          "text": "ABL835 RUBY-WANAWORIE NAEL MC-5307",
+          "confidence": 0.5856
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            134.0,
+            706.0,
+            164.0
+          ],
+          "text": "03.58 PM",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            134.0,
+            852.0,
+            162.0
+          ],
+          "text": "1/21/2025",
+          "confidence": 0.7071
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            158.0,
+            291.0,
+            187.0
+          ],
+          "text": "PATIENT REPORT",
+          "confidence": 0.8107
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            377.0,
+            161.0,
+            460.0,
+            192.0
+          ],
+          "text": "Syririge:",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            162.0,
+            558.0,
+            188.0
+          ],
+          "text": "5 195uL",
+          "confidence": 0.6725
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            162.0,
+            702.0,
+            190.0
+          ],
+          "text": "Sample #",
+          "confidence": 0.9516
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            162.0,
+            846.0,
+            188.0
+          ],
+          "text": "41361",
+          "confidence": 0.9789
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            202.0,
+            276.0,
+            232.0
+          ],
+          "text": "Identifications",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            234.0,
+            218.0,
+            260.0
+          ],
+          "text": "Patient IC",
+          "confidence": 0.9871
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            364.0,
+            234.0,
+            484.0,
+            264.0
+          ],
+          "text": "W2500438",
+          "confidence": 0.9286
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            260.0,
+            244.0,
+            288.0
+          ],
+          "text": "Patient Laste",
+          "confidence": 0.4458
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            288.0,
+            192.0,
+            314.0
+          ],
+          "text": "Patientl",
+          "confidence": 0.5537
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            314.0,
+            199.0,
+            350.0
+          ],
+          "text": "Sample]",
+          "confidence": 0.8835
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            363.0,
+            315.0,
+            444.0,
+            345.0
+          ],
+          "text": "Arterial",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            364.0,
+            344.0,
+            416.0,
+            370.0
+          ],
+          "text": "22,0",
+          "confidence": 0.808
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            368.0,
+            189.0,
+            406.0
+          ],
+          "text": "FO_(I)",
+          "confidence": 0.6491
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            364.0,
+            372.0,
+            442.0,
+            398.0
+          ],
+          "text": "21.0 %",
+          "confidence": 0.8367
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            422.0,
+            333.0,
+            458.0
+          ],
+          "text": "Blood Gas Values",
+          "confidence": 0.9402
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            466.0,
+            206.0,
+            496.0
+          ],
+          "text": "PH",
+          "confidence": 0.4863
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            394.0,
+            466.0,
+            462.0,
+            492.0
+          ],
+          "text": "7.413",
+          "confidence": 0.9879
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            464.0,
+            720.0,
+            492.0
+          ],
+          "text": "7.350",
+          "confidence": 0.9851
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            464.0,
+            820.0,
+            490.0
+          ],
+          "text": "7 450",
+          "confidence": 0.7783
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            495.0,
+            236.0,
+            533.0
+          ],
+          "text": "PCO,",
+          "confidence": 0.268
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            500.0,
+            462.0,
+            526.0
+          ],
+          "text": "41.5",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            498.0,
+            575.0,
+            531.0
+          ],
+          "text": "mmFs",
+          "confidence": 0.3137
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            668.0,
+            500.0,
+            718.0,
+            526.0
+          ],
+          "text": "35 0",
+          "confidence": 0.9809
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            500.0,
+            806.0,
+            526.0
+          ],
+          "text": "45,0",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            538.0,
+            216.0,
+            568.0
+          ],
+          "text": "pOz",
+          "confidence": 0.628
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            538.0,
+            460.0,
+            562.0
+          ],
+          "text": "47.1",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            538.0,
+            574.0,
+            566.0
+          ],
+          "text": "rrts",
+          "confidence": 0.4787
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            668.0,
+            538.0,
+            718.0,
+            562.0
+          ],
+          "text": "83.0",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            536.0,
+            800.0,
+            562.0
+          ],
+          "text": "108",
+          "confidence": 0.9943
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            567.0,
+            326.0,
+            606.0
+          ],
+          "text": "Acid Base Status",
+          "confidence": 0.7798
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            605.0,
+            325.0,
+            641.0
+          ],
+          "text": "cHCO, (P st)c",
+          "confidence": 0.3508
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            610.0,
+            462.0,
+            636.0
+          ],
+          "text": "25.9",
+          "confidence": 0.735
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            612.0,
+            578.0,
+            636.0
+          ],
+          "text": "rro / -",
+          "confidence": 0.2455
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            646.0,
+            248.0,
+            678.0
+          ],
+          "text": "cHCO,",
+          "confidence": 0.5213
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            646.0,
+            462.0,
+            674.0
+          ],
+          "text": "26.0",
+          "confidence": 0.656
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            648.0,
+            578.0,
+            672.0
+          ],
+          "text": "rnmo /_",
+          "confidence": 0.8765
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            684.0,
+            280.0,
+            716.0
+          ],
+          "text": "cCO,(Blc",
+          "confidence": 0.4199
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            684.0,
+            462.0,
+            710.0
+          ],
+          "text": "56.3",
+          "confidence": 0.6268
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            684.0,
+            560.0,
+            710.0
+          ],
+          "text": "Vol%",
+          "confidence": 0.9625
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            719.0,
+            248.0,
+            748.0
+          ],
+          "text": "c3ase(",
+          "confidence": 0.6535
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            722.0,
+            462.0,
+            746.0
+          ],
+          "text": "1.3",
+          "confidence": 0.9774
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            722.0,
+            578.0,
+            746.0
+          ],
+          "text": "rnro / _",
+          "confidence": 0.4869
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            757.0,
+            248.0,
+            784.0
+          ],
+          "text": "Base(",
+          "confidence": 0.7718
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            756.0,
+            462.0,
+            782.0
+          ],
+          "text": "1.3",
+          "confidence": 0.6151
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            758.0,
+            578.0,
+            782.0
+          ],
+          "text": "rmo / _",
+          "confidence": 0.6171
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            794.0,
+            226.0,
+            818.0
+          ],
+          "text": "Baro",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            792.0,
+            462.0,
+            818.0
+          ],
+          "text": "704",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            794.0,
+            574.0,
+            822.0
+          ],
+          "text": "rmHc",
+          "confidence": 0.5821
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            823.0,
+            315.0,
+            861.0
+          ],
+          "text": "Oximetiy' Values",
+          "confidence": 0.4345
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            866.0,
+            224.0,
+            892.0
+          ],
+          "text": "ciHb",
+          "confidence": 0.611
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            866.0,
+            462.0,
+            892.0
+          ],
+          "text": "6.2",
+          "confidence": 0.8461
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            904.0,
+            226.0,
+            932.0
+          ],
+          "text": "Fctc;",
+          "confidence": 0.9697
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            904.0,
+            462.0,
+            930.0
+          ],
+          "text": "10.6",
+          "confidence": 0.8063
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            904.0,
+            530.0,
+            928.0
+          ],
+          "text": "%",
+          "confidence": 0.6255
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            940.0,
+            216.0,
+            970.0
+          ],
+          "text": "50,",
+          "confidence": 0.172
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            940.0,
+            462.0,
+            964.0
+          ],
+          "text": "79.0",
+          "confidence": 0.8453
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            938.0,
+            530.0,
+            964.0
+          ],
+          "text": "%6",
+          "confidence": 0.3814
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            978.0,
+            234.0,
+            1006.0
+          ],
+          "text": "ctO,c",
+          "confidence": 0.5171
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            976.0,
+            464.0,
+            1000.0
+          ],
+          "text": "6.3",
+          "confidence": 0.8091
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            976.0,
+            560.0,
+            1000.0
+          ],
+          "text": "Vol\"",
+          "confidence": 0.6847
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1012.0,
+            246.0,
+            1040.0
+          ],
+          "text": "FO,Hb",
+          "confidence": 0.8848
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            1010.0,
+            464.0,
+            1036.0
+          ],
+          "text": "76.6",
+          "confidence": 0.6143
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            1012.0,
+            530.0,
+            1036.0
+          ],
+          "text": "%",
+          "confidence": 0.933
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1048.0,
+            256.0,
+            1074.0
+          ],
+          "text": "FCOHb",
+          "confidence": 0.9244
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            1048.0,
+            464.0,
+            1072.0
+          ],
+          "text": "1.5",
+          "confidence": 0.637
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1081.0,
+            331.0,
+            1117.0
+          ],
+          "text": "Electrolyre Values",
+          "confidence": 0.6375
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1122.0,
+            228.0,
+            1148.0
+          ],
+          "text": "cNat",
+          "confidence": 0.9862
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            1120.0,
+            464.0,
+            1146.0
+          ],
+          "text": "137",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1122.0,
+            580.0,
+            1146.0
+          ],
+          "text": "rmon _",
+          "confidence": 0.2485
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            676.0,
+            1118.0,
+            722.0,
+            1146.0
+          ],
+          "text": "135",
+          "confidence": 0.5865
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1118.0,
+            802.0,
+            1144.0
+          ],
+          "text": "146",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1158.0,
+            214.0,
+            1184.0
+          ],
+          "text": "ckt",
+          "confidence": 0.7595
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            1158.0,
+            464.0,
+            1184.0
+          ],
+          "text": "3.9",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1158.0,
+            582.0,
+            1184.0
+          ],
+          "text": "rnon_",
+          "confidence": 0.7688
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            1156.0,
+            720.0,
+            1182.0
+          ],
+          "text": "35",
+          "confidence": 0.7233
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1156.0,
+            796.0,
+            1180.0
+          ],
+          "text": "5 0",
+          "confidence": 0.5751
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1194.0,
+            234.0,
+            1220.0
+          ],
+          "text": "cCa?'",
+          "confidence": 0.5859
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            1194.0,
+            464.0,
+            1220.0
+          ],
+          "text": "1.09",
+          "confidence": 0.7785
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1194.0,
+            582.0,
+            1220.0
+          ],
+          "text": "rnmo /_",
+          "confidence": 0.4532
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            670.0,
+            1192.0,
+            720.0,
+            1218.0
+          ],
+          "text": "1.15",
+          "confidence": 0.877
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            776.0,
+            1192.0,
+            810.0,
+            1220.0
+          ],
+          "text": "29",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1230.0,
+            220.0,
+            1256.0
+          ],
+          "text": "cCi\"",
+          "confidence": 0.2719
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            1230.0,
+            464.0,
+            1256.0
+          ],
+          "text": "104",
+          "confidence": 0.8581
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1230.0,
+            582.0,
+            1256.0
+          ],
+          "text": "rino /L",
+          "confidence": 0.4201
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1228.0,
+            720.0,
+            1254.0
+          ],
+          "text": "95",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1228.0,
+            802.0,
+            1252.0
+          ],
+          "text": "105",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1263.0,
+            332.0,
+            1294.0
+          ],
+          "text": "Metabolite Values",
+          "confidence": 0.7373
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1304.0,
+            230.0,
+            1328.0
+          ],
+          "text": "cLac",
+          "confidence": 0.5402
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            1302.0,
+            482.0,
+            1328.0
+          ],
+          "text": "4.8 _",
+          "confidence": 0.3464
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1302.0,
+            582.0,
+            1326.0
+          ],
+          "text": "tinn /_",
+          "confidence": 0.4829
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            1300.0,
+            724.0,
+            1328.0
+          ],
+          "text": "0 5",
+          "confidence": 0.9551
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1300.0,
+            796.0,
+            1326.0
+          ],
+          "text": "1.6",
+          "confidence": 0.9435
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            1332.0,
+            491.0,
+            1372.0
+          ],
+          "text": "Temperature Corrected Velles",
+          "confidence": 0.7069
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1376.0,
+            256.0,
+            1406.0
+          ],
+          "text": "pH(T )c",
+          "confidence": 0.5126
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            1374.0,
+            466.0,
+            1400.0
+          ],
+          "text": "7.634",
+          "confidence": 0.6238
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1412.0,
+            284.0,
+            1442.0
+          ],
+          "text": "pCO,(T Ic",
+          "confidence": 0.5076
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1412.0,
+            464.0,
+            1438.0
+          ],
+          "text": "20.1",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            1412.0,
+            576.0,
+            1440.0
+          ],
+          "text": "mmHc'",
+          "confidence": 0.2362
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1450.0,
+            268.0,
+            1480.0
+          ],
+          "text": "pO; T lc",
+          "confidence": 0.2329
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1448.0,
+            466.0,
+            1474.0
+          ],
+          "text": "16.3",
+          "confidence": 0.9701
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            1448.0,
+            576.0,
+            1476.0
+          ],
+          "text": "mmHs",
+          "confidence": 0.4889
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1480.0,
+            297.0,
+            1521.0
+          ],
+          "text": "Oxyger Status",
+          "confidence": 0.9906
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            1518.0,
+            262.0,
+            1550.0
+          ],
+          "text": "FShunte",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1520.0,
+            466.0,
+            1546.0
+          ],
+          "text": "23.4",
+          "confidence": 0.8416
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            1520.0,
+            532.0,
+            1544.0
+          ],
+          "text": "co",
+          "confidence": 0.1408
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1558.0,
+            232.0,
+            1588.0
+          ],
+          "text": "p5O:",
+          "confidence": 0.5676
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            1556.0,
+            468.0,
+            1584.0
+          ],
+          "text": "29.25",
+          "confidence": 0.6564
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            503.0,
+            1551.0,
+            580.0,
+            1588.0
+          ],
+          "text": "rrs",
+          "confidence": 0.2429
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            1612.0,
+            172.0,
+            1640.0
+          ],
+          "text": "Notes",
+          "confidence": 0.9055
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            233.0,
+            1643.0,
+            552.0,
+            1672.0
+          ],
+          "text": "Value(s) below reference range",
+          "confidence": 0.867
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            1671.0,
+            552.0,
+            1703.0
+          ],
+          "text": "Valuels) above the critical lirnits",
+          "confidence": 0.5675
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            1702.0,
+            432.0,
+            1728.0
+          ],
+          "text": "Calculated value(s)",
+          "confidence": 0.7855
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            1730.0,
+            426.0,
+            1756.0
+          ],
+          "text": "Estimated value( S)",
+          "confidence": 0.4737
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            1858.0,
+            124.0,
+            1866.0
+          ],
+          "text": "Cer",
+          "confidence": 0.0196
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            235.0,
+            1855.0,
+            283.0,
+            1869.0
+          ],
+          "text": "0.0",
+          "confidence": 0.3676
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            287.0,
+            1855.0,
+            347.0,
+            1869.0
+          ],
+          "text": "4rou",
+          "confidence": 0.0177
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            387.0,
+            1855.0,
+            475.0,
+            1867.0
+          ],
+          "text": "VeAjeAe0",
+          "confidence": 0.037
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            240.15395010584845,
+            641.1289267866996,
+            302.8460498941515,
+            679.8710732133004
+          ],
+          "text": "~(Plc",
+          "confidence": 0.5663
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            237.1130717906784,
+            716.1289267866996,
+            288.8869282093216,
+            754.8710732133004
+          ],
+          "text": "B)c",
+          "confidence": 0.3742
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            239.10129518119626,
+            752.1365600658949,
+            304.89870481880376,
+            789.8634399341051
+          ],
+          "text": "Ecflc",
+          "confidence": 0.6448
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            500.6027607015021,
+            863.2562854188427,
+            551.3972392984979,
+            896.7437145811573
+          ],
+          "text": "(cL",
+          "confidence": 0.4733
+        }
+      ]
+    }
+  ],
+  "full_text": "RADIOMETER ABL8OO FLEX\nABL835 RUBY-WANAWORIE NAEL MC-5307\n03.58 PM\n1/21/2025\nPATIENT REPORT\nSyririge:\n5 195uL\nSample #\n41361\nIdentifications\nPatient IC\nW2500438\nPatient Laste\nPatientl\nSample]\nArterial\n22,0\nFO_(I)\n21.0 %\nBlood Gas Values\nPH\n7.413\n7.350\n7 450\nPCO,\n41.5\nmmFs\n35 0\n45,0\npOz\n47.1\nrrts\n83.0\n108\nAcid Base Status\ncHCO, (P st)c\n25.9\nrro / -\ncHCO,\n26.0\nrnmo /_\ncCO,(Blc\n56.3\nVol%\nc3ase(\n1.3\nrnro / _\nBase(\n1.3\nrmo / _\nBaro\n704\nrmHc\nOximetiy' Values\nciHb\n6.2\nFctc;\n10.6\n%\n50,\n79.0\n%6\nctO,c\n6.3\nVol\"\nFO,Hb\n76.6\n%\nFCOHb\n1.5\nElectrolyre Values\ncNat\n137\nrmon _\n135\n146\nckt\n3.9\nrnon_\n35\n5 0\ncCa?'\n1.09\nrnmo /_\n1.15\n29\ncCi\"\n104\nrino /L\n95\n105\nMetabolite Values\ncLac\n4.8 _\ntinn /_\n0 5\n1.6\nTemperature Corrected Velles\npH(T )c\n7.634\npCO,(T Ic\n20.1\nmmHc'\npO; T lc\n16.3\nmmHs\nOxyger Status\nFShunte\n23.4\nco\np5O:\n29.25\nrrs\nNotes\nValue(s) below reference range\nValuels) above the critical lirnits\nCalculated value(s)\nEstimated value( S)\nCer\n0.0\n4rou\nVeAjeAe0\n~(Plc\nB)c\nEcflc\n(cL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "ABL8",
+          "biomarker_normalized": "ABL8",
+          "value": "35",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ABL835 RUBY-WANAWORIE NAEL MC-5307",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "W2",
+          "biomarker_normalized": "W2",
+          "value": "500438",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "W2500438",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 126,
+    "ocr_avg_confidence": 0.6918,
+    "parsed_row_count": 2
+  }
+}

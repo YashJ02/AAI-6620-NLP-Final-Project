@@ -1,0 +1,1296 @@
+{
+  "document_id": "GUR-0425-PA-0057759_Q-RAJINDERKUMARPHANDAQR_250427_1311@F.pdf_page_28",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057759_Q-RAJINDERKUMARPHANDAQR_250427_1311@F.pdf_page_28.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Aakash Heglthcgre\nAakash Pathlab\n1f2\nSuper Speciality\nHospiral\nLABORATORY INVESTIGATION REPORT\nPatient\nUHId\n3\"\nEpisode\nIP No\n12710.\nRel, Doctor\nDr. Sastro JJnh (Dr; Sraas\nDr Ekzrt)\nFacility\nRakash FcJIIcar@ Delni\nChemical Exanination\nUrzjili\"oger,\nNlegatve\nNeg:l ve\nNts\natach{CJ:t\"\nDiliru? #\niezative\nNc5a Ive\nA3\nDiaism S3\" / Azo Cexptyy {ExIitv:\nFretore'{etone\nNega:ivc\nNegalive\n\"o;\nSvxt #jogessr?\n{ett?  T\nBloca_\nAsent\nAbsert\n#7\nAteee:=\n076Crt:'\nJrine A bin:\nNJil\nX66\n~6nsteaorseraue\n{urtoin*av\nKitrites.\nNegatiyc\nNegzl %\n\"na\nCes 'e\nLeuckc-ylc;\nAbsent\nFoser|\n23\n0783925\nUrinc Sjqa; .\nNil\nNil\n\"w\n0nse Ori{sse Prtuizist\"brrntlitt $\nSjecifiz Eravity.\n1,395\nLoic - :,J2\nR\n'Ov Excurge\nHH\n5075\n\"iv\nsnt Inkaty\nMicroscopic Exanination\nFus ce Is\n{H?F\n0-5/1 PF\n{\n#mnusraoy\nRDC\nM\n{PF\nAbS\"\nM\n70vn\nEzitnclzl Cels\nJ1\n'#=\n22MP=\nTn5z\n'96\nCast\nAUsent\nAosert\nXed\n\"soisy\nCystel\nJosent\nAb5un\n#m\n3*6oS\nbacteria,\nALsant\nP-irt D-leTi-ne:\n27701,70J5\n2a\nFegc ! 0' 3\n'",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            175.0,
+            523.0,
+            215.0
+          ],
+          "text": "Aakash Heglthcgre",
+          "confidence": 0.5003
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            166.0,
+            1098.0,
+            214.0
+          ],
+          "text": "Aakash Pathlab",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1294.0,
+            126.0,
+            1498.0,
+            278.0
+          ],
+          "text": "1f2",
+          "confidence": 0.3051
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            211.0,
+            392.0,
+            242.0
+          ],
+          "text": "Super Speciality",
+          "confidence": 0.9387
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            403.0,
+            213.0,
+            516.0,
+            243.0
+          ],
+          "text": "Hospiral",
+          "confidence": 0.8047
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            320.0,
+            1098.0,
+            350.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.8898
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            378.0,
+            272.0,
+            402.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9664
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            422.0,
+            252.0,
+            446.0
+          ],
+          "text": "UHId",
+          "confidence": 0.8209
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            372.0,
+            1274.0,
+            468.0
+          ],
+          "text": "3\"",
+          "confidence": 0.9159
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            452.0,
+            282.0,
+            480.0
+          ],
+          "text": "Episode",
+          "confidence": 0.9454
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            460.0,
+            1036.0,
+            486.0
+          ],
+          "text": "IP No",
+          "confidence": 0.6201
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1120.0,
+            460.0,
+            1196.0,
+            484.0
+          ],
+          "text": "12710.",
+          "confidence": 0.1492
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            480.0,
+            316.0,
+            504.0
+          ],
+          "text": "Rel, Doctor",
+          "confidence": 0.5801
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            480.0,
+            664.0,
+            506.0
+          ],
+          "text": "Dr. Sastro JJnh (Dr; Sraas",
+          "confidence": 0.1746
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            479.0,
+            774.0,
+            508.0
+          ],
+          "text": "Dr Ekzrt)",
+          "confidence": 0.8965
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            965.0,
+            491.0,
+            1050.0,
+            522.0
+          ],
+          "text": "Facility",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            492.0,
+            1362.0,
+            518.0
+          ],
+          "text": "Rakash FcJIIcar@ Delni",
+          "confidence": 0.28
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            562.0,
+            402.0,
+            590.0
+          ],
+          "text": "Chemical Exanination",
+          "confidence": 0.7049
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            594.0,
+            290.0,
+            627.0
+          ],
+          "text": "Urzjili\"oger,",
+          "confidence": 0.4704
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            549.0,
+            599.0,
+            632.0,
+            630.0
+          ],
+          "text": "Nlegatve",
+          "confidence": 0.6915
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1177.0,
+            603.0,
+            1268.0,
+            633.0
+          ],
+          "text": "Neg:l ve",
+          "confidence": 0.1771
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            641.0,
+            231.0,
+            661.0
+          ],
+          "text": "Nts",
+          "confidence": 0.0508
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            641.0,
+            359.0,
+            661.0
+          ],
+          "text": "atach{CJ:t\"",
+          "confidence": 0.0176
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            672.0,
+            248.0,
+            698.0
+          ],
+          "text": "Diliru? #",
+          "confidence": 0.3936
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            678.0,
+            630.0,
+            704.0
+          ],
+          "text": "iezative",
+          "confidence": 0.2026
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            678.0,
+            1268.0,
+            711.0
+          ],
+          "text": "Nc5a Ive",
+          "confidence": 0.3362
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            715.0,
+            231.0,
+            735.0
+          ],
+          "text": "A3",
+          "confidence": 0.0269
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            715.0,
+            534.0,
+            741.0
+          ],
+          "text": "Diaism S3\" / Azo Cexptyy {ExIitv:",
+          "confidence": 0.0272
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            748.0,
+            316.0,
+            774.0
+          ],
+          "text": "Fretore'{etone",
+          "confidence": 0.1418
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            547.0,
+            751.0,
+            630.0,
+            779.0
+          ],
+          "text": "Nega:ivc",
+          "confidence": 0.286
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1175.0,
+            755.0,
+            1266.0,
+            786.0
+          ],
+          "text": "Negalive",
+          "confidence": 0.2613
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            793.0,
+            231.0,
+            811.0
+          ],
+          "text": "\"o;",
+          "confidence": 0.0271
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            793.0,
+            401.0,
+            814.0
+          ],
+          "text": "Svxt #jogessr?",
+          "confidence": 0.019
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            411.0,
+            793.0,
+            527.0,
+            813.0
+          ],
+          "text": "{ett?  T",
+          "confidence": 0.0174
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            826.0,
+            220.0,
+            850.0
+          ],
+          "text": "Bloca_",
+          "confidence": 0.6026
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            549.0,
+            831.0,
+            613.0,
+            851.0
+          ],
+          "text": "Asent",
+          "confidence": 0.4661
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            830.0,
+            1248.0,
+            856.0
+          ],
+          "text": "Absert",
+          "confidence": 0.3586
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            869.0,
+            229.0,
+            889.0
+          ],
+          "text": "#7",
+          "confidence": 0.0856
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            871.0,
+            355.0,
+            889.0
+          ],
+          "text": "Ateee:=",
+          "confidence": 0.0324
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            481.0,
+            875.0,
+            575.0,
+            891.0
+          ],
+          "text": "076Crt:'",
+          "confidence": 0.042
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            900.0,
+            302.0,
+            926.0
+          ],
+          "text": "Jrine A bin:",
+          "confidence": 0.237
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1175.0,
+            909.0,
+            1205.0,
+            929.0
+          ],
+          "text": "NJil",
+          "confidence": 0.2443
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            165.0,
+            943.0,
+            229.0,
+            963.0
+          ],
+          "text": "X66",
+          "confidence": 0.0734
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            945.0,
+            509.0,
+            965.0
+          ],
+          "text": "~6nsteaorseraue",
+          "confidence": 0.0002
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            965.0,
+            318.0,
+            991.0
+          ],
+          "text": "{urtoin*av",
+          "confidence": 0.1409
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            994.0,
+            232.0,
+            1018.0
+          ],
+          "text": "Kitrites.",
+          "confidence": 0.2326
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            546.0,
+            998.0,
+            628.0,
+            1024.0
+          ],
+          "text": "Negatiyc",
+          "confidence": 0.3074
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            1000.0,
+            1266.0,
+            1026.0
+          ],
+          "text": "Negzl %",
+          "confidence": 0.2383
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            1034.0,
+            228.0,
+            1058.0
+          ],
+          "text": "\"na",
+          "confidence": 0.2182
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            235.0,
+            1037.0,
+            323.0,
+            1057.0
+          ],
+          "text": "Ces 'e",
+          "confidence": 0.1173
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1070.0,
+            278.0,
+            1096.0
+          ],
+          "text": "Leuckc-ylc;",
+          "confidence": 0.3443
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            547.0,
+            1075.0,
+            609.0,
+            1095.0
+          ],
+          "text": "Absent",
+          "confidence": 0.1261
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1076.0,
+            1246.0,
+            1100.0
+          ],
+          "text": "Foser|",
+          "confidence": 0.1486
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            1113.0,
+            227.0,
+            1133.0
+          ],
+          "text": "23",
+          "confidence": 0.0216
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            237.0,
+            1115.0,
+            311.0,
+            1133.0
+          ],
+          "text": "0783925",
+          "confidence": 0.0498
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1146.0,
+            278.0,
+            1172.0
+          ],
+          "text": "Urinc Sjqa; .",
+          "confidence": 0.2179
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            545.0,
+            1151.0,
+            573.0,
+            1171.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9838
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1152.0,
+            1204.0,
+            1176.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9484
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            1189.0,
+            225.0,
+            1209.0
+          ],
+          "text": "\"w",
+          "confidence": 0.0092
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            1187.0,
+            534.0,
+            1212.0
+          ],
+          "text": "0nse Ori{sse Prtuizist\"brrntlitt $",
+          "confidence": 0.0053
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1219.0,
+            310.0,
+            1248.0
+          ],
+          "text": "Sjecifiz Eravity.",
+          "confidence": 0.1222
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            1224.0,
+            598.0,
+            1248.0
+          ],
+          "text": "1,395",
+          "confidence": 0.464
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1226.0,
+            1306.0,
+            1252.0
+          ],
+          "text": "Loic - :,J2",
+          "confidence": 0.1652
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            1263.0,
+            225.0,
+            1283.0
+          ],
+          "text": "R",
+          "confidence": 0.0614
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            1261.0,
+            346.0,
+            1289.0
+          ],
+          "text": "'Ov Excurge",
+          "confidence": 0.1221
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1298.0,
+            188.0,
+            1322.0
+          ],
+          "text": "HH",
+          "confidence": 0.1993
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1302.0,
+            1260.0,
+            1328.0
+          ],
+          "text": "5075",
+          "confidence": 0.4087
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            1337.0,
+            226.0,
+            1362.0
+          ],
+          "text": "\"iv",
+          "confidence": 0.0225
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            1338.0,
+            362.0,
+            1362.0
+          ],
+          "text": "snt Inkaty",
+          "confidence": 0.0638
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            1371.0,
+            422.0,
+            1402.0
+          ],
+          "text": "Microscopic Exanination",
+          "confidence": 0.3027
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            1410.0,
+            240.0,
+            1434.0
+          ],
+          "text": "Fus ce Is",
+          "confidence": 0.3422
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1014.0,
+            1414.0,
+            1073.0,
+            1443.0
+          ],
+          "text": "{H?F",
+          "confidence": 0.3077
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            1414.0,
+            1254.0,
+            1440.0
+          ],
+          "text": "0-5/1 PF",
+          "confidence": 0.1369
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            1451.0,
+            223.0,
+            1471.0
+          ],
+          "text": "{",
+          "confidence": 0.1098
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            1452.0,
+            360.0,
+            1476.0
+          ],
+          "text": "#mnusraoy",
+          "confidence": 0.0297
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            1484.0,
+            198.0,
+            1508.0
+          ],
+          "text": "RDC",
+          "confidence": 0.7202
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            541.0,
+            1491.0,
+            567.0,
+            1509.0
+          ],
+          "text": "M",
+          "confidence": 0.8331
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            1494.0,
+            1070.0,
+            1518.0
+          ],
+          "text": "{PF",
+          "confidence": 0.1646
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            1489.0,
+            1240.0,
+            1516.0
+          ],
+          "text": "AbS\"",
+          "confidence": 0.1497
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1524.0,
+            224.0,
+            1548.0
+          ],
+          "text": "M",
+          "confidence": 0.2211
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            271.0,
+            1527.0,
+            359.0,
+            1547.0
+          ],
+          "text": "70vn",
+          "confidence": 0.0097
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1560.0,
+            292.0,
+            1586.0
+          ],
+          "text": "Ezitnclzl Cels",
+          "confidence": 0.3334
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            541.0,
+            1565.0,
+            573.0,
+            1585.0
+          ],
+          "text": "J1",
+          "confidence": 0.1522
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1014.0,
+            1565.0,
+            1071.0,
+            1594.0
+          ],
+          "text": "'#=",
+          "confidence": 0.1913
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            1566.0,
+            1252.0,
+            1592.0
+          ],
+          "text": "22MP=",
+          "confidence": 0.0861
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            1605.0,
+            221.0,
+            1621.0
+          ],
+          "text": "Tn5z",
+          "confidence": 0.0448
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            1604.0,
+            357.0,
+            1625.0
+          ],
+          "text": "'96",
+          "confidence": 0.0444
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1634.0,
+            200.0,
+            1660.0
+          ],
+          "text": "Cast",
+          "confidence": 0.7893
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            539.0,
+            1641.0,
+            603.0,
+            1661.0
+          ],
+          "text": "AUsent",
+          "confidence": 0.1122
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            1642.0,
+            1240.0,
+            1666.0
+          ],
+          "text": "Aosert",
+          "confidence": 0.6321
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1679.0,
+            221.0,
+            1699.0
+          ],
+          "text": "Xed",
+          "confidence": 0.341
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            1679.0,
+            357.0,
+            1699.0
+          ],
+          "text": "\"soisy",
+          "confidence": 0.0498
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1709.0,
+            222.0,
+            1737.0
+          ],
+          "text": "Cystel",
+          "confidence": 0.7509
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            539.0,
+            1713.0,
+            604.0,
+            1739.0
+          ],
+          "text": "Josent",
+          "confidence": 0.3512
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1715.0,
+            1241.0,
+            1745.0
+          ],
+          "text": "Ab5un",
+          "confidence": 0.3806
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1753.0,
+            219.0,
+            1773.0
+          ],
+          "text": "#m",
+          "confidence": 0.0778
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1754.0,
+            348.0,
+            1778.0
+          ],
+          "text": "3*6oS",
+          "confidence": 0.0105
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1785.0,
+            236.0,
+            1813.0
+          ],
+          "text": "bacteria,",
+          "confidence": 0.8524
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            539.0,
+            1791.0,
+            603.0,
+            1811.0
+          ],
+          "text": "ALsant",
+          "confidence": 0.4374
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            1897.0,
+            851.0,
+            1917.0
+          ],
+          "text": "P-irt D-leTi-ne:",
+          "confidence": 0.3891
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            894.0,
+            1896.0,
+            990.0,
+            1920.0
+          ],
+          "text": "27701,70J5",
+          "confidence": 0.1092
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1389.0,
+            2001.0,
+            1427.0,
+            2015.0
+          ],
+          "text": "2a",
+          "confidence": 0.0086
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            2035.0,
+            1482.0,
+            2061.0
+          ],
+          "text": "Fegc ! 0' 3",
+          "confidence": 0.1049
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            228.5857864376269,
+            1525.8905996075496,
+            273.4142135623731,
+            1552.1094003924504
+          ],
+          "text": "'",
+          "confidence": 0.2568
+        }
+      ]
+    }
+  ],
+  "full_text": "Aakash Heglthcgre\nAakash Pathlab\n1f2\nSuper Speciality\nHospiral\nLABORATORY INVESTIGATION REPORT\nPatient\nUHId\n3\"\nEpisode\nIP No\n12710.\nRel, Doctor\nDr. Sastro JJnh (Dr; Sraas\nDr Ekzrt)\nFacility\nRakash FcJIIcar@ Delni\nChemical Exanination\nUrzjili\"oger,\nNlegatve\nNeg:l ve\nNts\natach{CJ:t\"\nDiliru? #\niezative\nNc5a Ive\nA3\nDiaism S3\" / Azo Cexptyy {ExIitv:\nFretore'{etone\nNega:ivc\nNegalive\n\"o;\nSvxt #jogessr?\n{ett?  T\nBloca_\nAsent\nAbsert\n#7\nAteee:=\n076Crt:'\nJrine A bin:\nNJil\nX66\n~6nsteaorseraue\n{urtoin*av\nKitrites.\nNegatiyc\nNegzl %\n\"na\nCes 'e\nLeuckc-ylc;\nAbsent\nFoser|\n23\n0783925\nUrinc Sjqa; .\nNil\nNil\n\"w\n0nse Ori{sse Prtuizist\"brrntlitt $\nSjecifiz Eravity.\n1,395\nLoic - :,J2\nR\n'Ov Excurge\nHH\n5075\n\"iv\nsnt Inkaty\nMicroscopic Exanination\nFus ce Is\n{H?F\n0-5/1 PF\n{\n#mnusraoy\nRDC\nM\n{PF\nAbS\"\nM\n70vn\nEzitnclzl Cels\nJ1\n'#=\n22MP=\nTn5z\n'96\nCast\nAUsent\nAosert\nXed\n\"soisy\nCystel\nJosent\nAb5un\n#m\n3*6oS\nbacteria,\nALsant\nP-irt D-leTi-ne:\n27701,70J5\n2a\nFegc ! 0' 3\n'",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "X6",
+          "biomarker_normalized": "X6",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "X66",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Fegc !",
+          "biomarker_normalized": "Fegc !",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Fegc ! 0' 3",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 104,
+    "ocr_avg_confidence": 0.3207,
+    "parsed_row_count": 2
+  }
+}

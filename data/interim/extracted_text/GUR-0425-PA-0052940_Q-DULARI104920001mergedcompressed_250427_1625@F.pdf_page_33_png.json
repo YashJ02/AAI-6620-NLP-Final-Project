@@ -1,0 +1,864 @@
+{
+  "document_id": "GUR-0425-PA-0052940_Q-DULARI104920001mergedcompressed_250427_1625@F.pdf_page_33",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0052940_Q-DULARI104920001mergedcompressed_250427_1625@F.pdf_page_33.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Property ID Na. 26, Wiard No. 28 , Manzulr Park\nOpp. Matro Pillar No: 881 , Rohtax Road,\n4SANJAY\nBabadurqarh; Dist Jhallar Haryana\n124507\n#IERCM\nHOSPHTAL\nWaBH\nIos\ngmailcom\nCIN No;\nUZ410CDLZD10P1On3581\nISO 900i\nZuls CEAMFILD\nWWI\" @rsanjayhaspital ccm\nDr\nRamesh Kumar\nIPD : IPD\nDate:\n07\nUrine Routine Examination\nMacroscopic Examination\nVolume\n25 ML\nColour\nPale Yellc\"\nTurbidity\nClear\nDepas ts\nNil\nSp Gravity\nQNS\nChemical Examination\nReacticn\nAcidic (6,0)\nAlbumin\nNil\nSugar\nNil\nMicroscopic_Examination:\nRBCs\nNil\n{HPF\nPus Cels\n80-100\n7HPF\nEpithelial Cells\n5-j0\n/HPF\nCasts\nNiI\nBacteria\nNil\nCrystal\nNil\nOther\nNil\nLab technjenqn\nTar Sinha\nDr. NAVIN KUMAR SINHA\nDr, Maveen_\n(MD) FATHOLOGY\nKB E.S , MD (Path)\nDVC No: 35267\nS[",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1058.0,
+            72.0,
+            1575.0,
+            110.0
+          ],
+          "text": "Property ID Na. 26, Wiard No. 28 , Manzulr Park",
+          "confidence": 0.387
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1061.0,
+            113.0,
+            1497.0,
+            153.0
+          ],
+          "text": "Opp. Matro Pillar No: 881 , Rohtax Road,",
+          "confidence": 0.2029
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            92.0,
+            468.0,
+            218.0
+          ],
+          "text": "4SANJAY",
+          "confidence": 0.6745
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1061.0,
+            154.0,
+            1459.0,
+            192.0
+          ],
+          "text": "Babadurqarh; Dist Jhallar Haryana",
+          "confidence": 0.1058
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1470.0,
+            156.0,
+            1560.0,
+            188.0
+          ],
+          "text": "124507",
+          "confidence": 0.9619
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            221.0,
+            203.0,
+            237.0
+          ],
+          "text": "#IERCM",
+          "confidence": 0.0062
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            200.0,
+            450.0,
+            252.0
+          ],
+          "text": "HOSPHTAL",
+          "confidence": 0.9272
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            248.0,
+            876.0,
+            280.0
+          ],
+          "text": "WaBH",
+          "confidence": 0.196
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1221.0,
+            245.0,
+            1261.0,
+            265.0
+          ],
+          "text": "Ios",
+          "confidence": 0.0898
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1381.0,
+            238.0,
+            1502.0,
+            270.0
+          ],
+          "text": "gmailcom",
+          "confidence": 0.4824
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            260.0,
+            156.0,
+            286.0
+          ],
+          "text": "CIN No;",
+          "confidence": 0.6906
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            260.0,
+            432.0,
+            286.0
+          ],
+          "text": "UZ410CDLZD10P1On3581",
+          "confidence": 0.0986
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            292.0,
+            170.0,
+            318.0
+          ],
+          "text": "ISO 900i",
+          "confidence": 0.1863
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            292.0,
+            350.0,
+            318.0
+          ],
+          "text": "Zuls CEAMFILD",
+          "confidence": 0.3192
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1125.0,
+            277.0,
+            1421.0,
+            315.0
+          ],
+          "text": "WWI\" @rsanjayhaspital ccm",
+          "confidence": 0.1474
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            367.0,
+            385.0,
+            423.0,
+            427.0
+          ],
+          "text": "Dr",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            435.0,
+            386.0,
+            707.0,
+            431.0
+          ],
+          "text": "Ramesh Kumar",
+          "confidence": 0.9146
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            385.0,
+            1379.0,
+            429.0
+          ],
+          "text": "IPD : IPD",
+          "confidence": 0.6531
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            441.0,
+            307.0,
+            481.0
+          ],
+          "text": "Date:",
+          "confidence": 0.9388
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1319.0,
+            439.0,
+            1377.0,
+            483.0
+          ],
+          "text": "07",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            499.0,
+            557.0,
+            1057.0,
+            619.0
+          ],
+          "text": "Urine Routine Examination",
+          "confidence": 0.9531
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            671.0,
+            668.0,
+            726.0
+          ],
+          "text": "Macroscopic Examination",
+          "confidence": 0.6117
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            763.0,
+            301.0,
+            799.0
+          ],
+          "text": "Volume",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            766.0,
+            508.0,
+            798.0
+          ],
+          "text": "25 ML",
+          "confidence": 0.8406
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            804.0,
+            290.0,
+            836.0
+          ],
+          "text": "Colour",
+          "confidence": 0.9726
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            806.0,
+            566.0,
+            836.0
+          ],
+          "text": "Pale Yellc\"",
+          "confidence": 0.7987
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            836.0,
+            334.0,
+            881.0
+          ],
+          "text": "Turbidity",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            413.0,
+            841.0,
+            496.0,
+            878.0
+          ],
+          "text": "Clear",
+          "confidence": 0.6134
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            880.0,
+            323.0,
+            920.0
+          ],
+          "text": "Depas ts",
+          "confidence": 0.5487
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            882.0,
+            466.0,
+            912.0
+          ],
+          "text": "Nil",
+          "confidence": 0.5025
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            918.0,
+            345.0,
+            957.0
+          ],
+          "text": "Sp Gravity",
+          "confidence": 0.9629
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            920.0,
+            492.0,
+            952.0
+          ],
+          "text": "QNS",
+          "confidence": 0.7189
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            195.0,
+            1009.0,
+            602.0,
+            1062.0
+          ],
+          "text": "Chemical Examination",
+          "confidence": 0.9759
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1121.0,
+            318.0,
+            1154.0
+          ],
+          "text": "Reacticn",
+          "confidence": 0.47
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            417.0,
+            1121.0,
+            579.0,
+            1157.0
+          ],
+          "text": "Acidic (6,0)",
+          "confidence": 0.778
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1159.0,
+            310.0,
+            1192.0
+          ],
+          "text": "Albumin",
+          "confidence": 0.9829
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1160.0,
+            464.0,
+            1192.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1197.0,
+            286.0,
+            1239.0
+          ],
+          "text": "Sugar",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1198.0,
+            464.0,
+            1230.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            197.0,
+            1291.0,
+            678.0,
+            1342.0
+          ],
+          "text": "Microscopic_Examination:",
+          "confidence": 0.5488
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1384.0,
+            272.0,
+            1416.0
+          ],
+          "text": "RBCs",
+          "confidence": 0.7001
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1384.0,
+            462.0,
+            1416.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            496.0,
+            1384.0,
+            572.0,
+            1416.0
+          ],
+          "text": "{HPF",
+          "confidence": 0.1982
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            197.0,
+            1420.0,
+            321.0,
+            1457.0
+          ],
+          "text": "Pus Cels",
+          "confidence": 0.9657
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1421.0,
+            530.0,
+            1453.0
+          ],
+          "text": "80-100",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            1424.0,
+            618.0,
+            1456.0
+          ],
+          "text": "7HPF",
+          "confidence": 0.1718
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1459.0,
+            399.0,
+            1499.0
+          ],
+          "text": "Epithelial Cells",
+          "confidence": 0.9459
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1462.0,
+            482.0,
+            1494.0
+          ],
+          "text": "5-j0",
+          "confidence": 0.4257
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            516.0,
+            1462.0,
+            592.0,
+            1494.0
+          ],
+          "text": "/HPF",
+          "confidence": 0.3521
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            1500.0,
+            278.0,
+            1532.0
+          ],
+          "text": "Casts",
+          "confidence": 0.9352
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1500.0,
+            462.0,
+            1532.0
+          ],
+          "text": "NiI",
+          "confidence": 0.5867
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            1538.0,
+            316.0,
+            1570.0
+          ],
+          "text": "Bacteria",
+          "confidence": 0.7277
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1538.0,
+            462.0,
+            1570.0
+          ],
+          "text": "Nil",
+          "confidence": 0.6761
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1574.0,
+            301.0,
+            1614.0
+          ],
+          "text": "Crystal",
+          "confidence": 0.8523
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            1578.0,
+            462.0,
+            1608.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            197.0,
+            1613.0,
+            287.0,
+            1649.0
+          ],
+          "text": "Other",
+          "confidence": 0.9326
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            1616.0,
+            462.0,
+            1648.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            197.0,
+            1881.0,
+            397.0,
+            1925.0
+          ],
+          "text": "Lab technjenqn",
+          "confidence": 0.1747
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            777.0,
+            1887.0,
+            921.0,
+            1931.0
+          ],
+          "text": "Tar Sinha",
+          "confidence": 0.3722
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            1883.0,
+            1390.0,
+            1923.0
+          ],
+          "text": "Dr. NAVIN KUMAR SINHA",
+          "confidence": 0.6745
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            562.0,
+            1900.0,
+            728.0,
+            1948.0
+          ],
+          "text": "Dr, Maveen_",
+          "confidence": 0.4691
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1093.0,
+            1921.0,
+            1397.0,
+            1961.0
+          ],
+          "text": "(MD) FATHOLOGY",
+          "confidence": 0.5834
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            636.0,
+            1929.0,
+            924.0,
+            1985.0
+          ],
+          "text": "KB E.S , MD (Path)",
+          "confidence": 0.4499
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            1969.0,
+            923.0,
+            2024.0
+          ],
+          "text": "DVC No: 35267",
+          "confidence": 0.5419
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1141.4369815358446,
+            1743.645565412414,
+            1761.5630184641554,
+            2361.3544345875857
+          ],
+          "text": "S[",
+          "confidence": 0.0092
+        }
+      ]
+    }
+  ],
+  "full_text": "Property ID Na. 26, Wiard No. 28 , Manzulr Park\nOpp. Matro Pillar No: 881 , Rohtax Road,\n4SANJAY\nBabadurqarh; Dist Jhallar Haryana\n124507\n#IERCM\nHOSPHTAL\nWaBH\nIos\ngmailcom\nCIN No;\nUZ410CDLZD10P1On3581\nISO 900i\nZuls CEAMFILD\nWWI\" @rsanjayhaspital ccm\nDr\nRamesh Kumar\nIPD : IPD\nDate:\n07\nUrine Routine Examination\nMacroscopic Examination\nVolume\n25 ML\nColour\nPale Yellc\"\nTurbidity\nClear\nDepas ts\nNil\nSp Gravity\nQNS\nChemical Examination\nReacticn\nAcidic (6,0)\nAlbumin\nNil\nSugar\nNil\nMicroscopic_Examination:\nRBCs\nNil\n{HPF\nPus Cels\n80-100\n7HPF\nEpithelial Cells\n5-j0\n/HPF\nCasts\nNiI\nBacteria\nNil\nCrystal\nNil\nOther\nNil\nLab technjenqn\nTar Sinha\nDr. NAVIN KUMAR SINHA\nDr, Maveen_\n(MD) FATHOLOGY\nKB E.S , MD (Path)\nDVC No: 35267\nS[",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Property ID Na.",
+          "biomarker_normalized": "Property ID Na.",
+          "value": "26",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Property ID Na. 26, Wiard No. 28 , Manzulr Park",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Opp. Matro Pillar No",
+          "biomarker_normalized": "Opp. Matro Pillar No",
+          "value": "881",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Opp. Matro Pillar No: 881 , Rohtax Road,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "UZ4",
+          "biomarker_normalized": "UZ4",
+          "value": "10",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UZ410CDLZD10P1On3581",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ISO",
+          "biomarker_normalized": "ISO",
+          "value": "900",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ISO 900i",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Acidic (",
+          "biomarker_normalized": "Acidic (",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Acidic (6,0)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "DVC No",
+          "biomarker_normalized": "DVC No",
+          "value": "35267",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DVC No: 35267",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 65,
+    "ocr_avg_confidence": 0.6456,
+    "parsed_row_count": 6
+  }
+}

@@ -1,0 +1,954 @@
+{
+  "document_id": "GUR-0425-PA-0057917_F-KYC_PC_Mast_MANU_PUSHKARNA_1_250427_1321@G.pdf_page_6",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057917_F-KYC_PC_Mast_MANU_PUSHKARNA_1_250427_1321@G.pdf_page_6.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Laboratory Investigation Report\nPatient)\nCollection DatelTime\n26/Apr/2025 06.46PM\nDr.Vyom Aggarwal\nReporting DatelTime\n26/Apr/2025 09.07PM\nClinical Biochemistry\nSIN No:SB2106884\nRenal Function Test (RFT) Profile\nWithout Urine\nCalcium, Serum\nDate\n26/Apr /2025\nUnit\nBio Ref Interval\n06.46PM\nCalcium\nTotal)\n9.77\nmgldL\n8.8\n10.8\nArsenazo III\nComment\nIncreased in Primary and Tertiary hyperparathyroidism, malignant disease with bone involvement, Polycythemia vera, pheochromocytoma and Sarcoidosis_\nAdvise: PTH testing. If normal or increased, then check urine Ca++/ Creatinine ratio to exclude Familial benign hypocalciuric hypercalcemia (FBHH)\nDecreased in surgical or\ncongenital hyperparathyroidism; Vitamin D deficiency, chronic renal failure; magnesium deficiency, prolonged anticonvulsant therapy, acute\npancreatitis, hyperphosphatemia, massive blood transfusion, leprosy, proximal and distal renal tubular disease, alcoholism and hepatic cirrhosis_\nAdvice:\nAlbumin, Phosphate , Creatinine\nAlkaline Phosphatase and PTH.\nSodium, Serum\nDate\n26/Apr /2025\nUnit\nBio Ref Interval\n06.46PM\nSodium\n133.5\nmmollL\n136\n146\nISE indirect\nPotassium, Serum\nDate\n26/Apr/2025\nUnit\nBio Ref Interval\n06:46PM\nPotassium\n4.0\nmmol/L\n3.5\n5.1\nISE indirect\nChloride, Serum\nDate\n26/Apr/2025\nUnit\nBio Ref Interval\n06.46PM\nChloride\n98.1\nmmol/L\n101\n109\nISE indirect\nTest Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab\nBooking Centre :1060\nMax Hospital Shalimar Bagh, Max Lab\nThe authenticity of the report can be verified by scanning the Q R Code on top of theb\nMc-2262",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            194.0,
+            1018.0,
+            224.0
+          ],
+          "text": "Laboratory Investigation Report",
+          "confidence": 0.918
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            238.0,
+            156.0,
+            264.0
+          ],
+          "text": "Patient)",
+          "confidence": 0.6213
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            307.0,
+            1062.0,
+            332.0
+          ],
+          "text": "Collection DatelTime",
+          "confidence": 0.9712
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            307.0,
+            1284.0,
+            333.0
+          ],
+          "text": "26/Apr/2025 06.46PM",
+          "confidence": 0.9122
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            322.0,
+            338.0,
+            504.0,
+            366.0
+          ],
+          "text": "Dr.Vyom Aggarwal",
+          "confidence": 0.6992
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            340.0,
+            1060.0,
+            370.0
+          ],
+          "text": "Reporting DatelTime",
+          "confidence": 0.6994
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            339.0,
+            1283.0,
+            369.0
+          ],
+          "text": "26/Apr/2025 09.07PM",
+          "confidence": 0.9904
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            653.0,
+            385.0,
+            897.0,
+            423.0
+          ],
+          "text": "Clinical Biochemistry",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1287.0,
+            417.0,
+            1427.0,
+            433.0
+          ],
+          "text": "SIN No:SB2106884",
+          "confidence": 0.9442
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            428.0,
+            878.0,
+            458.0
+          ],
+          "text": "Renal Function Test (RFT) Profile",
+          "confidence": 0.9514
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            428.0,
+            1050.0,
+            454.0
+          ],
+          "text": "Without Urine",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            478.0,
+            264.0,
+            509.0
+          ],
+          "text": "Calcium, Serum",
+          "confidence": 0.8958
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            526.0,
+            138.0,
+            554.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            401.0,
+            523.0,
+            561.0,
+            559.0
+          ],
+          "text": "26/Apr /2025",
+          "confidence": 0.7774
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            526.0,
+            1286.0,
+            556.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            524.0,
+            1552.0,
+            556.0
+          ],
+          "text": "Bio Ref Interval",
+          "confidence": 0.6457
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            562.0,
+            522.0,
+            592.0
+          ],
+          "text": "06.46PM",
+          "confidence": 0.9522
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            601.0,
+            181.0,
+            631.0
+          ],
+          "text": "Calcium",
+          "confidence": 0.6806
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            604.0,
+            258.0,
+            634.0
+          ],
+          "text": "Total)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            604.0,
+            454.0,
+            630.0
+          ],
+          "text": "9.77",
+          "confidence": 0.9495
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            604.0,
+            1300.0,
+            634.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9857
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            604.0,
+            1386.0,
+            630.0
+          ],
+          "text": "8.8",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1400.0,
+            604.0,
+            1452.0,
+            630.0
+          ],
+          "text": "10.8",
+          "confidence": 0.63
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            632.0,
+            210.0,
+            656.0
+          ],
+          "text": "Arsenazo III",
+          "confidence": 0.7107
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            702.0,
+            188.0,
+            730.0
+          ],
+          "text": "Comment",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            732.0,
+            1457.0,
+            765.0
+          ],
+          "text": "Increased in Primary and Tertiary hyperparathyroidism, malignant disease with bone involvement, Polycythemia vera, pheochromocytoma and Sarcoidosis_",
+          "confidence": 0.8157
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            770.0,
+            1394.0,
+            801.0
+          ],
+          "text": "Advise: PTH testing. If normal or increased, then check urine Ca++/ Creatinine ratio to exclude Familial benign hypocalciuric hypercalcemia (FBHH)",
+          "confidence": 0.7384
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            802.0,
+            292.0,
+            830.0
+          ],
+          "text": "Decreased in surgical or",
+          "confidence": 0.858
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            797.0,
+            1551.0,
+            833.0
+          ],
+          "text": "congenital hyperparathyroidism; Vitamin D deficiency, chronic renal failure; magnesium deficiency, prolonged anticonvulsant therapy, acute",
+          "confidence": 0.6951
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            830.0,
+            1354.0,
+            860.0
+          ],
+          "text": "pancreatitis, hyperphosphatemia, massive blood transfusion, leprosy, proximal and distal renal tubular disease, alcoholism and hepatic cirrhosis_",
+          "confidence": 0.5949
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            862.0,
+            144.0,
+            886.0
+          ],
+          "text": "Advice:",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            862.0,
+            444.0,
+            888.0
+          ],
+          "text": "Albumin, Phosphate , Creatinine",
+          "confidence": 0.9387
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            862.0,
+            738.0,
+            888.0
+          ],
+          "text": "Alkaline Phosphatase and PTH.",
+          "confidence": 0.866
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            899.0,
+            258.0,
+            930.0
+          ],
+          "text": "Sodium, Serum",
+          "confidence": 0.7271
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            946.0,
+            140.0,
+            976.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            399.0,
+            943.0,
+            559.0,
+            982.0
+          ],
+          "text": "26/Apr /2025",
+          "confidence": 0.8646
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            946.0,
+            1288.0,
+            976.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            946.0,
+            1552.0,
+            976.0
+          ],
+          "text": "Bio Ref Interval",
+          "confidence": 0.7647
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            984.0,
+            520.0,
+            1014.0
+          ],
+          "text": "06.46PM",
+          "confidence": 0.9872
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1024.0,
+            176.0,
+            1050.0
+          ],
+          "text": "Sodium",
+          "confidence": 0.9508
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            1024.0,
+            466.0,
+            1050.0
+          ],
+          "text": "133.5",
+          "confidence": 0.5796
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            1026.0,
+            1314.0,
+            1050.0
+          ],
+          "text": "mmollL",
+          "confidence": 0.5834
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            1024.0,
+            1392.0,
+            1050.0
+          ],
+          "text": "136",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1406.0,
+            1024.0,
+            1450.0,
+            1050.0
+          ],
+          "text": "146",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1052.0,
+            204.0,
+            1076.0
+          ],
+          "text": "ISE indirect",
+          "confidence": 0.9873
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            1090.0,
+            288.0,
+            1121.0
+          ],
+          "text": "Potassium, Serum",
+          "confidence": 0.9571
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1138.0,
+            138.0,
+            1166.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            399.0,
+            1133.0,
+            561.0,
+            1174.0
+          ],
+          "text": "26/Apr/2025",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            1138.0,
+            1286.0,
+            1168.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            1136.0,
+            1552.0,
+            1168.0
+          ],
+          "text": "Bio Ref Interval",
+          "confidence": 0.6457
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            1173.0,
+            522.0,
+            1203.0
+          ],
+          "text": "06:46PM",
+          "confidence": 0.6523
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            1215.0,
+            209.0,
+            1241.0
+          ],
+          "text": "Potassium",
+          "confidence": 0.9619
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            1216.0,
+            442.0,
+            1242.0
+          ],
+          "text": "4.0",
+          "confidence": 0.9349
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            1216.0,
+            1314.0,
+            1242.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.6938
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            1216.0,
+            1388.0,
+            1242.0
+          ],
+          "text": "3.5",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1400.0,
+            1216.0,
+            1436.0,
+            1242.0
+          ],
+          "text": "5.1",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1242.0,
+            204.0,
+            1266.0
+          ],
+          "text": "ISE indirect",
+          "confidence": 0.9873
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            1279.0,
+            269.0,
+            1315.0
+          ],
+          "text": "Chloride, Serum",
+          "confidence": 0.9549
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            1327.0,
+            138.0,
+            1357.0
+          ],
+          "text": "Date",
+          "confidence": 0.9879
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            1324.0,
+            559.0,
+            1361.0
+          ],
+          "text": "26/Apr/2025",
+          "confidence": 0.7193
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            1328.0,
+            1286.0,
+            1358.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            1326.0,
+            1552.0,
+            1358.0
+          ],
+          "text": "Bio Ref Interval",
+          "confidence": 0.6457
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            1365.0,
+            522.0,
+            1395.0
+          ],
+          "text": "06.46PM",
+          "confidence": 0.9843
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1406.0,
+            182.0,
+            1432.0
+          ],
+          "text": "Chloride",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            1406.0,
+            450.0,
+            1432.0
+          ],
+          "text": "98.1",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            1406.0,
+            1314.0,
+            1432.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.5412
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            1406.0,
+            1388.0,
+            1432.0
+          ],
+          "text": "101",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1406.0,
+            1406.0,
+            1450.0,
+            1432.0
+          ],
+          "text": "109",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1434.0,
+            204.0,
+            1458.0
+          ],
+          "text": "ISE indirect",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            1928.0,
+            604.0,
+            1956.0
+          ],
+          "text": "Test Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab",
+          "confidence": 0.6067
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            1955.0,
+            287.0,
+            1991.0
+          ],
+          "text": "Booking Centre :1060",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            1960.0,
+            682.0,
+            1992.0
+          ],
+          "text": "Max Hospital Shalimar Bagh, Max Lab",
+          "confidence": 0.6736
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1992.0,
+            892.0,
+            2024.0
+          ],
+          "text": "The authenticity of the report can be verified by scanning the Q R Code on top of theb",
+          "confidence": 0.527
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1449.0,
+            2135.0,
+            1533.0,
+            2155.0
+          ],
+          "text": "Mc-2262",
+          "confidence": 0.7718
+        }
+      ]
+    }
+  ],
+  "full_text": "Laboratory Investigation Report\nPatient)\nCollection DatelTime\n26/Apr/2025 06.46PM\nDr.Vyom Aggarwal\nReporting DatelTime\n26/Apr/2025 09.07PM\nClinical Biochemistry\nSIN No:SB2106884\nRenal Function Test (RFT) Profile\nWithout Urine\nCalcium, Serum\nDate\n26/Apr /2025\nUnit\nBio Ref Interval\n06.46PM\nCalcium\nTotal)\n9.77\nmgldL\n8.8\n10.8\nArsenazo III\nComment\nIncreased in Primary and Tertiary hyperparathyroidism, malignant disease with bone involvement, Polycythemia vera, pheochromocytoma and Sarcoidosis_\nAdvise: PTH testing. If normal or increased, then check urine Ca++/ Creatinine ratio to exclude Familial benign hypocalciuric hypercalcemia (FBHH)\nDecreased in surgical or\ncongenital hyperparathyroidism; Vitamin D deficiency, chronic renal failure; magnesium deficiency, prolonged anticonvulsant therapy, acute\npancreatitis, hyperphosphatemia, massive blood transfusion, leprosy, proximal and distal renal tubular disease, alcoholism and hepatic cirrhosis_\nAdvice:\nAlbumin, Phosphate , Creatinine\nAlkaline Phosphatase and PTH.\nSodium, Serum\nDate\n26/Apr /2025\nUnit\nBio Ref Interval\n06.46PM\nSodium\n133.5\nmmollL\n136\n146\nISE indirect\nPotassium, Serum\nDate\n26/Apr/2025\nUnit\nBio Ref Interval\n06:46PM\nPotassium\n4.0\nmmol/L\n3.5\n5.1\nISE indirect\nChloride, Serum\nDate\n26/Apr/2025\nUnit\nBio Ref Interval\n06.46PM\nChloride\n98.1\nmmol/L\n101\n109\nISE indirect\nTest Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab\nBooking Centre :1060\nMax Hospital Shalimar Bagh, Max Lab\nThe authenticity of the report can be verified by scanning the Q R Code on top of theb\nMc-2262",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SIN No:SB2",
+          "biomarker_normalized": "SIN No:SB2",
+          "value": "106884",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SIN No:SB2106884",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Test Performed at",
+          "biomarker_normalized": "Test Performed at",
+          "value": "1060",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Test Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Booking Centre",
+          "biomarker_normalized": "Booking Centre",
+          "value": "1060",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Booking Centre :1060",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Mc",
+          "biomarker_normalized": "Mc",
+          "value": "2262",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mc-2262",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 74,
+    "ocr_avg_confidence": 0.866,
+    "parsed_row_count": 4
+  }
+}

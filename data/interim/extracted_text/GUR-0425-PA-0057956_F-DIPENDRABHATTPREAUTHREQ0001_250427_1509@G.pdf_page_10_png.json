@@ -1,0 +1,729 @@
+{
+  "document_id": "GUR-0425-PA-0057956_F-DIPENDRABHATTPREAUTHREQ0001_250427_1509@G.pdf_page_10",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057956_F-DIPENDRABHATTPREAUTHREQ0001_250427_1509@G.pdf_page_10.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "manipalhospitals\nLIFE S ONG\nDatc :\n26 Apt 302821*8\nEMERGEICY MEDICAL OFFICER MPD\nKcpotting Wale :\n2 Apr 3025 09. 40\nKereh\nDale\nJo\n3035:128\nILLHULOG\nTE\nRAULT\nUNT\nMOLOGICAL RETKEACEAKIAL\nERYTHROCYTI [EDIMINTATIO% RAZE'\nSpecieen-whhole Blood\nNealegion\nmethod-ninual\n25?\n1\niathou:\n[C.c-.0.Olm\nC-Reacelve\nProtein\n(Or4nuiutiv)\nC-R*XC-II PROTEI#,CrP\n5.90\nng/dl\n[0.00-0.501\nNothod:\n[mmunocuebidimclt5\nSPECINER\nSERLH\nP4ge} 02 }\nDo\nOT RIFORT\nPrinted On\n27 API 2025 :9001\nDc. LoneLosh Menga\nManipal Hospstal Ouruorm\nDlock F, 0d Chatkx, Palm Vrar Gunoram Heyans\n4122 017\nP,91012 41 0840/.91012 4102*0\nManipal Hospials Prlrale LImted\n(Formety Co ubU A4 Hoepils Pivata Linted)\nCIN U451IDKAROOJPCO1jCSS\nFo Or The Arre44Z Rttom Baph HAL Ampon Road Benadluru E60017, Karalala\nP.91 00 + 9360 J00\nMAN mrtiplho pitles Com\nJne\nAp",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            95.0,
+            690.0,
+            179.0
+          ],
+          "text": "manipalhospitals",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            520.0,
+            178.0,
+            684.0,
+            210.0
+          ],
+          "text": "LIFE S ONG",
+          "confidence": 0.2904
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            380.0,
+            1220.0,
+            406.0
+          ],
+          "text": "Datc :",
+          "confidence": 0.0407
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            377.0,
+            1455.0,
+            413.0
+          ],
+          "text": "26 Apt 302821*8",
+          "confidence": 0.107
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            430.0,
+            422.0,
+            900.0,
+            454.0
+          ],
+          "text": "EMERGEICY MEDICAL OFFICER MPD",
+          "confidence": 0.2878
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            426.0,
+            1220.0,
+            456.0
+          ],
+          "text": "Kcpotting Wale :",
+          "confidence": 0.2407
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            423.0,
+            1455.0,
+            459.0
+          ],
+          "text": "2 Apr 3025 09. 40",
+          "confidence": 0.0908
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            458.0,
+            222.0,
+            486.0
+          ],
+          "text": "Kereh",
+          "confidence": 0.2226
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            256.0,
+            458.0,
+            314.0,
+            484.0
+          ],
+          "text": "Dale",
+          "confidence": 0.3027
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            428.0,
+            458.0,
+            468.0,
+            488.0
+          ],
+          "text": "Jo",
+          "confidence": 0.2987
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            458.0,
+            638.0,
+            488.0
+          ],
+          "text": "3035:128",
+          "confidence": 0.0586
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            542.0,
+            974.0,
+            572.0
+          ],
+          "text": "ILLHULOG",
+          "confidence": 0.2723
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            588.0,
+            274.0,
+            614.0
+          ],
+          "text": "TE",
+          "confidence": 0.1001
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            588.0,
+            788.0,
+            618.0
+          ],
+          "text": "RAULT",
+          "confidence": 0.2502
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            588.0,
+            1000.0,
+            618.0
+          ],
+          "text": "UNT",
+          "confidence": 0.6231
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            588.0,
+            1602.0,
+            620.0
+          ],
+          "text": "MOLOGICAL RETKEACEAKIAL",
+          "confidence": 0.1198
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            722.0,
+            650.0,
+            753.0
+          ],
+          "text": "ERYTHROCYTI [EDIMINTATIO% RAZE'",
+          "confidence": 0.0722
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            831.0,
+            722.0,
+            1158.0,
+            759.0
+          ],
+          "text": "Specieen-whhole Blood",
+          "confidence": 0.2808
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            755.0,
+            302.0,
+            787.0
+          ],
+          "text": "Nealegion",
+          "confidence": 0.1249
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            758.0,
+            522.0,
+            784.0
+          ],
+          "text": "method-ninual",
+          "confidence": 0.1115
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            788.0,
+            244.0,
+            816.0
+          ],
+          "text": "25?",
+          "confidence": 0.1135
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            790.0,
+            810.0,
+            820.0
+          ],
+          "text": "1",
+          "confidence": 0.8061
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1007.0,
+            790.0,
+            1140.0,
+            820.0
+          ],
+          "text": "iathou:",
+          "confidence": 0.1843
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            790.0,
+            1490.0,
+            822.0
+          ],
+          "text": "[C.c-.0.Olm",
+          "confidence": 0.1639
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            918.0,
+            856.0,
+            946.0
+          ],
+          "text": "C-Reacelve",
+          "confidence": 0.7556
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            866.0,
+            920.0,
+            984.0,
+            946.0
+          ],
+          "text": "Protein",
+          "confidence": 0.5979
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            920.0,
+            1218.0,
+            950.0
+          ],
+          "text": "(Or4nuiutiv)",
+          "confidence": 0.0548
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            980.0,
+            544.0,
+            1012.0
+          ],
+          "text": "C-R*XC-II PROTEI#,CrP",
+          "confidence": 0.0222
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            982.0,
+            764.0,
+            1010.0
+          ],
+          "text": "5.90",
+          "confidence": 0.8353
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            909.0,
+            977.0,
+            1002.0,
+            1019.0
+          ],
+          "text": "ng/dl",
+          "confidence": 0.1922
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            979.0,
+            1349.0,
+            1017.0
+          ],
+          "text": "[0.00-0.501",
+          "confidence": 0.5432
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1012.0,
+            304.0,
+            1044.0
+          ],
+          "text": "Nothod:",
+          "confidence": 0.246
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            1012.0,
+            622.0,
+            1042.0
+          ],
+          "text": "[mmunocuebidimclt5",
+          "confidence": 0.0187
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1046.0,
+            324.0,
+            1076.0
+          ],
+          "text": "SPECINER",
+          "confidence": 0.2122
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            1048.0,
+            448.0,
+            1074.0
+          ],
+          "text": "SERLH",
+          "confidence": 0.0885
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1364.0,
+            1104.0,
+            1525.0,
+            1142.0
+          ],
+          "text": "P4ge} 02 }",
+          "confidence": 0.1107
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            1144.0,
+            736.0,
+            1168.0
+          ],
+          "text": "Do",
+          "confidence": 0.0736
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            1141.0,
+            892.0,
+            1170.0
+          ],
+          "text": "OT RIFORT",
+          "confidence": 0.0793
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1202.0,
+            1150.0,
+            1230.0
+          ],
+          "text": "Printed On",
+          "confidence": 0.4207
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            1201.0,
+            1481.0,
+            1237.0
+          ],
+          "text": "27 API 2025 :9001",
+          "confidence": 0.0432
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1013.0,
+            1376.0,
+            1250.0,
+            1413.0
+          ],
+          "text": "Dc. LoneLosh Menga",
+          "confidence": 0.0548
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1760.0,
+            509.0,
+            1798.0
+          ],
+          "text": "Manipal Hospstal Ouruorm",
+          "confidence": 0.107
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            1796.0,
+            782.0,
+            1841.0
+          ],
+          "text": "Dlock F, 0d Chatkx, Palm Vrar Gunoram Heyans",
+          "confidence": 0.0803
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            1802.0,
+            886.0,
+            1832.0
+          ],
+          "text": "4122 017",
+          "confidence": 0.1654
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            1836.0,
+            654.0,
+            1868.0
+          ],
+          "text": "P,91012 41 0840/.91012 4102*0",
+          "confidence": 0.0772
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            1892.0,
+            580.0,
+            1924.0
+          ],
+          "text": "Manipal Hospials Prlrale LImted",
+          "confidence": 0.0702
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1926.0,
+            737.0,
+            1963.0
+          ],
+          "text": "(Formety Co ubU A4 Hoepils Pivata Linted)",
+          "confidence": 0.005
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            1964.0,
+            545.0,
+            1996.0
+          ],
+          "text": "CIN U451IDKAROOJPCO1jCSS",
+          "confidence": 0.0172
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1998.0,
+            1198.0,
+            2040.0
+          ],
+          "text": "Fo Or The Arre44Z Rttom Baph HAL Ampon Road Benadluru E60017, Karalala",
+          "confidence": 0.0015
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            2036.0,
+            414.0,
+            2066.0
+          ],
+          "text": "P.91 00 + 9360 J00",
+          "confidence": 0.2083
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            2040.0,
+            1042.0,
+            2072.0
+          ],
+          "text": "MAN mrtiplho pitles Com",
+          "confidence": 0.0085
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            209.18601650351266,
+            455.1539501058485,
+            260.81398349648737,
+            490.8460498941515
+          ],
+          "text": "Jne",
+          "confidence": 0.0363
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            457.3056333459999,
+            453.14592836148023,
+            517.6943666540001,
+            496.85407163851977
+          ],
+          "text": "Ap",
+          "confidence": 0.1404
+        }
+      ]
+    }
+  ],
+  "full_text": "manipalhospitals\nLIFE S ONG\nDatc :\n26 Apt 302821*8\nEMERGEICY MEDICAL OFFICER MPD\nKcpotting Wale :\n2 Apr 3025 09. 40\nKereh\nDale\nJo\n3035:128\nILLHULOG\nTE\nRAULT\nUNT\nMOLOGICAL RETKEACEAKIAL\nERYTHROCYTI [EDIMINTATIO% RAZE'\nSpecieen-whhole Blood\nNealegion\nmethod-ninual\n25?\n1\niathou:\n[C.c-.0.Olm\nC-Reacelve\nProtein\n(Or4nuiutiv)\nC-R*XC-II PROTEI#,CrP\n5.90\nng/dl\n[0.00-0.501\nNothod:\n[mmunocuebidimclt5\nSPECINER\nSERLH\nP4ge} 02 }\nDo\nOT RIFORT\nPrinted On\n27 API 2025 :9001\nDc. LoneLosh Menga\nManipal Hospstal Ouruorm\nDlock F, 0d Chatkx, Palm Vrar Gunoram Heyans\n4122 017\nP,91012 41 0840/.91012 4102*0\nManipal Hospials Prlrale LImted\n(Formety Co ubU A4 Hoepils Pivata Linted)\nCIN U451IDKAROOJPCO1jCSS\nFo Or The Arre44Z Rttom Baph HAL Ampon Road Benadluru E60017, Karalala\nP.91 00 + 9360 J00\nMAN mrtiplho pitles Com\nJne\nAp",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "[C.c-.",
+          "biomarker_normalized": "[C.c-.",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "[C.c-.0.Olm",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "P4ge}",
+          "biomarker_normalized": "P4ge}",
+          "value": "02",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "P4ge} 02 }",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Dlock F,",
+          "biomarker_normalized": "Dlock F,",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Dlock F, 0d Chatkx, Palm Vrar Gunoram Heyans",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "P,",
+          "biomarker_normalized": "P,",
+          "value": "91012",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "P,91012 41 0840/.91012 4102*0",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN U4",
+          "biomarker_normalized": "CIN U4",
+          "value": "51",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN U451IDKAROOJPCO1jCSS",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Fo Or The Arre4",
+          "biomarker_normalized": "Fo Or The Arre4",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Fo Or The Arre44Z Rttom Baph HAL Ampon Road Benadluru E60017, Karalala",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "P.",
+          "biomarker_normalized": "P.",
+          "value": "91",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "P.91 00 + 9360 J00",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.2156,
+    "parsed_row_count": 7
+  }
+}

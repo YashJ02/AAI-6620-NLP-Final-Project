@@ -1,0 +1,1440 @@
+{
+  "document_id": "GUR-0425-PA-0051761_Q-NEHA19.04.20250001compressed_250427_1034@F.pdf_page_30",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0051761_Q-NEHA19.04.20250001compressed_250427_1034@F.pdf_page_30.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "@\nSWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n76 Skill \"7 Zeal\n76e Spirit \"7a Care\nPatient Id\nSrl No\n149\nDate\nSWA STIK HOSPITAL\nNormal Value\nBLOOD UREA\n23.0\nmg Idl\n15.0\n45.0\nSERUM CREATININE\n0.84\nmg%\n0.5 - 1.2\nGERUM URIC ACID\n4.32\nmg%\n2.7_\n6.5\nBLOOD UREA NITROGEN (BUN)\n10.748\nmg%\n6.0 - 20.0\n141.6\nmmol/L\n135.0\n145.0\nSODIUM\n3.50\nmmol/l\n3.5 - 5.5\nPOTASSIUM\n101.6\nmmol/L\n98.0\n110.0\nCHLORIDE\nLIVER_FUNCTION_TESLLLEI)\n0.86\n0 - 1.0\nBILIRUBIN TOTAL\n0.23\nmgldl\n0.00\n0.25\nCONJUGATED (D Bilirubin)\n0.63\nmgldl\n0.00\n0.70\nUNCONJUGATED (I D Bilirubin)\n70.2\nIUIL\n0 - 32\nSCoT\nIUIL\n0.0 - 33.0\n56.9\nS';PT\n84.6\nUIL\n42.0\n103.0\nALKALINE PHOSPHATASE\n1' CC Method\n6.4 - 8.3\n6.89\nTOTAL PROTEIN\n3.5 - 4.8\n3.90\nALBUMIN\n2.3\n3.5\n2.99\n(IOBULIN\n1.304\nAIG RATIO\nLFT INTERPRET\nChahar\nE:GL; ' 'AN NAN\nDr;\nYogesh Ku\nMD (Interr\n7 {eciGwte)\nFeien\nDMcKO: +06131\nGUNJAN NAIN\nTECHNICIAN\n3DI4D Ultrasoung\nOn Panel\nColor Doppler\nGovernment\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs AVAILABLE\nCT Scan\nHaryana\nDelhi Government\nDigital X-Ray\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nComputerised\nAll TPA & Insurance\nmgldl\ngmldl\ngm/dl\ngmldl\nSTIK\nHOSP\nrtan\nJhixf\nUARH",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            44.0,
+            198.0,
+            168.0
+          ],
+          "text": "@",
+          "confidence": 0.1119
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            253.0,
+            47.0,
+            1363.0,
+            155.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.7922
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            532.0,
+            158.0,
+            1046.0,
+            206.0
+          ],
+          "text": "Jhajjar Road, Bahadurgarh",
+          "confidence": 0.7672
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            262.0,
+            260.0,
+            288.0
+          ],
+          "text": "76 Skill \"7 Zeal",
+          "confidence": 0.2341
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            292.0,
+            264.0,
+            324.0
+          ],
+          "text": "76e Spirit \"7a Care",
+          "confidence": 0.5119
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            460.0,
+            270.0,
+            490.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.6685
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            452.0,
+            716.0,
+            482.0
+          ],
+          "text": "Srl No",
+          "confidence": 0.9907
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            452.0,
+            816.0,
+            478.0
+          ],
+          "text": "149",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            448.0,
+            1064.0,
+            478.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            532.0,
+            561.0,
+            571.0
+          ],
+          "text": "SWA STIK HOSPITAL",
+          "confidence": 0.9718
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1160.0,
+            612.0,
+            1324.0,
+            640.0
+          ],
+          "text": "Normal Value",
+          "confidence": 0.8289
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            693.0,
+            327.0,
+            733.0
+          ],
+          "text": "BLOOD UREA",
+          "confidence": 0.9121
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            690.0,
+            768.0,
+            720.0
+          ],
+          "text": "23.0",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            901.0,
+            685.0,
+            993.0,
+            725.0
+          ],
+          "text": "mg Idl",
+          "confidence": 0.9532
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            682.0,
+            1228.0,
+            712.0
+          ],
+          "text": "15.0",
+          "confidence": 0.5659
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            680.0,
+            1312.0,
+            712.0
+          ],
+          "text": "45.0",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            745.0,
+            431.0,
+            787.0
+          ],
+          "text": "SERUM CREATININE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            744.0,
+            768.0,
+            776.0
+          ],
+          "text": "0.84",
+          "confidence": 0.9535
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            737.0,
+            979.0,
+            777.0
+          ],
+          "text": "mg%",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1159.0,
+            730.0,
+            1283.0,
+            767.0
+          ],
+          "text": "0.5 - 1.2",
+          "confidence": 0.8219
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            803.0,
+            405.0,
+            841.0
+          ],
+          "text": "GERUM URIC ACID",
+          "confidence": 0.8164
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            798.0,
+            770.0,
+            828.0
+          ],
+          "text": "4.32",
+          "confidence": 0.5931
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            791.0,
+            981.0,
+            831.0
+          ],
+          "text": "mg%",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1161.0,
+            785.0,
+            1218.0,
+            822.0
+          ],
+          "text": "2.7_",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            786.0,
+            1284.0,
+            818.0
+          ],
+          "text": "6.5",
+          "confidence": 0.6318
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            850.0,
+            597.0,
+            893.0
+          ],
+          "text": "BLOOD UREA NITROGEN (BUN)",
+          "confidence": 0.9911
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            845.0,
+            805.0,
+            881.0
+          ],
+          "text": "10.748",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            841.0,
+            981.0,
+            881.0
+          ],
+          "text": "mg%",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            836.0,
+            1300.0,
+            868.0
+          ],
+          "text": "6.0 - 20.0",
+          "confidence": 0.7245
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            898.0,
+            790.0,
+            930.0
+          ],
+          "text": "141.6",
+          "confidence": 0.7287
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            891.0,
+            1013.0,
+            928.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.6647
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            888.0,
+            1252.0,
+            920.0
+          ],
+          "text": "135.0",
+          "confidence": 0.8275
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            886.0,
+            1352.0,
+            916.0
+          ],
+          "text": "145.0",
+          "confidence": 0.904
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            907.0,
+            255.0,
+            944.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9748
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            950.0,
+            774.0,
+            982.0
+          ],
+          "text": "3.50",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            907.0,
+            945.0,
+            1012.0,
+            977.0
+          ],
+          "text": "mmol/l",
+          "confidence": 0.8477
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            938.0,
+            1288.0,
+            970.0
+          ],
+          "text": "3.5 - 5.5",
+          "confidence": 0.5855
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            958.0,
+            313.0,
+            997.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.8337
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            1002.0,
+            792.0,
+            1034.0
+          ],
+          "text": "101.6",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            995.0,
+            1016.0,
+            1035.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.6215
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            992.0,
+            1238.0,
+            1024.0
+          ],
+          "text": "98.0",
+          "confidence": 0.978
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            990.0,
+            1336.0,
+            1022.0
+          ],
+          "text": "110.0",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1012.0,
+            293.0,
+            1051.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.8994
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1060.0,
+            582.0,
+            1108.0
+          ],
+          "text": "LIVER_FUNCTION_TESLLLEI)",
+          "confidence": 0.728
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            1109.0,
+            779.0,
+            1145.0
+          ],
+          "text": "0.86",
+          "confidence": 0.9802
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            1097.0,
+            1264.0,
+            1130.0
+          ],
+          "text": "0 - 1.0",
+          "confidence": 0.559
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1116.0,
+            391.0,
+            1161.0
+          ],
+          "text": "BILIRUBIN TOTAL",
+          "confidence": 0.9549
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            712.0,
+            1166.0,
+            780.0,
+            1198.0
+          ],
+          "text": "0.23",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            911.0,
+            1159.0,
+            997.0,
+            1197.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.8895
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1152.0,
+            1242.0,
+            1184.0
+          ],
+          "text": "0.00",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            1150.0,
+            1326.0,
+            1182.0
+          ],
+          "text": "0.25",
+          "confidence": 0.9765
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1171.0,
+            527.0,
+            1215.0
+          ],
+          "text": "CONJUGATED (D Bilirubin)",
+          "confidence": 0.7992
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1220.0,
+            782.0,
+            1252.0
+          ],
+          "text": "0.63",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            1213.0,
+            997.0,
+            1253.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.8747
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1173.0,
+            1205.0,
+            1245.0,
+            1241.0
+          ],
+          "text": "0.00",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1260.0,
+            1204.0,
+            1328.0,
+            1236.0
+          ],
+          "text": "0.70",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            1224.0,
+            582.0,
+            1272.0
+          ],
+          "text": "UNCONJUGATED (I D Bilirubin)",
+          "confidence": 0.9293
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            716.0,
+            1276.0,
+            780.0,
+            1308.0
+          ],
+          "text": "70.2",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            1268.0,
+            978.0,
+            1300.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9158
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            1260.0,
+            1262.0,
+            1292.0
+          ],
+          "text": "0 - 32",
+          "confidence": 0.6401
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            1287.0,
+            233.0,
+            1325.0
+          ],
+          "text": "SCoT",
+          "confidence": 0.3527
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            915.0,
+            1319.0,
+            981.0,
+            1355.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9899
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            1312.0,
+            1312.0,
+            1344.0
+          ],
+          "text": "0.0 - 33.0",
+          "confidence": 0.8081
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            1328.0,
+            782.0,
+            1360.0
+          ],
+          "text": "56.9",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1342.0,
+            231.0,
+            1379.0
+          ],
+          "text": "S';PT",
+          "confidence": 0.4312
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            1380.0,
+            784.0,
+            1412.0
+          ],
+          "text": "84.6",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            1376.0,
+            974.0,
+            1406.0
+          ],
+          "text": "UIL",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            1366.0,
+            1248.0,
+            1398.0
+          ],
+          "text": "42.0",
+          "confidence": 0.7802
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1267.0,
+            1361.0,
+            1349.0,
+            1397.0
+          ],
+          "text": "103.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1383.0,
+            528.0,
+            1434.0
+          ],
+          "text": "ALKALINE PHOSPHATASE",
+          "confidence": 0.9746
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            1432.0,
+            316.0,
+            1462.0
+          ],
+          "text": "1' CC Method",
+          "confidence": 0.1531
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            1448.0,
+            1302.0,
+            1480.0
+          ],
+          "text": "6.4 - 8.3",
+          "confidence": 0.9744
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1464.0,
+            790.0,
+            1496.0
+          ],
+          "text": "6.89",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1473.0,
+            392.0,
+            1518.0
+          ],
+          "text": "TOTAL PROTEIN",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1181.0,
+            1498.0,
+            1305.0,
+            1536.0
+          ],
+          "text": "3.5 - 4.8",
+          "confidence": 0.4503
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1516.0,
+            792.0,
+            1548.0
+          ],
+          "text": "3.90",
+          "confidence": 0.9491
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1529.0,
+            289.0,
+            1571.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            1558.0,
+            1236.0,
+            1588.0
+          ],
+          "text": "2.3",
+          "confidence": 0.8136
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            1551.0,
+            1308.0,
+            1590.0
+          ],
+          "text": "3.5",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1570.0,
+            792.0,
+            1602.0
+          ],
+          "text": "2.99",
+          "confidence": 0.9694
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1584.0,
+            309.0,
+            1623.0
+          ],
+          "text": "(IOBULIN",
+          "confidence": 0.3873
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1624.0,
+            810.0,
+            1656.0
+          ],
+          "text": "1.304",
+          "confidence": 0.7885
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1638.0,
+            309.0,
+            1678.0
+          ],
+          "text": "AIG RATIO",
+          "confidence": 0.9659
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1679.0,
+            393.0,
+            1719.0
+          ],
+          "text": "LFT INTERPRET",
+          "confidence": 0.7105
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            1753.0,
+            1005.0,
+            1803.0
+          ],
+          "text": "Chahar",
+          "confidence": 0.905
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            1725.0,
+            1424.0,
+            1789.0
+          ],
+          "text": "E:GL; ' 'AN NAN",
+          "confidence": 0.1059
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            1781.0,
+            667.0,
+            1819.0
+          ],
+          "text": "Dr;",
+          "confidence": 0.8118
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            667.0,
+            1765.0,
+            833.0,
+            1826.0
+          ],
+          "text": "Yogesh Ku",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            685.0,
+            1819.0,
+            839.0,
+            1857.0
+          ],
+          "text": "MD (Interr",
+          "confidence": 0.4618
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            1803.0,
+            1006.0,
+            1846.0
+          ],
+          "text": "7 {eciGwte)",
+          "confidence": 0.1564
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            1774.0,
+            1331.0,
+            1865.0
+          ],
+          "text": "Feien",
+          "confidence": 0.0356
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            1840.0,
+            1009.0,
+            1896.0
+          ],
+          "text": "DMcKO: +06131",
+          "confidence": 0.1462
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1900.0,
+            1375.0,
+            1940.0
+          ],
+          "text": "GUNJAN NAIN",
+          "confidence": 0.9794
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1934.0,
+            321.0,
+            1973.0
+          ],
+          "text": "TECHNICIAN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1338.0,
+            2018.0,
+            1584.0,
+            2050.0
+          ],
+          "text": "3DI4D Ultrasoung",
+          "confidence": 0.6337
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            2060.0,
+            279.0,
+            2101.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1339.0,
+            2057.0,
+            1545.0,
+            2093.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 0.6859
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            2105.0,
+            404.0,
+            2136.0
+          ],
+          "text": "Government",
+          "confidence": 0.9853
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            449.0,
+            2071.0,
+            1272.0,
+            2137.0
+          ],
+          "text": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs AVAILABLE",
+          "confidence": 0.6545
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            2100.0,
+            1464.0,
+            2128.0
+          ],
+          "text": "CT Scan",
+          "confidence": 0.6696
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            2111.0,
+            228.0,
+            2143.0
+          ],
+          "text": "Haryana",
+          "confidence": 0.6877
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            2144.0,
+            363.0,
+            2181.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.9886
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1343.0,
+            2133.0,
+            1533.0,
+            2175.0
+          ],
+          "text": "Digital X-Ray",
+          "confidence": 0.7511
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            2182.0,
+            325.0,
+            2222.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.972
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            559.0,
+            2157.0,
+            1165.0,
+            2219.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.7028
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            2174.0,
+            1547.0,
+            2212.0
+          ],
+          "text": "Computerised",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            2223.0,
+            389.0,
+            2259.0
+          ],
+          "text": "All TPA & Insurance",
+          "confidence": 0.6022
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            909.2802656784306,
+            1103.1737828150729,
+            995.7197343215694,
+            1145.8262171849271
+          ],
+          "text": "mgldl",
+          "confidence": 0.9326
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            919.2111456180002,
+            1455.2298035274762,
+            1006.7888543819998,
+            1496.7701964725238
+          ],
+          "text": "gmldl",
+          "confidence": 0.7449
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            920.2802656784306,
+            1505.1200273997579,
+            1008.7197343215694,
+            1549.8799726002421
+          ],
+          "text": "gm/dl",
+          "confidence": 0.613
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            922.2802656784306,
+            1559.1200273997579,
+            1010.7197343215694,
+            1603.8799726002421
+          ],
+          "text": "gmldl",
+          "confidence": 0.6716
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            262.1588936020131,
+            1748.4930106093007,
+            356.8411063979869,
+            1823.5069893906993
+          ],
+          "text": "STIK",
+          "confidence": 0.7458
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            1747.046332739718,
+            446.0,
+            1838.953667260282
+          ],
+          "text": "HOSP",
+          "confidence": 0.8245
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1209.4275212228624,
+            1777.1049811465132,
+            1284.5724787771376,
+            1824.8950188534868
+          ],
+          "text": "rtan",
+          "confidence": 0.4558
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            272.2227855465124,
+            1857.1194299994186,
+            345.7772144534876,
+            1904.8805700005814
+          ],
+          "text": "Jhixf",
+          "confidence": 0.106
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            321.464899367183,
+            1928.8839814747175,
+            406.535100632817,
+            1986.1160185252825
+          ],
+          "text": "UARH",
+          "confidence": 0.3337
+        }
+      ]
+    }
+  ],
+  "full_text": "@\nSWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n76 Skill \"7 Zeal\n76e Spirit \"7a Care\nPatient Id\nSrl No\n149\nDate\nSWA STIK HOSPITAL\nNormal Value\nBLOOD UREA\n23.0\nmg Idl\n15.0\n45.0\nSERUM CREATININE\n0.84\nmg%\n0.5 - 1.2\nGERUM URIC ACID\n4.32\nmg%\n2.7_\n6.5\nBLOOD UREA NITROGEN (BUN)\n10.748\nmg%\n6.0 - 20.0\n141.6\nmmol/L\n135.0\n145.0\nSODIUM\n3.50\nmmol/l\n3.5 - 5.5\nPOTASSIUM\n101.6\nmmol/L\n98.0\n110.0\nCHLORIDE\nLIVER_FUNCTION_TESLLLEI)\n0.86\n0 - 1.0\nBILIRUBIN TOTAL\n0.23\nmgldl\n0.00\n0.25\nCONJUGATED (D Bilirubin)\n0.63\nmgldl\n0.00\n0.70\nUNCONJUGATED (I D Bilirubin)\n70.2\nIUIL\n0 - 32\nSCoT\nIUIL\n0.0 - 33.0\n56.9\nS';PT\n84.6\nUIL\n42.0\n103.0\nALKALINE PHOSPHATASE\n1' CC Method\n6.4 - 8.3\n6.89\nTOTAL PROTEIN\n3.5 - 4.8\n3.90\nALBUMIN\n2.3\n3.5\n2.99\n(IOBULIN\n1.304\nAIG RATIO\nLFT INTERPRET\nChahar\nE:GL; ' 'AN NAN\nDr;\nYogesh Ku\nMD (Interr\n7 {eciGwte)\nFeien\nDMcKO: +06131\nGUNJAN NAIN\nTECHNICIAN\n3DI4D Ultrasoung\nOn Panel\nColor Doppler\nGovernment\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs AVAILABLE\nCT Scan\nHaryana\nDelhi Government\nDigital X-Ray\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nComputerised\nAll TPA & Insurance\nmgldl\ngmldl\ngm/dl\ngmldl\nSTIK\nHOSP\nrtan\nJhixf\nUARH",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "DMcKO: +",
+          "biomarker_normalized": "DMcKO: +",
+          "value": "06131",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMcKO: +06131",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "All Lab Test; ICU & Ambulance Facility",
+          "biomarker_normalized": "All Lab Test; ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 116,
+    "ocr_avg_confidence": 0.7908,
+    "parsed_row_count": 2
+  }
+}

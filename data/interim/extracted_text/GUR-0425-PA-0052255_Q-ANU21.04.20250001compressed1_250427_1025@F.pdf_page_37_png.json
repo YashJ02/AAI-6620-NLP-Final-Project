@@ -1,0 +1,939 @@
+{
+  "document_id": "GUR-0425-PA-0052255_Q-ANU21.04.20250001compressed1_250427_1025@F.pdf_page_37",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0052255_Q-ANU21.04.20250001compressed1_250427_1025@F.pdf_page_37.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "C\nSWASTIK HOSPITAL\nJhajjar Road Bahadurgarh\n76 Skit '\"7 #Zeal\n76e Spirit 7 Qane\nPatient Id\nSrl No\n1003\nDate\nSWASTIK HOSPITAL\nTest\nHAEMATOLOGY\nHB A1C\n5.20\n%\nEXPECTED VALUES\nMetabolicaly healthy patients\n4.8 - 6.0\n% HbAIC\nGood Control\n6.0 - 6.8\n% HbAIC\nFair\nControl\n6.8-8.2\n% HbAIC\nPoor\nControl\n>8.2\n% HbAIC\nREMARKS:\nIn vitro quantitative determination of HbAIC in whole blood is utilized in long term monitoring of glycemia\nIhe HbAc level correlates with the mean glucose concentration prevailing in the course ofthe Patients\nrecent\nhistory (approx\n6-8 weeks) and therefore provides much more reliable information for glycemia\nmonitoring than do determinations of blood glucose or urinary glucose\nIt $ recommended that the determination of HbAIC be performed at intervals of 4-6 weeksduring Diabetes\nMellitus therapy\nResults of HbAIC should be assessed in conjunction with the patients medical history, clinical\nexaminations\nand other findings\n#irr\nTIr7\nEnd Of Report\nDr;\nDr:\nIF\nML q\"itern,\nIGUNJAN NAIN\nTECHNICIAN\nDMCIRI10211\n3DIAD Ultrasound\nOn Panel\nColor Doppler\nHaryana Government\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nCT-Scan\nDelhi Government\nDigital X-Ray\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nComputerised Lab\nAll TPA & Insurance\nHesr\nNAM\nCuwan\nVo 23 1\nMERAAwtan\nChahar\nE#cerMzn\nDMdNC Tu6131",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            47.0,
+            203.0,
+            165.0
+          ],
+          "text": "C",
+          "confidence": 0.3803
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            285.0,
+            43.0,
+            1395.0,
+            153.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.7738
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            562.0,
+            154.0,
+            1076.0,
+            202.0
+          ],
+          "text": "Jhajjar Road Bahadurgarh",
+          "confidence": 0.7761
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            256.0,
+            290.0,
+            284.0
+          ],
+          "text": "76 Skit '\"7 #Zeal",
+          "confidence": 0.1671
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            286.0,
+            296.0,
+            316.0
+          ],
+          "text": "76e Spirit 7 Qane",
+          "confidence": 0.435
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            452.0,
+            302.0,
+            484.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            450.0,
+            748.0,
+            480.0
+          ],
+          "text": "Srl No",
+          "confidence": 0.921
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            798.0,
+            450.0,
+            866.0,
+            480.0
+          ],
+          "text": "1003",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            450.0,
+            1096.0,
+            478.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            532.0,
+            590.0,
+            564.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            626.0,
+            186.0,
+            652.0
+          ],
+          "text": "Test",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            653.0,
+            740.0,
+            1006.0,
+            792.0
+          ],
+          "text": "HAEMATOLOGY",
+          "confidence": 0.9772
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            856.0,
+            268.0,
+            888.0
+          ],
+          "text": "HB A1C",
+          "confidence": 0.9412
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            850.0,
+            800.0,
+            882.0
+          ],
+          "text": "5.20",
+          "confidence": 0.9295
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            848.0,
+            966.0,
+            880.0
+          ],
+          "text": "%",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            901.0,
+            447.0,
+            939.0
+          ],
+          "text": "EXPECTED VALUES",
+          "confidence": 0.6522
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            963.0,
+            696.0,
+            1003.0
+          ],
+          "text": "Metabolicaly healthy patients",
+          "confidence": 0.984
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            964.0,
+            940.0,
+            992.0
+          ],
+          "text": "4.8 - 6.0",
+          "confidence": 0.5064
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            960.0,
+            1070.0,
+            992.0
+          ],
+          "text": "% HbAIC",
+          "confidence": 0.9711
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            998.0,
+            706.0,
+            1028.0
+          ],
+          "text": "Good Control",
+          "confidence": 0.8185
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            996.0,
+            940.0,
+            1024.0
+          ],
+          "text": "6.0 - 6.8",
+          "confidence": 0.4218
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            992.0,
+            1070.0,
+            1024.0
+          ],
+          "text": "% HbAIC",
+          "confidence": 0.6373
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            536.0,
+            1032.0,
+            590.0,
+            1060.0
+          ],
+          "text": "Fair",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            1030.0,
+            710.0,
+            1060.0
+          ],
+          "text": "Control",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            832.0,
+            1026.0,
+            924.0,
+            1054.0
+          ],
+          "text": "6.8-8.2",
+          "confidence": 0.7426
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1024.0,
+            1070.0,
+            1054.0
+          ],
+          "text": "% HbAIC",
+          "confidence": 0.8641
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            1060.0,
+            601.0,
+            1093.0
+          ],
+          "text": "Poor",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            1060.0,
+            714.0,
+            1090.0
+          ],
+          "text": "Control",
+          "confidence": 0.8174
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1058.0,
+            886.0,
+            1084.0
+          ],
+          "text": ">8.2",
+          "confidence": 0.721
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            1054.0,
+            1062.0,
+            1086.0
+          ],
+          "text": "% HbAIC",
+          "confidence": 0.7522
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            1095.0,
+            342.0,
+            1128.0
+          ],
+          "text": "REMARKS:",
+          "confidence": 0.4873
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1108.0,
+            1453.0,
+            1162.0
+          ],
+          "text": "In vitro quantitative determination of HbAIC in whole blood is utilized in long term monitoring of glycemia",
+          "confidence": 0.7166
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            1136.0,
+            1454.0,
+            1197.0
+          ],
+          "text": "Ihe HbAc level correlates with the mean glucose concentration prevailing in the course ofthe Patients",
+          "confidence": 0.4587
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1196.0,
+            260.0,
+            1222.0
+          ],
+          "text": "recent",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            259.0,
+            1190.0,
+            451.0,
+            1230.0
+          ],
+          "text": "history (approx",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            1173.0,
+            1440.0,
+            1224.0
+          ],
+          "text": "6-8 weeks) and therefore provides much more reliable information for glycemia",
+          "confidence": 0.7133
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            1212.0,
+            1040.0,
+            1262.0
+          ],
+          "text": "monitoring than do determinations of blood glucose or urinary glucose",
+          "confidence": 0.9058
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1234.0,
+            1484.0,
+            1290.0
+          ],
+          "text": "It $ recommended that the determination of HbAIC be performed at intervals of 4-6 weeksduring Diabetes",
+          "confidence": 0.4836
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1289.0,
+            378.0,
+            1322.0
+          ],
+          "text": "Mellitus therapy",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            1330.0,
+            1334.0,
+            1385.0
+          ],
+          "text": "Results of HbAIC should be assessed in conjunction with the patients medical history, clinical",
+          "confidence": 0.7587
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            1384.0,
+            348.0,
+            1417.0
+          ],
+          "text": "examinations",
+          "confidence": 0.811
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            1411.0,
+            410.0,
+            1452.0
+          ],
+          "text": "and other findings",
+          "confidence": 0.8329
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            1641.0,
+            733.0,
+            1653.0
+          ],
+          "text": "#irr",
+          "confidence": 0.0587
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1637.0,
+            981.0,
+            1649.0
+          ],
+          "text": "TIr7",
+          "confidence": 0.0449
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1636.0,
+            934.0,
+            1668.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            521.0,
+            1759.0,
+            569.0,
+            1803.0
+          ],
+          "text": "Dr;",
+          "confidence": 0.6168
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1109.0,
+            1771.0,
+            1167.0,
+            1815.0
+          ],
+          "text": "Dr:",
+          "confidence": 0.7267
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1802.0,
+            790.0,
+            1826.0
+          ],
+          "text": "IF",
+          "confidence": 0.0248
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            1816.0,
+            735.0,
+            1869.0
+          ],
+          "text": "ML q\"itern,",
+          "confidence": 0.128
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            1904.0,
+            1387.0,
+            1940.0
+          ],
+          "text": "IGUNJAN NAIN",
+          "confidence": 0.8681
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1921.0,
+            330.0,
+            1954.0
+          ],
+          "text": "TECHNICIAN",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1130.0,
+            1970.0,
+            1313.0,
+            2007.0
+          ],
+          "text": "DMCIRI10211",
+          "confidence": 0.6028
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1356.0,
+            2012.0,
+            1609.0,
+            2049.0
+          ],
+          "text": "3DIAD Ultrasound",
+          "confidence": 0.7672
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            2048.0,
+            295.0,
+            2088.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.9145
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1359.0,
+            2053.0,
+            1559.0,
+            2090.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            2092.0,
+            423.0,
+            2132.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.7832
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            468.0,
+            2069.0,
+            1288.0,
+            2124.0
+          ],
+          "text": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.68
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            2098.0,
+            1480.0,
+            2126.0
+          ],
+          "text": "CT-Scan",
+          "confidence": 0.9613
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            2133.0,
+            380.0,
+            2164.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.9538
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1358.0,
+            2131.0,
+            1546.0,
+            2174.0
+          ],
+          "text": "Digital X-Ray",
+          "confidence": 0.987
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            2171.0,
+            343.0,
+            2207.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.9353
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            2152.0,
+            1182.0,
+            2206.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.9913
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            2173.0,
+            1625.0,
+            2210.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.6839
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            2209.0,
+            407.0,
+            2245.0
+          ],
+          "text": "All TPA & Insurance",
+          "confidence": 0.523
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            249.0283521964463,
+            1698.0526325959042,
+            383.9716478035537,
+            1784.9473674040958
+          ],
+          "text": "Hesr",
+          "confidence": 0.0738
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1306.3183180150093,
+            1732.390720557629,
+            1404.6816819849907,
+            1789.609279442371
+          ],
+          "text": "NAM",
+          "confidence": 0.5041
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1161.5717853441067,
+            1748.1315470689092,
+            1315.4282146558933,
+            1807.8684529310908
+          ],
+          "text": "Cuwan",
+          "confidence": 0.124
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            569.0970966215453,
+            1764.1050979013119,
+            688.9029033784547,
+            1821.8949020986881
+          ],
+          "text": "Vo 23 1",
+          "confidence": 0.1638
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1110.9639632360222,
+            1782.636484208525,
+            1302.0360367639778,
+            1859.363515791475
+          ],
+          "text": "MERAAwtan",
+          "confidence": 0.1252
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            782.0954771954923,
+            1790.1050979013119,
+            907.9045228045077,
+            1847.8949020986881
+          ],
+          "text": "Chahar",
+          "confidence": 0.5183
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1118.4392624013421,
+            1828.8544307784298,
+            1314.5607375986579,
+            1886.1455692215702
+          ],
+          "text": "E#cerMzn",
+          "confidence": 0.0447
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            627.0009172326069,
+            1854.0427285222872,
+            897.9990827673931,
+            1939.9572714777128
+          ],
+          "text": "DMdNC Tu6131",
+          "confidence": 0.2093
+        }
+      ]
+    }
+  ],
+  "full_text": "C\nSWASTIK HOSPITAL\nJhajjar Road Bahadurgarh\n76 Skit '\"7 #Zeal\n76e Spirit 7 Qane\nPatient Id\nSrl No\n1003\nDate\nSWASTIK HOSPITAL\nTest\nHAEMATOLOGY\nHB A1C\n5.20\n%\nEXPECTED VALUES\nMetabolicaly healthy patients\n4.8 - 6.0\n% HbAIC\nGood Control\n6.0 - 6.8\n% HbAIC\nFair\nControl\n6.8-8.2\n% HbAIC\nPoor\nControl\n>8.2\n% HbAIC\nREMARKS:\nIn vitro quantitative determination of HbAIC in whole blood is utilized in long term monitoring of glycemia\nIhe HbAc level correlates with the mean glucose concentration prevailing in the course ofthe Patients\nrecent\nhistory (approx\n6-8 weeks) and therefore provides much more reliable information for glycemia\nmonitoring than do determinations of blood glucose or urinary glucose\nIt $ recommended that the determination of HbAIC be performed at intervals of 4-6 weeksduring Diabetes\nMellitus therapy\nResults of HbAIC should be assessed in conjunction with the patients medical history, clinical\nexaminations\nand other findings\n#irr\nTIr7\nEnd Of Report\nDr;\nDr:\nIF\nML q\"itern,\nIGUNJAN NAIN\nTECHNICIAN\nDMCIRI10211\n3DIAD Ultrasound\nOn Panel\nColor Doppler\nHaryana Government\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nCT-Scan\nDelhi Government\nDigital X-Ray\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nComputerised Lab\nAll TPA & Insurance\nHesr\nNAM\nCuwan\nVo 23 1\nMERAAwtan\nChahar\nE#cerMzn\nDMdNC Tu6131",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "It $ recommended that the determination of HbAIC be performed at intervals of",
+          "biomarker_normalized": "It $ recommended that the determination of HbAIC be performed at intervals of",
+          "value": "4",
+          "unit": "",
+          "reference_range": "4-6",
+          "source_line": "It $ recommended that the determination of HbAIC be performed at intervals of 4-6 weeksduring Diabetes",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "DMCIRI1",
+          "biomarker_normalized": "DMCIRI1",
+          "value": "0211",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMCIRI10211",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "All Lab Test; ICU & Ambulance Facility",
+          "biomarker_normalized": "All Lab Test; ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Vo",
+          "biomarker_normalized": "Vo",
+          "value": "23",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Vo 23 1",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "DMdNC Tu6",
+          "biomarker_normalized": "DMdNC Tu6",
+          "value": "131",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMdNC Tu6131",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 72,
+    "ocr_avg_confidence": 0.6995,
+    "parsed_row_count": 5
+  }
+}

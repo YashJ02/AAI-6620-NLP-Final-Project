@@ -1,0 +1,1122 @@
+{
+  "document_id": "GUR-0425-PA-0053930_Q-REKHA10500_250427_1509@F.pdf_page_28",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053930_Q-REKHA10500_250427_1509@F.pdf_page_28.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Property ID No: 26, Ward No. 28, Mahavir Park;\nOpp: Metro Pillar No. 881, Rohtak Road,\nP SANJAY\n8\nBahadurgarh; Distt. Jhajjar; Haryana\n124507\nMULTI SPECIALITY\nHOSPITAL\nCIN No.\nUZ41OODLZO1OPTC203581\nNABH\nISO 9001 : 2015 CERTIFIED\nAccrediteo\nWWW:\ndrsanjayhospital com\nName\nMrs. Rekha Devi\nRef By\nDr. Ramesh Kumar\nOPD IPD\nIPD\nDate:\nLab No\n04\nImmuno-Serology\nInvestigation\nResult\nTYPHIDOT IgM\nPositive\nTYPHIDOT IgG\nNegative\nDengue NS-1 Antigen\nNON REACTIVE\nDengue IgM\nNON REACTIVE\nDengue IgG\nNON REACTIVE\nWIDAL AGGLUTINATION TEST\n1:20\n140\n1.80\n1:160\n1:320\n1.640\nS. TYPHI \"0\"\nS. TYPHI *H\"\nS. PARATYPHI\n~AH'\nS. PARATYPHI\n~BH\"\nINTERPRETATION\nPositive\nAgglutinin titre greater than 1:80 is considered significant and\ntitre will confirm the\ndiagnosis In typhoid fever, widal test is usually positive after 7\nof fever_\nImmuno-Serology\nInvestigation\nResult\nMalaria\nTest\nNegative\nLab techrcian\nDr: NAVIN KUMAR SINHA\nBc ;\nDr.\n93542\n750\nNo.\n(MD) PATHOLOGY\n1\nQUAL\nSAfetY\nrising\ndays\nAntigen\nSUTISELC\nSinha]\nllmat\n(Path)\nNavee=\nMD\nMBE.S ;\n35267)\nDMC _",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            70.0,
+            1582.0,
+            112.0
+          ],
+          "text": "Property ID No: 26, Ward No. 28, Mahavir Park;",
+          "confidence": 0.6602
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            115.0,
+            1501.0,
+            153.0
+          ],
+          "text": "Opp: Metro Pillar No. 881, Rohtak Road,",
+          "confidence": 0.465
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            113.0,
+            467.0,
+            221.0
+          ],
+          "text": "P SANJAY",
+          "confidence": 0.226
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            915.0,
+            157.0,
+            933.0,
+            183.0
+          ],
+          "text": "8",
+          "confidence": 0.3517
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1067.0,
+            156.0,
+            1465.0,
+            194.0
+          ],
+          "text": "Bahadurgarh; Distt. Jhajjar; Haryana",
+          "confidence": 0.9061
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1476.0,
+            156.0,
+            1566.0,
+            188.0
+          ],
+          "text": "124507",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            227.0,
+            213.0,
+            243.0
+          ],
+          "text": "MULTI SPECIALITY",
+          "confidence": 0.6731
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            206.0,
+            456.0,
+            256.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            266.0,
+            162.0,
+            292.0
+          ],
+          "text": "CIN No.",
+          "confidence": 0.771
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            266.0,
+            436.0,
+            292.0
+          ],
+          "text": "UZ41OODLZO1OPTC203581",
+          "confidence": 0.441
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            254.0,
+            880.0,
+            284.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9579
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            298.0,
+            354.0,
+            324.0
+          ],
+          "text": "ISO 9001 : 2015 CERTIFIED",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            787.0,
+            291.0,
+            875.0,
+            311.0
+          ],
+          "text": "Accrediteo",
+          "confidence": 0.4477
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            286.0,
+            1198.0,
+            310.0
+          ],
+          "text": "WWW:",
+          "confidence": 0.5083
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            280.0,
+            1429.0,
+            316.0
+          ],
+          "text": "drsanjayhospital com",
+          "confidence": 0.6366
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            332.0,
+            339.0,
+            380.0
+          ],
+          "text": "Name",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            365.0,
+            334.0,
+            667.0,
+            379.0
+          ],
+          "text": "Mrs. Rekha Devi",
+          "confidence": 0.6443
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            384.0,
+            354.0,
+            436.0
+          ],
+          "text": "Ref By",
+          "confidence": 0.9526
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            392.0,
+            386.0,
+            734.0,
+            435.0
+          ],
+          "text": "Dr. Ramesh Kumar",
+          "confidence": 0.9551
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1125.0,
+            390.0,
+            1300.0,
+            438.0
+          ],
+          "text": "OPD IPD",
+          "confidence": 0.9858
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1327.0,
+            395.0,
+            1405.0,
+            437.0
+          ],
+          "text": "IPD",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            229.0,
+            441.0,
+            331.0,
+            481.0
+          ],
+          "text": "Date:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1125.0,
+            447.0,
+            1263.0,
+            491.0
+          ],
+          "text": "Lab No",
+          "confidence": 0.8725
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1347.0,
+            449.0,
+            1403.0,
+            491.0
+          ],
+          "text": "04",
+          "confidence": 0.9936
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            421.0,
+            533.0,
+            722.0,
+            586.0
+          ],
+          "text": "Immuno-Serology",
+          "confidence": 0.816
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            576.0,
+            436.0,
+            626.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            825.0,
+            587.0,
+            935.0,
+            627.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            620.0,
+            466.0,
+            672.0
+          ],
+          "text": "TYPHIDOT IgM",
+          "confidence": 0.9048
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            823.0,
+            627.0,
+            945.0,
+            669.0
+          ],
+          "text": "Positive",
+          "confidence": 0.8443
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            664.0,
+            462.0,
+            716.0
+          ],
+          "text": "TYPHIDOT IgG",
+          "confidence": 0.9463
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            821.0,
+            669.0,
+            960.0,
+            724.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            712.0,
+            567.0,
+            768.0
+          ],
+          "text": "Dengue NS-1 Antigen",
+          "confidence": 0.6961
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            823.0,
+            719.0,
+            1093.0,
+            761.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.7006
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            760.0,
+            418.0,
+            810.0
+          ],
+          "text": "Dengue IgM",
+          "confidence": 0.6678
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            823.0,
+            765.0,
+            1091.0,
+            809.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.8467
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            806.0,
+            412.0,
+            857.0
+          ],
+          "text": "Dengue IgG",
+          "confidence": 0.9049
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            823.0,
+            812.0,
+            1091.0,
+            855.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.9526
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            911.0,
+            1250.0,
+            964.0
+          ],
+          "text": "WIDAL AGGLUTINATION TEST",
+          "confidence": 0.8458
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            505.0,
+            1023.0,
+            593.0,
+            1065.0
+          ],
+          "text": "1:20",
+          "confidence": 0.5589
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            1025.0,
+            779.0,
+            1067.0
+          ],
+          "text": "140",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            845.0,
+            1027.0,
+            931.0,
+            1069.0
+          ],
+          "text": "1.80",
+          "confidence": 0.4816
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            995.0,
+            1029.0,
+            1099.0,
+            1073.0
+          ],
+          "text": "1:160",
+          "confidence": 0.5875
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            1030.0,
+            1266.0,
+            1072.0
+          ],
+          "text": "1:320",
+          "confidence": 0.2488
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1309.0,
+            1031.0,
+            1419.0,
+            1075.0
+          ],
+          "text": "1.640",
+          "confidence": 0.5824
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            219.0,
+            1070.0,
+            421.0,
+            1106.0
+          ],
+          "text": "S. TYPHI \"0\"",
+          "confidence": 0.5193
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            219.0,
+            1149.0,
+            419.0,
+            1185.0
+          ],
+          "text": "S. TYPHI *H\"",
+          "confidence": 0.4632
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            217.0,
+            1235.0,
+            447.0,
+            1274.0
+          ],
+          "text": "S. PARATYPHI",
+          "confidence": 0.7845
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1276.0,
+            302.0,
+            1308.0
+          ],
+          "text": "~AH'",
+          "confidence": 0.3732
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            217.0,
+            1314.0,
+            447.0,
+            1353.0
+          ],
+          "text": "S. PARATYPHI",
+          "confidence": 0.6898
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1352.0,
+            299.0,
+            1388.0
+          ],
+          "text": "~BH\"",
+          "confidence": 0.8093
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1397.0,
+            531.0,
+            1437.0
+          ],
+          "text": "INTERPRETATION",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            567.0,
+            1401.0,
+            707.0,
+            1439.0
+          ],
+          "text": "Positive",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1437.0,
+            1054.0,
+            1488.0
+          ],
+          "text": "Agglutinin titre greater than 1:80 is considered significant and",
+          "confidence": 0.904
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1135.0,
+            1449.0,
+            1425.0,
+            1489.0
+          ],
+          "text": "titre will confirm the",
+          "confidence": 0.879
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1476.0,
+            1193.0,
+            1538.0
+          ],
+          "text": "diagnosis In typhoid fever, widal test is usually positive after 7",
+          "confidence": 0.8794
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1275.0,
+            1494.0,
+            1414.0,
+            1532.0
+          ],
+          "text": "of fever_",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            1557.0,
+            710.0,
+            1618.0
+          ],
+          "text": "Immuno-Serology",
+          "confidence": 0.8813
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1650.0,
+            422.0,
+            1705.0
+          ],
+          "text": "Investigation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            810.0,
+            1662.0,
+            921.0,
+            1702.0
+          ],
+          "text": "Result",
+          "confidence": 0.9316
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1745.0,
+            339.0,
+            1785.0
+          ],
+          "text": "Malaria",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            1745.0,
+            554.0,
+            1790.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            805.0,
+            1747.0,
+            960.0,
+            1802.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            1895.0,
+            413.0,
+            1934.0
+          ],
+          "text": "Lab techrcian",
+          "confidence": 0.6325
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            993.0,
+            1907.0,
+            1401.0,
+            1945.0
+          ],
+          "text": "Dr: NAVIN KUMAR SINHA",
+          "confidence": 0.9396
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            1932.0,
+            258.0,
+            1956.0
+          ],
+          "text": "Bc ;",
+          "confidence": 0.2953
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            593.0,
+            1919.0,
+            647.0,
+            1961.0
+          ],
+          "text": "Dr.",
+          "confidence": 0.6355
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            1956.0,
+            292.0,
+            1982.0
+          ],
+          "text": "93542",
+          "confidence": 0.2838
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            1960.0,
+            342.0,
+            1984.0
+          ],
+          "text": "750",
+          "confidence": 0.1992
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            1955.0,
+            863.0,
+            1995.0
+          ],
+          "text": "No.",
+          "confidence": 0.7813
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1940.0,
+            1406.0,
+            1988.0
+          ],
+          "text": "(MD) PATHOLOGY",
+          "confidence": 0.9878
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1442.0,
+            1906.0,
+            1616.0,
+            2190.0
+          ],
+          "text": "1",
+          "confidence": 0.7861
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            831.0314575860123,
+            91.14304661822948,
+            873.9685424139877,
+            119.85695338177052
+          ],
+          "text": "QUAL",
+          "confidence": 0.4258
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            747.9400021199937,
+            88.59985717814789,
+            819.0599978800063,
+            141.4001428218521
+          ],
+          "text": "SAfetY",
+          "confidence": 0.1108
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1045.1272305522707,
+            1442.0994685768342,
+            1141.8727694477293,
+            1493.9005314231658
+          ],
+          "text": "rising",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1189.262538605064,
+            1489.129959864804,
+            1278.737461394936,
+            1541.870040135196
+          ],
+          "text": "days",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            335.0985085251442,
+            1735.0806504495004,
+            478.9014914748558,
+            1799.9193495504996
+          ],
+          "text": "Antigen",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            192.6717988226486,
+            1822.8479879257745,
+            333.3282011773514,
+            1900.1520120742255
+          ],
+          "text": "SUTISELC",
+          "confidence": 0.0361
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            837.6076433315133,
+            1833.619979052151,
+            946.3923566684867,
+            1900.380020947849
+          ],
+          "text": "Sinha]",
+          "confidence": 0.6826
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            764.439262401342,
+            1863.7061506225466,
+            854.560737598658,
+            1917.2938493774534
+          ],
+          "text": "llmat",
+          "confidence": 0.1474
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            853.7639320225002,
+            1879.1326882781834,
+            954.2360679774998,
+            1940.8673117218166
+          ],
+          "text": "(Path)",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            637.1430466182295,
+            1892.4628075927887,
+            741.8569533817705,
+            1950.5371924072113
+          ],
+          "text": "Navee=",
+          "confidence": 0.436
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            799.3447882227953,
+            1901.3497044711878,
+            867.6552117772047,
+            1952.6502955288122
+          ],
+          "text": "MD",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            670.0956559527848,
+            1915.5717853441067,
+            810.9043440472152,
+            1985.4282146558933
+          ],
+          "text": "MBE.S ;",
+          "confidence": 0.3052
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            850.2264990188738,
+            1918.1515223919048,
+            962.7735009811262,
+            1984.8484776080952
+          ],
+          "text": "35267)",
+          "confidence": 0.4573
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            731.8503320980383,
+            1953.74116628356,
+            817.1496679019617,
+            2015.25883371644
+          ],
+          "text": "DMC _",
+          "confidence": 0.7302
+        }
+      ]
+    }
+  ],
+  "full_text": "Property ID No: 26, Ward No. 28, Mahavir Park;\nOpp: Metro Pillar No. 881, Rohtak Road,\nP SANJAY\n8\nBahadurgarh; Distt. Jhajjar; Haryana\n124507\nMULTI SPECIALITY\nHOSPITAL\nCIN No.\nUZ41OODLZO1OPTC203581\nNABH\nISO 9001 : 2015 CERTIFIED\nAccrediteo\nWWW:\ndrsanjayhospital com\nName\nMrs. Rekha Devi\nRef By\nDr. Ramesh Kumar\nOPD IPD\nIPD\nDate:\nLab No\n04\nImmuno-Serology\nInvestigation\nResult\nTYPHIDOT IgM\nPositive\nTYPHIDOT IgG\nNegative\nDengue NS-1 Antigen\nNON REACTIVE\nDengue IgM\nNON REACTIVE\nDengue IgG\nNON REACTIVE\nWIDAL AGGLUTINATION TEST\n1:20\n140\n1.80\n1:160\n1:320\n1.640\nS. TYPHI \"0\"\nS. TYPHI *H\"\nS. PARATYPHI\n~AH'\nS. PARATYPHI\n~BH\"\nINTERPRETATION\nPositive\nAgglutinin titre greater than 1:80 is considered significant and\ntitre will confirm the\ndiagnosis In typhoid fever, widal test is usually positive after 7\nof fever_\nImmuno-Serology\nInvestigation\nResult\nMalaria\nTest\nNegative\nLab techrcian\nDr: NAVIN KUMAR SINHA\nBc ;\nDr.\n93542\n750\nNo.\n(MD) PATHOLOGY\n1\nQUAL\nSAfetY\nrising\ndays\nAntigen\nSUTISELC\nSinha]\nllmat\n(Path)\nNavee=\nMD\nMBE.S ;\n35267)\nDMC _",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Property ID No",
+          "biomarker_normalized": "Property ID No",
+          "value": "26",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Property ID No: 26, Ward No. 28, Mahavir Park;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Opp: Metro Pillar No.",
+          "biomarker_normalized": "Opp: Metro Pillar No.",
+          "value": "881",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Opp: Metro Pillar No. 881, Rohtak Road,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "UZ4",
+          "biomarker_normalized": "UZ4",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UZ41OODLZO1OPTC203581",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ISO",
+          "biomarker_normalized": "ISO",
+          "value": "9001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ISO 9001 : 2015 CERTIFIED",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Dengue NS",
+          "biomarker_normalized": "Dengue NS",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Dengue NS-1 Antigen",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "S. TYPHI \"",
+          "biomarker_normalized": "S. TYPHI \"",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S. TYPHI \"0\"",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Agglutinin titre greater than",
+          "biomarker_normalized": "Agglutinin titre greater than",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Agglutinin titre greater than 1:80 is considered significant and",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "diagnosis In typhoid fever, widal test is usually positive after",
+          "biomarker_normalized": "diagnosis In typhoid fever, widal test is usually positive after",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "diagnosis In typhoid fever, widal test is usually positive after 7",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 85,
+    "ocr_avg_confidence": 0.7412,
+    "parsed_row_count": 8
+  }
+}

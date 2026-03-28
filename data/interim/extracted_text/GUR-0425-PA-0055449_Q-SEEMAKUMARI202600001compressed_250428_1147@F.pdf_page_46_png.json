@@ -1,0 +1,966 @@
+{
+  "document_id": "GUR-0425-PA-0055449_Q-SEEMAKUMARI202600001compressed_250428_1147@F.pdf_page_46",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055449_Q-SEEMAKUMARI202600001compressed_250428_1147@F.pdf_page_46.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "HTalthcaR [\n[jala Cygnus)\nSTRvices\nCygnus SuperSpeciality Hospital\nNABH\nReql blBal\n3702115\nLoc Req No\n137556\nBill Date\n22004/2025\nUHD NO / PP No\n55308 / 20260\nSample col Date\n12.20 PM\nName\nMrs. SEEMA KUMARI\nSample Rec Date\nAge/Gender\n21 Years9 Months8 Days\nFemale\nReporting Date\n1.47 PM\nDoctor Name\nYADAV\nTYPE\nIP\nHAEMATOLOGY\nBed No\n132 BED3-GWM\nECONOMY\nINVESTIGATION\nRESULTs\nUNITS\nREFERENCE RANGE\nBLOOD GROUP\nBLOOD GRQUP\nBLOOD GROUP\nAB\nRH FACTOR\nPOSITIVE\n8**\nEnd Of The Report **#\nDr. Anyyama\nadav\nMBBS,\nDNB (OEl3 & GYNAE)\nDMC-83884\nCygnus Superspeciality Hospilal, Revari\nLab Technician;\nDr. NEELAKSH KAUL\nUser: ASHWANI_R\nPathologist\nrint DatdaeoiFfderess 22/04/2028v 6.50IPM: Civil Hospital; Near BSNL Ofice; Rewari, Haryana-123401 / Tel No.\n01274-258556\nRegd ICorp. Office : Cygnus Medicare Pvt: Ltd,, A-9A, Ground Floor; Green Park Main, New Delhi\n110016\nTel: No.\nWebsite\nujalacygnus com\nUjala Cygnus Hospitals\nHaryana\nSonipat i Kaithal\nKurukshetra\nPanipat | Rewari\nDelhi\nNangloi | Rama Vihar | IIT Main Gaet\nUttar Pradesh\nVaranasi\nUttarakhand\nKashipur\nCIN\nU8519OHRZOT1PTCO64120\nobhka l\nNule",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            192.0,
+            384.0,
+            216.0
+          ],
+          "text": "HTalthcaR [",
+          "confidence": 0.0398
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            126.0,
+            523.0,
+            205.0
+          ],
+          "text": "[jala Cygnus)",
+          "confidence": 0.3057
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            192.0,
+            524.0,
+            216.0
+          ],
+          "text": "STRvices",
+          "confidence": 0.0967
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            541.0,
+            148.0,
+            1346.0,
+            229.0
+          ],
+          "text": "Cygnus SuperSpeciality Hospital",
+          "confidence": 0.7987
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1432.0,
+            190.0,
+            1510.0,
+            218.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            22.0,
+            250.0,
+            160.0,
+            282.0
+          ],
+          "text": "Reql blBal",
+          "confidence": 0.0339
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            283.0,
+            241.0,
+            401.0,
+            277.0
+          ],
+          "text": "3702115",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            18.0,
+            273.0,
+            165.0,
+            309.0
+          ],
+          "text": "Loc Req No",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            282.0,
+            274.0,
+            382.0,
+            304.0
+          ],
+          "text": "137556",
+          "confidence": 0.8949
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            272.0,
+            1042.0,
+            298.0
+          ],
+          "text": "Bill Date",
+          "confidence": 0.4655
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1158.0,
+            272.0,
+            1290.0,
+            298.0
+          ],
+          "text": "22004/2025",
+          "confidence": 0.4441
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            22.0,
+            316.0,
+            234.0,
+            346.0
+          ],
+          "text": "UHD NO / PP No",
+          "confidence": 0.4146
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            314.0,
+            464.0,
+            344.0
+          ],
+          "text": "55308 / 20260",
+          "confidence": 0.4925
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            317.0,
+            1099.0,
+            355.0
+          ],
+          "text": "Sample col Date",
+          "confidence": 0.7851
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1358.0,
+            318.0,
+            1474.0,
+            348.0
+          ],
+          "text": "12.20 PM",
+          "confidence": 0.9608
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            20.0,
+            356.0,
+            96.0,
+            384.0
+          ],
+          "text": "Name",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            280.0,
+            359.0,
+            562.0,
+            390.0
+          ],
+          "text": "Mrs. SEEMA KUMARI",
+          "confidence": 0.734
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            359.0,
+            1105.0,
+            395.0
+          ],
+          "text": "Sample Rec Date",
+          "confidence": 0.8594
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            21.0,
+            395.0,
+            167.0,
+            431.0
+          ],
+          "text": "Age/Gender",
+          "confidence": 0.962
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            283.0,
+            397.0,
+            607.0,
+            436.0
+          ],
+          "text": "21 Years9 Months8 Days",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            398.0,
+            720.0,
+            430.0
+          ],
+          "text": "Female",
+          "confidence": 0.8086
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            409.0,
+            1107.0,
+            445.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.7032
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1328.0,
+            408.0,
+            1428.0,
+            438.0
+          ],
+          "text": "1.47 PM",
+          "confidence": 0.8536
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            25.0,
+            442.0,
+            184.0,
+            475.0
+          ],
+          "text": "Doctor Name",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            478.0,
+            438.0,
+            586.0,
+            468.0
+          ],
+          "text": "YADAV",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            454.0,
+            1008.0,
+            482.0
+          ],
+          "text": "TYPE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1158.0,
+            448.0,
+            1190.0,
+            478.0
+          ],
+          "text": "IP",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            490.0,
+            914.0,
+            520.0
+          ],
+          "text": "HAEMATOLOGY",
+          "confidence": 0.9739
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            928.0,
+            494.0,
+            1024.0,
+            524.0
+          ],
+          "text": "Bed No",
+          "confidence": 0.6454
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            496.0,
+            1376.0,
+            526.0
+          ],
+          "text": "132 BED3-GWM",
+          "confidence": 0.7738
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            496.0,
+            1540.0,
+            528.0
+          ],
+          "text": "ECONOMY",
+          "confidence": 0.9835
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            535.0,
+            295.0,
+            565.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 0.6842
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            538.0,
+            726.0,
+            568.0
+          ],
+          "text": "RESULTs",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1000.0,
+            537.0,
+            1092.0,
+            567.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            538.0,
+            1396.0,
+            570.0
+          ],
+          "text": "REFERENCE RANGE",
+          "confidence": 0.7749
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            579.0,
+            294.0,
+            610.0
+          ],
+          "text": "BLOOD GROUP",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            618.0,
+            294.0,
+            650.0
+          ],
+          "text": "BLOOD GRQUP",
+          "confidence": 0.3721
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            653.0,
+            284.0,
+            686.0
+          ],
+          "text": "BLOOD GROUP",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            656.0,
+            618.0,
+            686.0
+          ],
+          "text": "AB",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            690.0,
+            242.0,
+            720.0
+          ],
+          "text": "RH FACTOR",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            690.0,
+            710.0,
+            722.0
+          ],
+          "text": "POSITIVE",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            667.0,
+            797.0,
+            711.0,
+            815.0
+          ],
+          "text": "8**",
+          "confidence": 0.0528
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            795.0,
+            981.0,
+            833.0
+          ],
+          "text": "End Of The Report **#",
+          "confidence": 0.4654
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            844.0,
+            869.0,
+            887.0
+          ],
+          "text": "Dr. Anyyama",
+          "confidence": 0.2018
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            840.0,
+            976.0,
+            872.0
+          ],
+          "text": "adav",
+          "confidence": 0.1389
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            888.0,
+            724.0,
+            919.0
+          ],
+          "text": "MBBS,",
+          "confidence": 0.7332
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            779.0,
+            873.0,
+            991.0,
+            915.0
+          ],
+          "text": "DNB (OEl3 & GYNAE)",
+          "confidence": 0.374
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            906.0,
+            880.0,
+            938.0
+          ],
+          "text": "DMC-83884",
+          "confidence": 0.6723
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            634.0,
+            921.0,
+            1010.0,
+            976.0
+          ],
+          "text": "Cygnus Superspeciality Hospilal, Revari",
+          "confidence": 0.5716
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            26.0,
+            1908.0,
+            216.0,
+            1940.0
+          ],
+          "text": "Lab Technician;",
+          "confidence": 0.9906
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1914.0,
+            1476.0,
+            1946.0
+          ],
+          "text": "Dr. NEELAKSH KAUL",
+          "confidence": 0.9216
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            24.0,
+            1948.0,
+            266.0,
+            1980.0
+          ],
+          "text": "User: ASHWANI_R",
+          "confidence": 0.9869
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1265.0,
+            1939.0,
+            1413.0,
+            1975.0
+          ],
+          "text": "Pathologist",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            1985.0,
+            1043.0,
+            2021.0
+          ],
+          "text": "rint DatdaeoiFfderess 22/04/2028v 6.50IPM: Civil Hospital; Near BSNL Ofice; Rewari, Haryana-123401 / Tel No.",
+          "confidence": 0.1155
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            1986.0,
+            1172.0,
+            2012.0
+          ],
+          "text": "01274-258556",
+          "confidence": 0.6913
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            2020.0,
+            1032.0,
+            2053.0
+          ],
+          "text": "Regd ICorp. Office : Cygnus Medicare Pvt: Ltd,, A-9A, Ground Floor; Green Park Main, New Delhi",
+          "confidence": 0.5578
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1042.0,
+            2018.0,
+            1118.0,
+            2044.0
+          ],
+          "text": "110016",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            2056.0,
+            186.0,
+            2082.0
+          ],
+          "text": "Tel: No.",
+          "confidence": 0.5516
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            2054.0,
+            434.0,
+            2080.0
+          ],
+          "text": "Website",
+          "confidence": 0.8549
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            2056.0,
+            610.0,
+            2084.0
+          ],
+          "text": "ujalacygnus com",
+          "confidence": 0.5664
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            2087.0,
+            344.0,
+            2120.0
+          ],
+          "text": "Ujala Cygnus Hospitals",
+          "confidence": 0.7423
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            353.0,
+            2087.0,
+            444.0,
+            2117.0
+          ],
+          "text": "Haryana",
+          "confidence": 0.8903
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            455.0,
+            2085.0,
+            616.0,
+            2115.0
+          ],
+          "text": "Sonipat i Kaithal",
+          "confidence": 0.9788
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            2087.0,
+            823.0,
+            2111.0
+          ],
+          "text": "Kurukshetra",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            836.0,
+            2086.0,
+            996.0,
+            2114.0
+          ],
+          "text": "Panipat | Rewari",
+          "confidence": 0.949
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            2120.0,
+            164.0,
+            2148.0
+          ],
+          "text": "Delhi",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            2120.0,
+            526.0,
+            2150.0
+          ],
+          "text": "Nangloi | Rama Vihar | IIT Main Gaet",
+          "confidence": 0.6398
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            536.0,
+            2120.0,
+            680.0,
+            2146.0
+          ],
+          "text": "Uttar Pradesh",
+          "confidence": 0.9294
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            691.0,
+            2119.0,
+            781.0,
+            2145.0
+          ],
+          "text": "Varanasi",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            2118.0,
+            920.0,
+            2144.0
+          ],
+          "text": "Uttarakhand",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            2118.0,
+            1022.0,
+            2146.0
+          ],
+          "text": "Kashipur",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            2154.0,
+            152.0,
+            2182.0
+          ],
+          "text": "CIN",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            2152.0,
+            448.0,
+            2182.0
+          ],
+          "text": "U8519OHRZOT1PTCO64120",
+          "confidence": 0.3801
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1261.1588936020132,
+            1807.429968655431,
+            1438.8411063979868,
+            1885.570031344569
+          ],
+          "text": "obhka l",
+          "confidence": 0.0661
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1194.7639320225003,
+            1842.7274959012202,
+            1285.2360679774997,
+            1907.2725040987798
+          ],
+          "text": "Nule",
+          "confidence": 0.3396
+        }
+      ]
+    }
+  ],
+  "full_text": "HTalthcaR [\n[jala Cygnus)\nSTRvices\nCygnus SuperSpeciality Hospital\nNABH\nReql blBal\n3702115\nLoc Req No\n137556\nBill Date\n22004/2025\nUHD NO / PP No\n55308 / 20260\nSample col Date\n12.20 PM\nName\nMrs. SEEMA KUMARI\nSample Rec Date\nAge/Gender\n21 Years9 Months8 Days\nFemale\nReporting Date\n1.47 PM\nDoctor Name\nYADAV\nTYPE\nIP\nHAEMATOLOGY\nBed No\n132 BED3-GWM\nECONOMY\nINVESTIGATION\nRESULTs\nUNITS\nREFERENCE RANGE\nBLOOD GROUP\nBLOOD GRQUP\nBLOOD GROUP\nAB\nRH FACTOR\nPOSITIVE\n8**\nEnd Of The Report **#\nDr. Anyyama\nadav\nMBBS,\nDNB (OEl3 & GYNAE)\nDMC-83884\nCygnus Superspeciality Hospilal, Revari\nLab Technician;\nDr. NEELAKSH KAUL\nUser: ASHWANI_R\nPathologist\nrint DatdaeoiFfderess 22/04/2028v 6.50IPM: Civil Hospital; Near BSNL Ofice; Rewari, Haryana-123401 / Tel No.\n01274-258556\nRegd ICorp. Office : Cygnus Medicare Pvt: Ltd,, A-9A, Ground Floor; Green Park Main, New Delhi\n110016\nTel: No.\nWebsite\nujalacygnus com\nUjala Cygnus Hospitals\nHaryana\nSonipat i Kaithal\nKurukshetra\nPanipat | Rewari\nDelhi\nNangloi | Rama Vihar | IIT Main Gaet\nUttar Pradesh\nVaranasi\nUttarakhand\nKashipur\nCIN\nU8519OHRZOT1PTCO64120\nobhka l\nNule",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "DMC",
+          "biomarker_normalized": "DMC",
+          "value": "83884",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMC-83884",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "rint DatdaeoiFfderess",
+          "biomarker_normalized": "rint DatdaeoiFfderess",
+          "value": "22",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "rint DatdaeoiFfderess 22/04/2028v 6.50IPM: Civil Hospital; Near BSNL Ofice; Rewari, Haryana-123401 / Tel No.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Regd ICorp. Office : Cygnus Medicare Pvt: Ltd,, A",
+          "biomarker_normalized": "Regd ICorp. Office : Cygnus Medicare Pvt: Ltd,, A",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd ICorp. Office : Cygnus Medicare Pvt: Ltd,, A-9A, Ground Floor; Green Park Main, New Delhi",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "U8",
+          "biomarker_normalized": "U8",
+          "value": "519",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "U8519OHRZOT1PTCO64120",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 75,
+    "ocr_avg_confidence": 0.7359,
+    "parsed_row_count": 4
+  }
+}

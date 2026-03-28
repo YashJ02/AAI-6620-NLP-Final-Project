@@ -1,0 +1,1092 @@
+{
+  "document_id": "BLR-0425-PA-0041577_PA REQUEST_24-04-2025_0744-39_PM@G.pdf_page_15",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0041577_PA REQUEST_24-04-2025_0744-39_PM@G.pdf_page_15.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SRIVEN HOSPITAL\nMULTI SPECIALITY\n#\nAPSEB\nNagarjuna\nRoad; Hasthinapuram; Hyderabad\n500 079\nPatient-Name ` MR: KSURESH\nDate ot sample collection\n201022\nCOMPLETE URINE EXAMINATION REPORT\nDESCRIPTION\nRESULT\nREEERENCE INTERVAL\nColour\n:Dark Yellow\nStraw Colour\nPale Yellow/Dark\nYellow\nAppearence\nTurbid\nClear/Slightly Hazy MHazy/Turbid\nChemical Examination\nGlucose\nNEGATIVE\nNEGATIVE\nPOSITIVE\nBilirubin (Bile)\nNEGATIVE\nNEGATIVE\nPOSITIVE\nUrobilinogen\nNEGATIVE\nNEGATIVE / POSITIVE\nKetoneBodies\nNEGATIVE\nNEGATIVE / POSITIVE\nSpecific gravity\n1.029\n1.005\n1.030\nBlood\nNEGATIVE\nNEGATIVE\nPOSITIVE\nReaction (pH\n7.9\n5.0\n8.0\nProtein\nNEGATIVE\nNEGATIVE / POSITIVE\nNitrites\nNEGATIVE\nNEGATIVE\nPOSITIVE\nLeukocyte Esterase\nNEGATIVE\nNEGATIVE / POSITIVE\nMCROSCOPIC EXAMINATION\nPUS (WBC) cells\nPlenty\n0 - 5 / HPF\nRed blood Cells\n02-04\n0 - 2 / HPF\nU. Epithelial Cells\n15-20\n0 -5 / HPF\nDr: V: VIJAIA SREE MD\n'Lab fackarge\n5755\nPathologist\nNo. 43489\nhya\n6\n21\nPh :\n8106999108, 9652611108, Email\nsrivenhospital79@gmail.com\nEmonongy\nColony;\nSagar\n0L4<\n$\nEX\n77a9\"",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            134.0,
+            1526.0,
+            271.0
+          ],
+          "text": "SRIVEN HOSPITAL",
+          "confidence": 0.9944
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            588.0,
+            257.0,
+            1317.0,
+            342.0
+          ],
+          "text": "MULTI SPECIALITY",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            344.0,
+            330.0,
+            382.0
+          ],
+          "text": "#",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            507.0,
+            345.0,
+            605.0,
+            387.0
+          ],
+          "text": "APSEB",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            715.0,
+            347.0,
+            878.0,
+            400.0
+          ],
+          "text": "Nagarjuna",
+          "confidence": 0.9749
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            963.0,
+            351.0,
+            1451.0,
+            413.0
+          ],
+          "text": "Road; Hasthinapuram; Hyderabad",
+          "confidence": 0.6084
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1465.0,
+            363.0,
+            1591.0,
+            405.0
+          ],
+          "text": "500 079",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            386.0,
+            503.0,
+            427.0
+          ],
+          "text": "Patient-Name ` MR: KSURESH",
+          "confidence": 0.3679
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            849.0,
+            413.0,
+            1120.0,
+            446.0
+          ],
+          "text": "Date ot sample collection",
+          "confidence": 0.6648
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            568.0,
+            1224.0,
+            598.0
+          ],
+          "text": "201022",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            487.0,
+            639.0,
+            1154.0,
+            696.0
+          ],
+          "text": "COMPLETE URINE EXAMINATION REPORT",
+          "confidence": 0.5376
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            709.0,
+            377.0,
+            749.0
+          ],
+          "text": "DESCRIPTION",
+          "confidence": 0.8416
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            724.0,
+            716.0,
+            756.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9367
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            731.0,
+            1261.0,
+            775.0
+          ],
+          "text": "REEERENCE INTERVAL",
+          "confidence": 0.4089
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            785.0,
+            242.0,
+            816.0
+          ],
+          "text": "Colour",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            798.0,
+            751.0,
+            831.0
+          ],
+          "text": ":Dark Yellow",
+          "confidence": 0.9553
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            804.0,
+            1073.0,
+            840.0
+          ],
+          "text": "Straw Colour",
+          "confidence": 0.9936
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            813.0,
+            1280.0,
+            845.0
+          ],
+          "text": "Pale Yellow/Dark",
+          "confidence": 0.9674
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            818.0,
+            1360.0,
+            846.0
+          ],
+          "text": "Yellow",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            855.0,
+            283.0,
+            898.0
+          ],
+          "text": "Appearence",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            872.0,
+            698.0,
+            898.0
+          ],
+          "text": "Turbid",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            876.0,
+            1321.0,
+            920.0
+          ],
+          "text": "Clear/Slightly Hazy MHazy/Turbid",
+          "confidence": 0.4628
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            928.0,
+            427.0,
+            970.0
+          ],
+          "text": "Chemical Examination",
+          "confidence": 0.5801
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            1003.0,
+            244.0,
+            1032.0
+          ],
+          "text": "Glucose",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            567.0,
+            1012.0,
+            692.0,
+            1042.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            943.0,
+            1020.0,
+            1070.0,
+            1052.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9965
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            1026.0,
+            1194.0,
+            1052.0
+          ],
+          "text": "POSITIVE",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            1070.0,
+            317.0,
+            1102.0
+          ],
+          "text": "Bilirubin (Bile)",
+          "confidence": 0.9483
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            573.0,
+            1078.0,
+            700.0,
+            1108.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.8369
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            943.0,
+            1086.0,
+            1068.0,
+            1116.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            1092.0,
+            1192.0,
+            1118.0
+          ],
+          "text": "POSITIVE",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            1133.0,
+            298.0,
+            1175.0
+          ],
+          "text": "Urobilinogen",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            575.0,
+            1146.0,
+            702.0,
+            1176.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.8084
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            880.0,
+            1156.0,
+            1128.0,
+            1186.0
+          ],
+          "text": "NEGATIVE / POSITIVE",
+          "confidence": 0.6404
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            1205.0,
+            302.0,
+            1234.0
+          ],
+          "text": "KetoneBodies",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            571.0,
+            1212.0,
+            696.0,
+            1243.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            941.0,
+            1220.0,
+            1190.0,
+            1253.0
+          ],
+          "text": "NEGATIVE / POSITIVE",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            1272.0,
+            326.0,
+            1302.0
+          ],
+          "text": "Specific gravity",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            1282.0,
+            668.0,
+            1308.0
+          ],
+          "text": "1.029",
+          "confidence": 0.4874
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1288.0,
+            1004.0,
+            1314.0
+          ],
+          "text": "1.005",
+          "confidence": 0.85
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1290.0,
+            1098.0,
+            1316.0
+          ],
+          "text": "1.030",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            1340.0,
+            234.0,
+            1364.0
+          ],
+          "text": "Blood",
+          "confidence": 0.887
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            1346.0,
+            740.0,
+            1372.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            949.0,
+            1350.0,
+            1076.0,
+            1381.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            1356.0,
+            1200.0,
+            1382.0
+          ],
+          "text": "POSITIVE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            1403.0,
+            310.0,
+            1434.0
+          ],
+          "text": "Reaction (pH",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            1412.0,
+            656.0,
+            1436.0
+          ],
+          "text": "7.9",
+          "confidence": 0.9894
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1418.0,
+            1042.0,
+            1444.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1420.0,
+            1110.0,
+            1444.0
+          ],
+          "text": "8.0",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            1471.0,
+            260.0,
+            1501.0
+          ],
+          "text": "Protein",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            571.0,
+            1479.0,
+            695.0,
+            1505.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1486.0,
+            1194.0,
+            1514.0
+          ],
+          "text": "NEGATIVE / POSITIVE",
+          "confidence": 0.9761
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1542.0,
+            262.0,
+            1570.0
+          ],
+          "text": "Nitrites",
+          "confidence": 0.6859
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            571.0,
+            1550.0,
+            695.0,
+            1576.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9688
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1556.0,
+            1070.0,
+            1582.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            1558.0,
+            1192.0,
+            1584.0
+          ],
+          "text": "POSITIVE",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            1613.0,
+            390.0,
+            1645.0
+          ],
+          "text": "Leukocyte Esterase",
+          "confidence": 0.9802
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            588.0,
+            1622.0,
+            710.0,
+            1648.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            943.0,
+            1624.0,
+            1194.0,
+            1654.0
+          ],
+          "text": "NEGATIVE / POSITIVE",
+          "confidence": 0.7876
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1684.0,
+            478.0,
+            1714.0
+          ],
+          "text": "MCROSCOPIC EXAMINATION",
+          "confidence": 0.7775
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1752.0,
+            362.0,
+            1780.0
+          ],
+          "text": "PUS (WBC) cells",
+          "confidence": 0.9641
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1756.0,
+            625.0,
+            1786.0
+          ],
+          "text": "Plenty",
+          "confidence": 0.8002
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            1760.0,
+            998.0,
+            1786.0
+          ],
+          "text": "0 - 5 / HPF",
+          "confidence": 0.3937
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1818.0,
+            354.0,
+            1844.0
+          ],
+          "text": "Red blood Cells",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1822.0,
+            614.0,
+            1846.0
+          ],
+          "text": "02-04",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            1828.0,
+            1034.0,
+            1852.0
+          ],
+          "text": "0 - 2 / HPF",
+          "confidence": 0.6809
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            1882.0,
+            382.0,
+            1910.0
+          ],
+          "text": "U. Epithelial Cells",
+          "confidence": 0.8772
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1886.0,
+            614.0,
+            1912.0
+          ],
+          "text": "15-20",
+          "confidence": 0.9863
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            1892.0,
+            1042.0,
+            1916.0
+          ],
+          "text": "0 -5 / HPF",
+          "confidence": 0.5134
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            2048.0,
+            644.0,
+            2102.0
+          ],
+          "text": "Dr: V: VIJAIA SREE MD",
+          "confidence": 0.5658
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            2013.0,
+            1213.0,
+            2085.0
+          ],
+          "text": "'Lab fackarge",
+          "confidence": 0.2576
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            2085.0,
+            1239.0,
+            2105.0
+          ],
+          "text": "5755",
+          "confidence": 0.2359
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            2087.0,
+            413.0,
+            2144.0
+          ],
+          "text": "Pathologist",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            494.0,
+            2096.0,
+            658.0,
+            2150.0
+          ],
+          "text": "No. 43489",
+          "confidence": 0.5985
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1045.0,
+            2087.0,
+            1101.0,
+            2125.0
+          ],
+          "text": "hya",
+          "confidence": 0.1224
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            2104.0,
+            1230.0,
+            2128.0
+          ],
+          "text": "6",
+          "confidence": 0.2507
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            2166.0,
+            1484.0,
+            2246.0
+          ],
+          "text": "21",
+          "confidence": 0.6156
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            2253.0,
+            325.0,
+            2289.0
+          ],
+          "text": "Ph :",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            325.0,
+            2247.0,
+            882.0,
+            2300.0
+          ],
+          "text": "8106999108, 9652611108, Email",
+          "confidence": 0.9517
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            901.0,
+            2258.0,
+            1388.0,
+            2307.0
+          ],
+          "text": "srivenhospital79@gmail.com",
+          "confidence": 0.5871
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1402.0,
+            2250.0,
+            1573.0,
+            2295.0
+          ],
+          "text": "Emonongy",
+          "confidence": 0.3839
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            600.1004602718929,
+            343.114118180386,
+            722.8995397281071,
+            398.885881819614
+          ],
+          "text": "Colony;",
+          "confidence": 0.766
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            869.1749726439442,
+            351.11906469908024,
+            970.8250273560558,
+            405.88093530091976
+          ],
+          "text": "Sagar",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1035.9514461957515,
+            1940.1261537753396,
+            1143.0485538042485,
+            2004.8738462246604
+          ],
+          "text": "0L4<",
+          "confidence": 0.0186
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1136.0868184120002,
+            1936.017789101185,
+            1266.9131815879998,
+            2089.982210898815
+          ],
+          "text": "$",
+          "confidence": 0.0855
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            396.13318551553556,
+            2081.0741868292134,
+            505.86681448446444,
+            2155.9258131707866
+          ],
+          "text": "EX",
+          "confidence": 0.451
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1120.2634282208821,
+            2113.979119292668,
+            1235.7365717791179,
+            2214.020880707332
+          ],
+          "text": "77a9\"",
+          "confidence": 0.2083
+        }
+      ]
+    }
+  ],
+  "full_text": "SRIVEN HOSPITAL\nMULTI SPECIALITY\n#\nAPSEB\nNagarjuna\nRoad; Hasthinapuram; Hyderabad\n500 079\nPatient-Name ` MR: KSURESH\nDate ot sample collection\n201022\nCOMPLETE URINE EXAMINATION REPORT\nDESCRIPTION\nRESULT\nREEERENCE INTERVAL\nColour\n:Dark Yellow\nStraw Colour\nPale Yellow/Dark\nYellow\nAppearence\nTurbid\nClear/Slightly Hazy MHazy/Turbid\nChemical Examination\nGlucose\nNEGATIVE\nNEGATIVE\nPOSITIVE\nBilirubin (Bile)\nNEGATIVE\nNEGATIVE\nPOSITIVE\nUrobilinogen\nNEGATIVE\nNEGATIVE / POSITIVE\nKetoneBodies\nNEGATIVE\nNEGATIVE / POSITIVE\nSpecific gravity\n1.029\n1.005\n1.030\nBlood\nNEGATIVE\nNEGATIVE\nPOSITIVE\nReaction (pH\n7.9\n5.0\n8.0\nProtein\nNEGATIVE\nNEGATIVE / POSITIVE\nNitrites\nNEGATIVE\nNEGATIVE\nPOSITIVE\nLeukocyte Esterase\nNEGATIVE\nNEGATIVE / POSITIVE\nMCROSCOPIC EXAMINATION\nPUS (WBC) cells\nPlenty\n0 - 5 / HPF\nRed blood Cells\n02-04\n0 - 2 / HPF\nU. Epithelial Cells\n15-20\n0 -5 / HPF\nDr: V: VIJAIA SREE MD\n'Lab fackarge\n5755\nPathologist\nNo. 43489\nhya\n6\n21\nPh :\n8106999108, 9652611108, Email\nsrivenhospital79@gmail.com\nEmonongy\nColony;\nSagar\n0L4<\n$\nEX\n77a9\"",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "No.",
+          "biomarker_normalized": "No.",
+          "value": "43489",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No. 43489",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "srivenhospital7",
+          "biomarker_normalized": "srivenhospital7",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "srivenhospital79@gmail.com",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 87,
+    "ocr_avg_confidence": 0.8064,
+    "parsed_row_count": 2
+  }
+}

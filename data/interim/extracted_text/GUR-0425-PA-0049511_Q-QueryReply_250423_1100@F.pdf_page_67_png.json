@@ -1,0 +1,747 @@
+{
+  "document_id": "GUR-0425-PA-0049511_Q-QueryReply_250423_1100@F.pdf_page_67",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0049511_Q-QueryReply_250423_1100@F.pdf_page_67.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mobla cfuicel Laboratory\nPathologist\nInside Virk Multispeciality Hospital\nDr: RK BAJAJ\n363,Randhir Lane: Near Dyal Singh College,\nMBBS MD; (Path)\nKARNAL-132 001\nPhone\n0184-2270332\nPabent\n50114/25\nReterred DY\nDR HUNISH GUPTA\n3405/25\nIuatidllon\nBcull\nVnb\nRelcrenca Banag\nURINE EXAMINATION REPORLi\nPHYSICAL EXAMINATION\nColour\nP YELLOW\nReacton\nAodic\nAppearence\nClear\nSediments\nBIOCHEMICAL EXAHINATION\nSugar\nNL\nAcumin\nTRACE\nSpeaic Gravity\nQNs\nMICROSCOPIC EXAHINATION\nRed Blood Cells\nNIL\nIAPF\nPUs CELLS\nFull field of pus cells seen\nTAPF\nEPITHELIAL CELLS\nNL\nHPF\nCrystals\nNI\nCasts\nNIL\nDr; RKIBAJAJ\nIc Laboratory\nMB8 $.V) (PatH)\n24\nSample colleclion Facility at Home is also available.\nNot for Medico-legal purpose:\nReport is valid for same\n& same sample.\n'servicE\nEMERGENCY [\nday:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            323.0,
+            58.0,
+            1039.0,
+            139.0
+          ],
+          "text": "Mobla cfuicel Laboratory",
+          "confidence": 0.13
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1445.0,
+            65.0,
+            1628.0,
+            113.0
+          ],
+          "text": "Pathologist",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            321.0,
+            125.0,
+            791.0,
+            169.0
+          ],
+          "text": "Inside Virk Multispeciality Hospital",
+          "confidence": 0.7918
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1323.0,
+            119.0,
+            1627.0,
+            163.0
+          ],
+          "text": "Dr: RK BAJAJ",
+          "confidence": 0.6572
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            321.0,
+            163.0,
+            942.0,
+            207.0
+          ],
+          "text": "363,Randhir Lane: Near Dyal Singh College,",
+          "confidence": 0.616
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1359.0,
+            181.0,
+            1627.0,
+            219.0
+          ],
+          "text": "MBBS MD; (Path)",
+          "confidence": 0.3983
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            321.0,
+            201.0,
+            571.0,
+            237.0
+          ],
+          "text": "KARNAL-132 001",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            322.0,
+            240.0,
+            418.0,
+            272.0
+          ],
+          "text": "Phone",
+          "confidence": 0.6924
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            433.0,
+            237.0,
+            639.0,
+            275.0
+          ],
+          "text": "0184-2270332",
+          "confidence": 0.9021
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            434.0,
+            224.0,
+            458.0
+          ],
+          "text": "Pabent",
+          "confidence": 0.5433
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            537.0,
+            566.0,
+            565.0
+          ],
+          "text": "50114/25",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            538.0,
+            1108.0,
+            566.0
+          ],
+          "text": "Reterred DY",
+          "confidence": 0.3784
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            539.0,
+            1498.0,
+            570.0
+          ],
+          "text": "DR HUNISH GUPTA",
+          "confidence": 0.6749
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            570.0,
+            554.0,
+            600.0
+          ],
+          "text": "3405/25",
+          "confidence": 0.9465
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            620.0,
+            320.0,
+            646.0
+          ],
+          "text": "Iuatidllon",
+          "confidence": 0.0945
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            624.0,
+            890.0,
+            650.0
+          ],
+          "text": "Bcull",
+          "confidence": 0.1779
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            624.0,
+            1104.0,
+            650.0
+          ],
+          "text": "Vnb",
+          "confidence": 0.3442
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1246.0,
+            625.0,
+            1426.0,
+            654.0
+          ],
+          "text": "Relcrenca Banag",
+          "confidence": 0.1259
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            655.0,
+            672.0,
+            1111.0,
+            711.0
+          ],
+          "text": "URINE EXAMINATION REPORLi",
+          "confidence": 0.4393
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            737.0,
+            508.0,
+            768.0
+          ],
+          "text": "PHYSICAL EXAMINATION",
+          "confidence": 0.9648
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            790.0,
+            290.0,
+            816.0
+          ],
+          "text": "Colour",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            790.0,
+            892.0,
+            820.0
+          ],
+          "text": "P YELLOW",
+          "confidence": 0.8026
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            840.0,
+            310.0,
+            866.0
+          ],
+          "text": "Reacton",
+          "confidence": 0.7016
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            798.0,
+            842.0,
+            864.0,
+            868.0
+          ],
+          "text": "Aodic",
+          "confidence": 0.8699
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            892.0,
+            340.0,
+            918.0
+          ],
+          "text": "Appearence",
+          "confidence": 0.9231
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            800.0,
+            892.0,
+            860.0,
+            918.0
+          ],
+          "text": "Clear",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            939.0,
+            328.0,
+            969.0
+          ],
+          "text": "Sediments",
+          "confidence": 0.7434
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            990.0,
+            553.0,
+            1020.0
+          ],
+          "text": "BIOCHEMICAL EXAHINATION",
+          "confidence": 0.9603
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1039.0,
+            284.0,
+            1076.0
+          ],
+          "text": "Sugar",
+          "confidence": 0.9563
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            808.0,
+            1046.0,
+            850.0,
+            1070.0
+          ],
+          "text": "NL",
+          "confidence": 0.4746
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            1094.0,
+            302.0,
+            1120.0
+          ],
+          "text": "Acumin",
+          "confidence": 0.5717
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            1094.0,
+            868.0,
+            1124.0
+          ],
+          "text": "TRACE",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1141.0,
+            374.0,
+            1174.0
+          ],
+          "text": "Speaic Gravity",
+          "confidence": 0.5576
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1146.0,
+            856.0,
+            1176.0
+          ],
+          "text": "QNs",
+          "confidence": 0.1043
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1193.0,
+            554.0,
+            1222.0
+          ],
+          "text": "MICROSCOPIC EXAHINATION",
+          "confidence": 0.9537
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1243.0,
+            376.0,
+            1274.0
+          ],
+          "text": "Red Blood Cells",
+          "confidence": 0.7148
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            1244.0,
+            849.0,
+            1274.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            1248.0,
+            1114.0,
+            1274.0
+          ],
+          "text": "IAPF",
+          "confidence": 0.1639
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1294.0,
+            332.0,
+            1324.0
+          ],
+          "text": "PUs CELLS",
+          "confidence": 0.4736
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            1296.0,
+            960.0,
+            1328.0
+          ],
+          "text": "Full field of pus cells seen",
+          "confidence": 0.8634
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            1300.0,
+            1114.0,
+            1326.0
+          ],
+          "text": "TAPF",
+          "confidence": 0.1211
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1346.0,
+            408.0,
+            1376.0
+          ],
+          "text": "EPITHELIAL CELLS",
+          "confidence": 0.8
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            806.0,
+            1350.0,
+            846.0,
+            1376.0
+          ],
+          "text": "NL",
+          "confidence": 0.9232
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            1350.0,
+            1104.0,
+            1378.0
+          ],
+          "text": "HPF",
+          "confidence": 0.3208
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1396.0,
+            301.0,
+            1432.0
+          ],
+          "text": "Crystals",
+          "confidence": 0.8961
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            806.0,
+            1402.0,
+            846.0,
+            1428.0
+          ],
+          "text": "NI",
+          "confidence": 0.5075
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1452.0,
+            276.0,
+            1478.0
+          ],
+          "text": "Casts",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            806.0,
+            1454.0,
+            846.0,
+            1480.0
+          ],
+          "text": "NIL",
+          "confidence": 0.5391
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1367.0,
+            1907.0,
+            1575.0,
+            1945.0
+          ],
+          "text": "Dr; RKIBAJAJ",
+          "confidence": 0.8781
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1928.0,
+            257.0,
+            1967.0
+          ],
+          "text": "Ic Laboratory",
+          "confidence": 0.8717
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            1940.0,
+            1570.0,
+            1968.0
+          ],
+          "text": "MB8 $.V) (PatH)",
+          "confidence": 0.0846
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            2018.0,
+            1492.0,
+            2090.0
+          ],
+          "text": "24",
+          "confidence": 0.5247
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            2074.0,
+            785.0,
+            2115.0
+          ],
+          "text": "Sample colleclion Facility at Home is also available.",
+          "confidence": 0.7616
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2103.0,
+            502.0,
+            2151.0
+          ],
+          "text": "Not for Medico-legal purpose:",
+          "confidence": 0.6069
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2140.0,
+            431.0,
+            2180.0
+          ],
+          "text": "Report is valid for same",
+          "confidence": 0.5293
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            485.0,
+            2143.0,
+            698.0,
+            2184.0
+          ],
+          "text": "& same sample.",
+          "confidence": 0.7856
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1488.8786796564405,
+            2092.9170176923267,
+            1592.1213203435595,
+            2131.0829823076733
+          ],
+          "text": "'servicE",
+          "confidence": 0.2137
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1352.7701175612585,
+            2105.0513167019494,
+            1498.2298824387415,
+            2151.9486832980506
+          ],
+          "text": "EMERGENCY [",
+          "confidence": 0.2114
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            425.238936600175,
+            2141.153904209437,
+            490.761063399825,
+            2183.846095790563
+          ],
+          "text": "day:",
+          "confidence": 0.2521
+        }
+      ]
+    }
+  ],
+  "full_text": "Mobla cfuicel Laboratory\nPathologist\nInside Virk Multispeciality Hospital\nDr: RK BAJAJ\n363,Randhir Lane: Near Dyal Singh College,\nMBBS MD; (Path)\nKARNAL-132 001\nPhone\n0184-2270332\nPabent\n50114/25\nReterred DY\nDR HUNISH GUPTA\n3405/25\nIuatidllon\nBcull\nVnb\nRelcrenca Banag\nURINE EXAMINATION REPORLi\nPHYSICAL EXAMINATION\nColour\nP YELLOW\nReacton\nAodic\nAppearence\nClear\nSediments\nBIOCHEMICAL EXAHINATION\nSugar\nNL\nAcumin\nTRACE\nSpeaic Gravity\nQNs\nMICROSCOPIC EXAHINATION\nRed Blood Cells\nNIL\nIAPF\nPUs CELLS\nFull field of pus cells seen\nTAPF\nEPITHELIAL CELLS\nNL\nHPF\nCrystals\nNI\nCasts\nNIL\nDr; RKIBAJAJ\nIc Laboratory\nMB8 $.V) (PatH)\n24\nSample colleclion Facility at Home is also available.\nNot for Medico-legal purpose:\nReport is valid for same\n& same sample.\n'servicE\nEMERGENCY [\nday:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "KARNAL",
+          "biomarker_normalized": "KARNAL",
+          "value": "132",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "KARNAL-132 001",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 59,
+    "ocr_avg_confidence": 0.6342,
+    "parsed_row_count": 1
+  }
+}

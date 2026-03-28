@@ -1,0 +1,777 @@
+{
+  "document_id": "09-Arterial-Blood-Gas-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled",
+  "source_path": "data\\raw\\images_reference\\nurseslabs\\09-Arterial-Blood-Gas-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled.jpg",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABS.COM/LABS/\nArterial Blood Gas\nNAME\nRANGE\nNAME\nRANGE\nArterial Blood pH\nOxygen Saturation (SaOz)\nAdult/Child\n7.35-745\nAdult\n>95%\nChild\n7.34-7.46\nNewborn\n40_90%\nNewborn\n7.32-7.49\nCritical value: <75%\npH (venous)\n7.31-7.41\nPartial pressure of oxygen (Paoz)\nCritical values: <7.25 or >7.6\nAdult /Child\n80-100 mmHg\nBicarbonate (HCOz)\nNewborn\n60-70 mmHg\nAdult/Child\n22-26 mEq/L\nPaOz (venous)\n40-50 mmHg\nNewborn\n16-24 mEq/L\nCritical value: <40 mmHg\nCritical values: <10 or >40 mEq/L\nOxygen Content (O2)\nPartial pressure of carbon dioxide (PaCoz)\nArterial\n15-22 vol%\nAdult\n35-45 mmHg\nVenous\n11-16 vol%\nChild\n26-41 mmHg\nPCOz (venous)\n40-50 mmHg\nBase Excess\nCritical values: <20 or >60 mmHg\n0 + 2 mEq/L\nCritical value: *3 mEq/L\nAlveolar Arterial 0z Difference\n<10 mmHg\nNurseslabs\n2022 NURSESLABS.COM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            132.0,
+            1677.0,
+            242.0
+          ],
+          "text": "Normal Lab Values Cheatsheet",
+          "confidence": 0.6915
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            279.0,
+            1726.0,
+            305.0
+          ],
+          "text": "LEARN MORE AT NURSESLABS.COM/LABS/",
+          "confidence": 0.4462
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            356.0,
+            868.0,
+            437.0
+          ],
+          "text": "Arterial Blood Gas",
+          "confidence": 0.7159
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            500.0,
+            410.0,
+            528.0
+          ],
+          "text": "NAME",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            672.0,
+            500.0,
+            766.0,
+            528.0
+          ],
+          "text": "RANGE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1060.0,
+            500.0,
+            1140.0,
+            532.0
+          ],
+          "text": "NAME",
+          "confidence": 0.9284
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1400.0,
+            502.0,
+            1496.0,
+            530.0
+          ],
+          "text": "RANGE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            579.0,
+            431.0,
+            615.0
+          ],
+          "text": "Arterial Blood pH",
+          "confidence": 0.9408
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            579.0,
+            1265.0,
+            620.0
+          ],
+          "text": "Oxygen Saturation (SaOz)",
+          "confidence": 0.9135
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            694.0,
+            366.0,
+            724.0
+          ],
+          "text": "Adult/Child",
+          "confidence": 0.6908
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            694.0,
+            666.0,
+            722.0
+          ],
+          "text": "7.35-745",
+          "confidence": 0.6168
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            694.0,
+            1024.0,
+            724.0
+          ],
+          "text": "Adult",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            696.0,
+            1352.0,
+            724.0
+          ],
+          "text": ">95%",
+          "confidence": 0.6524
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            758.0,
+            290.0,
+            788.0
+          ],
+          "text": "Child",
+          "confidence": 0.5953
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            760.0,
+            670.0,
+            786.0
+          ],
+          "text": "7.34-7.46",
+          "confidence": 0.4088
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            759.0,
+            1066.0,
+            787.0
+          ],
+          "text": "Newborn",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            760.0,
+            1390.0,
+            790.0
+          ],
+          "text": "40_90%",
+          "confidence": 0.706
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            824.0,
+            336.0,
+            850.0
+          ],
+          "text": "Newborn",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            824.0,
+            670.0,
+            850.0
+          ],
+          "text": "7.32-7.49",
+          "confidence": 0.5059
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            838.0,
+            1608.0,
+            868.0
+          ],
+          "text": "Critical value: <75%",
+          "confidence": 0.9044
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            890.0,
+            372.0,
+            920.0
+          ],
+          "text": "pH (venous)",
+          "confidence": 0.99
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            888.0,
+            666.0,
+            916.0
+          ],
+          "text": "7.31-7.41",
+          "confidence": 0.5639
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            915.0,
+            1359.0,
+            953.0
+          ],
+          "text": "Partial pressure of oxygen (Paoz)",
+          "confidence": 0.6144
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            966.0,
+            880.0,
+            996.0
+          ],
+          "text": "Critical values: <7.25 or >7.6",
+          "confidence": 0.7583
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1029.0,
+            1094.0,
+            1062.0
+          ],
+          "text": "Adult /Child",
+          "confidence": 0.9211
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            1032.0,
+            1466.0,
+            1064.0
+          ],
+          "text": "80-100 mmHg",
+          "confidence": 0.6568
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1042.0,
+            459.0,
+            1079.0
+          ],
+          "text": "Bicarbonate (HCOz)",
+          "confidence": 0.6917
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1095.0,
+            1066.0,
+            1123.0
+          ],
+          "text": "Newborn",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            1096.0,
+            1452.0,
+            1128.0
+          ],
+          "text": "60-70 mmHg",
+          "confidence": 0.7533
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1158.0,
+            366.0,
+            1190.0
+          ],
+          "text": "Adult/Child",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1158.0,
+            724.0,
+            1190.0
+          ],
+          "text": "22-26 mEq/L",
+          "confidence": 0.9653
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1162.0,
+            1124.0,
+            1192.0
+          ],
+          "text": "PaOz (venous)",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1283.0,
+            1161.0,
+            1457.0,
+            1197.0
+          ],
+          "text": "40-50 mmHg",
+          "confidence": 0.7858
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1224.0,
+            336.0,
+            1250.0
+          ],
+          "text": "Newborn",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1224.0,
+            724.0,
+            1256.0
+          ],
+          "text": "16-24 mEq/L",
+          "confidence": 0.9377
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1309.0,
+            1235.0,
+            1610.0,
+            1274.0
+          ],
+          "text": "Critical value: <40 mmHg",
+          "confidence": 0.7996
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            490.0,
+            1302.0,
+            880.0,
+            1334.0
+          ],
+          "text": "Critical values: <10 or >40 mEq/L",
+          "confidence": 0.6431
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1320.0,
+            1197.0,
+            1358.0
+          ],
+          "text": "Oxygen Content (O2)",
+          "confidence": 0.8593
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            1378.0,
+            741.0,
+            1415.0
+          ],
+          "text": "Partial pressure of carbon dioxide (PaCoz)",
+          "confidence": 0.6515
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1436.0,
+            1048.0,
+            1462.0
+          ],
+          "text": "Arterial",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            1436.0,
+            1424.0,
+            1462.0
+          ],
+          "text": "15-22 vol%",
+          "confidence": 0.9114
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1494.0,
+            294.0,
+            1524.0
+          ],
+          "text": "Adult",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            1493.0,
+            725.0,
+            1529.0
+          ],
+          "text": "35-45 mmHg",
+          "confidence": 0.9643
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1499.0,
+            1044.0,
+            1525.0
+          ],
+          "text": "Venous",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            1500.0,
+            1422.0,
+            1526.0
+          ],
+          "text": "11-16 vol%",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1558.0,
+            290.0,
+            1588.0
+          ],
+          "text": "Child",
+          "confidence": 0.7252
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            1557.0,
+            723.0,
+            1593.0
+          ],
+          "text": "26-41 mmHg",
+          "confidence": 0.6958
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1623.0,
+            397.0,
+            1659.0
+          ],
+          "text": "PCOz (venous)",
+          "confidence": 0.5952
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            1624.0,
+            724.0,
+            1656.0
+          ],
+          "text": "40-50 mmHg",
+          "confidence": 0.9464
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            1625.0,
+            1092.0,
+            1657.0
+          ],
+          "text": "Base Excess",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            491.0,
+            1699.0,
+            882.0,
+            1736.0
+          ],
+          "text": "Critical values: <20 or >60 mmHg",
+          "confidence": 0.9598
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1690.0,
+            1348.0,
+            1722.0
+          ],
+          "text": "0 + 2 mEq/L",
+          "confidence": 0.5079
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1321.0,
+            1747.0,
+            1611.0,
+            1784.0
+          ],
+          "text": "Critical value: *3 mEq/L",
+          "confidence": 0.6956
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            1791.0,
+            589.0,
+            1827.0
+          ],
+          "text": "Alveolar Arterial 0z Difference",
+          "confidence": 0.88
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            477.0,
+            1859.0,
+            611.0,
+            1895.0
+          ],
+          "text": "<10 mmHg",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            837.0,
+            2463.0,
+            1019.0,
+            2503.0
+          ],
+          "text": "Nurseslabs",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            567.0,
+            2517.0,
+            1259.0,
+            2537.0
+          ],
+          "text": "2022 NURSESLABS.COM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+          "confidence": 0.6582
+        }
+      ]
+    }
+  ],
+  "full_text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABS.COM/LABS/\nArterial Blood Gas\nNAME\nRANGE\nNAME\nRANGE\nArterial Blood pH\nOxygen Saturation (SaOz)\nAdult/Child\n7.35-745\nAdult\n>95%\nChild\n7.34-7.46\nNewborn\n40_90%\nNewborn\n7.32-7.49\nCritical value: <75%\npH (venous)\n7.31-7.41\nPartial pressure of oxygen (Paoz)\nCritical values: <7.25 or >7.6\nAdult /Child\n80-100 mmHg\nBicarbonate (HCOz)\nNewborn\n60-70 mmHg\nAdult/Child\n22-26 mEq/L\nPaOz (venous)\n40-50 mmHg\nNewborn\n16-24 mEq/L\nCritical value: <40 mmHg\nCritical values: <10 or >40 mEq/L\nOxygen Content (O2)\nPartial pressure of carbon dioxide (PaCoz)\nArterial\n15-22 vol%\nAdult\n35-45 mmHg\nVenous\n11-16 vol%\nChild\n26-41 mmHg\nPCOz (venous)\n40-50 mmHg\nBase Excess\nCritical values: <20 or >60 mmHg\n0 + 2 mEq/L\nCritical value: *3 mEq/L\nAlveolar Arterial 0z Difference\n<10 mmHg\nNurseslabs\n2022 NURSESLABS.COM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Critical value: <",
+          "biomarker_normalized": "Critical value: <",
+          "value": "75",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Critical value: <75%",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Critical values: <",
+          "biomarker_normalized": "Critical values: <",
+          "value": "7.25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Critical values: <7.25 or >7.6",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Critical value: <",
+          "biomarker_normalized": "Critical value: <",
+          "value": "40",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Critical value: <40 mmHg",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Critical values: <",
+          "biomarker_normalized": "Critical values: <",
+          "value": "10",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Critical values: <10 or >40 mEq/L",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Critical values: <",
+          "biomarker_normalized": "Critical values: <",
+          "value": "20",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Critical values: <20 or >60 mmHg",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Critical value: *",
+          "biomarker_normalized": "Critical value: *",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Critical value: *3 mEq/L",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Alveolar Arterial",
+          "biomarker_normalized": "Alveolar Arterial",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Alveolar Arterial 0z Difference",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 57,
+    "ocr_avg_confidence": 0.8206,
+    "parsed_row_count": 7
+  }
+}

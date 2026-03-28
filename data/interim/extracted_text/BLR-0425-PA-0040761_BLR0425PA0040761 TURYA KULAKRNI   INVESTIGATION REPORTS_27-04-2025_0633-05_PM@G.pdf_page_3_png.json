@@ -1,0 +1,672 @@
+{
+  "document_id": "BLR-0425-PA-0040761_BLR0425PA0040761 TURYA KULAKRNI   INVESTIGATION REPORTS_27-04-2025_0633-05_PM@G.pdf_page_3",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0040761_BLR0425PA0040761 TURYA KULAKRNI   INVESTIGATION REPORTS_27-04-2025_0633-05_PM@G.pdf_page_3.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "2\nKL\nKamLa Pathology Laboratory\nExcellent Health Care\nRcg No :\n1u8\nTost Dato\nRenuka Hospital\nSample\nInside Lab\nHALMATOLOGY\nMalcria Test ( Optimal\nSample is Non-Reactive\nMalcri: Tcst )\nP.Falciparum and other\nPlasmodium Species\nP.Vivax\nP Malariae\nP.Ovale\nMethod\nSandwich Immunoassay\nNotc\nZlhiscs old % screening test The results of the test are to be interpreteted within the epiemiological\nclinical and therapeutic context\nSEROLOGY\nWIDAL TEST\nANTIGEN\nAGGLUTINATION TITER\nS.Typhi\n0\nTO )\nAbsent\nS.Typhi\nH (TH )\nAbsent\nS.Paratyphi A-H ( AH )\nAbsent\nS.Paratyphi B-H\nBH )\nAbsent\n~EIMPRESSION-F\nWIDAL TEST NEGATIVE\n(Note\nTest should be interpreted in light of clinical history and Antibiotic\nHistory.)\nDr Ajit Junagade\nMBBS_MD(PATH) D.C.P\nAdd\nPlot No.19, Adhav Nagar, Near Narayan Bapu Chowk Old Saikheda\nK64101\nTest\nFor",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            222.0,
+            304.0,
+            274.0
+          ],
+          "text": "2",
+          "confidence": 0.5871
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            202.0,
+            1147.0,
+            281.0
+          ],
+          "text": "KL",
+          "confidence": 0.9603
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            890.0,
+            282.0,
+            1536.0,
+            380.0
+          ],
+          "text": "KamLa Pathology Laboratory",
+          "confidence": 0.7213
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            363.0,
+            1529.0,
+            405.0
+          ],
+          "text": "Excellent Health Care",
+          "confidence": 0.9443
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            422.0,
+            240.0,
+            455.0
+          ],
+          "text": "Rcg No :",
+          "confidence": 0.5931
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            424.0,
+            348.0,
+            454.0
+          ],
+          "text": "1u8",
+          "confidence": 0.4354
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1151.0,
+            439.0,
+            1286.0,
+            472.0
+          ],
+          "text": "Tost Dato",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            512.0,
+            499.0,
+            552.0
+          ],
+          "text": "Renuka Hospital",
+          "confidence": 0.9386
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1042.0,
+            526.0,
+            1153.0,
+            564.0
+          ],
+          "text": "Sample",
+          "confidence": 0.9085
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            532.0,
+            1446.0,
+            564.0
+          ],
+          "text": "Inside Lab",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            585.0,
+            1009.0,
+            624.0
+          ],
+          "text": "HALMATOLOGY",
+          "confidence": 0.5146
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            699.0,
+            566.0,
+            749.0
+          ],
+          "text": "Malcria Test ( Optimal",
+          "confidence": 0.7131
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            710.0,
+            990.0,
+            742.0
+          ],
+          "text": "Sample is Non-Reactive",
+          "confidence": 0.7719
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            733.0,
+            335.0,
+            771.0
+          ],
+          "text": "Malcri: Tcst )",
+          "confidence": 0.7244
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            738.0,
+            982.0,
+            769.0
+          ],
+          "text": "P.Falciparum and other",
+          "confidence": 0.6305
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            765.0,
+            955.0,
+            801.0
+          ],
+          "text": "Plasmodium Species",
+          "confidence": 0.8747
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            792.0,
+            788.0,
+            823.0
+          ],
+          "text": "P.Vivax",
+          "confidence": 0.893
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            796.0,
+            942.0,
+            824.0
+          ],
+          "text": "P Malariae",
+          "confidence": 0.9785
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            958.0,
+            796.0,
+            1066.0,
+            826.0
+          ],
+          "text": "P.Ovale",
+          "confidence": 0.522
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            832.0,
+            245.0,
+            869.0
+          ],
+          "text": "Method",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            835.0,
+            607.0,
+            879.0
+          ],
+          "text": "Sandwich Immunoassay",
+          "confidence": 0.6512
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            898.0,
+            188.0,
+            930.0
+          ],
+          "text": "Notc",
+          "confidence": 0.836
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            925.0,
+            1453.0,
+            988.0
+          ],
+          "text": "Zlhiscs old % screening test The results of the test are to be interpreteted within the epiemiological",
+          "confidence": 0.6725
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            957.0,
+            549.0,
+            1001.0
+          ],
+          "text": "clinical and therapeutic context",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1036.0,
+            962.0,
+            1068.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1087.0,
+            353.0,
+            1123.0
+          ],
+          "text": "WIDAL TEST",
+          "confidence": 0.7639
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1146.0,
+            274.0,
+            1178.0
+          ],
+          "text": "ANTIGEN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            1150.0,
+            1007.0,
+            1187.0
+          ],
+          "text": "AGGLUTINATION TITER",
+          "confidence": 0.841
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1213.0,
+            231.0,
+            1251.0
+          ],
+          "text": "S.Typhi",
+          "confidence": 0.9859
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            1216.0,
+            280.0,
+            1246.0
+          ],
+          "text": "0",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            301.0,
+            1211.0,
+            376.0,
+            1251.0
+          ],
+          "text": "TO )",
+          "confidence": 0.943
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            1219.0,
+            773.0,
+            1245.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            1278.0,
+            227.0,
+            1320.0
+          ],
+          "text": "S.Typhi",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            245.0,
+            1281.0,
+            363.0,
+            1319.0
+          ],
+          "text": "H (TH )",
+          "confidence": 0.7552
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            1283.0,
+            774.0,
+            1315.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1349.0,
+            441.0,
+            1389.0
+          ],
+          "text": "S.Paratyphi A-H ( AH )",
+          "confidence": 0.9228
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            1353.0,
+            771.0,
+            1381.0
+          ],
+          "text": "Absent",
+          "confidence": 0.9523
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            1416.0,
+            339.0,
+            1458.0
+          ],
+          "text": "S.Paratyphi B-H",
+          "confidence": 0.6017
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            357.0,
+            1419.0,
+            433.0,
+            1455.0
+          ],
+          "text": "BH )",
+          "confidence": 0.9897
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            677.0,
+            1420.0,
+            772.0,
+            1451.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            1487.0,
+            387.0,
+            1519.0
+          ],
+          "text": "~EIMPRESSION-F",
+          "confidence": 0.846
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            676.0,
+            1486.0,
+            1005.0,
+            1525.0
+          ],
+          "text": "WIDAL TEST NEGATIVE",
+          "confidence": 0.9607
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            1556.0,
+            180.0,
+            1588.0
+          ],
+          "text": "(Note",
+          "confidence": 0.7992
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1553.0,
+            1122.0,
+            1601.0
+          ],
+          "text": "Test should be interpreted in light of clinical history and Antibiotic",
+          "confidence": 0.9037
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            1584.0,
+            194.0,
+            1617.0
+          ],
+          "text": "History.)",
+          "confidence": 0.6806
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            1991.0,
+            1514.0,
+            2027.0
+          ],
+          "text": "Dr Ajit Junagade",
+          "confidence": 0.8299
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            2032.0,
+            1552.0,
+            2064.0
+          ],
+          "text": "MBBS_MD(PATH) D.C.P",
+          "confidence": 0.5613
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            28.0,
+            2056.0,
+            90.0,
+            2088.0
+          ],
+          "text": "Add",
+          "confidence": 0.4634
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            2056.0,
+            1044.0,
+            2104.0
+          ],
+          "text": "Plot No.19, Adhav Nagar, Near Narayan Bapu Chowk Old Saikheda",
+          "confidence": 0.5999
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1480.0,
+            2066.0,
+            1628.0,
+            2098.0
+          ],
+          "text": "K64101",
+          "confidence": 0.1762
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            126.10129518119626,
+            635.1539501058485,
+            191.89870481880374,
+            670.8460498941515
+          ],
+          "text": "Test",
+          "confidence": 0.7221
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            991.2186698028876,
+            711.1747742652154,
+            1043.7813301971125,
+            744.8252257347846
+          ],
+          "text": "For",
+          "confidence": 0.9999
+        }
+      ]
+    }
+  ],
+  "full_text": "2\nKL\nKamLa Pathology Laboratory\nExcellent Health Care\nRcg No :\n1u8\nTost Dato\nRenuka Hospital\nSample\nInside Lab\nHALMATOLOGY\nMalcria Test ( Optimal\nSample is Non-Reactive\nMalcri: Tcst )\nP.Falciparum and other\nPlasmodium Species\nP.Vivax\nP Malariae\nP.Ovale\nMethod\nSandwich Immunoassay\nNotc\nZlhiscs old % screening test The results of the test are to be interpreteted within the epiemiological\nclinical and therapeutic context\nSEROLOGY\nWIDAL TEST\nANTIGEN\nAGGLUTINATION TITER\nS.Typhi\n0\nTO )\nAbsent\nS.Typhi\nH (TH )\nAbsent\nS.Paratyphi A-H ( AH )\nAbsent\nS.Paratyphi B-H\nBH )\nAbsent\n~EIMPRESSION-F\nWIDAL TEST NEGATIVE\n(Note\nTest should be interpreted in light of clinical history and Antibiotic\nHistory.)\nDr Ajit Junagade\nMBBS_MD(PATH) D.C.P\nAdd\nPlot No.19, Adhav Nagar, Near Narayan Bapu Chowk Old Saikheda\nK64101\nTest\nFor",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Plot No.",
+          "biomarker_normalized": "Plot No.",
+          "value": "19",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Plot No.19, Adhav Nagar, Near Narayan Bapu Chowk Old Saikheda",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "K6",
+          "biomarker_normalized": "K6",
+          "value": "4101",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "K64101",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 52,
+    "ocr_avg_confidence": 0.8107,
+    "parsed_row_count": 2
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "document_id": "GUR-0425-PA-0057918_F-KYC_PC_KARUNA_1_250427_1321@G.pdf_page_34",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057918_F-KYC_PC_KARUNA_1_250427_1321@G.pdf_page_34.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "care you can trustTM\nSITARAM BHARTIA\nInstitute of Science & Research\nLABORATORY INVESTIGATION REPORT\nPatient)\nUHId\nSBID.325941\n1\nEpisode\nIP\n1515162\nRef: Doctor\nDr.\nMedicine Unit /Pradeep Narayan Chauhan\nThe specimen submitted is processed for culture by conventional method on standard sterile culture media and\nincubated aerobically at 370C for up to 48 hours:\n~If any significant growth of pathogenic bacteria is indicated during the period of incubation, the isolated organism\nis further processed for identification by automated VITEK-2 ID & AST system [standard conventional biochemical\ntests and antimicrobial sensitivity testing is done by automated VITEK-2 ID & AST system/ Kirby Bauer disk\ndiffusion method.\nThe testing & interpretation of antimicrobial sensitivity is done as per the latest CLSI/EUCAST guidelines and\nreported accordingly.\nNote- Administration of antibiotic prior to specimen collection may inhibit the growth of pathogenic bacteria.\nAIl the culture reports should always be correlated with relevant clinical & laboratory findings before consideration\nof treatment\nEnd of Report\nbu\nDr.Monika\nSingh\nConsultant\nMicrobiology\nRegNo: 35786\nPrint DateTime:\nMC-2753",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1309.0,
+            347.0,
+            1591.0,
+            385.0
+          ],
+          "text": "care you can trustTM",
+          "confidence": 0.8431
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            335.0,
+            435.0,
+            714.0,
+            475.0
+          ],
+          "text": "SITARAM BHARTIA",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            476.0,
+            720.0,
+            508.0
+          ],
+          "text": "Institute of Science & Research",
+          "confidence": 0.7194
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            536.0,
+            1214.0,
+            566.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            633.0,
+            320.0,
+            663.0
+          ],
+          "text": "Patient)",
+          "confidence": 0.4348
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            684.0,
+            296.0,
+            712.0
+          ],
+          "text": "UHId",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            678.0,
+            590.0,
+            704.0
+          ],
+          "text": "SBID.325941",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1225.0,
+            625.0,
+            1369.0,
+            715.0
+          ],
+          "text": "1",
+          "confidence": 0.4146
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            718.0,
+            326.0,
+            750.0
+          ],
+          "text": "Episode",
+          "confidence": 0.71
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            718.0,
+            478.0,
+            742.0
+          ],
+          "text": "IP",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1246.0,
+            712.0,
+            1342.0,
+            738.0
+          ],
+          "text": "1515162",
+          "confidence": 0.7968
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            758.0,
+            366.0,
+            784.0
+          ],
+          "text": "Ref: Doctor",
+          "confidence": 0.8716
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            752.0,
+            484.0,
+            776.0
+          ],
+          "text": "Dr.",
+          "confidence": 0.9007
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            492.0,
+            748.0,
+            922.0,
+            781.0
+          ],
+          "text": "Medicine Unit /Pradeep Narayan Chauhan",
+          "confidence": 0.9119
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            954.0,
+            1338.0,
+            984.0
+          ],
+          "text": "The specimen submitted is processed for culture by conventional method on standard sterile culture media and",
+          "confidence": 0.7581
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            988.0,
+            692.0,
+            1016.0
+          ],
+          "text": "incubated aerobically at 370C for up to 48 hours:",
+          "confidence": 0.594
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1019.0,
+            1363.0,
+            1055.0
+          ],
+          "text": "~If any significant growth of pathogenic bacteria is indicated during the period of incubation, the isolated organism",
+          "confidence": 0.7462
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1053.0,
+            1356.0,
+            1084.0
+          ],
+          "text": "is further processed for identification by automated VITEK-2 ID & AST system [standard conventional biochemical",
+          "confidence": 0.802
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            1084.0,
+            1289.0,
+            1120.0
+          ],
+          "text": "tests and antimicrobial sensitivity testing is done by automated VITEK-2 ID & AST system/ Kirby Bauer disk",
+          "confidence": 0.7318
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1121.0,
+            371.0,
+            1148.0
+          ],
+          "text": "diffusion method.",
+          "confidence": 0.6204
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            1154.0,
+            1308.0,
+            1184.0
+          ],
+          "text": "The testing & interpretation of antimicrobial sensitivity is done as per the latest CLSI/EUCAST guidelines and",
+          "confidence": 0.7156
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            1187.0,
+            406.0,
+            1218.0
+          ],
+          "text": "reported accordingly.",
+          "confidence": 0.8054
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1253.0,
+            1292.0,
+            1284.0
+          ],
+          "text": "Note- Administration of antibiotic prior to specimen collection may inhibit the growth of pathogenic bacteria.",
+          "confidence": 0.79
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1318.0,
+            1355.0,
+            1354.0
+          ],
+          "text": "AIl the culture reports should always be correlated with relevant clinical & laboratory findings before consideration",
+          "confidence": 0.6413
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1356.0,
+            326.0,
+            1382.0
+          ],
+          "text": "of treatment",
+          "confidence": 0.9879
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            866.0,
+            1396.0,
+            1012.0,
+            1426.0
+          ],
+          "text": "End of Report",
+          "confidence": 0.7326
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            326.0,
+            1444.0,
+            362.0,
+            1472.0
+          ],
+          "text": "bu",
+          "confidence": 0.3137
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1564.0,
+            348.0,
+            1590.0
+          ],
+          "text": "Dr.Monika",
+          "confidence": 0.8675
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            362.0,
+            1564.0,
+            438.0,
+            1596.0
+          ],
+          "text": "Singh",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1602.0,
+            340.0,
+            1628.0
+          ],
+          "text": "Consultant",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            1597.0,
+            491.0,
+            1636.0
+          ],
+          "text": "Microbiology",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            1640.0,
+            376.0,
+            1670.0
+          ],
+          "text": "RegNo: 35786",
+          "confidence": 0.8984
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            797.0,
+            1873.0,
+            947.0,
+            1893.0
+          ],
+          "text": "Print DateTime:",
+          "confidence": 0.8353
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1505.0,
+            2001.0,
+            1561.0,
+            2017.0
+          ],
+          "text": "MC-2753",
+          "confidence": 0.9024
+        }
+      ]
+    }
+  ],
+  "full_text": "care you can trustTM\nSITARAM BHARTIA\nInstitute of Science & Research\nLABORATORY INVESTIGATION REPORT\nPatient)\nUHId\nSBID.325941\n1\nEpisode\nIP\n1515162\nRef: Doctor\nDr.\nMedicine Unit /Pradeep Narayan Chauhan\nThe specimen submitted is processed for culture by conventional method on standard sterile culture media and\nincubated aerobically at 370C for up to 48 hours:\n~If any significant growth of pathogenic bacteria is indicated during the period of incubation, the isolated organism\nis further processed for identification by automated VITEK-2 ID & AST system [standard conventional biochemical\ntests and antimicrobial sensitivity testing is done by automated VITEK-2 ID & AST system/ Kirby Bauer disk\ndiffusion method.\nThe testing & interpretation of antimicrobial sensitivity is done as per the latest CLSI/EUCAST guidelines and\nreported accordingly.\nNote- Administration of antibiotic prior to specimen collection may inhibit the growth of pathogenic bacteria.\nAIl the culture reports should always be correlated with relevant clinical & laboratory findings before consideration\nof treatment\nEnd of Report\nbu\nDr.Monika\nSingh\nConsultant\nMicrobiology\nRegNo: 35786\nPrint DateTime:\nMC-2753",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SBID.",
+          "biomarker_normalized": "SBID.",
+          "value": "325941",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SBID.325941",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "incubated aerobically at",
+          "biomarker_normalized": "incubated aerobically at",
+          "value": "370",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "incubated aerobically at 370C for up to 48 hours:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "is further processed for identification by automated VITEK",
+          "biomarker_normalized": "is further processed for identification by automated VITEK",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "is further processed for identification by automated VITEK-2 ID & AST system [standard conventional biochemical",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "tests and antimicrobial sensitivity testing is done by automated VITEK",
+          "biomarker_normalized": "tests and antimicrobial sensitivity testing is done by automated VITEK",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "tests and antimicrobial sensitivity testing is done by automated VITEK-2 ID & AST system/ Kirby Bauer disk",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "RegNo",
+          "biomarker_normalized": "RegNo",
+          "value": "35786",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "RegNo: 35786",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MC",
+          "biomarker_normalized": "MC",
+          "value": "2753",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MC-2753",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 34,
+    "ocr_avg_confidence": 0.8039,
+    "parsed_row_count": 6
+  }
+}

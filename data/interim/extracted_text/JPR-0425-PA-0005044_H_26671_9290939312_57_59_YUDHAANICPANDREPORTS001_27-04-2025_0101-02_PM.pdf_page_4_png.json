@@ -1,0 +1,648 @@
+{
+  "document_id": "JPR-0425-PA-0005044_H_26671_9290939312_57_59_YUDHAANICPANDREPORTS001_27-04-2025_0101-02_PM.pdf_page_4",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\JPR-0425-PA-0005044_H_26671_9290939312_57_59_YUDHAANICPANDREPORTS001_27-04-2025_0101-02_PM.pdf_page_4.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "5\nerling\nSterling\nHOSPITALS\nACCURIS\nPathology lab that\ncares\nPassport No\nLABORATORY TEST REPORT\nPatient Information\nSample Information\nLocation Information\n)\nApproved on\n1241699\n558769\nCollected on\n26-Apr-2025 06 25\n'rinted On\n26-Apr-2025 08.50\nRef By\nDr DIRECT\nHOSPITAL\nSample Type\nEDTA blood\nProcess At\n73-Sterling-Gurukul\nPre-Operative Major Gurukul Ahmedabad\nComplete Blood Count\nTest\nResult\nUnit\nBiological Ref. Interval\nErythrocytes_Sedimentation Rate\nES R\nCapilary photometry\n03\nmmlthr\n0 - 10\nAy\nDr. Atul Domadiya\nMD Path[G-32352}\nThis is an Electronically Authenticated Repon\nHeuts +F3tned Niln # 3te relerred l08t6\nStortlp Accuris Patholgy Laboratory\nSterling Hospital, Sterling Hospital Road, Memnagar, Ahmedabad\n380 052 Gujarat, India Ph:: +917940m11914\nWebstto: wwwsterlingaccuriscom\nwwwsterlinghospitalscom\nDownlood Accuris App",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            62.0,
+            1332.0,
+            98.0
+          ],
+          "text": "5",
+          "confidence": 0.6404
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1337.0,
+            34.0,
+            1501.0,
+            114.0
+          ],
+          "text": "erling",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            62.0,
+            538.0,
+            198.0
+          ],
+          "text": "Sterling",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            163.0,
+            417.0,
+            203.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.988
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1209.0,
+            102.0,
+            1598.0,
+            203.0
+          ],
+          "text": "ACCURIS",
+          "confidence": 0.9387
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            192.0,
+            1502.0,
+            243.0
+          ],
+          "text": "Pathology lab that",
+          "confidence": 0.7574
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1510.0,
+            206.0,
+            1590.0,
+            234.0
+          ],
+          "text": "cares",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            283.0,
+            286.0,
+            314.0
+          ],
+          "text": "Passport No",
+          "confidence": 0.8444
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            643.0,
+            269.0,
+            1087.0,
+            307.0
+          ],
+          "text": "LABORATORY TEST REPORT",
+          "confidence": 0.9558
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            328.0,
+            476.0,
+            358.0
+          ],
+          "text": "Patient Information",
+          "confidence": 0.8203
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            699.0,
+            321.0,
+            940.0,
+            354.0
+          ],
+          "text": "Sample Information",
+          "confidence": 0.8368
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            316.0,
+            1486.0,
+            348.0
+          ],
+          "text": "Location Information",
+          "confidence": 0.7486
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            376.0,
+            424.0,
+            480.0
+          ],
+          "text": ")",
+          "confidence": 0.0825
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            464.0,
+            1156.0,
+            490.0
+          ],
+          "text": "Approved on",
+          "confidence": 0.6787
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            277.0,
+            488.0,
+            367.0,
+            514.0
+          ],
+          "text": "1241699",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            456.0,
+            486.0,
+            536.0,
+            512.0
+          ],
+          "text": "558769",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            484.0,
+            746.0,
+            510.0
+          ],
+          "text": "Collected on",
+          "confidence": 0.9606
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            482.0,
+            992.0,
+            512.0
+          ],
+          "text": "26-Apr-2025 06 25",
+          "confidence": 0.6185
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            496.0,
+            1138.0,
+            522.0
+          ],
+          "text": "'rinted On",
+          "confidence": 0.9457
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1193.0,
+            492.0,
+            1386.0,
+            523.0
+          ],
+          "text": "26-Apr-2025 08.50",
+          "confidence": 0.9006
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            532.0,
+            232.0,
+            560.0
+          ],
+          "text": "Ref By",
+          "confidence": 0.4318
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            280.0,
+            527.0,
+            402.0,
+            557.0
+          ],
+          "text": "Dr DIRECT",
+          "confidence": 0.8216
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            528.0,
+            532.0,
+            554.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            520.0,
+            758.0,
+            548.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.833
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            516.0,
+            928.0,
+            542.0
+          ],
+          "text": "EDTA blood",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            532.0,
+            1140.0,
+            558.0
+          ],
+          "text": "Process At",
+          "confidence": 0.9408
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            526.0,
+            1394.0,
+            556.0
+          ],
+          "text": "73-Sterling-Gurukul",
+          "confidence": 0.4904
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            590.0,
+            1173.0,
+            633.0
+          ],
+          "text": "Pre-Operative Major Gurukul Ahmedabad",
+          "confidence": 0.9257
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            685.0,
+            655.0,
+            1025.0,
+            695.0
+          ],
+          "text": "Complete Blood Count",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            714.0,
+            238.0,
+            744.0
+          ],
+          "text": "Test",
+          "confidence": 0.6006
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            708.0,
+            792.0,
+            736.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            706.0,
+            952.0,
+            736.0
+          ],
+          "text": "Unit",
+          "confidence": 0.788
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1101.0,
+            701.0,
+            1377.0,
+            737.0
+          ],
+          "text": "Biological Ref. Interval",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            736.0,
+            552.0,
+            775.0
+          ],
+          "text": "Erythrocytes_Sedimentation Rate",
+          "confidence": 0.9416
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            782.0,
+            260.0,
+            812.0
+          ],
+          "text": "ES R",
+          "confidence": 0.9807
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            790.0,
+            635.0,
+            809.0
+          ],
+          "text": "Capilary photometry",
+          "confidence": 0.6385
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            776.0,
+            744.0,
+            804.0
+          ],
+          "text": "03",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            774.0,
+            988.0,
+            800.0
+          ],
+          "text": "mmlthr",
+          "confidence": 0.8221
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            772.0,
+            1172.0,
+            798.0
+          ],
+          "text": "0 - 10",
+          "confidence": 0.9448
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1960.0,
+            371.0,
+            2039.0
+          ],
+          "text": "Ay",
+          "confidence": 0.5405
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            2046.0,
+            400.0,
+            2078.0
+          ],
+          "text": "Dr. Atul Domadiya",
+          "confidence": 0.8267
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            2088.0,
+            419.0,
+            2128.0
+          ],
+          "text": "MD Path[G-32352}",
+          "confidence": 0.6093
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            2134.0,
+            1120.0,
+            2162.0
+          ],
+          "text": "This is an Electronically Authenticated Repon",
+          "confidence": 0.8448
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            2178.0,
+            1288.0,
+            2202.0
+          ],
+          "text": "Heuts +F3tned Niln # 3te relerred l08t6",
+          "confidence": 0.0025
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            2201.0,
+            671.0,
+            2239.0
+          ],
+          "text": "Stortlp Accuris Patholgy Laboratory",
+          "confidence": 0.5109
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            2236.0,
+            834.0,
+            2266.0
+          ],
+          "text": "Sterling Hospital, Sterling Hospital Road, Memnagar, Ahmedabad",
+          "confidence": 0.8206
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            846.0,
+            2234.0,
+            1252.0,
+            2260.0
+          ],
+          "text": "380 052 Gujarat, India Ph:: +917940m11914",
+          "confidence": 0.5349
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            2268.0,
+            954.0,
+            2300.0
+          ],
+          "text": "Webstto: wwwsterlingaccuriscom",
+          "confidence": 0.7312
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            976.0,
+            2270.0,
+            1238.0,
+            2298.0
+          ],
+          "text": "wwwsterlinghospitalscom",
+          "confidence": 0.878
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1423.0,
+            2309.0,
+            1597.0,
+            2327.0
+          ],
+          "text": "Downlood Accuris App",
+          "confidence": 0.6504
+        }
+      ]
+    }
+  ],
+  "full_text": "5\nerling\nSterling\nHOSPITALS\nACCURIS\nPathology lab that\ncares\nPassport No\nLABORATORY TEST REPORT\nPatient Information\nSample Information\nLocation Information\n)\nApproved on\n1241699\n558769\nCollected on\n26-Apr-2025 06 25\n'rinted On\n26-Apr-2025 08.50\nRef By\nDr DIRECT\nHOSPITAL\nSample Type\nEDTA blood\nProcess At\n73-Sterling-Gurukul\nPre-Operative Major Gurukul Ahmedabad\nComplete Blood Count\nTest\nResult\nUnit\nBiological Ref. Interval\nErythrocytes_Sedimentation Rate\nES R\nCapilary photometry\n03\nmmlthr\n0 - 10\nAy\nDr. Atul Domadiya\nMD Path[G-32352}\nThis is an Electronically Authenticated Repon\nHeuts +F3tned Niln # 3te relerred l08t6\nStortlp Accuris Patholgy Laboratory\nSterling Hospital, Sterling Hospital Road, Memnagar, Ahmedabad\n380 052 Gujarat, India Ph:: +917940m11914\nWebstto: wwwsterlingaccuriscom\nwwwsterlinghospitalscom\nDownlood Accuris App",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "MD Path[G",
+          "biomarker_normalized": "MD Path[G",
+          "value": "32352",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MD Path[G-32352}",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Heuts +F3tned Niln #",
+          "biomarker_normalized": "Heuts +F3tned Niln #",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Heuts +F3tned Niln # 3te relerred l08t6",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 50,
+    "ocr_avg_confidence": 0.7963,
+    "parsed_row_count": 2
+  }
+}

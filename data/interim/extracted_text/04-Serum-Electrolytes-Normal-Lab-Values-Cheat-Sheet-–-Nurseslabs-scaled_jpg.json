@@ -1,0 +1,1812 @@
+{
+  "document_id": "04-Serum-Electrolytes-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled",
+  "source_path": "data\\raw\\images_reference\\nurseslabs\\04-Serum-Electrolytes-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled.jpg",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABS.COM/LABS/\nSerum Electrolytes\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nSodium (Na+)\nMagnesium (Mg)\nAdult:\nAdult:\nAdult:\nAdult:\n135-145 mmol/L\n135 to 145 mEq/L\n0.65-1.05 mmol/L\n13-2.1mEq/L\nChild:\nChild:\nChild:\nChild:\n136-145 mmol/L\n136-145 mEq/L\n0.7-0.85 mmol/L\n14-1.7 mEq/L\nInfant:\nInfant:\nNewborn:\nNewborn:\n134-150 mmol/L\n134-150 mEq/L\n0.7-1 mmol/L\n14-2mEq/L\nNewborn:\nNewborn:\nCritical values:\nCritical values:\n134-144 mmol/L\n134-144 mEq/L\n<0.25 or >1.5 mmol/L\n<0.5 or >3 mEq/L\nCritical values:\nCritical values:\nSerum Osmolality\n<120 or >160 mmol/L\n<120 or >160 mEq/L\nAdult:\nAdult:\nPotassium (K+)\n285-295 mmol/kg\n285-295 mOsm/kg H2O\nAdult:\nAdult:\nChild:\nChild:\n3.5-5.0 mmol/L\n3.5-5.0 mEq/L\n275-_290 mmol/kg\n275-290 mOsm/kg H2O\nChild:\nChild:\nCritical values:\nCritical values:\n3.4-4.7 mmol/L\n3.4-4.7 mEq/L\n<265 or >320 mmol/kg\n<265 or >320 mOsm/kg\nH2o\nInfant:\nInfant:\n4.1-5.3 mmol/L\n4.1-5.3 mEq/L\nSerum Bicarbonate (HCO3-)\nNewborn:\nNewborn:\nAdult:\nAdult:\n3.9-5.9 mmol/L\n3.9-5.9 mEq/L\n23_30 mmol/L\n23_30 mEq/L\nCritical values:\nCritical values:\nChild:\nChild:\n20_28 mmol/L\n20-28 mEq/L\nAdult:\nAdult:\n< or >6.1 mmol/L\n<or >6.1 mEq/L\nInfant:\nInfant:\n20-28 mmol/L\n20-28 mEq/L\nNewborn:\nNewborn:\n<2.5 or >8 mmol/L\n<,5 or >8 mEq/L\nNewborn:\nNewborn:\n13_22 mmol/L\n13-22 mEq/L\nChloride (CI-)\nCritical value:\nCritical value:\nAdult:\nAdult:\n<10 or >40 mmol/L\n<10 or >40 mEq/L\n95-105 mmol/L\n95-105 mEq/L\nPhosphorus (P)\nChild:\nChild:\n90-110 mmol/L\n90_110 mEq/L\nAdult:\nAdult:\n0.97-145 mmol/L\n3-4.5 mg/dL\nNewborn:\nNewborn:\n96-106 mmol/L\n96--106 mEq/L\nChild:\nChild:\n1.45-21 mmol/L\n445-6.5 mg/dL\nPremature infant:\nPremature infant:\n95-110 mmol/L\n95-110 mEq/L\nNewborn:\nNewborn:\n1.4-3 mmol/L\n4.3-9.3 mg/dL\nCritical values:\nCritical values:\n<80 or >115 mmol/L\n<80 or >115 mEq/L\nCritical value:\nCritical value:\n<0.3226 mmol/L\n<1 mg/dL\nNurseslabs\n2022 NURSESLABSCOM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            132.0,
+            1677.0,
+            242.0
+          ],
+          "text": "Normal Lab Values Cheatsheet",
+          "confidence": 0.7918
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            279.0,
+            1726.0,
+            305.0
+          ],
+          "text": "LEARN MORE AT NURSESLABS.COM/LABS/",
+          "confidence": 0.4222
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            348.0,
+            895.0,
+            451.0
+          ],
+          "text": "Serum Electrolytes",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            500.0,
+            482.0,
+            532.0
+          ],
+          "text": "RANGE (SI UNITS)",
+          "confidence": 0.735
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            500.0,
+            875.0,
+            532.0
+          ],
+          "text": "RANGE (CONVENTIONAL)",
+          "confidence": 0.9586
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            500.0,
+            1216.0,
+            532.0
+          ],
+          "text": "RANGE (SI UNITS)",
+          "confidence": 0.9693
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            500.0,
+            1609.0,
+            532.0
+          ],
+          "text": "RANGE (CONVENTIONAL)",
+          "confidence": 0.9907
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            580.0,
+            380.0,
+            612.0
+          ],
+          "text": "Sodium (Na+)",
+          "confidence": 0.7325
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            575.0,
+            1153.0,
+            615.0
+          ],
+          "text": "Magnesium (Mg)",
+          "confidence": 0.9533
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            646.0,
+            278.0,
+            672.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            646.0,
+            628.0,
+            676.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            644.0,
+            1012.0,
+            672.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.6083
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            644.0,
+            1360.0,
+            672.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            676.0,
+            410.0,
+            704.0
+          ],
+          "text": "135-145 mmol/L",
+          "confidence": 0.7084
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            676.0,
+            764.0,
+            708.0
+          ],
+          "text": "135 to 145 mEq/L",
+          "confidence": 0.9469
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            673.0,
+            1156.0,
+            702.0
+          ],
+          "text": "0.65-1.05 mmol/L",
+          "confidence": 0.8195
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            674.0,
+            1462.0,
+            706.0
+          ],
+          "text": "13-2.1mEq/L",
+          "confidence": 0.325
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            736.0,
+            274.0,
+            764.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            736.0,
+            626.0,
+            766.0
+          ],
+          "text": "Child:",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            736.0,
+            1008.0,
+            762.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            734.0,
+            1360.0,
+            764.0
+          ],
+          "text": "Child:",
+          "confidence": 0.7335
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            768.0,
+            408.0,
+            794.0
+          ],
+          "text": "136-145 mmol/L",
+          "confidence": 0.525
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            766.0,
+            748.0,
+            798.0
+          ],
+          "text": "136-145 mEq/L",
+          "confidence": 0.8145
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            766.0,
+            1146.0,
+            794.0
+          ],
+          "text": "0.7-0.85 mmol/L",
+          "confidence": 0.9481
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            765.0,
+            1464.0,
+            796.0
+          ],
+          "text": "14-1.7 mEq/L",
+          "confidence": 0.6414
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            828.0,
+            290.0,
+            856.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            828.0,
+            638.0,
+            856.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            826.0,
+            1056.0,
+            854.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            826.0,
+            1406.0,
+            854.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            858.0,
+            410.0,
+            886.0
+          ],
+          "text": "134-150 mmol/L",
+          "confidence": 0.9552
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            855.0,
+            749.0,
+            892.0
+          ],
+          "text": "134-150 mEq/L",
+          "confidence": 0.9327
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            858.0,
+            1108.0,
+            884.0
+          ],
+          "text": "0.7-1 mmol/L",
+          "confidence": 0.8439
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            858.0,
+            1446.0,
+            888.0
+          ],
+          "text": "14-2mEq/L",
+          "confidence": 0.5389
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            920.0,
+            322.0,
+            946.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.7732
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            920.0,
+            671.0,
+            946.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            916.0,
+            1118.0,
+            944.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            916.0,
+            1466.0,
+            944.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.6329
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            950.0,
+            412.0,
+            976.0
+          ],
+          "text": "134-144 mmol/L",
+          "confidence": 0.9169
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            950.0,
+            750.0,
+            980.0
+          ],
+          "text": "134-144 mEq/L",
+          "confidence": 0.4988
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            948.0,
+            1184.0,
+            974.0
+          ],
+          "text": "<0.25 or >1.5 mmol/L",
+          "confidence": 0.6762
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            948.0,
+            1492.0,
+            980.0
+          ],
+          "text": "<0.5 or >3 mEq/L",
+          "confidence": 0.6901
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1008.0,
+            382.0,
+            1036.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9532
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1008.0,
+            732.0,
+            1036.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1015.0,
+            1165.0,
+            1053.0
+          ],
+          "text": "Serum Osmolality",
+          "confidence": 0.9804
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1040.0,
+            450.0,
+            1068.0
+          ],
+          "text": "<120 or >160 mmol/L",
+          "confidence": 0.9113
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1040.0,
+            788.0,
+            1072.0
+          ],
+          "text": "<120 or >160 mEq/L",
+          "confidence": 0.9228
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1086.0,
+            1012.0,
+            1112.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1086.0,
+            1360.0,
+            1112.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1112.0,
+            396.0,
+            1142.0
+          ],
+          "text": "Potassium (K+)",
+          "confidence": 0.9312
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1111.0,
+            1161.0,
+            1147.0
+          ],
+          "text": "285-295 mmol/kg",
+          "confidence": 0.9572
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1111.0,
+            1577.0,
+            1147.0
+          ],
+          "text": "285-295 mOsm/kg H2O",
+          "confidence": 0.7787
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1178.0,
+            278.0,
+            1206.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.964
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1178.0,
+            626.0,
+            1206.0
+          ],
+          "text": "Adult:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1176.0,
+            1010.0,
+            1206.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1176.0,
+            1358.0,
+            1204.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1208.0,
+            396.0,
+            1236.0
+          ],
+          "text": "3.5-5.0 mmol/L",
+          "confidence": 0.8753
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1208.0,
+            734.0,
+            1240.0
+          ],
+          "text": "3.5-5.0 mEq/L",
+          "confidence": 0.9443
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1206.0,
+            1160.0,
+            1238.0
+          ],
+          "text": "275-_290 mmol/kg",
+          "confidence": 0.6167
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1206.0,
+            1578.0,
+            1238.0
+          ],
+          "text": "275-290 mOsm/kg H2O",
+          "confidence": 0.9251
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1270.0,
+            276.0,
+            1300.0
+          ],
+          "text": "Child:",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1270.0,
+            626.0,
+            1298.0
+          ],
+          "text": "Child:",
+          "confidence": 0.7195
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1265.0,
+            1118.0,
+            1295.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1266.0,
+            1466.0,
+            1296.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1300.0,
+            396.0,
+            1328.0
+          ],
+          "text": "3.4-4.7 mmol/L",
+          "confidence": 0.7343
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            1300.0,
+            734.0,
+            1332.0
+          ],
+          "text": "3.4-4.7 mEq/L",
+          "confidence": 0.506
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1298.0,
+            1204.0,
+            1330.0
+          ],
+          "text": "<265 or >320 mmol/kg",
+          "confidence": 0.8779
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1296.0,
+            1562.0,
+            1328.0
+          ],
+          "text": "<265 or >320 mOsm/kg",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1328.0,
+            1340.0,
+            1356.0
+          ],
+          "text": "H2o",
+          "confidence": 0.7544
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1360.0,
+            290.0,
+            1388.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1360.0,
+            638.0,
+            1388.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1391.0,
+            394.0,
+            1420.0
+          ],
+          "text": "4.1-5.3 mmol/L",
+          "confidence": 0.6012
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1391.0,
+            732.0,
+            1422.0
+          ],
+          "text": "4.1-5.3 mEq/L",
+          "confidence": 0.6276
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1400.0,
+            1292.0,
+            1432.0
+          ],
+          "text": "Serum Bicarbonate (HCO3-)",
+          "confidence": 0.6916
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1451.0,
+            322.0,
+            1479.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1452.0,
+            672.0,
+            1480.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1466.0,
+            1014.0,
+            1496.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1466.0,
+            1362.0,
+            1494.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1482.0,
+            394.0,
+            1510.0
+          ],
+          "text": "3.9-5.9 mmol/L",
+          "confidence": 0.8174
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            549.0,
+            1479.0,
+            733.0,
+            1516.0
+          ],
+          "text": "3.9-5.9 mEq/L",
+          "confidence": 0.5576
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1496.0,
+            1118.0,
+            1524.0
+          ],
+          "text": "23_30 mmol/L",
+          "confidence": 0.6021
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1496.0,
+            1454.0,
+            1528.0
+          ],
+          "text": "23_30 mEq/L",
+          "confidence": 0.7692
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1540.0,
+            382.0,
+            1571.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9834
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1542.0,
+            732.0,
+            1572.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.6565
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1558.0,
+            1010.0,
+            1586.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1558.0,
+            1360.0,
+            1586.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1588.0,
+            1120.0,
+            1614.0
+          ],
+          "text": "20_28 mmol/L",
+          "confidence": 0.5294
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1588.0,
+            1458.0,
+            1620.0
+          ],
+          "text": "20-28 mEq/L",
+          "confidence": 0.8089
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1602.0,
+            278.0,
+            1632.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.8639
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1602.0,
+            628.0,
+            1632.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1634.0,
+            416.0,
+            1660.0
+          ],
+          "text": "< or >6.1 mmol/L",
+          "confidence": 0.492
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1634.0,
+            754.0,
+            1664.0
+          ],
+          "text": "<or >6.1 mEq/L",
+          "confidence": 0.7745
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1648.0,
+            1024.0,
+            1676.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1648.0,
+            1372.0,
+            1676.0
+          ],
+          "text": "Infant:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1678.0,
+            1118.0,
+            1708.0
+          ],
+          "text": "20-28 mmol/L",
+          "confidence": 0.8354
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1678.0,
+            1458.0,
+            1710.0
+          ],
+          "text": "20-28 mEq/L",
+          "confidence": 0.8861
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1694.0,
+            322.0,
+            1722.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1694.0,
+            672.0,
+            1722.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1726.0,
+            418.0,
+            1752.0
+          ],
+          "text": "<2.5 or >8 mmol/L",
+          "confidence": 0.9099
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1721.0,
+            759.0,
+            1758.0
+          ],
+          "text": "<,5 or >8 mEq/L",
+          "confidence": 0.611
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1740.0,
+            1056.0,
+            1766.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1740.0,
+            1406.0,
+            1768.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1770.0,
+            1114.0,
+            1798.0
+          ],
+          "text": "13_22 mmol/L",
+          "confidence": 0.7955
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1770.0,
+            1452.0,
+            1802.0
+          ],
+          "text": "13-22 mEq/L",
+          "confidence": 0.9522
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1797.0,
+            377.0,
+            1833.0
+          ],
+          "text": "Chloride (CI-)",
+          "confidence": 0.7548
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1830.0,
+            1106.0,
+            1860.0
+          ],
+          "text": "Critical value:",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1830.0,
+            1456.0,
+            1858.0
+          ],
+          "text": "Critical value:",
+          "confidence": 0.5857
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1866.0,
+            276.0,
+            1892.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1866.0,
+            626.0,
+            1892.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.6507
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1862.0,
+            1162.0,
+            1888.0
+          ],
+          "text": "<10 or >40 mmol/L",
+          "confidence": 0.765
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1859.0,
+            1501.0,
+            1895.0
+          ],
+          "text": "<10 or >40 mEq/L",
+          "confidence": 0.8103
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1896.0,
+            398.0,
+            1924.0
+          ],
+          "text": "95-105 mmol/L",
+          "confidence": 0.9099
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            1896.0,
+            736.0,
+            1928.0
+          ],
+          "text": "95-105 mEq/L",
+          "confidence": 0.9679
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1934.0,
+            1132.0,
+            1966.0
+          ],
+          "text": "Phosphorus (P)",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1956.0,
+            276.0,
+            1986.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1956.0,
+            624.0,
+            1984.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1988.0,
+            396.0,
+            2014.0
+          ],
+          "text": "90-110 mmol/L",
+          "confidence": 0.7043
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1988.0,
+            734.0,
+            2018.0
+          ],
+          "text": "90_110 mEq/L",
+          "confidence": 0.6538
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1998.0,
+            1014.0,
+            2028.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1998.0,
+            1362.0,
+            2028.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.7771
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            2028.0,
+            1156.0,
+            2058.0
+          ],
+          "text": "0.97-145 mmol/L",
+          "confidence": 0.6446
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            2030.0,
+            1448.0,
+            2062.0
+          ],
+          "text": "3-4.5 mg/dL",
+          "confidence": 0.9724
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            2047.0,
+            322.0,
+            2073.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            2047.0,
+            671.0,
+            2073.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            2077.0,
+            396.0,
+            2106.0
+          ],
+          "text": "96-106 mmol/L",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            549.0,
+            2077.0,
+            734.0,
+            2110.0
+          ],
+          "text": "96--106 mEq/L",
+          "confidence": 0.8119
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            2090.0,
+            1010.0,
+            2120.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            2090.0,
+            1360.0,
+            2120.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            2121.0,
+            1140.0,
+            2148.0
+          ],
+          "text": "1.45-21 mmol/L",
+          "confidence": 0.721
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            2122.0,
+            1482.0,
+            2154.0
+          ],
+          "text": "445-6.5 mg/dL",
+          "confidence": 0.8159
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            2138.0,
+            416.0,
+            2166.0
+          ],
+          "text": "Premature infant:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            2138.0,
+            764.0,
+            2166.0
+          ],
+          "text": "Premature infant:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            2169.0,
+            396.0,
+            2198.0
+          ],
+          "text": "95-110 mmol/L",
+          "confidence": 0.7724
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            2170.0,
+            734.0,
+            2202.0
+          ],
+          "text": "95-110 mEq/L",
+          "confidence": 0.5895
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            2181.0,
+            1056.0,
+            2207.0
+          ],
+          "text": "Newborn:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            2181.0,
+            1405.0,
+            2207.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            2212.0,
+            1108.0,
+            2240.0
+          ],
+          "text": "1.4-3 mmol/L",
+          "confidence": 0.7079
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            2209.0,
+            1467.0,
+            2246.0
+          ],
+          "text": "4.3-9.3 mg/dL",
+          "confidence": 0.4189
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            2228.0,
+            384.0,
+            2258.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9822
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            2228.0,
+            732.0,
+            2258.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.8569
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            2260.0,
+            438.0,
+            2288.0
+          ],
+          "text": "<80 or >115 mmol/L",
+          "confidence": 0.8317
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            2260.0,
+            776.0,
+            2292.0
+          ],
+          "text": "<80 or >115 mEq/L",
+          "confidence": 0.9139
+        },
+        {
+          "block_no": 141,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            2271.0,
+            1106.0,
+            2298.0
+          ],
+          "text": "Critical value:",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 142,
+          "block_type": 0,
+          "bbox": [
+            1287.0,
+            2269.0,
+            1454.0,
+            2299.0
+          ],
+          "text": "Critical value:",
+          "confidence": 0.8867
+        },
+        {
+          "block_no": 143,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            2302.0,
+            1132.0,
+            2332.0
+          ],
+          "text": "<0.3226 mmol/L",
+          "confidence": 0.9394
+        },
+        {
+          "block_no": 144,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            2302.0,
+            1404.0,
+            2334.0
+          ],
+          "text": "<1 mg/dL",
+          "confidence": 0.9856
+        },
+        {
+          "block_no": 145,
+          "block_type": 0,
+          "bbox": [
+            836.0,
+            2460.0,
+            1019.0,
+            2504.0
+          ],
+          "text": "Nurseslabs",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 146,
+          "block_type": 0,
+          "bbox": [
+            567.0,
+            2517.0,
+            1259.0,
+            2537.0
+          ],
+          "text": "2022 NURSESLABSCOM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+          "confidence": 0.72
+        }
+      ]
+    }
+  ],
+  "full_text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABS.COM/LABS/\nSerum Electrolytes\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nSodium (Na+)\nMagnesium (Mg)\nAdult:\nAdult:\nAdult:\nAdult:\n135-145 mmol/L\n135 to 145 mEq/L\n0.65-1.05 mmol/L\n13-2.1mEq/L\nChild:\nChild:\nChild:\nChild:\n136-145 mmol/L\n136-145 mEq/L\n0.7-0.85 mmol/L\n14-1.7 mEq/L\nInfant:\nInfant:\nNewborn:\nNewborn:\n134-150 mmol/L\n134-150 mEq/L\n0.7-1 mmol/L\n14-2mEq/L\nNewborn:\nNewborn:\nCritical values:\nCritical values:\n134-144 mmol/L\n134-144 mEq/L\n<0.25 or >1.5 mmol/L\n<0.5 or >3 mEq/L\nCritical values:\nCritical values:\nSerum Osmolality\n<120 or >160 mmol/L\n<120 or >160 mEq/L\nAdult:\nAdult:\nPotassium (K+)\n285-295 mmol/kg\n285-295 mOsm/kg H2O\nAdult:\nAdult:\nChild:\nChild:\n3.5-5.0 mmol/L\n3.5-5.0 mEq/L\n275-_290 mmol/kg\n275-290 mOsm/kg H2O\nChild:\nChild:\nCritical values:\nCritical values:\n3.4-4.7 mmol/L\n3.4-4.7 mEq/L\n<265 or >320 mmol/kg\n<265 or >320 mOsm/kg\nH2o\nInfant:\nInfant:\n4.1-5.3 mmol/L\n4.1-5.3 mEq/L\nSerum Bicarbonate (HCO3-)\nNewborn:\nNewborn:\nAdult:\nAdult:\n3.9-5.9 mmol/L\n3.9-5.9 mEq/L\n23_30 mmol/L\n23_30 mEq/L\nCritical values:\nCritical values:\nChild:\nChild:\n20_28 mmol/L\n20-28 mEq/L\nAdult:\nAdult:\n< or >6.1 mmol/L\n<or >6.1 mEq/L\nInfant:\nInfant:\n20-28 mmol/L\n20-28 mEq/L\nNewborn:\nNewborn:\n<2.5 or >8 mmol/L\n<,5 or >8 mEq/L\nNewborn:\nNewborn:\n13_22 mmol/L\n13-22 mEq/L\nChloride (CI-)\nCritical value:\nCritical value:\nAdult:\nAdult:\n<10 or >40 mmol/L\n<10 or >40 mEq/L\n95-105 mmol/L\n95-105 mEq/L\nPhosphorus (P)\nChild:\nChild:\n90-110 mmol/L\n90_110 mEq/L\nAdult:\nAdult:\n0.97-145 mmol/L\n3-4.5 mg/dL\nNewborn:\nNewborn:\n96-106 mmol/L\n96--106 mEq/L\nChild:\nChild:\n1.45-21 mmol/L\n445-6.5 mg/dL\nPremature infant:\nPremature infant:\n95-110 mmol/L\n95-110 mEq/L\nNewborn:\nNewborn:\n1.4-3 mmol/L\n4.3-9.3 mg/dL\nCritical values:\nCritical values:\n<80 or >115 mmol/L\n<80 or >115 mEq/L\nCritical value:\nCritical value:\n<0.3226 mmol/L\n<1 mg/dL\nNurseslabs\n2022 NURSESLABSCOM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "< or >",
+          "biomarker_normalized": "< or >",
+          "value": "6.1",
+          "unit": "mmol/L",
+          "reference_range": "",
+          "source_line": "< or >6.1 mmol/L",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "<or >",
+          "biomarker_normalized": "<or >",
+          "value": "6.1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "<or >6.1 mEq/L",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 147,
+    "ocr_avg_confidence": 0.8586,
+    "parsed_row_count": 2
+  }
+}

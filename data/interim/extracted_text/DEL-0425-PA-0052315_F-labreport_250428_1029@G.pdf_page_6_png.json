@@ -1,0 +1,996 @@
+{
+  "document_id": "DEL-0425-PA-0052315_F-labreport_250428_1029@G.pdf_page_6",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\DEL-0425-PA-0052315_F-labreport_250428_1029@G.pdf_page_6.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEEPAM\nDEEPAM HOSPITALS\n(DEEPAM HOSPIAL & WELLNESS ENTERPRISES )\nHOSPITALS\n(24 Hrs Accident & ICU Care Hospital)\n327,Muthuranga Road,West Tambaram, Chennai\n1600045.\nTAMBARAM\nLAB Assist\n+91 75500 75501\nBrjzc?\nDEEPAM HOSPITAL (TBM)\nPatiec;\nMMOHIDEEN A,F\nRetezer\n~AHEAITH (TTK)\ntc\nTime\n17,53\nSID Ya\n01089581\nPaticnt No{IP No\nDatc\nTimie\n17.55\nDoctor\nJ42Jsth MBBS_ MD)\nReport Date & Timc\n19.10\nEinal Test Report\nLof1\nINVZSTIGATEON/METHOD\nSPECIMEN\nRESULT\nUNITS\nBIOLOGICAL REF: RANGE\nBiochemist\nLZIC AC)\nSerum\n8.3\nmg/dL\n3.5\n7.2\nE7c? =\nConments :Recheckcd\nXe*\nSerum\n1.6\nmg/dL\n1.3\n2.5\n079\nCC\"\nSerum\n8.6\nmg/dL\n8.6\n10.2\n\"2\nEnd of the Report\n4nbav Z\nDr- N, HEMAVATHY M,D. Pathology\nConsultant Pathologist\n4\nCLOUD CLINICAL LABORATORY\nPowered by\n3\n(ororatt (fice\nCC4\n~isToor; Eraikutty Stregt_New Peru\nE\nJt\nFte\n04\n227211-0\nWebsitel\newceiinjion win ciinical presentatbn  Al test has thoir Imitations which are Imposod by tho Jimlts\nJ37onroEal assay proceduras a8 wel 83 the snociman received by thc leboratory\nPage `",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            75.0,
+            572.0,
+            152.0
+          ],
+          "text": "DEEPAM",
+          "confidence": 0.8241
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            844.0,
+            64.0,
+            1627.0,
+            148.0
+          ],
+          "text": "DEEPAM HOSPITALS",
+          "confidence": 0.9637
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            143.0,
+            1609.0,
+            185.0
+          ],
+          "text": "(DEEPAM HOSPIAL & WELLNESS ENTERPRISES )",
+          "confidence": 0.9163
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            155.0,
+            670.0,
+            235.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            179.0,
+            1533.0,
+            221.0
+          ],
+          "text": "(24 Hrs Accident & ICU Care Hospital)",
+          "confidence": 0.5118
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            855.0,
+            215.0,
+            1493.0,
+            259.0
+          ],
+          "text": "327,Muthuranga Road,West Tambaram, Chennai",
+          "confidence": 0.6856
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1504.0,
+            224.0,
+            1608.0,
+            256.0
+          ],
+          "text": "1600045.",
+          "confidence": 0.966
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            265.0,
+            231.0,
+            537.0,
+            275.0
+          ],
+          "text": "TAMBARAM",
+          "confidence": 0.9882
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            298.0,
+            1182.0,
+            330.0
+          ],
+          "text": "LAB Assist",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            300.0,
+            1420.0,
+            332.0
+          ],
+          "text": "+91 75500 75501",
+          "confidence": 0.7962
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            378.0,
+            224.0,
+            406.0
+          ],
+          "text": "Brjzc?",
+          "confidence": 0.1211
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            269.0,
+            380.0,
+            605.0,
+            417.0
+          ],
+          "text": "DEEPAM HOSPITAL (TBM)",
+          "confidence": 0.9781
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            410.0,
+            224.0,
+            440.0
+          ],
+          "text": "Patiec;",
+          "confidence": 0.1106
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            414.0,
+            510.0,
+            444.0
+          ],
+          "text": "MMOHIDEEN A,F",
+          "confidence": 0.5667
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            442.0,
+            236.0,
+            473.0
+          ],
+          "text": "Retezer",
+          "confidence": 0.026
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            269.0,
+            445.0,
+            533.0,
+            481.0
+          ],
+          "text": "~AHEAITH (TTK)",
+          "confidence": 0.3728
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1147.0,
+            441.0,
+            1173.0,
+            461.0
+          ],
+          "text": "tc",
+          "confidence": 0.1833
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            438.0,
+            1258.0,
+            464.0
+          ],
+          "text": "Time",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1482.0,
+            442.0,
+            1558.0,
+            472.0
+          ],
+          "text": "17,53",
+          "confidence": 0.6001
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            476.0,
+            220.0,
+            506.0
+          ],
+          "text": "SID Ya",
+          "confidence": 0.1757
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            268.0,
+            478.0,
+            404.0,
+            510.0
+          ],
+          "text": "01089581",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            480.0,
+            630.0,
+            510.0
+          ],
+          "text": "Paticnt No{IP No",
+          "confidence": 0.4278
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            478.0,
+            1170.0,
+            504.0
+          ],
+          "text": "Datc",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            480.0,
+            1254.0,
+            506.0
+          ],
+          "text": "Timie",
+          "confidence": 0.8635
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1482.0,
+            484.0,
+            1556.0,
+            514.0
+          ],
+          "text": "17.55",
+          "confidence": 0.7799
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            510.0,
+            218.0,
+            536.0
+          ],
+          "text": "Doctor",
+          "confidence": 0.1298
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            268.0,
+            512.0,
+            600.0,
+            544.0
+          ],
+          "text": "J42Jsth MBBS_ MD)",
+          "confidence": 0.12
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1007.0,
+            518.0,
+            1233.0,
+            554.0
+          ],
+          "text": "Report Date & Timc",
+          "confidence": 0.9092
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1480.0,
+            526.0,
+            1556.0,
+            556.0
+          ],
+          "text": "19.10",
+          "confidence": 0.9552
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1195.0,
+            575.0,
+            1394.0,
+            614.0
+          ],
+          "text": "Einal Test Report",
+          "confidence": 0.7927
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1532.0,
+            580.0,
+            1596.0,
+            608.0
+          ],
+          "text": "Lof1",
+          "confidence": 0.6845
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            709.0,
+            471.0,
+            746.0
+          ],
+          "text": "INVZSTIGATEON/METHOD",
+          "confidence": 0.4835
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            716.0,
+            740.0,
+            742.0
+          ],
+          "text": "SPECIMEN",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            717.0,
+            884.0,
+            743.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            720.0,
+            1226.0,
+            750.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9919
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1315.0,
+            721.0,
+            1636.0,
+            751.0
+          ],
+          "text": "BIOLOGICAL REF: RANGE",
+          "confidence": 0.6296
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            769.0,
+            343.0,
+            811.0
+          ],
+          "text": "Biochemist",
+          "confidence": 0.9542
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            820.0,
+            324.0,
+            852.0
+          ],
+          "text": "LZIC AC)",
+          "confidence": 0.1583
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            820.0,
+            694.0,
+            852.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9767
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            824.0,
+            830.0,
+            850.0
+          ],
+          "text": "8.3",
+          "confidence": 0.9866
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1135.0,
+            825.0,
+            1225.0,
+            861.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9299
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            830.0,
+            1366.0,
+            856.0
+          ],
+          "text": "3.5",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1384.0,
+            828.0,
+            1432.0,
+            858.0
+          ],
+          "text": "7.2",
+          "confidence": 0.5198
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            852.0,
+            306.0,
+            878.0
+          ],
+          "text": "E7c? =",
+          "confidence": 0.0802
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            274.0,
+            902.0,
+            548.0,
+            928.0
+          ],
+          "text": "Conments :Recheckcd",
+          "confidence": 0.6553
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            936.0,
+            348.0,
+            968.0
+          ],
+          "text": "Xe*",
+          "confidence": 0.0873
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            936.0,
+            690.0,
+            966.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            942.0,
+            830.0,
+            972.0
+          ],
+          "text": "1.6",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1135.0,
+            941.0,
+            1223.0,
+            977.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.963
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            944.0,
+            1364.0,
+            972.0
+          ],
+          "text": "1.3",
+          "confidence": 0.7753
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1384.0,
+            944.0,
+            1430.0,
+            974.0
+          ],
+          "text": "2.5",
+          "confidence": 0.8028
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            967.0,
+            354.0,
+            1000.0
+          ],
+          "text": "079",
+          "confidence": 0.0918
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1004.0,
+            300.0,
+            1036.0
+          ],
+          "text": "CC\"",
+          "confidence": 0.5027
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            1004.0,
+            688.0,
+            1032.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            1006.0,
+            828.0,
+            1038.0
+          ],
+          "text": "8.6",
+          "confidence": 0.7515
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            1012.0,
+            1222.0,
+            1044.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9781
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1314.0,
+            1012.0,
+            1362.0,
+            1040.0
+          ],
+          "text": "8.6",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            1012.0,
+            1444.0,
+            1040.0
+          ],
+          "text": "10.2",
+          "confidence": 0.957
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1034.0,
+            265.0,
+            1067.0
+          ],
+          "text": "\"2",
+          "confidence": 0.1314
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            793.0,
+            1085.0,
+            1012.0,
+            1128.0
+          ],
+          "text": "End of the Report",
+          "confidence": 0.7711
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1185.0,
+            1155.0,
+            1445.0,
+            1221.0
+          ],
+          "text": "4nbav Z",
+          "confidence": 0.0106
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1091.0,
+            1237.0,
+            1531.0,
+            1274.0
+          ],
+          "text": "Dr- N, HEMAVATHY M,D. Pathology",
+          "confidence": 0.4395
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1286.0,
+            1459.0,
+            1324.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.9487
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            2128.0,
+            388.0,
+            2160.0
+          ],
+          "text": "4",
+          "confidence": 0.0533
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            2100.0,
+            1166.0,
+            2154.0
+          ],
+          "text": "CLOUD CLINICAL LABORATORY",
+          "confidence": 0.9694
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1299.0,
+            2113.0,
+            1451.0,
+            2151.0
+          ],
+          "text": "Powered by",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            317.0,
+            2158.0,
+            418.0,
+            2191.0
+          ],
+          "text": "3",
+          "confidence": 0.0597
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            2148.0,
+            960.0,
+            2180.0
+          ],
+          "text": "(ororatt (fice",
+          "confidence": 0.149
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1458.0,
+            2118.0,
+            1576.0,
+            2190.0
+          ],
+          "text": "CC4",
+          "confidence": 0.0973
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            2170.0,
+            967.0,
+            2209.0
+          ],
+          "text": "~isToor; Eraikutty Stregt_New Peru",
+          "confidence": 0.1155
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            2201.0,
+            179.0,
+            2221.0
+          ],
+          "text": "E",
+          "confidence": 0.0108
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            2208.0,
+            488.0,
+            2240.0
+          ],
+          "text": "Jt",
+          "confidence": 0.0857
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            541.0,
+            2203.0,
+            612.0,
+            2229.0
+          ],
+          "text": "Fte",
+          "confidence": 0.0213
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            2204.0,
+            666.0,
+            2228.0
+          ],
+          "text": "04",
+          "confidence": 0.2195
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            2204.0,
+            786.0,
+            2230.0
+          ],
+          "text": "227211-0",
+          "confidence": 0.5231
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            672.0,
+            2230.0,
+            762.0,
+            2260.0
+          ],
+          "text": "Websitel",
+          "confidence": 0.7022
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            403.0,
+            2273.0,
+            1563.0,
+            2311.0
+          ],
+          "text": "ewceiinjion win ciinical presentatbn  Al test has thoir Imitations which are Imposod by tho Jimlts",
+          "confidence": 0.0461
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            405.0,
+            2299.0,
+            1377.0,
+            2336.0
+          ],
+          "text": "J37onroEal assay proceduras a8 wel 83 the snociman received by thc leboratory",
+          "confidence": 0.0206
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1472.1539501058485,
+            577.1365600658949,
+            1537.8460498941515,
+            614.8634399341051
+          ],
+          "text": "Page `",
+          "confidence": 0.4353
+        }
+      ]
+    }
+  ],
+  "full_text": "DEEPAM\nDEEPAM HOSPITALS\n(DEEPAM HOSPIAL & WELLNESS ENTERPRISES )\nHOSPITALS\n(24 Hrs Accident & ICU Care Hospital)\n327,Muthuranga Road,West Tambaram, Chennai\n1600045.\nTAMBARAM\nLAB Assist\n+91 75500 75501\nBrjzc?\nDEEPAM HOSPITAL (TBM)\nPatiec;\nMMOHIDEEN A,F\nRetezer\n~AHEAITH (TTK)\ntc\nTime\n17,53\nSID Ya\n01089581\nPaticnt No{IP No\nDatc\nTimie\n17.55\nDoctor\nJ42Jsth MBBS_ MD)\nReport Date & Timc\n19.10\nEinal Test Report\nLof1\nINVZSTIGATEON/METHOD\nSPECIMEN\nRESULT\nUNITS\nBIOLOGICAL REF: RANGE\nBiochemist\nLZIC AC)\nSerum\n8.3\nmg/dL\n3.5\n7.2\nE7c? =\nConments :Recheckcd\nXe*\nSerum\n1.6\nmg/dL\n1.3\n2.5\n079\nCC\"\nSerum\n8.6\nmg/dL\n8.6\n10.2\n\"2\nEnd of the Report\n4nbav Z\nDr- N, HEMAVATHY M,D. Pathology\nConsultant Pathologist\n4\nCLOUD CLINICAL LABORATORY\nPowered by\n3\n(ororatt (fice\nCC4\n~isToor; Eraikutty Stregt_New Peru\nE\nJt\nFte\n04\n227211-0\nWebsitel\newceiinjion win ciinical presentatbn  Al test has thoir Imitations which are Imposod by tho Jimlts\nJ37onroEal assay proceduras a8 wel 83 the snociman received by thc leboratory\nPage `",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "J4",
+          "biomarker_normalized": "J4",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J42Jsth MBBS_ MD)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "J3",
+          "biomarker_normalized": "J3",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J37onroEal assay proceduras a8 wel 83 the snociman received by thc leboratory",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 79,
+    "ocr_avg_confidence": 0.6012,
+    "parsed_row_count": 2
+  }
+}

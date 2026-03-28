@@ -1,0 +1,876 @@
+{
+  "document_id": "MUM-0125-PA-0001141_W2500438UNADKAT ASHWIN_27-04-2025_1002-19_AM.pdf_page_80",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\MUM-0125-PA-0001141_W2500438UNADKAT ASHWIN_27-04-2025_1002-19_AM.pdf_page_80.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Grant Medical Foundation\nRuby Hall Clinic\nNAB H\nWanowarie\nPatienth\nReport Date\n108:40 AM\nLab No/ Result No\nRelease Date\n09:16 AM\nReferred By Dr_\nIGNATIUS AVINASH\nSpecimen\nWHOLE BLOOD\nWard\nBed\nCRITICAL CAREICC19\nPassport No\nDEPARTMENT QF LABORATORY MEDICINE-HAEMATOLOGY\nInvestigation\nResult\nUnits\nBiological Reference Interval\nHaemogram Report\nMPV\n:9.54\n5.4-11,5\nMethod\nDerived from Platelet Histogram\nRBC MORPHOLOGY\nNormocytic normochromic, mild anisocytosis, few macrocytes. Mild polychromasia and\n2 nRBCs/100 WBCs.\nMethed\nMICKOSCOPY\nWBC MORPHIOLOGY\nNeutrophilic leucocytosis.\nMetned\nMICROSCOPY\nPLATELET\nThrombocytopenia.\nMethod\nMICROScOPY\nEnd Of The Report\nVerified By\nDXHS6O\nREMISOL\nWanowaRIE\nDr.Anuradha Deole\nConsultant Pathologist\nNOTE\nKiridly Corelate clinically & dlscsuss If necessary.\nResulls pertan to the specimen subinittea_\nFor 'Termns and Ccnditions of Reporting', kindly\nvisil cur website\nMww\nRubyhall com\nVnnted By\n~KD\nPrinted On=\n59/6, Azad Nagar; Wanowarie, Pune\n411 040 (INDIA):\nTel.\n020\n66494982 / 83 / 84 Fax\n020\n66494939\nPS-1044\nOuaU\nAol<_",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            79.0,
+            593.0,
+            117.0
+          ],
+          "text": "Grant Medical Foundation",
+          "confidence": 0.9052
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            112.0,
+            600.0,
+            186.0
+          ],
+          "text": "Ruby Hall Clinic",
+          "confidence": 0.8967
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1433.0,
+            175.0,
+            1507.0,
+            195.0
+          ],
+          "text": "NAB H",
+          "confidence": 0.385
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            273.0,
+            177.0,
+            516.0,
+            232.0
+          ],
+          "text": "Wanowarie",
+          "confidence": 0.9871
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            332.0,
+            212.0,
+            356.0
+          ],
+          "text": "Patienth",
+          "confidence": 0.5269
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            400.0,
+            1048.0,
+            428.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            400.0,
+            1384.0,
+            426.0
+          ],
+          "text": "108:40 AM",
+          "confidence": 0.5355
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            440.0,
+            320.0,
+            464.0
+          ],
+          "text": "Lab No/ Result No",
+          "confidence": 0.9475
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            434.0,
+            1060.0,
+            462.0
+          ],
+          "text": "Release Date",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            432.0,
+            1384.0,
+            458.0
+          ],
+          "text": "09:16 AM",
+          "confidence": 0.8425
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            482.0,
+            300.0,
+            508.0
+          ],
+          "text": "Referred By Dr_",
+          "confidence": 0.8982
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            368.0,
+            476.0,
+            580.0,
+            500.0
+          ],
+          "text": "IGNATIUS AVINASH",
+          "confidence": 0.993
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            901.0,
+            471.0,
+            1018.0,
+            503.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            468.0,
+            1308.0,
+            494.0
+          ],
+          "text": "WHOLE BLOOD",
+          "confidence": 0.8707
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            522.0,
+            194.0,
+            546.0
+          ],
+          "text": "Ward",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            522.0,
+            278.0,
+            546.0
+          ],
+          "text": "Bed",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            367.0,
+            517.0,
+            598.0,
+            544.0
+          ],
+          "text": "CRITICAL CAREICC19",
+          "confidence": 0.831
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            586.0,
+            1048.0,
+            614.0
+          ],
+          "text": "Passport No",
+          "confidence": 0.767
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            411.0,
+            635.0,
+            1249.0,
+            674.0
+          ],
+          "text": "DEPARTMENT QF LABORATORY MEDICINE-HAEMATOLOGY",
+          "confidence": 0.9088
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            680.0,
+            344.0,
+            710.0
+          ],
+          "text": "Investigation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            570.0,
+            678.0,
+            656.0,
+            706.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            844.0,
+            678.0,
+            914.0,
+            704.0
+          ],
+          "text": "Units",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            674.0,
+            1434.0,
+            704.0
+          ],
+          "text": "Biological Reference Interval",
+          "confidence": 0.8293
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            725.0,
+            452.0,
+            757.0
+          ],
+          "text": "Haemogram Report",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            760.0,
+            218.0,
+            784.0
+          ],
+          "text": "MPV",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            758.0,
+            636.0,
+            782.0
+          ],
+          "text": ":9.54",
+          "confidence": 0.9813
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            754.0,
+            1146.0,
+            780.0
+          ],
+          "text": "5.4-11,5",
+          "confidence": 0.9585
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            171.0,
+            797.0,
+            241.0,
+            817.0
+          ],
+          "text": "Method",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            792.0,
+            548.0,
+            819.0
+          ],
+          "text": "Derived from Platelet Histogram",
+          "confidence": 0.8617
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            822.0,
+            352.0,
+            846.0
+          ],
+          "text": "RBC MORPHOLOGY",
+          "confidence": 0.9843
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            812.0,
+            1482.0,
+            849.0
+          ],
+          "text": "Normocytic normochromic, mild anisocytosis, few macrocytes. Mild polychromasia and",
+          "confidence": 0.8479
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            846.0,
+            800.0,
+            870.0
+          ],
+          "text": "2 nRBCs/100 WBCs.",
+          "confidence": 0.8809
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            165.0,
+            879.0,
+            237.0,
+            899.0
+          ],
+          "text": "Methed",
+          "confidence": 0.6677
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            876.0,
+            378.0,
+            900.0
+          ],
+          "text": "MICKOSCOPY",
+          "confidence": 0.3038
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            904.0,
+            358.0,
+            930.0
+          ],
+          "text": "WBC MORPHIOLOGY",
+          "confidence": 0.6671
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            587.0,
+            901.0,
+            854.0,
+            931.0
+          ],
+          "text": "Neutrophilic leucocytosis.",
+          "confidence": 0.7117
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            937.0,
+            237.0,
+            957.0
+          ],
+          "text": "Metned",
+          "confidence": 0.773
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            934.0,
+            380.0,
+            958.0
+          ],
+          "text": "MICROSCOPY",
+          "confidence": 0.5342
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            962.0,
+            264.0,
+            986.0
+          ],
+          "text": "PLATELET",
+          "confidence": 0.873
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            587.0,
+            958.0,
+            792.0,
+            989.0
+          ],
+          "text": "Thrombocytopenia.",
+          "confidence": 0.9846
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            992.0,
+            238.0,
+            1016.0
+          ],
+          "text": "Method",
+          "confidence": 0.9079
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            251.0,
+            993.0,
+            379.0,
+            1013.0
+          ],
+          "text": "MICROScOPY",
+          "confidence": 0.5359
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            1088.0,
+            926.0,
+            1114.0
+          ],
+          "text": "End Of The Report",
+          "confidence": 0.9768
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1116.0,
+            306.0,
+            1144.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.8772
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1142.0,
+            266.0,
+            1168.0
+          ],
+          "text": "DXHS6O",
+          "confidence": 0.3211
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1168.0,
+            290.0,
+            1192.0
+          ],
+          "text": "REMISOL",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            296.0,
+            1166.0,
+            436.0,
+            1190.0
+          ],
+          "text": "WanowaRIE",
+          "confidence": 0.6148
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1117.0,
+            1203.0,
+            1342.0,
+            1231.0
+          ],
+          "text": "Dr.Anuradha Deole",
+          "confidence": 0.5728
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1117.0,
+            1228.0,
+            1386.0,
+            1256.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            1287.0,
+            239.0,
+            1305.0
+          ],
+          "text": "NOTE",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            1302.0,
+            600.0,
+            1326.0
+          ],
+          "text": "Kiridly Corelate clinically & dlscsuss If necessary.",
+          "confidence": 0.5138
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1323.0,
+            553.0,
+            1343.0
+          ],
+          "text": "Resulls pertan to the specimen subinittea_",
+          "confidence": 0.4351
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            1336.0,
+            578.0,
+            1363.0
+          ],
+          "text": "For 'Termns and Ccnditions of Reporting', kindly",
+          "confidence": 0.4862
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            1363.0,
+            355.0,
+            1379.0
+          ],
+          "text": "visil cur website",
+          "confidence": 0.5209
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            369.0,
+            1365.0,
+            409.0,
+            1377.0
+          ],
+          "text": "Mww",
+          "confidence": 0.0881
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            409.0,
+            1359.0,
+            519.0,
+            1379.0
+          ],
+          "text": "Rubyhall com",
+          "confidence": 0.7688
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            2004.0,
+            220.0,
+            2028.0
+          ],
+          "text": "Vnnted By",
+          "confidence": 0.4623
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            2005.0,
+            271.0,
+            2023.0
+          ],
+          "text": "~KD",
+          "confidence": 0.2112
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            2002.0,
+            809.0,
+            2021.0
+          ],
+          "text": "Printed On=",
+          "confidence": 0.699
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            2238.0,
+            601.0,
+            2280.0
+          ],
+          "text": "59/6, Azad Nagar; Wanowarie, Pune",
+          "confidence": 0.8927
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            615.0,
+            2239.0,
+            833.0,
+            2275.0
+          ],
+          "text": "411 040 (INDIA):",
+          "confidence": 0.5772
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            862.0,
+            2240.0,
+            906.0,
+            2270.0
+          ],
+          "text": "Tel.",
+          "confidence": 0.8409
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            2240.0,
+            982.0,
+            2270.0
+          ],
+          "text": "020",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            2238.0,
+            1292.0,
+            2270.0
+          ],
+          "text": "66494982 / 83 / 84 Fax",
+          "confidence": 0.7441
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            2238.0,
+            1362.0,
+            2268.0
+          ],
+          "text": "020",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1377.0,
+            2237.0,
+            1509.0,
+            2267.0
+          ],
+          "text": "66494939",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1480.0,
+            2274.0,
+            1562.0,
+            2300.0
+          ],
+          "text": "PS-1044",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1468.0057929524341,
+            68.0896335225374,
+            1506.9942070475659,
+            91.9103664774626
+          ],
+          "text": "OuaU",
+          "confidence": 0.0577
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1126.5125708376854,
+            1107.3758848374368,
+            1251.4874291623146,
+            1186.6241151625632
+          ],
+          "text": "Aol<_",
+          "confidence": 0.1264
+        }
+      ]
+    }
+  ],
+  "full_text": "Grant Medical Foundation\nRuby Hall Clinic\nNAB H\nWanowarie\nPatienth\nReport Date\n108:40 AM\nLab No/ Result No\nRelease Date\n09:16 AM\nReferred By Dr_\nIGNATIUS AVINASH\nSpecimen\nWHOLE BLOOD\nWard\nBed\nCRITICAL CAREICC19\nPassport No\nDEPARTMENT QF LABORATORY MEDICINE-HAEMATOLOGY\nInvestigation\nResult\nUnits\nBiological Reference Interval\nHaemogram Report\nMPV\n:9.54\n5.4-11,5\nMethod\nDerived from Platelet Histogram\nRBC MORPHOLOGY\nNormocytic normochromic, mild anisocytosis, few macrocytes. Mild polychromasia and\n2 nRBCs/100 WBCs.\nMethed\nMICKOSCOPY\nWBC MORPHIOLOGY\nNeutrophilic leucocytosis.\nMetned\nMICROSCOPY\nPLATELET\nThrombocytopenia.\nMethod\nMICROScOPY\nEnd Of The Report\nVerified By\nDXHS6O\nREMISOL\nWanowaRIE\nDr.Anuradha Deole\nConsultant Pathologist\nNOTE\nKiridly Corelate clinically & dlscsuss If necessary.\nResulls pertan to the specimen subinittea_\nFor 'Termns and Ccnditions of Reporting', kindly\nvisil cur website\nMww\nRubyhall com\nVnnted By\n~KD\nPrinted On=\n59/6, Azad Nagar; Wanowarie, Pune\n411 040 (INDIA):\nTel.\n020\n66494982 / 83 / 84 Fax\n020\n66494939\nPS-1044\nOuaU\nAol<_",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "CRITICAL CAREICC1",
+          "biomarker_normalized": "CRITICAL CAREICC1",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CRITICAL CAREICC19",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "PS",
+          "biomarker_normalized": "PS",
+          "value": "1044",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PS-1044",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 69,
+    "ocr_avg_confidence": 0.7732,
+    "parsed_row_count": 2
+  }
+}

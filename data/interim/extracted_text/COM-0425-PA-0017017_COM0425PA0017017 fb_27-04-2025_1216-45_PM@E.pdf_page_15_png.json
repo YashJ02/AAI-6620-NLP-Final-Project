@@ -1,0 +1,1248 @@
+{
+  "document_id": "COM-0425-PA-0017017_COM0425PA0017017 fb_27-04-2025_1216-45_PM@E.pdf_page_15",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\COM-0425-PA-0017017_COM0425PA0017017 fb_27-04-2025_1216-45_PM@E.pdf_page_15.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PROTHROMBIN TIME(PT)\n15.5\nsec\n0.9t013.5sec\nINR\n1.1\nLABCONTROL13.5\n22/Apr/2025 08.13PM\nBIQCHEMSTRY\nSUGAR(G/M)\n188\n80to120mg/dl\nSUGAR(G/M)\n128\nmg/dl\n80to120mg/dl\n23/Apr/2025 07 31AM\nSUGAR\n160\nmg/dl\n80to120mg/dl\nSUGAR(G/M)\n153\nmg/dl\n80to120mg/dl\nPROTHROMBIN TIME(PT)\n14.1\nsec\n0.9t013.5sec\nINR\n1.0\nLABCONTROL13.5\n23/Apr/2025 08.23AM\nMCRO-BLOLOGY\nURINECULTURE\nOUTSOURCELAB\n23/Apr/2025 08:13PM\nBLQ CHEMISTRY\nSUGAR(G/M)\n185\nmg/dl\n8oto120mg/dl\nSUGAR(G/M)\n137\n80to120mg/dl\n24/Apr/2025 07.23AM\nBLOCHEMSTRY\nSUGAR\n81\nmg/dl\n8oto120mg/dl\nSUGAR(G/M)\n172\nmg/dl\n80t0120mg/dl\nPROTHROMBIN TIME(PT)\n17.8\nsec\n0.9t013.Ssec\nINR\n13\nLABCONTROL13.5\n24/Apr/2025 08.19PM\nBLQCHEMSTRY\nSUGAR(G/M)\n213\n8Oto120mg/dl\nSUGAR(G/M)\n193\nmg/dl\n8Ot0120mg/dl\n25 /Apr/2025 07:48AM\nBLOCHEMSTRY\nSUGAR\n83\n80 to 120mg/dl\nSUGAR (G/M)\n238\nmg/dl\n80 to 120mg/dl\nPROTHROMBIN TIME (PT)\n14.6\nsec\n0.9 to 13.5sec\nINR\n1.0\nLAB CONTROL 13.5\nRENALFUNCTIONTEST\nUREA\n27\nmg/dl\n10 to 50mg/dl\nCREATININE\n1.5\n0.5 to 1.2 mg/dl\nmg/dl\nmg/dl\nmg/dl\nmg/dl\nmg/dl",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            185.0,
+            461.0,
+            221.0
+          ],
+          "text": "PROTHROMBIN TIME(PT)",
+          "confidence": 0.985
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            188.0,
+            768.0,
+            218.0
+          ],
+          "text": "15.5",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            192.0,
+            996.0,
+            216.0
+          ],
+          "text": "sec",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            188.0,
+            1260.0,
+            220.0
+          ],
+          "text": "0.9t013.5sec",
+          "confidence": 0.9762
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            240.0,
+            186.0,
+            270.0
+          ],
+          "text": "INR",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            242.0,
+            746.0,
+            270.0
+          ],
+          "text": "1.1",
+          "confidence": 0.9631
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            242.0,
+            1330.0,
+            274.0
+          ],
+          "text": "LABCONTROL13.5",
+          "confidence": 0.9814
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            291.0,
+            440.0,
+            329.0
+          ],
+          "text": "22/Apr/2025 08.13PM",
+          "confidence": 0.8695
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            348.0,
+            322.0,
+            380.0
+          ],
+          "text": "BIQCHEMSTRY",
+          "confidence": 0.5422
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            400.0,
+            302.0,
+            439.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.9711
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            404.0,
+            762.0,
+            434.0
+          ],
+          "text": "188",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            400.0,
+            1285.0,
+            442.0
+          ],
+          "text": "80to120mg/dl",
+          "confidence": 0.6429
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            453.0,
+            301.0,
+            494.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.8991
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            460.0,
+            762.0,
+            488.0
+          ],
+          "text": "128",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            949.0,
+            459.0,
+            1037.0,
+            497.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1095.0,
+            459.0,
+            1285.0,
+            497.0
+          ],
+          "text": "80to120mg/dl",
+          "confidence": 0.4749
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            506.0,
+            442.0,
+            548.0
+          ],
+          "text": "23/Apr/2025 07 31AM",
+          "confidence": 0.5272
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            546.0,
+            224.0,
+            578.0
+          ],
+          "text": "SUGAR",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            548.0,
+            762.0,
+            578.0
+          ],
+          "text": "160",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            545.0,
+            1039.0,
+            590.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9309
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1095.0,
+            549.0,
+            1285.0,
+            587.0
+          ],
+          "text": "80to120mg/dl",
+          "confidence": 0.6319
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            597.0,
+            301.0,
+            638.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.8782
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            604.0,
+            762.0,
+            634.0
+          ],
+          "text": "153",
+          "confidence": 0.9596
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            602.0,
+            1039.0,
+            644.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9868
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            600.0,
+            1285.0,
+            642.0
+          ],
+          "text": "80to120mg/dl",
+          "confidence": 0.5891
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            655.0,
+            459.0,
+            693.0
+          ],
+          "text": "PROTHROMBIN TIME(PT)",
+          "confidence": 0.887
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            658.0,
+            764.0,
+            686.0
+          ],
+          "text": "14.1",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            664.0,
+            996.0,
+            688.0
+          ],
+          "text": "sec",
+          "confidence": 0.9795
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            660.0,
+            1260.0,
+            690.0
+          ],
+          "text": "0.9t013.5sec",
+          "confidence": 0.9723
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            712.0,
+            184.0,
+            742.0
+          ],
+          "text": "INR",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            712.0,
+            748.0,
+            744.0
+          ],
+          "text": "1.0",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            714.0,
+            1330.0,
+            746.0
+          ],
+          "text": "LABCONTROL13.5",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            765.0,
+            441.0,
+            801.0
+          ],
+          "text": "23/Apr/2025 08.23AM",
+          "confidence": 0.9599
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            820.0,
+            336.0,
+            852.0
+          ],
+          "text": "MCRO-BLOLOGY",
+          "confidence": 0.545
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            874.0,
+            337.0,
+            904.0
+          ],
+          "text": "URINECULTURE",
+          "confidence": 0.8636
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            874.0,
+            918.0,
+            906.0
+          ],
+          "text": "OUTSOURCELAB",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            925.0,
+            440.0,
+            966.0
+          ],
+          "text": "23/Apr/2025 08:13PM",
+          "confidence": 0.7849
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            980.0,
+            321.0,
+            1017.0
+          ],
+          "text": "BLQ CHEMISTRY",
+          "confidence": 0.5487
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1037.0,
+            299.0,
+            1075.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.9257
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1040.0,
+            762.0,
+            1070.0
+          ],
+          "text": "185",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            1037.0,
+            1040.0,
+            1082.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9483
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1097.0,
+            1041.0,
+            1285.0,
+            1079.0
+          ],
+          "text": "8oto120mg/dl",
+          "confidence": 0.6906
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1091.0,
+            299.0,
+            1129.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.8918
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1096.0,
+            760.0,
+            1126.0
+          ],
+          "text": "137",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            1093.0,
+            1285.0,
+            1136.0
+          ],
+          "text": "80to120mg/dl",
+          "confidence": 0.5768
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1146.0,
+            440.0,
+            1183.0
+          ],
+          "text": "24/Apr/2025 07.23AM",
+          "confidence": 0.9638
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1200.0,
+            320.0,
+            1232.0
+          ],
+          "text": "BLOCHEMSTRY",
+          "confidence": 0.9926
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1256.0,
+            222.0,
+            1288.0
+          ],
+          "text": "SUGAR",
+          "confidence": 0.7953
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            1260.0,
+            740.0,
+            1286.0
+          ],
+          "text": "81",
+          "confidence": 0.9661
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            1257.0,
+            1035.0,
+            1299.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            1252.0,
+            1288.0,
+            1300.0
+          ],
+          "text": "8oto120mg/dl",
+          "confidence": 0.5313
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1311.0,
+            299.0,
+            1347.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.9618
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1314.0,
+            760.0,
+            1344.0
+          ],
+          "text": "172",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            1315.0,
+            1037.0,
+            1351.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            1312.0,
+            1287.0,
+            1354.0
+          ],
+          "text": "80t0120mg/dl",
+          "confidence": 0.8906
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1365.0,
+            459.0,
+            1401.0
+          ],
+          "text": "PROTHROMBIN TIME(PT)",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1368.0,
+            768.0,
+            1398.0
+          ],
+          "text": "17.8",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1374.0,
+            996.0,
+            1398.0
+          ],
+          "text": "sec",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            1370.0,
+            1260.0,
+            1398.0
+          ],
+          "text": "0.9t013.Ssec",
+          "confidence": 0.8629
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1420.0,
+            184.0,
+            1450.0
+          ],
+          "text": "INR",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1422.0,
+            748.0,
+            1452.0
+          ],
+          "text": "13",
+          "confidence": 0.5781
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            1424.0,
+            1332.0,
+            1456.0
+          ],
+          "text": "LABCONTROL13.5",
+          "confidence": 0.8962
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1473.0,
+            439.0,
+            1511.0
+          ],
+          "text": "24/Apr/2025 08.19PM",
+          "confidence": 0.6561
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1528.0,
+            320.0,
+            1560.0
+          ],
+          "text": "BLQCHEMSTRY",
+          "confidence": 0.6717
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1583.0,
+            299.0,
+            1619.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.8482
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1586.0,
+            760.0,
+            1616.0
+          ],
+          "text": "213",
+          "confidence": 0.6601
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            1584.0,
+            1287.0,
+            1628.0
+          ],
+          "text": "8Oto120mg/dl",
+          "confidence": 0.5175
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1637.0,
+            298.0,
+            1675.0
+          ],
+          "text": "SUGAR(G/M)",
+          "confidence": 0.7557
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1642.0,
+            762.0,
+            1672.0
+          ],
+          "text": "193",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            949.0,
+            1643.0,
+            1039.0,
+            1679.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.8661
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1097.0,
+            1643.0,
+            1287.0,
+            1681.0
+          ],
+          "text": "8Ot0120mg/dl",
+          "confidence": 0.5028
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1691.0,
+            441.0,
+            1729.0
+          ],
+          "text": "25 /Apr/2025 07:48AM",
+          "confidence": 0.6499
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1748.0,
+            318.0,
+            1780.0
+          ],
+          "text": "BLOCHEMSTRY",
+          "confidence": 0.9736
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1782.0,
+            220.0,
+            1814.0
+          ],
+          "text": "SUGAR",
+          "confidence": 0.9375
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1786.0,
+            760.0,
+            1816.0
+          ],
+          "text": "83",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            1785.0,
+            1329.0,
+            1826.0
+          ],
+          "text": "80 to 120mg/dl",
+          "confidence": 0.5769
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1835.0,
+            305.0,
+            1873.0
+          ],
+          "text": "SUGAR (G/M)",
+          "confidence": 0.9388
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            1840.0,
+            774.0,
+            1870.0
+          ],
+          "text": "238",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            953.0,
+            1839.0,
+            1046.0,
+            1881.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.4348
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            1843.0,
+            1329.0,
+            1881.0
+          ],
+          "text": "80 to 120mg/dl",
+          "confidence": 0.824
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1891.0,
+            465.0,
+            1927.0
+          ],
+          "text": "PROTHROMBIN TIME (PT)",
+          "confidence": 0.9209
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            1896.0,
+            778.0,
+            1922.0
+          ],
+          "text": "14.6",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            963.0,
+            1903.0,
+            1009.0,
+            1923.0
+          ],
+          "text": "sec",
+          "confidence": 0.9874
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            1898.0,
+            1304.0,
+            1930.0
+          ],
+          "text": "0.9 to 13.5sec",
+          "confidence": 0.8772
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1948.0,
+            182.0,
+            1976.0
+          ],
+          "text": "INR",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            1950.0,
+            758.0,
+            1978.0
+          ],
+          "text": "1.0",
+          "confidence": 0.9707
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            1950.0,
+            1214.0,
+            1982.0
+          ],
+          "text": "LAB CONTROL 13.5",
+          "confidence": 0.969
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            2000.0,
+            410.0,
+            2032.0
+          ],
+          "text": "RENALFUNCTIONTEST",
+          "confidence": 0.9828
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            2034.0,
+            202.0,
+            2064.0
+          ],
+          "text": "UREA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            2038.0,
+            760.0,
+            2066.0
+          ],
+          "text": "27",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            957.0,
+            2039.0,
+            1041.0,
+            2075.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            2038.0,
+            1313.0,
+            2078.0
+          ],
+          "text": "10 to 50mg/dl",
+          "confidence": 0.8043
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            2088.0,
+            292.0,
+            2118.0
+          ],
+          "text": "CREATININE",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            2092.0,
+            768.0,
+            2122.0
+          ],
+          "text": "1.5",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            2093.0,
+            1333.0,
+            2131.0
+          ],
+          "text": "0.5 to 1.2 mg/dl",
+          "confidence": 0.8219
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            948.2802656784306,
+            401.24719101123594,
+            1037.7197343215694,
+            443.75280898876406
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9821
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            948.2802656784306,
+            1093.247191011236,
+            1037.7197343215694,
+            1135.752808988764
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9437
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            948.4050955543422,
+            1583.1935433549934,
+            1039.594904445658,
+            1627.8064566450066
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9173
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            962.2802656784306,
+            1784.267553683827,
+            1046.7197343215694,
+            1824.732446316173
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            962.2802656784306,
+            2089.1737828150726,
+            1047.7197343215694,
+            2131.8262171849274
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9762
+        }
+      ]
+    }
+  ],
+  "full_text": "PROTHROMBIN TIME(PT)\n15.5\nsec\n0.9t013.5sec\nINR\n1.1\nLABCONTROL13.5\n22/Apr/2025 08.13PM\nBIQCHEMSTRY\nSUGAR(G/M)\n188\n80to120mg/dl\nSUGAR(G/M)\n128\nmg/dl\n80to120mg/dl\n23/Apr/2025 07 31AM\nSUGAR\n160\nmg/dl\n80to120mg/dl\nSUGAR(G/M)\n153\nmg/dl\n80to120mg/dl\nPROTHROMBIN TIME(PT)\n14.1\nsec\n0.9t013.5sec\nINR\n1.0\nLABCONTROL13.5\n23/Apr/2025 08.23AM\nMCRO-BLOLOGY\nURINECULTURE\nOUTSOURCELAB\n23/Apr/2025 08:13PM\nBLQ CHEMISTRY\nSUGAR(G/M)\n185\nmg/dl\n8oto120mg/dl\nSUGAR(G/M)\n137\n80to120mg/dl\n24/Apr/2025 07.23AM\nBLOCHEMSTRY\nSUGAR\n81\nmg/dl\n8oto120mg/dl\nSUGAR(G/M)\n172\nmg/dl\n80t0120mg/dl\nPROTHROMBIN TIME(PT)\n17.8\nsec\n0.9t013.Ssec\nINR\n13\nLABCONTROL13.5\n24/Apr/2025 08.19PM\nBLQCHEMSTRY\nSUGAR(G/M)\n213\n8Oto120mg/dl\nSUGAR(G/M)\n193\nmg/dl\n8Ot0120mg/dl\n25 /Apr/2025 07:48AM\nBLOCHEMSTRY\nSUGAR\n83\n80 to 120mg/dl\nSUGAR (G/M)\n238\nmg/dl\n80 to 120mg/dl\nPROTHROMBIN TIME (PT)\n14.6\nsec\n0.9 to 13.5sec\nINR\n1.0\nLAB CONTROL 13.5\nRENALFUNCTIONTEST\nUREA\n27\nmg/dl\n10 to 50mg/dl\nCREATININE\n1.5\n0.5 to 1.2 mg/dl\nmg/dl\nmg/dl\nmg/dl\nmg/dl\nmg/dl",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "LABCONTROL1",
+          "biomarker_normalized": "LABCONTROL1",
+          "value": "3.5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LABCONTROL13.5",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "LAB CONTROL",
+          "biomarker_normalized": "LAB CONTROL",
+          "value": "13.5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LAB CONTROL 13.5",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 100,
+    "ocr_avg_confidence": 0.8767,
+    "parsed_row_count": 2
+  }
+}

@@ -1,0 +1,1308 @@
+{
+  "document_id": "BLR-0425-PA-0042659_REPORT_0001_28-04-2025_1015-20_AM@G.pdf_page_10",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042659_REPORT_0001_28-04-2025_1015-20_AM@G.pdf_page_10.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF PATHOLOGY\nD Y PATIL\nPlot No. 2, Sector\n5, Nerul,\n+91 22 2773 5957\nHOSPITAL\nNavi Mumbai\n400 706.\nM +74200 14168\nMaharashtra, India\nNABH\nNAVI MUMBAI\nW wwW.dypatilhospital com\nGld\nUHID NO / IP No\n4064030\nIP250426307\nBill Date\n27-Apr-2025 01:00 AM\nName\nMr\nOMPRAKASH HAWALE\nSample Date\n27-Apr-2025 01.27 AM\nAge\nGender\n51Y(s) / Male\nReporting Date\n27-Apr-2025 10.43 AM\nType\nBed No\nCASH\nDICU 2\nPVT\nSample No\nDoctor Name\nPATEL\nREPO RT\nLAB NO\nParameter\nResults\nUnits\nBiological Ref Range\nBasophils\nFlowcytometry and peripheral\nsmear\nAbsolute Neutrophils\n4\nx10^3/pL\n2\n0-7 . 0\nCalculated\nAbsolute Lymphocytes\n0\n8\nx10^3/uL\n2 . 0-8 . 0\nCalculaced\nAbsolute Eosinophils\n0\n2\nx10^3/uL\n0 . 02-0 .50\nCalculated\nAbsolute Monocytes\n0\nx10^3/uL\n0.2-1 . 0\nCalculated\nAbsolute Basophils\n0 . 1\nx10^3/uL\n0 . 01\n0 .10\nCalculated\nRBC MORPHOLOGY\nNormocytic,\nPeripheral\nsmear\nNormochromic\nWBC MORPHOLOGY\nNil\nPeripheral\nsmear\nPLATELET MORPHOLOGY\nAdequate\nPeripheral\nsmear\nFoot Note\nNote\n*** End Of Report ***\nDr.SHIRISH KHATU\nCONSULTANT\nPATHOLOGIST\nVerified By\nUser\n10693\nPrint Dt\n27-Apr-2025 10:44 AM\nPage 5 of 5\nGENERAL\nReporting Stationery",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            66.0,
+            1158.0,
+            94.0
+          ],
+          "text": "DEPARTMENT OF PATHOLOGY",
+          "confidence": 0.8034
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            84.0,
+            532.0,
+            140.0
+          ],
+          "text": "D Y PATIL",
+          "confidence": 0.6013
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            110.0,
+            944.0,
+            134.0
+          ],
+          "text": "Plot No. 2, Sector",
+          "confidence": 0.7882
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            110.0,
+            1036.0,
+            134.0
+          ],
+          "text": "5, Nerul,",
+          "confidence": 0.7325
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            110.0,
+            1244.0,
+            134.0
+          ],
+          "text": "+91 22 2773 5957",
+          "confidence": 0.8655
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            289.0,
+            139.0,
+            477.0,
+            175.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            139.0,
+            907.0,
+            159.0
+          ],
+          "text": "Navi Mumbai",
+          "confidence": 0.9491
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            136.0,
+            1000.0,
+            160.0
+          ],
+          "text": "400 706.",
+          "confidence": 0.4986
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            136.0,
+            1216.0,
+            160.0
+          ],
+          "text": "M +74200 14168",
+          "confidence": 0.8794
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            163.0,
+            956.0,
+            188.0
+          ],
+          "text": "Maharashtra, India",
+          "confidence": 0.9749
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1417.0,
+            173.0,
+            1486.0,
+            199.0
+          ],
+          "text": "NABH",
+          "confidence": 0.7953
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            192.0,
+            458.0,
+            216.0
+          ],
+          "text": "NAVI MUMBAI",
+          "confidence": 0.783
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            192.0,
+            1318.0,
+            218.0
+          ],
+          "text": "W wwW.dypatilhospital com",
+          "confidence": 0.4232
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1438.0,
+            206.0,
+            1466.0,
+            214.0
+          ],
+          "text": "Gld",
+          "confidence": 0.0714
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            358.0,
+            390.0,
+            386.0
+          ],
+          "text": "UHID NO / IP No",
+          "confidence": 0.9015
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            355.0,
+            532.0,
+            385.0
+          ],
+          "text": "4064030",
+          "confidence": 0.9854
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            356.0,
+            702.0,
+            384.0
+          ],
+          "text": "IP250426307",
+          "confidence": 0.6084
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            354.0,
+            1104.0,
+            382.0
+          ],
+          "text": "Bill Date",
+          "confidence": 0.9081
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            348.0,
+            1500.0,
+            380.0
+          ],
+          "text": "27-Apr-2025 01:00 AM",
+          "confidence": 0.6363
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            396.0,
+            234.0,
+            422.0
+          ],
+          "text": "Name",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            396.0,
+            462.0,
+            420.0
+          ],
+          "text": "Mr",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            476.0,
+            392.0,
+            758.0,
+            422.0
+          ],
+          "text": "OMPRAKASH HAWALE",
+          "confidence": 0.9751
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            979.0,
+            389.0,
+            1167.0,
+            425.0
+          ],
+          "text": "Sample Date",
+          "confidence": 0.9965
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            384.0,
+            1503.0,
+            420.0
+          ],
+          "text": "27-Apr-2025 01.27 AM",
+          "confidence": 0.7433
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            438.0,
+            208.0,
+            470.0
+          ],
+          "text": "Age",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            436.0,
+            342.0,
+            464.0
+          ],
+          "text": "Gender",
+          "confidence": 0.9212
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            436.0,
+            582.0,
+            468.0
+          ],
+          "text": "51Y(s) / Male",
+          "confidence": 0.6336
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            431.0,
+            1201.0,
+            467.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            428.0,
+            1502.0,
+            460.0
+          ],
+          "text": "27-Apr-2025 10.43 AM",
+          "confidence": 0.8868
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            481.0,
+            223.0,
+            517.0
+          ],
+          "text": "Type",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            482.0,
+            356.0,
+            510.0
+          ],
+          "text": "Bed No",
+          "confidence": 0.6863
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            479.0,
+            505.0,
+            515.0
+          ],
+          "text": "CASH",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            482.0,
+            608.0,
+            512.0
+          ],
+          "text": "DICU 2",
+          "confidence": 0.9422
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            482.0,
+            678.0,
+            512.0
+          ],
+          "text": "PVT",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            477.0,
+            1141.0,
+            513.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.7322
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            522.0,
+            336.0,
+            550.0
+          ],
+          "text": "Doctor Name",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            526.0,
+            662.0,
+            554.0
+          ],
+          "text": "PATEL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            596.0,
+            941.0,
+            640.0
+          ],
+          "text": "REPO RT",
+          "confidence": 0.4815
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            642.0,
+            246.0,
+            672.0
+          ],
+          "text": "LAB NO",
+          "confidence": 0.8822
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            676.0,
+            264.0,
+            700.0
+          ],
+          "text": "Parameter",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            672.0,
+            724.0,
+            698.0
+          ],
+          "text": "Results",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            670.0,
+            944.0,
+            696.0
+          ],
+          "text": "Units",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1100.0,
+            667.0,
+            1334.0,
+            698.0
+          ],
+          "text": "Biological Ref Range",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            710.0,
+            252.0,
+            738.0
+          ],
+          "text": "Basophils",
+          "confidence": 0.8803
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            744.0,
+            532.0,
+            772.0
+          ],
+          "text": "Flowcytometry and peripheral",
+          "confidence": 0.8039
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            543.0,
+            747.0,
+            615.0,
+            767.0
+          ],
+          "text": "smear",
+          "confidence": 0.9318
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            780.0,
+            362.0,
+            808.0
+          ],
+          "text": "Absolute Neutrophils",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            655.0,
+            781.0,
+            671.0,
+            803.0
+          ],
+          "text": "4",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            776.0,
+            1022.0,
+            804.0
+          ],
+          "text": "x10^3/pL",
+          "confidence": 0.4249
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1103.0,
+            777.0,
+            1123.0,
+            799.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1132.0,
+            774.0,
+            1212.0,
+            800.0
+          ],
+          "text": "0-7 . 0",
+          "confidence": 0.7344
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            816.0,
+            290.0,
+            840.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9908
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            852.0,
+            382.0,
+            880.0
+          ],
+          "text": "Absolute Lymphocytes",
+          "confidence": 0.8662
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            850.0,
+            674.0,
+            874.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            851.0,
+            699.0,
+            873.0
+          ],
+          "text": "8",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            848.0,
+            1022.0,
+            876.0
+          ],
+          "text": "x10^3/uL",
+          "confidence": 0.3349
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            846.0,
+            1212.0,
+            872.0
+          ],
+          "text": "2 . 0-8 . 0",
+          "confidence": 0.8732
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            888.0,
+            290.0,
+            912.0
+          ],
+          "text": "Calculaced",
+          "confidence": 0.9155
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            922.0,
+            364.0,
+            950.0
+          ],
+          "text": "Absolute Eosinophils",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            653.0,
+            921.0,
+            673.0,
+            945.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            685.0,
+            923.0,
+            701.0,
+            945.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            918.0,
+            1024.0,
+            946.0
+          ],
+          "text": "x10^3/uL",
+          "confidence": 0.6945
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            916.0,
+            1242.0,
+            942.0
+          ],
+          "text": "0 . 02-0 .50",
+          "confidence": 0.6389
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            958.0,
+            290.0,
+            982.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.6434
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            994.0,
+            358.0,
+            1020.0
+          ],
+          "text": "Absolute Monocytes",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            653.0,
+            991.0,
+            673.0,
+            1015.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            988.0,
+            1024.0,
+            1016.0
+          ],
+          "text": "x10^3/uL",
+          "confidence": 0.6285
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            988.0,
+            1214.0,
+            1014.0
+          ],
+          "text": "0.2-1 . 0",
+          "confidence": 0.9682
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1028.0,
+            290.0,
+            1052.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1060.0,
+            348.0,
+            1091.0
+          ],
+          "text": "Absolute Basophils",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            1062.0,
+            700.0,
+            1086.0
+          ],
+          "text": "0 . 1",
+          "confidence": 0.7406
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1058.0,
+            1024.0,
+            1086.0
+          ],
+          "text": "x10^3/uL",
+          "confidence": 0.7983
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            1058.0,
+            1166.0,
+            1084.0
+          ],
+          "text": "0 . 01",
+          "confidence": 0.9816
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            1056.0,
+            1274.0,
+            1082.0
+          ],
+          "text": "0 .10",
+          "confidence": 0.8412
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1096.0,
+            290.0,
+            1124.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1132.0,
+            372.0,
+            1160.0
+          ],
+          "text": "RBC MORPHOLOGY",
+          "confidence": 0.9752
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            1128.0,
+            819.0,
+            1164.0
+          ],
+          "text": "Normocytic,",
+          "confidence": 0.842
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1170.0,
+            290.0,
+            1196.0
+          ],
+          "text": "Peripheral",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            301.0,
+            1173.0,
+            371.0,
+            1191.0
+          ],
+          "text": "smear",
+          "confidence": 0.9906
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            1158.0,
+            838.0,
+            1186.0
+          ],
+          "text": "Normochromic",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1203.0,
+            378.0,
+            1230.0
+          ],
+          "text": "WBC MORPHOLOGY",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            1204.0,
+            700.0,
+            1228.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1240.0,
+            290.0,
+            1266.0
+          ],
+          "text": "Peripheral",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            301.0,
+            1243.0,
+            371.0,
+            1263.0
+          ],
+          "text": "smear",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1273.0,
+            440.0,
+            1303.0
+          ],
+          "text": "PLATELET MORPHOLOGY",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            1274.0,
+            778.0,
+            1302.0
+          ],
+          "text": "Adequate",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1308.0,
+            290.0,
+            1337.0
+          ],
+          "text": "Peripheral",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            301.0,
+            1313.0,
+            371.0,
+            1333.0
+          ],
+          "text": "smear",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1360.0,
+            288.0,
+            1386.0
+          ],
+          "text": "Foot Note",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1400.0,
+            218.0,
+            1426.0
+          ],
+          "text": "Note",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            677.0,
+            1437.0,
+            1003.0,
+            1473.0
+          ],
+          "text": "*** End Of Report ***",
+          "confidence": 0.7408
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1037.0,
+            1815.0,
+            1262.0,
+            1843.0
+          ],
+          "text": "Dr.SHIRISH KHATU",
+          "confidence": 0.9762
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            1870.0,
+            1226.0,
+            1894.0
+          ],
+          "text": "CONSULTANT",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            1892.0,
+            1236.0,
+            1918.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            2024.0,
+            268.0,
+            2050.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.7648
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            2049.0,
+            201.0,
+            2069.0
+          ],
+          "text": "User",
+          "confidence": 0.4805
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            2046.0,
+            276.0,
+            2070.0
+          ],
+          "text": "10693",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            2069.0,
+            229.0,
+            2089.0
+          ],
+          "text": "Print Dt",
+          "confidence": 0.9356
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            2068.0,
+            452.0,
+            2092.0
+          ],
+          "text": "27-Apr-2025 10:44 AM",
+          "confidence": 0.6939
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            1396.0,
+            2069.0,
+            1514.0,
+            2097.0
+          ],
+          "text": "Page 5 of 5",
+          "confidence": 0.9899
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            2086.0,
+            900.0,
+            2110.0
+          ],
+          "text": "GENERAL",
+          "confidence": 0.6587
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            2206.0,
+            1544.0,
+            2247.0
+          ],
+          "text": "Reporting Stationery",
+          "confidence": 0.7517
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF PATHOLOGY\nD Y PATIL\nPlot No. 2, Sector\n5, Nerul,\n+91 22 2773 5957\nHOSPITAL\nNavi Mumbai\n400 706.\nM +74200 14168\nMaharashtra, India\nNABH\nNAVI MUMBAI\nW wwW.dypatilhospital com\nGld\nUHID NO / IP No\n4064030\nIP250426307\nBill Date\n27-Apr-2025 01:00 AM\nName\nMr\nOMPRAKASH HAWALE\nSample Date\n27-Apr-2025 01.27 AM\nAge\nGender\n51Y(s) / Male\nReporting Date\n27-Apr-2025 10.43 AM\nType\nBed No\nCASH\nDICU 2\nPVT\nSample No\nDoctor Name\nPATEL\nREPO RT\nLAB NO\nParameter\nResults\nUnits\nBiological Ref Range\nBasophils\nFlowcytometry and peripheral\nsmear\nAbsolute Neutrophils\n4\nx10^3/pL\n2\n0-7 . 0\nCalculated\nAbsolute Lymphocytes\n0\n8\nx10^3/uL\n2 . 0-8 . 0\nCalculaced\nAbsolute Eosinophils\n0\n2\nx10^3/uL\n0 . 02-0 .50\nCalculated\nAbsolute Monocytes\n0\nx10^3/uL\n0.2-1 . 0\nCalculated\nAbsolute Basophils\n0 . 1\nx10^3/uL\n0 . 01\n0 .10\nCalculated\nRBC MORPHOLOGY\nNormocytic,\nPeripheral\nsmear\nNormochromic\nWBC MORPHOLOGY\nNil\nPeripheral\nsmear\nPLATELET MORPHOLOGY\nAdequate\nPeripheral\nsmear\nFoot Note\nNote\n*** End Of Report ***\nDr.SHIRISH KHATU\nCONSULTANT\nPATHOLOGIST\nVerified By\nUser\n10693\nPrint Dt\n27-Apr-2025 10:44 AM\nPage 5 of 5\nGENERAL\nReporting Stationery",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Plot No.",
+          "biomarker_normalized": "Plot No.",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Plot No. 2, Sector",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "M +",
+          "biomarker_normalized": "M +",
+          "value": "74200",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "M +74200 14168",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "IP2",
+          "biomarker_normalized": "IP2",
+          "value": "50426307",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IP250426307",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "DICU",
+          "biomarker_normalized": "DICU",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DICU 2",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "x1",
+          "biomarker_normalized": "x1",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "x10^3/pL",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Page",
+          "biomarker_normalized": "Page",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Page 5 of 5",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 102,
+    "ocr_avg_confidence": 0.8668,
+    "parsed_row_count": 6
+  }
+}

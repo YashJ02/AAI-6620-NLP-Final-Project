@@ -1,0 +1,1749 @@
+{
+  "document_id": "BLR-0425-PA-0042483_Q-CamScanner0428202511.39_250428_1144@F.pdf_page_8",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042483_Q-CamScanner0428202511.39_250428_1144@F.pdf_page_8.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "U\nRoforenco:\nDR.DR MAMATHA\nVID:\nMrs:\nSamplo Colloctod At:\nRegistered On:\nVijaya Poly Cliriic And Diagnostlc Cenlre\n103.48 PM\nNo.111,ams Layout; Vidyaranya Pura\nPID NO:\nBongaluru\nCollected On:\n38 Ycar(s)\nSox:\nFamalo\nProcossing Locallon - Molropolls\n73.45PM\nAgc:\n1\nHoallhcaro Lld, 076/10,15/h\nReported On:\ncross, Malleshwaram,Bangaloro.\nJ08.40 PM\nCOMPLETE HAEMOGRAM WITH REFLEX RETICULOCYTE COUNT\nObserved_Value\nUnlt\nBlological Reterence Interval\n(Hb)\n96\ngm%\n11.5-16.5\nmncasuremenl)\nCorpuscular Volume)\n79.7\n(L\n76-96\n(Dcrlied trom RBC Histogram)\nMCH (Mcan Corpuscular Hb)\n26.4\npg\n27-32\n(Cak-ulated)\nMCHC (Mean Corpuscular Hb Concn ) 33.1\n%\n30-35\n(Cal~Jlzred)\nRDW (Red Cell Distribution Width)\n14.5\n%\n<15\n(Deived from RBC Histogram)\nAbsolute Lymphocyte Count\n2894.6\ncellslcu.mm\nUpto 4600\n(Ca culered )\nAbsolute Monocyte Count\n451.0\ncellslcu.mm\nUpto 1380\n(Calculated)\nAbsolute Neutrophils Count\n4698.6\ncellslcu mm\nUpto 8625\n(Calc_lared)\nAbsolute Eosinophil Count\n106.6\ncellslcu.mm\nUpto 444\n(Calculated)\nAbsolutc Basophil Count\n49.2\ncells/cu.mm\nUpto 110\n(Calculated)\nNeutrophils\n57.3\n%\n40-75\n(Electric Impedance method)\nLymphocytes\n35.3\n%\n20-40\n(Eleciric Impedance melhod)\nMonocytes\n5.5\n%\n2-12\n(Eiectric Impedance method)\nEosinophils\n13\n%\n3-8\n(Electric Impedancc melhod)\nBasophils\n0.6\n%\n0-2\n(Eieclric Impedance melhod)\nPERIPHERAL BLOOD SMEAR\nRBCs: predominanlly normocytic normochromiclnormocytic hypochromic\nNo immature RBCs seen_\nNo evidence of haemolysis seen:\nWBCs: normal in number; distribution and morphology:\nPlatelets: count is at upper Iimit of normal range\nIMPRESSION: NORMOCYTIC HYPOCHROMIC ANAEMIA:\nSuggested: Clinical correlallon\nmarked with NABL symbol are accrediled by NABL vlde Cerlificate no MC-5857\nReler t0 conditions ol reportlng\nResults relate only\nt9the=\nKcelvedcollected\nDr. Bharathl N $\nKMC:80778\nSpecialist\nLIS\nINNER HEALTH\nREVEALEB\nScanned with CamScanner\nVANITHA\nvestlgalion\nHaemoglobin\n(Pho\"cina\n(Mean\nMcV\n(Microscopy)\nTests\n#Q\nMETROPC\nPATHOLOGiST\nThe\nParhology",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            297.0,
+            115.0,
+            317.0,
+            139.0
+          ],
+          "text": "U",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            685.0,
+            108.0,
+            814.0,
+            140.0
+          ],
+          "text": "Roforenco:",
+          "confidence": 0.5936
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            114.0,
+            1038.0,
+            146.0
+          ],
+          "text": "DR.DR MAMATHA",
+          "confidence": 0.7576
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            122.0,
+            1208.0,
+            150.0
+          ],
+          "text": "VID:",
+          "confidence": 0.9553
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            130.0,
+            193.0,
+            161.0
+          ],
+          "text": "Mrs:",
+          "confidence": 0.6471
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            683.0,
+            151.0,
+            926.0,
+            184.0
+          ],
+          "text": "Samplo Colloctod At:",
+          "confidence": 0.8094
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1276.0,
+            158.0,
+            1439.0,
+            194.0
+          ],
+          "text": "Registered On:",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            175.0,
+            1115.0,
+            216.0
+          ],
+          "text": "Vijaya Poly Cliriic And Diagnostlc Cenlre",
+          "confidence": 0.541
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            194.0,
+            1428.0,
+            222.0
+          ],
+          "text": "103.48 PM",
+          "confidence": 0.4935
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            685.0,
+            203.0,
+            1083.0,
+            243.0
+          ],
+          "text": "No.111,ams Layout; Vidyaranya Pura",
+          "confidence": 0.4303
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            225.0,
+            233.0,
+            263.0
+          ],
+          "text": "PID NO:",
+          "confidence": 0.9794
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            230.0,
+            799.0,
+            267.0
+          ],
+          "text": "Bongaluru",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1297.0,
+            223.0,
+            1445.0,
+            254.0
+          ],
+          "text": "Collected On:",
+          "confidence": 0.7568
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            256.0,
+            316.0,
+            286.0
+          ],
+          "text": "38 Ycar(s)",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            252.0,
+            408.0,
+            276.0
+          ],
+          "text": "Sox:",
+          "confidence": 0.5534
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            248.0,
+            504.0,
+            276.0
+          ],
+          "text": "Famalo",
+          "confidence": 0.6468
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            258.0,
+            1035.0,
+            296.0
+          ],
+          "text": "Procossing Locallon - Molropolls",
+          "confidence": 0.4509
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1324.0,
+            260.0,
+            1412.0,
+            286.0
+          ],
+          "text": "73.45PM",
+          "confidence": 0.3082
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            270.0,
+            196.0,
+            298.0
+          ],
+          "text": "Agc:",
+          "confidence": 0.9857
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            199.0,
+            140.0,
+            396.0
+          ],
+          "text": "1",
+          "confidence": 0.6917
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            284.0,
+            985.0,
+            321.0
+          ],
+          "text": "Hoallhcaro Lld, 076/10,15/h",
+          "confidence": 0.4348
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            293.0,
+            1445.0,
+            322.0
+          ],
+          "text": "Reported On:",
+          "confidence": 0.7013
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            312.0,
+            1027.0,
+            349.0
+          ],
+          "text": "cross, Malleshwaram,Bangaloro.",
+          "confidence": 0.5825
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            330.0,
+            1432.0,
+            356.0
+          ],
+          "text": "J08.40 PM",
+          "confidence": 0.5751
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            353.0,
+            405.0,
+            1193.0,
+            441.0
+          ],
+          "text": "COMPLETE HAEMOGRAM WITH REFLEX RETICULOCYTE COUNT",
+          "confidence": 0.8159
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            569.0,
+            458.0,
+            780.0,
+            497.0
+          ],
+          "text": "Observed_Value",
+          "confidence": 0.7639
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            462.0,
+            962.0,
+            494.0
+          ],
+          "text": "Unlt",
+          "confidence": 0.6063
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1081.0,
+            461.0,
+            1449.0,
+            499.0
+          ],
+          "text": "Blological Reterence Interval",
+          "confidence": 0.7902
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            258.0,
+            512.0,
+            318.0,
+            544.0
+          ],
+          "text": "(Hb)",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            570.0,
+            508.0,
+            612.0,
+            536.0
+          ],
+          "text": "96",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            897.0,
+            504.0,
+            970.0,
+            544.0
+          ],
+          "text": "gm%",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            508.0,
+            1200.0,
+            536.0
+          ],
+          "text": "11.5-16.5",
+          "confidence": 0.7652
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            539.0,
+            352.0,
+            568.0
+          ],
+          "text": "mncasuremenl)",
+          "confidence": 0.3563
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            579.0,
+            509.0,
+            618.0
+          ],
+          "text": "Corpuscular Volume)",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            582.0,
+            626.0,
+            610.0
+          ],
+          "text": "79.7",
+          "confidence": 0.622
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            582.0,
+            928.0,
+            610.0
+          ],
+          "text": "(L",
+          "confidence": 0.28
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            580.0,
+            1158.0,
+            610.0
+          ],
+          "text": "76-96",
+          "confidence": 0.8745
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            613.0,
+            379.0,
+            653.0
+          ],
+          "text": "(Dcrlied trom RBC Histogram)",
+          "confidence": 0.3509
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            654.0,
+            451.0,
+            699.0
+          ],
+          "text": "MCH (Mcan Corpuscular Hb)",
+          "confidence": 0.9593
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            654.0,
+            630.0,
+            684.0
+          ],
+          "text": "26.4",
+          "confidence": 0.9327
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            658.0,
+            936.0,
+            688.0
+          ],
+          "text": "pg",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            652.0,
+            1156.0,
+            680.0
+          ],
+          "text": "27-32",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            689.0,
+            215.0,
+            725.0
+          ],
+          "text": "(Cak-ulated)",
+          "confidence": 0.415
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            725.0,
+            628.0,
+            773.0
+          ],
+          "text": "MCHC (Mean Corpuscular Hb Concn ) 33.1",
+          "confidence": 0.7145
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            726.0,
+            930.0,
+            756.0
+          ],
+          "text": "%",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            726.0,
+            1158.0,
+            756.0
+          ],
+          "text": "30-35",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            785.0,
+            215.0,
+            818.0
+          ],
+          "text": "(Cal~Jlzred)",
+          "confidence": 0.3772
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            825.0,
+            525.0,
+            865.0
+          ],
+          "text": "RDW (Red Cell Distribution Width)",
+          "confidence": 0.7849
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            826.0,
+            632.0,
+            856.0
+          ],
+          "text": "14.5",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            824.0,
+            930.0,
+            854.0
+          ],
+          "text": "%",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            822.0,
+            1140.0,
+            852.0
+          ],
+          "text": "<15",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            854.0,
+            383.0,
+            891.0
+          ],
+          "text": "(Deived from RBC Histogram)",
+          "confidence": 0.6296
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            897.0,
+            453.0,
+            937.0
+          ],
+          "text": "Absolute Lymphocyte Count",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            898.0,
+            660.0,
+            928.0
+          ],
+          "text": "2894.6",
+          "confidence": 0.922
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            898.0,
+            1042.0,
+            926.0
+          ],
+          "text": "cellslcu.mm",
+          "confidence": 0.8145
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1079.0,
+            893.0,
+            1209.0,
+            931.0
+          ],
+          "text": "Upto 4600",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            931.0,
+            214.0,
+            960.0
+          ],
+          "text": "(Ca culered )",
+          "confidence": 0.2581
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            972.0,
+            424.0,
+            1005.0
+          ],
+          "text": "Absolute Monocyte Count",
+          "confidence": 0.9797
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            970.0,
+            646.0,
+            1002.0
+          ],
+          "text": "451.0",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            970.0,
+            1040.0,
+            998.0
+          ],
+          "text": "cellslcu.mm",
+          "confidence": 0.5859
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1077.0,
+            965.0,
+            1205.0,
+            1001.0
+          ],
+          "text": "Upto 1380",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1004.0,
+            216.0,
+            1032.0
+          ],
+          "text": "(Calculated)",
+          "confidence": 0.8156
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1042.0,
+            449.0,
+            1080.0
+          ],
+          "text": "Absolute Neutrophils Count",
+          "confidence": 0.8214
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            1042.0,
+            662.0,
+            1072.0
+          ],
+          "text": "4698.6",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            1040.0,
+            1038.0,
+            1068.0
+          ],
+          "text": "cellslcu mm",
+          "confidence": 0.7513
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1075.0,
+            1037.0,
+            1203.0,
+            1073.0
+          ],
+          "text": "Upto 8625",
+          "confidence": 0.9318
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1076.0,
+            216.0,
+            1100.0
+          ],
+          "text": "(Calc_lared)",
+          "confidence": 0.6207
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1115.0,
+            439.0,
+            1151.0
+          ],
+          "text": "Absolute Eosinophil Count",
+          "confidence": 0.6578
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1114.0,
+            646.0,
+            1142.0
+          ],
+          "text": "106.6",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            894.0,
+            1110.0,
+            1036.0,
+            1138.0
+          ],
+          "text": "cellslcu.mm",
+          "confidence": 0.7903
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            1107.0,
+            1185.0,
+            1143.0
+          ],
+          "text": "Upto 444",
+          "confidence": 0.9304
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1146.0,
+            216.0,
+            1172.0
+          ],
+          "text": "(Calculated)",
+          "confidence": 0.9453
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1187.0,
+            413.0,
+            1223.0
+          ],
+          "text": "Absolutc Basophil Count",
+          "confidence": 0.737
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1184.0,
+            632.0,
+            1212.0
+          ],
+          "text": "49.2",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            1182.0,
+            1038.0,
+            1208.0
+          ],
+          "text": "cells/cu.mm",
+          "confidence": 0.5545
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1075.0,
+            1177.0,
+            1187.0,
+            1213.0
+          ],
+          "text": "Upto 110",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1216.0,
+            218.0,
+            1242.0
+          ],
+          "text": "(Calculated)",
+          "confidence": 0.8915
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1256.0,
+            249.0,
+            1292.0
+          ],
+          "text": "Neutrophils",
+          "confidence": 0.9303
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1256.0,
+            632.0,
+            1284.0
+          ],
+          "text": "57.3",
+          "confidence": 0.9634
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1252.0,
+            926.0,
+            1278.0
+          ],
+          "text": "%",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1248.0,
+            1148.0,
+            1276.0
+          ],
+          "text": "40-75",
+          "confidence": 0.6633
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1286.0,
+            368.0,
+            1312.0
+          ],
+          "text": "(Electric Impedance method)",
+          "confidence": 0.8745
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1327.0,
+            271.0,
+            1364.0
+          ],
+          "text": "Lymphocytes",
+          "confidence": 0.8823
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1326.0,
+            634.0,
+            1356.0
+          ],
+          "text": "35.3",
+          "confidence": 0.6253
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1322.0,
+            926.0,
+            1350.0
+          ],
+          "text": "%",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1320.0,
+            1150.0,
+            1350.0
+          ],
+          "text": "20-40",
+          "confidence": 0.5596
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1356.0,
+            368.0,
+            1384.0
+          ],
+          "text": "(Eleciric Impedance melhod)",
+          "confidence": 0.7212
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1395.0,
+            244.0,
+            1435.0
+          ],
+          "text": "Monocytes",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1398.0,
+            620.0,
+            1428.0
+          ],
+          "text": "5.5",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1392.0,
+            926.0,
+            1420.0
+          ],
+          "text": "%",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1390.0,
+            1134.0,
+            1418.0
+          ],
+          "text": "2-12",
+          "confidence": 0.9899
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1424.0,
+            370.0,
+            1454.0
+          ],
+          "text": "(Eiectric Impedance method)",
+          "confidence": 0.6319
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1464.0,
+            256.0,
+            1504.0
+          ],
+          "text": "Eosinophils",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1470.0,
+            620.0,
+            1502.0
+          ],
+          "text": "13",
+          "confidence": 0.9342
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1464.0,
+            926.0,
+            1492.0
+          ],
+          "text": "%",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            1462.0,
+            1120.0,
+            1488.0
+          ],
+          "text": "3-8",
+          "confidence": 0.8238
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1491.0,
+            371.0,
+            1527.0
+          ],
+          "text": "(Electric Impedancc melhod)",
+          "confidence": 0.6407
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            1532.0,
+            236.0,
+            1572.0
+          ],
+          "text": "Basophils",
+          "confidence": 0.9502
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1540.0,
+            618.0,
+            1566.0
+          ],
+          "text": "0.6",
+          "confidence": 0.9915
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1534.0,
+            926.0,
+            1560.0
+          ],
+          "text": "%",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1532.0,
+            1120.0,
+            1558.0
+          ],
+          "text": "0-2",
+          "confidence": 0.8464
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1557.0,
+            371.0,
+            1596.0
+          ],
+          "text": "(Eieclric Impedance melhod)",
+          "confidence": 0.6424
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            1597.0,
+            475.0,
+            1641.0
+          ],
+          "text": "PERIPHERAL BLOOD SMEAR",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            1591.0,
+            1416.0,
+            1639.0
+          ],
+          "text": "RBCs: predominanlly normocytic normochromiclnormocytic hypochromic",
+          "confidence": 0.5843
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            577.0,
+            1629.0,
+            867.0,
+            1665.0
+          ],
+          "text": "No immature RBCs seen_",
+          "confidence": 0.9608
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            874.0,
+            1626.0,
+            1258.0,
+            1656.0
+          ],
+          "text": "No evidence of haemolysis seen:",
+          "confidence": 0.7941
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            577.0,
+            1678.0,
+            1207.0,
+            1717.0
+          ],
+          "text": "WBCs: normal in number; distribution and morphology:",
+          "confidence": 0.7561
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            1734.0,
+            1124.0,
+            1766.0
+          ],
+          "text": "Platelets: count is at upper Iimit of normal range",
+          "confidence": 0.5652
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            1779.0,
+            1269.0,
+            1823.0
+          ],
+          "text": "IMPRESSION: NORMOCYTIC HYPOCHROMIC ANAEMIA:",
+          "confidence": 0.8534
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            577.0,
+            1839.0,
+            929.0,
+            1877.0
+          ],
+          "text": "Suggested: Clinical correlallon",
+          "confidence": 0.966
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            275.0,
+            1979.0,
+            1005.0,
+            2018.0
+          ],
+          "text": "marked with NABL symbol are accrediled by NABL vlde Cerlificate no MC-5857",
+          "confidence": 0.6192
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            2070.0,
+            694.0,
+            2098.0
+          ],
+          "text": "Reler t0 conditions ol reportlng",
+          "confidence": 0.7056
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            2074.0,
+            994.0,
+            2100.0
+          ],
+          "text": "Results relate only",
+          "confidence": 0.9354
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            991.0,
+            2075.0,
+            1055.0,
+            2115.0
+          ],
+          "text": "t9the=",
+          "confidence": 0.0819
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            1147.0,
+            2062.0,
+            1288.0,
+            2099.0
+          ],
+          "text": "Kcelvedcollected",
+          "confidence": 0.4997
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            2108.0,
+            1172.0,
+            2140.0
+          ],
+          "text": "Dr. Bharathl N $",
+          "confidence": 0.6878
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            1277.0,
+            2109.0,
+            1402.0,
+            2146.0
+          ],
+          "text": "KMC:80778",
+          "confidence": 0.923
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            2166.0,
+            361.0,
+            2207.0
+          ],
+          "text": "Specialist",
+          "confidence": 0.9903
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            308.0,
+            2106.0,
+            396.0,
+            2178.0
+          ],
+          "text": "LIS",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            543.0,
+            2147.0,
+            886.0,
+            2203.0
+          ],
+          "text": "INNER HEALTH",
+          "confidence": 0.5293
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            2125.0,
+            1128.0,
+            2211.0
+          ],
+          "text": "REVEALEB",
+          "confidence": 0.5963
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            2277.0,
+            1428.0,
+            2310.0
+          ],
+          "text": "Scanned with CamScanner",
+          "confidence": 0.8424
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            189.41000317999047,
+            110.90042644485253,
+            297.58999682000956,
+            152.09957355514746
+          ],
+          "text": "VANITHA",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            71.72307231792384,
+            470.56995247179503,
+            215.27692768207615,
+            522.430047528205
+          ],
+          "text": "vestlgalion",
+          "confidence": 0.7094
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            106.43926240134208,
+            510.73508893593265,
+            262.5607375986579,
+            561.2649110640674
+          ],
+          "text": "Haemoglobin",
+          "confidence": 0.7761
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            106.98198161801106,
+            545.0177044215025,
+            218.01801838198892,
+            581.9822955784975
+          ],
+          "text": "(Pho\"cina",
+          "confidence": 0.1657
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            159.41000317999047,
+            585.6739820986375,
+            237.58999682000953,
+            622.3260179013625
+          ],
+          "text": "(Mean",
+          "confidence": 0.9668
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            107.28026567843061,
+            591.7507599143709,
+            167.7197343215694,
+            630.2492400856291
+          ],
+          "text": "McV",
+          "confidence": 0.5151
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            120.01544066910029,
+            1623.1154281570775,
+            233.9845593308997,
+            1663.8845718429225
+          ],
+          "text": "(Microscopy)",
+          "confidence": 0.7256
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            222.13266297383416,
+            1979.1867537178289,
+            279.86733702616584,
+            2011.8132462821711
+          ],
+          "text": "Tests",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            1032.460503084076,
+            2012.4859938244322,
+            1196.539496915924,
+            2123.514006175568
+          ],
+          "text": "#Q",
+          "confidence": 0.1185
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            57.08359578356031,
+            2062.048434319983,
+            278.9164042164397,
+            2175.951565680017
+          ],
+          "text": "METROPC",
+          "confidence": 0.7928
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            1115.542304238443,
+            2117.250365942935,
+            1279.457695761557,
+            2158.749634057065
+          ],
+          "text": "PATHOLOGiST",
+          "confidence": 0.5845
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            103.13140013347771,
+            2136.1448741467184,
+            157.8685998665223,
+            2172.8551258532816
+          ],
+          "text": "The",
+          "confidence": 0.9832
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            2137.0526893395777,
+            262.0,
+            2205.9473106604223
+          ],
+          "text": "Parhology",
+          "confidence": 0.6471
+        }
+      ]
+    }
+  ],
+  "full_text": "U\nRoforenco:\nDR.DR MAMATHA\nVID:\nMrs:\nSamplo Colloctod At:\nRegistered On:\nVijaya Poly Cliriic And Diagnostlc Cenlre\n103.48 PM\nNo.111,ams Layout; Vidyaranya Pura\nPID NO:\nBongaluru\nCollected On:\n38 Ycar(s)\nSox:\nFamalo\nProcossing Locallon - Molropolls\n73.45PM\nAgc:\n1\nHoallhcaro Lld, 076/10,15/h\nReported On:\ncross, Malleshwaram,Bangaloro.\nJ08.40 PM\nCOMPLETE HAEMOGRAM WITH REFLEX RETICULOCYTE COUNT\nObserved_Value\nUnlt\nBlological Reterence Interval\n(Hb)\n96\ngm%\n11.5-16.5\nmncasuremenl)\nCorpuscular Volume)\n79.7\n(L\n76-96\n(Dcrlied trom RBC Histogram)\nMCH (Mcan Corpuscular Hb)\n26.4\npg\n27-32\n(Cak-ulated)\nMCHC (Mean Corpuscular Hb Concn ) 33.1\n%\n30-35\n(Cal~Jlzred)\nRDW (Red Cell Distribution Width)\n14.5\n%\n<15\n(Deived from RBC Histogram)\nAbsolute Lymphocyte Count\n2894.6\ncellslcu.mm\nUpto 4600\n(Ca culered )\nAbsolute Monocyte Count\n451.0\ncellslcu.mm\nUpto 1380\n(Calculated)\nAbsolute Neutrophils Count\n4698.6\ncellslcu mm\nUpto 8625\n(Calc_lared)\nAbsolute Eosinophil Count\n106.6\ncellslcu.mm\nUpto 444\n(Calculated)\nAbsolutc Basophil Count\n49.2\ncells/cu.mm\nUpto 110\n(Calculated)\nNeutrophils\n57.3\n%\n40-75\n(Electric Impedance method)\nLymphocytes\n35.3\n%\n20-40\n(Eleciric Impedance melhod)\nMonocytes\n5.5\n%\n2-12\n(Eiectric Impedance method)\nEosinophils\n13\n%\n3-8\n(Electric Impedancc melhod)\nBasophils\n0.6\n%\n0-2\n(Eieclric Impedance melhod)\nPERIPHERAL BLOOD SMEAR\nRBCs: predominanlly normocytic normochromiclnormocytic hypochromic\nNo immature RBCs seen_\nNo evidence of haemolysis seen:\nWBCs: normal in number; distribution and morphology:\nPlatelets: count is at upper Iimit of normal range\nIMPRESSION: NORMOCYTIC HYPOCHROMIC ANAEMIA:\nSuggested: Clinical correlallon\nmarked with NABL symbol are accrediled by NABL vlde Cerlificate no MC-5857\nReler t0 conditions ol reportlng\nResults relate only\nt9the=\nKcelvedcollected\nDr. Bharathl N $\nKMC:80778\nSpecialist\nLIS\nINNER HEALTH\nREVEALEB\nScanned with CamScanner\nVANITHA\nvestlgalion\nHaemoglobin\n(Pho\"cina\n(Mean\nMcV\n(Microscopy)\nTests\n#Q\nMETROPC\nPATHOLOGiST\nThe\nParhology",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "No.",
+          "biomarker_normalized": "No.",
+          "value": "111",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No.111,ams Layout; Vidyaranya Pura",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Hoallhcaro Lld,",
+          "biomarker_normalized": "Hoallhcaro Lld,",
+          "value": "076",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Hoallhcaro Lld, 076/10,15/h",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "J0",
+          "biomarker_normalized": "J0",
+          "value": "8.40",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J08.40 PM",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MCHC (Mean Corpuscular Hb Concn )",
+          "biomarker_normalized": "MCHC (Mean Corpuscular Hb Concn )",
+          "value": "33.1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MCHC (Mean Corpuscular Hb Concn ) 33.1",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "4600",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 4600",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "1380",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 1380",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "8625",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 8625",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "444",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 444",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "110",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 110",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "marked with NABL symbol are accrediled by NABL vlde Cerlificate no MC",
+          "biomarker_normalized": "marked with NABL symbol are accrediled by NABL vlde Cerlificate no MC",
+          "value": "5857",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "marked with NABL symbol are accrediled by NABL vlde Cerlificate no MC-5857",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "KMC",
+          "biomarker_normalized": "KMC",
+          "value": "80778",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "KMC:80778",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 135,
+    "ocr_avg_confidence": 0.7809,
+    "parsed_row_count": 11
+  }
+}

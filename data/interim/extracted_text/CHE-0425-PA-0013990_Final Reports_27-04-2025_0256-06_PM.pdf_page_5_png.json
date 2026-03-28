@@ -1,0 +1,1080 @@
+{
+  "document_id": "CHE-0425-PA-0013990_Final Reports_27-04-2025_0256-06_PM.pdf_page_5",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0013990_Final Reports_27-04-2025_0256-06_PM.pdf_page_5.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SRV HOSPITALS\nThe\nNew Possible\nNIKHIL MAKARAND VAIDYA [ SRVD-9491 ]\nFORMERLY: MAMemaiestal:\nAge\n57 Yr\nMale\nColleetion on\n24-014-2025 09.05 PM\nSERO-470\nID\nD-RI2S-26-259\nOrder\n14771\nAccepted on\n24-04-2025 (9.05 P'\nReq by\nDr: UJWAL RAMTEKE\nReport Date\n24-04-20125 09.24 PV\nWard\nBED-[0[\nSD\nSuper-Deluxe\nStatus\nFinalized\nSample Type\nSERUM\nDEPARTMENT OF SEROLOGY\nINVESTIGATIONS\nRESULT\nREFERANCE RANGE\nHIV IAND M RAPID\nHII\nNON RIAACTVA:\nNON RIMA( TWVI:\nM >\nNON REACTIVE\nNON REACTIVE\ntes :\nHI [ & H Rapid is scTeemng lest Posutive results have to he confirmedl hy Quantitative\nassay(ELISA Western Klot)\nAUSTRALIAVANTIGEN(HBs.Ag)\nNON REACTIVE\nNon-Reactive\nVotes:\nHISACi Rapid is screening lesl Positve results hav a Io he contirmed by Quantitative\nAS91\nHCV Rapid\nNON REACTIVE\nNon-Rcactive\nVotes:\nIC V Rapid is screening test Positive results\nVcaS\nEND OF REPORT\nTftsurc\nI/ N\nXIAASHOK KAMBLI:\nPRiaRi) IsY\nDRFURQAN MURUMKAK\nMB B3.S.MH(Path)\nN2(y) 412 (385\nConsultu Patholozisl\nScan Ihe QR code U downloatd Vr e-1cq\"t\nDOMDIVU\nPage 1 of\nPrinted By : Ms_NAMRATA ASHOK KAMBILE 24-042025.09.J4PM\nSRV Hospitals\nDombivli, P 43, Phase Il, Next to\nOperated by Tristar Healthcare LLP\nICICI Bank, MIDC, Dombivli (E)\n421203\nWWWsrvhospitals com\n022\n5085 OOOO / 8291 89 3641/ 8603 600 600\ninfo@srvmamatahospital.com\nAccaloitld\nRee\nRe",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1185.0,
+            280.0,
+            1568.0,
+            334.0
+          ],
+          "text": "SRV HOSPITALS",
+          "confidence": 0.9455
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1187.0,
+            343.0,
+            1271.0,
+            381.0
+          ],
+          "text": "The",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1283.0,
+            340.0,
+            1567.0,
+            382.0
+          ],
+          "text": "New Possible",
+          "confidence": 0.9912
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            375.0,
+            1065.0,
+            437.0
+          ],
+          "text": "NIKHIL MAKARAND VAIDYA [ SRVD-9491 ]",
+          "confidence": 0.9921
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            400.0,
+            1548.0,
+            426.0
+          ],
+          "text": "FORMERLY: MAMemaiestal:",
+          "confidence": 0.0729
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            434.0,
+            166.0,
+            460.0
+          ],
+          "text": "Age",
+          "confidence": 0.4169
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            434.0,
+            302.0,
+            458.0
+          ],
+          "text": "57 Yr",
+          "confidence": 0.5368
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            436.0,
+            366.0,
+            460.0
+          ],
+          "text": "Male",
+          "confidence": 0.9778
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            444.0,
+            1042.0,
+            472.0
+          ],
+          "text": "Colleetion on",
+          "confidence": 0.9789
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            448.0,
+            1282.0,
+            476.0
+          ],
+          "text": "24-014-2025 09.05 PM",
+          "confidence": 0.6514
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1294.0,
+            452.0,
+            1402.0,
+            478.0
+          ],
+          "text": "SERO-470",
+          "confidence": 0.8841
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            465.0,
+            195.0,
+            485.0
+          ],
+          "text": "ID",
+          "confidence": 0.2801
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            464.0,
+            392.0,
+            490.0
+          ],
+          "text": "D-RI2S-26-259",
+          "confidence": 0.6802
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            468.0,
+            468.0,
+            492.0
+          ],
+          "text": "Order",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            488.0,
+            468.0,
+            550.0,
+            494.0
+          ],
+          "text": "14771",
+          "confidence": 0.9364
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            475.0,
+            1034.0,
+            505.0
+          ],
+          "text": "Accepted on",
+          "confidence": 0.9416
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            478.0,
+            1282.0,
+            506.0
+          ],
+          "text": "24-04-2025 (9.05 P'",
+          "confidence": 0.3285
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            494.0,
+            196.0,
+            523.0
+          ],
+          "text": "Req by",
+          "confidence": 0.7894
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            494.0,
+            476.0,
+            524.0
+          ],
+          "text": "Dr: UJWAL RAMTEKE",
+          "confidence": 0.675
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            507.0,
+            1034.0,
+            539.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8589
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1063.0,
+            509.0,
+            1280.0,
+            538.0
+          ],
+          "text": "24-04-20125 09.24 PV",
+          "confidence": 0.4085
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            523.0,
+            182.0,
+            551.0
+          ],
+          "text": "Ward",
+          "confidence": 0.7529
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            528.0,
+            332.0,
+            552.0
+          ],
+          "text": "BED-[0[",
+          "confidence": 0.7771
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            528.0,
+            382.0,
+            554.0
+          ],
+          "text": "SD",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            393.0,
+            529.0,
+            532.0,
+            560.0
+          ],
+          "text": "Super-Deluxe",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            538.0,
+            974.0,
+            564.0
+          ],
+          "text": "Status",
+          "confidence": 0.7639
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            542.0,
+            1160.0,
+            568.0
+          ],
+          "text": "Finalized",
+          "confidence": 0.7189
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            901.0,
+            571.0,
+            1040.0,
+            602.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.9767
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1062.0,
+            574.0,
+            1150.0,
+            600.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            571.0,
+            612.0,
+            1088.0,
+            661.0
+          ],
+          "text": "DEPARTMENT OF SEROLOGY",
+          "confidence": 0.8128
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            658.0,
+            304.0,
+            688.0
+          ],
+          "text": "INVESTIGATIONS",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            763.0,
+            670.0,
+            852.0,
+            698.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            678.0,
+            1272.0,
+            704.0
+          ],
+          "text": "REFERANCE RANGE",
+          "confidence": 0.9868
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            702.0,
+            372.0,
+            728.0
+          ],
+          "text": "HIV IAND M RAPID",
+          "confidence": 0.324
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            738.0,
+            214.0,
+            762.0
+          ],
+          "text": "HII",
+          "confidence": 0.7078
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            763.0,
+            747.0,
+            940.0,
+            776.0
+          ],
+          "text": "NON RIAACTVA:",
+          "confidence": 0.2434
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1049.0,
+            751.0,
+            1228.0,
+            780.0
+          ],
+          "text": "NON RIMA( TWVI:",
+          "confidence": 0.1993
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            772.0,
+            232.0,
+            796.0
+          ],
+          "text": "M >",
+          "confidence": 0.3276
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            782.0,
+            938.0,
+            810.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.9308
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1048.0,
+            788.0,
+            1228.0,
+            814.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.9591
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            810.0,
+            184.0,
+            834.0
+          ],
+          "text": "tes :",
+          "confidence": 0.3143
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            811.0,
+            1041.0,
+            853.0
+          ],
+          "text": "HI [ & H Rapid is scTeemng lest Posutive results have to he confirmedl hy Quantitative",
+          "confidence": 0.1574
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            828.0,
+            1312.0,
+            856.0
+          ],
+          "text": "assay(ELISA Western Klot)",
+          "confidence": 0.3716
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            856.0,
+            511.0,
+            895.0
+          ],
+          "text": "AUSTRALIAVANTIGEN(HBs.Ag)",
+          "confidence": 0.3928
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            870.0,
+            946.0,
+            898.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.6502
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1045.0,
+            875.0,
+            1190.0,
+            903.0
+          ],
+          "text": "Non-Reactive",
+          "confidence": 0.9115
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            896.0,
+            184.0,
+            920.0
+          ],
+          "text": "Votes:",
+          "confidence": 0.2899
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            897.0,
+            1019.0,
+            939.0
+          ],
+          "text": "HISACi Rapid is screening lesl Positve results hav a Io he contirmed by Quantitative",
+          "confidence": 0.1492
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1017.0,
+            919.0,
+            1075.0,
+            939.0
+          ],
+          "text": "AS91",
+          "confidence": 0.0602
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            948.0,
+            270.0,
+            976.0
+          ],
+          "text": "HCV Rapid",
+          "confidence": 0.6747
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            958.0,
+            946.0,
+            986.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.4786
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1045.0,
+            963.0,
+            1188.0,
+            991.0
+          ],
+          "text": "Non-Rcactive",
+          "confidence": 0.825
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            982.0,
+            181.0,
+            1012.0
+          ],
+          "text": "Votes:",
+          "confidence": 0.4377
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            985.0,
+            633.0,
+            1021.0
+          ],
+          "text": "IC V Rapid is screening test Positive results",
+          "confidence": 0.431
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            961.0,
+            1007.0,
+            1041.0,
+            1025.0
+          ],
+          "text": "VcaS",
+          "confidence": 0.1113
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1060.0,
+            918.0,
+            1088.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.8776
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1315.0,
+            1191.0,
+            1465.0,
+            1253.0
+          ],
+          "text": "Tftsurc",
+          "confidence": 0.0952
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1242.0,
+            196.0,
+            1268.0
+          ],
+          "text": "I/ N",
+          "confidence": 0.3636
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            1244.0,
+            464.0,
+            1272.0
+          ],
+          "text": "XIAASHOK KAMBLI:",
+          "confidence": 0.926
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1272.0,
+            274.0,
+            1302.0
+          ],
+          "text": "PRiaRi) IsY",
+          "confidence": 0.1519
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            1262.0,
+            1524.0,
+            1294.0
+          ],
+          "text": "DRFURQAN MURUMKAK",
+          "confidence": 0.749
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1330.0,
+            1298.0,
+            1524.0,
+            1328.0
+          ],
+          "text": "MB B3.S.MH(Path)",
+          "confidence": 0.2046
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            1330.0,
+            1524.0,
+            1356.0
+          ],
+          "text": "N2(y) 412 (385",
+          "confidence": 0.0648
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1303.0,
+            1360.0,
+            1524.0,
+            1393.0
+          ],
+          "text": "Consultu Patholozisl",
+          "confidence": 0.4583
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1111.0,
+            1391.0,
+            1535.0,
+            1427.0
+          ],
+          "text": "Scan Ihe QR code U downloatd Vr e-1cq\"t",
+          "confidence": 0.2011
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1329.0,
+            1737.0,
+            1455.0,
+            1773.0
+          ],
+          "text": "DOMDIVU",
+          "confidence": 0.203
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1431.0,
+            2085.0,
+            1513.0,
+            2106.0
+          ],
+          "text": "Page 1 of",
+          "confidence": 0.9725
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            963.0,
+            2093.0,
+            1528.0,
+            2122.0
+          ],
+          "text": "Printed By : Ms_NAMRATA ASHOK KAMBILE 24-042025.09.J4PM",
+          "confidence": 0.2631
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            2153.0,
+            236.0,
+            2184.0
+          ],
+          "text": "SRV Hospitals",
+          "confidence": 0.6798
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            2152.0,
+            632.0,
+            2182.0
+          ],
+          "text": "Dombivli, P 43, Phase Il, Next to",
+          "confidence": 0.5594
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            971.0,
+            2143.0,
+            1374.0,
+            2174.0
+          ],
+          "text": "Operated by Tristar Healthcare LLP",
+          "confidence": 0.937
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            60.0,
+            2193.0,
+            428.0,
+            2226.0
+          ],
+          "text": "ICICI Bank, MIDC, Dombivli (E)",
+          "confidence": 0.5363
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            2192.0,
+            534.0,
+            2222.0
+          ],
+          "text": "421203",
+          "confidence": 0.7903
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            2198.0,
+            1298.0,
+            2226.0
+          ],
+          "text": "WWWsrvhospitals com",
+          "confidence": 0.8694
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            2252.0,
+            120.0,
+            2280.0
+          ],
+          "text": "022",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            2250.0,
+            656.0,
+            2280.0
+          ],
+          "text": "5085 OOOO / 8291 89 3641/ 8603 600 600",
+          "confidence": 0.4096
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            2250.0,
+            1378.0,
+            2280.0
+          ],
+          "text": "info@srvmamatahospital.com",
+          "confidence": 0.8714
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1511.0,
+            2257.0,
+            1571.0,
+            2269.0
+          ],
+          "text": "Accaloitld",
+          "confidence": 0.581
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            116.14202236634395,
+            458.1638810551212,
+            168.85797763365605,
+            492.8361189448788
+          ],
+          "text": "Ree",
+          "confidence": 0.6851
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1299.1478104815556,
+            1326.1638810551212,
+            1350.8521895184444,
+            1360.8361189448788
+          ],
+          "text": "Re",
+          "confidence": 0.591
+        }
+      ]
+    }
+  ],
+  "full_text": "SRV HOSPITALS\nThe\nNew Possible\nNIKHIL MAKARAND VAIDYA [ SRVD-9491 ]\nFORMERLY: MAMemaiestal:\nAge\n57 Yr\nMale\nColleetion on\n24-014-2025 09.05 PM\nSERO-470\nID\nD-RI2S-26-259\nOrder\n14771\nAccepted on\n24-04-2025 (9.05 P'\nReq by\nDr: UJWAL RAMTEKE\nReport Date\n24-04-20125 09.24 PV\nWard\nBED-[0[\nSD\nSuper-Deluxe\nStatus\nFinalized\nSample Type\nSERUM\nDEPARTMENT OF SEROLOGY\nINVESTIGATIONS\nRESULT\nREFERANCE RANGE\nHIV IAND M RAPID\nHII\nNON RIAACTVA:\nNON RIMA( TWVI:\nM >\nNON REACTIVE\nNON REACTIVE\ntes :\nHI [ & H Rapid is scTeemng lest Posutive results have to he confirmedl hy Quantitative\nassay(ELISA Western Klot)\nAUSTRALIAVANTIGEN(HBs.Ag)\nNON REACTIVE\nNon-Reactive\nVotes:\nHISACi Rapid is screening lesl Positve results hav a Io he contirmed by Quantitative\nAS91\nHCV Rapid\nNON REACTIVE\nNon-Rcactive\nVotes:\nIC V Rapid is screening test Positive results\nVcaS\nEND OF REPORT\nTftsurc\nI/ N\nXIAASHOK KAMBLI:\nPRiaRi) IsY\nDRFURQAN MURUMKAK\nMB B3.S.MH(Path)\nN2(y) 412 (385\nConsultu Patholozisl\nScan Ihe QR code U downloatd Vr e-1cq\"t\nDOMDIVU\nPage 1 of\nPrinted By : Ms_NAMRATA ASHOK KAMBILE 24-042025.09.J4PM\nSRV Hospitals\nDombivli, P 43, Phase Il, Next to\nOperated by Tristar Healthcare LLP\nICICI Bank, MIDC, Dombivli (E)\n421203\nWWWsrvhospitals com\n022\n5085 OOOO / 8291 89 3641/ 8603 600 600\ninfo@srvmamatahospital.com\nAccaloitld\nRee\nRe",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "NIKHIL MAKARAND VAIDYA [ SRVD",
+          "biomarker_normalized": "NIKHIL MAKARAND VAIDYA [ SRVD",
+          "value": "9491",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NIKHIL MAKARAND VAIDYA [ SRVD-9491 ]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SERO",
+          "biomarker_normalized": "SERO",
+          "value": "470",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SERO-470",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "D-RI2S",
+          "biomarker_normalized": "D-RI2S",
+          "value": "26",
+          "unit": "",
+          "reference_range": "-26-259",
+          "source_line": "D-RI2S-26-259",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "BED-[",
+          "biomarker_normalized": "BED-[",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BED-[0[",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AS9",
+          "biomarker_normalized": "AS9",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AS91",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "N2(y)",
+          "biomarker_normalized": "N2(y)",
+          "value": "412",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "N2(y) 412 (385",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Scan Ihe QR code U downloatd Vr e",
+          "biomarker_normalized": "Scan Ihe QR code U downloatd Vr e",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Scan Ihe QR code U downloatd Vr e-1cq\"t",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Page",
+          "biomarker_normalized": "Page",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Page 1 of",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Printed By : Ms_NAMRATA ASHOK KAMBILE",
+          "biomarker_normalized": "Printed By : Ms_NAMRATA ASHOK KAMBILE",
+          "value": "24",
+          "unit": "",
+          "reference_range": "24-042025.09",
+          "source_line": "Printed By : Ms_NAMRATA ASHOK KAMBILE 24-042025.09.J4PM",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Dombivli, P",
+          "biomarker_normalized": "Dombivli, P",
+          "value": "43",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Dombivli, P 43, Phase Il, Next to",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 80,
+    "ocr_avg_confidence": 0.6264,
+    "parsed_row_count": 10
+  }
+}

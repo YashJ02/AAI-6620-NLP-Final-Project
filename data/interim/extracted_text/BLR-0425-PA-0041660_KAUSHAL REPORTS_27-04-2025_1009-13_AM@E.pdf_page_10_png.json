@@ -1,0 +1,729 @@
+{
+  "document_id": "BLR-0425-PA-0041660_KAUSHAL REPORTS_27-04-2025_1009-13_AM@E.pdf_page_10",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0041660_KAUSHAL REPORTS_27-04-2025_1009-13_AM@E.pdf_page_10.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mr. KAUSHAL H VACHHANI\nReference: Dr. Mayur Rai\nOrder No:\nDNO\nMATRIX WEST\nWINGS 406, KAMBALA CROSS ROAD,\nSample Collected At:\nRegistered On:\n1\nALAKE,\nAJ HOSPITAL & RESEARCH\n12.51.48 PM\nMANGALORE,ALAKE,DAKSHINA\nCENTRE MANGALORE\nCollected Qn:\nKANNADA\n575004\n01.31.32 PM\nTel No\nReported Qn:\nPIN No: 575001\n[03.13.21 PM\nUHID\nMR651016\n5C\nTest\nReference\nBIOCHEMSTRY\nBlood Glucose (Random)-Plasma\n86\n(Hexokinase)\nmgldL\nNormal: 70-140\nDiabetes mellitus: >= 200\n(on more than one occassion)\n(American\ndiabetes\nassociation\nCreatinine\nSerum\nguidelines 2017)\n0.6Z\nmgldL\n0.9-1.3\n(Kinetic Alkaline Picrate)\nUr\"\ndighlighted Results to be considered as Critical Report for immediate intervention by DoctorsINurses:\nUnderlined Highlighted values indicate abnormal range / out of range values.\nUC 6647\nA.J.\nHospital\n6 Research\nCentre",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            75.0,
+            571.0,
+            113.0
+          ],
+          "text": "Mr. KAUSHAL H VACHHANI",
+          "confidence": 0.5263
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            83.0,
+            1065.0,
+            127.0
+          ],
+          "text": "Reference: Dr. Mayur Rai",
+          "confidence": 0.726
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            96.0,
+            1340.0,
+            128.0
+          ],
+          "text": "Order No:",
+          "confidence": 0.9042
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            120.0,
+            274.0,
+            152.0
+          ],
+          "text": "DNO",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            461.0,
+            123.0,
+            661.0,
+            160.0
+          ],
+          "text": "MATRIX WEST",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            149.0,
+            685.0,
+            191.0
+          ],
+          "text": "WINGS 406, KAMBALA CROSS ROAD,",
+          "confidence": 0.7192
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            156.0,
+            999.0,
+            196.0
+          ],
+          "text": "Sample Collected At:",
+          "confidence": 0.9744
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            142.0,
+            1437.0,
+            180.0
+          ],
+          "text": "Registered On:",
+          "confidence": 0.7207
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            124.0,
+            170.0,
+            274.0
+          ],
+          "text": "1",
+          "confidence": 0.1613
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            183.0,
+            292.0,
+            216.0
+          ],
+          "text": "ALAKE,",
+          "confidence": 0.4876
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            733.0,
+            187.0,
+            1111.0,
+            229.0
+          ],
+          "text": "AJ HOSPITAL & RESEARCH",
+          "confidence": 0.9176
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            177.0,
+            1553.0,
+            213.0
+          ],
+          "text": "12.51.48 PM",
+          "confidence": 0.9778
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            214.0,
+            615.0,
+            253.0
+          ],
+          "text": "MANGALORE,ALAKE,DAKSHINA",
+          "confidence": 0.4297
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            735.0,
+            221.0,
+            1039.0,
+            259.0
+          ],
+          "text": "CENTRE MANGALORE",
+          "confidence": 0.9481
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1238.0,
+            212.0,
+            1417.0,
+            249.0
+          ],
+          "text": "Collected Qn:",
+          "confidence": 0.8366
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            245.0,
+            335.0,
+            281.0
+          ],
+          "text": "KANNADA",
+          "confidence": 0.9903
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            254.0,
+            834.0,
+            284.0
+          ],
+          "text": "575004",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1386.0,
+            250.0,
+            1552.0,
+            282.0
+          ],
+          "text": "01.31.32 PM",
+          "confidence": 0.9472
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            286.0,
+            286.0,
+            316.0
+          ],
+          "text": "Tel No",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            284.0,
+            1415.0,
+            322.0
+          ],
+          "text": "Reported Qn:",
+          "confidence": 0.7958
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            327.0,
+            399.0,
+            363.0
+          ],
+          "text": "PIN No: 575001",
+          "confidence": 0.9715
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1385.0,
+            317.0,
+            1553.0,
+            353.0
+          ],
+          "text": "[03.13.21 PM",
+          "confidence": 0.8075
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            372.0,
+            272.0,
+            404.0
+          ],
+          "text": "UHID",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            374.0,
+            430.0,
+            406.0
+          ],
+          "text": "MR651016",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            376.0,
+            486.0,
+            408.0
+          ],
+          "text": "5C",
+          "confidence": 0.9002
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            476.0,
+            144.0,
+            504.0
+          ],
+          "text": "Test",
+          "confidence": 0.9396
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            494.0,
+            1491.0,
+            533.0
+          ],
+          "text": "Reference",
+          "confidence": 0.9771
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            581.0,
+            297.0,
+            622.0
+          ],
+          "text": "BIOCHEMSTRY",
+          "confidence": 0.8299
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            623.0,
+            479.0,
+            659.0
+          ],
+          "text": "Blood Glucose (Random)-Plasma",
+          "confidence": 0.719
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            636.0,
+            782.0,
+            666.0
+          ],
+          "text": "86",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            660.0,
+            202.0,
+            688.0
+          ],
+          "text": "(Hexokinase)",
+          "confidence": 0.8764
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1003.0,
+            640.0,
+            1092.0,
+            678.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.6829
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            644.0,
+            1407.0,
+            681.0
+          ],
+          "text": "Normal: 70-140",
+          "confidence": 0.756
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            676.0,
+            1529.0,
+            715.0
+          ],
+          "text": "Diabetes mellitus: >= 200",
+          "confidence": 0.9501
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            709.0,
+            1581.0,
+            749.0
+          ],
+          "text": "(on more than one occassion)",
+          "confidence": 0.8438
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            740.0,
+            1338.0,
+            776.0
+          ],
+          "text": "(American",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1458.0,
+            745.0,
+            1575.0,
+            781.0
+          ],
+          "text": "diabetes",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            776.0,
+            1350.0,
+            804.0
+          ],
+          "text": "association",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            821.0,
+            208.0,
+            852.0
+          ],
+          "text": "Creatinine",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            824.0,
+            304.0,
+            852.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            803.0,
+            1420.0,
+            843.0
+          ],
+          "text": "guidelines 2017)",
+          "confidence": 0.8619
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            834.0,
+            802.0,
+            866.0
+          ],
+          "text": "0.6Z",
+          "confidence": 0.8655
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1003.0,
+            839.0,
+            1089.0,
+            875.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            842.0,
+            1298.0,
+            870.0
+          ],
+          "text": "0.9-1.3",
+          "confidence": 0.8165
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            857.0,
+            294.0,
+            886.0
+          ],
+          "text": "(Kinetic Alkaline Picrate)",
+          "confidence": 0.7809
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            1931.0,
+            113.0,
+            1943.0
+          ],
+          "text": "Ur\"",
+          "confidence": 0.0354
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1922.0,
+            1329.0,
+            1983.0
+          ],
+          "text": "dighlighted Results to be considered as Critical Report for immediate intervention by DoctorsINurses:",
+          "confidence": 0.6192
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1957.0,
+            987.0,
+            2000.0
+          ],
+          "text": "Underlined Highlighted values indicate abnormal range / out of range values.",
+          "confidence": 0.8561
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            2165.0,
+            227.0,
+            2179.0
+          ],
+          "text": "UC 6647",
+          "confidence": 0.1754
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            2132.0,
+            1420.0,
+            2180.0
+          ],
+          "text": "A.J.",
+          "confidence": 0.6672
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            2180.0,
+            1416.0,
+            2208.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            2210.0,
+            1416.0,
+            2236.0
+          ],
+          "text": "6 Research",
+          "confidence": 0.479
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            2240.0,
+            1416.0,
+            2266.0
+          ],
+          "text": "Centre",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "Mr. KAUSHAL H VACHHANI\nReference: Dr. Mayur Rai\nOrder No:\nDNO\nMATRIX WEST\nWINGS 406, KAMBALA CROSS ROAD,\nSample Collected At:\nRegistered On:\n1\nALAKE,\nAJ HOSPITAL & RESEARCH\n12.51.48 PM\nMANGALORE,ALAKE,DAKSHINA\nCENTRE MANGALORE\nCollected Qn:\nKANNADA\n575004\n01.31.32 PM\nTel No\nReported Qn:\nPIN No: 575001\n[03.13.21 PM\nUHID\nMR651016\n5C\nTest\nReference\nBIOCHEMSTRY\nBlood Glucose (Random)-Plasma\n86\n(Hexokinase)\nmgldL\nNormal: 70-140\nDiabetes mellitus: >= 200\n(on more than one occassion)\n(American\ndiabetes\nassociation\nCreatinine\nSerum\nguidelines 2017)\n0.6Z\nmgldL\n0.9-1.3\n(Kinetic Alkaline Picrate)\nUr\"\ndighlighted Results to be considered as Critical Report for immediate intervention by DoctorsINurses:\nUnderlined Highlighted values indicate abnormal range / out of range values.\nUC 6647\nA.J.\nHospital\n6 Research\nCentre",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "WINGS",
+          "biomarker_normalized": "WINGS",
+          "value": "406",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "WINGS 406, KAMBALA CROSS ROAD,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "PIN No",
+          "biomarker_normalized": "PIN No",
+          "value": "575001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PIN No: 575001",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MR6",
+          "biomarker_normalized": "MR6",
+          "value": "51016",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MR651016",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Normal",
+          "biomarker_normalized": "Normal",
+          "value": "70",
+          "unit": "",
+          "reference_range": "70-140",
+          "source_line": "Normal: 70-140",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "Diabetes mellitus: >=",
+          "biomarker_normalized": "Diabetes mellitus: >=",
+          "value": "200",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Diabetes mellitus: >= 200",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "guidelines",
+          "biomarker_normalized": "guidelines",
+          "value": "2017",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "guidelines 2017)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "UC",
+          "biomarker_normalized": "UC",
+          "value": "6647",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UC 6647",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.8198,
+    "parsed_row_count": 7
+  }
+}

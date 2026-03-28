@@ -1,0 +1,720 @@
+{
+  "document_id": "GUR-0425-CL-0195381_EMP_INW_19042025183215INVR_LabReport.pdf_page_12",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-CL-0195381_EMP_INW_19042025183215INVR_LabReport.pdf_page_12.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LUPIN\nDIAGN\nStICS\nGood health starts here\nPatient Information\nSpecimen Information\nClient\nDoctor Information\nLDAAO1626788\nIPIOP /Barcode\nClient No_\nmplle_Saudagar Pun\nLUPIKAVACH VITAMINCHECK\nTest Name\nResult\nBio. Ref. Range\nUnit\nMethod\nexamination and other\nfindings\nMimu32(Onini\nHar\n771\n444\n447 3\nNorma\n1971\nLot\nMarked values are the critical values_\n***\nEnd Of Report\n***\nR\nDr. Rohita Kumar\nMBBS; MD (PATHOLOGY)\nCHIEF OF LAB\nThe test marked with\nis NABL accredited with NABL No: MC-5395\nThis test has been performed at Lupin Diagnostics Laboratory\nSL PUNE Plot No- 66 Varsha Court\nKvp Sapatnekar\nAnand Park Aundh PUNE.Pune\n411007\nReg. & Corp. Office: Lupin Diagnostics Limited (formerly known as Lupin Healthcare Limited); 3rd Floor; Kalpataru Inspire, Off W: E: Highway;\nSantacruz (East) Mumbai-400 055, India | CIN: U241OOMHZOIIPLC214885\ncustomerconnect@lupindiagnostics com\n7030 300 400\nM\"\nQuality\n6\nYears\n504\nMarg",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            0.0,
+            1410.0,
+            50.0
+          ],
+          "text": "LUPIN",
+          "confidence": 0.8497
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            42.0,
+            1408.0,
+            92.0
+          ],
+          "text": "DIAGN",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1440.0,
+            37.0,
+            1625.0,
+            98.0
+          ],
+          "text": "StICS",
+          "confidence": 0.6763
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            90.0,
+            1620.0,
+            118.0
+          ],
+          "text": "Good health starts here",
+          "confidence": 0.957
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            138.0,
+            318.0,
+            164.0
+          ],
+          "text": "Patient Information",
+          "confidence": 0.9888
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            655.0,
+            137.0,
+            924.0,
+            167.0
+          ],
+          "text": "Specimen Information",
+          "confidence": 0.7855
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            138.0,
+            1164.0,
+            164.0
+          ],
+          "text": "Client",
+          "confidence": 0.5
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            138.0,
+            1404.0,
+            164.0
+          ],
+          "text": "Doctor Information",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            294.0,
+            430.0,
+            320.0
+          ],
+          "text": "LDAAO1626788",
+          "confidence": 0.9355
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            300.0,
+            830.0,
+            328.0
+          ],
+          "text": "IPIOP /Barcode",
+          "confidence": 0.598
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            294.0,
+            1198.0,
+            320.0
+          ],
+          "text": "Client No_",
+          "confidence": 0.7621
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            355.0,
+            474.0,
+            380.0
+          ],
+          "text": "mplle_Saudagar Pun",
+          "confidence": 0.7347
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            410.0,
+            1008.0,
+            440.0
+          ],
+          "text": "LUPIKAVACH VITAMINCHECK",
+          "confidence": 0.7953
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            458.0,
+            387.0,
+            491.0
+          ],
+          "text": "Test Name",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            626.0,
+            460.0,
+            710.0,
+            488.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            805.0,
+            457.0,
+            1010.0,
+            496.0
+          ],
+          "text": "Bio. Ref. Range",
+          "confidence": 0.8325
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            460.0,
+            1146.0,
+            490.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            460.0,
+            1404.0,
+            490.0
+          ],
+          "text": "Method",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            520.0,
+            320.0,
+            548.0
+          ],
+          "text": "examination and other",
+          "confidence": 0.9681
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            315.0,
+            513.0,
+            416.0,
+            557.0
+          ],
+          "text": "findings",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            447.0,
+            570.0,
+            671.0,
+            588.0
+          ],
+          "text": "Mimu32(Onini",
+          "confidence": 0.0246
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            584.0,
+            114.0,
+            610.0
+          ],
+          "text": "Har",
+          "confidence": 0.3021
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            615.0,
+            121.0,
+            631.0
+          ],
+          "text": "771",
+          "confidence": 0.6574
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            627.0,
+            199.0,
+            645.0
+          ],
+          "text": "444",
+          "confidence": 0.2281
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            625.0,
+            305.0,
+            641.0
+          ],
+          "text": "447 3",
+          "confidence": 0.1792
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            641.0,
+            129.0,
+            659.0
+          ],
+          "text": "Norma",
+          "confidence": 0.9652
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            677.0,
+            121.0,
+            695.0
+          ],
+          "text": "1971",
+          "confidence": 0.2013
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            695.0,
+            111.0,
+            713.0
+          ],
+          "text": "Lot",
+          "confidence": 0.2202
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            788.0,
+            538.0,
+            818.0
+          ],
+          "text": "Marked values are the critical values_",
+          "confidence": 0.66
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            641.0,
+            829.0,
+            685.0,
+            845.0
+          ],
+          "text": "***",
+          "confidence": 0.6142
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            685.0,
+            823.0,
+            871.0,
+            863.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9748
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            871.0,
+            829.0,
+            915.0,
+            845.0
+          ],
+          "text": "***",
+          "confidence": 0.8157
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1893.0,
+            119.0,
+            1949.0
+          ],
+          "text": "R",
+          "confidence": 0.8439
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            1972.0,
+            228.0,
+            2000.0
+          ],
+          "text": "Dr. Rohita Kumar",
+          "confidence": 0.7868
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            2008.0,
+            306.0,
+            2040.0
+          ],
+          "text": "MBBS; MD (PATHOLOGY)",
+          "confidence": 0.718
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            2044.0,
+            194.0,
+            2074.0
+          ],
+          "text": "CHIEF OF LAB",
+          "confidence": 0.9192
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            2176.0,
+            226.0,
+            2200.0
+          ],
+          "text": "The test marked with",
+          "confidence": 0.6159
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            2175.0,
+            646.0,
+            2200.0
+          ],
+          "text": "is NABL accredited with NABL No: MC-5395",
+          "confidence": 0.7729
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            2198.0,
+            610.0,
+            2228.0
+          ],
+          "text": "This test has been performed at Lupin Diagnostics Laboratory",
+          "confidence": 0.7502
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            2200.0,
+            946.0,
+            2224.0
+          ],
+          "text": "SL PUNE Plot No- 66 Varsha Court",
+          "confidence": 0.6221
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            2198.0,
+            1116.0,
+            2228.0
+          ],
+          "text": "Kvp Sapatnekar",
+          "confidence": 0.8872
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            2200.0,
+            1466.0,
+            2224.0
+          ],
+          "text": "Anand Park Aundh PUNE.Pune",
+          "confidence": 0.692
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1474.0,
+            2200.0,
+            1546.0,
+            2224.0
+          ],
+          "text": "411007",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            2273.0,
+            1580.0,
+            2303.0
+          ],
+          "text": "Reg. & Corp. Office: Lupin Diagnostics Limited (formerly known as Lupin Healthcare Limited); 3rd Floor; Kalpataru Inspire, Off W: E: Highway;",
+          "confidence": 0.555
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            2308.0,
+            864.0,
+            2334.0
+          ],
+          "text": "Santacruz (East) Mumbai-400 055, India | CIN: U241OOMHZOIIPLC214885",
+          "confidence": 0.648
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            2308.0,
+            1300.0,
+            2336.0
+          ],
+          "text": "customerconnect@lupindiagnostics com",
+          "confidence": 0.9007
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            2308.0,
+            1478.0,
+            2332.0
+          ],
+          "text": "7030 300 400",
+          "confidence": 0.9771
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            667.9161138650585,
+            762.8041448105304,
+            861.0838861349415,
+            837.1958551894696
+          ],
+          "text": "M\"",
+          "confidence": 0.0031
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            876.9231422385794,
+            735.0093794249563,
+            1162.0768577614206,
+            998.9906205750437
+          ],
+          "text": "Quality",
+          "confidence": 0.3493
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            499.3638358381278,
+            818.2163276482986,
+            667.6361641618722,
+            1041.7836723517014
+          ],
+          "text": "6",
+          "confidence": 0.0687
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            814.5670585375283,
+            1250.6444227101745,
+            1063.4329414624717,
+            1412.3555772898255
+          ],
+          "text": "Years",
+          "confidence": 0.4156
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            635.0096073683854,
+            1274.0332570792255,
+            825.9903926316146,
+            1407.9667429207745
+          ],
+          "text": "504",
+          "confidence": 0.3228
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1111.10944627111,
+            2197.186753717829,
+            1170.89055372889,
+            2229.813246282171
+          ],
+          "text": "Marg",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "LUPIN\nDIAGN\nStICS\nGood health starts here\nPatient Information\nSpecimen Information\nClient\nDoctor Information\nLDAAO1626788\nIPIOP /Barcode\nClient No_\nmplle_Saudagar Pun\nLUPIKAVACH VITAMINCHECK\nTest Name\nResult\nBio. Ref. Range\nUnit\nMethod\nexamination and other\nfindings\nMimu32(Onini\nHar\n771\n444\n447 3\nNorma\n1971\nLot\nMarked values are the critical values_\n***\nEnd Of Report\n***\nR\nDr. Rohita Kumar\nMBBS; MD (PATHOLOGY)\nCHIEF OF LAB\nThe test marked with\nis NABL accredited with NABL No: MC-5395\nThis test has been performed at Lupin Diagnostics Laboratory\nSL PUNE Plot No- 66 Varsha Court\nKvp Sapatnekar\nAnand Park Aundh PUNE.Pune\n411007\nReg. & Corp. Office: Lupin Diagnostics Limited (formerly known as Lupin Healthcare Limited); 3rd Floor; Kalpataru Inspire, Off W: E: Highway;\nSantacruz (East) Mumbai-400 055, India | CIN: U241OOMHZOIIPLC214885\ncustomerconnect@lupindiagnostics com\n7030 300 400\nM\"\nQuality\n6\nYears\n504\nMarg",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "LDAAO1",
+          "biomarker_normalized": "LDAAO1",
+          "value": "626788",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LDAAO1626788",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Mimu3",
+          "biomarker_normalized": "Mimu3",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mimu32(Onini",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "is NABL accredited with NABL No: MC",
+          "biomarker_normalized": "is NABL accredited with NABL No: MC",
+          "value": "5395",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "is NABL accredited with NABL No: MC-5395",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SL PUNE Plot No",
+          "biomarker_normalized": "SL PUNE Plot No",
+          "value": "66",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SL PUNE Plot No- 66 Varsha Court",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Reg. & Corp. Office: Lupin Diagnostics Limited (formerly known as Lupin Healthcare Limited);",
+          "biomarker_normalized": "Reg. & Corp. Office: Lupin Diagnostics Limited (formerly known as Lupin Healthcare Limited);",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reg. & Corp. Office: Lupin Diagnostics Limited (formerly known as Lupin Healthcare Limited); 3rd Floor; Kalpataru Inspire, Off W: E: Highway;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Santacruz (East) Mumbai",
+          "biomarker_normalized": "Santacruz (East) Mumbai",
+          "value": "400",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Santacruz (East) Mumbai-400 055, India | CIN: U241OOMHZOIIPLC214885",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.699,
+    "parsed_row_count": 6
+  }
+}

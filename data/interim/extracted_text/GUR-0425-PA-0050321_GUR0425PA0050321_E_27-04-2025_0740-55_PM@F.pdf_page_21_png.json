@@ -1,0 +1,192 @@
+{
+  "document_id": "GUR-0425-PA-0050321_GUR0425PA0050321_E_27-04-2025_0740-55_PM@F.pdf_page_21",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0050321_GUR0425PA0050321_E_27-04-2025_0740-55_PM@F.pdf_page_21.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LaboratorY [nvestigatlon Report\nFatiert\nDr Mgcrakshi Jan\nRaczrung Date'Tine\n2E,ALN2025 07*484M\nCllnical Biochomistry\nRenal Functlon Test (RFT} Profile\nWithout Urlno\nTest Perfoned BL,953\nMax Lab R G Square Mzll, Pstparganj, iUSA, [l Ext; LP Exlension, Pupargan; Dezhi, ! !\nBooking Centre .5572 - Max !lospital, Patparganj, Jrd Flooc; RG Mall; IP Exterston, Palpurganj Delhi\nThe mhenticity Jlthe rpox can be verifcd by scanning the Q R Corle on toF ofthel",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            165.0,
+            981.0,
+            205.0
+          ],
+          "text": "LaboratorY [nvestigatlon Report",
+          "confidence": 0.4918
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            38.0,
+            226.0,
+            112.0,
+            250.0
+          ],
+          "text": "Fatiert",
+          "confidence": 0.9796
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            280.0,
+            316.0,
+            466.0,
+            344.0
+          ],
+          "text": "Dr Mgcrakshi Jan",
+          "confidence": 0.5585
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            811.0,
+            308.0,
+            1022.0,
+            338.0
+          ],
+          "text": "Raczrung Date'Tine",
+          "confidence": 0.2986
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1033.0,
+            301.0,
+            1250.0,
+            333.0
+          ],
+          "text": "2E,ALN2025 07*484M",
+          "confidence": 0.1598
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            356.0,
+            856.0,
+            386.0
+          ],
+          "text": "Cllnical Biochomistry",
+          "confidence": 0.5985
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            394.0,
+            838.0,
+            426.0
+          ],
+          "text": "Renal Functlon Test (RFT} Profile",
+          "confidence": 0.8881
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            852.0,
+            390.0,
+            1012.0,
+            418.0
+          ],
+          "text": "Without Urlno",
+          "confidence": 0.6721
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            1996.0,
+            244.0,
+            2024.0
+          ],
+          "text": "Test Perfoned BL,953",
+          "confidence": 0.2865
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            249.0,
+            1983.0,
+            993.0,
+            2024.0
+          ],
+          "text": "Max Lab R G Square Mzll, Pstparganj, iUSA, [l Ext; LP Exlension, Pupargan; Dezhi, ! !",
+          "confidence": 0.0375
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            2014.0,
+            1046.0,
+            2066.0
+          ],
+          "text": "Booking Centre .5572 - Max !lospital, Patparganj, Jrd Flooc; RG Mall; IP Exterston, Palpurganj Delhi",
+          "confidence": 0.1334
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            49.0,
+            2053.0,
+            879.0,
+            2094.0
+          ],
+          "text": "The mhenticity Jlthe rpox can be verifcd by scanning the Q R Corle on toF ofthel",
+          "confidence": 0.1426
+        }
+      ]
+    }
+  ],
+  "full_text": "LaboratorY [nvestigatlon Report\nFatiert\nDr Mgcrakshi Jan\nRaczrung Date'Tine\n2E,ALN2025 07*484M\nCllnical Biochomistry\nRenal Functlon Test (RFT} Profile\nWithout Urlno\nTest Perfoned BL,953\nMax Lab R G Square Mzll, Pstparganj, iUSA, [l Ext; LP Exlension, Pupargan; Dezhi, ! !\nBooking Centre .5572 - Max !lospital, Patparganj, Jrd Flooc; RG Mall; IP Exterston, Palpurganj Delhi\nThe mhenticity Jlthe rpox can be verifcd by scanning the Q R Corle on toF ofthel",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Test Perfoned BL,",
+          "biomarker_normalized": "Test Perfoned BL,",
+          "value": "953",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Test Perfoned BL,953",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Booking Centre .",
+          "biomarker_normalized": "Booking Centre .",
+          "value": "5572",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Booking Centre .5572 - Max !lospital, Patparganj, Jrd Flooc; RG Mall; IP Exterston, Palpurganj Delhi",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 12,
+    "ocr_avg_confidence": 0.4373,
+    "parsed_row_count": 2
+  }
+}

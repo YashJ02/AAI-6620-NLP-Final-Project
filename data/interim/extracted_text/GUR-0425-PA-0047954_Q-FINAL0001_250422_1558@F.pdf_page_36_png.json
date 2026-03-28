@@ -1,0 +1,438 @@
+{
+  "document_id": "GUR-0425-PA-0047954_Q-FINAL0001_250422_1558@F.pdf_page_36",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0047954_Q-FINAL0001_250422_1558@F.pdf_page_36.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ADVANTA SUPER SPECIALITY HOSPITAL\nSilani Gate, Jhajjar (Haryana)\nAbvanta\nPh : 01251-252128,\nDate\nSrl No.\n19\nPatient Id\nDr: RITESH KUMAR RAO\nNo.\n14808\nNo_\n12316\nTest\nNeonates < 48 hrs of life.\n\"Patients with PCT values <2 nglml should be closely monitored both clinically and by reassessing PCT within 6-24\nhrs_\n##t*\n#t*\nEnd Of Report\nDR:\nALKA\nSINGLA\nMBBS;\nCorisultan?\nMD\n(PATT}\nPathologist\nRegd .\nNc.\nDMC-17916",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            277.0,
+            81.0,
+            1389.0,
+            146.0
+          ],
+          "text": "ADVANTA SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.8905
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            623.0,
+            161.0,
+            1041.0,
+            205.0
+          ],
+          "text": "Silani Gate, Jhajjar (Haryana)",
+          "confidence": 0.5564
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            95.0,
+            183.0,
+            243.0,
+            227.0
+          ],
+          "text": "Abvanta",
+          "confidence": 0.688
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            202.0,
+            820.0,
+            234.0
+          ],
+          "text": "Ph : 01251-252128,",
+          "confidence": 0.7441
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            348.0,
+            244.0,
+            378.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            794.0,
+            348.0,
+            888.0,
+            378.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.7665
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            902.0,
+            348.0,
+            940.0,
+            378.0
+          ],
+          "text": "19",
+          "confidence": 0.8231
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            348.0,
+            1288.0,
+            380.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            426.0,
+            650.0,
+            458.0
+          ],
+          "text": "Dr: RITESH KUMAR RAO",
+          "confidence": 0.5926
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            870.0,
+            428.0,
+            920.0,
+            456.0
+          ],
+          "text": "No.",
+          "confidence": 0.8027
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            934.0,
+            426.0,
+            1018.0,
+            458.0
+          ],
+          "text": "14808",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            428.0,
+            1252.0,
+            456.0
+          ],
+          "text": "No_",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1294.0,
+            428.0,
+            1380.0,
+            458.0
+          ],
+          "text": "12316",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            506.0,
+            194.0,
+            534.0
+          ],
+          "text": "Test",
+          "confidence": 0.7891
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            570.0,
+            486.0,
+            602.0
+          ],
+          "text": "Neonates < 48 hrs of life.",
+          "confidence": 0.4985
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            597.0,
+            1567.0,
+            641.0
+          ],
+          "text": "\"Patients with PCT values <2 nglml should be closely monitored both clinically and by reassessing PCT within 6-24",
+          "confidence": 0.6875
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            634.0,
+            206.0,
+            662.0
+          ],
+          "text": "hrs_",
+          "confidence": 0.653
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            677.0,
+            777.0,
+            723.0,
+            791.0
+          ],
+          "text": "##t*",
+          "confidence": 0.1488
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            777.0,
+            971.0,
+            791.0
+          ],
+          "text": "#t*",
+          "confidence": 0.082
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            725.0,
+            773.0,
+            925.0,
+            811.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.658
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1075.1996327714564,
+            1758.0912945443088,
+            1149.8003672285436,
+            1811.9087054556912
+          ],
+          "text": "DR:",
+          "confidence": 0.5316
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1145.0934312516142,
+            1769.0835899750778,
+            1256.9065687483858,
+            1832.9164100249222
+          ],
+          "text": "ALKA",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1244.0288615656502,
+            1788.0680303808392,
+            1392.9711384343498,
+            1857.9319696191608
+          ],
+          "text": "SINGLA",
+          "confidence": 0.5848
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1117.029064871865,
+            1805.0840783210497,
+            1223.970935128135,
+            1860.9159216789503
+          ],
+          "text": "MBBS;",
+          "confidence": 0.7079
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1054.0006856946995,
+            1826.056245769462,
+            1223.9993143053005,
+            1892.943754230538
+          ],
+          "text": "Corisultan?",
+          "confidence": 0.1757
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1220.2466275327315,
+            1827.1539042094366,
+            1284.7533724672685,
+            1869.8460957905634
+          ],
+          "text": "MD",
+          "confidence": 0.9427
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1276.0364455348576,
+            1837.0994685768342,
+            1386.9635544651424,
+            1888.9005314231658
+          ],
+          "text": "(PATT}",
+          "confidence": 0.6819
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1211.0003010687947,
+            1854.0479518649956,
+            1381.9996989312053,
+            1925.9520481350044
+          ],
+          "text": "Pathologist",
+          "confidence": 0.7688
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1053.1032376865048,
+            1860.095251759264,
+            1142.8967623134952,
+            1912.904748240736
+          ],
+          "text": "Regd .",
+          "confidence": 0.7711
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1139.0960093055025,
+            1875.1219034952862,
+            1198.9039906944975,
+            1914.8780965047138
+          ],
+          "text": "Nc.",
+          "confidence": 0.7072
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1192.0000645645525,
+            1882.052689339578,
+            1375.9999354354475,
+            1950.947310660422
+          ],
+          "text": "DMC-17916",
+          "confidence": 0.9693
+        }
+      ]
+    }
+  ],
+  "full_text": "ADVANTA SUPER SPECIALITY HOSPITAL\nSilani Gate, Jhajjar (Haryana)\nAbvanta\nPh : 01251-252128,\nDate\nSrl No.\n19\nPatient Id\nDr: RITESH KUMAR RAO\nNo.\n14808\nNo_\n12316\nTest\nNeonates < 48 hrs of life.\n\"Patients with PCT values <2 nglml should be closely monitored both clinically and by reassessing PCT within 6-24\nhrs_\n##t*\n#t*\nEnd Of Report\nDR:\nALKA\nSINGLA\nMBBS;\nCorisultan?\nMD\n(PATT}\nPathologist\nRegd .\nNc.\nDMC-17916",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Ph",
+          "biomarker_normalized": "Ph",
+          "value": "01251",
+          "unit": "",
+          "reference_range": "01251-252128",
+          "source_line": "Ph : 01251-252128,",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Neonates <",
+          "biomarker_normalized": "Neonates <",
+          "value": "48",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Neonates < 48 hrs of life.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "\"Patients with PCT values <",
+          "biomarker_normalized": "\"Patients with PCT values <",
+          "value": "2",
+          "unit": "",
+          "reference_range": "6-24",
+          "source_line": "\"Patients with PCT values <2 nglml should be closely monitored both clinically and by reassessing PCT within 6-24",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "DMC",
+          "biomarker_normalized": "DMC",
+          "value": "17916",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMC-17916",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 31,
+    "ocr_avg_confidence": 0.7157,
+    "parsed_row_count": 4
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "document_id": "CHE-0425-PA-0013293_E-1745731046905VIJAYLAKSHMIDS_250427_1050@E.pdf_page_7",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0013293_E-1745731046905VIJAYLAKSHMIDS_250427_1050@E.pdf_page_7.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UHID: AHJN.0000311592\n24-Apr-2025 01.28 PM\nHemoglobin\n11.3 gldL\n11.5\n14.5\n(Photometry)\nBasophils\n00 %\n0-1\nPlatelet Count\n266 103/mm?\n150-450\n(IMPEDENCE)\nRBC COUNT\n4.2 Millionlul\n3.8-4.8\nMETHOD: (AUTOMATED\nIMPEDANCE)\nPacked cell volume\n34.5 %\n30_\n46\n(METHOD CALCULATED)\nWBC count\n14.2 103/mm?\n4-11\n(METHOD:AUTOMATED\nIMPEDANCE)\nNeutrophils\n93 %\n40 - 75\nLymphocytes\n05 %\n20-40\nMonocytes\n01 %\n0 - 10\nEosinophils\n01 %\n1 - 6\nHEMOGLOBIN (AUTOMATION)\n25-Apr-2025 03*43AM\nHemoglobin\n9.7 gldL\n11.5\n14.5\n(Photometry)\nPCV- PACKED CELL VOLUME\n25-Apr-2025 0343AM\nPacked cell volume\n28.6 %\n30\n46\n(METHOD:CALCULATED)\nMicrobiology\nHBS ANTIGEN\n23-Apr-2025 10.50 AM\nHCV\nHEPATITIS C VIRUS\n23-Apr-2025 10.50AM\nHIV\nAND II RAPID\n23-Apr-2025 10.49AM",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            8.0,
+            422.0,
+            40.0
+          ],
+          "text": "UHID: AHJN.0000311592",
+          "confidence": 0.8019
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            399.0,
+            447.0,
+            435.0
+          ],
+          "text": "24-Apr-2025 01.28 PM",
+          "confidence": 0.5935
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            446.0,
+            340.0,
+            474.0
+          ],
+          "text": "Hemoglobin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            446.0,
+            738.0,
+            474.0
+          ],
+          "text": "11.3 gldL",
+          "confidence": 0.8312
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            446.0,
+            1116.0,
+            470.0
+          ],
+          "text": "11.5",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            446.0,
+            1176.0,
+            470.0
+          ],
+          "text": "14.5",
+          "confidence": 0.9434
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            466.0,
+            348.0,
+            496.0
+          ],
+          "text": "(Photometry)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            546.0,
+            318.0,
+            572.0
+          ],
+          "text": "Basophils",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            546.0,
+            696.0,
+            570.0
+          ],
+          "text": "00 %",
+          "confidence": 0.8769
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            546.0,
+            1096.0,
+            570.0
+          ],
+          "text": "0-1",
+          "confidence": 0.7297
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            596.0,
+            362.0,
+            620.0
+          ],
+          "text": "Platelet Count",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            594.0,
+            772.0,
+            620.0
+          ],
+          "text": "266 103/mm?",
+          "confidence": 0.58
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            596.0,
+            1150.0,
+            620.0
+          ],
+          "text": "150-450",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            618.0,
+            366.0,
+            644.0
+          ],
+          "text": "(IMPEDENCE)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            666.0,
+            352.0,
+            692.0
+          ],
+          "text": "RBC COUNT",
+          "confidence": 0.8251
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            668.0,
+            770.0,
+            692.0
+          ],
+          "text": "4.2 Millionlul",
+          "confidence": 0.6009
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            668.0,
+            1138.0,
+            692.0
+          ],
+          "text": "3.8-4.8",
+          "confidence": 0.6345
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            690.0,
+            476.0,
+            716.0
+          ],
+          "text": "METHOD: (AUTOMATED",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            712.0,
+            366.0,
+            738.0
+          ],
+          "text": "IMPEDANCE)",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            762.0,
+            412.0,
+            788.0
+          ],
+          "text": "Packed cell volume",
+          "confidence": 0.9503
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            762.0,
+            714.0,
+            788.0
+          ],
+          "text": "34.5 %",
+          "confidence": 0.7952
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            762.0,
+            1098.0,
+            786.0
+          ],
+          "text": "30_",
+          "confidence": 0.3817
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            762.0,
+            1138.0,
+            786.0
+          ],
+          "text": "46",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            784.0,
+            484.0,
+            812.0
+          ],
+          "text": "(METHOD CALCULATED)",
+          "confidence": 0.8462
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            834.0,
+            334.0,
+            861.0
+          ],
+          "text": "WBC count",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            834.0,
+            778.0,
+            860.0
+          ],
+          "text": "14.2 103/mm?",
+          "confidence": 0.5774
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            837.0,
+            1111.0,
+            857.0
+          ],
+          "text": "4-11",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            856.0,
+            470.0,
+            882.0
+          ],
+          "text": "(METHOD:AUTOMATED",
+          "confidence": 0.692
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            878.0,
+            366.0,
+            904.0
+          ],
+          "text": "IMPEDANCE)",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            952.0,
+            334.0,
+            978.0
+          ],
+          "text": "Neutrophils",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            952.0,
+            696.0,
+            976.0
+          ],
+          "text": "93 %",
+          "confidence": 0.993
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            952.0,
+            1138.0,
+            976.0
+          ],
+          "text": "40 - 75",
+          "confidence": 0.9504
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1002.0,
+            352.0,
+            1030.0
+          ],
+          "text": "Lymphocytes",
+          "confidence": 0.824
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            1002.0,
+            696.0,
+            1026.0
+          ],
+          "text": "05 %",
+          "confidence": 0.5818
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1062.0,
+            1002.0,
+            1126.0,
+            1026.0
+          ],
+          "text": "20-40",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1051.0,
+            328.0,
+            1079.0
+          ],
+          "text": "Monocytes",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            1052.0,
+            694.0,
+            1076.0
+          ],
+          "text": "01 %",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            1052.0,
+            1126.0,
+            1076.0
+          ],
+          "text": "0 - 10",
+          "confidence": 0.9757
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1102.0,
+            334.0,
+            1128.0
+          ],
+          "text": "Eosinophils",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            1102.0,
+            694.0,
+            1126.0
+          ],
+          "text": "01 %",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            1102.0,
+            1114.0,
+            1126.0
+          ],
+          "text": "1 - 6",
+          "confidence": 0.6564
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1150.0,
+            553.0,
+            1189.0
+          ],
+          "text": "HEMOGLOBIN (AUTOMATION)",
+          "confidence": 0.7708
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1191.0,
+            447.0,
+            1230.0
+          ],
+          "text": "25-Apr-2025 03*43AM",
+          "confidence": 0.5956
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            1239.0,
+            340.0,
+            1271.0
+          ],
+          "text": "Hemoglobin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            1240.0,
+            724.0,
+            1268.0
+          ],
+          "text": "9.7 gldL",
+          "confidence": 0.9704
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            1240.0,
+            1116.0,
+            1266.0
+          ],
+          "text": "11.5",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            1240.0,
+            1176.0,
+            1266.0
+          ],
+          "text": "14.5",
+          "confidence": 0.8616
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1262.0,
+            348.0,
+            1290.0
+          ],
+          "text": "(Photometry)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1342.0,
+            542.0,
+            1374.0
+          ],
+          "text": "PCV- PACKED CELL VOLUME",
+          "confidence": 0.9483
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1383.0,
+            447.0,
+            1419.0
+          ],
+          "text": "25-Apr-2025 0343AM",
+          "confidence": 0.9325
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1428.0,
+            412.0,
+            1454.0
+          ],
+          "text": "Packed cell volume",
+          "confidence": 0.9503
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            1428.0,
+            714.0,
+            1454.0
+          ],
+          "text": "28.6 %",
+          "confidence": 0.7492
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            1428.0,
+            1096.0,
+            1454.0
+          ],
+          "text": "30",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1428.0,
+            1138.0,
+            1452.0
+          ],
+          "text": "46",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1450.0,
+            484.0,
+            1478.0
+          ],
+          "text": "(METHOD:CALCULATED)",
+          "confidence": 0.6458
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1528.0,
+            295.0,
+            1567.0
+          ],
+          "text": "Microbiology",
+          "confidence": 0.8811
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1572.0,
+            340.0,
+            1604.0
+          ],
+          "text": "HBS ANTIGEN",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1613.0,
+            447.0,
+            1649.0
+          ],
+          "text": "23-Apr-2025 10.50 AM",
+          "confidence": 0.8399
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1688.0,
+            212.0,
+            1720.0
+          ],
+          "text": "HCV",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            1688.0,
+            498.0,
+            1720.0
+          ],
+          "text": "HEPATITIS C VIRUS",
+          "confidence": 0.7664
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1729.0,
+            447.0,
+            1765.0
+          ],
+          "text": "23-Apr-2025 10.50AM",
+          "confidence": 0.4405
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1806.0,
+            198.0,
+            1836.0
+          ],
+          "text": "HIV",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1806.0,
+            394.0,
+            1838.0
+          ],
+          "text": "AND II RAPID",
+          "confidence": 0.8193
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1847.0,
+            447.0,
+            1883.0
+          ],
+          "text": "23-Apr-2025 10.49AM",
+          "confidence": 0.5669
+        }
+      ]
+    }
+  ],
+  "full_text": "UHID: AHJN.0000311592\n24-Apr-2025 01.28 PM\nHemoglobin\n11.3 gldL\n11.5\n14.5\n(Photometry)\nBasophils\n00 %\n0-1\nPlatelet Count\n266 103/mm?\n150-450\n(IMPEDENCE)\nRBC COUNT\n4.2 Millionlul\n3.8-4.8\nMETHOD: (AUTOMATED\nIMPEDANCE)\nPacked cell volume\n34.5 %\n30_\n46\n(METHOD CALCULATED)\nWBC count\n14.2 103/mm?\n4-11\n(METHOD:AUTOMATED\nIMPEDANCE)\nNeutrophils\n93 %\n40 - 75\nLymphocytes\n05 %\n20-40\nMonocytes\n01 %\n0 - 10\nEosinophils\n01 %\n1 - 6\nHEMOGLOBIN (AUTOMATION)\n25-Apr-2025 03*43AM\nHemoglobin\n9.7 gldL\n11.5\n14.5\n(Photometry)\nPCV- PACKED CELL VOLUME\n25-Apr-2025 0343AM\nPacked cell volume\n28.6 %\n30\n46\n(METHOD:CALCULATED)\nMicrobiology\nHBS ANTIGEN\n23-Apr-2025 10.50 AM\nHCV\nHEPATITIS C VIRUS\n23-Apr-2025 10.50AM\nHIV\nAND II RAPID\n23-Apr-2025 10.49AM",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "UHID: AHJN.",
+          "biomarker_normalized": "UHID: AHJN.",
+          "value": "0000311592",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UHID: AHJN.0000311592",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 64,
+    "ocr_avg_confidence": 0.865,
+    "parsed_row_count": 1
+  }
+}

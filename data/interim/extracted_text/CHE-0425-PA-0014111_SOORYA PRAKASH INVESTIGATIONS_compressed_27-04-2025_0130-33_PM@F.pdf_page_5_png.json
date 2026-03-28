@@ -1,0 +1,1422 @@
+{
+  "document_id": "CHE-0425-PA-0014111_SOORYA PRAKASH INVESTIGATIONS_compressed_27-04-2025_0130-33_PM@F.pdf_page_5",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014111_SOORYA PRAKASH INVESTIGATIONS_compressed_27-04-2025_0130-33_PM@F.pdf_page_5.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Neuberg\nDIAGNostics\nIndia\nUAE\nSouth Africa\nUSA\nTEST\nREPORT\nFinal Laboratory Report\nPID\nDr. Dhenesh .R, M.B.B.S,, DA , DNB ,\nRef: ID\nIP\nCorporate\nDelta Hospitals\nUHID\nCol Dt. Time\n26-Apr-2025 07.50\nRecv Dt: Time\n26-Apr-2025 07:50\nSample Type\nSerum\nReg Dt: Time\n26-Apr-2025 07:50\nReport Released\n26-Apr-2025 09.41\nReport Printed\n26-Apr-2025 13.46\nTEST\nRESULTS\nUNIT\nBIOLOGICAL REF RANGE\nTEST REMARK\nLIVER FUNCTION TEST\nBilirubin Total\nH\n7.71\nmgldL\n0.2\n1.2\nDiazonium Salt\nBilirubin Direct\nH\n5.99\nmgldL\n0 - 0.5\nDIAZO REACTION\nBilirubin Indirect\nH\n1.72\nmgldL\n0.1 - 1\nCalculated\nSGPT\nH\n755\nUIL\n0\n45\nNADH (Without P-5-P)\nSGOT\nH\n161\nUIL\n11 - 34\nNADH (Without P-5-P)\nAlkaline Phosphatase\nH\n152\nUIL\n40-150\nPara-Nitrophenyl Phosphate\nGamma  Glutamyl Transferase\nH\n177\nUIL\n0 - 55\nL-Gamma-glutamyl-3-carboxy-4-nitroanilide\nSubstrate\nProteins (Total)\n6.9\n6.4\n8.3\nBiuret\nAlbumin\n4.0\n3.5-5.0\nBromo Cresol Green\nGlobulin\n2.9\n2.0 - 3.5\nCalculated\nAIG Ratio\n1.4\n1.0 - 2.0\nCalculated\nEnd Of Report\nNote:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal)\nXl\nKAVERI C\nDr.Selvi R\nConsultant Biochemist\nVerified by\nQodas rotui_Goeongivg GLqvL Faium_60ie\n044-4141 2222\nNeuberg Ehrlich Laboratory Private Limited,\ninfoaneubergdlagnostics com\nNo 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai\n600096\nwwWneubergdlagnosticscom\ngldL\ngldL\ngldL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            43.0,
+            496.0,
+            151.0
+          ],
+          "text": "Neuberg",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            132.0,
+            452.0,
+            164.0
+          ],
+          "text": "DIAGNostics",
+          "confidence": 0.65
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            169.0,
+            179.0,
+            199.0
+          ],
+          "text": "India",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            170.0,
+            250.0,
+            200.0
+          ],
+          "text": "UAE",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            168.0,
+            406.0,
+            198.0
+          ],
+          "text": "South Africa",
+          "confidence": 0.9042
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            428.0,
+            172.0,
+            476.0,
+            196.0
+          ],
+          "text": "USA",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            165.0,
+            795.0,
+            205.0
+          ],
+          "text": "TEST",
+          "confidence": 0.8809
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            165.0,
+            1005.0,
+            205.0
+          ],
+          "text": "REPORT",
+          "confidence": 0.6602
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            761.0,
+            251.0,
+            1089.0,
+            292.0
+          ],
+          "text": "Final Laboratory Report",
+          "confidence": 0.7941
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            252.0,
+            1318.0,
+            280.0
+          ],
+          "text": "PID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            293.0,
+            339.0,
+            726.0,
+            375.0
+          ],
+          "text": "Dr. Dhenesh .R, M.B.B.S,, DA , DNB ,",
+          "confidence": 0.4202
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            344.0,
+            1356.0,
+            372.0
+          ],
+          "text": "Ref: ID",
+          "confidence": 0.8794
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            344.0,
+            1412.0,
+            370.0
+          ],
+          "text": "IP",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            387.0,
+            262.0,
+            419.0
+          ],
+          "text": "Corporate",
+          "confidence": 0.917
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            388.0,
+            470.0,
+            420.0
+          ],
+          "text": "Delta Hospitals",
+          "confidence": 0.8509
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            388.0,
+            1248.0,
+            416.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            430.0,
+            290.0,
+            456.0
+          ],
+          "text": "Col Dt. Time",
+          "confidence": 0.7852
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            377.0,
+            429.0,
+            592.0,
+            461.0
+          ],
+          "text": "26-Apr-2025 07.50",
+          "confidence": 0.7594
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            430.0,
+            776.0,
+            458.0
+          ],
+          "text": "Recv Dt: Time",
+          "confidence": 0.4656
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            430.0,
+            1098.0,
+            460.0
+          ],
+          "text": "26-Apr-2025 07:50",
+          "confidence": 0.8591
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            428.0,
+            1273.0,
+            465.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.6271
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            430.0,
+            1380.0,
+            458.0
+          ],
+          "text": "Serum",
+          "confidence": 0.7014
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            466.0,
+            300.0,
+            504.0
+          ],
+          "text": "Reg Dt: Time",
+          "confidence": 0.8967
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            379.0,
+            467.0,
+            596.0,
+            499.0
+          ],
+          "text": "26-Apr-2025 07:50",
+          "confidence": 0.9164
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            468.0,
+            806.0,
+            500.0
+          ],
+          "text": "Report Released",
+          "confidence": 0.9517
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            472.0,
+            1096.0,
+            502.0
+          ],
+          "text": "26-Apr-2025 09.41",
+          "confidence": 0.8037
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            472.0,
+            1286.0,
+            504.0
+          ],
+          "text": "Report Printed",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            472.0,
+            1518.0,
+            504.0
+          ],
+          "text": "26-Apr-2025 13.46",
+          "confidence": 0.8946
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            546.0,
+            214.0,
+            574.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            625.0,
+            543.0,
+            747.0,
+            573.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.6931
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            546.0,
+            890.0,
+            572.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            544.0,
+            1303.0,
+            574.0
+          ],
+          "text": "BIOLOGICAL REF RANGE",
+          "confidence": 0.6632
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            546.0,
+            1534.0,
+            574.0
+          ],
+          "text": "TEST REMARK",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            592.0,
+            1006.0,
+            622.0
+          ],
+          "text": "LIVER FUNCTION TEST",
+          "confidence": 0.8691
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            656.0,
+            306.0,
+            682.0
+          ],
+          "text": "Bilirubin Total",
+          "confidence": 0.6597
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            656.0,
+            656.0,
+            682.0
+          ],
+          "text": "H",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            656.0,
+            716.0,
+            682.0
+          ],
+          "text": "7.71",
+          "confidence": 0.5743
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            656.0,
+            964.0,
+            686.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9915
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            656.0,
+            1112.0,
+            682.0
+          ],
+          "text": "0.2",
+          "confidence": 0.8087
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1124.0,
+            656.0,
+            1164.0,
+            682.0
+          ],
+          "text": "1.2",
+          "confidence": 0.6564
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            679.0,
+            283.0,
+            699.0
+          ],
+          "text": "Diazonium Salt",
+          "confidence": 0.6782
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            716.0,
+            316.0,
+            742.0
+          ],
+          "text": "Bilirubin Direct",
+          "confidence": 0.8844
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            633.0,
+            717.0,
+            653.0,
+            741.0
+          ],
+          "text": "H",
+          "confidence": 0.7619
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            716.0,
+            720.0,
+            742.0
+          ],
+          "text": "5.99",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            716.0,
+            966.0,
+            748.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.982
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            716.0,
+            1144.0,
+            742.0
+          ],
+          "text": "0 - 0.5",
+          "confidence": 0.8904
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            736.0,
+            318.0,
+            760.0
+          ],
+          "text": "DIAZO REACTION",
+          "confidence": 0.5665
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            776.0,
+            334.0,
+            802.0
+          ],
+          "text": "Bilirubin Indirect",
+          "confidence": 0.8352
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            776.0,
+            656.0,
+            802.0
+          ],
+          "text": "H",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            776.0,
+            720.0,
+            802.0
+          ],
+          "text": "1.72",
+          "confidence": 0.7198
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            891.0,
+            774.0,
+            964.0,
+            807.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9836
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            776.0,
+            1140.0,
+            802.0
+          ],
+          "text": "0.1 - 1",
+          "confidence": 0.5465
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            799.0,
+            243.0,
+            819.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9638
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            836.0,
+            246.0,
+            864.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.9182
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            836.0,
+            656.0,
+            862.0
+          ],
+          "text": "H",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            836.0,
+            716.0,
+            864.0
+          ],
+          "text": "755",
+          "confidence": 0.9313
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            836.0,
+            934.0,
+            864.0
+          ],
+          "text": "UIL",
+          "confidence": 0.7291
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            836.0,
+            1090.0,
+            862.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            836.0,
+            1138.0,
+            864.0
+          ],
+          "text": "45",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            856.0,
+            346.0,
+            882.0
+          ],
+          "text": "NADH (Without P-5-P)",
+          "confidence": 0.9643
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            896.0,
+            248.0,
+            924.0
+          ],
+          "text": "SGOT",
+          "confidence": 0.8569
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            896.0,
+            656.0,
+            922.0
+          ],
+          "text": "H",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            896.0,
+            712.0,
+            924.0
+          ],
+          "text": "161",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            896.0,
+            934.0,
+            926.0
+          ],
+          "text": "UIL",
+          "confidence": 0.4741
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            896.0,
+            1148.0,
+            922.0
+          ],
+          "text": "11 - 34",
+          "confidence": 0.637
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            914.0,
+            346.0,
+            942.0
+          ],
+          "text": "NADH (Without P-5-P)",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            956.0,
+            394.0,
+            984.0
+          ],
+          "text": "Alkaline Phosphatase",
+          "confidence": 0.958
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            956.0,
+            656.0,
+            982.0
+          ],
+          "text": "H",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            956.0,
+            714.0,
+            984.0
+          ],
+          "text": "152",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            889.0,
+            949.0,
+            935.0,
+            989.0
+          ],
+          "text": "UIL",
+          "confidence": 0.7142
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            956.0,
+            1150.0,
+            982.0
+          ],
+          "text": "40-150",
+          "confidence": 0.721
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            977.0,
+            395.0,
+            1003.0
+          ],
+          "text": "Para-Nitrophenyl Phosphate",
+          "confidence": 0.8947
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1015.0,
+            496.0,
+            1046.0
+          ],
+          "text": "Gamma  Glutamyl Transferase",
+          "confidence": 0.8803
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            1016.0,
+            656.0,
+            1042.0
+          ],
+          "text": "H",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1016.0,
+            712.0,
+            1042.0
+          ],
+          "text": "177",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            1014.0,
+            934.0,
+            1044.0
+          ],
+          "text": "UIL",
+          "confidence": 0.7881
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            1016.0,
+            1138.0,
+            1044.0
+          ],
+          "text": "0 - 55",
+          "confidence": 0.8488
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1035.0,
+            528.0,
+            1064.0
+          ],
+          "text": "L-Gamma-glutamyl-3-carboxy-4-nitroanilide",
+          "confidence": 0.8191
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1060.0,
+            234.0,
+            1080.0
+          ],
+          "text": "Substrate",
+          "confidence": 0.7934
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1098.0,
+            328.0,
+            1128.0
+          ],
+          "text": "Proteins (Total)",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1098.0,
+            706.0,
+            1124.0
+          ],
+          "text": "6.9",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            1098.0,
+            1110.0,
+            1124.0
+          ],
+          "text": "6.4",
+          "confidence": 0.2606
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1098.0,
+            1164.0,
+            1124.0
+          ],
+          "text": "8.3",
+          "confidence": 0.7156
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1121.0,
+            203.0,
+            1141.0
+          ],
+          "text": "Biuret",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1158.0,
+            246.0,
+            1184.0
+          ],
+          "text": "Albumin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1158.0,
+            706.0,
+            1184.0
+          ],
+          "text": "4.0",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            1158.0,
+            1150.0,
+            1184.0
+          ],
+          "text": "3.5-5.0",
+          "confidence": 0.7629
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1180.0,
+            330.0,
+            1204.0
+          ],
+          "text": "Bromo Cresol Green",
+          "confidence": 0.6265
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1218.0,
+            248.0,
+            1246.0
+          ],
+          "text": "Globulin",
+          "confidence": 0.6897
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1218.0,
+            706.0,
+            1244.0
+          ],
+          "text": "2.9",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            1218.0,
+            1164.0,
+            1244.0
+          ],
+          "text": "2.0 - 3.5",
+          "confidence": 0.4434
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1241.0,
+            243.0,
+            1261.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9638
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1278.0,
+            264.0,
+            1304.0
+          ],
+          "text": "AIG Ratio",
+          "confidence": 0.6013
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1278.0,
+            706.0,
+            1304.0
+          ],
+          "text": "1.4",
+          "confidence": 0.5149
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            1278.0,
+            1170.0,
+            1304.0
+          ],
+          "text": "1.0 - 2.0",
+          "confidence": 0.6022
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1301.0,
+            243.0,
+            1321.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9638
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            800.0,
+            1366.0,
+            948.0,
+            1394.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1914.0,
+            650.0,
+            1945.0
+          ],
+          "text": "Note:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal)",
+          "confidence": 0.7568
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            1019.0,
+            1964.0,
+            1150.0,
+            2019.0
+          ],
+          "text": "Xl",
+          "confidence": 0.2421
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            2016.0,
+            262.0,
+            2046.0
+          ],
+          "text": "KAVERI C",
+          "confidence": 0.8947
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            990.0,
+            2016.0,
+            1112.0,
+            2046.0
+          ],
+          "text": "Dr.Selvi R",
+          "confidence": 0.9476
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            990.0,
+            2044.0,
+            1276.0,
+            2076.0
+          ],
+          "text": "Consultant Biochemist",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            2087.0,
+            264.0,
+            2120.0
+          ],
+          "text": "Verified by",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            2135.0,
+            1169.0,
+            2173.0
+          ],
+          "text": "Qodas rotui_Goeongivg GLqvL Faium_60ie",
+          "confidence": 0.0005
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            2192.0,
+            1402.0,
+            2220.0
+          ],
+          "text": "044-4141 2222",
+          "confidence": 0.6963
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            2210.0,
+            711.0,
+            2247.0
+          ],
+          "text": "Neuberg Ehrlich Laboratory Private Limited,",
+          "confidence": 0.7471
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            2228.0,
+            1548.0,
+            2254.0
+          ],
+          "text": "infoaneubergdlagnostics com",
+          "confidence": 0.6673
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            2248.0,
+            792.0,
+            2278.0
+          ],
+          "text": "No 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai",
+          "confidence": 0.7573
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            2250.0,
+            898.0,
+            2276.0
+          ],
+          "text": "600096",
+          "confidence": 0.9807
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1257.0,
+            2261.0,
+            1543.0,
+            2285.0
+          ],
+          "text": "wwWneubergdlagnosticscom",
+          "confidence": 0.7906
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            887.5430712064641,
+            1095.3858936412344,
+            943.4569287935359,
+            1128.6141063587656
+          ],
+          "text": "gldL",
+          "confidence": 0.9841
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            887.5430712064641,
+            1155.3858936412344,
+            943.4569287935359,
+            1188.6141063587656
+          ],
+          "text": "gldL",
+          "confidence": 0.9841
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            887.6583592135001,
+            1215.3828389107298,
+            947.3416407864999,
+            1250.6171610892702
+          ],
+          "text": "gldL",
+          "confidence": 0.9793
+        }
+      ]
+    }
+  ],
+  "full_text": "Neuberg\nDIAGNostics\nIndia\nUAE\nSouth Africa\nUSA\nTEST\nREPORT\nFinal Laboratory Report\nPID\nDr. Dhenesh .R, M.B.B.S,, DA , DNB ,\nRef: ID\nIP\nCorporate\nDelta Hospitals\nUHID\nCol Dt. Time\n26-Apr-2025 07.50\nRecv Dt: Time\n26-Apr-2025 07:50\nSample Type\nSerum\nReg Dt: Time\n26-Apr-2025 07:50\nReport Released\n26-Apr-2025 09.41\nReport Printed\n26-Apr-2025 13.46\nTEST\nRESULTS\nUNIT\nBIOLOGICAL REF RANGE\nTEST REMARK\nLIVER FUNCTION TEST\nBilirubin Total\nH\n7.71\nmgldL\n0.2\n1.2\nDiazonium Salt\nBilirubin Direct\nH\n5.99\nmgldL\n0 - 0.5\nDIAZO REACTION\nBilirubin Indirect\nH\n1.72\nmgldL\n0.1 - 1\nCalculated\nSGPT\nH\n755\nUIL\n0\n45\nNADH (Without P-5-P)\nSGOT\nH\n161\nUIL\n11 - 34\nNADH (Without P-5-P)\nAlkaline Phosphatase\nH\n152\nUIL\n40-150\nPara-Nitrophenyl Phosphate\nGamma  Glutamyl Transferase\nH\n177\nUIL\n0 - 55\nL-Gamma-glutamyl-3-carboxy-4-nitroanilide\nSubstrate\nProteins (Total)\n6.9\n6.4\n8.3\nBiuret\nAlbumin\n4.0\n3.5-5.0\nBromo Cresol Green\nGlobulin\n2.9\n2.0 - 3.5\nCalculated\nAIG Ratio\n1.4\n1.0 - 2.0\nCalculated\nEnd Of Report\nNote:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal)\nXl\nKAVERI C\nDr.Selvi R\nConsultant Biochemist\nVerified by\nQodas rotui_Goeongivg GLqvL Faium_60ie\n044-4141 2222\nNeuberg Ehrlich Laboratory Private Limited,\ninfoaneubergdlagnostics com\nNo 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai\n600096\nwwWneubergdlagnosticscom\ngldL\ngldL\ngldL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "NADH (Without P",
+          "biomarker_normalized": "NADH (Without P",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NADH (Without P-5-P)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "L-Gamma-glutamyl",
+          "biomarker_normalized": "L-Gamma-glutamyl",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "L-Gamma-glutamyl-3-carboxy-4-nitroanilide",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Qodas rotui_Goeongivg GLqvL Faium_",
+          "biomarker_normalized": "Qodas rotui_Goeongivg GLqvL Faium_",
+          "value": "60",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Qodas rotui_Goeongivg GLqvL Faium_60ie",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "No",
+          "biomarker_normalized": "No",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 113,
+    "ocr_avg_confidence": 0.8254,
+    "parsed_row_count": 4
+  }
+}

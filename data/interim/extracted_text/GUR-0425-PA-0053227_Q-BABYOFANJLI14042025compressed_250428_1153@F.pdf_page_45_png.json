@@ -1,0 +1,672 @@
+{
+  "document_id": "GUR-0425-PA-0053227_Q-BABYOFANJLI14042025compressed_250428_1153@F.pdf_page_45",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053227_Q-BABYOFANJLI14042025compressed_250428_1153@F.pdf_page_45.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MAHARISHI MARKANDESHWAR COLLEGE\nOF MEDICAL SCIENCES AND RESEARCH\nutalaalsa\nSADOPUR\nAMBALA\nDEPARTMENT OF BIOCHEMISTRY\nPatient\nBill\n15-Apr-2025\n11:05 PM\nCollection Date: 15-Apr-2025\n11:05 PM\nNo\nSER932573\nReport Date\n16-Apr-2025\n07:47 AM\nWard / Room / Bed\nRef Bv\nUNIT-[\nSpecimen\nSerum\nDepartment\nPAEDIATRICS\nParameter\nResults\nBiological Reference\nCRP QUANTITATIVE\n0.23\nmg/dL\n0.50\nmg/dL\nIONIC CALCIUM\n4.96\n4.4\nmg/dl\n##*\nEnd Of Report ***\nTest Notes\nSuggested Clinical Correlation\nIf neccessary, Please\ndiscuss\nINDERPREET KAURLOGY\nVerified By\nSsistart Professor\nDz;\"\nTest results related only to the item tested_\nNo part of the report can be reproduced without written permission of the laboratory_\nmg/dl\n5.2\nSADOPURAMZAA\nMMCMSR;",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            321.0,
+            69.0,
+            1370.0,
+            133.0
+          ],
+          "text": "MAHARISHI MARKANDESHWAR COLLEGE",
+          "confidence": 0.9682
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            335.0,
+            132.0,
+            1353.0,
+            197.0
+          ],
+          "text": "OF MEDICAL SCIENCES AND RESEARCH",
+          "confidence": 0.9834
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            254.0,
+            211.0,
+            280.0
+          ],
+          "text": "utalaalsa",
+          "confidence": 0.0061
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            222.0,
+            839.0,
+            278.0
+          ],
+          "text": "SADOPUR",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            874.0,
+            222.0,
+            1064.0,
+            276.0
+          ],
+          "text": "AMBALA",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            359.0,
+            1267.0,
+            396.0
+          ],
+          "text": "DEPARTMENT OF BIOCHEMISTRY",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            424.0,
+            450.0,
+            450.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            464.0,
+            398.0,
+            490.0
+          ],
+          "text": "Bill",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            561.0,
+            461.0,
+            717.0,
+            497.0
+          ],
+          "text": "15-Apr-2025",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            466.0,
+            838.0,
+            492.0
+          ],
+          "text": "11:05 PM",
+          "confidence": 0.6422
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            508.0,
+            714.0,
+            536.0
+          ],
+          "text": "Collection Date: 15-Apr-2025",
+          "confidence": 0.8683
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            508.0,
+            836.0,
+            534.0
+          ],
+          "text": "11:05 PM",
+          "confidence": 0.7611
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            520.0,
+            1204.0,
+            546.0
+          ],
+          "text": "No",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            520.0,
+            1370.0,
+            550.0
+          ],
+          "text": "SER932573",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            351.0,
+            547.0,
+            510.0,
+            575.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8987
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            546.0,
+            716.0,
+            574.0
+          ],
+          "text": "16-Apr-2025",
+          "confidence": 0.9844
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            546.0,
+            838.0,
+            572.0
+          ],
+          "text": "07:47 AM",
+          "confidence": 0.7765
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            552.0,
+            1202.0,
+            580.0
+          ],
+          "text": "Ward / Room / Bed",
+          "confidence": 0.6694
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            582.0,
+            440.0,
+            614.0
+          ],
+          "text": "Ref Bv",
+          "confidence": 0.6301
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            590.0,
+            852.0,
+            616.0
+          ],
+          "text": "UNIT-[",
+          "confidence": 0.9677
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            977.0,
+            584.0,
+            1106.0,
+            616.0
+          ],
+          "text": "Specimen",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            588.0,
+            1308.0,
+            616.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            351.0,
+            627.0,
+            510.0,
+            659.0
+          ],
+          "text": "Department",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            562.0,
+            630.0,
+            724.0,
+            658.0
+          ],
+          "text": "PAEDIATRICS",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            351.0,
+            680.0,
+            492.0,
+            710.0
+          ],
+          "text": "Parameter",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            684.0,
+            850.0,
+            712.0
+          ],
+          "text": "Results",
+          "confidence": 0.9515
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            685.0,
+            1474.0,
+            718.0
+          ],
+          "text": "Biological Reference",
+          "confidence": 0.935
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            726.0,
+            612.0,
+            758.0
+          ],
+          "text": "CRP QUANTITATIVE",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            728.0,
+            810.0,
+            758.0
+          ],
+          "text": "0.23",
+          "confidence": 0.6067
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            730.0,
+            896.0,
+            758.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9682
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            732.0,
+            1230.0,
+            758.0
+          ],
+          "text": "0.50",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            734.0,
+            1320.0,
+            762.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9557
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            904.0,
+            560.0,
+            934.0
+          ],
+          "text": "IONIC CALCIUM",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            908.0,
+            806.0,
+            934.0
+          ],
+          "text": "4.96",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            912.0,
+            1190.0,
+            936.0
+          ],
+          "text": "4.4",
+          "confidence": 0.8408
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            912.0,
+            1334.0,
+            940.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9847
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            849.0,
+            1035.0,
+            891.0,
+            1049.0
+          ],
+          "text": "##*",
+          "confidence": 0.0536
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            1031.0,
+            1112.0,
+            1063.0
+          ],
+          "text": "End Of Report ***",
+          "confidence": 0.7445
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1914.0,
+            474.0,
+            1944.0
+          ],
+          "text": "Test Notes",
+          "confidence": 0.9833
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            333.0,
+            1966.0,
+            719.0,
+            2003.0
+          ],
+          "text": "Suggested Clinical Correlation",
+          "confidence": 0.8007
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            1970.0,
+            1014.0,
+            2002.0
+          ],
+          "text": "If neccessary, Please",
+          "confidence": 0.9674
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1998.0,
+            430.0,
+            2026.0
+          ],
+          "text": "discuss",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            1992.0,
+            1583.0,
+            2048.0
+          ],
+          "text": "INDERPREET KAURLOGY",
+          "confidence": 0.7178
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            333.0,
+            2027.0,
+            479.0,
+            2065.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.9398
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            2025.0,
+            1472.0,
+            2068.0
+          ],
+          "text": "Ssistart Professor",
+          "confidence": 0.8364
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1133.0,
+            2049.0,
+            1195.0,
+            2085.0
+          ],
+          "text": "Dz;\"",
+          "confidence": 0.2942
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            331.0,
+            2077.0,
+            881.0,
+            2115.0
+          ],
+          "text": "Test results related only to the item tested_",
+          "confidence": 0.9589
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            333.0,
+            2129.0,
+            1411.0,
+            2171.0
+          ],
+          "text": "No part of the report can be reproduced without written permission of the laboratory_",
+          "confidence": 0.6529
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            814.4789396203098,
+            904.6583592135001,
+            889.5210603796902,
+            940.3416407864999
+          ],
+          "text": "mg/dl",
+          "confidence": 0.6883
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1207.2780681803986,
+            907.1999631813908,
+            1253.7219318196014,
+            938.8000368186092
+          ],
+          "text": "5.2",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1286.4222912360003,
+            2029.987489581485,
+            1581.5777087639997,
+            2105.012510418515
+          ],
+          "text": "SADOPURAMZAA",
+          "confidence": 0.2106
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1138.7811992150992,
+            2069.6098883665595,
+            1296.2188007849008,
+            2125.3901116334405
+          ],
+          "text": "MMCMSR;",
+          "confidence": 0.7112
+        }
+      ]
+    }
+  ],
+  "full_text": "MAHARISHI MARKANDESHWAR COLLEGE\nOF MEDICAL SCIENCES AND RESEARCH\nutalaalsa\nSADOPUR\nAMBALA\nDEPARTMENT OF BIOCHEMISTRY\nPatient\nBill\n15-Apr-2025\n11:05 PM\nCollection Date: 15-Apr-2025\n11:05 PM\nNo\nSER932573\nReport Date\n16-Apr-2025\n07:47 AM\nWard / Room / Bed\nRef Bv\nUNIT-[\nSpecimen\nSerum\nDepartment\nPAEDIATRICS\nParameter\nResults\nBiological Reference\nCRP QUANTITATIVE\n0.23\nmg/dL\n0.50\nmg/dL\nIONIC CALCIUM\n4.96\n4.4\nmg/dl\n##*\nEnd Of Report ***\nTest Notes\nSuggested Clinical Correlation\nIf neccessary, Please\ndiscuss\nINDERPREET KAURLOGY\nVerified By\nSsistart Professor\nDz;\"\nTest results related only to the item tested_\nNo part of the report can be reproduced without written permission of the laboratory_\nmg/dl\n5.2\nSADOPURAMZAA\nMMCMSR;",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Collection Date",
+          "biomarker_normalized": "Collection Date",
+          "value": "15",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Collection Date: 15-Apr-2025",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SER9",
+          "biomarker_normalized": "SER9",
+          "value": "32573",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SER932573",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 52,
+    "ocr_avg_confidence": 0.845,
+    "parsed_row_count": 2
+  }
+}

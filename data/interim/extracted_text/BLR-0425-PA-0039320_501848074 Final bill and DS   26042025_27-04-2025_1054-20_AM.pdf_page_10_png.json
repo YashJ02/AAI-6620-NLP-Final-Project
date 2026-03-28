@@ -1,0 +1,1062 @@
+{
+  "document_id": "BLR-0425-PA-0039320_501848074 Final bill and DS   26042025_27-04-2025_1054-20_AM.pdf_page_10",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0039320_501848074 Final bill and DS   26042025_27-04-2025_1054-20_AM.pdf_page_10.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Aster\nMims HOSPITAL\nWe\"Il Treat You Well\nNithin]\nThumbethodika\nConsultant\nDr. SABARINATH MENON\nDOA\nDOD\nAPTT\n66.9\nscc\n(26 - 36)\nControl\n30.0\nsCc\nDate\nCBC COMPLETE BLOOD COUNT\nHaemoglobin Estimation\n15.3\ngldl\n(IL.1 - 14.)\n(Hb)\nTotal Leukocyte Count\n9.9\nKluL\n(6 - 18)\n(TLC)\nPlatelet Count\n107\nKJuL\n(200\n550)\nRBC Count (Red Blood\n5.33\n10^6/uL\n(4.1-53)\nCell)\nPCV (Haematocrit)\n445\n(30\n40)\nMean Corpuscular\n83.4\n(68\n84)\nVolume (MCV)\nMean corpuscular\n28.7\npg\n(24 - 30)\nhemoglobin (MCH)\nMean corpuscular\n34.4\ngldl\n(30\n36)\nhemoglobin\nconcentration(MCHC)\nRed cell distribution\n14.9\n(11.6 - 14)\nwidth-CV%(RDW)\nPlatelet distribution\n15.7\n(85 -14.1)\nwidth(PDW)\nMean platelet\n8.7\n(7.44 -10.26)\nvolume(MPV)\nDifferential leucocyte count(DLC)\nNeutrophils\n68\n(20\n65)\nMini Bvepass Road, Govindapuram PO,\nCalicut 673 016,Kerala; India\ndeaincare\nTel: +91495679 1000, 2488000, Fax: +91 495 2741329\nCIN-U8511OKL 1995PLC008677\nVenture\nPayer",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            43.0,
+            276.0,
+            119.0
+          ],
+          "text": "Aster",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            113.0,
+            455.0,
+            155.0
+          ],
+          "text": "Mims HOSPITAL",
+          "confidence": 0.4733
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            154.0,
+            252.0,
+            178.0
+          ],
+          "text": "We\"Il Treat You Well",
+          "confidence": 0.6319
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            300.0,
+            418.0,
+            330.0
+          ],
+          "text": "Nithin]",
+          "confidence": 0.5428
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            333.0,
+            339.0,
+            532.0,
+            370.0
+          ],
+          "text": "Thumbethodika",
+          "confidence": 0.6686
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            535.0,
+            328.0,
+            568.0
+          ],
+          "text": "Consultant",
+          "confidence": 0.8989
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            537.0,
+            702.0,
+            570.0
+          ],
+          "text": "Dr. SABARINATH MENON",
+          "confidence": 0.9854
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            542.0,
+            834.0,
+            572.0
+          ],
+          "text": "DOA",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            546.0,
+            1260.0,
+            576.0
+          ],
+          "text": "DOD",
+          "confidence": 0.8287
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            738.0,
+            286.0,
+            768.0
+          ],
+          "text": "APTT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            546.0,
+            742.0,
+            606.0,
+            772.0
+          ],
+          "text": "66.9",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            901.0,
+            745.0,
+            941.0,
+            765.0
+          ],
+          "text": "scc",
+          "confidence": 0.62
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1260.0,
+            744.0,
+            1356.0,
+            774.0
+          ],
+          "text": "(26 - 36)",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            790.0,
+            306.0,
+            820.0
+          ],
+          "text": "Control",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            794.0,
+            604.0,
+            822.0
+          ],
+          "text": "30.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            901.0,
+            797.0,
+            939.0,
+            817.0
+          ],
+          "text": "sCc",
+          "confidence": 0.4216
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            841.0,
+            256.0,
+            872.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            892.0,
+            679.0,
+            931.0
+          ],
+          "text": "CBC COMPLETE BLOOD COUNT",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            946.0,
+            527.0,
+            988.0
+          ],
+          "text": "Haemoglobin Estimation",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            950.0,
+            604.0,
+            982.0
+          ],
+          "text": "15.3",
+          "confidence": 0.8649
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            950.0,
+            950.0,
+            982.0
+          ],
+          "text": "gldl",
+          "confidence": 0.9162
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1257.0,
+            952.0,
+            1390.0,
+            982.0
+          ],
+          "text": "(IL.1 - 14.)",
+          "confidence": 0.6685
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            991.0,
+            258.0,
+            1028.0
+          ],
+          "text": "(Hb)",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1044.0,
+            503.0,
+            1084.0
+          ],
+          "text": "Total Leukocyte Count",
+          "confidence": 0.9323
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            1048.0,
+            586.0,
+            1078.0
+          ],
+          "text": "9.9",
+          "confidence": 0.5095
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            1048.0,
+            962.0,
+            1074.0
+          ],
+          "text": "KluL",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            1052.0,
+            1342.0,
+            1082.0
+          ],
+          "text": "(6 - 18)",
+          "confidence": 0.943
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            1091.0,
+            275.0,
+            1123.0
+          ],
+          "text": "(TLC)",
+          "confidence": 0.6758
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1142.0,
+            387.0,
+            1178.0
+          ],
+          "text": "Platelet Count",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            1148.0,
+            594.0,
+            1178.0
+          ],
+          "text": "107",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            1146.0,
+            960.0,
+            1172.0
+          ],
+          "text": "KJuL",
+          "confidence": 0.4964
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            1150.0,
+            1312.0,
+            1180.0
+          ],
+          "text": "(200",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            1150.0,
+            1378.0,
+            1180.0
+          ],
+          "text": "550)",
+          "confidence": 0.8539
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1195.0,
+            507.0,
+            1232.0
+          ],
+          "text": "RBC Count (Red Blood",
+          "confidence": 0.8896
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            1200.0,
+            602.0,
+            1230.0
+          ],
+          "text": "5.33",
+          "confidence": 0.7128
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1198.0,
+            994.0,
+            1226.0
+          ],
+          "text": "10^6/uL",
+          "confidence": 0.7499
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            1200.0,
+            1364.0,
+            1232.0
+          ],
+          "text": "(4.1-53)",
+          "confidence": 0.9712
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            1241.0,
+            257.0,
+            1277.0
+          ],
+          "text": "Cell)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            1293.0,
+            453.0,
+            1333.0
+          ],
+          "text": "PCV (Haematocrit)",
+          "confidence": 0.9789
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            537.0,
+            1295.0,
+            604.0,
+            1331.0
+          ],
+          "text": "445",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            1302.0,
+            1298.0,
+            1330.0
+          ],
+          "text": "(30",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1308.0,
+            1302.0,
+            1352.0,
+            1332.0
+          ],
+          "text": "40)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1345.0,
+            445.0,
+            1388.0
+          ],
+          "text": "Mean Corpuscular",
+          "confidence": 0.8872
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            538.0,
+            1352.0,
+            598.0,
+            1382.0
+          ],
+          "text": "83.4",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            1354.0,
+            1298.0,
+            1384.0
+          ],
+          "text": "(68",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1308.0,
+            1354.0,
+            1352.0,
+            1384.0
+          ],
+          "text": "84)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            1393.0,
+            393.0,
+            1429.0
+          ],
+          "text": "Volume (MCV)",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1447.0,
+            433.0,
+            1484.0
+          ],
+          "text": "Mean corpuscular",
+          "confidence": 0.7362
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            538.0,
+            1450.0,
+            600.0,
+            1482.0
+          ],
+          "text": "28.7",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            894.0,
+            1454.0,
+            928.0,
+            1480.0
+          ],
+          "text": "pg",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            1454.0,
+            1350.0,
+            1484.0
+          ],
+          "text": "(24 - 30)",
+          "confidence": 0.8006
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            1493.0,
+            443.0,
+            1531.0
+          ],
+          "text": "hemoglobin (MCH)",
+          "confidence": 0.9604
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1545.0,
+            433.0,
+            1583.0
+          ],
+          "text": "Mean corpuscular",
+          "confidence": 0.8744
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            536.0,
+            1548.0,
+            600.0,
+            1580.0
+          ],
+          "text": "34.4",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            894.0,
+            1548.0,
+            944.0,
+            1580.0
+          ],
+          "text": "gldl",
+          "confidence": 0.9862
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1252.0,
+            1552.0,
+            1296.0,
+            1580.0
+          ],
+          "text": "(30",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            1552.0,
+            1350.0,
+            1582.0
+          ],
+          "text": "36)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            1591.0,
+            341.0,
+            1629.0
+          ],
+          "text": "hemoglobin",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1633.0,
+            485.0,
+            1675.0
+          ],
+          "text": "concentration(MCHC)",
+          "confidence": 0.9357
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            1689.0,
+            459.0,
+            1725.0
+          ],
+          "text": "Red cell distribution",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            1694.0,
+            598.0,
+            1724.0
+          ],
+          "text": "14.9",
+          "confidence": 0.9817
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1251.0,
+            1694.0,
+            1364.0,
+            1726.0
+          ],
+          "text": "(11.6 - 14)",
+          "confidence": 0.9539
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1732.0,
+            441.0,
+            1773.0
+          ],
+          "text": "width-CV%(RDW)",
+          "confidence": 0.6727
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            1790.0,
+            452.0,
+            1822.0
+          ],
+          "text": "Platelet distribution",
+          "confidence": 0.5913
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            533.0,
+            1789.0,
+            598.0,
+            1825.0
+          ],
+          "text": "15.7",
+          "confidence": 0.6338
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            1794.0,
+            1370.0,
+            1822.0
+          ],
+          "text": "(85 -14.1)",
+          "confidence": 0.787
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1831.0,
+            353.0,
+            1871.0
+          ],
+          "text": "width(PDW)",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            1887.0,
+            373.0,
+            1925.0
+          ],
+          "text": "Mean platelet",
+          "confidence": 0.8559
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            1890.0,
+            578.0,
+            1920.0
+          ],
+          "text": "8.7",
+          "confidence": 0.9941
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            1890.0,
+            1394.0,
+            1922.0
+          ],
+          "text": "(7.44 -10.26)",
+          "confidence": 0.7103
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            1933.0,
+            369.0,
+            1969.0
+          ],
+          "text": "volume(MPV)",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            1985.0,
+            637.0,
+            2025.0
+          ],
+          "text": "Differential leucocyte count(DLC)",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            2036.0,
+            369.0,
+            2078.0
+          ],
+          "text": "Neutrophils",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            2044.0,
+            572.0,
+            2074.0
+          ],
+          "text": "68",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            2044.0,
+            1290.0,
+            2072.0
+          ],
+          "text": "(20",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            2044.0,
+            1344.0,
+            2074.0
+          ],
+          "text": "65)",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            2163.0,
+            628.0,
+            2194.0
+          ],
+          "text": "Mini Bvepass Road, Govindapuram PO,",
+          "confidence": 0.5767
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            2194.0,
+            532.0,
+            2222.0
+          ],
+          "text": "Calicut 673 016,Kerala; India",
+          "confidence": 0.4198
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1417.0,
+            2201.0,
+            1513.0,
+            2219.0
+          ],
+          "text": "deaincare",
+          "confidence": 0.0887
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            2221.0,
+            824.0,
+            2252.0
+          ],
+          "text": "Tel: +91495679 1000, 2488000, Fax: +91 495 2741329",
+          "confidence": 0.5957
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            878.0,
+            2222.0,
+            1212.0,
+            2252.0
+          ],
+          "text": "CIN-U8511OKL 1995PLC008677",
+          "confidence": 0.6224
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1377.0,
+            2221.0,
+            1451.0,
+            2241.0
+          ],
+          "text": "Venture",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            186.08499719051417,
+            633.1219034952862,
+            265.9150028094858,
+            672.8780965047138
+          ],
+          "text": "Payer",
+          "confidence": 0.9997
+        }
+      ]
+    }
+  ],
+  "full_text": "Aster\nMims HOSPITAL\nWe\"Il Treat You Well\nNithin]\nThumbethodika\nConsultant\nDr. SABARINATH MENON\nDOA\nDOD\nAPTT\n66.9\nscc\n(26 - 36)\nControl\n30.0\nsCc\nDate\nCBC COMPLETE BLOOD COUNT\nHaemoglobin Estimation\n15.3\ngldl\n(IL.1 - 14.)\n(Hb)\nTotal Leukocyte Count\n9.9\nKluL\n(6 - 18)\n(TLC)\nPlatelet Count\n107\nKJuL\n(200\n550)\nRBC Count (Red Blood\n5.33\n10^6/uL\n(4.1-53)\nCell)\nPCV (Haematocrit)\n445\n(30\n40)\nMean Corpuscular\n83.4\n(68\n84)\nVolume (MCV)\nMean corpuscular\n28.7\npg\n(24 - 30)\nhemoglobin (MCH)\nMean corpuscular\n34.4\ngldl\n(30\n36)\nhemoglobin\nconcentration(MCHC)\nRed cell distribution\n14.9\n(11.6 - 14)\nwidth-CV%(RDW)\nPlatelet distribution\n15.7\n(85 -14.1)\nwidth(PDW)\nMean platelet\n8.7\n(7.44 -10.26)\nvolume(MPV)\nDifferential leucocyte count(DLC)\nNeutrophils\n68\n(20\n65)\nMini Bvepass Road, Govindapuram PO,\nCalicut 673 016,Kerala; India\ndeaincare\nTel: +91495679 1000, 2488000, Fax: +91 495 2741329\nCIN-U8511OKL 1995PLC008677\nVenture\nPayer",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "(IL.",
+          "biomarker_normalized": "(IL.",
+          "value": "1",
+          "unit": "",
+          "reference_range": "1-14",
+          "source_line": "(IL.1 - 14.)",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Calicut",
+          "biomarker_normalized": "Calicut",
+          "value": "673",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Calicut 673 016,Kerala; India",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Tel: +",
+          "biomarker_normalized": "Tel: +",
+          "value": "91495679",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Tel: +91495679 1000, 2488000, Fax: +91 495 2741329",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN-U8",
+          "biomarker_normalized": "CIN-U8",
+          "value": "511",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN-U8511OKL 1995PLC008677",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 83,
+    "ocr_avg_confidence": 0.8647,
+    "parsed_row_count": 4
+  }
+}

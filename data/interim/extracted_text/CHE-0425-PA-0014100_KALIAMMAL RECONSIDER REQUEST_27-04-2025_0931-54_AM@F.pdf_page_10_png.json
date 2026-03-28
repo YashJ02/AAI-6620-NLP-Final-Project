@@ -1,0 +1,621 @@
+{
+  "document_id": "CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_27-04-2025_0931-54_AM@F.pdf_page_10",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_27-04-2025_0931-54_AM@F.pdf_page_10.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF BIOCHEMISTRY\nASHM-QF-Lsibci-7i\nName\nMis KALIAMMAL M\nUHID\nMmhiip137802\nMDICUIICU AG\nSIN\nLRN\n54227380\n17018164\nSpeclmen\nBlood\nRel Doctor\nDr RAJESH PRABTUP\nCollected Du\n75 4PR-7025 07* 24*29 Phi\nRecclvad on\n25-APR-2025 04 5140pM\nReponed O\n25 AFR 7025 09 33 27 Pv\nRENAL\nRESULI\nBIQLOGICAL REFERENCE INTERVALS\nUNLS\nPLASMA\n135\nAdull; 136\n145\nInEqIL\n(ISE direct)\nCommicuts\nSUGAR DONE IN PLASMA UREA\nCREATININE Sodium\nPotassiUM\nChLORIDE ARE DONE IN SERUM.\nRepon Statue Finai\nEND OF REPORT *\nCHECKED BY\n1003065\nMElan\n100J065\nPrinied On \"\n26-APR-2025 05 49.27 PM\nDi Elamnathiu\nPithOLOGIST\nPage ! of +",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            218.0,
+            1176.0,
+            250.0
+          ],
+          "text": "DEPARTMENT OF BIOCHEMISTRY",
+          "confidence": 0.9911
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            294.0,
+            1555.0,
+            333.0
+          ],
+          "text": "ASHM-QF-Lsibci-7i",
+          "confidence": 0.3384
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            165.0,
+            385.0,
+            234.0,
+            414.0
+          ],
+          "text": "Name",
+          "confidence": 0.6387
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            388.0,
+            580.0,
+            414.0
+          ],
+          "text": "Mis KALIAMMAL M",
+          "confidence": 0.4505
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            434.0,
+            228.0,
+            460.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            432.0,
+            852.0,
+            462.0
+          ],
+          "text": "Mmhiip137802",
+          "confidence": 0.517
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            434.0,
+            1330.0,
+            464.0
+          ],
+          "text": "MDICUIICU AG",
+          "confidence": 0.6186
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            482.0,
+            210.0,
+            508.0
+          ],
+          "text": "SIN",
+          "confidence": 0.5749
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            482.0,
+            286.0,
+            508.0
+          ],
+          "text": "LRN",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            480.0,
+            464.0,
+            510.0
+          ],
+          "text": "54227380",
+          "confidence": 0.61
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            486.0,
+            480.0,
+            596.0,
+            510.0
+          ],
+          "text": "17018164",
+          "confidence": 0.8347
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            526.0,
+            278.0,
+            552.0
+          ],
+          "text": "Speclmen",
+          "confidence": 0.6974
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            524.0,
+            416.0,
+            550.0
+          ],
+          "text": "Blood",
+          "confidence": 0.575
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            566.0,
+            288.0,
+            592.0
+          ],
+          "text": "Rel Doctor",
+          "confidence": 0.9837
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            565.0,
+            582.0,
+            592.0
+          ],
+          "text": "Dr RAJESH PRABTUP",
+          "confidence": 0.1261
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            871.0,
+            259.0,
+            891.0
+          ],
+          "text": "Collected Du",
+          "confidence": 0.3385
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            317.0,
+            870.0,
+            546.0,
+            894.0
+          ],
+          "text": "75 4PR-7025 07* 24*29 Phi",
+          "confidence": 0.0416
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            588.0,
+            874.0,
+            700.0,
+            898.0
+          ],
+          "text": "Recclvad on",
+          "confidence": 0.1484
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            866.0,
+            984.0,
+            894.0
+          ],
+          "text": "25-APR-2025 04 5140pM",
+          "confidence": 0.143
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            870.0,
+            1130.0,
+            894.0
+          ],
+          "text": "Reponed O",
+          "confidence": 0.3438
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            862.0,
+            1450.0,
+            888.0
+          ],
+          "text": "25 AFR 7025 09 33 27 Pv",
+          "confidence": 0.0537
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            932.0,
+            241.0,
+            962.0
+          ],
+          "text": "RENAL",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            982.0,
+            852.0,
+            1008.0
+          ],
+          "text": "RESULI",
+          "confidence": 0.5803
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            912.0,
+            980.0,
+            1315.0,
+            1010.0
+          ],
+          "text": "BIQLOGICAL REFERENCE INTERVALS",
+          "confidence": 0.5371
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            982.0,
+            1466.0,
+            1008.0
+          ],
+          "text": "UNLS",
+          "confidence": 0.4509
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            1042.0,
+            454.0,
+            1070.0
+          ],
+          "text": "PLASMA",
+          "confidence": 0.6595
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1044.0,
+            812.0,
+            1072.0
+          ],
+          "text": "135",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1040.0,
+            1058.0,
+            1068.0
+          ],
+          "text": "Adull; 136",
+          "confidence": 0.6763
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            1040.0,
+            1114.0,
+            1066.0
+          ],
+          "text": "145",
+          "confidence": 0.6776
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            1040.0,
+            1462.0,
+            1068.0
+          ],
+          "text": "InEqIL",
+          "confidence": 0.1933
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1072.0,
+            266.0,
+            1102.0
+          ],
+          "text": "(ISE direct)",
+          "confidence": 0.5011
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1104.0,
+            272.0,
+            1130.0
+          ],
+          "text": "Commicuts",
+          "confidence": 0.522
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            1103.0,
+            680.0,
+            1134.0
+          ],
+          "text": "SUGAR DONE IN PLASMA UREA",
+          "confidence": 0.7932
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            1135.0,
+            556.0,
+            1164.0
+          ],
+          "text": "CREATININE Sodium",
+          "confidence": 0.5634
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            1166.0,
+            458.0,
+            1196.0
+          ],
+          "text": "PotassiUM",
+          "confidence": 0.4826
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            1198.0,
+            686.0,
+            1228.0
+          ],
+          "text": "ChLORIDE ARE DONE IN SERUM.",
+          "confidence": 0.1708
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1315.0,
+            344.0,
+            1343.0
+          ],
+          "text": "Repon Statue Finai",
+          "confidence": 0.3337
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1462.0,
+            942.0,
+            1492.0
+          ],
+          "text": "END OF REPORT *",
+          "confidence": 0.8957
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1806.0,
+            308.0,
+            1836.0
+          ],
+          "text": "CHECKED BY",
+          "confidence": 0.7623
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            1804.0,
+            432.0,
+            1834.0
+          ],
+          "text": "1003065",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1113.0,
+            1764.0,
+            1329.0,
+            1839.0
+          ],
+          "text": "MElan",
+          "confidence": 0.4716
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            1836.0,
+            432.0,
+            1864.0
+          ],
+          "text": "100J065",
+          "confidence": 0.3726
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            1898.0,
+            402.0,
+            1924.0
+          ],
+          "text": "Prinied On \"",
+          "confidence": 0.2744
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            440.0,
+            1898.0,
+            722.0,
+            1926.0
+          ],
+          "text": "26-APR-2025 05 49.27 PM",
+          "confidence": 0.6799
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1902.0,
+            1318.0,
+            1930.0
+          ],
+          "text": "Di Elamnathiu",
+          "confidence": 0.1938
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            1932.0,
+            1326.0,
+            1962.0
+          ],
+          "text": "PithOLOGIST",
+          "confidence": 0.322
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            2002.0,
+            858.0,
+            2033.0
+          ],
+          "text": "Page ! of +",
+          "confidence": 0.1211
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF BIOCHEMISTRY\nASHM-QF-Lsibci-7i\nName\nMis KALIAMMAL M\nUHID\nMmhiip137802\nMDICUIICU AG\nSIN\nLRN\n54227380\n17018164\nSpeclmen\nBlood\nRel Doctor\nDr RAJESH PRABTUP\nCollected Du\n75 4PR-7025 07* 24*29 Phi\nRecclvad on\n25-APR-2025 04 5140pM\nReponed O\n25 AFR 7025 09 33 27 Pv\nRENAL\nRESULI\nBIQLOGICAL REFERENCE INTERVALS\nUNLS\nPLASMA\n135\nAdull; 136\n145\nInEqIL\n(ISE direct)\nCommicuts\nSUGAR DONE IN PLASMA UREA\nCREATININE Sodium\nPotassiUM\nChLORIDE ARE DONE IN SERUM.\nRepon Statue Finai\nEND OF REPORT *\nCHECKED BY\n1003065\nMElan\n100J065\nPrinied On \"\n26-APR-2025 05 49.27 PM\nDi Elamnathiu\nPithOLOGIST\nPage ! of +",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "ASHM-QF-Lsibci",
+          "biomarker_normalized": "ASHM-QF-Lsibci",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ASHM-QF-Lsibci-7i",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Mmhiip1",
+          "biomarker_normalized": "Mmhiip1",
+          "value": "37802",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mmhiip137802",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Adull;",
+          "biomarker_normalized": "Adull;",
+          "value": "136",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Adull; 136",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 47,
+    "ocr_avg_confidence": 0.5369,
+    "parsed_row_count": 3
+  }
+}

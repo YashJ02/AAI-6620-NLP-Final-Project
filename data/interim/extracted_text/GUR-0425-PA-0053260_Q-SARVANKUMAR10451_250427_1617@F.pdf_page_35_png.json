@@ -1,0 +1,879 @@
+{
+  "document_id": "GUR-0425-PA-0053260_Q-SARVANKUMAR10451_250427_1617@F.pdf_page_35",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053260_Q-SARVANKUMAR10451_250427_1617@F.pdf_page_35.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Property ID No: 26, Ward No. 28, Mahavir Park;\nJSANjAx\nOpp. Metro Pillar No. 881, Rohtak Road,\nBahadurgarh; Distt, Jhajjar; Haryana\n124507\nMULTI SPECIALTY\nHOSPITAL\nCIN No: : UZ410ODLZO1OPTC203581\nNABH\nISO 9001\n2015 CERTIFIED\nAccaeditco\nWWW:E\ndrsanjayhospital.com\nDr. Sanjay Singh\nOPD IPD : IPD\nDate:\nLab No\n08\nHormonal_Assay\nInvestigations\nResult\nUnits\nNormal Range\nProcalcitonin\n2.2\nProcalcitonin Interpretation\n<0.25\nBacterial infection is unlikely.\n0.25\n<\n0..\nLocal Bacterial infection is Possible but\nis unlikely\n0.\n<2.0\nSystemic infection (sepsis) is possible and morderate risk of\ndeveloping to severe\n2.0\n<10.0\nHigh risk of progression to severe sepsis or even\nshock\n10.0\nHigh likelihood of severe\nor\nshock:\nRemarks:   This test has been processed and validated by CRL Diagnostics PVT. LTD. NEW Delhi;\nZc^\nBua Kr\nDR AANIL GUPTA\nPAWAN KUMAR\nMBB.S, MD (PATH)\nPhd: BIOCHEMISTRY\nSRI CONSULTANT PATHOLOGIST\nCONSULTANT BIOCHEMIST\nREGD, NO, 5015\nKGar Siha|\nKD\n3\" No\nT+\nngldl\nsepsis\nseptic\nsepsis\nseptic\n(Fath;\n35267",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            74.0,
+            1595.0,
+            115.0
+          ],
+          "text": "Property ID No: 26, Ward No. 28, Mahavir Park;",
+          "confidence": 0.7636
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            81.0,
+            493.0,
+            213.0
+          ],
+          "text": "JSANjAx",
+          "confidence": 0.5804
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1083.0,
+            115.0,
+            1520.0,
+            156.0
+          ],
+          "text": "Opp. Metro Pillar No. 881, Rohtak Road,",
+          "confidence": 0.5231
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1081.0,
+            154.0,
+            1483.0,
+            203.0
+          ],
+          "text": "Bahadurgarh; Distt, Jhajjar; Haryana",
+          "confidence": 0.6162
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1494.0,
+            164.0,
+            1582.0,
+            194.0
+          ],
+          "text": "124507",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            211.0,
+            229.0,
+            227.0
+          ],
+          "text": "MULTI SPECIALTY",
+          "confidence": 0.5523
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            194.0,
+            474.0,
+            242.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            249.0,
+            454.0,
+            280.0
+          ],
+          "text": "CIN No: : UZ410ODLZO1OPTC203581",
+          "confidence": 0.29
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            798.0,
+            248.0,
+            896.0,
+            280.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9913
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            282.0,
+            192.0,
+            308.0
+          ],
+          "text": "ISO 9001",
+          "confidence": 0.96
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            284.0,
+            370.0,
+            310.0
+          ],
+          "text": "2015 CERTIFIED",
+          "confidence": 0.9805
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            283.0,
+            890.0,
+            307.0
+          ],
+          "text": "Accaeditco",
+          "confidence": 0.2525
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            286.0,
+            1214.0,
+            312.0
+          ],
+          "text": "WWW:E",
+          "confidence": 0.2321
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            280.0,
+            1441.0,
+            322.0
+          ],
+          "text": "drsanjayhospital.com",
+          "confidence": 0.9503
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            397.0,
+            376.0,
+            711.0,
+            436.0
+          ],
+          "text": "Dr. Sanjay Singh",
+          "confidence": 0.7121
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            380.0,
+            1410.0,
+            428.0
+          ],
+          "text": "OPD IPD : IPD",
+          "confidence": 0.8734
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            435.0,
+            335.0,
+            475.0
+          ],
+          "text": "Date:",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1129.0,
+            437.0,
+            1267.0,
+            481.0
+          ],
+          "text": "Lab No",
+          "confidence": 0.9255
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1349.0,
+            437.0,
+            1407.0,
+            481.0
+          ],
+          "text": "08",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            522.0,
+            932.0,
+            582.0
+          ],
+          "text": "Hormonal_Assay",
+          "confidence": 0.6575
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            629.0,
+            455.0,
+            673.0
+          ],
+          "text": "Investigations",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            596.0,
+            630.0,
+            707.0,
+            670.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            849.0,
+            631.0,
+            943.0,
+            671.0
+          ],
+          "text": "Units",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            632.0,
+            1371.0,
+            682.0
+          ],
+          "text": "Normal Range",
+          "confidence": 0.8284
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            706.0,
+            427.0,
+            745.0
+          ],
+          "text": "Procalcitonin",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            712.0,
+            662.0,
+            744.0
+          ],
+          "text": "2.2",
+          "confidence": 0.5887
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            695.0,
+            826.0,
+            1073.0,
+            870.0
+          ],
+          "text": "Procalcitonin Interpretation",
+          "confidence": 0.8671
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            874.0,
+            320.0,
+            906.0
+          ],
+          "text": "<0.25",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            649.0,
+            872.0,
+            1054.0,
+            915.0
+          ],
+          "text": "Bacterial infection is unlikely.",
+          "confidence": 0.9772
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            970.0,
+            308.0,
+            1002.0
+          ],
+          "text": "0.25",
+          "confidence": 0.8063
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            339.0,
+            975.0,
+            363.0,
+            995.0
+          ],
+          "text": "<",
+          "confidence": 0.9059
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            362.0,
+            970.0,
+            412.0,
+            1002.0
+          ],
+          "text": "0..",
+          "confidence": 0.299
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            969.0,
+            1191.0,
+            1007.0
+          ],
+          "text": "Local Bacterial infection is Possible but",
+          "confidence": 0.8096
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1277.0,
+            968.0,
+            1426.0,
+            1011.0
+          ],
+          "text": "is unlikely",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1050.0,
+            292.0,
+            1082.0
+          ],
+          "text": "0.",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            1050.0,
+            402.0,
+            1080.0
+          ],
+          "text": "<2.0",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            649.0,
+            1047.0,
+            1461.0,
+            1092.0
+          ],
+          "text": "Systemic infection (sepsis) is possible and morderate risk of",
+          "confidence": 0.8626
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1089.0,
+            931.0,
+            1131.0
+          ],
+          "text": "developing to severe",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1134.0,
+            290.0,
+            1164.0
+          ],
+          "text": "2.0",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            1134.0,
+            404.0,
+            1166.0
+          ],
+          "text": "<10.0",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1133.0,
+            1303.0,
+            1178.0
+          ],
+          "text": "High risk of progression to severe sepsis or even",
+          "confidence": 0.7091
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            1136.0,
+            1478.0,
+            1168.0
+          ],
+          "text": "shock",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            280.0,
+            1216.0,
+            342.0,
+            1248.0
+          ],
+          "text": "10.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            633.0,
+            1215.0,
+            979.0,
+            1257.0
+          ],
+          "text": "High likelihood of severe",
+          "confidence": 0.9855
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1224.0,
+            1104.0,
+            1248.0
+          ],
+          "text": "or",
+          "confidence": 0.9659
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            1218.0,
+            1286.0,
+            1250.0
+          ],
+          "text": "shock:",
+          "confidence": 0.583
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            1382.0,
+            1141.0,
+            1425.0
+          ],
+          "text": "Remarks:   This test has been processed and validated by CRL Diagnostics PVT. LTD. NEW Delhi;",
+          "confidence": 0.5924
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            1708.0,
+            378.0,
+            1734.0
+          ],
+          "text": "Zc^",
+          "confidence": 0.1331
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            969.0,
+            1694.0,
+            1221.0,
+            1761.0
+          ],
+          "text": "Bua Kr",
+          "confidence": 0.0553
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            1775.0,
+            505.0,
+            1811.0
+          ],
+          "text": "DR AANIL GUPTA",
+          "confidence": 0.7311
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            993.0,
+            1777.0,
+            1264.0,
+            1813.0
+          ],
+          "text": "PAWAN KUMAR",
+          "confidence": 0.9677
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            1813.0,
+            559.0,
+            1853.0
+          ],
+          "text": "MBB.S, MD (PATH)",
+          "confidence": 0.7074
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            927.0,
+            1817.0,
+            1279.0,
+            1853.0
+          ],
+          "text": "Phd: BIOCHEMISTRY",
+          "confidence": 0.7379
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            1853.0,
+            782.0,
+            1889.0
+          ],
+          "text": "SRI CONSULTANT PATHOLOGIST",
+          "confidence": 0.672
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            927.0,
+            1855.0,
+            1394.0,
+            1891.0
+          ],
+          "text": "CONSULTANT BIOCHEMIST",
+          "confidence": 0.689
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            1884.0,
+            482.0,
+            1932.0
+          ],
+          "text": "REGD, NO, 5015",
+          "confidence": 0.8256
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            773.0,
+            1957.0,
+            979.0,
+            2024.0
+          ],
+          "text": "KGar Siha|",
+          "confidence": 0.2628
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            833.0,
+            2015.0,
+            900.0,
+            2056.0
+          ],
+          "text": "KD",
+          "confidence": 0.6082
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            761.0,
+            2057.0,
+            881.0,
+            2100.0
+          ],
+          "text": "3\" No",
+          "confidence": 0.4329
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            1834.0,
+            1645.0,
+            2272.0
+          ],
+          "text": "T+",
+          "confidence": 0.0739
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            875.3447882227953,
+            707.9420169782899,
+            956.6552117772047,
+            754.0579830217101
+          ],
+          "text": "ngldl",
+          "confidence": 0.5716
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1187.405095554342,
+            969.1935433549934,
+            1279.594904445658,
+            1013.8064566450066
+          ],
+          "text": "sepsis",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1301.405095554342,
+            1133.1756368363583,
+            1391.594904445658,
+            1177.8243631636417
+          ],
+          "text": "septic",
+          "confidence": 0.9328
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            977.4050955543422,
+            1215.228449907109,
+            1071.594904445658,
+            1259.771550092891
+          ],
+          "text": "sepsis",
+          "confidence": 0.9469
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1102.405095554342,
+            1215.1935433549934,
+            1193.594904445658,
+            1259.8064566450066
+          ],
+          "text": "septic",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            893.4050955543422,
+            2005.020645525196,
+            975.5949044456578,
+            2049.979354474804
+          ],
+          "text": "(Fath;",
+          "confidence": 0.3349
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            885.2802656784306,
+            2044.278636141571,
+            981.7197343215694,
+            2088.721363858429
+          ],
+          "text": "35267",
+          "confidence": 0.8287
+        }
+      ]
+    }
+  ],
+  "full_text": "Property ID No: 26, Ward No. 28, Mahavir Park;\nJSANjAx\nOpp. Metro Pillar No. 881, Rohtak Road,\nBahadurgarh; Distt, Jhajjar; Haryana\n124507\nMULTI SPECIALTY\nHOSPITAL\nCIN No: : UZ410ODLZO1OPTC203581\nNABH\nISO 9001\n2015 CERTIFIED\nAccaeditco\nWWW:E\ndrsanjayhospital.com\nDr. Sanjay Singh\nOPD IPD : IPD\nDate:\nLab No\n08\nHormonal_Assay\nInvestigations\nResult\nUnits\nNormal Range\nProcalcitonin\n2.2\nProcalcitonin Interpretation\n<0.25\nBacterial infection is unlikely.\n0.25\n<\n0..\nLocal Bacterial infection is Possible but\nis unlikely\n0.\n<2.0\nSystemic infection (sepsis) is possible and morderate risk of\ndeveloping to severe\n2.0\n<10.0\nHigh risk of progression to severe sepsis or even\nshock\n10.0\nHigh likelihood of severe\nor\nshock:\nRemarks:   This test has been processed and validated by CRL Diagnostics PVT. LTD. NEW Delhi;\nZc^\nBua Kr\nDR AANIL GUPTA\nPAWAN KUMAR\nMBB.S, MD (PATH)\nPhd: BIOCHEMISTRY\nSRI CONSULTANT PATHOLOGIST\nCONSULTANT BIOCHEMIST\nREGD, NO, 5015\nKGar Siha|\nKD\n3\" No\nT+\nngldl\nsepsis\nseptic\nsepsis\nseptic\n(Fath;\n35267",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Property ID No",
+          "biomarker_normalized": "Property ID No",
+          "value": "26",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Property ID No: 26, Ward No. 28, Mahavir Park;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Opp. Metro Pillar No.",
+          "biomarker_normalized": "Opp. Metro Pillar No.",
+          "value": "881",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Opp. Metro Pillar No. 881, Rohtak Road,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN No: : UZ4",
+          "biomarker_normalized": "CIN No: : UZ4",
+          "value": "10",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN No: : UZ410ODLZO1OPTC203581",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "ISO",
+          "biomarker_normalized": "ISO",
+          "value": "9001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ISO 9001",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "REGD, NO,",
+          "biomarker_normalized": "REGD, NO,",
+          "value": "5015",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "REGD, NO, 5015",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 67,
+    "ocr_avg_confidence": 0.7631,
+    "parsed_row_count": 5
+  }
+}

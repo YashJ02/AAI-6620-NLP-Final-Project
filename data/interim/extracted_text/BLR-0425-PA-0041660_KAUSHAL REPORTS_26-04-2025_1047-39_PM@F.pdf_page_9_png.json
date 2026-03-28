@@ -1,0 +1,1458 @@
+{
+  "document_id": "BLR-0425-PA-0041660_KAUSHAL REPORTS_26-04-2025_1047-39_PM@F.pdf_page_9",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0041660_KAUSHAL REPORTS_26-04-2025_1047-39_PM@F.pdf_page_9.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mr: KAUSHAL H VACHHANI\nReference: Dr. Mayur Rai\nOrder No:]\nDNO\nMATRIX WEST\nWINGS 406, KAMBALA CROSS ROAD,\nSample Collected At:\nRegistered On:\n1\nALAKE;\nAJ HOSPITAL & RESEARCH\n112.51.48 PM\nMANGALORE ALAKE,DAKSHINA\nCENTRE MANGALORE:\nCollected Qn:\nKANNADA\n575004\n[01.31.32 PM\nTel No\nReported Qn:\nPIN No: 575001\n[03.13.21 PM\nUHID\nMR651016\n5C\nTest\nResult\nUnit\nBiological Reference\n#Blood\nProthrombin lme _ Plasma\nProthrombin Time (PT)\nProthrombin\nplasma\n12.0\n(Optical clot\ndetection(Turbidimetry))\nSeconds\n11-16\nControl (MNPT)\n12.2\nSeconds\n(Optical clot detection(Turbidimetry))\nRatio\n(Optical clot\ndetection(Turbidimetry))\n0.98\n0-100\nPT(INR) Value\n0.98\n0.8-1,2\n(Optical clot\ndetection(Turbidimetry))\nInterpretation:\nInterpretation\nThe Dothsombin time (PT) and international normalized ratio (INR) are measures of the extrinsic\nThe INR is used only for patients on stable oral anticoagulant\nIt\npathway of coagulation.\nor\ntreatment of patients whose PT is prolonged for other\ntherapy:\nmakes no significant contribution to the diagnosis\nreasons.\nIncreased PT times may be due to:\nFactor deficiencies( X\nII\nV\n) Coumadin (warfarin) therapy, Liver Diseases (Bile\nHeeaeitis)  Haemorhagic Disease of the newborn, DiC, Malabsorption;,\nduct obstruction , Cirrhosis\nInterference in PTIINR\nFibrinolysis, Vitamin K deficiency:\nAlcohol,antibiotics,\naspirin,\ncimetidine,thrombin\nInhibitors(Increase\nPT)\nBarbiturates,\nhormone-replacement therapy (HRT), and vitamin K (Decrease PT)\noral\ncontraceptives_\nCorrelate clinically:\n#Blood\nRoutine (CBC)\nBlood\nHaemoglobin\n(Cyanide-free SLS haemoglobin)\n15.4\ngldl\n13.5-18\nErythrocyte (RBC) Count\n4.94\nElectrical impedance with hydrodynamic focusing)\nmillion/cu.mm\n4.5-5.5\nPCV (Packed Cell Volume)\n43.2\n(Flow cytometry)\n%\n40-54\nMCV Blood\n(Calculaled)\n87.4\n78-98\n7ru\ncighlighted Results to be considered as Critical Report for immediate intervention\nUnderlined Highlighted values indicate abnormal range / out of range aaeuese\nby DoctorsINurses.\nMC 6647\nAa J.\nHospital\n8 Research\nCentre\nName\ntime ,",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            64.0,
+            577.0,
+            107.0
+          ],
+          "text": "Mr: KAUSHAL H VACHHANI",
+          "confidence": 0.9802
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            80.0,
+            1071.0,
+            125.0
+          ],
+          "text": "Reference: Dr. Mayur Rai",
+          "confidence": 0.8221
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1209.0,
+            93.0,
+            1348.0,
+            131.0
+          ],
+          "text": "Order No:]",
+          "confidence": 0.236
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            114.0,
+            282.0,
+            146.0
+          ],
+          "text": "DNO",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            117.0,
+            669.0,
+            157.0
+          ],
+          "text": "MATRIX WEST",
+          "confidence": 0.8059
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            142.0,
+            692.0,
+            190.0
+          ],
+          "text": "WINGS 406, KAMBALA CROSS ROAD,",
+          "confidence": 0.9505
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            154.0,
+            1005.0,
+            195.0
+          ],
+          "text": "Sample Collected At:",
+          "confidence": 0.8528
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            145.0,
+            1443.0,
+            181.0
+          ],
+          "text": "Registered On:",
+          "confidence": 0.985
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            116.0,
+            175.0,
+            265.0
+          ],
+          "text": "1",
+          "confidence": 0.1616
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            180.0,
+            298.0,
+            212.0
+          ],
+          "text": "ALAKE;",
+          "confidence": 0.7141
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            187.0,
+            1117.0,
+            229.0
+          ],
+          "text": "AJ HOSPITAL & RESEARCH",
+          "confidence": 0.9785
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1392.0,
+            179.0,
+            1559.0,
+            215.0
+          ],
+          "text": "112.51.48 PM",
+          "confidence": 0.4839
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            208.0,
+            621.0,
+            249.0
+          ],
+          "text": "MANGALORE ALAKE,DAKSHINA",
+          "confidence": 0.5509
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            219.0,
+            1045.0,
+            258.0
+          ],
+          "text": "CENTRE MANGALORE:",
+          "confidence": 0.4771
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1244.0,
+            214.0,
+            1423.0,
+            251.0
+          ],
+          "text": "Collected Qn:",
+          "confidence": 0.9428
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            239.0,
+            339.0,
+            275.0
+          ],
+          "text": "KANNADA",
+          "confidence": 0.9564
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            250.0,
+            840.0,
+            282.0
+          ],
+          "text": "575004",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            248.0,
+            1559.0,
+            286.0
+          ],
+          "text": "[01.31.32 PM",
+          "confidence": 0.8636
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            280.0,
+            292.0,
+            312.0
+          ],
+          "text": "Tel No",
+          "confidence": 0.9894
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1244.0,
+            284.0,
+            1421.0,
+            322.0
+          ],
+          "text": "Reported Qn:",
+          "confidence": 0.8917
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            321.0,
+            405.0,
+            357.0
+          ],
+          "text": "PIN No: 575001",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1389.0,
+            319.0,
+            1557.0,
+            357.0
+          ],
+          "text": "[03.13.21 PM",
+          "confidence": 0.5509
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            366.0,
+            278.0,
+            396.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            368.0,
+            434.0,
+            400.0
+          ],
+          "text": "MR651016",
+          "confidence": 0.8996
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            370.0,
+            492.0,
+            402.0
+          ],
+          "text": "5C",
+          "confidence": 0.9518
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            468.0,
+            150.0,
+            500.0
+          ],
+          "text": "Test",
+          "confidence": 0.9494
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            484.0,
+            847.0,
+            520.0
+          ],
+          "text": "Result",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            492.0,
+            1072.0,
+            524.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            494.0,
+            1493.0,
+            536.0
+          ],
+          "text": "Biological Reference",
+          "confidence": 0.9528
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            524.0,
+            188.0,
+            556.0
+          ],
+          "text": "#Blood",
+          "confidence": 0.9921
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            525.0,
+            568.0,
+            570.0
+          ],
+          "text": "Prothrombin lme _ Plasma",
+          "confidence": 0.2513
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            576.0,
+            391.0,
+            619.0
+          ],
+          "text": "Prothrombin Time (PT)",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            85.0,
+            615.0,
+            226.0,
+            648.0
+          ],
+          "text": "Prothrombin",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            624.0,
+            370.0,
+            652.0
+          ],
+          "text": "plasma",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            748.0,
+            632.0,
+            806.0,
+            662.0
+          ],
+          "text": "12.0",
+          "confidence": 0.7848
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            652.0,
+            194.0,
+            678.0
+          ],
+          "text": "(Optical clot",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            651.0,
+            401.0,
+            687.0
+          ],
+          "text": "detection(Turbidimetry))",
+          "confidence": 0.9011
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1005.0,
+            636.0,
+            1124.0,
+            673.0
+          ],
+          "text": "Seconds",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1212.0,
+            644.0,
+            1288.0,
+            676.0
+          ],
+          "text": "11-16",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            680.0,
+            267.0,
+            717.0
+          ],
+          "text": "Control (MNPT)",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            696.0,
+            806.0,
+            728.0
+          ],
+          "text": "12.2",
+          "confidence": 0.9032
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1005.0,
+            702.0,
+            1123.0,
+            739.0
+          ],
+          "text": "Seconds",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            717.0,
+            401.0,
+            753.0
+          ],
+          "text": "(Optical clot detection(Turbidimetry))",
+          "confidence": 0.8232
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            750.0,
+            150.0,
+            778.0
+          ],
+          "text": "Ratio",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            786.0,
+            192.0,
+            810.0
+          ],
+          "text": "(Optical clot",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            783.0,
+            401.0,
+            819.0
+          ],
+          "text": "detection(Turbidimetry))",
+          "confidence": 0.9526
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            766.0,
+            806.0,
+            796.0
+          ],
+          "text": "0.98",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            776.0,
+            1288.0,
+            808.0
+          ],
+          "text": "0-100",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            810.0,
+            251.0,
+            849.0
+          ],
+          "text": "PT(INR) Value",
+          "confidence": 0.9491
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            830.0,
+            806.0,
+            862.0
+          ],
+          "text": "0.98",
+          "confidence": 0.6039
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            840.0,
+            1302.0,
+            872.0
+          ],
+          "text": "0.8-1,2",
+          "confidence": 0.5894
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            850.0,
+            192.0,
+            876.0
+          ],
+          "text": "(Optical clot",
+          "confidence": 0.8713
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            847.0,
+            401.0,
+            886.0
+          ],
+          "text": "detection(Turbidimetry))",
+          "confidence": 0.9057
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            894.0,
+            279.0,
+            931.0
+          ],
+          "text": "Interpretation:",
+          "confidence": 0.9303
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            928.0,
+            253.0,
+            970.0
+          ],
+          "text": "Interpretation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            959.0,
+            1267.0,
+            1023.0
+          ],
+          "text": "The Dothsombin time (PT) and international normalized ratio (INR) are measures of the extrinsic",
+          "confidence": 0.3505
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            992.0,
+            826.0,
+            1047.0
+          ],
+          "text": "The INR is used only for patients on stable oral anticoagulant",
+          "confidence": 0.774
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            1016.0,
+            952.0,
+            1042.0
+          ],
+          "text": "It",
+          "confidence": 0.9911
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            987.0,
+            1560.0,
+            1029.0
+          ],
+          "text": "pathway of coagulation.",
+          "confidence": 0.818
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            1032.0,
+            112.0,
+            1056.0
+          ],
+          "text": "or",
+          "confidence": 0.4418
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            1025.0,
+            770.0,
+            1077.0
+          ],
+          "text": "treatment of patients whose PT is prolonged for other",
+          "confidence": 0.9625
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            1008.0,
+            930.0,
+            1052.0
+          ],
+          "text": "therapy:",
+          "confidence": 0.7031
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1014.0,
+            1562.0,
+            1066.0
+          ],
+          "text": "makes no significant contribution to the diagnosis",
+          "confidence": 0.9581
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            765.0,
+            1047.0,
+            877.0,
+            1073.0
+          ],
+          "text": "reasons.",
+          "confidence": 0.9535
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1058.0,
+            513.0,
+            1103.0
+          ],
+          "text": "Increased PT times may be due to:",
+          "confidence": 0.9625
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            1091.0,
+            365.0,
+            1133.0
+          ],
+          "text": "Factor deficiencies( X",
+          "confidence": 0.989
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            389.0,
+            1101.0,
+            409.0,
+            1127.0
+          ],
+          "text": "II",
+          "confidence": 0.6468
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            1100.0,
+            464.0,
+            1128.0
+          ],
+          "text": "V",
+          "confidence": 0.7944
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1099.0,
+            1192.0,
+            1151.0
+          ],
+          "text": ") Coumadin (warfarin) therapy, Liver Diseases (Bile",
+          "confidence": 0.5763
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            1121.0,
+            940.0,
+            1182.0
+          ],
+          "text": "Heeaeitis)  Haemorhagic Disease of the newborn, DiC, Malabsorption;,",
+          "confidence": 0.3337
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1195.0,
+            1116.0,
+            1537.0,
+            1157.0
+          ],
+          "text": "duct obstruction , Cirrhosis",
+          "confidence": 0.7385
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1154.0,
+            359.0,
+            1193.0
+          ],
+          "text": "Interference in PTIINR",
+          "confidence": 0.954
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1140.0,
+            1359.0,
+            1191.0
+          ],
+          "text": "Fibrinolysis, Vitamin K deficiency:",
+          "confidence": 0.565
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1186.0,
+            305.0,
+            1225.0
+          ],
+          "text": "Alcohol,antibiotics,",
+          "confidence": 0.9653
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            1196.0,
+            434.0,
+            1226.0
+          ],
+          "text": "aspirin,",
+          "confidence": 0.9581
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            1195.0,
+            713.0,
+            1234.0
+          ],
+          "text": "cimetidine,thrombin",
+          "confidence": 0.9595
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            1199.0,
+            975.0,
+            1243.0
+          ],
+          "text": "Inhibitors(Increase",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            1210.0,
+            1054.0,
+            1242.0
+          ],
+          "text": "PT)",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            1208.0,
+            1250.0,
+            1247.0
+          ],
+          "text": "Barbiturates,",
+          "confidence": 0.7646
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1217.0,
+            908.0,
+            1274.0
+          ],
+          "text": "hormone-replacement therapy (HRT), and vitamin K (Decrease PT)",
+          "confidence": 0.8304
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            1218.0,
+            1330.0,
+            1244.0
+          ],
+          "text": "oral",
+          "confidence": 0.5436
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1358.0,
+            1217.0,
+            1547.0,
+            1256.0
+          ],
+          "text": "contraceptives_",
+          "confidence": 0.8335
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1250.0,
+            316.0,
+            1294.0
+          ],
+          "text": "Correlate clinically:",
+          "confidence": 0.7799
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1336.0,
+            180.0,
+            1368.0
+          ],
+          "text": "#Blood",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1339.0,
+            389.0,
+            1377.0
+          ],
+          "text": "Routine (CBC)",
+          "confidence": 0.9005
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1376.0,
+            146.0,
+            1404.0
+          ],
+          "text": "Blood",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1376.0,
+            313.0,
+            1414.0
+          ],
+          "text": "Haemoglobin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1412.0,
+            362.0,
+            1445.0
+          ],
+          "text": "(Cyanide-free SLS haemoglobin)",
+          "confidence": 0.8662
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            1392.0,
+            798.0,
+            1422.0
+          ],
+          "text": "15.4",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            999.0,
+            1399.0,
+            1055.0,
+            1435.0
+          ],
+          "text": "gldl",
+          "confidence": 0.9615
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1404.0,
+            1304.0,
+            1436.0
+          ],
+          "text": "13.5-18",
+          "confidence": 0.9788
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1439.0,
+            357.0,
+            1479.0
+          ],
+          "text": "Erythrocyte (RBC) Count",
+          "confidence": 0.8374
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1458.0,
+            798.0,
+            1488.0
+          ],
+          "text": "4.94",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            1477.0,
+            515.0,
+            1515.0
+          ],
+          "text": "Electrical impedance with hydrodynamic focusing)",
+          "confidence": 0.8822
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1000.0,
+            1464.0,
+            1174.0,
+            1494.0
+          ],
+          "text": "million/cu.mm",
+          "confidence": 0.3286
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            1468.0,
+            1296.0,
+            1500.0
+          ],
+          "text": "4.5-5.5",
+          "confidence": 0.9852
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            1505.0,
+            382.0,
+            1545.0
+          ],
+          "text": "PCV (Packed Cell Volume)",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            1522.0,
+            796.0,
+            1550.0
+          ],
+          "text": "43.2",
+          "confidence": 0.9126
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1542.0,
+            224.0,
+            1570.0
+          ],
+          "text": "(Flow cytometry)",
+          "confidence": 0.7396
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            1528.0,
+            1028.0,
+            1556.0
+          ],
+          "text": "%",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1534.0,
+            1280.0,
+            1564.0
+          ],
+          "text": "40-54",
+          "confidence": 0.847
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1570.0,
+            206.0,
+            1600.0
+          ],
+          "text": "MCV Blood",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            1605.0,
+            186.0,
+            1634.0
+          ],
+          "text": "(Calculaled)",
+          "confidence": 0.8133
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            1585.0,
+            797.0,
+            1618.0
+          ],
+          "text": "87.4",
+          "confidence": 0.9872
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1598.0,
+            1278.0,
+            1630.0
+          ],
+          "text": "78-98",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            1925.0,
+            109.0,
+            1939.0
+          ],
+          "text": "7ru",
+          "confidence": 0.0154
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1921.0,
+            1086.0,
+            1978.0
+          ],
+          "text": "cighlighted Results to be considered as Critical Report for immediate intervention",
+          "confidence": 0.755
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1950.0,
+            974.0,
+            2003.0
+          ],
+          "text": "Underlined Highlighted values indicate abnormal range / out of range aaeuese",
+          "confidence": 0.5795
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            1949.0,
+            1320.0,
+            1982.0
+          ],
+          "text": "by DoctorsINurses.",
+          "confidence": 0.8065
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            2163.0,
+            221.0,
+            2179.0
+          ],
+          "text": "MC 6647",
+          "confidence": 0.3714
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            1299.0,
+            2137.0,
+            1419.0,
+            2181.0
+          ],
+          "text": "Aa J.",
+          "confidence": 0.234
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            2182.0,
+            1418.0,
+            2212.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            1260.0,
+            2212.0,
+            1416.0,
+            2238.0
+          ],
+          "text": "8 Research",
+          "confidence": 0.5788
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            2242.0,
+            1418.0,
+            2268.0
+          ],
+          "text": "Centre",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            146.07927629063957,
+            467.11542815707753,
+            232.92072370936043,
+            507.88457184292247
+          ],
+          "text": "Name",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            223.12111436834437,
+            617.1638810551212,
+            286.87888563165563,
+            651.8361189448788
+          ],
+          "text": "time ,",
+          "confidence": 0.5726
+        }
+      ]
+    }
+  ],
+  "full_text": "Mr: KAUSHAL H VACHHANI\nReference: Dr. Mayur Rai\nOrder No:]\nDNO\nMATRIX WEST\nWINGS 406, KAMBALA CROSS ROAD,\nSample Collected At:\nRegistered On:\n1\nALAKE;\nAJ HOSPITAL & RESEARCH\n112.51.48 PM\nMANGALORE ALAKE,DAKSHINA\nCENTRE MANGALORE:\nCollected Qn:\nKANNADA\n575004\n[01.31.32 PM\nTel No\nReported Qn:\nPIN No: 575001\n[03.13.21 PM\nUHID\nMR651016\n5C\nTest\nResult\nUnit\nBiological Reference\n#Blood\nProthrombin lme _ Plasma\nProthrombin Time (PT)\nProthrombin\nplasma\n12.0\n(Optical clot\ndetection(Turbidimetry))\nSeconds\n11-16\nControl (MNPT)\n12.2\nSeconds\n(Optical clot detection(Turbidimetry))\nRatio\n(Optical clot\ndetection(Turbidimetry))\n0.98\n0-100\nPT(INR) Value\n0.98\n0.8-1,2\n(Optical clot\ndetection(Turbidimetry))\nInterpretation:\nInterpretation\nThe Dothsombin time (PT) and international normalized ratio (INR) are measures of the extrinsic\nThe INR is used only for patients on stable oral anticoagulant\nIt\npathway of coagulation.\nor\ntreatment of patients whose PT is prolonged for other\ntherapy:\nmakes no significant contribution to the diagnosis\nreasons.\nIncreased PT times may be due to:\nFactor deficiencies( X\nII\nV\n) Coumadin (warfarin) therapy, Liver Diseases (Bile\nHeeaeitis)  Haemorhagic Disease of the newborn, DiC, Malabsorption;,\nduct obstruction , Cirrhosis\nInterference in PTIINR\nFibrinolysis, Vitamin K deficiency:\nAlcohol,antibiotics,\naspirin,\ncimetidine,thrombin\nInhibitors(Increase\nPT)\nBarbiturates,\nhormone-replacement therapy (HRT), and vitamin K (Decrease PT)\noral\ncontraceptives_\nCorrelate clinically:\n#Blood\nRoutine (CBC)\nBlood\nHaemoglobin\n(Cyanide-free SLS haemoglobin)\n15.4\ngldl\n13.5-18\nErythrocyte (RBC) Count\n4.94\nElectrical impedance with hydrodynamic focusing)\nmillion/cu.mm\n4.5-5.5\nPCV (Packed Cell Volume)\n43.2\n(Flow cytometry)\n%\n40-54\nMCV Blood\n(Calculaled)\n87.4\n78-98\n7ru\ncighlighted Results to be considered as Critical Report for immediate intervention\nUnderlined Highlighted values indicate abnormal range / out of range aaeuese\nby DoctorsINurses.\nMC 6647\nAa J.\nHospital\n8 Research\nCentre\nName\ntime ,",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "WINGS",
+          "biomarker_normalized": "WINGS",
+          "value": "406",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "WINGS 406, KAMBALA CROSS ROAD,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "PIN No",
+          "biomarker_normalized": "PIN No",
+          "value": "575001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PIN No: 575001",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MR6",
+          "biomarker_normalized": "MR6",
+          "value": "51016",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MR651016",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MC",
+          "biomarker_normalized": "MC",
+          "value": "6647",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MC 6647",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 116,
+    "ocr_avg_confidence": 0.8318,
+    "parsed_row_count": 4
+  }
+}

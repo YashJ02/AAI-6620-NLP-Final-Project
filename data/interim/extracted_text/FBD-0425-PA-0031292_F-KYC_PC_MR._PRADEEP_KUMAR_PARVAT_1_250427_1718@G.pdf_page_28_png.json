@@ -1,0 +1,1164 @@
+{
+  "document_id": "FBD-0425-PA-0031292_F-KYC_PC_MR._PRADEEP_KUMAR_PARVAT_1_250427_1718@G.pdf_page_28",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\FBD-0425-PA-0031292_F-KYC_PC_MR._PRADEEP_KUMAR_PARVAT_1_250427_1718@G.pdf_page_28.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "sarvodaya\nSARVODAYA HOSPITAL\nac\nHEALTHCARE\nSECTOR-8, FARIDABAD\nHELPLINE: 1800 313 1414\nPRADEEP KUMAR PARVAT [ SR948669 ]\nD\nIP339099\nOrder # 496197\nAccepted on\n(08.03 AM\nby\nDr; RAJENDER SINGLA\nReport Date\n12.03 PM\n16\nHDU\n1F-MICU-2\nCLINICAL PATHOLOGY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nUrine R and M\nPhysical Examination\nColor\nPale Yellow\nPale yellow\nTransparency\nClear\nClear\nChemical Examination\npH\n5.0\n5 - 8\nSpecific Gravity\n1.010\n1,010\n1,035\nAlbumin\nNegative\nNegative\nSugar\nNegative\nBlood\nNegative\nNegative\nKetone\nNegative\nNegative\nNitrite\nNegative\nNegative\nBilirubin\nNegative\nNegative\nUrobilinogen\nNormal\nNormal\nMicroscopic Examination\nPus cells\n1-2\nIhpf\n0 - 5\nRBCs\n00\nInpf\n0 -2\nEpithelial cells\n0-1\nIhpf\n0 - 5\nCast\nNIL\nNil\nCrystal\nNIL\nNil\nOthers\nBacteria\nNIL\nNil\nYeast cells\nNIL\nIPRADEEP KUMAR PARVAT\nSR948569\n39 Yr\nMale\n7p339099 / 496197",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            62.0,
+            432.0,
+            147.0
+          ],
+          "text": "sarvodaya",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            70.0,
+            1596.0,
+            122.0
+          ],
+          "text": "SARVODAYA HOSPITAL",
+          "confidence": 0.9214
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            120.0,
+            126.0,
+            150.0
+          ],
+          "text": "ac",
+          "confidence": 0.11
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            137.0,
+            427.0,
+            179.0
+          ],
+          "text": "HEALTHCARE",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            858.0,
+            131.0,
+            1205.0,
+            171.0
+          ],
+          "text": "SECTOR-8, FARIDABAD",
+          "confidence": 0.6604
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            131.0,
+            1595.0,
+            169.0
+          ],
+          "text": "HELPLINE: 1800 313 1414",
+          "confidence": 0.5791
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            267.0,
+            1080.0,
+            324.0
+          ],
+          "text": "PRADEEP KUMAR PARVAT [ SR948669 ]",
+          "confidence": 0.7869
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            374.0,
+            138.0,
+            404.0
+          ],
+          "text": "D",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            374.0,
+            306.0,
+            404.0
+          ],
+          "text": "IP339099",
+          "confidence": 0.8646
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            372.0,
+            520.0,
+            404.0
+          ],
+          "text": "Order # 496197",
+          "confidence": 0.802
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            373.0,
+            1095.0,
+            409.0
+          ],
+          "text": "Accepted on",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            374.0,
+            1404.0,
+            404.0
+          ],
+          "text": "(08.03 AM",
+          "confidence": 0.6731
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            411.0,
+            145.0,
+            447.0
+          ],
+          "text": "by",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            410.0,
+            484.0,
+            442.0
+          ],
+          "text": "Dr; RAJENDER SINGLA",
+          "confidence": 0.5309
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            410.0,
+            1087.0,
+            446.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8846
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            412.0,
+            1404.0,
+            442.0
+          ],
+          "text": "12.03 PM",
+          "confidence": 0.656
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            484.0,
+            220.0,
+            514.0
+          ],
+          "text": "16",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            484.0,
+            296.0,
+            514.0
+          ],
+          "text": "HDU",
+          "confidence": 0.4839
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            484.0,
+            458.0,
+            514.0
+          ],
+          "text": "1F-MICU-2",
+          "confidence": 0.8404
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            643.0,
+            531.0,
+            1043.0,
+            571.0
+          ],
+          "text": "CLINICAL PATHOLOGY",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            595.0,
+            243.0,
+            623.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            595.0,
+            793.0,
+            623.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            596.0,
+            994.0,
+            622.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.6084
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            594.0,
+            1584.0,
+            626.0
+          ],
+          "text": "BIOLOGICAL REFERENCE RANGE",
+          "confidence": 0.5786
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            647.0,
+            281.0,
+            683.0
+          ],
+          "text": "Urine R and M",
+          "confidence": 0.5466
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            699.0,
+            376.0,
+            732.0
+          ],
+          "text": "Physical Examination",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            748.0,
+            204.0,
+            774.0
+          ],
+          "text": "Color",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            744.0,
+            836.0,
+            780.0
+          ],
+          "text": "Pale Yellow",
+          "confidence": 0.7044
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            746.0,
+            1314.0,
+            778.0
+          ],
+          "text": "Pale yellow",
+          "confidence": 0.4779
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            792.0,
+            303.0,
+            830.0
+          ],
+          "text": "Transparency",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            796.0,
+            762.0,
+            822.0
+          ],
+          "text": "Clear",
+          "confidence": 0.5925
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            794.0,
+            1244.0,
+            822.0
+          ],
+          "text": "Clear",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            842.0,
+            386.0,
+            870.0
+          ],
+          "text": "Chemical Examination",
+          "confidence": 0.7728
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            894.0,
+            174.0,
+            926.0
+          ],
+          "text": "pH",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            892.0,
+            734.0,
+            920.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9906
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            894.0,
+            1232.0,
+            920.0
+          ],
+          "text": "5 - 8",
+          "confidence": 0.9477
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            935.0,
+            330.0,
+            975.0
+          ],
+          "text": "Specific Gravity",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            940.0,
+            766.0,
+            970.0
+          ],
+          "text": "1.010",
+          "confidence": 0.6054
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            940.0,
+            1248.0,
+            968.0
+          ],
+          "text": "1,010",
+          "confidence": 0.5779
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            940.0,
+            1340.0,
+            970.0
+          ],
+          "text": "1,035",
+          "confidence": 0.8331
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            988.0,
+            235.0,
+            1016.0
+          ],
+          "text": "Albumin",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            986.0,
+            805.0,
+            1025.0
+          ],
+          "text": "Negative",
+          "confidence": 0.6979
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            986.0,
+            1287.0,
+            1027.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1034.0,
+            212.0,
+            1071.0
+          ],
+          "text": "Sugar",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1034.0,
+            1287.0,
+            1075.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1084.0,
+            206.0,
+            1112.0
+          ],
+          "text": "Blood",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1082.0,
+            805.0,
+            1121.0
+          ],
+          "text": "Negative",
+          "confidence": 0.7813
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1082.0,
+            1287.0,
+            1123.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1132.0,
+            224.0,
+            1160.0
+          ],
+          "text": "Ketone",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1130.0,
+            803.0,
+            1167.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1130.0,
+            1287.0,
+            1171.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1182.0,
+            210.0,
+            1212.0
+          ],
+          "text": "Nitrite",
+          "confidence": 0.952
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1180.0,
+            805.0,
+            1219.0
+          ],
+          "text": "Negative",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1180.0,
+            1285.0,
+            1219.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1229.0,
+            235.0,
+            1259.0
+          ],
+          "text": "Bilirubin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1228.0,
+            803.0,
+            1265.0
+          ],
+          "text": "Negative",
+          "confidence": 0.748
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1228.0,
+            1285.0,
+            1265.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1274.0,
+            291.0,
+            1312.0
+          ],
+          "text": "Urobilinogen",
+          "confidence": 0.9686
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            1278.0,
+            784.0,
+            1306.0
+          ],
+          "text": "Normal",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1278.0,
+            1266.0,
+            1306.0
+          ],
+          "text": "Normal",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1325.0,
+            416.0,
+            1358.0
+          ],
+          "text": "Microscopic Examination",
+          "confidence": 0.8681
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1374.0,
+            246.0,
+            1402.0
+          ],
+          "text": "Pus cells",
+          "confidence": 0.8399
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            1374.0,
+            736.0,
+            1402.0
+          ],
+          "text": "1-2",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            1373.0,
+            987.0,
+            1409.0
+          ],
+          "text": "Ihpf",
+          "confidence": 0.703
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1374.0,
+            1234.0,
+            1402.0
+          ],
+          "text": "0 - 5",
+          "confidence": 0.6441
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1424.0,
+            210.0,
+            1454.0
+          ],
+          "text": "RBCs",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1424.0,
+            728.0,
+            1456.0
+          ],
+          "text": "00",
+          "confidence": 0.9449
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            1423.0,
+            987.0,
+            1459.0
+          ],
+          "text": "Inpf",
+          "confidence": 0.6881
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1424.0,
+            1234.0,
+            1452.0
+          ],
+          "text": "0 -2",
+          "confidence": 0.9898
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1471.0,
+            309.0,
+            1507.0
+          ],
+          "text": "Epithelial cells",
+          "confidence": 0.8487
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1472.0,
+            732.0,
+            1500.0
+          ],
+          "text": "0-1",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            1471.0,
+            987.0,
+            1507.0
+          ],
+          "text": "Ihpf",
+          "confidence": 0.7299
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1472.0,
+            1232.0,
+            1500.0
+          ],
+          "text": "0 - 5",
+          "confidence": 0.3837
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1520.0,
+            194.0,
+            1548.0
+          ],
+          "text": "Cast",
+          "confidence": 0.9299
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1520.0,
+            740.0,
+            1550.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1520.0,
+            1212.0,
+            1550.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1566.0,
+            225.0,
+            1604.0
+          ],
+          "text": "Crystal",
+          "confidence": 0.9848
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1568.0,
+            740.0,
+            1598.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1568.0,
+            1212.0,
+            1598.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1616.0,
+            198.0,
+            1644.0
+          ],
+          "text": "Others",
+          "confidence": 0.9941
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1666.0,
+            235.0,
+            1694.0
+          ],
+          "text": "Bacteria",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1666.0,
+            740.0,
+            1696.0
+          ],
+          "text": "NIL",
+          "confidence": 0.6733
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1666.0,
+            1212.0,
+            1696.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1714.0,
+            266.0,
+            1742.0
+          ],
+          "text": "Yeast cells",
+          "confidence": 0.7501
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1714.0,
+            740.0,
+            1744.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            2263.0,
+            332.0,
+            2290.0
+          ],
+          "text": "IPRADEEP KUMAR PARVAT",
+          "confidence": 0.9149
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            2264.0,
+            440.0,
+            2290.0
+          ],
+          "text": "SR948569",
+          "confidence": 0.7161
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            2266.0,
+            504.0,
+            2290.0
+          ],
+          "text": "39 Yr",
+          "confidence": 0.9853
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            512.0,
+            2266.0,
+            566.0,
+            2290.0
+          ],
+          "text": "Male",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            2286.0,
+            210.0,
+            2312.0
+          ],
+          "text": "7p339099 / 496197",
+          "confidence": 0.3312
+        }
+      ]
+    }
+  ],
+  "full_text": "sarvodaya\nSARVODAYA HOSPITAL\nac\nHEALTHCARE\nSECTOR-8, FARIDABAD\nHELPLINE: 1800 313 1414\nPRADEEP KUMAR PARVAT [ SR948669 ]\nD\nIP339099\nOrder # 496197\nAccepted on\n(08.03 AM\nby\nDr; RAJENDER SINGLA\nReport Date\n12.03 PM\n16\nHDU\n1F-MICU-2\nCLINICAL PATHOLOGY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nUrine R and M\nPhysical Examination\nColor\nPale Yellow\nPale yellow\nTransparency\nClear\nClear\nChemical Examination\npH\n5.0\n5 - 8\nSpecific Gravity\n1.010\n1,010\n1,035\nAlbumin\nNegative\nNegative\nSugar\nNegative\nBlood\nNegative\nNegative\nKetone\nNegative\nNegative\nNitrite\nNegative\nNegative\nBilirubin\nNegative\nNegative\nUrobilinogen\nNormal\nNormal\nMicroscopic Examination\nPus cells\n1-2\nIhpf\n0 - 5\nRBCs\n00\nInpf\n0 -2\nEpithelial cells\n0-1\nIhpf\n0 - 5\nCast\nNIL\nNil\nCrystal\nNIL\nNil\nOthers\nBacteria\nNIL\nNil\nYeast cells\nNIL\nIPRADEEP KUMAR PARVAT\nSR948569\n39 Yr\nMale\n7p339099 / 496197",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SECTOR",
+          "biomarker_normalized": "SECTOR",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SECTOR-8, FARIDABAD",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "HELPLINE",
+          "biomarker_normalized": "HELPLINE",
+          "value": "1800",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HELPLINE: 1800 313 1414",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "PRADEEP KUMAR PARVAT [ SR9",
+          "biomarker_normalized": "PRADEEP KUMAR PARVAT [ SR9",
+          "value": "48669",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PRADEEP KUMAR PARVAT [ SR948669 ]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "IP3",
+          "biomarker_normalized": "IP3",
+          "value": "39099",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IP339099",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Order #",
+          "biomarker_normalized": "Order #",
+          "value": "496197",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Order # 496197",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SR9",
+          "biomarker_normalized": "SR9",
+          "value": "48569",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SR948569",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 90,
+    "ocr_avg_confidence": 0.8559,
+    "parsed_row_count": 6
+  }
+}

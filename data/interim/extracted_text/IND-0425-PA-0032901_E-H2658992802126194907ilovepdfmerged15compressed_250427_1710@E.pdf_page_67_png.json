@@ -1,0 +1,792 @@
+{
+  "document_id": "IND-0425-PA-0032901_E-H2658992802126194907ilovepdfmerged15compressed_250427_1710@E.pdf_page_67",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\IND-0425-PA-0032901_E-H2658992802126194907ilovepdfmerged15compressed_250427_1710@E.pdf_page_67.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mark of Excolianco\nBOMBAY HOSPITAL\nINDORE\nRing Road,Indore-452 010,Ph..4771111,Extension:2156,\nWebsite\nWWW _\nxbombayhospitalindore.com\nHD\nNABH\nDEPARTMENT OF PATHOLOGY\nPatient]\nBy\nDr. Ravi\nRathi\nGender\nMale\nOrdered Loc\n1Oth Floor\nWest\nBed No\n215\nSample Collected On\n0:03.43\nSample Type\nCITRATED PLASMA\nSample Reported On\n1:01:29\nSample No\n25050394\nTEST DESCRIPTION\nOBSERVED VALUE\nUNIT\nBIOLOGICAL RFERENCE RANGE\nPROTHROMBIN TIME (PT)\nTest\n12.6\nSeconds\nNormalized Mean (NMPT)\n11.0\nSeconds\nINR Value\n1.15\nMethod\nBy Fully Automated Coagulometer\nTherapeutic Range of INR for Anticoagulant Control __2.0 - 3.0\nACTIVATED PARTIAL THROMBOPLASTIN TIME (APTT)\nTest\n31.9\nSeconds\nNormalized Mean (NMAPT)\n23.5\nSeconds\nMethod\nBy Fully Automated Coagulometer\nEND OF REPORT\nDr: Neelam Bharihoke\nM.D: (Pathology)\nPathologist\nAUTHORISED\nOLA\n'Moay\nhcLL R",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1404.0,
+            50.0,
+            1572.0,
+            74.0
+          ],
+          "text": "Mark of Excolianco",
+          "confidence": 0.6988
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            501.0,
+            70.0,
+            936.0,
+            115.0
+          ],
+          "text": "BOMBAY HOSPITAL",
+          "confidence": 0.9696
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            967.0,
+            70.0,
+            1149.0,
+            114.0
+          ],
+          "text": "INDORE",
+          "confidence": 0.9323
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            447.0,
+            124.0,
+            1197.0,
+            165.0
+          ],
+          "text": "Ring Road,Indore-452 010,Ph..4771111,Extension:2156,",
+          "confidence": 0.6099
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            180.0,
+            656.0,
+            212.0
+          ],
+          "text": "Website",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            674.0,
+            184.0,
+            746.0,
+            210.0
+          ],
+          "text": "WWW _",
+          "confidence": 0.4817
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            176.0,
+            1111.0,
+            218.0
+          ],
+          "text": "xbombayhospitalindore.com",
+          "confidence": 0.6254
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            237.0,
+            177.0,
+            253.0
+          ],
+          "text": "HD",
+          "confidence": 0.7354
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1440.0,
+            224.0,
+            1540.0,
+            254.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9468
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            569.0,
+            275.0,
+            1085.0,
+            313.0
+          ],
+          "text": "DEPARTMENT OF PATHOLOGY",
+          "confidence": 0.9184
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            360.0,
+            220.0,
+            386.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.4159
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            428.0,
+            270.0,
+            458.0
+          ],
+          "text": "By",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            428.0,
+            388.0,
+            452.0
+          ],
+          "text": "Dr. Ravi",
+          "confidence": 0.8455
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            428.0,
+            454.0,
+            452.0
+          ],
+          "text": "Rathi",
+          "confidence": 0.5852
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            428.0,
+            1134.0,
+            452.0
+          ],
+          "text": "Gender",
+          "confidence": 0.7701
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            428.0,
+            1356.0,
+            452.0
+          ],
+          "text": "Male",
+          "confidence": 0.7074
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            460.0,
+            276.0,
+            486.0
+          ],
+          "text": "Ordered Loc",
+          "confidence": 0.8003
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            460.0,
+            414.0,
+            486.0
+          ],
+          "text": "1Oth Floor",
+          "confidence": 0.9165
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            462.0,
+            484.0,
+            486.0
+          ],
+          "text": "West",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            496.0,
+            460.0,
+            578.0,
+            486.0
+          ],
+          "text": "Bed No",
+          "confidence": 0.9596
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            460.0,
+            632.0,
+            486.0
+          ],
+          "text": "215",
+          "confidence": 0.5489
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1049.0,
+            459.0,
+            1272.0,
+            489.0
+          ],
+          "text": "Sample Collected On",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1458.0,
+            462.0,
+            1558.0,
+            492.0
+          ],
+          "text": "0:03.43",
+          "confidence": 0.7866
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            493.0,
+            278.0,
+            523.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            492.0,
+            510.0,
+            516.0
+          ],
+          "text": "CITRATED PLASMA",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            494.0,
+            1270.0,
+            522.0
+          ],
+          "text": "Sample Reported On",
+          "confidence": 0.9329
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1458.0,
+            496.0,
+            1556.0,
+            526.0
+          ],
+          "text": "1:01:29",
+          "confidence": 0.7244
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            523.0,
+            258.0,
+            553.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9006
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            301.0,
+            523.0,
+            403.0,
+            549.0
+          ],
+          "text": "25050394",
+          "confidence": 0.9873
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            596.0,
+            380.0,
+            626.0
+          ],
+          "text": "TEST DESCRIPTION",
+          "confidence": 0.9871
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            598.0,
+            892.0,
+            626.0
+          ],
+          "text": "OBSERVED VALUE",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            598.0,
+            1040.0,
+            624.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            596.0,
+            1550.0,
+            626.0
+          ],
+          "text": "BIOLOGICAL RFERENCE RANGE",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            655.0,
+            478.0,
+            686.0
+          ],
+          "text": "PROTHROMBIN TIME (PT)",
+          "confidence": 0.8939
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            735.0,
+            191.0,
+            765.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            736.0,
+            716.0,
+            764.0
+          ],
+          "text": "12.6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            736.0,
+            1074.0,
+            764.0
+          ],
+          "text": "Seconds",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            778.0,
+            436.0,
+            810.0
+          ],
+          "text": "Normalized Mean (NMPT)",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            778.0,
+            714.0,
+            806.0
+          ],
+          "text": "11.0",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            778.0,
+            1074.0,
+            806.0
+          ],
+          "text": "Seconds",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            820.0,
+            256.0,
+            848.0
+          ],
+          "text": "INR Value",
+          "confidence": 0.7047
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            820.0,
+            716.0,
+            848.0
+          ],
+          "text": "1.15",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            862.0,
+            230.0,
+            890.0
+          ],
+          "text": "Method",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            861.0,
+            1046.0,
+            894.0
+          ],
+          "text": "By Fully Automated Coagulometer",
+          "confidence": 0.8955
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            927.0,
+            632.0,
+            953.0
+          ],
+          "text": "Therapeutic Range of INR for Anticoagulant Control __2.0 - 3.0",
+          "confidence": 0.8009
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            954.0,
+            842.0,
+            984.0
+          ],
+          "text": "ACTIVATED PARTIAL THROMBOPLASTIN TIME (APTT)",
+          "confidence": 0.7818
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1036.0,
+            192.0,
+            1062.0
+          ],
+          "text": "Test",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1036.0,
+            714.0,
+            1062.0
+          ],
+          "text": "31.9",
+          "confidence": 0.8184
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            1035.0,
+            1074.0,
+            1061.0
+          ],
+          "text": "Seconds",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1077.0,
+            451.0,
+            1107.0
+          ],
+          "text": "Normalized Mean (NMAPT)",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            1078.0,
+            716.0,
+            1104.0
+          ],
+          "text": "23.5",
+          "confidence": 0.8716
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            1077.0,
+            1074.0,
+            1103.0
+          ],
+          "text": "Seconds",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1120.0,
+            228.0,
+            1148.0
+          ],
+          "text": "Method",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            1117.0,
+            1047.0,
+            1154.0
+          ],
+          "text": "By Fully Automated Coagulometer",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            755.0,
+            1209.0,
+            895.0,
+            1229.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.9809
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            2006.0,
+            382.0,
+            2032.0
+          ],
+          "text": "Dr: Neelam Bharihoke",
+          "confidence": 0.9794
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            2042.0,
+            328.0,
+            2070.0
+          ],
+          "text": "M.D: (Pathology)",
+          "confidence": 0.8831
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            2072.0,
+            276.0,
+            2100.0
+          ],
+          "text": "Pathologist",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            2253.0,
+            287.0,
+            2277.0
+          ],
+          "text": "AUTHORISED",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1488.0704723575245,
+            82.23016355523603,
+            1524.9295276424755,
+            104.76983644476397
+          ],
+          "text": "OLA",
+          "confidence": 0.4183
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            101.01076318221844,
+            216.06927321394346,
+            152.98923681778155,
+            256.93072678605654
+          ],
+          "text": "'Moay",
+          "confidence": 0.0342
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            156.8461255241468,
+            1850.6995461563927,
+            358.15387447585323,
+            1967.3004538436073
+          ],
+          "text": "hcLL R",
+          "confidence": 0.1253
+        }
+      ]
+    }
+  ],
+  "full_text": "Mark of Excolianco\nBOMBAY HOSPITAL\nINDORE\nRing Road,Indore-452 010,Ph..4771111,Extension:2156,\nWebsite\nWWW _\nxbombayhospitalindore.com\nHD\nNABH\nDEPARTMENT OF PATHOLOGY\nPatient]\nBy\nDr. Ravi\nRathi\nGender\nMale\nOrdered Loc\n1Oth Floor\nWest\nBed No\n215\nSample Collected On\n0:03.43\nSample Type\nCITRATED PLASMA\nSample Reported On\n1:01:29\nSample No\n25050394\nTEST DESCRIPTION\nOBSERVED VALUE\nUNIT\nBIOLOGICAL RFERENCE RANGE\nPROTHROMBIN TIME (PT)\nTest\n12.6\nSeconds\nNormalized Mean (NMPT)\n11.0\nSeconds\nINR Value\n1.15\nMethod\nBy Fully Automated Coagulometer\nTherapeutic Range of INR for Anticoagulant Control __2.0 - 3.0\nACTIVATED PARTIAL THROMBOPLASTIN TIME (APTT)\nTest\n31.9\nSeconds\nNormalized Mean (NMAPT)\n23.5\nSeconds\nMethod\nBy Fully Automated Coagulometer\nEND OF REPORT\nDr: Neelam Bharihoke\nM.D: (Pathology)\nPathologist\nAUTHORISED\nOLA\n'Moay\nhcLL R",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Ring Road,Indore",
+          "biomarker_normalized": "Ring Road,Indore",
+          "value": "452",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ring Road,Indore-452 010,Ph..4771111,Extension:2156,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Therapeutic Range of INR for Anticoagulant Control __",
+          "biomarker_normalized": "Therapeutic Range of INR for Anticoagulant Control __",
+          "value": "2.0",
+          "unit": "",
+          "reference_range": "2.0-3.0",
+          "source_line": "Therapeutic Range of INR for Anticoagulant Control __2.0 - 3.0",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 62,
+    "ocr_avg_confidence": 0.8537,
+    "parsed_row_count": 2
+  }
+}

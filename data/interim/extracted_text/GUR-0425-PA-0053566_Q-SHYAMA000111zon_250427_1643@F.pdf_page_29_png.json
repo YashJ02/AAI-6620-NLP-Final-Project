@@ -1,0 +1,729 @@
+{
+  "document_id": "GUR-0425-PA-0053566_Q-SHYAMA000111zon_250427_1643@F.pdf_page_29",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053566_Q-SHYAMA000111zon_250427_1643@F.pdf_page_29.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A NABH Accrediled Mullispecialllty Hospital\nDelhi\nDelhi-Rohtak Road, Bahadurgarh-124507(Hr )\nHospital\nPh: 01276-230607 , 01270-230070\n7 47 777\n7 77 Frttat;\nComputerised Lab-, X-Ray, Ultrasound, E\nC\nG.\nTiming\n8.00 AM; To 7.00 PM;\nCOMPLETE RANGE OF BiocheMiSTRY MicrobiOLOGY\nDelhi-Rohtak Rond\nSunday : 9.00 AM: To 3.00 PM:\nKAEMATOLOGY, SEROLOGY, CYTOLOG , HISTOPATHOLOGY\nBAHADURGARH-124507 (HARYANA)\nDele\n17/04/2025\nSil No\n347\nAge\n63 Yrs\nSex\nF\nDr RAHUL\nHAEMATQLOGY\nMALARIAL PARASITE\nNOT DETECTED,\nDi\n1 Chcns? Enen\nPi\nConeuiont\nReg Nlo DMC-677,=\nOR\nMC\n'6 9\nSa\nCUNICAL CORRELNTIOM IS ESSENTUL For FINAL DucNosiS\nMore Than 1>MOlRS OVERSUCHT FASINO condtion  Recuiredfore sR,0 Lrea Triglycerdes  Lipid PROFLE, 1J,T4Tsh; IRON } HORMONES\nMMOLYZED GeRlumhi FaleeLy Eevate Postassilm RON sgot sGpI lok *i0 t0yAiasl\nLpEM \u20ac Serum Vat fal seLy ElelaE ALrale e PLOSPHATASE SCoI cacium Toth Proteins AND Creat NINeKKD MAY FalsET[Over TovaL bilIrlBM\nIris REPORI (S FO4 Tr2 PLUUAL @r DoctoAS 064y NoI FoR VEDCOLEOM CASES\nKe usedisposac e STRINGESAND Neeoles CNLI\n24 HOURS EMERGENCY SERVICE S AVAILABLE\nZgok\nO4GAR\n6538\nPANAAKA\nIoloo\n0ss\nTocim ]\nTau",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1051.0,
+            79.0,
+            1543.0,
+            118.0
+          ],
+          "text": "A NABH Accrediled Mullispecialllty Hospital",
+          "confidence": 0.8874
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            289.0,
+            96.0,
+            578.0,
+            199.0
+          ],
+          "text": "Delhi",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            115.0,
+            1567.0,
+            155.0
+          ],
+          "text": "Delhi-Rohtak Road, Bahadurgarh-124507(Hr )",
+          "confidence": 0.8933
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            93.0,
+            1030.0,
+            222.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.6588
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            156.0,
+            1446.0,
+            186.0
+          ],
+          "text": "Ph: 01276-230607 , 01270-230070",
+          "confidence": 0.5278
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            420.0,
+            209.0,
+            649.0,
+            257.0
+          ],
+          "text": "7 47 777",
+          "confidence": 0.1164
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            215.0,
+            905.0,
+            258.0
+          ],
+          "text": "7 77 Frttat;",
+          "confidence": 0.1347
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            364.0,
+            265.0,
+            1180.0,
+            322.0
+          ],
+          "text": "Computerised Lab-, X-Ray, Ultrasound, E",
+          "confidence": 0.3968
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            271.0,
+            1231.0,
+            313.0
+          ],
+          "text": "C",
+          "confidence": 0.4576
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1245.0,
+            275.0,
+            1297.0,
+            315.0
+          ],
+          "text": "G.",
+          "confidence": 0.6643
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            85.0,
+            323.0,
+            177.0,
+            366.0
+          ],
+          "text": "Timing",
+          "confidence": 0.9716
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            328.0,
+            460.0,
+            360.0
+          ],
+          "text": "8.00 AM; To 7.00 PM;",
+          "confidence": 0.6746
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            528.0,
+            327.0,
+            1135.0,
+            363.0
+          ],
+          "text": "COMPLETE RANGE OF BiocheMiSTRY MicrobiOLOGY",
+          "confidence": 0.2863
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            336.0,
+            1562.0,
+            366.0
+          ],
+          "text": "Delhi-Rohtak Rond",
+          "confidence": 0.6854
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            353.0,
+            463.0,
+            393.0
+          ],
+          "text": "Sunday : 9.00 AM: To 3.00 PM:",
+          "confidence": 0.4927
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            512.0,
+            360.0,
+            1150.0,
+            392.0
+          ],
+          "text": "KAEMATOLOGY, SEROLOGY, CYTOLOG , HISTOPATHOLOGY",
+          "confidence": 0.2559
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1183.0,
+            361.0,
+            1573.0,
+            397.0
+          ],
+          "text": "BAHADURGARH-124507 (HARYANA)",
+          "confidence": 0.503
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            530.0,
+            262.0,
+            562.0
+          ],
+          "text": "Dele",
+          "confidence": 0.3952
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            525.0,
+            483.0,
+            561.0
+          ],
+          "text": "17/04/2025",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            524.0,
+            890.0,
+            556.0
+          ],
+          "text": "Sil No",
+          "confidence": 0.6491
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            524.0,
+            966.0,
+            554.0
+          ],
+          "text": "347",
+          "confidence": 0.9715
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            803.0,
+            563.0,
+            863.0,
+            601.0
+          ],
+          "text": "Age",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            902.0,
+            564.0,
+            992.0,
+            594.0
+          ],
+          "text": "63 Yrs",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            560.0,
+            1362.0,
+            590.0
+          ],
+          "text": "Sex",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1405.0,
+            563.0,
+            1425.0,
+            587.0
+          ],
+          "text": "F",
+          "confidence": 0.9893
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            333.0,
+            604.0,
+            480.0,
+            641.0
+          ],
+          "text": "Dr RAHUL",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            757.0,
+            718.0,
+            1030.0,
+            767.0
+          ],
+          "text": "HAEMATQLOGY",
+          "confidence": 0.5787
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            871.0,
+            507.0,
+            909.0
+          ],
+          "text": "MALARIAL PARASITE",
+          "confidence": 0.9146
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            867.0,
+            969.0,
+            903.0
+          ],
+          "text": "NOT DETECTED,",
+          "confidence": 0.4731
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            344.0,
+            1748.0,
+            382.0,
+            1774.0
+          ],
+          "text": "Di",
+          "confidence": 0.7685
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            413.0,
+            1731.0,
+            629.0,
+            1769.0
+          ],
+          "text": "1 Chcns? Enen",
+          "confidence": 0.0304
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            1750.0,
+            674.0,
+            1774.0
+          ],
+          "text": "Pi",
+          "confidence": 0.3564
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            509.0,
+            1749.0,
+            644.0,
+            1786.0
+          ],
+          "text": "Coneuiont",
+          "confidence": 0.225
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            503.0,
+            1785.0,
+            757.0,
+            1834.0
+          ],
+          "text": "Reg Nlo DMC-677,=",
+          "confidence": 0.4482
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1017.0,
+            1813.0,
+            1069.0,
+            1851.0
+          ],
+          "text": "OR",
+          "confidence": 0.132
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            1820.0,
+            1186.0,
+            1852.0
+          ],
+          "text": "MC",
+          "confidence": 0.0319
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1033.0,
+            1851.0,
+            1133.0,
+            1895.0
+          ],
+          "text": "'6 9",
+          "confidence": 0.1606
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1188.0,
+            1862.0,
+            1224.0,
+            1886.0
+          ],
+          "text": "Sa",
+          "confidence": 0.0058
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            1991.0,
+            668.0,
+            2019.0
+          ],
+          "text": "CUNICAL CORRELNTIOM IS ESSENTUL For FINAL DucNosiS",
+          "confidence": 0.0614
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            2022.0,
+            1508.0,
+            2052.0
+          ],
+          "text": "More Than 1>MOlRS OVERSUCHT FASINO condtion  Recuiredfore sR,0 Lrea Triglycerdes  Lipid PROFLE, 1J,T4Tsh; IRON } HORMONES",
+          "confidence": 0.0052
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            2053.0,
+            1004.0,
+            2080.0
+          ],
+          "text": "MMOLYZED GeRlumhi FaleeLy Eevate Postassilm RON sgot sGpI lok *i0 t0yAiasl",
+          "confidence": 0.0007
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            2086.0,
+            1520.0,
+            2116.0
+          ],
+          "text": "LpEM \u20ac Serum Vat fal seLy ElelaE ALrale e PLOSPHATASE SCoI cacium Toth Proteins AND Creat NINeKKD MAY FalsET[Over TovaL bilIrlBM",
+          "confidence": 0.0001
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            2115.0,
+            892.0,
+            2142.0
+          ],
+          "text": "Iris REPORI (S FO4 Tr2 PLUUAL @r DoctoAS 064y NoI FoR VEDCOLEOM CASES",
+          "confidence": 0.0079
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            2144.0,
+            580.0,
+            2168.0
+          ],
+          "text": "Ke usedisposac e STRINGESAND Neeoles CNLI",
+          "confidence": 0.0255
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            546.0,
+            2174.0,
+            1098.0,
+            2206.0
+          ],
+          "text": "24 HOURS EMERGENCY SERVICE S AVAILABLE",
+          "confidence": 0.7073
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1089.1270311998162,
+            1700.6647364629118,
+            1259.8729688001838,
+            1792.3352635370882
+          ],
+          "text": "Zgok",
+          "confidence": 0.201
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1223.9719194937463,
+            1760.3499697867678,
+            1343.0280805062537,
+            1811.6500302132322
+          ],
+          "text": "O4GAR",
+          "confidence": 0.3031
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            608.3358994113244,
+            1766.854033069195,
+            690.6641005886756,
+            1800.145966930805
+          ],
+          "text": "6538",
+          "confidence": 0.1268
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1066.6366360300185,
+            1772.110515012867,
+            1232.3633639699815,
+            1835.889484987133
+          ],
+          "text": "PANAAKA",
+          "confidence": 0.0154
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1176.542304238443,
+            1796.980484003579,
+            1308.457695761557,
+            1842.019515996421
+          ],
+          "text": "Ioloo",
+          "confidence": 0.012
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1020.1265211443365,
+            1830.2822340878213,
+            1102.8734788556635,
+            1877.7177659121787
+          ],
+          "text": "0ss",
+          "confidence": 0.0598
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1214.6573935716708,
+            1842.064688746308,
+            1354.3426064283292,
+            1885.935311253692
+          ],
+          "text": "Tocim ]",
+          "confidence": 0.0112
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1126.719631200671,
+            1867.1699896401537,
+            1190.280368799329,
+            1894.8300103598463
+          ],
+          "text": "Tau",
+          "confidence": 0.0018
+        }
+      ]
+    }
+  ],
+  "full_text": "A NABH Accrediled Mullispecialllty Hospital\nDelhi\nDelhi-Rohtak Road, Bahadurgarh-124507(Hr )\nHospital\nPh: 01276-230607 , 01270-230070\n7 47 777\n7 77 Frttat;\nComputerised Lab-, X-Ray, Ultrasound, E\nC\nG.\nTiming\n8.00 AM; To 7.00 PM;\nCOMPLETE RANGE OF BiocheMiSTRY MicrobiOLOGY\nDelhi-Rohtak Rond\nSunday : 9.00 AM: To 3.00 PM:\nKAEMATOLOGY, SEROLOGY, CYTOLOG , HISTOPATHOLOGY\nBAHADURGARH-124507 (HARYANA)\nDele\n17/04/2025\nSil No\n347\nAge\n63 Yrs\nSex\nF\nDr RAHUL\nHAEMATQLOGY\nMALARIAL PARASITE\nNOT DETECTED,\nDi\n1 Chcns? Enen\nPi\nConeuiont\nReg Nlo DMC-677,=\nOR\nMC\n'6 9\nSa\nCUNICAL CORRELNTIOM IS ESSENTUL For FINAL DucNosiS\nMore Than 1>MOlRS OVERSUCHT FASINO condtion  Recuiredfore sR,0 Lrea Triglycerdes  Lipid PROFLE, 1J,T4Tsh; IRON } HORMONES\nMMOLYZED GeRlumhi FaleeLy Eevate Postassilm RON sgot sGpI lok *i0 t0yAiasl\nLpEM \u20ac Serum Vat fal seLy ElelaE ALrale e PLOSPHATASE SCoI cacium Toth Proteins AND Creat NINeKKD MAY FalsET[Over TovaL bilIrlBM\nIris REPORI (S FO4 Tr2 PLUUAL @r DoctoAS 064y NoI FoR VEDCOLEOM CASES\nKe usedisposac e STRINGESAND Neeoles CNLI\n24 HOURS EMERGENCY SERVICE S AVAILABLE\nZgok\nO4GAR\n6538\nPANAAKA\nIoloo\n0ss\nTocim ]\nTau",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Delhi-Rohtak Road, Bahadurgarh",
+          "biomarker_normalized": "Delhi-Rohtak Road, Bahadurgarh",
+          "value": "124507",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Delhi-Rohtak Road, Bahadurgarh-124507(Hr )",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ph",
+          "biomarker_normalized": "Ph",
+          "value": "01276",
+          "unit": "",
+          "reference_range": "01276-230607",
+          "source_line": "Ph: 01276-230607 , 01270-230070",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Sunday",
+          "biomarker_normalized": "Sunday",
+          "value": "9.00",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sunday : 9.00 AM: To 3.00 PM:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BAHADURGARH",
+          "biomarker_normalized": "BAHADURGARH",
+          "value": "124507",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BAHADURGARH-124507 (HARYANA)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Reg Nlo DMC",
+          "biomarker_normalized": "Reg Nlo DMC",
+          "value": "677",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reg Nlo DMC-677,=",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "More Than",
+          "biomarker_normalized": "More Than",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "More Than 1>MOlRS OVERSUCHT FASINO condtion Recuiredfore sR,0 Lrea Triglycerdes Lipid PROFLE, 1J,T4Tsh; IRON } HORMONES",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Iris REPORI (S FO4 Tr2 PLUUAL @r DoctoAS",
+          "biomarker_normalized": "Iris REPORI (S FO4 Tr2 PLUUAL @r DoctoAS",
+          "value": "064",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Iris REPORI (S FO4 Tr2 PLUUAL @r DoctoAS 064y NoI FoR VEDCOLEOM CASES",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.4388,
+    "parsed_row_count": 7
+  }
+}

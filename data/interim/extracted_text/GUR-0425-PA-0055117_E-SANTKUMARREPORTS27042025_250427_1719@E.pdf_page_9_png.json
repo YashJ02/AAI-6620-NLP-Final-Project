@@ -1,0 +1,831 @@
+{
+  "document_id": "GUR-0425-PA-0055117_E-SANTKUMARREPORTS27042025_250427_1719@E.pdf_page_9",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055117_E-SANTKUMARREPORTS27042025_250427_1719@E.pdf_page_9.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "BANSAL HOSPITAL\n#AT 3F4TTG\nShahpura; Bhopal (M,P:) - 462016\nBANSAL\nR1TaT , #ula (A.A.)\n462016\nwwwbansalhospital com\nHospital\nwww bansalhospital.com\nREDEFINING HEAITH CARE\nReg; No:: NHI247IDEC-2013\n8 0  8\nNNeurology\nReport Date\n06:18\nBLAB1376888\nWard/Bed\nHHDUMHDU 8\nPrescribed By\n:Neurology\nStatus\n:Final\nOrder Date\n00:50\nTest Description\nResult\nBiological Ref\nBIOCHEMISTRY\nCREATININE\nSpecimen:Serum\nMethod: Isotope Dilution Mass Spectrometry\nCREATININE (rng/dL)\n0.7\niPrA\n0.5-1.3\nSpccimncn;Surum and Mcthod: Ulease Speclrophotomelric\nURLA (rg/dL)\n18.2\n20\n45\nTechnician\npawan\nDr. Sumect'Goswami MBBS, MD (Pathology)\nConsultant Pathologist\nDisclaimer: This repori1 is not meant lor medicolegal purposcs.\nRepoits are subject to the sample/specimen submitted\nParameters marked\n*#re\nunder (he scope of NABL M(L)T:\naqq3-i2 & fig\nNABL\n084 TIRrT\n0755-4086000\nMeL)T\n78983-89200\nLads\n3119laTakfF #at\nNABH\n662 4q814\n70241.23618\n70241-04190\nRange\nand",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            30.0,
+            525.0,
+            78.0
+          ],
+          "text": "BANSAL HOSPITAL",
+          "confidence": 0.9404
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1263.0,
+            15.0,
+            1581.0,
+            75.0
+          ],
+          "text": "#AT 3F4TTG",
+          "confidence": 0.011
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            84.0,
+            492.0,
+            112.0
+          ],
+          "text": "Shahpura; Bhopal (M,P:) - 462016",
+          "confidence": 0.7628
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            53.0,
+            951.0,
+            97.0
+          ],
+          "text": "BANSAL",
+          "confidence": 0.8678
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            78.0,
+            1484.0,
+            108.0
+          ],
+          "text": "R1TaT , #ula (A.A.)",
+          "confidence": 0.0524
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1492.0,
+            78.0,
+            1566.0,
+            102.0
+          ],
+          "text": "462016",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            110.0,
+            452.0,
+            136.0
+          ],
+          "text": "wwwbansalhospital com",
+          "confidence": 0.8829
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            743.0,
+            93.0,
+            967.0,
+            137.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.8961
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            104.0,
+            1538.0,
+            132.0
+          ],
+          "text": "www bansalhospital.com",
+          "confidence": 0.5157
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            140.0,
+            1018.0,
+            172.0
+          ],
+          "text": "REDEFINING HEAITH CARE",
+          "confidence": 0.7787
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            172.0,
+            972.0,
+            200.0
+          ],
+          "text": "Reg; No:: NHI247IDEC-2013",
+          "confidence": 0.5617
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1489.0,
+            229.0,
+            1561.0,
+            249.0
+          ],
+          "text": "8 0  8",
+          "confidence": 0.4136
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            463.0,
+            312.0,
+            612.0,
+            352.0
+          ],
+          "text": "NNeurology",
+          "confidence": 0.3828
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            324.0,
+            1191.0,
+            360.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.908
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1486.0,
+            331.0,
+            1571.0,
+            368.0
+          ],
+          "text": "06:18",
+          "confidence": 0.9903
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            476.0,
+            348.0,
+            660.0,
+            378.0
+          ],
+          "text": "BLAB1376888",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1031.0,
+            355.0,
+            1164.0,
+            388.0
+          ],
+          "text": "Ward/Bed",
+          "confidence": 0.978
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1317.0,
+            361.0,
+            1482.0,
+            393.0
+          ],
+          "text": "HHDUMHDU 8",
+          "confidence": 0.7922
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            372.0,
+            431.0,
+            409.0
+          ],
+          "text": "Prescribed By",
+          "confidence": 0.7894
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            373.0,
+            611.0,
+            412.0
+          ],
+          "text": ":Neurology",
+          "confidence": 0.5906
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1029.0,
+            385.0,
+            1120.0,
+            418.0
+          ],
+          "text": "Status",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            392.0,
+            1390.0,
+            420.0
+          ],
+          "text": ":Final",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            402.0,
+            398.0,
+            434.0
+          ],
+          "text": "Order Date",
+          "confidence": 0.962
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            634.0,
+            408.0,
+            716.0,
+            440.0
+          ],
+          "text": "00:50",
+          "confidence": 0.9557
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            251.0,
+            489.0,
+            426.0,
+            520.0
+          ],
+          "text": "Test Description",
+          "confidence": 0.8656
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            504.0,
+            1154.0,
+            530.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1355.0,
+            507.0,
+            1504.0,
+            539.0
+          ],
+          "text": "Biological Ref",
+          "confidence": 0.6012
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            540.0,
+            404.0,
+            566.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            568.0,
+            372.0,
+            594.0
+          ],
+          "text": "CREATININE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            251.0,
+            603.0,
+            381.0,
+            621.0
+          ],
+          "text": "Specimen:Serum",
+          "confidence": 0.7234
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            602.0,
+            756.0,
+            632.0
+          ],
+          "text": "Method: Isotope Dilution Mass Spectrometry",
+          "confidence": 0.7876
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            263.0,
+            623.0,
+            474.0,
+            656.0
+          ],
+          "text": "CREATININE (rng/dL)",
+          "confidence": 0.8723
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            640.0,
+            1132.0,
+            664.0
+          ],
+          "text": "0.7",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            653.0,
+            303.0,
+            673.0
+          ],
+          "text": "iPrA",
+          "confidence": 0.1568
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1418.0,
+            644.0,
+            1504.0,
+            670.0
+          ],
+          "text": "0.5-1.3",
+          "confidence": 0.9817
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            686.0,
+            696.0,
+            717.0
+          ],
+          "text": "Spccimncn;Surum and Mcthod: Ulease Speclrophotomelric",
+          "confidence": 0.6604
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            710.0,
+            406.0,
+            740.0
+          ],
+          "text": "URLA (rg/dL)",
+          "confidence": 0.8946
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1085.0,
+            724.0,
+            1140.0,
+            754.0
+          ],
+          "text": "18.2",
+          "confidence": 0.5909
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1422.0,
+            726.0,
+            1454.0,
+            758.0
+          ],
+          "text": "20",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1466.0,
+            732.0,
+            1498.0,
+            758.0
+          ],
+          "text": "45",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1381.0,
+            933.0,
+            1498.0,
+            965.0
+          ],
+          "text": "Technician",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1418.0,
+            968.0,
+            1490.0,
+            992.0
+          ],
+          "text": "pawan",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            981.0,
+            683.0,
+            1022.0
+          ],
+          "text": "Dr. Sumect'Goswami MBBS, MD (Pathology)",
+          "confidence": 0.7434
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            1009.0,
+            472.0,
+            1042.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1927.0,
+            773.0,
+            1968.0
+          ],
+          "text": "Disclaimer: This repori1 is not meant lor medicolegal purposcs.",
+          "confidence": 0.3377
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1957.0,
+            693.0,
+            1993.0
+          ],
+          "text": "Repoits are subject to the sample/specimen submitted",
+          "confidence": 0.5101
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1993.0,
+            456.0,
+            2024.0
+          ],
+          "text": "Parameters marked",
+          "confidence": 0.8563
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            1998.0,
+            528.0,
+            2026.0
+          ],
+          "text": "*#re",
+          "confidence": 0.6304
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            529.0,
+            1997.0,
+            979.0,
+            2042.0
+          ],
+          "text": "under (he scope of NABL M(L)T:",
+          "confidence": 0.7954
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            360.0,
+            2069.0,
+            545.0,
+            2111.0
+          ],
+          "text": "aqq3-i2 & fig",
+          "confidence": 0.0864
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            960.0,
+            2080.0,
+            1022.0,
+            2106.0
+          ],
+          "text": "NABL",
+          "confidence": 0.3981
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1187.0,
+            2069.0,
+            1351.0,
+            2105.0
+          ],
+          "text": "084 TIRrT",
+          "confidence": 0.0225
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            370.0,
+            2106.0,
+            536.0,
+            2136.0
+          ],
+          "text": "0755-4086000",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            2108.0,
+            1028.0,
+            2138.0
+          ],
+          "text": "MeL)T",
+          "confidence": 0.5116
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            2102.0,
+            1346.0,
+            2132.0
+          ],
+          "text": "78983-89200",
+          "confidence": 0.4549
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            960.0,
+            2134.0,
+            1020.0,
+            2160.0
+          ],
+          "text": "Lads",
+          "confidence": 0.6933
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            366.0,
+            2146.0,
+            540.0,
+            2178.0
+          ],
+          "text": "3119laTakfF #at",
+          "confidence": 0.0057
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            2160.0,
+            784.0,
+            2184.0
+          ],
+          "text": "NABH",
+          "confidence": 0.972
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1212.0,
+            2143.0,
+            1332.0,
+            2176.0
+          ],
+          "text": "662 4q814",
+          "confidence": 0.0592
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            379.0,
+            2176.0,
+            526.0,
+            2200.0
+          ],
+          "text": "70241.23618",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            2176.0,
+            1346.0,
+            2200.0
+          ],
+          "text": "70241-04190",
+          "confidence": 0.6687
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1500.0797484949992,
+            509.1539501058485,
+            1573.9202515050008,
+            544.8460498941515
+          ],
+          "text": "Range",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            380.6546544120074,
+            603.9343734606277,
+            414.3453455879926,
+            623.0656265393723
+          ],
+          "text": "and",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "BANSAL HOSPITAL\n#AT 3F4TTG\nShahpura; Bhopal (M,P:) - 462016\nBANSAL\nR1TaT , #ula (A.A.)\n462016\nwwwbansalhospital com\nHospital\nwww bansalhospital.com\nREDEFINING HEAITH CARE\nReg; No:: NHI247IDEC-2013\n8 0  8\nNNeurology\nReport Date\n06:18\nBLAB1376888\nWard/Bed\nHHDUMHDU 8\nPrescribed By\n:Neurology\nStatus\n:Final\nOrder Date\n00:50\nTest Description\nResult\nBiological Ref\nBIOCHEMISTRY\nCREATININE\nSpecimen:Serum\nMethod: Isotope Dilution Mass Spectrometry\nCREATININE (rng/dL)\n0.7\niPrA\n0.5-1.3\nSpccimncn;Surum and Mcthod: Ulease Speclrophotomelric\nURLA (rg/dL)\n18.2\n20\n45\nTechnician\npawan\nDr. Sumect'Goswami MBBS, MD (Pathology)\nConsultant Pathologist\nDisclaimer: This repori1 is not meant lor medicolegal purposcs.\nRepoits are subject to the sample/specimen submitted\nParameters marked\n*#re\nunder (he scope of NABL M(L)T:\naqq3-i2 & fig\nNABL\n084 TIRrT\n0755-4086000\nMeL)T\n78983-89200\nLads\n3119laTakfF #at\nNABH\n662 4q814\n70241.23618\n70241-04190\nRange\nand",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "#AT",
+          "biomarker_normalized": "#AT",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "#AT 3F4TTG",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Shahpura; Bhopal (M,P:)",
+          "biomarker_normalized": "Shahpura; Bhopal (M,P:)",
+          "value": "462016",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Shahpura; Bhopal (M,P:) - 462016",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Reg; No:: NHI2",
+          "biomarker_normalized": "Reg; No:: NHI2",
+          "value": "47",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reg; No:: NHI247IDEC-2013",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BLAB1",
+          "biomarker_normalized": "BLAB1",
+          "value": "376888",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BLAB1376888",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "HHDUMHDU",
+          "biomarker_normalized": "HHDUMHDU",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HHDUMHDU 8",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 63,
+    "ocr_avg_confidence": 0.7283,
+    "parsed_row_count": 5
+  }
+}

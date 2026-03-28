@@ -1,0 +1,465 @@
+{
+  "document_id": "GUR-0425-PA-0057804_Q-RAMESHKUMARQR_250427_1055@F.pdf_page_11",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057804_Q-RAMESHKUMARQR_250427_1055@F.pdf_page_11.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Agkash Healthegre\nAakash Pathlab\n11b\nSuper Speciality\nHospital\nWr cu Hecumn\nLABORATORY INVESTIGATION REPORT\nPatient\nUHId\n3\"\nEpisode\nOP\nRef; Doctor\nDr. PAC (Pre Anaesthesia Checkup)\nFacility\nAakash Healthcare Delhi\nEnd of Report\nDr_Anuradha\nKumar\nMBBS, MD\nDr,Ankush Singhal\nMBBS, MD\nPathology\n(Bio-Chemistry)\nAssociate Consultant Pathologist\nAssociaze Consultant &\nIncharge\nAcministration\nRegNo: 44795\nRegNo: 60140\nPrint DateTime:\nMC 7o08\nK3\n~ul",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            193.0,
+            503.0,
+            229.0
+          ],
+          "text": "Agkash Healthegre",
+          "confidence": 0.3194
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            177.0,
+            1075.0,
+            221.0
+          ],
+          "text": "Aakash Pathlab",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1275.0,
+            137.0,
+            1477.0,
+            275.0
+          ],
+          "text": "11b",
+          "confidence": 0.1084
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            225.0,
+            370.0,
+            256.0
+          ],
+          "text": "Super Speciality",
+          "confidence": 0.8134
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            228.0,
+            496.0,
+            254.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.9799
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            259.0,
+            255.0,
+            399.0,
+            271.0
+          ],
+          "text": "Wr cu Hecumn",
+          "confidence": 0.0559
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            566.0,
+            332.0,
+            1078.0,
+            362.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.957
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            392.0,
+            252.0,
+            416.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            438.0,
+            232.0,
+            462.0
+          ],
+          "text": "UHId",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            385.0,
+            1235.0,
+            477.0
+          ],
+          "text": "3\"",
+          "confidence": 0.6084
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            468.0,
+            264.0,
+            496.0
+          ],
+          "text": "Episode",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            389.0,
+            475.0,
+            415.0,
+            491.0
+          ],
+          "text": "OP",
+          "confidence": 0.324
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            494.0,
+            296.0,
+            520.0
+          ],
+          "text": "Ref; Doctor",
+          "confidence": 0.8212
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            492.0,
+            720.0,
+            524.0
+          ],
+          "text": "Dr. PAC (Pre Anaesthesia Checkup)",
+          "confidence": 0.6011
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            945.0,
+            503.0,
+            1030.0,
+            534.0
+          ],
+          "text": "Facility",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            501.0,
+            1342.0,
+            533.0
+          ],
+          "text": "Aakash Healthcare Delhi",
+          "confidence": 0.5735
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            582.0,
+            896.0,
+            608.0
+          ],
+          "text": "End of Report",
+          "confidence": 0.6436
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            718.0,
+            316.0,
+            742.0
+          ],
+          "text": "Dr_Anuradha",
+          "confidence": 0.5429
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            718.0,
+            400.0,
+            742.0
+          ],
+          "text": "Kumar",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            718.0,
+            528.0,
+            744.0
+          ],
+          "text": "MBBS, MD",
+          "confidence": 0.9449
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            716.0,
+            828.0,
+            744.0
+          ],
+          "text": "Dr,Ankush Singhal",
+          "confidence": 0.6222
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            840.0,
+            716.0,
+            954.0,
+            744.0
+          ],
+          "text": "MBBS, MD",
+          "confidence": 0.5841
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            744.0,
+            290.0,
+            777.0
+          ],
+          "text": "Pathology",
+          "confidence": 0.9511
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            619.0,
+            744.0,
+            796.0,
+            774.0
+          ],
+          "text": "(Bio-Chemistry)",
+          "confidence": 0.9899
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            783.0,
+            486.0,
+            812.0
+          ],
+          "text": "Associate Consultant Pathologist",
+          "confidence": 0.9442
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            619.0,
+            786.0,
+            838.0,
+            810.0
+          ],
+          "text": "Associaze Consultant &",
+          "confidence": 0.9442
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            835.0,
+            780.0,
+            930.0,
+            816.0
+          ],
+          "text": "Incharge",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            619.0,
+            814.0,
+            760.0,
+            842.0
+          ],
+          "text": "Acministration",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            850.0,
+            316.0,
+            878.0
+          ],
+          "text": "RegNo: 44795",
+          "confidence": 0.8019
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            852.0,
+            758.0,
+            880.0
+          ],
+          "text": "RegNo: 60140",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            1908.0,
+            838.0,
+            1934.0
+          ],
+          "text": "Print DateTime:",
+          "confidence": 0.9463
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1345.0,
+            2013.0,
+            1413.0,
+            2029.0
+          ],
+          "text": "MC 7o08",
+          "confidence": 0.0867
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            226.01985123916003,
+            622.1439720213177,
+            352.98014876083994,
+            680.8560279786823
+          ],
+          "text": "K3",
+          "confidence": 0.0169
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            679.3167184270003,
+            625.0757380819815,
+            764.6832815729997,
+            679.9242619180185
+          ],
+          "text": "~ul",
+          "confidence": 0.3347
+        }
+      ]
+    }
+  ],
+  "full_text": "Agkash Healthegre\nAakash Pathlab\n11b\nSuper Speciality\nHospital\nWr cu Hecumn\nLABORATORY INVESTIGATION REPORT\nPatient\nUHId\n3\"\nEpisode\nOP\nRef; Doctor\nDr. PAC (Pre Anaesthesia Checkup)\nFacility\nAakash Healthcare Delhi\nEnd of Report\nDr_Anuradha\nKumar\nMBBS, MD\nDr,Ankush Singhal\nMBBS, MD\nPathology\n(Bio-Chemistry)\nAssociate Consultant Pathologist\nAssociaze Consultant &\nIncharge\nAcministration\nRegNo: 44795\nRegNo: 60140\nPrint DateTime:\nMC 7o08\nK3\n~ul",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "RegNo",
+          "biomarker_normalized": "RegNo",
+          "value": "44795",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "RegNo: 44795",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "RegNo",
+          "biomarker_normalized": "RegNo",
+          "value": "60140",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "RegNo: 60140",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MC",
+          "biomarker_normalized": "MC",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MC 7o08",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 34,
+    "ocr_avg_confidence": 0.7202,
+    "parsed_row_count": 3
+  }
+}

@@ -1,0 +1,897 @@
+{
+  "document_id": "BLR-0425-PA-0042594_F-BABYOFSSIRISHAICP_250427_1634@G.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042594_F-BABYOFSSIRISHAICP_250427_1634@G.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Rainbow\nPatient Name\nJV-00101180\n17d-00o4s016\nChildren's\nBirthRigho\niry 0t0\nriyimmd\n(F)\nRESULT SHEET\nAge\n201-1024\nAJU\nHospital\n7i 0ru\n8l.kecr\nAte\n10 No;\nDate\nLluls\nTime\nHb\n0\nPCV\n34.0\nRBC\n52S\nWEC\n2.2 700\nM\nSzzL\nPlatelets\nu2\nCrP\nESR\nPCT\nRBS\nNA\nK\nCl\nCalMVg\nPhosphate\nUrea\nCreatinine\nALP\nSGPT\nSGOT\nTBiVConj\nTprotein _\nS.Abumin\nS: Glbulin\nNVG Ratio\nUrc Acid\nS. Azytase\nSr: Lipase\nBbod Lactate_\nS. Cholesterol\nPTANR\nAPTT\nCSF Protein / Sugar\nCells\nM\nDoctor' $ Signature\nin\nWW\nrainbowhospitals.i\nCIM\nU85110AP20O7PTC055533\nTtsY\nNPN",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            85.0,
+            125.0,
+            302.0,
+            194.0
+          ],
+          "text": "Rainbow",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            912.0,
+            144.0,
+            1068.0,
+            176.0
+          ],
+          "text": "Patient Name",
+          "confidence": 0.8535
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1089.0,
+            152.0,
+            1201.0,
+            183.0
+          ],
+          "text": "JV-00101180",
+          "confidence": 0.0388
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1271.0,
+            140.0,
+            1390.0,
+            172.0
+          ],
+          "text": "17d-00o4s016",
+          "confidence": 0.0115
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            172.0,
+            335.0,
+            244.0
+          ],
+          "text": "Children's",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            157.0,
+            549.0,
+            243.0
+          ],
+          "text": "BirthRigho",
+          "confidence": 0.3697
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            182.0,
+            1166.0,
+            208.0
+          ],
+          "text": "iry 0t0",
+          "confidence": 0.0206
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1158.0,
+            170.0,
+            1339.0,
+            226.0
+          ],
+          "text": "riyimmd",
+          "confidence": 0.048
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            188.0,
+            1410.0,
+            214.0
+          ],
+          "text": "(F)",
+          "confidence": 0.8686
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            185.0,
+            895.0,
+            248.0
+          ],
+          "text": "RESULT SHEET",
+          "confidence": 0.8908
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            911.0,
+            209.0,
+            967.0,
+            247.0
+          ],
+          "text": "Age",
+          "confidence": 0.4828
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1089.0,
+            202.0,
+            1172.0,
+            231.0
+          ],
+          "text": "201-1024",
+          "confidence": 0.0831
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1189.0,
+            229.0,
+            1225.0,
+            247.0
+          ],
+          "text": "AJU",
+          "confidence": 0.6505
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            224.0,
+            295.0,
+            297.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.6828
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            392.0,
+            236.0,
+            536.0,
+            264.0
+          ],
+          "text": "7i 0ru",
+          "confidence": 0.0092
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            286.0,
+            282.0,
+            319.0
+          ],
+          "text": "8l.kecr",
+          "confidence": 0.0141
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            274.0,
+            532.0,
+            298.0
+          ],
+          "text": "Ate",
+          "confidence": 0.0025
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            912.0,
+            278.0,
+            996.0,
+            310.0
+          ],
+          "text": "10 No;",
+          "confidence": 0.3655
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            359.0,
+            175.0,
+            395.0
+          ],
+          "text": "Date",
+          "confidence": 0.9861
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            375.0,
+            675.0,
+            415.0
+          ],
+          "text": "Lluls",
+          "confidence": 0.1296
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            406.0,
+            180.0,
+            447.0
+          ],
+          "text": "Time",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            457.0,
+            149.0,
+            493.0
+          ],
+          "text": "Hb",
+          "confidence": 0.981
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            466.0,
+            638.0,
+            494.0
+          ],
+          "text": "0",
+          "confidence": 0.2702
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            505.0,
+            169.0,
+            541.0
+          ],
+          "text": "PCV",
+          "confidence": 0.9457
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            513.0,
+            647.0,
+            553.0
+          ],
+          "text": "34.0",
+          "confidence": 0.37
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            553.0,
+            171.0,
+            591.0
+          ],
+          "text": "RBC",
+          "confidence": 0.6391
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            541.0,
+            552.0,
+            651.0,
+            604.0
+          ],
+          "text": "52S",
+          "confidence": 0.1669
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            601.0,
+            183.0,
+            639.0
+          ],
+          "text": "WEC",
+          "confidence": 0.5073
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            609.0,
+            659.0,
+            650.0
+          ],
+          "text": "2.2 700",
+          "confidence": 0.1662
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            653.0,
+            161.0,
+            689.0
+          ],
+          "text": "M",
+          "confidence": 0.9821
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            514.0,
+            652.0,
+            696.0,
+            700.0
+          ],
+          "text": "SzzL",
+          "confidence": 0.3688
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            701.0,
+            229.0,
+            741.0
+          ],
+          "text": "Platelets",
+          "confidence": 0.9526
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            546.0,
+            700.0,
+            655.0,
+            748.0
+          ],
+          "text": "u2",
+          "confidence": 0.1706
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            747.0,
+            169.0,
+            787.0
+          ],
+          "text": "CrP",
+          "confidence": 0.5876
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            797.0,
+            167.0,
+            837.0
+          ],
+          "text": "ESR",
+          "confidence": 0.9626
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            849.0,
+            169.0,
+            885.0
+          ],
+          "text": "PCT",
+          "confidence": 0.9857
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            895.0,
+            173.0,
+            935.0
+          ],
+          "text": "RBS",
+          "confidence": 0.967
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            947.0,
+            157.0,
+            983.0
+          ],
+          "text": "NA",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            998.0,
+            134.0,
+            1030.0
+          ],
+          "text": "K",
+          "confidence": 0.8547
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            1043.0,
+            143.0,
+            1079.0
+          ],
+          "text": "Cl",
+          "confidence": 0.5189
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            1087.0,
+            207.0,
+            1129.0
+          ],
+          "text": "CalMVg",
+          "confidence": 0.241
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1137.0,
+            257.0,
+            1179.0
+          ],
+          "text": "Phosphate",
+          "confidence": 0.9509
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1189.0,
+            179.0,
+            1225.0
+          ],
+          "text": "Urea",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1229.0,
+            252.0,
+            1274.0
+          ],
+          "text": "Creatinine",
+          "confidence": 0.9147
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1280.0,
+            172.0,
+            1320.0
+          ],
+          "text": "ALP",
+          "confidence": 0.892
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            1323.0,
+            196.0,
+            1371.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.8535
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1373.0,
+            196.0,
+            1415.0
+          ],
+          "text": "SGOT",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            1413.0,
+            253.0,
+            1464.0
+          ],
+          "text": "TBiVConj",
+          "confidence": 0.7023
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            1466.0,
+            237.0,
+            1516.0
+          ],
+          "text": "Tprotein _",
+          "confidence": 0.6343
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1510.0,
+            266.0,
+            1558.0
+          ],
+          "text": "S.Abumin",
+          "confidence": 0.6209
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1558.0,
+            262.0,
+            1606.0
+          ],
+          "text": "S: Glbulin",
+          "confidence": 0.5745
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1607.0,
+            246.0,
+            1651.0
+          ],
+          "text": "NVG Ratio",
+          "confidence": 0.6247
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1655.0,
+            241.0,
+            1699.0
+          ],
+          "text": "Urc Acid",
+          "confidence": 0.7306
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1702.0,
+            281.0,
+            1745.0
+          ],
+          "text": "S. Azytase",
+          "confidence": 0.3685
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1753.0,
+            248.0,
+            1793.0
+          ],
+          "text": "Sr: Lipase",
+          "confidence": 0.5685
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1791.0,
+            301.0,
+            1841.0
+          ],
+          "text": "Bbod Lactate_",
+          "confidence": 0.6986
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1835.0,
+            303.0,
+            1886.0
+          ],
+          "text": "S. Cholesterol",
+          "confidence": 0.9128
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1887.0,
+            214.0,
+            1932.0
+          ],
+          "text": "PTANR",
+          "confidence": 0.7057
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1938.0,
+            194.0,
+            1977.0
+          ],
+          "text": "APTT",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1972.0,
+            373.0,
+            2024.0
+          ],
+          "text": "CSF Protein / Sugar",
+          "confidence": 0.8381
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            2033.0,
+            189.0,
+            2069.0
+          ],
+          "text": "Cells",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            2077.0,
+            171.0,
+            2117.0
+          ],
+          "text": "M",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            2121.0,
+            373.0,
+            2163.0
+          ],
+          "text": "Doctor' $ Signature",
+          "confidence": 0.8095
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1528.0,
+            2138.0,
+            1560.0,
+            2170.0
+          ],
+          "text": "in",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1221.0,
+            2161.0,
+            1304.0,
+            2199.0
+          ],
+          "text": "WW",
+          "confidence": 0.2593
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            2134.0,
+            1542.0,
+            2198.0
+          ],
+          "text": "rainbowhospitals.i",
+          "confidence": 0.8623
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            2195.0,
+            173.0,
+            2231.0
+          ],
+          "text": "CIM",
+          "confidence": 0.6538
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            2187.0,
+            503.0,
+            2227.0
+          ],
+          "text": "U85110AP20O7PTC055533",
+          "confidence": 0.4937
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            755.4648993671831,
+            515.396203989889,
+            876.5351006328169,
+            581.603796010111
+          ],
+          "text": "TtsY",
+          "confidence": 0.0666
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            751.8503320980383,
+            603.5144400363997,
+            864.1496679019617,
+            663.4855599636003
+          ],
+          "text": "NPN",
+          "confidence": 0.0154
+        }
+      ]
+    }
+  ],
+  "full_text": "Rainbow\nPatient Name\nJV-00101180\n17d-00o4s016\nChildren's\nBirthRigho\niry 0t0\nriyimmd\n(F)\nRESULT SHEET\nAge\n201-1024\nAJU\nHospital\n7i 0ru\n8l.kecr\nAte\n10 No;\nDate\nLluls\nTime\nHb\n0\nPCV\n34.0\nRBC\n52S\nWEC\n2.2 700\nM\nSzzL\nPlatelets\nu2\nCrP\nESR\nPCT\nRBS\nNA\nK\nCl\nCalMVg\nPhosphate\nUrea\nCreatinine\nALP\nSGPT\nSGOT\nTBiVConj\nTprotein _\nS.Abumin\nS: Glbulin\nNVG Ratio\nUrc Acid\nS. Azytase\nSr: Lipase\nBbod Lactate_\nS. Cholesterol\nPTANR\nAPTT\nCSF Protein / Sugar\nCells\nM\nDoctor' $ Signature\nin\nWW\nrainbowhospitals.i\nCIM\nU85110AP20O7PTC055533\nTtsY\nNPN",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "JV",
+          "biomarker_normalized": "JV",
+          "value": "00101180",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "JV-00101180",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "iry",
+          "biomarker_normalized": "iry",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "iry 0t0",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "U8",
+          "biomarker_normalized": "U8",
+          "value": "5110",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "U85110AP20O7PTC055533",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 70,
+    "ocr_avg_confidence": 0.6124,
+    "parsed_row_count": 3
+  }
+}

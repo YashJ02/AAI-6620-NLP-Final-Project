@@ -1,0 +1,456 @@
+{
+  "document_id": "CHD-0425-PA-0008729_REQUEST FOR ENHACEMENT_28-04-2025_1006-46_AM.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHD-0425-PA-0008729_REQUEST FOR ENHACEMENT_28-04-2025_1006-46_AM.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GKHOSPITA & CLINICALLAB\nOpp. Hero Cycles & Oswal Woollen Mill No. 3,\n6_LRoad LUDHIANA,\nPh :\n5015246\nSample No\n09\nDate\n7\nG.K HOSPITAL\nHAEMATOLOGYREPORT\nTEST\nFINDING\nNORMAL RANGE\nPANCREATIC FUNCTION TEST\nGlucose(R)\n21Omgldl\n70-140mgldl\nREPORT\nABO\n\"0'\nRh\nPOSITIVE\nSEROLOGY\nV.DRL\nNon-Reactive\nHbSAG\nNegative\nHIV (1+2)\nNegative\nHCV\nNegative\nEND\nSICNATURE",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            296.0,
+            67.0,
+            1401.0,
+            182.0
+          ],
+          "text": "GKHOSPITA & CLINICALLAB",
+          "confidence": 0.765
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            386.0,
+            168.0,
+            1309.0,
+            237.0
+          ],
+          "text": "Opp. Hero Cycles & Oswal Woollen Mill No. 3,",
+          "confidence": 0.659
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            215.0,
+            1076.0,
+            271.0
+          ],
+          "text": "6_LRoad LUDHIANA,",
+          "confidence": 0.6797
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            563.0,
+            267.0,
+            655.0,
+            311.0
+          ],
+          "text": "Ph :",
+          "confidence": 0.9911
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            955.0,
+            268.0,
+            1134.0,
+            318.0
+          ],
+          "text": "5015246",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            383.0,
+            421.0,
+            445.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            443.0,
+            383.0,
+            497.0,
+            425.0
+          ],
+          "text": "09",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1203.0,
+            395.0,
+            1297.0,
+            437.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            383.0,
+            1529.0,
+            534.0
+          ],
+          "text": "7",
+          "confidence": 0.515
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            368.0,
+            562.0,
+            674.0,
+            612.0
+          ],
+          "text": "G.K HOSPITAL",
+          "confidence": 0.9631
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            688.0,
+            1076.0,
+            738.0
+          ],
+          "text": "HAEMATOLOGYREPORT",
+          "confidence": 0.6725
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            778.0,
+            316.0,
+            833.0
+          ],
+          "text": "TEST",
+          "confidence": 0.8061
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            783.0,
+            851.0,
+            825.0
+          ],
+          "text": "FINDING",
+          "confidence": 0.9735
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1155.0,
+            783.0,
+            1490.0,
+            832.0
+          ],
+          "text": "NORMAL RANGE",
+          "confidence": 0.6843
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            862.0,
+            802.0,
+            912.0
+          ],
+          "text": "PANCREATIC FUNCTION TEST",
+          "confidence": 0.9741
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            956.0,
+            410.0,
+            1004.0
+          ],
+          "text": "Glucose(R)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            954.0,
+            852.0,
+            1009.0
+          ],
+          "text": "21Omgldl",
+          "confidence": 0.6387
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            958.0,
+            1384.0,
+            1008.0
+          ],
+          "text": "70-140mgldl",
+          "confidence": 0.6362
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            1045.0,
+            375.0,
+            1089.0
+          ],
+          "text": "REPORT",
+          "confidence": 0.7388
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1130.0,
+            272.0,
+            1162.0
+          ],
+          "text": "ABO",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            1128.0,
+            726.0,
+            1160.0
+          ],
+          "text": "\"0'",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1210.0,
+            250.0,
+            1240.0
+          ],
+          "text": "Rh",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            1210.0,
+            804.0,
+            1242.0
+          ],
+          "text": "POSITIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            1283.0,
+            417.0,
+            1338.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.7054
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1396.0,
+            329.0,
+            1437.0
+          ],
+          "text": "V.DRL",
+          "confidence": 0.9141
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            1401.0,
+            895.0,
+            1439.0
+          ],
+          "text": "Non-Reactive",
+          "confidence": 0.6917
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            1489.0,
+            315.0,
+            1529.0
+          ],
+          "text": "HbSAG",
+          "confidence": 0.596
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            673.0,
+            1495.0,
+            823.0,
+            1539.0
+          ],
+          "text": "Negative",
+          "confidence": 0.6722
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1580.0,
+            356.0,
+            1628.0
+          ],
+          "text": "HIV (1+2)",
+          "confidence": 0.6746
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            673.0,
+            1589.0,
+            821.0,
+            1631.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1671.0,
+            279.0,
+            1714.0
+          ],
+          "text": "HCV",
+          "confidence": 0.9253
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            668.0,
+            1680.0,
+            820.0,
+            1728.0
+          ],
+          "text": "Negative",
+          "confidence": 0.6653
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            1803.0,
+            785.0,
+            1843.0
+          ],
+          "text": "END",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            1867.0,
+            1336.0,
+            1915.0
+          ],
+          "text": "SICNATURE",
+          "confidence": 0.9331
+        }
+      ]
+    }
+  ],
+  "full_text": "GKHOSPITA & CLINICALLAB\nOpp. Hero Cycles & Oswal Woollen Mill No. 3,\n6_LRoad LUDHIANA,\nPh :\n5015246\nSample No\n09\nDate\n7\nG.K HOSPITAL\nHAEMATOLOGYREPORT\nTEST\nFINDING\nNORMAL RANGE\nPANCREATIC FUNCTION TEST\nGlucose(R)\n21Omgldl\n70-140mgldl\nREPORT\nABO\n\"0'\nRh\nPOSITIVE\nSEROLOGY\nV.DRL\nNon-Reactive\nHbSAG\nNegative\nHIV (1+2)\nNegative\nHCV\nNegative\nEND\nSICNATURE",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Opp. Hero Cycles & Oswal Woollen Mill No.",
+          "biomarker_normalized": "Opp. Hero Cycles & Oswal Woollen Mill No.",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Opp. Hero Cycles & Oswal Woollen Mill No. 3,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HIV (",
+          "biomarker_normalized": "HIV (",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HIV (1+2)",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 34,
+    "ocr_avg_confidence": 0.8374,
+    "parsed_row_count": 2
+  }
+}

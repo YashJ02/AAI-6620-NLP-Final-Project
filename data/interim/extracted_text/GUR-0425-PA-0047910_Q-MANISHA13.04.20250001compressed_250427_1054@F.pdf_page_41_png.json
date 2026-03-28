@@ -1,0 +1,753 @@
+{
+  "document_id": "GUR-0425-PA-0047910_Q-MANISHA13.04.20250001compressed_250427_1054@F.pdf_page_41",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0047910_Q-MANISHA13.04.20250001compressed_250427_1054@F.pdf_page_41.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "V\nSWASTIK HOS\nJhajjar Road Bahadurgarh\n7k Skitt 7a #eal\n7kc Spint \"7o Care\nPatient Id\nSrl No.\n139\nDate\nSWASTIK HOSPITAL\nTest\nVLD L\n25.12\nmgldL\n4.7\n22.1\nLDL CHOLESTEROL DIRECT\n106.28\nmgldL\n63.0 - 129.0\nTOTAL CHOLESTEROLIHDL RATIO\n3.738\n0.0 - 4.97\nLDL\nHDL CHOLESTEROL RATIO\n2.214\n0.00\n3.55\nEnd Of Report\nDr: Yogesh Kal\nChahar\nD\nL\n1nN\nMD (Inter:\n'Xed.)\nMB\n@aen\nJkj;\nDMC\n4p13T\nCN K062m1\nTECHNICIAN\nDMCIRI10211\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAlI TPA & Insurance\nComputerised Lab\nSSTIK\nH2S",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            52.0,
+            218.0,
+            156.0
+          ],
+          "text": "V",
+          "confidence": 0.1352
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            276.0,
+            49.0,
+            1075.0,
+            158.0
+          ],
+          "text": "SWASTIK HOS",
+          "confidence": 0.7925
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            156.0,
+            1070.0,
+            209.0
+          ],
+          "text": "Jhajjar Road Bahadurgarh",
+          "confidence": 0.7163
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            258.0,
+            282.0,
+            286.0
+          ],
+          "text": "7k Skitt 7a #eal",
+          "confidence": 0.3328
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            290.0,
+            288.0,
+            318.0
+          ],
+          "text": "7kc Spint \"7o Care",
+          "confidence": 0.1327
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            436.0,
+            300.0,
+            466.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9863
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            444.0,
+            754.0,
+            474.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.7306
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            796.0,
+            446.0,
+            848.0,
+            476.0
+          ],
+          "text": "139",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1027.0,
+            449.0,
+            1097.0,
+            482.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            305.0,
+            517.0,
+            586.0,
+            550.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            606.0,
+            182.0,
+            632.0
+          ],
+          "text": "Test",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            670.0,
+            253.0,
+            709.0
+          ],
+          "text": "VLD L",
+          "confidence": 0.852
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            684.0,
+            808.0,
+            714.0
+          ],
+          "text": "25.12",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            685.0,
+            1017.0,
+            723.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.794
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            690.0,
+            1238.0,
+            722.0
+          ],
+          "text": "4.7",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            692.0,
+            1318.0,
+            722.0
+          ],
+          "text": "22.1",
+          "confidence": 0.9829
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            725.0,
+            581.0,
+            766.0
+          ],
+          "text": "LDL CHOLESTEROL DIRECT",
+          "confidence": 0.6783
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            723.0,
+            733.0,
+            823.0,
+            769.0
+          ],
+          "text": "106.28",
+          "confidence": 0.7059
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            739.0,
+            1015.0,
+            777.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9821
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1181.0,
+            740.0,
+            1355.0,
+            777.0
+          ],
+          "text": "63.0 - 129.0",
+          "confidence": 0.8916
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            776.0,
+            651.0,
+            819.0
+          ],
+          "text": "TOTAL CHOLESTEROLIHDL RATIO",
+          "confidence": 0.8741
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            788.0,
+            806.0,
+            820.0
+          ],
+          "text": "3.738",
+          "confidence": 0.7886
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1181.0,
+            795.0,
+            1321.0,
+            831.0
+          ],
+          "text": "0.0 - 4.97",
+          "confidence": 0.6134
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            832.0,
+            204.0,
+            864.0
+          ],
+          "text": "LDL",
+          "confidence": 0.406
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            831.0,
+            642.0,
+            871.0
+          ],
+          "text": "HDL CHOLESTEROL RATIO",
+          "confidence": 0.7557
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            840.0,
+            804.0,
+            872.0
+          ],
+          "text": "2.214",
+          "confidence": 0.7832
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            848.0,
+            1250.0,
+            880.0
+          ],
+          "text": "0.00",
+          "confidence": 0.9879
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            850.0,
+            1336.0,
+            882.0
+          ],
+          "text": "3.55",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            949.0,
+            909.0,
+            988.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            1760.0,
+            798.0,
+            1811.0
+          ],
+          "text": "Dr: Yogesh Kal",
+          "confidence": 0.361
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            852.0,
+            1768.0,
+            969.0,
+            1813.0
+          ],
+          "text": "Chahar",
+          "confidence": 0.4499
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1085.0,
+            1777.0,
+            1139.0,
+            1821.0
+          ],
+          "text": "D",
+          "confidence": 0.2895
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1784.0,
+            1202.0,
+            1822.0
+          ],
+          "text": "L",
+          "confidence": 0.8853
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            1787.0,
+            1379.0,
+            1831.0
+          ],
+          "text": "1nN",
+          "confidence": 0.0238
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1811.0,
+            803.0,
+            1851.0
+          ],
+          "text": "MD (Inter:",
+          "confidence": 0.3126
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            1817.0,
+            969.0,
+            1859.0
+          ],
+          "text": "'Xed.)",
+          "confidence": 0.0422
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1085.0,
+            1821.0,
+            1139.0,
+            1857.0
+          ],
+          "text": "MB",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1139.0,
+            1792.0,
+            1257.0,
+            1866.0
+          ],
+          "text": "@aen",
+          "confidence": 0.0586
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            277.0,
+            1863.0,
+            331.0,
+            1901.0
+          ],
+          "text": "Jkj;",
+          "confidence": 0.1685
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            1851.0,
+            787.0,
+            1891.0
+          ],
+          "text": "DMC",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            841.0,
+            1861.0,
+            967.0,
+            1897.0
+          ],
+          "text": "4p13T",
+          "confidence": 0.2047
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1081.0,
+            1847.0,
+            1279.0,
+            1901.0
+          ],
+          "text": "CN K062m1",
+          "confidence": 0.0378
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            1893.0,
+            283.0,
+            1930.0
+          ],
+          "text": "TECHNICIAN",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            1980.0,
+            1265.0,
+            2016.0
+          ],
+          "text": "DMCIRI10211",
+          "confidence": 0.695
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            2041.0,
+            256.0,
+            2079.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            2036.0,
+            1568.0,
+            2066.0
+          ],
+          "text": "3DI4D Ultrasound",
+          "confidence": 0.8963
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            2086.0,
+            383.0,
+            2123.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.9768
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            429.0,
+            2083.0,
+            1247.0,
+            2128.0
+          ],
+          "text": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.47
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1319.0,
+            2074.0,
+            1521.0,
+            2113.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 0.8601
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            2127.0,
+            339.0,
+            2158.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1319.0,
+            2114.0,
+            1440.0,
+            2147.0
+          ],
+          "text": "CT-Scan",
+          "confidence": 0.9056
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            2165.0,
+            300.0,
+            2196.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.2283
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            2169.0,
+            1139.0,
+            2207.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.4868
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1319.0,
+            2154.0,
+            1506.0,
+            2191.0
+          ],
+          "text": "Digital X-Ray",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            2203.0,
+            362.0,
+            2234.0
+          ],
+          "text": "AlI TPA & Insurance",
+          "confidence": 0.6724
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            2196.0,
+            1580.0,
+            2228.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            259.09565595278485,
+            1751.3321926949345,
+            359.90434404721515,
+            1826.6678073050655
+          ],
+          "text": "SSTIK",
+          "confidence": 0.1168
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            335.02199928173474,
+            1753.0516970049982,
+            429.97800071826526,
+            1831.9483029950018
+          ],
+          "text": "H2S",
+          "confidence": 0.1858
+        }
+      ]
+    }
+  ],
+  "full_text": "V\nSWASTIK HOS\nJhajjar Road Bahadurgarh\n7k Skitt 7a #eal\n7kc Spint \"7o Care\nPatient Id\nSrl No.\n139\nDate\nSWASTIK HOSPITAL\nTest\nVLD L\n25.12\nmgldL\n4.7\n22.1\nLDL CHOLESTEROL DIRECT\n106.28\nmgldL\n63.0 - 129.0\nTOTAL CHOLESTEROLIHDL RATIO\n3.738\n0.0 - 4.97\nLDL\nHDL CHOLESTEROL RATIO\n2.214\n0.00\n3.55\nEnd Of Report\nDr: Yogesh Kal\nChahar\nD\nL\n1nN\nMD (Inter:\n'Xed.)\nMB\n@aen\nJkj;\nDMC\n4p13T\nCN K062m1\nTECHNICIAN\nDMCIRI10211\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAlI TPA & Insurance\nComputerised Lab\nSSTIK\nH2S",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "CN K0",
+          "biomarker_normalized": "CN K0",
+          "value": "62",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CN K062m1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "DMCIRI1",
+          "biomarker_normalized": "DMCIRI1",
+          "value": "0211",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMCIRI10211",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "All Lab Test; ICU & Ambulance Facility",
+          "biomarker_normalized": "All Lab Test; ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 58,
+    "ocr_avg_confidence": 0.6758,
+    "parsed_row_count": 3
+  }
+}

@@ -1,0 +1,1647 @@
+{
+  "document_id": "GUR-0425-PA-0055868_F-DOCUMENTAMRITPAL_250423_1639@G.pdf_page_19",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055868_F-DOCUMENTAMRITPAL_250423_1639@G.pdf_page_19.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "NAVEEN DIAGNOSTIC LABORATORY\nGrtiFIC\nFULLY AUTOMATED COMPuteRISED LAB ~\n0-Gi-1001-0666\nISO 9001\n{s1eO\n~Syatom\nNo\nDr\nDEEPAK SHARMA\n0.31 PM\nDate\n21/04/2025 06:01 PM\nSerial No\n40155\nBIOCHEMISTRY\nTest\n[tahndou\nBlood Sugar Random\n93.0\nmg/dl\n80-150\nHAEMOGRAM ON CELL COUNTER\nHaemo\n11.5 L\n4.31\nmilllcmm\n4.5\n6.5\nPCV\n35.8 L\n%\n36\n52\nMCV\n82.7\nfL\n80.0\n96.0\nMCH\n26.6,L\npgms\n27.0\n32.0\nMCHC\n32.-\n%\n31.5\n34.5\nWBC Count\nTotal WBC count\n17100 H\nIcmm\n4000\n10000\nIPEDANCE\nDifferential count\nNeutrophil\n78.0 H\n%\n40\n70\nLymphocytes\n20 0\n%\n20\n45\nEosinophils\n1.0\n%\n00\n06\nMonocytes\n1.0\n%\n00\n08\nPlatelet Count\n197000 *\nIcmm\nA50000\n450000\nPeripheral Smear Examination\nInterpretation\nThe\nhence as per\n@differential leucocyte counts are reported as absolute number of each cell type per unit\nvolume 0f blood.\nSERUM ELECTROLYTES\nSerum Sodium\n139.6\nMeq/L\n135\n155\nDy ISE\niOn SELECTIVE ELECTRODE)\nCalcium lonized\n4.62\nmg/dL\n4.6-5.3\nDy ISE ( ION SELECTIVE ELECTAODE)\n3.79\nMeq/L\n3.5\n5.6\nSerum Potassium\nby ISe ( ION SELECTIVE ELECTRODE)\nSerum Chlorides\n102.8\nMeq/L\n99\n108\nDy Ise ( ION SELECTIVE ELECTRODE)\nInstrument Used\nECS-2O00 SM Diagnostic\nRENAL FUNCTION TEST\n37\nmgldl\n10 t0 40\nBlood Urea\nDy SpectaOPhOTOMETRY\n\"Routine Service 24hr\nNot The Diagnoses: Kindly Corelate Clinically;,\nis Is Only\nProfessional Opinion;\nn\nI6Anv Discrepancy\nPlease Feel To Contact Us.\nU\nSanngem\nReg",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            12.0,
+            1308.0,
+            150.0
+          ],
+          "text": "NAVEEN DIAGNOSTIC LABORATORY",
+          "confidence": 0.8198
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1475.0,
+            66.0,
+            1603.0,
+            119.0
+          ],
+          "text": "GrtiFIC",
+          "confidence": 0.1293
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            299.0,
+            124.0,
+            1305.0,
+            212.0
+          ],
+          "text": "FULLY AUTOMATED COMPuteRISED LAB ~",
+          "confidence": 0.2899
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1430.0,
+            132.0,
+            1651.0,
+            172.0
+          ],
+          "text": "0-Gi-1001-0666",
+          "confidence": 0.6842
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1695.0,
+            145.0,
+            1907.0,
+            186.0
+          ],
+          "text": "ISO 9001",
+          "confidence": 0.7251
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1487.0,
+            187.0,
+            1597.0,
+            235.0
+          ],
+          "text": "{s1eO",
+          "confidence": 0.0385
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1753.0,
+            215.0,
+            1850.0,
+            256.0
+          ],
+          "text": "~Syatom",
+          "confidence": 0.0824
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            366.0,
+            248.0,
+            403.0
+          ],
+          "text": "No",
+          "confidence": 0.9212
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            482.0,
+            313.0,
+            515.0
+          ],
+          "text": "Dr",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            417.0,
+            483.0,
+            733.0,
+            528.0
+          ],
+          "text": "DEEPAK SHARMA",
+          "confidence": 0.7067
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1768.0,
+            470.0,
+            1902.0,
+            507.0
+          ],
+          "text": "0.31 PM",
+          "confidence": 0.3303
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1407.0,
+            509.0,
+            1492.0,
+            550.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1572.0,
+            513.0,
+            1906.0,
+            563.0
+          ],
+          "text": "21/04/2025 06:01 PM",
+          "confidence": 0.7779
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            545.0,
+            276.0,
+            588.0
+          ],
+          "text": "Serial No",
+          "confidence": 0.7343
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            415.0,
+            549.0,
+            522.0,
+            589.0
+          ],
+          "text": "40155",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            894.0,
+            631.0,
+            1170.0,
+            670.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.8472
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            683.0,
+            210.0,
+            728.0
+          ],
+          "text": "Test",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            370.0,
+            748.0,
+            552.0,
+            793.0
+          ],
+          "text": "[tahndou",
+          "confidence": 0.1627
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            799.0,
+            486.0,
+            853.0
+          ],
+          "text": "Blood Sugar Random",
+          "confidence": 0.8648
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            855.0,
+            810.0,
+            936.0,
+            850.0
+          ],
+          "text": "93.0",
+          "confidence": 0.9907
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            812.0,
+            1264.0,
+            863.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.6697
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            817.0,
+            1473.0,
+            856.0
+          ],
+          "text": "80-150",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            882.0,
+            793.0,
+            935.0
+          ],
+          "text": "HAEMOGRAM ON CELL COUNTER",
+          "confidence": 0.5922
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            948.0,
+            252.0,
+            985.0
+          ],
+          "text": "Haemo",
+          "confidence": 0.9923
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            857.0,
+            952.0,
+            969.0,
+            991.0
+          ],
+          "text": "11.5 L",
+          "confidence": 0.5822
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            857.0,
+            1023.0,
+            949.0,
+            1062.0
+          ],
+          "text": "4.31",
+          "confidence": 0.9091
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            1027.0,
+            1312.0,
+            1066.0
+          ],
+          "text": "milllcmm",
+          "confidence": 0.6646
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            1027.0,
+            1420.0,
+            1066.0
+          ],
+          "text": "4.5",
+          "confidence": 0.9339
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1436.0,
+            1027.0,
+            1495.0,
+            1066.0
+          ],
+          "text": "6.5",
+          "confidence": 0.976
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            1087.0,
+            208.0,
+            1126.0
+          ],
+          "text": "PCV",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            857.0,
+            1091.0,
+            967.0,
+            1133.0
+          ],
+          "text": "35.8 L",
+          "confidence": 0.845
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            1096.0,
+            1208.0,
+            1135.0
+          ],
+          "text": "%",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            1098.0,
+            1409.0,
+            1137.0
+          ],
+          "text": "36",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1427.0,
+            1098.0,
+            1476.0,
+            1135.0
+          ],
+          "text": "52",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1133.0,
+            213.0,
+            1172.0
+          ],
+          "text": "MCV",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            1140.0,
+            938.0,
+            1179.0
+          ],
+          "text": "82.7",
+          "confidence": 0.9832
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1142.0,
+            1206.0,
+            1181.0
+          ],
+          "text": "fL",
+          "confidence": 0.77
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            1144.0,
+            1440.0,
+            1181.0
+          ],
+          "text": "80.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1144.0,
+            1535.0,
+            1181.0
+          ],
+          "text": "96.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1180.0,
+            215.0,
+            1217.0
+          ],
+          "text": "MCH",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            857.0,
+            1184.0,
+            969.0,
+            1226.0
+          ],
+          "text": "26.6,L",
+          "confidence": 0.6012
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            1193.0,
+            1261.0,
+            1232.0
+          ],
+          "text": "pgms",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1189.0,
+            1440.0,
+            1228.0
+          ],
+          "text": "27.0",
+          "confidence": 0.8922
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1189.0,
+            1535.0,
+            1226.0
+          ],
+          "text": "32.0",
+          "confidence": 0.6234
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1222.0,
+            239.0,
+            1265.0
+          ],
+          "text": "MCHC",
+          "confidence": 0.5754
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            1231.0,
+            920.0,
+            1270.0
+          ],
+          "text": "32.-",
+          "confidence": 0.4959
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            1233.0,
+            1208.0,
+            1272.0
+          ],
+          "text": "%",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            1233.0,
+            1440.0,
+            1272.0
+          ],
+          "text": "31.5",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1231.0,
+            1535.0,
+            1272.0
+          ],
+          "text": "34.5",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1270.0,
+            336.0,
+            1312.0
+          ],
+          "text": "WBC Count",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1317.0,
+            412.0,
+            1360.0
+          ],
+          "text": "Total WBC count",
+          "confidence": 0.9913
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            1324.0,
+            1002.0,
+            1363.0
+          ],
+          "text": "17100 H",
+          "confidence": 0.9004
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1326.0,
+            1261.0,
+            1363.0
+          ],
+          "text": "Icmm",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1359.0,
+            1321.0,
+            1449.0,
+            1363.0
+          ],
+          "text": "4000",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1467.0,
+            1324.0,
+            1575.0,
+            1363.0
+          ],
+          "text": "10000",
+          "confidence": 0.5353
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1358.0,
+            280.0,
+            1384.0
+          ],
+          "text": "IPEDANCE",
+          "confidence": 0.9616
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1392.0,
+            436.0,
+            1431.0
+          ],
+          "text": "Differential count",
+          "confidence": 0.7554
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1439.0,
+            301.0,
+            1484.0
+          ],
+          "text": "Neutrophil",
+          "confidence": 0.8269
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            1439.0,
+            973.0,
+            1480.0
+          ],
+          "text": "78.0 H",
+          "confidence": 0.8981
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            1441.0,
+            1208.0,
+            1478.0
+          ],
+          "text": "%",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1359.0,
+            1441.0,
+            1409.0,
+            1478.0
+          ],
+          "text": "40",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1430.0,
+            1441.0,
+            1478.0,
+            1478.0
+          ],
+          "text": "70",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1489.0,
+            350.0,
+            1533.0
+          ],
+          "text": "Lymphocytes",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            1487.0,
+            940.0,
+            1524.0
+          ],
+          "text": "20 0",
+          "confidence": 0.4922
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            1488.0,
+            1207.0,
+            1521.0
+          ],
+          "text": "%",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            1488.0,
+            1408.0,
+            1521.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1430.0,
+            1485.0,
+            1478.0,
+            1522.0
+          ],
+          "text": "45",
+          "confidence": 0.6609
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1534.0,
+            321.0,
+            1577.0
+          ],
+          "text": "Eosinophils",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            861.0,
+            1531.0,
+            920.0,
+            1571.0
+          ],
+          "text": "1.0",
+          "confidence": 0.9965
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            1532.0,
+            1207.0,
+            1565.0
+          ],
+          "text": "%",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1361.0,
+            1531.0,
+            1411.0,
+            1568.0
+          ],
+          "text": "00",
+          "confidence": 0.7313
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1427.0,
+            1531.0,
+            1478.0,
+            1568.0
+          ],
+          "text": "06",
+          "confidence": 0.9859
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1578.0,
+            312.0,
+            1629.0
+          ],
+          "text": "Monocytes",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            861.0,
+            1576.0,
+            923.0,
+            1617.0
+          ],
+          "text": "1.0",
+          "confidence": 0.8736
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            1578.0,
+            1210.0,
+            1615.0
+          ],
+          "text": "%",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1361.0,
+            1576.0,
+            1411.0,
+            1615.0
+          ],
+          "text": "00",
+          "confidence": 0.8677
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1430.0,
+            1576.0,
+            1478.0,
+            1615.0
+          ],
+          "text": "08",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1629.0,
+            365.0,
+            1668.0
+          ],
+          "text": "Platelet Count",
+          "confidence": 0.8147
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            861.0,
+            1622.0,
+            1004.0,
+            1661.0
+          ],
+          "text": "197000 *",
+          "confidence": 0.2848
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            1625.0,
+            1262.0,
+            1658.0
+          ],
+          "text": "Icmm",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1622.0,
+            1489.0,
+            1659.0
+          ],
+          "text": "A50000",
+          "confidence": 0.6831
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1507.0,
+            1622.0,
+            1637.0,
+            1659.0
+          ],
+          "text": "450000",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            1672.0,
+            663.0,
+            1722.0
+          ],
+          "text": "Peripheral Smear Examination",
+          "confidence": 0.7726
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1755.0,
+            373.0,
+            1805.0
+          ],
+          "text": "Interpretation",
+          "confidence": 0.7137
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            1803.0,
+            197.0,
+            1843.0
+          ],
+          "text": "The",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            485.0,
+            1841.0,
+            706.0,
+            1882.0
+          ],
+          "text": "hence as per",
+          "confidence": 0.7796
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            389.0,
+            1870.0,
+            1768.0,
+            1926.0
+          ],
+          "text": "@differential leucocyte counts are reported as absolute number of each cell type per unit",
+          "confidence": 0.5714
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1927.0,
+            401.0,
+            1969.0
+          ],
+          "text": "volume 0f blood.",
+          "confidence": 0.9355
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1974.0,
+            610.0,
+            2030.0
+          ],
+          "text": "SERUM ELECTROLYTES",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            2042.0,
+            376.0,
+            2086.0
+          ],
+          "text": "Serum Sodium",
+          "confidence": 0.8527
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            863.0,
+            2031.0,
+            960.0,
+            2073.0
+          ],
+          "text": "139.6",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1175.0,
+            2029.0,
+            1281.0,
+            2070.0
+          ],
+          "text": "Meq/L",
+          "confidence": 0.9648
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            2022.0,
+            1438.0,
+            2066.0
+          ],
+          "text": "135",
+          "confidence": 0.7456
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            2027.0,
+            1526.0,
+            2066.0
+          ],
+          "text": "155",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            2083.0,
+            218.0,
+            2114.0
+          ],
+          "text": "Dy ISE",
+          "confidence": 0.4529
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            2079.0,
+            554.0,
+            2110.0
+          ],
+          "text": "iOn SELECTIVE ELECTRODE)",
+          "confidence": 0.3607
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            2115.0,
+            396.0,
+            2159.0
+          ],
+          "text": "Calcium lonized",
+          "confidence": 0.9426
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            861.0,
+            2106.0,
+            940.0,
+            2146.0
+          ],
+          "text": "4.62",
+          "confidence": 0.9226
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            2098.0,
+            1284.0,
+            2153.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.6096
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            2100.0,
+            1489.0,
+            2141.0
+          ],
+          "text": "4.6-5.3",
+          "confidence": 0.9653
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            2151.0,
+            555.0,
+            2190.0
+          ],
+          "text": "Dy ISE ( ION SELECTIVE ELECTAODE)",
+          "confidence": 0.6002
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            861.0,
+            2179.0,
+            942.0,
+            2219.0
+          ],
+          "text": "3.79",
+          "confidence": 0.7631
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1175.0,
+            2175.0,
+            1283.0,
+            2216.0
+          ],
+          "text": "Meq/L",
+          "confidence": 0.959
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            1370.0,
+            2175.0,
+            1431.0,
+            2212.0
+          ],
+          "text": "3.5",
+          "confidence": 0.8485
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1450.0,
+            2173.0,
+            1509.0,
+            2212.0
+          ],
+          "text": "5.6",
+          "confidence": 0.99
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            2189.0,
+            423.0,
+            2233.0
+          ],
+          "text": "Serum Potassium",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            2224.0,
+            555.0,
+            2263.0
+          ],
+          "text": "by ISe ( ION SELECTIVE ELECTRODE)",
+          "confidence": 0.475
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            2261.0,
+            407.0,
+            2305.0
+          ],
+          "text": "Serum Chlorides",
+          "confidence": 0.7605
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            863.0,
+            2250.0,
+            962.0,
+            2292.0
+          ],
+          "text": "102.8",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            2244.0,
+            1285.0,
+            2292.0
+          ],
+          "text": "Meq/L",
+          "confidence": 0.9665
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            1370.0,
+            2246.0,
+            1425.0,
+            2285.0
+          ],
+          "text": "99",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            1443.0,
+            2246.0,
+            1511.0,
+            2285.0
+          ],
+          "text": "108",
+          "confidence": 0.9207
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            2297.0,
+            555.0,
+            2336.0
+          ],
+          "text": "Dy Ise ( ION SELECTIVE ELECTRODE)",
+          "confidence": 0.6619
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            2333.0,
+            404.0,
+            2381.0
+          ],
+          "text": "Instrument Used",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            860.0,
+            2317.0,
+            1282.0,
+            2369.0
+          ],
+          "text": "ECS-2O00 SM Diagnostic",
+          "confidence": 0.564
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            2421.0,
+            605.0,
+            2485.0
+          ],
+          "text": "RENAL FUNCTION TEST",
+          "confidence": 0.9854
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            861.0,
+            2485.0,
+            912.0,
+            2524.0
+          ],
+          "text": "37",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            1175.0,
+            2476.0,
+            1279.0,
+            2528.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.8266
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            1377.0,
+            2474.0,
+            1513.0,
+            2515.0
+          ],
+          "text": "10 t0 40",
+          "confidence": 0.7036
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            2500.0,
+            314.0,
+            2544.0
+          ],
+          "text": "Blood Urea",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            2531.0,
+            446.0,
+            2573.0
+          ],
+          "text": "Dy SpectaOPhOTOMETRY",
+          "confidence": 0.2394
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            1612.0,
+            2677.0,
+            2009.0,
+            2751.0
+          ],
+          "text": "\"Routine Service 24hr",
+          "confidence": 0.8328
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            573.0,
+            2725.0,
+            1368.0,
+            2806.0
+          ],
+          "text": "Not The Diagnoses: Kindly Corelate Clinically;,",
+          "confidence": 0.5659
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2788.0,
+            184.0,
+            2831.0
+          ],
+          "text": "is Is Only",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            2755.0,
+            582.0,
+            2831.0
+          ],
+          "text": "Professional Opinion;",
+          "confidence": 0.9186
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            516.0,
+            2816.0,
+            602.0,
+            2829.0
+          ],
+          "text": "n",
+          "confidence": 0.0899
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            2794.0,
+            947.0,
+            2831.0
+          ],
+          "text": "I6Anv Discrepancy",
+          "confidence": 0.3303
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            2768.0,
+            1418.0,
+            2829.0
+          ],
+          "text": "Please Feel To Contact Us.",
+          "confidence": 0.6256
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            453.0,
+            2819.0,
+            477.0,
+            2828.0
+          ],
+          "text": "U",
+          "confidence": 0.0048
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            1761.000649139894,
+            47.04945788614215,
+            1879.999350860106,
+            117.95054211385785
+          ],
+          "text": "Sanngem",
+          "confidence": 0.0137
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            109.15774294234176,
+            360.10396789184324,
+            192.84225705765826,
+            410.89603210815676
+          ],
+          "text": "Reg",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "NAVEEN DIAGNOSTIC LABORATORY\nGrtiFIC\nFULLY AUTOMATED COMPuteRISED LAB ~\n0-Gi-1001-0666\nISO 9001\n{s1eO\n~Syatom\nNo\nDr\nDEEPAK SHARMA\n0.31 PM\nDate\n21/04/2025 06:01 PM\nSerial No\n40155\nBIOCHEMISTRY\nTest\n[tahndou\nBlood Sugar Random\n93.0\nmg/dl\n80-150\nHAEMOGRAM ON CELL COUNTER\nHaemo\n11.5 L\n4.31\nmilllcmm\n4.5\n6.5\nPCV\n35.8 L\n%\n36\n52\nMCV\n82.7\nfL\n80.0\n96.0\nMCH\n26.6,L\npgms\n27.0\n32.0\nMCHC\n32.-\n%\n31.5\n34.5\nWBC Count\nTotal WBC count\n17100 H\nIcmm\n4000\n10000\nIPEDANCE\nDifferential count\nNeutrophil\n78.0 H\n%\n40\n70\nLymphocytes\n20 0\n%\n20\n45\nEosinophils\n1.0\n%\n00\n06\nMonocytes\n1.0\n%\n00\n08\nPlatelet Count\n197000 *\nIcmm\nA50000\n450000\nPeripheral Smear Examination\nInterpretation\nThe\nhence as per\n@differential leucocyte counts are reported as absolute number of each cell type per unit\nvolume 0f blood.\nSERUM ELECTROLYTES\nSerum Sodium\n139.6\nMeq/L\n135\n155\nDy ISE\niOn SELECTIVE ELECTRODE)\nCalcium lonized\n4.62\nmg/dL\n4.6-5.3\nDy ISE ( ION SELECTIVE ELECTAODE)\n3.79\nMeq/L\n3.5\n5.6\nSerum Potassium\nby ISe ( ION SELECTIVE ELECTRODE)\nSerum Chlorides\n102.8\nMeq/L\n99\n108\nDy Ise ( ION SELECTIVE ELECTRODE)\nInstrument Used\nECS-2O00 SM Diagnostic\nRENAL FUNCTION TEST\n37\nmgldl\n10 t0 40\nBlood Urea\nDy SpectaOPhOTOMETRY\n\"Routine Service 24hr\nNot The Diagnoses: Kindly Corelate Clinically;,\nis Is Only\nProfessional Opinion;\nn\nI6Anv Discrepancy\nPlease Feel To Contact Us.\nU\nSanngem\nReg",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "ISO",
+          "biomarker_normalized": "ISO",
+          "value": "9001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ISO 9001",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "A5",
+          "biomarker_normalized": "A5",
+          "value": "0000",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "A50000",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "volume",
+          "biomarker_normalized": "volume",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "volume 0f blood.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "ECS",
+          "biomarker_normalized": "ECS",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ECS-2O00 SM Diagnostic",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "\"Routine Service",
+          "biomarker_normalized": "\"Routine Service",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "\"Routine Service 24hr",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 131,
+    "ocr_avg_confidence": 0.7989,
+    "parsed_row_count": 5
+  }
+}

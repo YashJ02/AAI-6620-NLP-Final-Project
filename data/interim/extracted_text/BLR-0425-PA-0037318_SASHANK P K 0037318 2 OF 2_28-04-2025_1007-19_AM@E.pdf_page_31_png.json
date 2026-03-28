@@ -1,0 +1,2049 @@
+{
+  "document_id": "BLR-0425-PA-0037318_SASHANK P K 0037318 2 OF 2_28-04-2025_1007-19_AM@E.pdf_page_31",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0037318_SASHANK P K 0037318 2 OF 2_28-04-2025_1007-19_AM@E.pdf_page_31.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatlent\nUHID\nAIGG.20965929\nEpisode\nIP\n112902 { 743\nRef, Doctor\nDr. RUPA BANERJEE\nFacility\nAJG Huspiza s, Gaccibovi\nSample No\nAGI10304884\nCollec Date\n19,22\nAck: Datc\n00:43\nReport Date\n03.33\nCoagulation\nTEST\nRESULT\nUNTT\nBIOI OGICa REf INTERVAL\nPT WITH INR\nSampit:\ntaldu Rasm\nPROTHROMBIN TIME\n123\nSeconds\n10.8\n13,3\nMeettd\n\"tansric Cottig Assy\nMEAN NORMAL PROTHROMBIN TIME\n42,1\nSeconds\nMtt1d - PMaircti CXtty <SSa/\nINR\n1.02\nNormal <13\nTherajeut c Range 2.0-3,5\nCritical Alert >4.0\nCorwnerts:\nProlhrombin   limo\nmibasuros\n(he\noxtrlrsic   coagulation   palhway\nwhich\nconsisls\nof\naclivalcd\nVi\n(Vila} ,\njssue\nfactor\nanq\nproleins\nof\nthe\ncorriron\npalhway\n(Factors\nX\nV\n&\nFibrnogen}.\nAdministratlon\nof\noral\nanticoagulant\ndrugs\nLiver\ndisease ,\nparticulany\nobstructivo\nProlongod\nPT\nDissomlnated   intravascular\nJauridico\nViarn\nK\ndeficiercy\ncoagulatior  Inherited  deficioncy of {aclors\nin   extrinsic  palhway\n(VI}  &nd\ncoxtimon paliway\n(V\nX\nprothrombin\nand fbrinogon)interatiorial Normalized Ralo\niendash\nJs\nused for deliring\ntno\nfor\nanticoagulant\nthierapy:\nApproprlate\nthorapeutic\nrange\nvaries\nwith\n\"he\ndisease\nIhierapoulic   rangcs\nReconmanded\nTherapeutic\nrangc\nfor\nOral\nand\ntreatment\ninforsity\nAnticoagulant   therapy\nINR\n2.0-3.5 Treatment\nol\nVenous\ntrambosis\n8\nPulonary\ncmbolsm;\nProphylaxis\nof\nVonous\nthombosis\n(X Jigh\nrisk\nsurgory),\nPrevontion\nof   systerc\nombolism\ntissue heart valves AMl; Valvular heart disease & Atrial librillation, Biloafier mecharcal vatve In &ortic\nIr}\nNote\nResults should be clinically correlated\ngosition\n2, Yest done\ncitrated plasma\nReport Saved Bx\nRALESH KUMAR\n703.33 AM)\nErd of Report\nk\nMunllhay\nDr:VISHNU VARDHAN KOMMU\nPittalogist\nPrint Date Time\n17.33.54\nPrint By\nKOMATIREDDY SRINIVA\nMindspace Raad; Gachibowli; Hyderabad, Telangana - 500 032\n+9\nInfoiwaighospitals,com\nwwwaighospitalscom)\nAIG Hospitals (a unit of Asian Institute of Gastroenterology)\nCIN; Ug9999TG1994PTCQ18352\nTypo -\nFacior\n0n",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            76.0,
+            434.0,
+            178.0
+          ],
+          "text": "AIG",
+          "confidence": 0.5388
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            164.0,
+            429.0,
+            209.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.7027
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            241.0,
+            1139.0,
+            283.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.7763
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            286.0,
+            304.0,
+            312.0
+          ],
+          "text": "Patlent",
+          "confidence": 0.9471
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            324.0,
+            284.0,
+            350.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            330.0,
+            594.0,
+            358.0
+          ],
+          "text": "AIGG.20965929",
+          "confidence": 0.7994
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            366.0,
+            308.0,
+            392.0
+          ],
+          "text": "Episode",
+          "confidence": 0.9729
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            436.0,
+            370.0,
+            464.0,
+            394.0
+          ],
+          "text": "IP",
+          "confidence": 0.5118
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            384.0,
+            1328.0,
+            410.0
+          ],
+          "text": "112902 { 743",
+          "confidence": 0.589
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            404.0,
+            344.0,
+            430.0
+          ],
+          "text": "Ref, Doctor",
+          "confidence": 0.8104
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            436.0,
+            410.0,
+            636.0,
+            436.0
+          ],
+          "text": "Dr. RUPA BANERJEE",
+          "confidence": 0.7307
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            453.0,
+            1034.0,
+            484.0
+          ],
+          "text": "Facility",
+          "confidence": 0.8355
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            459.0,
+            1406.0,
+            488.0
+          ],
+          "text": "AJG Huspiza s, Gaccibovi",
+          "confidence": 0.2265
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            507.0,
+            334.0,
+            539.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            433.0,
+            511.0,
+            570.0,
+            542.0
+          ],
+          "text": "AGI10304884",
+          "confidence": 0.6122
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            953.0,
+            521.0,
+            1080.0,
+            551.0
+          ],
+          "text": "Collec Date",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1290.0,
+            530.0,
+            1350.0,
+            556.0
+          ],
+          "text": "19,22",
+          "confidence": 0.9484
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            548.0,
+            322.0,
+            574.0
+          ],
+          "text": "Ack: Datc",
+          "confidence": 0.4752
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            554.0,
+            618.0,
+            580.0
+          ],
+          "text": "00:43",
+          "confidence": 0.3628
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            561.0,
+            1086.0,
+            591.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.7101
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            566.0,
+            1352.0,
+            594.0
+          ],
+          "text": "03.33",
+          "confidence": 0.5932
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            636.0,
+            953.0,
+            676.0
+          ],
+          "text": "Coagulation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            258.0,
+            682.0,
+            308.0,
+            706.0
+          ],
+          "text": "TEST",
+          "confidence": 0.979
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            692.0,
+            838.0,
+            716.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.6092
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1111.0,
+            699.0,
+            1159.0,
+            719.0
+          ],
+          "text": "UNTT",
+          "confidence": 0.9178
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            700.0,
+            1474.0,
+            728.0
+          ],
+          "text": "BIOI OGICa REf INTERVAL",
+          "confidence": 0.1149
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            728.0,
+            428.0,
+            760.0
+          ],
+          "text": "PT WITH INR",
+          "confidence": 0.9936
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            247.0,
+            761.0,
+            316.0,
+            789.0
+          ],
+          "text": "Sampit:",
+          "confidence": 0.4141
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            390.0,
+            764.0,
+            515.0,
+            792.0
+          ],
+          "text": "taldu Rasm",
+          "confidence": 0.2101
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            794.0,
+            495.0,
+            833.0
+          ],
+          "text": "PROTHROMBIN TIME",
+          "confidence": 0.7556
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            804.0,
+            830.0,
+            830.0
+          ],
+          "text": "123",
+          "confidence": 0.9124
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            812.0,
+            1192.0,
+            838.0
+          ],
+          "text": "Seconds",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1226.0,
+            814.0,
+            1274.0,
+            840.0
+          ],
+          "text": "10.8",
+          "confidence": 0.8922
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            814.0,
+            1336.0,
+            840.0
+          ],
+          "text": "13,3",
+          "confidence": 0.9495
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            247.0,
+            831.0,
+            309.0,
+            851.0
+          ],
+          "text": "Meettd",
+          "confidence": 0.2093
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            831.0,
+            524.0,
+            858.0
+          ],
+          "text": "\"tansric Cottig Assy",
+          "confidence": 0.0525
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            245.0,
+            857.0,
+            673.0,
+            897.0
+          ],
+          "text": "MEAN NORMAL PROTHROMBIN TIME",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            864.0,
+            827.0,
+            892.0
+          ],
+          "text": "42,1",
+          "confidence": 0.5508
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            872.0,
+            1192.0,
+            898.0
+          ],
+          "text": "Seconds",
+          "confidence": 0.9679
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            246.0,
+            890.0,
+            518.0,
+            918.0
+          ],
+          "text": "Mtt1d - PMaircti CXtty <SSa/",
+          "confidence": 0.0198
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            920.0,
+            294.0,
+            948.0
+          ],
+          "text": "INR",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            926.0,
+            826.0,
+            952.0
+          ],
+          "text": "1.02",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1223.0,
+            935.0,
+            1350.0,
+            963.0
+          ],
+          "text": "Normal <13",
+          "confidence": 0.9693
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1221.0,
+            965.0,
+            1478.0,
+            998.0
+          ],
+          "text": "Therajeut c Range 2.0-3,5",
+          "confidence": 0.5449
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            996.0,
+            1394.0,
+            1024.0
+          ],
+          "text": "Critical Alert >4.0",
+          "confidence": 0.6259
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            1007.0,
+            338.0,
+            1037.0
+          ],
+          "text": "Corwnerts:",
+          "confidence": 0.7591
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            349.0,
+            1009.0,
+            545.0,
+            1041.0
+          ],
+          "text": "Prolhrombin   limo",
+          "confidence": 0.546
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            1018.0,
+            664.0,
+            1042.0
+          ],
+          "text": "mibasuros",
+          "confidence": 0.7765
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            674.0,
+            1018.0,
+            714.0,
+            1044.0
+          ],
+          "text": "(he",
+          "confidence": 0.9553
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            725.0,
+            1019.0,
+            1057.0,
+            1055.0
+          ],
+          "text": "oxtrlrsic   coagulation   palhway",
+          "confidence": 0.4815
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            1024.0,
+            1132.0,
+            1050.0
+          ],
+          "text": "which",
+          "confidence": 0.7921
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            1028.0,
+            1234.0,
+            1054.0
+          ],
+          "text": "consisls",
+          "confidence": 0.646
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1246.0,
+            1028.0,
+            1274.0,
+            1054.0
+          ],
+          "text": "of",
+          "confidence": 0.9565
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            1030.0,
+            1382.0,
+            1056.0
+          ],
+          "text": "aclivalcd",
+          "confidence": 0.9618
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1478.0,
+            1032.0,
+            1510.0,
+            1058.0
+          ],
+          "text": "Vi",
+          "confidence": 0.715
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1036.0,
+            282.0,
+            1068.0
+          ],
+          "text": "(Vila} ,",
+          "confidence": 0.2043
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            1042.0,
+            364.0,
+            1066.0
+          ],
+          "text": "jssue",
+          "confidence": 0.2862
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            1041.0,
+            446.0,
+            1070.0
+          ],
+          "text": "factor",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            1046.0,
+            506.0,
+            1070.0
+          ],
+          "text": "anq",
+          "confidence": 0.6261
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            519.0,
+            1045.0,
+            611.0,
+            1071.0
+          ],
+          "text": "proleins",
+          "confidence": 0.9867
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            626.0,
+            1046.0,
+            654.0,
+            1072.0
+          ],
+          "text": "of",
+          "confidence": 0.7877
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1048.0,
+            706.0,
+            1074.0
+          ],
+          "text": "the",
+          "confidence": 0.6211
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            721.0,
+            1050.0,
+            816.0,
+            1076.0
+          ],
+          "text": "corriron",
+          "confidence": 0.4187
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            829.0,
+            1050.0,
+            922.0,
+            1080.0
+          ],
+          "text": "palhway",
+          "confidence": 0.911
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1054.0,
+            1032.0,
+            1080.0
+          ],
+          "text": "(Factors",
+          "confidence": 0.9804
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            1054.0,
+            1070.0,
+            1080.0
+          ],
+          "text": "X",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            1056.0,
+            1116.0,
+            1080.0
+          ],
+          "text": "V",
+          "confidence": 0.956
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1171.0,
+            1059.0,
+            1191.0,
+            1081.0
+          ],
+          "text": "&",
+          "confidence": 0.3453
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            1056.0,
+            1334.0,
+            1089.0
+          ],
+          "text": "Fibrnogen}.",
+          "confidence": 0.6428
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1067.0,
+            364.0,
+            1098.0
+          ],
+          "text": "Administratlon",
+          "confidence": 0.7471
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            1072.0,
+            408.0,
+            1098.0
+          ],
+          "text": "of",
+          "confidence": 0.9205
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            420.0,
+            1074.0,
+            468.0,
+            1098.0
+          ],
+          "text": "oral",
+          "confidence": 0.3325
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            480.0,
+            1076.0,
+            626.0,
+            1104.0
+          ],
+          "text": "anticoagulant",
+          "confidence": 0.9854
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            1076.0,
+            705.0,
+            1108.0
+          ],
+          "text": "drugs",
+          "confidence": 0.7601
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            1078.0,
+            776.0,
+            1104.0
+          ],
+          "text": "Liver",
+          "confidence": 0.4279
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            789.0,
+            1078.0,
+            879.0,
+            1110.0
+          ],
+          "text": "disease ,",
+          "confidence": 0.5699
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            893.0,
+            1080.0,
+            1014.0,
+            1112.0
+          ],
+          "text": "particulany",
+          "confidence": 0.973
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            1086.0,
+            1144.0,
+            1112.0
+          ],
+          "text": "obstructivo",
+          "confidence": 0.7193
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1353.0,
+            1059.0,
+            1462.0,
+            1091.0
+          ],
+          "text": "Prolongod",
+          "confidence": 0.9355
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1478.0,
+            1062.0,
+            1512.0,
+            1088.0
+          ],
+          "text": "PT",
+          "confidence": 0.4611
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1096.0,
+            505.0,
+            1132.0
+          ],
+          "text": "Dissomlnated   intravascular",
+          "confidence": 0.5235
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            1088.0,
+            1252.0,
+            1114.0
+          ],
+          "text": "Jauridico",
+          "confidence": 0.9268
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            1090.0,
+            1350.0,
+            1114.0
+          ],
+          "text": "Viarn",
+          "confidence": 0.4784
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1365.0,
+            1093.0,
+            1385.0,
+            1115.0
+          ],
+          "text": "K",
+          "confidence": 0.3609
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1401.0,
+            1089.0,
+            1508.0,
+            1122.0
+          ],
+          "text": "deficiercy",
+          "confidence": 0.6814
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            1104.0,
+            969.0,
+            1141.0
+          ],
+          "text": "coagulatior  Inherited  deficioncy of {aclors",
+          "confidence": 0.2738
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            974.0,
+            1114.0,
+            1198.0,
+            1146.0
+          ],
+          "text": "in   extrinsic  palhway",
+          "confidence": 0.2745
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            1118.0,
+            1314.0,
+            1148.0
+          ],
+          "text": "(VI}  &nd",
+          "confidence": 0.2912
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            1120.0,
+            1512.0,
+            1152.0
+          ],
+          "text": "coxtimon paliway",
+          "confidence": 0.2145
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1130.0,
+            244.0,
+            1156.0
+          ],
+          "text": "(V",
+          "confidence": 0.6796
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            256.0,
+            1132.0,
+            282.0,
+            1156.0
+          ],
+          "text": "X",
+          "confidence": 0.9841
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            1132.0,
+            418.0,
+            1158.0
+          ],
+          "text": "prothrombin",
+          "confidence": 0.7133
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            1135.0,
+            916.0,
+            1168.0
+          ],
+          "text": "and fbrinogon)interatiorial Normalized Ralo",
+          "confidence": 0.3426
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            1144.0,
+            1012.0,
+            1170.0
+          ],
+          "text": "iendash",
+          "confidence": 0.8447
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            1148.0,
+            1058.0,
+            1172.0
+          ],
+          "text": "Js",
+          "confidence": 0.382
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            1146.0,
+            1255.0,
+            1178.0
+          ],
+          "text": "used for deliring",
+          "confidence": 0.5587
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            1150.0,
+            1300.0,
+            1176.0
+          ],
+          "text": "tno",
+          "confidence": 0.5196
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1162.0,
+            246.0,
+            1186.0
+          ],
+          "text": "for",
+          "confidence": 0.8966
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            265.0,
+            1161.0,
+            408.0,
+            1193.0
+          ],
+          "text": "anticoagulant",
+          "confidence": 0.6688
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            1164.0,
+            513.0,
+            1196.0
+          ],
+          "text": "thierapy:",
+          "confidence": 0.7923
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            538.0,
+            1166.0,
+            662.0,
+            1196.0
+          ],
+          "text": "Approprlate",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            1169.0,
+            802.0,
+            1199.0
+          ],
+          "text": "thorapeutic",
+          "confidence": 0.9529
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            820.0,
+            1176.0,
+            886.0,
+            1202.0
+          ],
+          "text": "range",
+          "confidence": 0.7488
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            1174.0,
+            974.0,
+            1202.0
+          ],
+          "text": "varies",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            1178.0,
+            1040.0,
+            1202.0
+          ],
+          "text": "with",
+          "confidence": 0.741
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1060.0,
+            1178.0,
+            1098.0,
+            1204.0
+          ],
+          "text": "\"he",
+          "confidence": 0.212
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1117.0,
+            1176.0,
+            1204.0,
+            1207.0
+          ],
+          "text": "disease",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1307.0,
+            1151.0,
+            1510.0,
+            1184.0
+          ],
+          "text": "Ihierapoulic   rangcs",
+          "confidence": 0.3134
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1189.0,
+            372.0,
+            1222.0
+          ],
+          "text": "Reconmanded",
+          "confidence": 0.6911
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            385.0,
+            1193.0,
+            512.0,
+            1225.0
+          ],
+          "text": "Therapeutic",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            1199.0,
+            592.0,
+            1227.0
+          ],
+          "text": "rangc",
+          "confidence": 0.6824
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            1200.0,
+            638.0,
+            1224.0
+          ],
+          "text": "for",
+          "confidence": 0.9714
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            1200.0,
+            702.0,
+            1226.0
+          ],
+          "text": "Oral",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1224.0,
+            1182.0,
+            1270.0,
+            1206.0
+          ],
+          "text": "and",
+          "confidence": 0.2824
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1182.0,
+            1392.0,
+            1208.0
+          ],
+          "text": "treatment",
+          "confidence": 0.625
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            1409.0,
+            1182.0,
+            1500.0,
+            1213.0
+          ],
+          "text": "inforsity",
+          "confidence": 0.4019
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            1200.0,
+            954.0,
+            1237.0
+          ],
+          "text": "Anticoagulant   therapy",
+          "confidence": 0.538
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            962.0,
+            1206.0,
+            1010.0,
+            1232.0
+          ],
+          "text": "INR",
+          "confidence": 0.931
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            1206.0,
+            1214.0,
+            1239.0
+          ],
+          "text": "2.0-3.5 Treatment",
+          "confidence": 0.7794
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            1224.0,
+            1210.0,
+            1252.0,
+            1236.0
+          ],
+          "text": "ol",
+          "confidence": 0.2346
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            1212.0,
+            1346.0,
+            1238.0
+          ],
+          "text": "Venous",
+          "confidence": 0.9858
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            1211.0,
+            1476.0,
+            1243.0
+          ],
+          "text": "trambosis",
+          "confidence": 0.6006
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            1493.0,
+            1219.0,
+            1509.0,
+            1241.0
+          ],
+          "text": "8",
+          "confidence": 0.0807
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            1220.0,
+            326.0,
+            1252.0
+          ],
+          "text": "Pulonary",
+          "confidence": 0.9027
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            335.0,
+            1222.0,
+            446.0,
+            1252.0
+          ],
+          "text": "cmbolsm;",
+          "confidence": 0.3808
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            459.0,
+            1225.0,
+            586.0,
+            1258.0
+          ],
+          "text": "Prophylaxis",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            1230.0,
+            626.0,
+            1254.0
+          ],
+          "text": "of",
+          "confidence": 0.3907
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            636.0,
+            1229.0,
+            720.0,
+            1259.0
+          ],
+          "text": "Vonous",
+          "confidence": 0.8905
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            1234.0,
+            848.0,
+            1260.0
+          ],
+          "text": "thombosis",
+          "confidence": 0.4683
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            860.0,
+            1236.0,
+            924.0,
+            1266.0
+          ],
+          "text": "(X Jigh",
+          "confidence": 0.174
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            934.0,
+            1238.0,
+            978.0,
+            1262.0
+          ],
+          "text": "risk",
+          "confidence": 0.87
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            988.0,
+            1240.0,
+            1080.0,
+            1266.0
+          ],
+          "text": "surgory),",
+          "confidence": 0.6376
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            1097.0,
+            1237.0,
+            1214.0,
+            1268.0
+          ],
+          "text": "Prevontion",
+          "confidence": 0.8191
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            1226.0,
+            1240.0,
+            1360.0,
+            1273.0
+          ],
+          "text": "of   systerc",
+          "confidence": 0.6202
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            1369.0,
+            1242.0,
+            1472.0,
+            1272.0
+          ],
+          "text": "ombolism",
+          "confidence": 0.6
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1248.0,
+            1248.0,
+            1300.0
+          ],
+          "text": "tissue heart valves AMl; Valvular heart disease & Atrial librillation, Biloafier mecharcal vatve In &ortic",
+          "confidence": 0.5702
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            1485.0,
+            1251.0,
+            1507.0,
+            1271.0
+          ],
+          "text": "Ir}",
+          "confidence": 0.4392
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1282.0,
+            264.0,
+            1310.0
+          ],
+          "text": "Note",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            1282.0,
+            697.0,
+            1319.0
+          ],
+          "text": "Results should be clinically correlated",
+          "confidence": 0.6361
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            1243.0,
+            1272.0,
+            1334.0,
+            1300.0
+          ],
+          "text": "gosition",
+          "confidence": 0.4621
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1316.0,
+            416.0,
+            1342.0
+          ],
+          "text": "2, Yest done",
+          "confidence": 0.6785
+        },
+        {
+          "block_no": 141,
+          "block_type": 0,
+          "bbox": [
+            445.0,
+            1316.0,
+            610.0,
+            1348.0
+          ],
+          "text": "citrated plasma",
+          "confidence": 0.9891
+        },
+        {
+          "block_no": 142,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1357.0,
+            360.0,
+            1390.0
+          ],
+          "text": "Report Saved Bx",
+          "confidence": 0.643
+        },
+        {
+          "block_no": 143,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            1362.0,
+            530.0,
+            1390.0
+          ],
+          "text": "RALESH KUMAR",
+          "confidence": 0.6277
+        },
+        {
+          "block_no": 144,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1367.0,
+            773.0,
+            1398.0
+          ],
+          "text": "703.33 AM)",
+          "confidence": 0.3858
+        },
+        {
+          "block_no": 145,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            1423.0,
+            910.0,
+            1455.0
+          ],
+          "text": "Erd of Report",
+          "confidence": 0.6992
+        },
+        {
+          "block_no": 146,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            1507.0,
+            1147.0,
+            1533.0
+          ],
+          "text": "k",
+          "confidence": 0.1659
+        },
+        {
+          "block_no": 147,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1494.0,
+            1303.0,
+            1546.0
+          ],
+          "text": "Munllhay",
+          "confidence": 0.0901
+        },
+        {
+          "block_no": 148,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            1562.0,
+            1378.0,
+            1590.0
+          ],
+          "text": "Dr:VISHNU VARDHAN KOMMU",
+          "confidence": 0.809
+        },
+        {
+          "block_no": 149,
+          "block_type": 0,
+          "bbox": [
+            1111.0,
+            1598.0,
+            1204.0,
+            1629.0
+          ],
+          "text": "Pittalogist",
+          "confidence": 0.5199
+        },
+        {
+          "block_no": 150,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            2102.0,
+            276.0,
+            2130.0
+          ],
+          "text": "Print Date Time",
+          "confidence": 0.7403
+        },
+        {
+          "block_no": 151,
+          "block_type": 0,
+          "bbox": [
+            453.0,
+            2106.0,
+            550.0,
+            2136.0
+          ],
+          "text": "17.33.54",
+          "confidence": 0.9849
+        },
+        {
+          "block_no": 152,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            2118.0,
+            1074.0,
+            2148.0
+          ],
+          "text": "Print By",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 153,
+          "block_type": 0,
+          "bbox": [
+            1111.0,
+            2120.0,
+            1374.0,
+            2153.0
+          ],
+          "text": "KOMATIREDDY SRINIVA",
+          "confidence": 0.9804
+        },
+        {
+          "block_no": 154,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            2177.0,
+            747.0,
+            2220.0
+          ],
+          "text": "Mindspace Raad; Gachibowli; Hyderabad, Telangana - 500 032",
+          "confidence": 0.3509
+        },
+        {
+          "block_no": 155,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            2186.0,
+            822.0,
+            2214.0
+          ],
+          "text": "+9",
+          "confidence": 0.8341
+        },
+        {
+          "block_no": 156,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            2190.0,
+            1274.0,
+            2222.0
+          ],
+          "text": "Infoiwaighospitals,com",
+          "confidence": 0.4161
+        },
+        {
+          "block_no": 157,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            2194.0,
+            1550.0,
+            2224.0
+          ],
+          "text": "wwwaighospitalscom)",
+          "confidence": 0.7682
+        },
+        {
+          "block_no": 158,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            2217.0,
+            931.0,
+            2260.0
+          ],
+          "text": "AIG Hospitals (a unit of Asian Institute of Gastroenterology)",
+          "confidence": 0.9096
+        },
+        {
+          "block_no": 159,
+          "block_type": 0,
+          "bbox": [
+            959.0,
+            2226.0,
+            1295.0,
+            2263.0
+          ],
+          "text": "CIN; Ug9999TG1994PTCQ18352",
+          "confidence": 0.1746
+        },
+        {
+          "block_no": 160,
+          "block_type": 0,
+          "bbox": [
+            311.1314001334777,
+            761.1867537178289,
+            365.8685998665223,
+            793.8132462821711
+          ],
+          "text": "Typo -",
+          "confidence": 0.2189
+        },
+        {
+          "block_no": 161,
+          "block_type": 0,
+          "bbox": [
+            1389.0781814135876,
+            1027.1448741467184,
+            1467.9218185864124,
+            1063.8551258532816
+          ],
+          "text": "Facior",
+          "confidence": 0.9778
+        },
+        {
+          "block_no": 162,
+          "block_type": 0,
+          "bbox": [
+            412.17926704507477,
+            1318.1658598874935,
+            448.82073295492523,
+            1344.8341401125065
+          ],
+          "text": "0n",
+          "confidence": 0.8332
+        }
+      ]
+    }
+  ],
+  "full_text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatlent\nUHID\nAIGG.20965929\nEpisode\nIP\n112902 { 743\nRef, Doctor\nDr. RUPA BANERJEE\nFacility\nAJG Huspiza s, Gaccibovi\nSample No\nAGI10304884\nCollec Date\n19,22\nAck: Datc\n00:43\nReport Date\n03.33\nCoagulation\nTEST\nRESULT\nUNTT\nBIOI OGICa REf INTERVAL\nPT WITH INR\nSampit:\ntaldu Rasm\nPROTHROMBIN TIME\n123\nSeconds\n10.8\n13,3\nMeettd\n\"tansric Cottig Assy\nMEAN NORMAL PROTHROMBIN TIME\n42,1\nSeconds\nMtt1d - PMaircti CXtty <SSa/\nINR\n1.02\nNormal <13\nTherajeut c Range 2.0-3,5\nCritical Alert >4.0\nCorwnerts:\nProlhrombin   limo\nmibasuros\n(he\noxtrlrsic   coagulation   palhway\nwhich\nconsisls\nof\naclivalcd\nVi\n(Vila} ,\njssue\nfactor\nanq\nproleins\nof\nthe\ncorriron\npalhway\n(Factors\nX\nV\n&\nFibrnogen}.\nAdministratlon\nof\noral\nanticoagulant\ndrugs\nLiver\ndisease ,\nparticulany\nobstructivo\nProlongod\nPT\nDissomlnated   intravascular\nJauridico\nViarn\nK\ndeficiercy\ncoagulatior  Inherited  deficioncy of {aclors\nin   extrinsic  palhway\n(VI}  &nd\ncoxtimon paliway\n(V\nX\nprothrombin\nand fbrinogon)interatiorial Normalized Ralo\niendash\nJs\nused for deliring\ntno\nfor\nanticoagulant\nthierapy:\nApproprlate\nthorapeutic\nrange\nvaries\nwith\n\"he\ndisease\nIhierapoulic   rangcs\nReconmanded\nTherapeutic\nrangc\nfor\nOral\nand\ntreatment\ninforsity\nAnticoagulant   therapy\nINR\n2.0-3.5 Treatment\nol\nVenous\ntrambosis\n8\nPulonary\ncmbolsm;\nProphylaxis\nof\nVonous\nthombosis\n(X Jigh\nrisk\nsurgory),\nPrevontion\nof   systerc\nombolism\ntissue heart valves AMl; Valvular heart disease & Atrial librillation, Biloafier mecharcal vatve In &ortic\nIr}\nNote\nResults should be clinically correlated\ngosition\n2, Yest done\ncitrated plasma\nReport Saved Bx\nRALESH KUMAR\n703.33 AM)\nErd of Report\nk\nMunllhay\nDr:VISHNU VARDHAN KOMMU\nPittalogist\nPrint Date Time\n17.33.54\nPrint By\nKOMATIREDDY SRINIVA\nMindspace Raad; Gachibowli; Hyderabad, Telangana - 500 032\n+9\nInfoiwaighospitals,com\nwwwaighospitalscom)\nAIG Hospitals (a unit of Asian Institute of Gastroenterology)\nCIN; Ug9999TG1994PTCQ18352\nTypo -\nFacior\n0n",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "AIGG.",
+          "biomarker_normalized": "AIGG.",
+          "value": "20965929",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AIGG.20965929",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AGI1",
+          "biomarker_normalized": "AGI1",
+          "value": "0304884",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AGI10304884",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Normal <",
+          "biomarker_normalized": "Normal <",
+          "value": "13",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Normal <13",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Therajeut c Range",
+          "biomarker_normalized": "Therajeut c Range",
+          "value": "2.0",
+          "unit": "",
+          "reference_range": "2.0-3",
+          "source_line": "Therajeut c Range 2.0-3,5",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Critical Alert >",
+          "biomarker_normalized": "Critical Alert >",
+          "value": "4.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Critical Alert >4.0",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Mindspace Raad; Gachibowli; Hyderabad, Telangana",
+          "biomarker_normalized": "Mindspace Raad; Gachibowli; Hyderabad, Telangana",
+          "value": "500",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mindspace Raad; Gachibowli; Hyderabad, Telangana - 500 032",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN; Ug9",
+          "biomarker_normalized": "CIN; Ug9",
+          "value": "999",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN; Ug9999TG1994PTCQ18352",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 163,
+    "ocr_avg_confidence": 0.6736,
+    "parsed_row_count": 7
+  }
+}

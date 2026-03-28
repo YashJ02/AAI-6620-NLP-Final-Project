@@ -1,0 +1,1122 @@
+{
+  "document_id": "GUR-0425-PA-0054886_Q-112714RASMITA_250427_1433@F.pdf_page_32",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0054886_Q-112714RASMITA_250427_1433@F.pdf_page_32.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JJ INSTITUTE\nOF MEDICAL SCIENCES (P) LTD\nNABH\nH-2021-0773\nE\nSample Date\nReporting Date\nReporting Time: 9./0 PM\nRAPID BLOOD CULTURE AND SENSITIVITY REPORT\nINVESTIGATION\nRESULT\nDATE OF RECEIVING SPECIMEN\nDATE OF REPORTING\nNATURE QF SPECIMEN\nBLOOD CIS\nORGANISM ISOLATED\nSTAPIIYLOCOCCI SSP.\nCEFOPERAZONE\nSULBACTAM (CES}\nR\nAZITHROMYCIN(AZM)\nR\nAMIKACIN(AK)\nCOLISTIN(COL}\nR\nAMOXYCILLIN\nCLA VUNATL (AMC)\nDORIPENEM(DOR )\n++\nCLINDAMYCIN(CD)\nTEICOPLA NIN(TEI)\nR\nCLARITHIROMYCIN(CLA)\nLEVOFLOXACIN(LEV)\n+\nFOSFOMYCIN(FOS)\"\n++1-\nMEROPENEM(MRP)\nDOXYCYCLINE (DOX)\nNITRAFURANTOIN(NIT)\n;\nNORFLOXACINNX)\nPOLYMYXIN B(POL}\n++\nIMIPENUMCILASTIN(IMP)\n+++\nPIPERACILLINITAZOBACTAM\nR\n(PIP)\nLINEZOLID(LZ)\nR\nTIGECYCLINE(TIG)\n++\nFAROPENEM\n++\nCEFUROXIME\n++\nCEFIXIME\nDr: Arun Sharma\nMEROPENEM\nSULBACTAM(MES)\nS\nMBBS, MD IMed)\nOf\nepori\n808\nConsultant\n'#9Ys6oo\nDMc\nDr.\nMEIHA KESHARWANI\n2\nJe\nJIMS, BAHDUHGARH\nMBeSMD (PATHOLOGY)\nJJIV;\nCONSCLTANT PATHOLOGIST\nREC_\nNO. 15162\nJJiMS;\nDalhi Rolatok-Road,\nMetro Piilar No. 792 , Bahadurgarh; Haryana-124507 (India)\nMEDICAL ,\n~SCIENCES\nSr\nReg:\nPAurGtRH\nOpp:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            38.0,
+            805.0,
+            122.0
+          ],
+          "text": "JJ INSTITUTE",
+          "confidence": 0.7346
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            115.0,
+            798.0,
+            168.0
+          ],
+          "text": "OF MEDICAL SCIENCES (P) LTD",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            190.0,
+            1022.0,
+            216.0
+          ],
+          "text": "NABH",
+          "confidence": 0.6699
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            244.0,
+            1036.0,
+            273.0
+          ],
+          "text": "H-2021-0773",
+          "confidence": 0.8363
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            405.0,
+            447.0,
+            561.0
+          ],
+          "text": "E",
+          "confidence": 0.2515
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            508.0,
+            835.0,
+            546.0
+          ],
+          "text": "Sample Date",
+          "confidence": 0.9895
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            544.0,
+            865.0,
+            582.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.8222
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            543.0,
+            1499.0,
+            582.0
+          ],
+          "text": "Reporting Time: 9./0 PM",
+          "confidence": 0.6823
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            423.0,
+            598.0,
+            1377.0,
+            639.0
+          ],
+          "text": "RAPID BLOOD CULTURE AND SENSITIVITY REPORT",
+          "confidence": 0.7926
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            682.0,
+            296.0,
+            712.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 0.8279
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            681.0,
+            785.0,
+            711.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            60.0,
+            738.0,
+            496.0,
+            770.0
+          ],
+          "text": "DATE OF RECEIVING SPECIMEN",
+          "confidence": 0.5323
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            60.0,
+            782.0,
+            352.0,
+            812.0
+          ],
+          "text": "DATE OF REPORTING",
+          "confidence": 0.7542
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            826.0,
+            372.0,
+            856.0
+          ],
+          "text": "NATURE QF SPECIMEN",
+          "confidence": 0.6956
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            824.0,
+            872.0,
+            856.0
+          ],
+          "text": "BLOOD CIS",
+          "confidence": 0.5537
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            870.0,
+            364.0,
+            900.0
+          ],
+          "text": "ORGANISM ISOLATED",
+          "confidence": 0.97
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            712.0,
+            870.0,
+            1014.0,
+            900.0
+          ],
+          "text": "STAPIIYLOCOCCI SSP.",
+          "confidence": 0.7634
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            914.0,
+            299.0,
+            944.0
+          ],
+          "text": "CEFOPERAZONE",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            315.0,
+            911.0,
+            585.0,
+            947.0
+          ],
+          "text": "SULBACTAM (CES}",
+          "confidence": 0.8136
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            716.0,
+            914.0,
+            740.0,
+            944.0
+          ],
+          "text": "R",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            958.0,
+            384.0,
+            990.0
+          ],
+          "text": "AZITHROMYCIN(AZM)",
+          "confidence": 0.9266
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            718.0,
+            956.0,
+            744.0,
+            988.0
+          ],
+          "text": "R",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1004.0,
+            288.0,
+            1036.0
+          ],
+          "text": "AMIKACIN(AK)",
+          "confidence": 0.8852
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1047.0,
+            285.0,
+            1079.0
+          ],
+          "text": "COLISTIN(COL}",
+          "confidence": 0.7498
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1004.0,
+            742.0,
+            1118.0
+          ],
+          "text": "R",
+          "confidence": 0.2303
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1091.0,
+            279.0,
+            1122.0
+          ],
+          "text": "AMOXYCILLIN",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            296.0,
+            1092.0,
+            572.0,
+            1124.0
+          ],
+          "text": "CLA VUNATL (AMC)",
+          "confidence": 0.8882
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1136.0,
+            326.0,
+            1168.0
+          ],
+          "text": "DORIPENEM(DOR )",
+          "confidence": 0.8942
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            716.0,
+            1138.0,
+            766.0,
+            1166.0
+          ],
+          "text": "++",
+          "confidence": 0.8529
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            1178.0,
+            343.0,
+            1217.0
+          ],
+          "text": "CLINDAMYCIN(CD)",
+          "confidence": 0.9378
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            1222.0,
+            332.0,
+            1258.0
+          ],
+          "text": "TEICOPLA NIN(TEI)",
+          "confidence": 0.8428
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            715.0,
+            1179.0,
+            747.0,
+            1303.0
+          ],
+          "text": "R",
+          "confidence": 0.8674
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1268.0,
+            416.0,
+            1304.0
+          ],
+          "text": "CLARITHIROMYCIN(CLA)",
+          "confidence": 0.8706
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1316.0,
+            374.0,
+            1348.0
+          ],
+          "text": "LEVOFLOXACIN(LEV)",
+          "confidence": 0.8973
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            717.0,
+            1315.0,
+            737.0,
+            1341.0
+          ],
+          "text": "+",
+          "confidence": 0.9923
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1357.0,
+            339.0,
+            1393.0
+          ],
+          "text": "FOSFOMYCIN(FOS)\"",
+          "confidence": 0.7367
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            716.0,
+            1360.0,
+            768.0,
+            1390.0
+          ],
+          "text": "++1-",
+          "confidence": 0.3513
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1404.0,
+            338.0,
+            1436.0
+          ],
+          "text": "MEROPENEM(MRP)",
+          "confidence": 0.9607
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1447.0,
+            373.0,
+            1483.0
+          ],
+          "text": "DOXYCYCLINE (DOX)",
+          "confidence": 0.6125
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1491.0,
+            397.0,
+            1527.0
+          ],
+          "text": "NITRAFURANTOIN(NIT)",
+          "confidence": 0.9903
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            1399.0,
+            756.0,
+            1570.0
+          ],
+          "text": ";",
+          "confidence": 0.3813
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1535.0,
+            345.0,
+            1571.0
+          ],
+          "text": "NORFLOXACINNX)",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            1579.0,
+            349.0,
+            1615.0
+          ],
+          "text": "POLYMYXIN B(POL}",
+          "confidence": 0.8202
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1580.0,
+            768.0,
+            1612.0
+          ],
+          "text": "++",
+          "confidence": 0.7949
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            1624.0,
+            430.0,
+            1656.0
+          ],
+          "text": "IMIPENUMCILASTIN(IMP)",
+          "confidence": 0.9064
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1624.0,
+            766.0,
+            1654.0
+          ],
+          "text": "+++",
+          "confidence": 0.589
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1668.0,
+            476.0,
+            1700.0
+          ],
+          "text": "PIPERACILLINITAZOBACTAM",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1664.0,
+            742.0,
+            1696.0
+          ],
+          "text": "R",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            51.0,
+            1699.0,
+            125.0,
+            1735.0
+          ],
+          "text": "(PIP)",
+          "confidence": 0.7041
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            1739.0,
+            282.0,
+            1775.0
+          ],
+          "text": "LINEZOLID(LZ)",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1738.0,
+            744.0,
+            1772.0
+          ],
+          "text": "R",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            1785.0,
+            333.0,
+            1823.0
+          ],
+          "text": "TIGECYCLINE(TIG)",
+          "confidence": 0.7114
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1788.0,
+            764.0,
+            1812.0
+          ],
+          "text": "++",
+          "confidence": 0.471
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            1832.0,
+            247.0,
+            1862.0
+          ],
+          "text": "FAROPENEM",
+          "confidence": 0.9915
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1832.0,
+            750.0,
+            1856.0
+          ],
+          "text": "++",
+          "confidence": 0.9231
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            1876.0,
+            262.0,
+            1906.0
+          ],
+          "text": "CEFUROXIME",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            715.0,
+            1879.0,
+            749.0,
+            1899.0
+          ],
+          "text": "++",
+          "confidence": 0.6799
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1920.0,
+            210.0,
+            1950.0
+          ],
+          "text": "CEFIXIME",
+          "confidence": 0.7554
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            1922.0,
+            1465.0,
+            1978.0
+          ],
+          "text": "Dr: Arun Sharma",
+          "confidence": 0.7875
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1964.0,
+            254.0,
+            1994.0
+          ],
+          "text": "MEROPENEM",
+          "confidence": 0.7097
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            269.0,
+            1964.0,
+            533.0,
+            1996.0
+          ],
+          "text": "SULBACTAM(MES)",
+          "confidence": 0.9637
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            1974.0,
+            668.0,
+            2010.0
+          ],
+          "text": "S",
+          "confidence": 0.6125
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            1965.0,
+            1463.0,
+            2007.0
+          ],
+          "text": "MBBS, MD IMed)",
+          "confidence": 0.5599
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            2012.0,
+            810.0,
+            2040.0
+          ],
+          "text": "Of",
+          "confidence": 0.3637
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            872.0,
+            2018.0,
+            930.0,
+            2046.0
+          ],
+          "text": "epori",
+          "confidence": 0.5505
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            2015.0,
+            977.0,
+            2031.0
+          ],
+          "text": "808",
+          "confidence": 0.6161
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            1997.0,
+            1325.0,
+            2035.0
+          ],
+          "text": "Consultant",
+          "confidence": 0.5073
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1314.0,
+            1996.0,
+            1464.0,
+            2073.0
+          ],
+          "text": "'#9Ys6oo",
+          "confidence": 0.1734
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1220.0,
+            2032.0,
+            1294.0,
+            2064.0
+          ],
+          "text": "DMc",
+          "confidence": 0.364
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            24.0,
+            2086.0,
+            70.0,
+            2118.0
+          ],
+          "text": "Dr.",
+          "confidence": 0.4222
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            2068.0,
+            410.0,
+            2122.0
+          ],
+          "text": "MEIHA KESHARWANI",
+          "confidence": 0.9038
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            2076.0,
+            640.0,
+            2118.0
+          ],
+          "text": "2",
+          "confidence": 0.872
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            820.0,
+            2014.0,
+            874.0,
+            2120.0
+          ],
+          "text": "Je",
+          "confidence": 0.1769
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1117.0,
+            2061.0,
+            1459.0,
+            2103.0
+          ],
+          "text": "JIMS, BAHDUHGARH",
+          "confidence": 0.8663
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            2108.0,
+            409.0,
+            2148.0
+          ],
+          "text": "MBeSMD (PATHOLOGY)",
+          "confidence": 0.6845
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            697.0,
+            2105.0,
+            783.0,
+            2143.0
+          ],
+          "text": "JJIV;",
+          "confidence": 0.2472
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            40.0,
+            2139.0,
+            407.0,
+            2184.0
+          ],
+          "text": "CONSCLTANT PATHOLOGIST",
+          "confidence": 0.5751
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            2178.0,
+            268.0,
+            2208.0
+          ],
+          "text": "REC_",
+          "confidence": 0.5688
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            276.0,
+            2172.0,
+            410.0,
+            2204.0
+          ],
+          "text": "NO. 15162",
+          "confidence": 0.6919
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            2210.0,
+            196.0,
+            2240.0
+          ],
+          "text": "JJiMS;",
+          "confidence": 0.4446
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            2188.0,
+            489.0,
+            2242.0
+          ],
+          "text": "Dalhi Rolatok-Road,",
+          "confidence": 0.1475
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            566.0,
+            2192.0,
+            1448.0,
+            2248.0
+          ],
+          "text": "Metro Piilar No. 792 , Bahadurgarh; Haryana-124507 (India)",
+          "confidence": 0.5576
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            653.9514461957515,
+            1929.0620060447604,
+            763.0485538042485,
+            1995.9379939552396
+          ],
+          "text": "MEDICAL ,",
+          "confidence": 0.2495
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            735.2326435951403,
+            1920.0255559556642,
+            868.7673564048597,
+            2039.9744440443358
+          ],
+          "text": "~SCIENCES",
+          "confidence": 0.2496
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1121.3312989455694,
+            1995.1867537178289,
+            1163.6687010544306,
+            2027.8132462821711
+          ],
+          "text": "Sr",
+          "confidence": 0.4341
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1292.1452883713691,
+            2031.1219034952862,
+            1362.8547116286309,
+            2070.878096504714
+          ],
+          "text": "Reg:",
+          "confidence": 0.8453
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            666.9313326439664,
+            2138.6040597427727,
+            842.0686673560336,
+            2226.3959402572273
+          ],
+          "text": "PAurGtRH",
+          "confidence": 0.0151
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            477.17618089381136,
+            2189.0835899750778,
+            574.8238191061887,
+            2252.9164100249222
+          ],
+          "text": "Opp:",
+          "confidence": 0.9328
+        }
+      ]
+    }
+  ],
+  "full_text": "JJ INSTITUTE\nOF MEDICAL SCIENCES (P) LTD\nNABH\nH-2021-0773\nE\nSample Date\nReporting Date\nReporting Time: 9./0 PM\nRAPID BLOOD CULTURE AND SENSITIVITY REPORT\nINVESTIGATION\nRESULT\nDATE OF RECEIVING SPECIMEN\nDATE OF REPORTING\nNATURE QF SPECIMEN\nBLOOD CIS\nORGANISM ISOLATED\nSTAPIIYLOCOCCI SSP.\nCEFOPERAZONE\nSULBACTAM (CES}\nR\nAZITHROMYCIN(AZM)\nR\nAMIKACIN(AK)\nCOLISTIN(COL}\nR\nAMOXYCILLIN\nCLA VUNATL (AMC)\nDORIPENEM(DOR )\n++\nCLINDAMYCIN(CD)\nTEICOPLA NIN(TEI)\nR\nCLARITHIROMYCIN(CLA)\nLEVOFLOXACIN(LEV)\n+\nFOSFOMYCIN(FOS)\"\n++1-\nMEROPENEM(MRP)\nDOXYCYCLINE (DOX)\nNITRAFURANTOIN(NIT)\n;\nNORFLOXACINNX)\nPOLYMYXIN B(POL}\n++\nIMIPENUMCILASTIN(IMP)\n+++\nPIPERACILLINITAZOBACTAM\nR\n(PIP)\nLINEZOLID(LZ)\nR\nTIGECYCLINE(TIG)\n++\nFAROPENEM\n++\nCEFUROXIME\n++\nCEFIXIME\nDr: Arun Sharma\nMEROPENEM\nSULBACTAM(MES)\nS\nMBBS, MD IMed)\nOf\nepori\n808\nConsultant\n'#9Ys6oo\nDMc\nDr.\nMEIHA KESHARWANI\n2\nJe\nJIMS, BAHDUHGARH\nMBeSMD (PATHOLOGY)\nJJIV;\nCONSCLTANT PATHOLOGIST\nREC_\nNO. 15162\nJJiMS;\nDalhi Rolatok-Road,\nMetro Piilar No. 792 , Bahadurgarh; Haryana-124507 (India)\nMEDICAL ,\n~SCIENCES\nSr\nReg:\nPAurGtRH\nOpp:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "2021",
+          "unit": "",
+          "reference_range": "-2021-0773",
+          "source_line": "H-2021-0773",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "Reporting Time",
+          "biomarker_normalized": "Reporting Time",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reporting Time: 9./0 PM",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "NO.",
+          "biomarker_normalized": "NO.",
+          "value": "15162",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NO. 15162",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Metro Piilar No.",
+          "biomarker_normalized": "Metro Piilar No.",
+          "value": "792",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Metro Piilar No. 792 , Bahadurgarh; Haryana-124507 (India)",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 88,
+    "ocr_avg_confidence": 0.7156,
+    "parsed_row_count": 4
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "document_id": "GUR-0425-PA-0054989_Q-112752REETADEVI_250427_1429@F.pdf_page_37",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0054989_Q-112752REETADEVI_250427_1429@F.pdf_page_37.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JJ INSTITUTE\nOF MEDICAL SCIENCES (P) LTD\nE-mall\nWebsilo\"\nNAB H\nH-2021-0773\nDepartment of Pathology\n152031\nReporting\nZ=\nDate\n9.34 PM\nPatient Type\nIP\nConsultant Doctor\nDr.VED PRAKASH RANJAN\nIP\nNo.\n112752\nURINE KETONES\nInvestigation\nResult\nUnits\nBiological Reference Interval\nURINE FOR KETONES\nKETONE BODIES\nNEGATIVE\n*ttt*\n*****\nEND OF THE REPORT\n6\nDr.\nMESHARWG;\n[\nH\n8\nDr: VED PRAKASH RANJAN\nMBBTAND PathologiST\nJJIMB\nMBBS, MS (GEN. SURGERYI\nNSULTANTRGHo.\nGsHADURGHSY\nCOREG NO:. DMc-5963\nBAHADURGARH\nJJRES; NCHRDURGAERN\nDelhi-Rohtak Road, Opp: Metro Pillar No. 792 , Bahadurgarh; Haryana-124507 (India),\nUser: SUNITA\nPage\nof\nGccto\nMEDICal ,\n'SGIENCES\nMEGHA\n15162\nJJimS,",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            32.0,
+            824.0,
+            108.0
+          ],
+          "text": "JJ INSTITUTE",
+          "confidence": 0.385
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            105.0,
+            820.0,
+            158.0
+          ],
+          "text": "OF MEDICAL SCIENCES (P) LTD",
+          "confidence": 0.8928
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1383.0,
+            145.0,
+            1431.0,
+            163.0
+          ],
+          "text": "E-mall",
+          "confidence": 0.9432
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1381.0,
+            163.0,
+            1439.0,
+            179.0
+          ],
+          "text": "Websilo\"",
+          "confidence": 0.6273
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            180.0,
+            1046.0,
+            204.0
+          ],
+          "text": "NAB H",
+          "confidence": 0.5503
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            238.0,
+            1062.0,
+            262.0
+          ],
+          "text": "H-2021-0773",
+          "confidence": 0.6884
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            318.0,
+            999.0,
+            360.0
+          ],
+          "text": "Department of Pathology",
+          "confidence": 0.9259
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            454.0,
+            372.0,
+            484.0
+          ],
+          "text": "152031",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            453.0,
+            1033.0,
+            489.0
+          ],
+          "text": "Reporting",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            354.0,
+            1310.0,
+            498.0
+          ],
+          "text": "Z=",
+          "confidence": 0.6629
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1034.0,
+            454.0,
+            1098.0,
+            484.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1414.0,
+            454.0,
+            1524.0,
+            484.0
+          ],
+          "text": "9.34 PM",
+          "confidence": 0.8311
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            49.0,
+            499.0,
+            213.0,
+            535.0
+          ],
+          "text": "Patient Type",
+          "confidence": 0.9048
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            276.0,
+            500.0,
+            308.0,
+            528.0
+          ],
+          "text": "IP",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            498.0,
+            1136.0,
+            528.0
+          ],
+          "text": "Consultant Doctor",
+          "confidence": 0.7414
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            498.0,
+            1516.0,
+            528.0
+          ],
+          "text": "Dr.VED PRAKASH RANJAN",
+          "confidence": 0.966
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            544.0,
+            78.0,
+            570.0
+          ],
+          "text": "IP",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            544.0,
+            128.0,
+            570.0
+          ],
+          "text": "No.",
+          "confidence": 0.4338
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            542.0,
+            374.0,
+            572.0
+          ],
+          "text": "112752",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            606.0,
+            924.0,
+            638.0
+          ],
+          "text": "URINE KETONES",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            655.0,
+            237.0,
+            693.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            601.0,
+            655.0,
+            693.0,
+            685.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            656.0,
+            1012.0,
+            686.0
+          ],
+          "text": "Units",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1185.0,
+            653.0,
+            1571.0,
+            693.0
+          ],
+          "text": "Biological Reference Interval",
+          "confidence": 0.8416
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            49.0,
+            699.0,
+            347.0,
+            735.0
+          ],
+          "text": "URINE FOR KETONES",
+          "confidence": 0.9107
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            758.0,
+            284.0,
+            790.0
+          ],
+          "text": "KETONE BODIES",
+          "confidence": 0.7777
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            756.0,
+            748.0,
+            788.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.7448
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            1031.0,
+            677.0,
+            1045.0
+          ],
+          "text": "*ttt*",
+          "confidence": 0.0809
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            983.0,
+            1033.0,
+            1039.0,
+            1045.0
+          ],
+          "text": "*****",
+          "confidence": 0.281
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            1026.0,
+            981.0,
+            1064.0
+          ],
+          "text": "END OF THE REPORT",
+          "confidence": 0.9591
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            603.0,
+            1089.0,
+            639.0,
+            1129.0
+          ],
+          "text": "6",
+          "confidence": 0.5512
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            1198.0,
+            154.0,
+            1230.0
+          ],
+          "text": "Dr.",
+          "confidence": 0.6591
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            1154.0,
+            500.0,
+            1253.0
+          ],
+          "text": "MESHARWG;",
+          "confidence": 0.0406
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            1116.0,
+            622.0,
+            1260.0
+          ],
+          "text": "[",
+          "confidence": 0.1357
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            657.0,
+            1119.0,
+            743.0,
+            1217.0
+          ],
+          "text": "H",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            793.0,
+            1141.0,
+            837.0,
+            1242.0
+          ],
+          "text": "8",
+          "confidence": 0.3136
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            1182.0,
+            1507.0,
+            1237.0
+          ],
+          "text": "Dr: VED PRAKASH RANJAN",
+          "confidence": 0.8952
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            171.0,
+            1215.0,
+            499.0,
+            1278.0
+          ],
+          "text": "MBBTAND PathologiST",
+          "confidence": 0.2622
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            659.0,
+            1225.0,
+            751.0,
+            1261.0
+          ],
+          "text": "JJIMB",
+          "confidence": 0.8609
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1137.0,
+            1216.0,
+            1507.0,
+            1268.0
+          ],
+          "text": "MBBS, MS (GEN. SURGERYI",
+          "confidence": 0.7933
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            1243.0,
+            415.0,
+            1309.0
+          ],
+          "text": "NSULTANTRGHo.",
+          "confidence": 0.6552
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            1259.0,
+            801.0,
+            1332.0
+          ],
+          "text": "GsHADURGHSY",
+          "confidence": 0.0465
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1179.0,
+            1243.0,
+            1513.0,
+            1322.0
+          ],
+          "text": "COREG NO:. DMc-5963",
+          "confidence": 0.0777
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1287.0,
+            503.0,
+            1342.0
+          ],
+          "text": "BAHADURGARH",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            1283.0,
+            1510.0,
+            1358.0
+          ],
+          "text": "JJRES; NCHRDURGAERN",
+          "confidence": 0.0694
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            2178.0,
+            1474.0,
+            2238.0
+          ],
+          "text": "Delhi-Rohtak Road, Opp: Metro Pillar No. 792 , Bahadurgarh; Haryana-124507 (India),",
+          "confidence": 0.4602
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            2220.0,
+            252.0,
+            2250.0
+          ],
+          "text": "User: SUNITA",
+          "confidence": 0.8229
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1385.0,
+            2221.0,
+            1462.0,
+            2259.0
+          ],
+          "text": "Page",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1482.0,
+            2222.0,
+            1516.0,
+            2252.0
+          ],
+          "text": "of",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            977.0038701499747,
+            210.2073760108954,
+            1012.9961298500253,
+            224.7926239891046
+          ],
+          "text": "Gccto",
+          "confidence": 0.2047
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            623.2264990188738,
+            1049.2376924711425,
+            730.7735009811262,
+            1111.7623075288575
+          ],
+          "text": "MEDICal ,",
+          "confidence": 0.3116
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            703.2582495464285,
+            1042.0260327503431,
+            836.7417504535715,
+            1160.9739672496569
+          ],
+          "text": "'SGIENCES",
+          "confidence": 0.3638
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            151.05742827528547,
+            1180.5486232778278,
+            275.9425717247145,
+            1227.4513767221722
+          ],
+          "text": "MEGHA",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            416.4789396203098,
+            1259.7955693317206,
+            496.5210603796902,
+            1294.2044306682794
+          ],
+          "text": "15162",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            203.60276070150212,
+            1308.7585911670965,
+            288.3972392984979,
+            1346.2414088329035
+          ],
+          "text": "JJimS,",
+          "confidence": 0.4963
+        }
+      ]
+    }
+  ],
+  "full_text": "JJ INSTITUTE\nOF MEDICAL SCIENCES (P) LTD\nE-mall\nWebsilo\"\nNAB H\nH-2021-0773\nDepartment of Pathology\n152031\nReporting\nZ=\nDate\n9.34 PM\nPatient Type\nIP\nConsultant Doctor\nDr.VED PRAKASH RANJAN\nIP\nNo.\n112752\nURINE KETONES\nInvestigation\nResult\nUnits\nBiological Reference Interval\nURINE FOR KETONES\nKETONE BODIES\nNEGATIVE\n*ttt*\n*****\nEND OF THE REPORT\n6\nDr.\nMESHARWG;\n[\nH\n8\nDr: VED PRAKASH RANJAN\nMBBTAND PathologiST\nJJIMB\nMBBS, MS (GEN. SURGERYI\nNSULTANTRGHo.\nGsHADURGHSY\nCOREG NO:. DMc-5963\nBAHADURGARH\nJJRES; NCHRDURGAERN\nDelhi-Rohtak Road, Opp: Metro Pillar No. 792 , Bahadurgarh; Haryana-124507 (India),\nUser: SUNITA\nPage\nof\nGccto\nMEDICal ,\n'SGIENCES\nMEGHA\n15162\nJJimS,",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "2021",
+          "unit": "",
+          "reference_range": "-2021-0773",
+          "source_line": "H-2021-0773",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "COREG NO:. DMc",
+          "biomarker_normalized": "COREG NO:. DMc",
+          "value": "5963",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "COREG NO:. DMc-5963",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Delhi-Rohtak Road, Opp: Metro Pillar No.",
+          "biomarker_normalized": "Delhi-Rohtak Road, Opp: Metro Pillar No.",
+          "value": "792",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Delhi-Rohtak Road, Opp: Metro Pillar No. 792 , Bahadurgarh; Haryana-124507 (India),",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 55,
+    "ocr_avg_confidence": 0.6936,
+    "parsed_row_count": 3
+  }
+}

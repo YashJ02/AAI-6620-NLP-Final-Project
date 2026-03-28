@@ -1,0 +1,1002 @@
+{
+  "document_id": "MUM-0425-PA-0004300_REPORTS_27-04-2025_0134-06_PM@G.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\MUM-0425-PA-0004300_REPORTS_27-04-2025_0134-06_PM@G.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "M | R A\nM | R A\n5 U P E R\nTEST REPORT\nPatient]\nDr. GAURISH SHETTY (M.D PHYSICIAN)\nReported Dt;\nReferred Dr.\nDr. JAYANTI LUNIA\nCollection Dt:\nRENAL FUNCTION TEST\nIest\nResult Value\nRange_Value\nUnit\nBLOOD UREA\n24.6\n14-50\nmgldl\nBLOOD UREA NITROGEN\n11.50\n5-20\nmgldl\nCREATININE\n1,18\n0.5\n1.5\nmgldl\nURIC ACID\n6.6\n3.5-7.2\nmgldl\nTOTAL PROTEIN\n6.99\nto 8\ngldl\nALBUMIN\n3.82\n3.5 t0 5.0\ngldl\nGLOBULIN\n3,17\n2,5 t 4.0\ngldl\nNG RATIO\n1,21\nCALCIUM\n9.5\n8.4-10.5\nmgldl\nINORGANIC PHOSPHORUS\n4.12\n2.5-5.0\nmgldl\nSERUM SODIUM\n140.1\n135 t0.150\nmEqll\nSERUM POTASSIUM\n3,90\n3.5.t0 5,5\nmEqll\nSERUM CHLORIDE\n101,8\n96 to 108\nmEqll\nEnd Of Report\n32\nCHECKED BY\nDr, AGARWAL AKHIL\nMD (PATH);\nMIRA HOSPITAL\nAlireBldl@pepspaMart; Near Salasar Business Park, 150 Feet Cross Road, Bhayandar West; Thane\nAade10 f 1\nLandline: +91-8591110773\nTOLL FREE-\nWWW_\nmirahospitals.com",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            571.0,
+            121.0,
+            1138.0,
+            266.0
+          ],
+          "text": "M | R A",
+          "confidence": 0.7557
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            565.0,
+            273.0,
+            639.0,
+            287.0
+          ],
+          "text": "M | R A",
+          "confidence": 0.9083
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            657.0,
+            273.0,
+            753.0,
+            287.0
+          ],
+          "text": "5 U P E R",
+          "confidence": 0.1871
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            735.0,
+            389.0,
+            925.0,
+            425.0
+          ],
+          "text": "TEST REPORT",
+          "confidence": 0.964
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            446.0,
+            228.0,
+            476.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.8577
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            381.0,
+            521.0,
+            803.0,
+            559.0
+          ],
+          "text": "Dr. GAURISH SHETTY (M.D PHYSICIAN)",
+          "confidence": 0.7765
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            524.0,
+            1030.0,
+            556.0
+          ],
+          "text": "Reported Dt;",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            564.0,
+            280.0,
+            590.0
+          ],
+          "text": "Referred Dr.",
+          "confidence": 0.981
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            564.0,
+            594.0,
+            592.0
+          ],
+          "text": "Dr. JAYANTI LUNIA",
+          "confidence": 0.8375
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            564.0,
+            1038.0,
+            594.0
+          ],
+          "text": "Collection Dt:",
+          "confidence": 0.8563
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            617.0,
+            609.0,
+            1075.0,
+            651.0
+          ],
+          "text": "RENAL FUNCTION TEST",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            694.0,
+            252.0,
+            726.0
+          ],
+          "text": "Iest",
+          "confidence": 0.7507
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            686.0,
+            689.0,
+            846.0,
+            730.0
+          ],
+          "text": "Result Value",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            919.0,
+            693.0,
+            1078.0,
+            734.0
+          ],
+          "text": "Range_Value",
+          "confidence": 0.6752
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1148.0,
+            698.0,
+            1206.0,
+            730.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            744.0,
+            342.0,
+            774.0
+          ],
+          "text": "BLOOD UREA",
+          "confidence": 0.7165
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            746.0,
+            740.0,
+            772.0
+          ],
+          "text": "24.6",
+          "confidence": 0.8382
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            746.0,
+            994.0,
+            776.0
+          ],
+          "text": "14-50",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            744.0,
+            1218.0,
+            774.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            786.0,
+            463.0,
+            816.0
+          ],
+          "text": "BLOOD UREA NITROGEN",
+          "confidence": 0.8478
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            788.0,
+            754.0,
+            814.0
+          ],
+          "text": "11.50",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            788.0,
+            982.0,
+            818.0
+          ],
+          "text": "5-20",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            786.0,
+            1218.0,
+            816.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.7818
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            828.0,
+            332.0,
+            858.0
+          ],
+          "text": "CREATININE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            828.0,
+            740.0,
+            856.0
+          ],
+          "text": "1,18",
+          "confidence": 0.9142
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            830.0,
+            970.0,
+            860.0
+          ],
+          "text": "0.5",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            830.0,
+            1022.0,
+            860.0
+          ],
+          "text": "1.5",
+          "confidence": 0.9335
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            828.0,
+            1220.0,
+            860.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.968
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            870.0,
+            318.0,
+            900.0
+          ],
+          "text": "URIC ACID",
+          "confidence": 0.8612
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            870.0,
+            726.0,
+            898.0
+          ],
+          "text": "6.6",
+          "confidence": 0.5218
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            872.0,
+            1020.0,
+            900.0
+          ],
+          "text": "3.5-7.2",
+          "confidence": 0.6385
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            870.0,
+            1220.0,
+            902.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9613
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            912.0,
+            372.0,
+            942.0
+          ],
+          "text": "TOTAL PROTEIN",
+          "confidence": 0.9652
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            912.0,
+            740.0,
+            940.0
+          ],
+          "text": "6.99",
+          "confidence": 0.9943
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            914.0,
+            992.0,
+            940.0
+          ],
+          "text": "to 8",
+          "confidence": 0.9846
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            912.0,
+            1200.0,
+            944.0
+          ],
+          "text": "gldl",
+          "confidence": 0.485
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            952.0,
+            306.0,
+            982.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            954.0,
+            740.0,
+            980.0
+          ],
+          "text": "3.82",
+          "confidence": 0.8807
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            954.0,
+            1032.0,
+            984.0
+          ],
+          "text": "3.5 t0 5.0",
+          "confidence": 0.5267
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            954.0,
+            1200.0,
+            986.0
+          ],
+          "text": "gldl",
+          "confidence": 0.7764
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            994.0,
+            314.0,
+            1024.0
+          ],
+          "text": "GLOBULIN",
+          "confidence": 0.6899
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            994.0,
+            742.0,
+            1024.0
+          ],
+          "text": "3,17",
+          "confidence": 0.4803
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            996.0,
+            1032.0,
+            1026.0
+          ],
+          "text": "2,5 t 4.0",
+          "confidence": 0.6915
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1151.0,
+            993.0,
+            1201.0,
+            1029.0
+          ],
+          "text": "gldl",
+          "confidence": 0.8459
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1036.0,
+            318.0,
+            1066.0
+          ],
+          "text": "NG RATIO",
+          "confidence": 0.6469
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1034.0,
+            740.0,
+            1062.0
+          ],
+          "text": "1,21",
+          "confidence": 0.5144
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1076.0,
+            302.0,
+            1106.0
+          ],
+          "text": "CALCIUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            686.0,
+            1076.0,
+            728.0,
+            1104.0
+          ],
+          "text": "9.5",
+          "confidence": 0.946
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            1078.0,
+            1020.0,
+            1104.0
+          ],
+          "text": "8.4-10.5",
+          "confidence": 0.9708
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1076.0,
+            1218.0,
+            1106.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.8601
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1116.0,
+            486.0,
+            1146.0
+          ],
+          "text": "INORGANIC PHOSPHORUS",
+          "confidence": 0.7836
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1118.0,
+            740.0,
+            1144.0
+          ],
+          "text": "4.12",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            1117.0,
+            1006.0,
+            1148.0
+          ],
+          "text": "2.5-5.0",
+          "confidence": 0.5056
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1118.0,
+            1220.0,
+            1150.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9119
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1158.0,
+            380.0,
+            1188.0
+          ],
+          "text": "SERUM SODIUM",
+          "confidence": 0.9527
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1158.0,
+            752.0,
+            1186.0
+          ],
+          "text": "140.1",
+          "confidence": 0.8959
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            928.0,
+            1160.0,
+            1048.0,
+            1190.0
+          ],
+          "text": "135 t0.150",
+          "confidence": 0.7497
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1158.0,
+            1224.0,
+            1190.0
+          ],
+          "text": "mEqll",
+          "confidence": 0.5364
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1198.0,
+            418.0,
+            1230.0
+          ],
+          "text": "SERUM POTASSIUM",
+          "confidence": 0.7774
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1200.0,
+            744.0,
+            1230.0
+          ],
+          "text": "3,90",
+          "confidence": 0.8891
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            1202.0,
+            1032.0,
+            1232.0
+          ],
+          "text": "3.5.t0 5,5",
+          "confidence": 0.3071
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1200.0,
+            1224.0,
+            1232.0
+          ],
+          "text": "mEqll",
+          "confidence": 0.627
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1241.0,
+            397.0,
+            1272.0
+          ],
+          "text": "SERUM CHLORIDE",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1242.0,
+            756.0,
+            1272.0
+          ],
+          "text": "101,8",
+          "confidence": 0.6298
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            1244.0,
+            1034.0,
+            1274.0
+          ],
+          "text": "96 to 108",
+          "confidence": 0.5725
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1240.0,
+            1222.0,
+            1272.0
+          ],
+          "text": "mEqll",
+          "confidence": 0.8274
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            810.0,
+            1307.0,
+            970.0,
+            1339.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9062
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            315.0,
+            1345.0,
+            343.0,
+            1359.0
+          ],
+          "text": "32",
+          "confidence": 0.2207
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            2036.0,
+            662.0,
+            2064.0
+          ],
+          "text": "CHECKED BY",
+          "confidence": 0.9559
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            2057.0,
+            1402.0,
+            2082.0
+          ],
+          "text": "Dr, AGARWAL AKHIL",
+          "confidence": 0.5866
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            2086.0,
+            1298.0,
+            2114.0
+          ],
+          "text": "MD (PATH);",
+          "confidence": 0.9928
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            2159.0,
+            1092.0,
+            2231.0
+          ],
+          "text": "MIRA HOSPITAL",
+          "confidence": 0.9338
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            2230.0,
+            1433.0,
+            2271.0
+          ],
+          "text": "AlireBldl@pepspaMart; Near Salasar Business Park, 150 Feet Cross Road, Bhayandar West; Thane",
+          "confidence": 0.3706
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1450.0,
+            2236.0,
+            1568.0,
+            2268.0
+          ],
+          "text": "Aade10 f 1",
+          "confidence": 0.3828
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            2273.0,
+            782.0,
+            2304.0
+          ],
+          "text": "Landline: +91-8591110773",
+          "confidence": 0.7649
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            2276.0,
+            1068.0,
+            2306.0
+          ],
+          "text": "TOLL FREE-",
+          "confidence": 0.9121
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1260.0,
+            2282.0,
+            1324.0,
+            2306.0
+          ],
+          "text": "WWW_",
+          "confidence": 0.9897
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1323.0,
+            2277.0,
+            1547.0,
+            2313.0
+          ],
+          "text": "mirahospitals.com",
+          "confidence": 0.8278
+        }
+      ]
+    }
+  ],
+  "full_text": "M | R A\nM | R A\n5 U P E R\nTEST REPORT\nPatient]\nDr. GAURISH SHETTY (M.D PHYSICIAN)\nReported Dt;\nReferred Dr.\nDr. JAYANTI LUNIA\nCollection Dt:\nRENAL FUNCTION TEST\nIest\nResult Value\nRange_Value\nUnit\nBLOOD UREA\n24.6\n14-50\nmgldl\nBLOOD UREA NITROGEN\n11.50\n5-20\nmgldl\nCREATININE\n1,18\n0.5\n1.5\nmgldl\nURIC ACID\n6.6\n3.5-7.2\nmgldl\nTOTAL PROTEIN\n6.99\nto 8\ngldl\nALBUMIN\n3.82\n3.5 t0 5.0\ngldl\nGLOBULIN\n3,17\n2,5 t 4.0\ngldl\nNG RATIO\n1,21\nCALCIUM\n9.5\n8.4-10.5\nmgldl\nINORGANIC PHOSPHORUS\n4.12\n2.5-5.0\nmgldl\nSERUM SODIUM\n140.1\n135 t0.150\nmEqll\nSERUM POTASSIUM\n3,90\n3.5.t0 5,5\nmEqll\nSERUM CHLORIDE\n101,8\n96 to 108\nmEqll\nEnd Of Report\n32\nCHECKED BY\nDr, AGARWAL AKHIL\nMD (PATH);\nMIRA HOSPITAL\nAlireBldl@pepspaMart; Near Salasar Business Park, 150 Feet Cross Road, Bhayandar West; Thane\nAade10 f 1\nLandline: +91-8591110773\nTOLL FREE-\nWWW_\nmirahospitals.com",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "to",
+          "biomarker_normalized": "to",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "to 8",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AlireBldl@pepspaMart; Near Salasar Business Park,",
+          "biomarker_normalized": "AlireBldl@pepspaMart; Near Salasar Business Park,",
+          "value": "150",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AlireBldl@pepspaMart; Near Salasar Business Park, 150 Feet Cross Road, Bhayandar West; Thane",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Aade1",
+          "biomarker_normalized": "Aade1",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Aade10 f 1",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Landline: +",
+          "biomarker_normalized": "Landline: +",
+          "value": "91",
+          "unit": "",
+          "reference_range": "91-8591110773",
+          "source_line": "Landline: +91-8591110773",
+          "confidence": 0.65
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 78,
+    "ocr_avg_confidence": 0.8019,
+    "parsed_row_count": 4
+  }
+}

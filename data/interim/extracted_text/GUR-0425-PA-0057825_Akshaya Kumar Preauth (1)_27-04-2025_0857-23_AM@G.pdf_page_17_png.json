@@ -1,0 +1,963 @@
+{
+  "document_id": "GUR-0425-PA-0057825_Akshaya Kumar Preauth (1)_27-04-2025_0857-23_AM@G.pdf_page_17",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057825_Akshaya Kumar Preauth (1)_27-04-2025_0857-23_AM@G.pdf_page_17.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNIQUE PATH LAB\nQUALITY\n(A Unit of\nHospital)\nASSURANCE\nMob::|\nLAB REPORT\nLab\nNo\nDate\nTme\nPatlent\nMark Hospilal\nCollection Tlme\nLAB\nReporting Datol\nTime\nBB.Rec  No\n394/25\nInvestigation\nValue\nUnits\nBiological Rel Interval\nCRYSTALS\nNone Seen\nNone Seen\nCASTS\nNone Seen\nNone Seen\nOTHERS\nNil\nNil\nImmuno\nBiochemistry\nCRP (C Reactive Protein_\nuantitative\nCRP QUANTITATIVE\n20.6 High\nmgIL\n0.0\n6.0\nTurbidimetnic\nA C-reactive protein (CRP), a type of acute phase protein; is used to identify inflammation or infection\nin the body CRP is an early indicator of these problems and its levels can rise quickly-\nViral Marker(Hiv,Hcv, Hbsaq)\nHIV (AIDS\nTRI-DOT | &Il\nNegative\nNegative\nCard method\nRapid Card HBSAg\nNegative\nNegative\ncard method\nHCV\nNegative\nNegative\ncard method\nSerology\nAuthenticated By\nDr: S\nVTA BMART]\n7788S, DCP\nDR Savita Bharti hologist\nMBBS DCP No. 49058\nConsultant\nPathology\nNo:\n49058\nClinic Correlation is Neccessary for the Final Diagnosis\nifResult are Unexpected, please_\nHome Collection Facility Available\nNot For Medico Legal Purpose\nScanned with CamScanner\nApex\nRcg\nReg:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            805.0,
+            92.0,
+            1507.0,
+            183.0
+          ],
+          "text": "UNIQUE PATH LAB",
+          "confidence": 0.5749
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            498.0,
+            150.0,
+            690.0,
+            206.0
+          ],
+          "text": "QUALITY",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1147.0,
+            172.0,
+            1291.0,
+            209.0
+          ],
+          "text": "(A Unit of",
+          "confidence": 0.9614
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1370.0,
+            178.0,
+            1505.0,
+            220.0
+          ],
+          "text": "Hospital)",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            197.0,
+            681.0,
+            238.0
+          ],
+          "text": "ASSURANCE",
+          "confidence": 0.9842
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1060.0,
+            254.0,
+            1149.0,
+            292.0
+          ],
+          "text": "Mob::|",
+          "confidence": 0.6188
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            685.0,
+            321.0,
+            992.0,
+            370.0
+          ],
+          "text": "LAB REPORT",
+          "confidence": 0.7073
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            409.0,
+            251.0,
+            429.0
+          ],
+          "text": "Lab",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            296.0,
+            406.0,
+            332.0,
+            430.0
+          ],
+          "text": "No",
+          "confidence": 0.8659
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            405.0,
+            969.0,
+            425.0
+          ],
+          "text": "Date",
+          "confidence": 0.9849
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            405.0,
+            1029.0,
+            425.0
+          ],
+          "text": "Tme",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            438.0,
+            284.0,
+            462.0
+          ],
+          "text": "Patlent",
+          "confidence": 0.88
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            493.0,
+            534.0,
+            521.0
+          ],
+          "text": "Mark Hospilal",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            492.0,
+            1070.0,
+            516.0
+          ],
+          "text": "Collection Tlme",
+          "confidence": 0.93
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            556.0,
+            452.0,
+            580.0
+          ],
+          "text": "LAB",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            552.0,
+            1064.0,
+            580.0
+          ],
+          "text": "Reporting Datol",
+          "confidence": 0.5563
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            552.0,
+            1132.0,
+            576.0
+          ],
+          "text": "Time",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            590.0,
+            310.0,
+            614.0
+          ],
+          "text": "BB.Rec  No",
+          "confidence": 0.1975
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            586.0,
+            476.0,
+            610.0
+          ],
+          "text": "394/25",
+          "confidence": 0.9513
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            680.0,
+            336.0,
+            706.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            676.0,
+            812.0,
+            700.0
+          ],
+          "text": "Value",
+          "confidence": 0.9852
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            674.0,
+            1046.0,
+            698.0
+          ],
+          "text": "Units",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            670.0,
+            1384.0,
+            698.0
+          ],
+          "text": "Biological Rel Interval",
+          "confidence": 0.833
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            724.0,
+            342.0,
+            754.0
+          ],
+          "text": "CRYSTALS",
+          "confidence": 0.9463
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            720.0,
+            872.0,
+            746.0
+          ],
+          "text": "None Seen",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            714.0,
+            1300.0,
+            742.0
+          ],
+          "text": "None Seen",
+          "confidence": 0.8943
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            782.0,
+            300.0,
+            812.0
+          ],
+          "text": "CASTS",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            778.0,
+            872.0,
+            806.0
+          ],
+          "text": "None Seen",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            772.0,
+            1300.0,
+            800.0
+          ],
+          "text": "None Seen",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            837.0,
+            321.0,
+            873.0
+          ],
+          "text": "OTHERS",
+          "confidence": 0.8653
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            838.0,
+            784.0,
+            864.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            832.0,
+            1210.0,
+            858.0
+          ],
+          "text": "Nil",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1014.0,
+            804.0,
+            1040.0
+          ],
+          "text": "Immuno",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1005.0,
+            961.0,
+            1045.0
+          ],
+          "text": "Biochemistry",
+          "confidence": 0.7327
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            1058.0,
+            878.0,
+            1088.0
+          ],
+          "text": "CRP (C Reactive Protein_",
+          "confidence": 0.6394
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            1054.0,
+            1028.0,
+            1084.0
+          ],
+          "text": "uantitative",
+          "confidence": 0.9674
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1091.0,
+            443.0,
+            1122.0
+          ],
+          "text": "CRP QUANTITATIVE",
+          "confidence": 0.9422
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            748.0,
+            1090.0,
+            860.0,
+            1122.0
+          ],
+          "text": "20.6 High",
+          "confidence": 0.6967
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            988.0,
+            1088.0,
+            1048.0,
+            1120.0
+          ],
+          "text": "mgIL",
+          "confidence": 0.7971
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            1084.0,
+            1214.0,
+            1110.0
+          ],
+          "text": "0.0",
+          "confidence": 0.9479
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1226.0,
+            1084.0,
+            1268.0,
+            1110.0
+          ],
+          "text": "6.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1122.0,
+            328.0,
+            1146.0
+          ],
+          "text": "Turbidimetnic",
+          "confidence": 0.4035
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1169.0,
+            1255.0,
+            1211.0
+          ],
+          "text": "A C-reactive protein (CRP), a type of acute phase protein; is used to identify inflammation or infection",
+          "confidence": 0.6689
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            197.0,
+            1204.0,
+            1093.0,
+            1245.0
+          ],
+          "text": "in the body CRP is an early indicator of these problems and its levels can rise quickly-",
+          "confidence": 0.55
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            1285.0,
+            969.0,
+            1314.0
+          ],
+          "text": "Viral Marker(Hiv,Hcv, Hbsaq)",
+          "confidence": 0.4316
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1322.0,
+            328.0,
+            1352.0
+          ],
+          "text": "HIV (AIDS",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            342.0,
+            1320.0,
+            496.0,
+            1348.0
+          ],
+          "text": "TRI-DOT | &Il",
+          "confidence": 0.4778
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            748.0,
+            1318.0,
+            846.0,
+            1350.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1316.0,
+            1274.0,
+            1348.0
+          ],
+          "text": "Negative",
+          "confidence": 0.8183
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1350.0,
+            328.0,
+            1374.0
+          ],
+          "text": "Card method",
+          "confidence": 0.5275
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1373.0,
+            422.0,
+            1414.0
+          ],
+          "text": "Rapid Card HBSAg",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            1376.0,
+            846.0,
+            1408.0
+          ],
+          "text": "Negative",
+          "confidence": 0.8822
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1374.0,
+            1272.0,
+            1406.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1408.0,
+            324.0,
+            1432.0
+          ],
+          "text": "card method",
+          "confidence": 0.6641
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1438.0,
+            268.0,
+            1464.0
+          ],
+          "text": "HCV",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            1434.0,
+            844.0,
+            1466.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1171.0,
+            1431.0,
+            1275.0,
+            1467.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1466.0,
+            324.0,
+            1490.0
+          ],
+          "text": "card method",
+          "confidence": 0.8402
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            775.0,
+            1563.0,
+            885.0,
+            1599.0
+          ],
+          "text": "Serology",
+          "confidence": 0.8876
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            1624.0,
+            1410.0,
+            1656.0
+          ],
+          "text": "Authenticated By",
+          "confidence": 0.9061
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            1687.0,
+            1295.0,
+            1723.0
+          ],
+          "text": "Dr: S",
+          "confidence": 0.5528
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1307.0,
+            1689.0,
+            1513.0,
+            1730.0
+          ],
+          "text": "VTA BMART]",
+          "confidence": 0.3935
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1337.0,
+            1726.0,
+            1493.0,
+            1765.0
+          ],
+          "text": "7788S, DCP",
+          "confidence": 0.5302
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1197.0,
+            1757.0,
+            1507.0,
+            1800.0
+          ],
+          "text": "DR Savita Bharti hologist",
+          "confidence": 0.8316
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1197.0,
+            1787.0,
+            1467.0,
+            1823.0
+          ],
+          "text": "MBBS DCP No. 49058",
+          "confidence": 0.4377
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1197.0,
+            1818.0,
+            1327.0,
+            1844.0
+          ],
+          "text": "Consultant",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            1812.0,
+            1451.0,
+            1852.0
+          ],
+          "text": "Pathology",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            1848.0,
+            1298.0,
+            1874.0
+          ],
+          "text": "No:",
+          "confidence": 0.5633
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            1846.0,
+            1388.0,
+            1876.0
+          ],
+          "text": "49058",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            2002.0,
+            969.0,
+            2046.0
+          ],
+          "text": "Clinic Correlation is Neccessary for the Final Diagnosis",
+          "confidence": 0.708
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            2037.0,
+            648.0,
+            2087.0
+          ],
+          "text": "ifResult are Unexpected, please_",
+          "confidence": 0.6452
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            548.0,
+            2124.0,
+            1108.0,
+            2174.0
+          ],
+          "text": "Home Collection Facility Available",
+          "confidence": 0.853
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            537.0,
+            2169.0,
+            1119.0,
+            2229.0
+          ],
+          "text": "Not For Medico Legal Purpose",
+          "confidence": 0.7772
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            2269.0,
+            1501.0,
+            2309.0
+          ],
+          "text": "Scanned with CamScanner",
+          "confidence": 0.8525
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1287.1539042094366,
+            174.1253445358238,
+            1371.8460957905634,
+            220.8746554641762
+          ],
+          "text": "Apex",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            248.15395010584845,
+            402.1638810551212,
+            298.8460498941515,
+            436.8361189448788
+          ],
+          "text": "Rcg",
+          "confidence": 0.8208
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1194.1116348305047,
+            1845.1539501058485,
+            1256.8883651694953,
+            1880.8460498941515
+          ],
+          "text": "Reg:",
+          "confidence": 0.8811
+        }
+      ]
+    }
+  ],
+  "full_text": "UNIQUE PATH LAB\nQUALITY\n(A Unit of\nHospital)\nASSURANCE\nMob::|\nLAB REPORT\nLab\nNo\nDate\nTme\nPatlent\nMark Hospilal\nCollection Tlme\nLAB\nReporting Datol\nTime\nBB.Rec  No\n394/25\nInvestigation\nValue\nUnits\nBiological Rel Interval\nCRYSTALS\nNone Seen\nNone Seen\nCASTS\nNone Seen\nNone Seen\nOTHERS\nNil\nNil\nImmuno\nBiochemistry\nCRP (C Reactive Protein_\nuantitative\nCRP QUANTITATIVE\n20.6 High\nmgIL\n0.0\n6.0\nTurbidimetnic\nA C-reactive protein (CRP), a type of acute phase protein; is used to identify inflammation or infection\nin the body CRP is an early indicator of these problems and its levels can rise quickly-\nViral Marker(Hiv,Hcv, Hbsaq)\nHIV (AIDS\nTRI-DOT | &Il\nNegative\nNegative\nCard method\nRapid Card HBSAg\nNegative\nNegative\ncard method\nHCV\nNegative\nNegative\ncard method\nSerology\nAuthenticated By\nDr: S\nVTA BMART]\n7788S, DCP\nDR Savita Bharti hologist\nMBBS DCP No. 49058\nConsultant\nPathology\nNo:\n49058\nClinic Correlation is Neccessary for the Final Diagnosis\nifResult are Unexpected, please_\nHome Collection Facility Available\nNot For Medico Legal Purpose\nScanned with CamScanner\nApex\nRcg\nReg:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "MBBS DCP No.",
+          "biomarker_normalized": "MBBS DCP No.",
+          "value": "49058",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MBBS DCP No. 49058",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 77,
+    "ocr_avg_confidence": 0.8356,
+    "parsed_row_count": 1
+  }
+}

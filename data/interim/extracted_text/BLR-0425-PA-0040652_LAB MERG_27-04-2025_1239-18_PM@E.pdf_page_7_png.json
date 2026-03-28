@@ -1,0 +1,885 @@
+{
+  "document_id": "BLR-0425-PA-0040652_LAB MERG_27-04-2025_1239-18_PM@E.pdf_page_7",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0040652_LAB MERG_27-04-2025_1239-18_PM@E.pdf_page_7.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Srivalli\nGood Life DIAGNOSTIC CENTRE\nRight Care () Rlght\nBeside New Bus Stand, Balasamudram Road, Hanamkonda; Ph:\nHelpline:\nDR VISHWABHARATH REDDY\nIP NO\nIP20252388\nBedno\nICU BED 1\nCLINICAL PATHOLOGY\nPARAMETER\nRESULT\nMETH\nCUE (Complete Urine Examination)\nPHYSICAL EXAMINATION\nQuantity\n10 ml\nColour\nPale Yellow\nAppearance\nClear\nReaction\nAcidic\nALBUMIN\nTRACE\nCHEMICAL EXAMINATION\nProtiens\nNil\nSugar\nNil\nKetone Bodies\nNEGATIVE\nBile Salts & Bile Pigments\nNEGATIVE\nUrobilinogen\nChyluria\nMICROSCOPIC EXAMINATION\nRed Blood Cells (R.B.C)\nNil\nIHPF\nPus Cells (W.B.C)\n:2 - 4\nIHPF\nEpithelial Cells\n:1 - 2\nIHPF\nCasts\nNil\nCrystals\nNil\nOther findings\nNil\nEnd of report\nJA\nEAB INCRARGE\nPrinted by\nLAB\nPrint Dt & Tm\n12.53.10\nPage 1\nSuggested Clinical Correlation, If Necessary Kindly Discuss With Signatory\nPiace\nGood\nLife\n1\n1\nHanam`\nronda",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            42.0,
+            302.0,
+            68.0
+          ],
+          "text": "Srivalli",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            53.0,
+            1416.0,
+            173.0
+          ],
+          "text": "Good Life DIAGNOSTIC CENTRE",
+          "confidence": 0.8577
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            409.0,
+            167.0,
+            551.0,
+            187.0
+          ],
+          "text": "Right Care () Rlght",
+          "confidence": 0.3301
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            215.0,
+            911.0,
+            253.0
+          ],
+          "text": "Beside New Bus Stand, Balasamudram Road, Hanamkonda; Ph:",
+          "confidence": 0.5561
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            216.0,
+            1221.0,
+            261.0
+          ],
+          "text": "Helpline:",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            559.0,
+            731.0,
+            591.0
+          ],
+          "text": "DR VISHWABHARATH REDDY",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            566.0,
+            1056.0,
+            596.0
+          ],
+          "text": "IP NO",
+          "confidence": 0.7147
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1290.0,
+            564.0,
+            1432.0,
+            596.0
+          ],
+          "text": "IP20252388",
+          "confidence": 0.6924
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            599.0,
+            1068.0,
+            629.0
+          ],
+          "text": "Bedno",
+          "confidence": 0.6825
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            598.0,
+            1414.0,
+            628.0
+          ],
+          "text": "ICU BED 1",
+          "confidence": 0.898
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            699.0,
+            647.0,
+            1005.0,
+            684.0
+          ],
+          "text": "CLINICAL PATHOLOGY",
+          "confidence": 0.8091
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            695.0,
+            251.0,
+            731.0
+          ],
+          "text": "PARAMETER",
+          "confidence": 0.9524
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            699.0,
+            823.0,
+            735.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.6496
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            874.0,
+            704.0,
+            960.0,
+            734.0
+          ],
+          "text": "METH",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            729.0,
+            571.0,
+            765.0
+          ],
+          "text": "CUE (Complete Urine Examination)",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            779.0,
+            437.0,
+            815.0
+          ],
+          "text": "PHYSICAL EXAMINATION",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            831.0,
+            184.0,
+            867.0
+          ],
+          "text": "Quantity",
+          "confidence": 0.9608
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            836.0,
+            782.0,
+            864.0
+          ],
+          "text": "10 ml",
+          "confidence": 0.9587
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            882.0,
+            156.0,
+            910.0
+          ],
+          "text": "Colour",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            886.0,
+            848.0,
+            914.0
+          ],
+          "text": "Pale Yellow",
+          "confidence": 0.7043
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            931.0,
+            223.0,
+            967.0
+          ],
+          "text": "Appearance",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            934.0,
+            774.0,
+            962.0
+          ],
+          "text": "Clear",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            982.0,
+            180.0,
+            1010.0
+          ],
+          "text": "Reaction",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            986.0,
+            784.0,
+            1016.0
+          ],
+          "text": "Acidic",
+          "confidence": 0.9841
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            1032.0,
+            190.0,
+            1062.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            1036.0,
+            792.0,
+            1066.0
+          ],
+          "text": "TRACE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            63.0,
+            1081.0,
+            436.0,
+            1114.0
+          ],
+          "text": "CHEMICAL EXAMINATION",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            1132.0,
+            174.0,
+            1162.0
+          ],
+          "text": "Protiens",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            1136.0,
+            740.0,
+            1166.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            59.0,
+            1179.0,
+            147.0,
+            1217.0
+          ],
+          "text": "Sugar",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            1186.0,
+            740.0,
+            1214.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9813
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            1232.0,
+            250.0,
+            1262.0
+          ],
+          "text": "Ketone Bodies",
+          "confidence": 0.9851
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            1236.0,
+            836.0,
+            1266.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            1280.0,
+            395.0,
+            1319.0
+          ],
+          "text": "Bile Salts & Bile Pigments",
+          "confidence": 0.596
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            1284.0,
+            836.0,
+            1316.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9617
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            60.0,
+            1327.0,
+            229.0,
+            1368.0
+          ],
+          "text": "Urobilinogen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            1381.0,
+            173.0,
+            1417.0
+          ],
+          "text": "Chyluria",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            1430.0,
+            491.0,
+            1466.0
+          ],
+          "text": "MICROSCOPIC EXAMINATION",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            59.0,
+            1481.0,
+            365.0,
+            1517.0
+          ],
+          "text": "Red Blood Cells (R.B.C)",
+          "confidence": 0.9241
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            1486.0,
+            736.0,
+            1516.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1488.0,
+            1012.0,
+            1518.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.5893
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            59.0,
+            1531.0,
+            289.0,
+            1567.0
+          ],
+          "text": "Pus Cells (W.B.C)",
+          "confidence": 0.4381
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            1536.0,
+            762.0,
+            1564.0
+          ],
+          "text": ":2 - 4",
+          "confidence": 0.6503
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1538.0,
+            1012.0,
+            1568.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9327
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            57.0,
+            1581.0,
+            251.0,
+            1617.0
+          ],
+          "text": "Epithelial Cells",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            1586.0,
+            762.0,
+            1614.0
+          ],
+          "text": ":1 - 2",
+          "confidence": 0.3537
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            1588.0,
+            1012.0,
+            1618.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9188
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            1632.0,
+            134.0,
+            1660.0
+          ],
+          "text": "Casts",
+          "confidence": 0.6711
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            1636.0,
+            734.0,
+            1666.0
+          ],
+          "text": "Nil",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            1680.0,
+            167.0,
+            1719.0
+          ],
+          "text": "Crystals",
+          "confidence": 0.635
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            1686.0,
+            734.0,
+            1716.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            1730.0,
+            245.0,
+            1768.0
+          ],
+          "text": "Other findings",
+          "confidence": 0.7727
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            1736.0,
+            732.0,
+            1766.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            751.0,
+            1783.0,
+            941.0,
+            1823.0
+          ],
+          "text": "End of report",
+          "confidence": 0.9581
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1518.0,
+            1902.0,
+            1576.0,
+            1954.0
+          ],
+          "text": "JA",
+          "confidence": 0.457
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1930.0,
+            1552.0,
+            1984.0
+          ],
+          "text": "EAB INCRARGE",
+          "confidence": 0.9709
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            2139.0,
+            181.0,
+            2177.0
+          ],
+          "text": "Printed by",
+          "confidence": 0.7843
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            2142.0,
+            276.0,
+            2170.0
+          ],
+          "text": "LAB",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            486.0,
+            2146.0,
+            648.0,
+            2172.0
+          ],
+          "text": "Print Dt & Tm",
+          "confidence": 0.7822
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            2146.0,
+            948.0,
+            2172.0
+          ],
+          "text": "12.53.10",
+          "confidence": 0.6235
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1504.0,
+            2203.0,
+            1582.0,
+            2231.0
+          ],
+          "text": "Page 1",
+          "confidence": 0.7903
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            2223.0,
+            847.0,
+            2261.0
+          ],
+          "text": "Suggested Clinical Correlation, If Necessary Kindly Discuss With Signatory",
+          "confidence": 0.7332
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            547.0751006480272,
+            167.25168544775693,
+            589.9248993519728,
+            188.74831455224307
+          ],
+          "text": "Piace",
+          "confidence": 0.6728
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1404.7230723179239,
+            1811.8186269055348,
+            1510.2769276820761,
+            1870.1813730944652
+          ],
+          "text": "Good",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1496.0003462154332,
+            1813.0544243046713,
+            1579.9996537845668,
+            1880.9455756953287
+          ],
+          "text": "Life",
+          "confidence": 0.9039
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1347.7512609899043,
+            1843.0867805418022,
+            1425.2487390100957,
+            1935.9132194581978
+          ],
+          "text": "1",
+          "confidence": 0.2368
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1561.656446631388,
+            1860.012151434603,
+            1617.343553368612,
+            1995.987848565397
+          ],
+          "text": "1",
+          "confidence": 0.3173
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1363.1373099869595,
+            1995.0286568155586,
+            1489.8626900130405,
+            2097.9713431844416
+          ],
+          "text": "Hanam`",
+          "confidence": 0.8001
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1467.2108685738942,
+            2014.7423696513738,
+            1588.7891314261058,
+            2094.257630348626
+          ],
+          "text": "ronda",
+          "confidence": 0.9146
+        }
+      ]
+    }
+  ],
+  "full_text": "Srivalli\nGood Life DIAGNOSTIC CENTRE\nRight Care () Rlght\nBeside New Bus Stand, Balasamudram Road, Hanamkonda; Ph:\nHelpline:\nDR VISHWABHARATH REDDY\nIP NO\nIP20252388\nBedno\nICU BED 1\nCLINICAL PATHOLOGY\nPARAMETER\nRESULT\nMETH\nCUE (Complete Urine Examination)\nPHYSICAL EXAMINATION\nQuantity\n10 ml\nColour\nPale Yellow\nAppearance\nClear\nReaction\nAcidic\nALBUMIN\nTRACE\nCHEMICAL EXAMINATION\nProtiens\nNil\nSugar\nNil\nKetone Bodies\nNEGATIVE\nBile Salts & Bile Pigments\nNEGATIVE\nUrobilinogen\nChyluria\nMICROSCOPIC EXAMINATION\nRed Blood Cells (R.B.C)\nNil\nIHPF\nPus Cells (W.B.C)\n:2 - 4\nIHPF\nEpithelial Cells\n:1 - 2\nIHPF\nCasts\nNil\nCrystals\nNil\nOther findings\nNil\nEnd of report\nJA\nEAB INCRARGE\nPrinted by\nLAB\nPrint Dt & Tm\n12.53.10\nPage 1\nSuggested Clinical Correlation, If Necessary Kindly Discuss With Signatory\nPiace\nGood\nLife\n1\n1\nHanam`\nronda",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "IP2",
+          "biomarker_normalized": "IP2",
+          "value": "0252388",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IP20252388",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ICU BED",
+          "biomarker_normalized": "ICU BED",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ICU BED 1",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Page",
+          "biomarker_normalized": "Page",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Page 1",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 69,
+    "ocr_avg_confidence": 0.8416,
+    "parsed_row_count": 3
+  }
+}

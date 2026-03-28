@@ -1,0 +1,1089 @@
+{
+  "document_id": "IND-0425-PA-0033745_SANTOSH334_27-04-2025_0431-24_PM@F.pdf_page_3",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\IND-0425-PA-0033745_SANTOSH334_27-04-2025_0431-24_PM@F.pdf_page_3.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LAB TEST REPORT\nEpisode No\n13804200\nReport Date\nJ07:32.10.000\nOrdering Doctor\nDr.Subhaprakash Sanyal & Team\nEpisode Type\nIPD\nHHEMOGLOBIN, EDTA WHOLE BLOOD (3180-SRL)[3180][3180]\nGLYCOSYLATED\n6.6\nNon-diabetic\nHigh\nHEMOGLOBIN (HBAIC)\nAdult < 5.7\nPre-diabetes\n5.7-6.4\nDiabetes\ndiagnosis:\n&gt; or = 6.5\nTherapeutic\ngoals:\n<7.0\nAction\nsuggested\n&gt; 8.0\n(ADA\nGuideline\n2021)\nMEAN PLASMA GLUCOSE\n142.7\n116.0\nHigh\nmgldL\nHEPATITIS B CORE ANTIBODIES (TOTAL), SERUM (2452-SRL)\nHEPATITIS B CORE\nNON REACTIVE\nNON\nANTIBODIES (TOTAL)\nREACTIVE\nPATIENT VALUE\n0.150\n1.00 (Non\ns/co\nReactive)\n&gt; or = 1.00\n(Reactive)\nHEPATITIS B SURFACE ANTIGEN; QUANTITATIVE (CMIAJ(SRL- 7658)\nHEPATITIS B SURFACE\n0.39\n1.00 Non-\nCOI\nANTIGEN\nreactive\n&gt; or = 1.00\nReactive\nHEPATITIS C ANTIBODIES, SERUM (2446-SRL)\nHEPATITIS \u20ac ANTIBODIES\nNON REACTIVE\nNON\nREACTIVE\nPATIENT VALUE\n0.05\n< 0.9 Non-\nCOI\nreactive\n&gt; or\n0.9\nto\n1.0\n:Borderline\n&gt; or\n1.0 Reactive\nHIV-182 ANTIBODIES, SERUM (9916-SRL)\nHIV 4TH GEN ASSAY (P24AG +\nNON REACTIVE\nNON\nHIV AB)\nREACTIVE",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            214.0,
+            924.0,
+            244.0
+          ],
+          "text": "LAB TEST REPORT",
+          "confidence": 0.8515
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            356.0,
+            348.0,
+            388.0
+          ],
+          "text": "Episode No",
+          "confidence": 0.9771
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            355.0,
+            536.0,
+            385.0
+          ],
+          "text": "13804200",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            820.0,
+            356.0,
+            970.0,
+            386.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.6924
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            356.0,
+            1362.0,
+            386.0
+          ],
+          "text": "J07:32.10.000",
+          "confidence": 0.4624
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            403.0,
+            321.0,
+            443.0
+          ],
+          "text": "Ordering Doctor",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            415.0,
+            406.0,
+            793.0,
+            442.0
+          ],
+          "text": "Dr.Subhaprakash Sanyal & Team",
+          "confidence": 0.784
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            405.0,
+            981.0,
+            443.0
+          ],
+          "text": "Episode Type",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            410.0,
+            1116.0,
+            434.0
+          ],
+          "text": "IPD",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            293.0,
+            526.0,
+            927.0,
+            557.0
+          ],
+          "text": "HHEMOGLOBIN, EDTA WHOLE BLOOD (3180-SRL)[3180][3180]",
+          "confidence": 0.6461
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            578.0,
+            316.0,
+            604.0
+          ],
+          "text": "GLYCOSYLATED",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            578.0,
+            510.0,
+            602.0
+          ],
+          "text": "6.6",
+          "confidence": 0.7603
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            578.0,
+            802.0,
+            604.0
+          ],
+          "text": "Non-diabetic",
+          "confidence": 0.9956
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            578.0,
+            870.0,
+            606.0
+          ],
+          "text": "High",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            608.0,
+            394.0,
+            636.0
+          ],
+          "text": "HEMOGLOBIN (HBAIC)",
+          "confidence": 0.9634
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            610.0,
+            778.0,
+            634.0
+          ],
+          "text": "Adult < 5.7",
+          "confidence": 0.5594
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            640.0,
+            798.0,
+            664.0
+          ],
+          "text": "Pre-diabetes",
+          "confidence": 0.9422
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            670.0,
+            750.0,
+            696.0
+          ],
+          "text": "5.7-6.4",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            700.0,
+            758.0,
+            726.0
+          ],
+          "text": "Diabetes",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            729.0,
+            770.0,
+            761.0
+          ],
+          "text": "diagnosis:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            762.0,
+            796.0,
+            792.0
+          ],
+          "text": "&gt; or = 6.5",
+          "confidence": 0.9815
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            792.0,
+            791.0,
+            820.0
+          ],
+          "text": "Therapeutic",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            820.0,
+            730.0,
+            852.0
+          ],
+          "text": "goals:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            824.0,
+            784.0,
+            848.0
+          ],
+          "text": "<7.0",
+          "confidence": 0.9954
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            854.0,
+            734.0,
+            880.0
+          ],
+          "text": "Action",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            883.0,
+            774.0,
+            916.0
+          ],
+          "text": "suggested",
+          "confidence": 0.8421
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            916.0,
+            750.0,
+            944.0
+          ],
+          "text": "&gt; 8.0",
+          "confidence": 0.8805
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            946.0,
+            720.0,
+            972.0
+          ],
+          "text": "(ADA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            976.0,
+            766.0,
+            1002.0
+          ],
+          "text": "Guideline",
+          "confidence": 0.7038
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            1005.0,
+            728.0,
+            1034.0
+          ],
+          "text": "2021)",
+          "confidence": 0.9873
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1048.0,
+            416.0,
+            1074.0
+          ],
+          "text": "MEAN PLASMA GLUCOSE",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            1048.0,
+            534.0,
+            1074.0
+          ],
+          "text": "142.7",
+          "confidence": 0.9937
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            1048.0,
+            744.0,
+            1074.0
+          ],
+          "text": "116.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            1048.0,
+            870.0,
+            1076.0
+          ],
+          "text": "High",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            1048.0,
+            1034.0,
+            1076.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.5429
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1095.0,
+            746.0,
+            1124.0
+          ],
+          "text": "HEPATITIS B CORE ANTIBODIES (TOTAL), SERUM (2452-SRL)",
+          "confidence": 0.8271
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1146.0,
+            344.0,
+            1172.0
+          ],
+          "text": "HEPATITIS B CORE",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            1146.0,
+            630.0,
+            1172.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1146.0,
+            718.0,
+            1172.0
+          ],
+          "text": "NON",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1176.0,
+            370.0,
+            1204.0
+          ],
+          "text": "ANTIBODIES (TOTAL)",
+          "confidence": 0.7586
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            1175.0,
+            767.0,
+            1201.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1218.0,
+            318.0,
+            1244.0
+          ],
+          "text": "PATIENT VALUE",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            1218.0,
+            536.0,
+            1244.0
+          ],
+          "text": "0.150",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            1218.0,
+            788.0,
+            1246.0
+          ],
+          "text": "1.00 (Non",
+          "confidence": 0.8064
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            1218.0,
+            1020.0,
+            1244.0
+          ],
+          "text": "s/co",
+          "confidence": 0.8127
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1248.0,
+            762.0,
+            1274.0
+          ],
+          "text": "Reactive)",
+          "confidence": 0.6703
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1280.0,
+            808.0,
+            1308.0
+          ],
+          "text": "&gt; or = 1.00",
+          "confidence": 0.6499
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            1308.0,
+            770.0,
+            1338.0
+          ],
+          "text": "(Reactive)",
+          "confidence": 0.932
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1349.0,
+            824.0,
+            1380.0
+          ],
+          "text": "HEPATITIS B SURFACE ANTIGEN; QUANTITATIVE (CMIAJ(SRL- 7658)",
+          "confidence": 0.8059
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1402.0,
+            380.0,
+            1426.0
+          ],
+          "text": "HEPATITIS B SURFACE",
+          "confidence": 0.9745
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            1402.0,
+            522.0,
+            1426.0
+          ],
+          "text": "0.39",
+          "confidence": 0.5834
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            1402.0,
+            788.0,
+            1426.0
+          ],
+          "text": "1.00 Non-",
+          "confidence": 0.7528
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            1402.0,
+            1006.0,
+            1426.0
+          ],
+          "text": "COI",
+          "confidence": 0.39
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1432.0,
+            252.0,
+            1458.0
+          ],
+          "text": "ANTIGEN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1432.0,
+            750.0,
+            1458.0
+          ],
+          "text": "reactive",
+          "confidence": 0.753
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1464.0,
+            808.0,
+            1492.0
+          ],
+          "text": "&gt; or = 1.00",
+          "confidence": 0.6499
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            670.0,
+            1494.0,
+            762.0,
+            1518.0
+          ],
+          "text": "Reactive",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1533.0,
+            594.0,
+            1562.0
+          ],
+          "text": "HEPATITIS C ANTIBODIES, SERUM (2446-SRL)",
+          "confidence": 0.646
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1586.0,
+            412.0,
+            1610.0
+          ],
+          "text": "HEPATITIS \u20ac ANTIBODIES",
+          "confidence": 0.8013
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            1586.0,
+            630.0,
+            1610.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.8158
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1586.0,
+            718.0,
+            1610.0
+          ],
+          "text": "NON",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            665.0,
+            1616.0,
+            767.0,
+            1640.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            1658.0,
+            320.0,
+            1682.0
+          ],
+          "text": "PATIENT VALUE",
+          "confidence": 0.9497
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            1656.0,
+            522.0,
+            1682.0
+          ],
+          "text": "0.05",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1658.0,
+            776.0,
+            1682.0
+          ],
+          "text": "< 0.9 Non-",
+          "confidence": 0.5236
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            1658.0,
+            1006.0,
+            1682.0
+          ],
+          "text": "COI",
+          "confidence": 0.39
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1688.0,
+            750.0,
+            1714.0
+          ],
+          "text": "reactive",
+          "confidence": 0.753
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1718.0,
+            742.0,
+            1748.0
+          ],
+          "text": "&gt; or",
+          "confidence": 0.9741
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1718.0,
+            796.0,
+            1744.0
+          ],
+          "text": "0.9",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            665.0,
+            1753.0,
+            689.0,
+            1773.0
+          ],
+          "text": "to",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1780.0,
+            702.0,
+            1806.0
+          ],
+          "text": "1.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1810.0,
+            782.0,
+            1836.0
+          ],
+          "text": ":Borderline",
+          "confidence": 0.7588
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1842.0,
+            742.0,
+            1870.0
+          ],
+          "text": "&gt; or",
+          "confidence": 0.7469
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            1872.0,
+            793.0,
+            1896.0
+          ],
+          "text": "1.0 Reactive",
+          "confidence": 0.9365
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1944.0,
+            558.0,
+            1972.0
+          ],
+          "text": "HIV-182 ANTIBODIES, SERUM (9916-SRL)",
+          "confidence": 0.8461
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1994.0,
+            460.0,
+            2020.0
+          ],
+          "text": "HIV 4TH GEN ASSAY (P24AG +",
+          "confidence": 0.7744
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            1994.0,
+            630.0,
+            2020.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1994.0,
+            718.0,
+            2020.0
+          ],
+          "text": "NON",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            2024.0,
+            238.0,
+            2050.0
+          ],
+          "text": "HIV AB)",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            2024.0,
+            767.0,
+            2050.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 0.8241
+        }
+      ]
+    }
+  ],
+  "full_text": "LAB TEST REPORT\nEpisode No\n13804200\nReport Date\nJ07:32.10.000\nOrdering Doctor\nDr.Subhaprakash Sanyal & Team\nEpisode Type\nIPD\nHHEMOGLOBIN, EDTA WHOLE BLOOD (3180-SRL)[3180][3180]\nGLYCOSYLATED\n6.6\nNon-diabetic\nHigh\nHEMOGLOBIN (HBAIC)\nAdult < 5.7\nPre-diabetes\n5.7-6.4\nDiabetes\ndiagnosis:\n&gt; or = 6.5\nTherapeutic\ngoals:\n<7.0\nAction\nsuggested\n&gt; 8.0\n(ADA\nGuideline\n2021)\nMEAN PLASMA GLUCOSE\n142.7\n116.0\nHigh\nmgldL\nHEPATITIS B CORE ANTIBODIES (TOTAL), SERUM (2452-SRL)\nHEPATITIS B CORE\nNON REACTIVE\nNON\nANTIBODIES (TOTAL)\nREACTIVE\nPATIENT VALUE\n0.150\n1.00 (Non\ns/co\nReactive)\n&gt; or = 1.00\n(Reactive)\nHEPATITIS B SURFACE ANTIGEN; QUANTITATIVE (CMIAJ(SRL- 7658)\nHEPATITIS B SURFACE\n0.39\n1.00 Non-\nCOI\nANTIGEN\nreactive\n&gt; or = 1.00\nReactive\nHEPATITIS C ANTIBODIES, SERUM (2446-SRL)\nHEPATITIS \u20ac ANTIBODIES\nNON REACTIVE\nNON\nREACTIVE\nPATIENT VALUE\n0.05\n< 0.9 Non-\nCOI\nreactive\n&gt; or\n0.9\nto\n1.0\n:Borderline\n&gt; or\n1.0 Reactive\nHIV-182 ANTIBODIES, SERUM (9916-SRL)\nHIV 4TH GEN ASSAY (P24AG +\nNON REACTIVE\nNON\nHIV AB)\nREACTIVE",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "J0",
+          "biomarker_normalized": "J0",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J07:32.10.000",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "HHEMOGLOBIN, EDTA WHOLE BLOOD (",
+          "biomarker_normalized": "HHEMOGLOBIN, EDTA WHOLE BLOOD (",
+          "value": "3180",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HHEMOGLOBIN, EDTA WHOLE BLOOD (3180-SRL)[3180][3180]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Adult <",
+          "biomarker_normalized": "Adult <",
+          "value": "5.7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Adult < 5.7",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "&gt; or =",
+          "biomarker_normalized": "&gt; or =",
+          "value": "6.5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "&gt; or = 6.5",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "&gt;",
+          "biomarker_normalized": "&gt;",
+          "value": "8.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "&gt; 8.0",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "HEPATITIS B CORE ANTIBODIES (TOTAL), SERUM (",
+          "biomarker_normalized": "HEPATITIS B CORE ANTIBODIES (TOTAL), SERUM (",
+          "value": "2452",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HEPATITIS B CORE ANTIBODIES (TOTAL), SERUM (2452-SRL)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "&gt; or =",
+          "biomarker_normalized": "&gt; or =",
+          "value": "1.00",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "&gt; or = 1.00",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HEPATITIS B SURFACE ANTIGEN; QUANTITATIVE (CMIAJ(SRL",
+          "biomarker_normalized": "HEPATITIS B SURFACE ANTIGEN; QUANTITATIVE (CMIAJ(SRL",
+          "value": "7658",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HEPATITIS B SURFACE ANTIGEN; QUANTITATIVE (CMIAJ(SRL- 7658)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HEPATITIS C ANTIBODIES, SERUM (",
+          "biomarker_normalized": "HEPATITIS C ANTIBODIES, SERUM (",
+          "value": "2446",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HEPATITIS C ANTIBODIES, SERUM (2446-SRL)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HIV",
+          "biomarker_normalized": "HIV",
+          "value": "182",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HIV-182 ANTIBODIES, SERUM (9916-SRL)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HIV",
+          "biomarker_normalized": "HIV",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HIV 4TH GEN ASSAY (P24AG +",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 80,
+    "ocr_avg_confidence": 0.8708,
+    "parsed_row_count": 11
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "document_id": "GUR-0425-PA-0056087_E-SIVASUM_250427_1015@E.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056087_E-SIVASUM_250427_1015@E.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Page\n13/15\nSRI RAMACHANDRA HOSPITAL\nSri Ramachandra Medical College & Research Institute\nINVESTIGATION REPORT\nKc ,520\nPatient\nWard\nE6\nBed: 6518\nMR SIVASANKARAN JAYAGOPAL\nReferring Doctor\nSURENDRAN P (G.SUR)\nPLOT NO 161, MADHURAM NAGAR, 2ND\nSTREET ,,IYYAPANTHANGAL,CHENNAI,TAMILNADU,IN\nDepartment\nDIA\nGENERAL SURGERY\nPatient ID\nReq No\n019324497\n04:20:00 Reported\n11.19.22\nDESCRIPTION\nMicrobiology Result\nNature of Specimen\nCULTURE-URINE\nMicroscopy\nFEW PUS CELLS, NO ORGANISM\nResult\nNO GROWTH IN CULTURE\nLaL\nTESSA ANTONY DR\nASSISTANT PROFESSOR\nAIl incestigations have their limitations which are imposed by the limits of sensitivity and specificity of individual assay procedures as well as the quality of the specimen receiced by laboratory. Isolated laboratory investigations necer\nconfirm the final diagnosis of the disease. They only help in arriving at\ndiagnosis\nconjunct\ntom\nwith clinical presentation and other related incestigations. The contents of this report may be used for statistical analysis and reseach\npurpose in this insititute_\nPARTIAL REPRODUCTION OF THIS REPORT IS NOT PERMITTED\nElectronically signed & released.No Signature required\nNo.1,Ramachandra Nagar,Porur,Chennai-600 116 Ph :044 45928500 Ext.227\n569\n18.57:00",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1374.0,
+            163.0,
+            1444.0,
+            201.0
+          ],
+          "text": "Page",
+          "confidence": 0.8424
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1492.0,
+            166.0,
+            1562.0,
+            194.0
+          ],
+          "text": "13/15",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            515.0,
+            217.0,
+            1139.0,
+            259.0
+          ],
+          "text": "SRI RAMACHANDRA HOSPITAL",
+          "confidence": 0.8137
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            261.0,
+            1234.0,
+            312.0
+          ],
+          "text": "Sri Ramachandra Medical College & Research Institute",
+          "confidence": 0.8121
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            314.0,
+            1028.0,
+            346.0
+          ],
+          "text": "INVESTIGATION REPORT",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1291.0,
+            329.0,
+            1361.0,
+            343.0
+          ],
+          "text": "Kc ,520",
+          "confidence": 0.4018
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            384.0,
+            222.0,
+            414.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            408.0,
+            1082.0,
+            438.0
+          ],
+          "text": "Ward",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            408.0,
+            1140.0,
+            434.0
+          ],
+          "text": "E6",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1283.0,
+            403.0,
+            1421.0,
+            439.0
+          ],
+          "text": "Bed: 6518",
+          "confidence": 0.9283
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            446.0,
+            564.0,
+            478.0
+          ],
+          "text": "MR SIVASANKARAN JAYAGOPAL",
+          "confidence": 0.6919
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            449.0,
+            1249.0,
+            487.0
+          ],
+          "text": "Referring Doctor",
+          "confidence": 0.9943
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1005.0,
+            497.0,
+            1334.0,
+            535.0
+          ],
+          "text": "SURENDRAN P (G.SUR)",
+          "confidence": 0.7882
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            519.0,
+            673.0,
+            557.0
+          ],
+          "text": "PLOT NO 161, MADHURAM NAGAR, 2ND",
+          "confidence": 0.9112
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            553.0,
+            851.0,
+            591.0
+          ],
+          "text": "STREET ,,IYYAPANTHANGAL,CHENNAI,TAMILNADU,IN",
+          "confidence": 0.6385
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            567.0,
+            1180.0,
+            599.0
+          ],
+          "text": "Department",
+          "confidence": 0.9026
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            588.0,
+            174.0,
+            618.0
+          ],
+          "text": "DIA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            613.0,
+            1282.0,
+            646.0
+          ],
+          "text": "GENERAL SURGERY",
+          "confidence": 0.8718
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            34.0,
+            716.0,
+            182.0,
+            746.0
+          ],
+          "text": "Patient ID",
+          "confidence": 0.4738
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            786.0,
+            142.0,
+            816.0
+          ],
+          "text": "Req No",
+          "confidence": 0.8779
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            782.0,
+            340.0,
+            808.0
+          ],
+          "text": "019324497",
+          "confidence": 0.7844
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            781.0,
+            1063.0,
+            820.0
+          ],
+          "text": "04:20:00 Reported",
+          "confidence": 0.6992
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            784.0,
+            1370.0,
+            810.0
+          ],
+          "text": "11.19.22",
+          "confidence": 0.862
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            880.0,
+            808.0,
+            906.0
+          ],
+          "text": "DESCRIPTION",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            936.0,
+            327.0,
+            975.0
+          ],
+          "text": "Microbiology Result",
+          "confidence": 0.7356
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            999.0,
+            325.0,
+            1035.0
+          ],
+          "text": "Nature of Specimen",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            362.0,
+            1000.0,
+            578.0,
+            1030.0
+          ],
+          "text": "CULTURE-URINE",
+          "confidence": 0.8926
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            1097.0,
+            205.0,
+            1137.0
+          ],
+          "text": "Microscopy",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            362.0,
+            1100.0,
+            776.0,
+            1132.0
+          ],
+          "text": "FEW PUS CELLS, NO ORGANISM",
+          "confidence": 0.6991
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1202.0,
+            138.0,
+            1230.0
+          ],
+          "text": "Result",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            364.0,
+            1201.0,
+            694.0,
+            1230.0
+          ],
+          "text": "NO GROWTH IN CULTURE",
+          "confidence": 0.9233
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            1926.0,
+            1500.0,
+            1989.0
+          ],
+          "text": "LaL",
+          "confidence": 0.1075
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            2030.0,
+            1346.0,
+            2058.0
+          ],
+          "text": "TESSA ANTONY DR",
+          "confidence": 0.8261
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            2076.0,
+            1404.0,
+            2104.0
+          ],
+          "text": "ASSISTANT PROFESSOR",
+          "confidence": 0.7403
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            21.0,
+            2154.0,
+            1537.0,
+            2173.0
+          ],
+          "text": "AIl incestigations have their limitations which are imposed by the limits of sensitivity and specificity of individual assay procedures as well as the quality of the specimen receiced by laboratory. Isolated laboratory investigations necer",
+          "confidence": 0.4633
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            19.0,
+            2174.0,
+            487.0,
+            2194.0
+          ],
+          "text": "confirm the final diagnosis of the disease. They only help in arriving at",
+          "confidence": 0.7413
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            499.0,
+            2175.0,
+            565.0,
+            2193.0
+          ],
+          "text": "diagnosis",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            2177.0,
+            645.0,
+            2193.0
+          ],
+          "text": "conjunct",
+          "confidence": 0.9943
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            2180.0,
+            676.0,
+            2188.0
+          ],
+          "text": "tom",
+          "confidence": 0.0407
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            2175.0,
+            1547.0,
+            2194.0
+          ],
+          "text": "with clinical presentation and other related incestigations. The contents of this report may be used for statistical analysis and reseach",
+          "confidence": 0.6203
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            19.0,
+            2195.0,
+            185.0,
+            2213.0
+          ],
+          "text": "purpose in this insititute_",
+          "confidence": 0.8587
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            547.0,
+            2213.0,
+            1091.0,
+            2231.0
+          ],
+          "text": "PARTIAL REPRODUCTION OF THIS REPORT IS NOT PERMITTED",
+          "confidence": 0.7493
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            653.0,
+            2234.0,
+            1022.0,
+            2254.0
+          ],
+          "text": "Electronically signed & released.No Signature required",
+          "confidence": 0.7705
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            392.0,
+            2252.0,
+            1068.0,
+            2282.0
+          ],
+          "text": "No.1,Ramachandra Nagar,Porur,Chennai-600 116 Ph :044 45928500 Ext.227",
+          "confidence": 0.3489
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            2254.0,
+            1116.0,
+            2278.0
+          ],
+          "text": "569",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1437.0,
+            2289.0,
+            1579.0,
+            2321.0
+          ],
+          "text": "18.57:00",
+          "confidence": 0.7233
+        }
+      ]
+    }
+  ],
+  "full_text": "Page\n13/15\nSRI RAMACHANDRA HOSPITAL\nSri Ramachandra Medical College & Research Institute\nINVESTIGATION REPORT\nKc ,520\nPatient\nWard\nE6\nBed: 6518\nMR SIVASANKARAN JAYAGOPAL\nReferring Doctor\nSURENDRAN P (G.SUR)\nPLOT NO 161, MADHURAM NAGAR, 2ND\nSTREET ,,IYYAPANTHANGAL,CHENNAI,TAMILNADU,IN\nDepartment\nDIA\nGENERAL SURGERY\nPatient ID\nReq No\n019324497\n04:20:00 Reported\n11.19.22\nDESCRIPTION\nMicrobiology Result\nNature of Specimen\nCULTURE-URINE\nMicroscopy\nFEW PUS CELLS, NO ORGANISM\nResult\nNO GROWTH IN CULTURE\nLaL\nTESSA ANTONY DR\nASSISTANT PROFESSOR\nAIl incestigations have their limitations which are imposed by the limits of sensitivity and specificity of individual assay procedures as well as the quality of the specimen receiced by laboratory. Isolated laboratory investigations necer\nconfirm the final diagnosis of the disease. They only help in arriving at\ndiagnosis\nconjunct\ntom\nwith clinical presentation and other related incestigations. The contents of this report may be used for statistical analysis and reseach\npurpose in this insititute_\nPARTIAL REPRODUCTION OF THIS REPORT IS NOT PERMITTED\nElectronically signed & released.No Signature required\nNo.1,Ramachandra Nagar,Porur,Chennai-600 116 Ph :044 45928500 Ext.227\n569\n18.57:00",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Kc ,",
+          "biomarker_normalized": "Kc ,",
+          "value": "520",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Kc ,520",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Bed",
+          "biomarker_normalized": "Bed",
+          "value": "6518",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Bed: 6518",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "PLOT NO",
+          "biomarker_normalized": "PLOT NO",
+          "value": "161",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PLOT NO 161, MADHURAM NAGAR, 2ND",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "No.",
+          "biomarker_normalized": "No.",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No.1,Ramachandra Nagar,Porur,Chennai-600 116 Ph :044 45928500 Ext.227",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 46,
+    "ocr_avg_confidence": 0.7931,
+    "parsed_row_count": 4
+  }
+}

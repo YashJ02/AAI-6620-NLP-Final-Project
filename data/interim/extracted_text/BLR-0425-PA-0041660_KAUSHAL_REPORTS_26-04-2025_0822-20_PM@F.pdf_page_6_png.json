@@ -1,0 +1,897 @@
+{
+  "document_id": "BLR-0425-PA-0041660_KAUSHAL_REPORTS_26-04-2025_0822-20_PM@F.pdf_page_6",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0041660_KAUSHAL_REPORTS_26-04-2025_0822-20_PM@F.pdf_page_6.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mr. KAUSHAL H VACHHANI\nReference: Dr.\nRai\nOrder No:\nDNO\nMATRIX WEST\nWINGS 406, KAMBALA CROSS ROAD,\nSample Collected At:\nRegistered On:\n]\nALAKE,\nAJ HOSPITAL & RESEARCH\n12.51.48 PM\nMANGALORE ALAKE,DAKSHINA\nCENTRE MANGALORE.\nCollected Qn:\nKANNADA\n575004\n[01.31.32 PM\nTel No\nReported Qn:\nPIN No: 575001\n[03.13.21 PM\nUHID\nMR651016\n5C\nIest Name\nBlood\nESR\nResult\nUnit\nBiological Reference\n(Infrared detection based on Modified\n11\nmmlhr\n1-14\nWestergren's)\nInterpretation:\nPrinciple: Rutomated ESR measures the erythrocytes kinetics aggregation in\nRed cell aggregation by kinetic capillary photometry\nagglomerin presence_\nNocer Capillary photometry technology overcomes the variables and limitations of sedimentation\nInterpretation:\nmethod_\n1\nIt indicates presence and\nintensity of an inflammatory process, never\nmore significant than a single abnormal test;\ndiagnostic of a specific disease. Changes are\n2\nIt is a prognostic test and used to monitor the course or\nendocarditis,\nacute\nrheumatic\nresponse to treatment of diseases like tuberculosis, bacterial\nrheumatica.\nfever;  rheumatoid   arthritis,\nSLE, Hodgkins disease, temporal   arteritis, polymyalgia\n3. It is also increased in pregnancy, multiple myeloma, menstruation,\nand hypothyroidism\ndeighlighted Results to be considered as Critical Report for immediate intervention\nUnderlined Highlighted values indicate abnormal range / oufoofi range ivaeuete\nby Doctors/Nurses.\nNABH\nA.J:\nHospital\n\u20ac Research\nCentre\nMayur\nNom",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            65.0,
+            577.0,
+            107.0
+          ],
+          "text": "Mr. KAUSHAL H VACHHANI",
+          "confidence": 0.7944
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            81.0,
+            933.0,
+            117.0
+          ],
+          "text": "Reference: Dr.",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1020.0,
+            90.0,
+            1070.0,
+            120.0
+          ],
+          "text": "Rai",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            96.0,
+            1342.0,
+            126.0
+          ],
+          "text": "Order No:",
+          "confidence": 0.9424
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            114.0,
+            280.0,
+            144.0
+          ],
+          "text": "DNO",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            116.0,
+            667.0,
+            155.0
+          ],
+          "text": "MATRIX WEST",
+          "confidence": 0.9313
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            142.0,
+            691.0,
+            187.0
+          ],
+          "text": "WINGS 406, KAMBALA CROSS ROAD,",
+          "confidence": 0.8196
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            739.0,
+            151.0,
+            1007.0,
+            193.0
+          ],
+          "text": "Sample Collected At:",
+          "confidence": 0.7681
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            143.0,
+            1441.0,
+            179.0
+          ],
+          "text": "Registered On:",
+          "confidence": 0.7755
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            113.0,
+            176.0,
+            264.0
+          ],
+          "text": "]",
+          "confidence": 0.1065
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            177.0,
+            298.0,
+            209.0
+          ],
+          "text": "ALAKE,",
+          "confidence": 0.5971
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            185.0,
+            1115.0,
+            225.0
+          ],
+          "text": "AJ HOSPITAL & RESEARCH",
+          "confidence": 0.9906
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1392.0,
+            177.0,
+            1559.0,
+            213.0
+          ],
+          "text": "12.51.48 PM",
+          "confidence": 0.5141
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            205.0,
+            621.0,
+            248.0
+          ],
+          "text": "MANGALORE ALAKE,DAKSHINA",
+          "confidence": 0.6701
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            739.0,
+            217.0,
+            1045.0,
+            256.0
+          ],
+          "text": "CENTRE MANGALORE.",
+          "confidence": 0.708
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1244.0,
+            212.0,
+            1423.0,
+            249.0
+          ],
+          "text": "Collected Qn:",
+          "confidence": 0.7064
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            237.0,
+            339.0,
+            274.0
+          ],
+          "text": "KANNADA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            248.0,
+            840.0,
+            280.0
+          ],
+          "text": "575004",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            246.0,
+            1557.0,
+            284.0
+          ],
+          "text": "[01.31.32 PM",
+          "confidence": 0.8499
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            278.0,
+            292.0,
+            310.0
+          ],
+          "text": "Tel No",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1244.0,
+            284.0,
+            1421.0,
+            322.0
+          ],
+          "text": "Reported Qn:",
+          "confidence": 0.6565
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            321.0,
+            403.0,
+            357.0
+          ],
+          "text": "PIN No: 575001",
+          "confidence": 0.7159
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1389.0,
+            319.0,
+            1557.0,
+            357.0
+          ],
+          "text": "[03.13.21 PM",
+          "confidence": 0.7016
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            366.0,
+            276.0,
+            396.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            292.0,
+            368.0,
+            434.0,
+            400.0
+          ],
+          "text": "MR651016",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            370.0,
+            490.0,
+            402.0
+          ],
+          "text": "5C",
+          "confidence": 0.9185
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            85.0,
+            465.0,
+            232.0,
+            505.0
+          ],
+          "text": "Iest Name",
+          "confidence": 0.6523
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            506.0,
+            162.0,
+            534.0
+          ],
+          "text": "Blood",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            508.0,
+            234.0,
+            538.0
+          ],
+          "text": "ESR",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            751.0,
+            484.0,
+            843.0,
+            516.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            490.0,
+            1072.0,
+            522.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            492.0,
+            1493.0,
+            535.0
+          ],
+          "text": "Biological Reference",
+          "confidence": 0.9868
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            542.0,
+            408.0,
+            572.0
+          ],
+          "text": "(Infrared detection based on Modified",
+          "confidence": 0.8621
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            748.0,
+            524.0,
+            780.0,
+            550.0
+          ],
+          "text": "11",
+          "confidence": 0.9727
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            532.0,
+            1094.0,
+            558.0
+          ],
+          "text": "mmlhr",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1212.0,
+            534.0,
+            1274.0,
+            566.0
+          ],
+          "text": "1-14",
+          "confidence": 0.9471
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            405.0,
+            549.0,
+            534.0,
+            579.0
+          ],
+          "text": "Westergren's)",
+          "confidence": 0.4985
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            585.0,
+            279.0,
+            629.0
+          ],
+          "text": "Interpretation:",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            619.0,
+            1021.0,
+            683.0
+          ],
+          "text": "Principle: Rutomated ESR measures the erythrocytes kinetics aggregation in",
+          "confidence": 0.9012
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            658.0,
+            844.0,
+            712.0
+          ],
+          "text": "Red cell aggregation by kinetic capillary photometry",
+          "confidence": 0.8361
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1019.0,
+            649.0,
+            1289.0,
+            685.0
+          ],
+          "text": "agglomerin presence_",
+          "confidence": 0.6605
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            684.0,
+            1261.0,
+            747.0
+          ],
+          "text": "Nocer Capillary photometry technology overcomes the variables and limitations of sedimentation",
+          "confidence": 0.5606
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            718.0,
+            259.0,
+            758.0
+          ],
+          "text": "Interpretation:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1260.0,
+            720.0,
+            1358.0,
+            748.0
+          ],
+          "text": "method_",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            85.0,
+            755.0,
+            103.0,
+            779.0
+          ],
+          "text": "1",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            751.0,
+            433.0,
+            791.0
+          ],
+          "text": "It indicates presence and",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            430.0,
+            753.0,
+            980.0,
+            805.0
+          ],
+          "text": "intensity of an inflammatory process, never",
+          "confidence": 0.8846
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            787.0,
+            621.0,
+            827.0
+          ],
+          "text": "more significant than a single abnormal test;",
+          "confidence": 0.4977
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            977.0,
+            771.0,
+            1562.0,
+            823.0
+          ],
+          "text": "diagnostic of a specific disease. Changes are",
+          "confidence": 0.7444
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            817.0,
+            103.0,
+            845.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            817.0,
+            801.0,
+            861.0
+          ],
+          "text": "It is a prognostic test and used to monitor the course or",
+          "confidence": 0.7286
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            846.0,
+            243.0,
+            883.0
+          ],
+          "text": "endocarditis,",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            854.0,
+            326.0,
+            882.0
+          ],
+          "text": "acute",
+          "confidence": 0.7116
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            337.0,
+            853.0,
+            464.0,
+            885.0
+          ],
+          "text": "rheumatic",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            799.0,
+            833.0,
+            1560.0,
+            882.0
+          ],
+          "text": "response to treatment of diseases like tuberculosis, bacterial",
+          "confidence": 0.8403
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            878.0,
+            227.0,
+            915.0
+          ],
+          "text": "rheumatica.",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            471.0,
+            856.0,
+            824.0,
+            899.0
+          ],
+          "text": "fever;  rheumatoid   arthritis,",
+          "confidence": 0.6231
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            832.0,
+            864.0,
+            1562.0,
+            920.0
+          ],
+          "text": "SLE, Hodgkins disease, temporal   arteritis, polymyalgia",
+          "confidence": 0.3675
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            910.0,
+            923.0,
+            966.0
+          ],
+          "text": "3. It is also increased in pregnancy, multiple myeloma, menstruation,",
+          "confidence": 0.7401
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            933.0,
+            1173.0,
+            971.0
+          ],
+          "text": "and hypothyroidism",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            1925.0,
+            1084.0,
+            1982.0
+          ],
+          "text": "deighlighted Results to be considered as Critical Report for immediate intervention",
+          "confidence": 0.8043
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            1953.0,
+            980.0,
+            2009.0
+          ],
+          "text": "Underlined Highlighted values indicate abnormal range / oufoofi range ivaeuete",
+          "confidence": 0.2707
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            1954.0,
+            1318.0,
+            1987.0
+          ],
+          "text": "by Doctors/Nurses.",
+          "confidence": 0.9129
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            2134.0,
+            204.0,
+            2158.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9843
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            2134.0,
+            1420.0,
+            2182.0
+          ],
+          "text": "A.J:",
+          "confidence": 0.6139
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            2182.0,
+            1416.0,
+            2210.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            2210.0,
+            1414.0,
+            2238.0
+          ],
+          "text": "\u20ac Research",
+          "confidence": 0.519
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            2242.0,
+            1416.0,
+            2268.0
+          ],
+          "text": "Centre",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            931.0985581532958,
+            83.13854642788694,
+            1022.9014418467042,
+            127.86145357211306
+          ],
+          "text": "Mayur",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            162.14250707428747,
+            2163.473645385384,
+            187.85749292571253,
+            2177.526354614616
+          ],
+          "text": "Nom",
+          "confidence": 0.047
+        }
+      ]
+    }
+  ],
+  "full_text": "Mr. KAUSHAL H VACHHANI\nReference: Dr.\nRai\nOrder No:\nDNO\nMATRIX WEST\nWINGS 406, KAMBALA CROSS ROAD,\nSample Collected At:\nRegistered On:\n]\nALAKE,\nAJ HOSPITAL & RESEARCH\n12.51.48 PM\nMANGALORE ALAKE,DAKSHINA\nCENTRE MANGALORE.\nCollected Qn:\nKANNADA\n575004\n[01.31.32 PM\nTel No\nReported Qn:\nPIN No: 575001\n[03.13.21 PM\nUHID\nMR651016\n5C\nIest Name\nBlood\nESR\nResult\nUnit\nBiological Reference\n(Infrared detection based on Modified\n11\nmmlhr\n1-14\nWestergren's)\nInterpretation:\nPrinciple: Rutomated ESR measures the erythrocytes kinetics aggregation in\nRed cell aggregation by kinetic capillary photometry\nagglomerin presence_\nNocer Capillary photometry technology overcomes the variables and limitations of sedimentation\nInterpretation:\nmethod_\n1\nIt indicates presence and\nintensity of an inflammatory process, never\nmore significant than a single abnormal test;\ndiagnostic of a specific disease. Changes are\n2\nIt is a prognostic test and used to monitor the course or\nendocarditis,\nacute\nrheumatic\nresponse to treatment of diseases like tuberculosis, bacterial\nrheumatica.\nfever;  rheumatoid   arthritis,\nSLE, Hodgkins disease, temporal   arteritis, polymyalgia\n3. It is also increased in pregnancy, multiple myeloma, menstruation,\nand hypothyroidism\ndeighlighted Results to be considered as Critical Report for immediate intervention\nUnderlined Highlighted values indicate abnormal range / oufoofi range ivaeuete\nby Doctors/Nurses.\nNABH\nA.J:\nHospital\n\u20ac Research\nCentre\nMayur\nNom",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "WINGS",
+          "biomarker_normalized": "WINGS",
+          "value": "406",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "WINGS 406, KAMBALA CROSS ROAD,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "PIN No",
+          "biomarker_normalized": "PIN No",
+          "value": "575001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PIN No: 575001",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MR6",
+          "biomarker_normalized": "MR6",
+          "value": "51016",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MR651016",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 70,
+    "ocr_avg_confidence": 0.8182,
+    "parsed_row_count": 3
+  }
+}

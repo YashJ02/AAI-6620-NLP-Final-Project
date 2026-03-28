@@ -1,0 +1,1794 @@
+{
+  "document_id": "MUM-0425-PA-0004291_LAB REPORT_26-04-2025_0523-21_PM@G.pdf_page_1",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\MUM-0425-PA-0004291_LAB REPORT_26-04-2025_0523-21_PM@G.pdf_page_1.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "manipalhospitals\nLIFE'S ON\nWADHAVKAR\nNo\n\"\nReporting Date\n26 Apr 2025 16.19\nReferred By\nPRIYANKA\nReceiving Date\n26 Apr 2025 15.15\nBIOCHEMISTRY\nTEST\nRESULT\nUNIT\nBIOLOGICAL REFERENCE INTERVAL\nRENAL\nPANEL\nSpecimen:\nSerum/\nPlasma\nBUN\n(Urease/GLDH )\n11.60\nmg/dl\n00-23 . 00 ]\nSERUM\nCREATININE\nmod.Jaffe)\n0 .64\nmg/dl\n[0.50-0 .90 ]\n*eGFR\nCalculated)\n94 . 6\nmllmin/\n'1.73sq.m\n[>60 .0 ]\nSERUM\nSODIUM\nIndirect\nISE )\n139.5\nmmol/1\n[136.0-145 .0]\nSERUM\nPOTASSIUM\nIndirect\nISE )\n4 . 06\nmmol/1\n[3.50-5.10 ]\nSERUM\nCHLORIDE\nIndirect\nISE\n102.5\nmmol/L\n[98 . 0-107 . 0 ]\nSERUM\nBICARBONATE\nEnzymatic\nPEP-MD )\n23\nmmol/L\n[21.0-31.0 ]\nUREA\n24 . 8\n[17.0-43.0 ]\nDisclaimer\neGFR\nwhich\nis\nprimarily based\non\nSerum\nCreatinine\nis\nderivation\nof\nCKD-\nEPI\n2009\nequation\nnormalized\ntol.73\nsq\nm\nBSA\nand\nis\nnot\napplicable\nto\nindividuals\nbelow\n18\nyears _\neGFR\ntends\nto\nbe\nless\naccurate\nwhen\nSerum\nCreatinine\nestimation\nis\nindeterminate\ne.g.\npatients\nat\nextremes\nof\nmuscle\nmass ,\non\nunusual\ndiets\netc _\nand\nsamples\nwith\nsevere\nHemolysis\nIcterus\nLipemia.\nManipal Hospital,Baner;Pune\n(A Unit of Manipal Hospitals Pvt: Ltd:)\nSurvey No. 111/11/1, Mhalunge Road, Baner; Pune\n411045\nP 020 6813 8888\nT1800 210 9888 http:wwwmanipalhospitals.com\nManipal Hospitals Private Limited\nCIN:U85110KA2O03PTC033055\nRegd. Off The Annexe, #98/2, Rustom Bagh, Off; HAL Airport Road; Bengaluru 560 017 , Karnataka\nP +91 80 4936 0300\nhttp:WWWmanipalhospitals.com\n[8 .\nmg/dl",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            78.0,
+            668.0,
+            179.0
+          ],
+          "text": "manipalhospitals",
+          "confidence": 0.7873
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            479.0,
+            176.0,
+            623.0,
+            213.0
+          ],
+          "text": "LIFE'S ON",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            328.0,
+            564.0,
+            352.0
+          ],
+          "text": "WADHAVKAR",
+          "confidence": 0.9678
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1034.0,
+            344.0,
+            1070.0,
+            370.0
+          ],
+          "text": "No",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1129.0,
+            275.0,
+            1415.0,
+            437.0
+          ],
+          "text": "\"",
+          "confidence": 0.3237
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            978.0,
+            438.0,
+            1165.0,
+            474.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.877
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            438.0,
+            1416.0,
+            468.0
+          ],
+          "text": "26 Apr 2025 16.19",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            63.0,
+            469.0,
+            213.0,
+            505.0
+          ],
+          "text": "Referred By",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            492.0,
+            470.0,
+            632.0,
+            496.0
+          ],
+          "text": "PRIYANKA",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            508.0,
+            242.0,
+            540.0
+          ],
+          "text": "Receiving Date",
+          "confidence": 0.6562
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            380.0,
+            506.0,
+            588.0,
+            536.0
+          ],
+          "text": "26 Apr 2025 15.15",
+          "confidence": 0.4192
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            560.0,
+            918.0,
+            588.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.8966
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            608.0,
+            200.0,
+            636.0
+          ],
+          "text": "TEST",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            608.0,
+            730.0,
+            636.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.4564
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            876.0,
+            608.0,
+            944.0,
+            634.0
+          ],
+          "text": "UNIT",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            607.0,
+            1564.0,
+            636.0
+          ],
+          "text": "BIOLOGICAL REFERENCE INTERVAL",
+          "confidence": 0.9956
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            748.0,
+            162.0,
+            774.0
+          ],
+          "text": "RENAL",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            748.0,
+            260.0,
+            774.0
+          ],
+          "text": "PANEL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            780.0,
+            224.0,
+            810.0
+          ],
+          "text": "Specimen:",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            780.0,
+            338.0,
+            806.0
+          ],
+          "text": "Serum/",
+          "confidence": 0.5733
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            780.0,
+            454.0,
+            806.0
+          ],
+          "text": "Plasma",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            846.0,
+            130.0,
+            872.0
+          ],
+          "text": "BUN",
+          "confidence": 0.6021
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            843.0,
+            354.0,
+            874.0
+          ],
+          "text": "(Urease/GLDH )",
+          "confidence": 0.7559
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            846.0,
+            830.0,
+            872.0
+          ],
+          "text": "11.60",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            844.0,
+            1044.0,
+            876.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9002
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            846.0,
+            1418.0,
+            876.0
+          ],
+          "text": "00-23 . 00 ]",
+          "confidence": 0.8985
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            878.0,
+            162.0,
+            904.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            878.0,
+            342.0,
+            904.0
+          ],
+          "text": "CREATININE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            367.0,
+            873.0,
+            537.0,
+            909.0
+          ],
+          "text": "mod.Jaffe)",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            878.0,
+            830.0,
+            904.0
+          ],
+          "text": "0 .64",
+          "confidence": 0.6268
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            876.0,
+            1044.0,
+            908.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9002
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1220.0,
+            876.0,
+            1400.0,
+            906.0
+          ],
+          "text": "[0.50-0 .90 ]",
+          "confidence": 0.7215
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            912.0,
+            162.0,
+            936.0
+          ],
+          "text": "*eGFR",
+          "confidence": 0.966
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            910.0,
+            356.0,
+            940.0
+          ],
+          "text": "Calculated)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            910.0,
+            830.0,
+            936.0
+          ],
+          "text": "94 . 6",
+          "confidence": 0.8544
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            910.0,
+            1076.0,
+            936.0
+          ],
+          "text": "mllmin/",
+          "confidence": 0.4873
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1069.0,
+            905.0,
+            1209.0,
+            945.0
+          ],
+          "text": "'1.73sq.m",
+          "confidence": 0.1811
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            908.0,
+            1400.0,
+            940.0
+          ],
+          "text": "[>60 .0 ]",
+          "confidence": 0.6245
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            944.0,
+            162.0,
+            970.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            944.0,
+            276.0,
+            970.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            942.0,
+            438.0,
+            970.0
+          ],
+          "text": "Indirect",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            944.0,
+            518.0,
+            972.0
+          ],
+          "text": "ISE )",
+          "confidence": 0.7198
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            944.0,
+            830.0,
+            970.0
+          ],
+          "text": "139.5",
+          "confidence": 0.972
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            942.0,
+            1058.0,
+            970.0
+          ],
+          "text": "mmol/1",
+          "confidence": 0.9877
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            939.0,
+            1433.0,
+            975.0
+          ],
+          "text": "[136.0-145 .0]",
+          "confidence": 0.8115
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            976.0,
+            162.0,
+            1002.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            976.0,
+            326.0,
+            1002.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            974.0,
+            488.0,
+            1002.0
+          ],
+          "text": "Indirect",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            976.0,
+            566.0,
+            1004.0
+          ],
+          "text": "ISE )",
+          "confidence": 0.9763
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            974.0,
+            832.0,
+            1004.0
+          ],
+          "text": "4 . 06",
+          "confidence": 0.7577
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            974.0,
+            1058.0,
+            1002.0
+          ],
+          "text": "mmol/1",
+          "confidence": 0.9877
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            971.0,
+            1401.0,
+            1007.0
+          ],
+          "text": "[3.50-5.10 ]",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1010.0,
+            162.0,
+            1036.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1008.0,
+            308.0,
+            1034.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            1008.0,
+            472.0,
+            1034.0
+          ],
+          "text": "Indirect",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            1008.0,
+            540.0,
+            1038.0
+          ],
+          "text": "ISE",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            1008.0,
+            830.0,
+            1034.0
+          ],
+          "text": "102.5",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            1008.0,
+            1060.0,
+            1034.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.8331
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1217.0,
+            1002.0,
+            1417.0,
+            1040.0
+          ],
+          "text": "[98 . 0-107 . 0 ]",
+          "confidence": 0.9525
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1042.0,
+            162.0,
+            1068.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1042.0,
+            358.0,
+            1068.0
+          ],
+          "text": "BICARBONATE",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            368.0,
+            1042.0,
+            520.0,
+            1072.0
+          ],
+          "text": "Enzymatic",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            531.0,
+            1040.0,
+            648.0,
+            1070.0
+          ],
+          "text": "PEP-MD )",
+          "confidence": 0.963
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1042.0,
+            802.0,
+            1068.0
+          ],
+          "text": "23",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            1040.0,
+            1060.0,
+            1068.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.9529
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            1038.0,
+            1400.0,
+            1070.0
+          ],
+          "text": "[21.0-31.0 ]",
+          "confidence": 0.8984
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1074.0,
+            144.0,
+            1100.0
+          ],
+          "text": "UREA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1074.0,
+            830.0,
+            1100.0
+          ],
+          "text": "24 . 8",
+          "confidence": 0.6441
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            1070.0,
+            1400.0,
+            1102.0
+          ],
+          "text": "[17.0-43.0 ]",
+          "confidence": 0.9849
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1106.0,
+            242.0,
+            1134.0
+          ],
+          "text": "Disclaimer",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1140.0,
+            260.0,
+            1166.0
+          ],
+          "text": "eGFR",
+          "confidence": 0.812
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            1140.0,
+            356.0,
+            1166.0
+          ],
+          "text": "which",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            370.0,
+            1140.0,
+            406.0,
+            1166.0
+          ],
+          "text": "is",
+          "confidence": 0.985
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            415.0,
+            1133.0,
+            671.0,
+            1173.0
+          ],
+          "text": "primarily based",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            1142.0,
+            716.0,
+            1166.0
+          ],
+          "text": "on",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            1140.0,
+            816.0,
+            1166.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1138.0,
+            994.0,
+            1166.0
+          ],
+          "text": "Creatinine",
+          "confidence": 0.7965
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1140.0,
+            1042.0,
+            1166.0
+          ],
+          "text": "is",
+          "confidence": 0.9907
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            1138.0,
+            1256.0,
+            1166.0
+          ],
+          "text": "derivation",
+          "confidence": 0.982
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            1140.0,
+            1304.0,
+            1166.0
+          ],
+          "text": "of",
+          "confidence": 0.93
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            1140.0,
+            1384.0,
+            1166.0
+          ],
+          "text": "CKD-",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            1172.0,
+            94.0,
+            1198.0
+          ],
+          "text": "EPI",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            1172.0,
+            176.0,
+            1198.0
+          ],
+          "text": "2009",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1200.0,
+            211.0,
+            1236.0
+          ],
+          "text": "equation",
+          "confidence": 0.8648
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            1202.0,
+            390.0,
+            1233.0
+          ],
+          "text": "normalized",
+          "confidence": 0.9663
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            1204.0,
+            504.0,
+            1232.0
+          ],
+          "text": "tol.73",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            516.0,
+            1208.0,
+            556.0,
+            1236.0
+          ],
+          "text": "sq",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            563.0,
+            1209.0,
+            585.0,
+            1229.0
+          ],
+          "text": "m",
+          "confidence": 0.9928
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            1206.0,
+            650.0,
+            1232.0
+          ],
+          "text": "BSA",
+          "confidence": 0.7767
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1204.0,
+            716.0,
+            1230.0
+          ],
+          "text": "and",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            1204.0,
+            764.0,
+            1230.0
+          ],
+          "text": "is",
+          "confidence": 0.9641
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            1206.0,
+            830.0,
+            1230.0
+          ],
+          "text": "not",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            842.0,
+            1199.0,
+            1013.0,
+            1240.0
+          ],
+          "text": "applicable",
+          "confidence": 0.87
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1022.0,
+            1206.0,
+            1060.0,
+            1230.0
+          ],
+          "text": "to",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1199.0,
+            1257.0,
+            1237.0
+          ],
+          "text": "individuals",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            1204.0,
+            1354.0,
+            1232.0
+          ],
+          "text": "below",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            1204.0,
+            1402.0,
+            1230.0
+          ],
+          "text": "18",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1414.0,
+            1208.0,
+            1506.0,
+            1234.0
+          ],
+          "text": "years _",
+          "confidence": 0.9218
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1238.0,
+            146.0,
+            1264.0
+          ],
+          "text": "eGFR",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1238.0,
+            242.0,
+            1264.0
+          ],
+          "text": "tends",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            1238.0,
+            292.0,
+            1264.0
+          ],
+          "text": "to",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            1238.0,
+            340.0,
+            1264.0
+          ],
+          "text": "be",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            1238.0,
+            422.0,
+            1264.0
+          ],
+          "text": "less",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            434.0,
+            1238.0,
+            570.0,
+            1264.0
+          ],
+          "text": "accurate",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            1238.0,
+            650.0,
+            1264.0
+          ],
+          "text": "when",
+          "confidence": 0.6226
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1238.0,
+            750.0,
+            1264.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9554
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1236.0,
+            928.0,
+            1264.0
+          ],
+          "text": "Creatinine",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1236.0,
+            1108.0,
+            1264.0
+          ],
+          "text": "estimation",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1238.0,
+            1158.0,
+            1264.0
+          ],
+          "text": "is",
+          "confidence": 0.9703
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1236.0,
+            1386.0,
+            1264.0
+          ],
+          "text": "indeterminate",
+          "confidence": 0.7154
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            1242.0,
+            1464.0,
+            1268.0
+          ],
+          "text": "e.g.",
+          "confidence": 0.7163
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1264.0,
+            213.0,
+            1303.0
+          ],
+          "text": "patients",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            1270.0,
+            258.0,
+            1296.0
+          ],
+          "text": "at",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            1270.0,
+            406.0,
+            1296.0
+          ],
+          "text": "extremes",
+          "confidence": 0.9737
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            1270.0,
+            454.0,
+            1296.0
+          ],
+          "text": "of",
+          "confidence": 0.9821
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            1269.0,
+            570.0,
+            1295.0
+          ],
+          "text": "muscle",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            579.0,
+            1270.0,
+            664.0,
+            1298.0
+          ],
+          "text": "mass ,",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            1272.0,
+            716.0,
+            1296.0
+          ],
+          "text": "on",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            1270.0,
+            846.0,
+            1296.0
+          ],
+          "text": "unusual",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            858.0,
+            1268.0,
+            946.0,
+            1298.0
+          ],
+          "text": "diets",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            1270.0,
+            1016.0,
+            1296.0
+          ],
+          "text": "etc _",
+          "confidence": 0.5223
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1268.0,
+            1092.0,
+            1296.0
+          ],
+          "text": "and",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            1267.0,
+            1223.0,
+            1303.0
+          ],
+          "text": "samples",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            1234.0,
+            1268.0,
+            1304.0,
+            1296.0
+          ],
+          "text": "with",
+          "confidence": 0.9855
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            1315.0,
+            1271.0,
+            1417.0,
+            1295.0
+          ],
+          "text": "severe",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            1430.0,
+            1270.0,
+            1580.0,
+            1300.0
+          ],
+          "text": "Hemolysis",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            1300.0,
+            194.0,
+            1330.0
+          ],
+          "text": "Icterus",
+          "confidence": 0.9672
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            1302.0,
+            364.0,
+            1334.0
+          ],
+          "text": "Lipemia.",
+          "confidence": 0.9177
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            1869.0,
+            451.0,
+            1909.0
+          ],
+          "text": "Manipal Hospital,Baner;Pune",
+          "confidence": 0.7124
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            49.0,
+            1901.0,
+            493.0,
+            1938.0
+          ],
+          "text": "(A Unit of Manipal Hospitals Pvt: Ltd:)",
+          "confidence": 0.701
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            1932.0,
+            649.0,
+            1969.0
+          ],
+          "text": "Survey No. 111/11/1, Mhalunge Road, Baner; Pune",
+          "confidence": 0.7568
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            1934.0,
+            757.0,
+            1964.0
+          ],
+          "text": "411045",
+          "confidence": 0.7443
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            1966.0,
+            256.0,
+            1994.0
+          ],
+          "text": "P 020 6813 8888",
+          "confidence": 0.6083
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            268.0,
+            1964.0,
+            838.0,
+            1996.0
+          ],
+          "text": "T1800 210 9888 http:wwwmanipalhospitals.com",
+          "confidence": 0.61
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            51.0,
+            2014.0,
+            511.0,
+            2059.0
+          ],
+          "text": "Manipal Hospitals Private Limited",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            2052.0,
+            442.0,
+            2084.0
+          ],
+          "text": "CIN:U85110KA2O03PTC033055",
+          "confidence": 0.6253
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            51.0,
+            2082.0,
+            1213.0,
+            2121.0
+          ],
+          "text": "Regd. Off The Annexe, #98/2, Rustom Bagh, Off; HAL Airport Road; Bengaluru 560 017 , Karnataka",
+          "confidence": 0.4131
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            2116.0,
+            300.0,
+            2146.0
+          ],
+          "text": "P +91 80 4936 0300",
+          "confidence": 0.7008
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            657.0,
+            2119.0,
+            986.0,
+            2147.0
+          ],
+          "text": "http:WWWmanipalhospitals.com",
+          "confidence": 0.7422
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            1218.543071206464,
+            842.3748959988189,
+            1270.456928793536,
+            874.6251040011811
+          ],
+          "text": "[8 .",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            953.4789396203098,
+            1067.7559882057226,
+            1042.5210603796902,
+            1106.2440117942774
+          ],
+          "text": "mg/dl",
+          "confidence": 0.8321
+        }
+      ]
+    }
+  ],
+  "full_text": "manipalhospitals\nLIFE'S ON\nWADHAVKAR\nNo\n\"\nReporting Date\n26 Apr 2025 16.19\nReferred By\nPRIYANKA\nReceiving Date\n26 Apr 2025 15.15\nBIOCHEMISTRY\nTEST\nRESULT\nUNIT\nBIOLOGICAL REFERENCE INTERVAL\nRENAL\nPANEL\nSpecimen:\nSerum/\nPlasma\nBUN\n(Urease/GLDH )\n11.60\nmg/dl\n00-23 . 00 ]\nSERUM\nCREATININE\nmod.Jaffe)\n0 .64\nmg/dl\n[0.50-0 .90 ]\n*eGFR\nCalculated)\n94 . 6\nmllmin/\n'1.73sq.m\n[>60 .0 ]\nSERUM\nSODIUM\nIndirect\nISE )\n139.5\nmmol/1\n[136.0-145 .0]\nSERUM\nPOTASSIUM\nIndirect\nISE )\n4 . 06\nmmol/1\n[3.50-5.10 ]\nSERUM\nCHLORIDE\nIndirect\nISE\n102.5\nmmol/L\n[98 . 0-107 . 0 ]\nSERUM\nBICARBONATE\nEnzymatic\nPEP-MD )\n23\nmmol/L\n[21.0-31.0 ]\nUREA\n24 . 8\n[17.0-43.0 ]\nDisclaimer\neGFR\nwhich\nis\nprimarily based\non\nSerum\nCreatinine\nis\nderivation\nof\nCKD-\nEPI\n2009\nequation\nnormalized\ntol.73\nsq\nm\nBSA\nand\nis\nnot\napplicable\nto\nindividuals\nbelow\n18\nyears _\neGFR\ntends\nto\nbe\nless\naccurate\nwhen\nSerum\nCreatinine\nestimation\nis\nindeterminate\ne.g.\npatients\nat\nextremes\nof\nmuscle\nmass ,\non\nunusual\ndiets\netc _\nand\nsamples\nwith\nsevere\nHemolysis\nIcterus\nLipemia.\nManipal Hospital,Baner;Pune\n(A Unit of Manipal Hospitals Pvt: Ltd:)\nSurvey No. 111/11/1, Mhalunge Road, Baner; Pune\n411045\nP 020 6813 8888\nT1800 210 9888 http:wwwmanipalhospitals.com\nManipal Hospitals Private Limited\nCIN:U85110KA2O03PTC033055\nRegd. Off The Annexe, #98/2, Rustom Bagh, Off; HAL Airport Road; Bengaluru 560 017 , Karnataka\nP +91 80 4936 0300\nhttp:WWWmanipalhospitals.com\n[8 .\nmg/dl",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "mmol/",
+          "biomarker_normalized": "mmol/",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mmol/1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "tol.",
+          "biomarker_normalized": "tol.",
+          "value": "73",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "tol.73",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Survey No.",
+          "biomarker_normalized": "Survey No.",
+          "value": "111",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Survey No. 111/11/1, Mhalunge Road, Baner; Pune",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "P",
+          "biomarker_normalized": "P",
+          "value": "020",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "P 020 6813 8888",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "T1",
+          "biomarker_normalized": "T1",
+          "value": "800",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "T1800 210 9888 http:wwwmanipalhospitals.com",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN:U8",
+          "biomarker_normalized": "CIN:U8",
+          "value": "5110",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN:U85110KA2O03PTC033055",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Regd. Off The Annexe, #",
+          "biomarker_normalized": "Regd. Off The Annexe, #",
+          "value": "98",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd. Off The Annexe, #98/2, Rustom Bagh, Off; HAL Airport Road; Bengaluru 560 017 , Karnataka",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "P +",
+          "biomarker_normalized": "P +",
+          "value": "91",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "P +91 80 4936 0300",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 141,
+    "ocr_avg_confidence": 0.8969,
+    "parsed_row_count": 8
+  }
+}

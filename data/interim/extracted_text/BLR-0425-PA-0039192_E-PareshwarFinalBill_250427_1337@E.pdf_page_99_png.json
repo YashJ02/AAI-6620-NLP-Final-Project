@@ -1,0 +1,681 @@
+{
+  "document_id": "BLR-0425-PA-0039192_E-PareshwarFinalBill_250427_1337@E.pdf_page_99",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0039192_E-PareshwarFinalBill_250427_1337@E.pdf_page_99.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1\nI80\n9001-2008\nDiagnostic Point Pathology Labs\nequipped Wth COMPUtERISED AUIO CHEMISTRY, BLOOD GAS & HAEMAT@Losy ANALYSERS\n102, 107, 108, 109, 1st Floor; Agarwal Tower; Pkt.\n& P Mkt Dilshad Ga\nSARVODAYA HOSPITAL\nDr: (Capt) Atul Kapila (Retd: ) MD Path\nKJ-7, Kavi\nGhaziabad (U,P)\nNo: MCI 3456\nSri No.\n1019\nRECEIPT ID104194\nIVERMA\nJ0223/391503\nNoSP-25\nPatient Id\n16:13.21\nTest)\nHAEMATOLOGY\nPERIPHERAL SMEAR\nRBC'S:-\nMild Anisocytosis Mild hypochromia; few micro and macrocytes\nno nucleated RBCs No target cells seen:\nWB.C'S:- .No immature cells seen:\nPLATELETS:- platelets are adequate.\n****\nEnd Of Report\n*#**\nGX\n1p\nit is computer gerierated Report Signatures Not Required\nN7e\nNo\nFACILITIES\nFOR HORMONES ASSAYS, FNAC, HISTOPATHOLOGY, BONE MARROW ASPiRATION & BIOPSY WITH MICRO PHOTOGRAPHS.\nNOTE\nABOVE MENTIONED FINDINGS ARE 4 PROFESSIONAL OPiNION AND NOT 4 FINAL DIAGNOSIS, ALL LABORATORY TESTS & OTHER\nINVESTIGATION RESULTS ARE TO BE CORELATED CLINIC-PATHOLOGICALLY, DiSCREPANCIES, IF ANY, NECESSITATE REVIEWIREPEAT OF THE TESTS.\nReported by\nROH\nNOT VAILD FOR MEDIc0 LEGALPURPOSE\nclimical coreLaonaS MANDATorY\n101,\nRejn\nNagar,\n!ABAD",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            37.0,
+            21.0,
+            55.0,
+            81.0
+          ],
+          "text": "1",
+          "confidence": 0.2984
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            32.0,
+            1274.0,
+            64.0
+          ],
+          "text": "I80",
+          "confidence": 0.3607
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            32.0,
+            1550.0,
+            64.0
+          ],
+          "text": "9001-2008",
+          "confidence": 0.868
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            265.0,
+            35.0,
+            1558.0,
+            163.0
+          ],
+          "text": "Diagnostic Point Pathology Labs",
+          "confidence": 0.7039
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            271.0,
+            151.0,
+            1549.0,
+            187.0
+          ],
+          "text": "equipped Wth COMPUtERISED AUIO CHEMISTRY, BLOOD GAS & HAEMAT@Losy ANALYSERS",
+          "confidence": 0.2036
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            185.0,
+            815.0,
+            221.0
+          ],
+          "text": "102, 107, 108, 109, 1st Floor; Agarwal Tower; Pkt.",
+          "confidence": 0.5896
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            840.0,
+            187.0,
+            1070.0,
+            218.0
+          ],
+          "text": "& P Mkt Dilshad Ga",
+          "confidence": 0.7338
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            231.0,
+            521.0,
+            273.0
+          ],
+          "text": "SARVODAYA HOSPITAL",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            597.0,
+            233.0,
+            1013.0,
+            275.0
+          ],
+          "text": "Dr: (Capt) Atul Kapila (Retd: ) MD Path",
+          "confidence": 0.3874
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            276.0,
+            208.0,
+            306.0
+          ],
+          "text": "KJ-7, Kavi",
+          "confidence": 0.8699
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            274.0,
+            276.0,
+            438.0,
+            306.0
+          ],
+          "text": "Ghaziabad (U,P)",
+          "confidence": 0.5159
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            272.0,
+            904.0,
+            300.0
+          ],
+          "text": "No: MCI 3456",
+          "confidence": 0.69
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            410.0,
+            842.0,
+            442.0
+          ],
+          "text": "Sri No.",
+          "confidence": 0.6286
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            856.0,
+            412.0,
+            924.0,
+            444.0
+          ],
+          "text": "1019",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            415.0,
+            1409.0,
+            452.0
+          ],
+          "text": "RECEIPT ID104194",
+          "confidence": 0.9291
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            381.0,
+            486.0,
+            489.0,
+            518.0
+          ],
+          "text": "IVERMA",
+          "confidence": 0.6936
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            490.0,
+            1099.0,
+            528.0
+          ],
+          "text": "J0223/391503",
+          "confidence": 0.5728
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            498.0,
+            1372.0,
+            530.0
+          ],
+          "text": "NoSP-25",
+          "confidence": 0.9377
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            524.0,
+            256.0,
+            556.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            536.0,
+            1244.0,
+            568.0
+          ],
+          "text": "16:13.21",
+          "confidence": 0.9069
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            582.0,
+            222.0,
+            612.0
+          ],
+          "text": "Test)",
+          "confidence": 0.8173
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            703.0,
+            686.0,
+            1016.0,
+            736.0
+          ],
+          "text": "HAEMATOLOGY",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            783.0,
+            470.0,
+            819.0
+          ],
+          "text": "PERIPHERAL SMEAR",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            828.0,
+            310.0,
+            860.0
+          ],
+          "text": "RBC'S:-",
+          "confidence": 0.8443
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            826.0,
+            1108.0,
+            874.0
+          ],
+          "text": "Mild Anisocytosis Mild hypochromia; few micro and macrocytes",
+          "confidence": 0.6947
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            259.0,
+            861.0,
+            763.0,
+            899.0
+          ],
+          "text": "no nucleated RBCs No target cells seen:",
+          "confidence": 0.7702
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            921.0,
+            639.0,
+            957.0
+          ],
+          "text": "WB.C'S:- .No immature cells seen:",
+          "confidence": 0.6105
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            197.0,
+            985.0,
+            669.0,
+            1026.0
+          ],
+          "text": "PLATELETS:- platelets are adequate.",
+          "confidence": 0.938
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            699.0,
+            1173.0,
+            745.0,
+            1187.0
+          ],
+          "text": "****",
+          "confidence": 0.7647
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            749.0,
+            1169.0,
+            947.0,
+            1210.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            1175.0,
+            993.0,
+            1189.0
+          ],
+          "text": "*#**",
+          "confidence": 0.6219
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            1914.0,
+            1136.0,
+            1946.0
+          ],
+          "text": "GX",
+          "confidence": 0.4223
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            1997.0,
+            159.0,
+            2065.0
+          ],
+          "text": "1p",
+          "confidence": 0.3713
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            2080.0,
+            614.0,
+            2113.0
+          ],
+          "text": "it is computer gerierated Report Signatures Not Required",
+          "confidence": 0.7375
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1279.0,
+            2084.0,
+            1348.0,
+            2112.0
+          ],
+          "text": "N7e",
+          "confidence": 0.0788
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1374.0,
+            2072.0,
+            1432.0,
+            2098.0
+          ],
+          "text": "No",
+          "confidence": 0.3551
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            2132.0,
+            208.0,
+            2162.0
+          ],
+          "text": "FACILITIES",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            2134.0,
+            1534.0,
+            2166.0
+          ],
+          "text": "FOR HORMONES ASSAYS, FNAC, HISTOPATHOLOGY, BONE MARROW ASPiRATION & BIOPSY WITH MICRO PHOTOGRAPHS.",
+          "confidence": 0.6213
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            2166.0,
+            156.0,
+            2196.0
+          ],
+          "text": "NOTE",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            2165.0,
+            1536.0,
+            2198.0
+          ],
+          "text": "ABOVE MENTIONED FINDINGS ARE 4 PROFESSIONAL OPiNION AND NOT 4 FINAL DIAGNOSIS, ALL LABORATORY TESTS & OTHER",
+          "confidence": 0.6844
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            2194.0,
+            1537.0,
+            2231.0
+          ],
+          "text": "INVESTIGATION RESULTS ARE TO BE CORELATED CLINIC-PATHOLOGICALLY, DiSCREPANCIES, IF ANY, NECESSITATE REVIEWIREPEAT OF THE TESTS.",
+          "confidence": 0.6783
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            40.0,
+            2222.0,
+            207.0,
+            2263.0
+          ],
+          "text": "Reported by",
+          "confidence": 0.634
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            2226.0,
+            304.0,
+            2258.0
+          ],
+          "text": "ROH",
+          "confidence": 0.8915
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            2238.0,
+            1166.0,
+            2270.0
+          ],
+          "text": "NOT VAILD FOR MEDIc0 LEGALPURPOSE",
+          "confidence": 0.522
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            2270.0,
+            1046.0,
+            2298.0
+          ],
+          "text": "climical coreLaonaS MANDATorY",
+          "confidence": 0.1223
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            203.17006282748784,
+            184.15395010584845,
+            262.8299371725122,
+            219.84604989415155
+          ],
+          "text": "101,",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            699.2372373344142,
+            268.1625379937149,
+            767.7627626655858,
+            309.8374620062851
+          ],
+          "text": "Rejn",
+          "confidence": 0.736
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            201.14983823262014,
+            272.14592836148023,
+            279.85016176737986,
+            315.85407163851977
+          ],
+          "text": "Nagar,",
+          "confidence": 0.6132
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1122.01985123916,
+            1870.587566900513,
+            1231.98014876084,
+            1937.412433099487
+          ],
+          "text": "!ABAD",
+          "confidence": 0.2167
+        }
+      ]
+    }
+  ],
+  "full_text": "1\nI80\n9001-2008\nDiagnostic Point Pathology Labs\nequipped Wth COMPUtERISED AUIO CHEMISTRY, BLOOD GAS & HAEMAT@Losy ANALYSERS\n102, 107, 108, 109, 1st Floor; Agarwal Tower; Pkt.\n& P Mkt Dilshad Ga\nSARVODAYA HOSPITAL\nDr: (Capt) Atul Kapila (Retd: ) MD Path\nKJ-7, Kavi\nGhaziabad (U,P)\nNo: MCI 3456\nSri No.\n1019\nRECEIPT ID104194\nIVERMA\nJ0223/391503\nNoSP-25\nPatient Id\n16:13.21\nTest)\nHAEMATOLOGY\nPERIPHERAL SMEAR\nRBC'S:-\nMild Anisocytosis Mild hypochromia; few micro and macrocytes\nno nucleated RBCs No target cells seen:\nWB.C'S:- .No immature cells seen:\nPLATELETS:- platelets are adequate.\n****\nEnd Of Report\n*#**\nGX\n1p\nit is computer gerierated Report Signatures Not Required\nN7e\nNo\nFACILITIES\nFOR HORMONES ASSAYS, FNAC, HISTOPATHOLOGY, BONE MARROW ASPiRATION & BIOPSY WITH MICRO PHOTOGRAPHS.\nNOTE\nABOVE MENTIONED FINDINGS ARE 4 PROFESSIONAL OPiNION AND NOT 4 FINAL DIAGNOSIS, ALL LABORATORY TESTS & OTHER\nINVESTIGATION RESULTS ARE TO BE CORELATED CLINIC-PATHOLOGICALLY, DiSCREPANCIES, IF ANY, NECESSITATE REVIEWIREPEAT OF THE TESTS.\nReported by\nROH\nNOT VAILD FOR MEDIc0 LEGALPURPOSE\nclimical coreLaonaS MANDATorY\n101,\nRejn\nNagar,\n!ABAD",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "I8",
+          "biomarker_normalized": "I8",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "I80",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "KJ",
+          "biomarker_normalized": "KJ",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "KJ-7, Kavi",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "No: MCI",
+          "biomarker_normalized": "No: MCI",
+          "value": "3456",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No: MCI 3456",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "RECEIPT ID1",
+          "biomarker_normalized": "RECEIPT ID1",
+          "value": "04194",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "RECEIPT ID104194",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "J0",
+          "biomarker_normalized": "J0",
+          "value": "223",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J0223/391503",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "NoSP",
+          "biomarker_normalized": "NoSP",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NoSP-25",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ABOVE MENTIONED FINDINGS ARE",
+          "biomarker_normalized": "ABOVE MENTIONED FINDINGS ARE",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ABOVE MENTIONED FINDINGS ARE 4 PROFESSIONAL OPiNION AND NOT 4 FINAL DIAGNOSIS, ALL LABORATORY TESTS & OTHER",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 49,
+    "ocr_avg_confidence": 0.6855,
+    "parsed_row_count": 7
+  }
+}

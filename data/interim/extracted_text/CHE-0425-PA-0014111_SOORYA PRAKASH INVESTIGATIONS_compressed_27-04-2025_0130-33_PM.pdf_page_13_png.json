@@ -1,0 +1,684 @@
+{
+  "document_id": "CHE-0425-PA-0014111_SOORYA PRAKASH INVESTIGATIONS_compressed_27-04-2025_0130-33_PM.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014111_SOORYA PRAKASH INVESTIGATIONS_compressed_27-04-2025_0130-33_PM.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Neuberg\nDIAGNostics\nIndia\nUAE\nSouth Africa\nUSA\nTEST\nREPORT\nFinal Laboratory Report\nPID\nDr. Dhenesh .R, M.B.B.S,, DA , DNB ,\nRef: ID\nIP\nCorporate\nDelta Hospitals\nUHID\nCol Dt. Time\n23-Apr-2025 23.48\nRecv Dt: Time\n23-Apr-2025 23.48\nSample Type\nPlasma Citrate\nReg Dt. Time\n23-Apr-2025 23.48\nReport Released\n24-Apr-2025 02.08\nReport Printed\n24-Apr-2025 16.27\nTEST\nRESULTS\nUNIT\nBIOLOGICAL REF RANGE REMARKS\nHAEMATOLOGY INVESTIGATIONS\nACTIVA TED PARTIAL THROMBOPLASTIN TIME\nControl\nAPTT\n29.0\nseconds\nMethodology: Optical Clot detection\nNote:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal)\nL,p @\nGopinath R\nKUMBHAT M\nMBBS,MD (Pathology) FGIL\nVerified by\nQodas rotui_Goeongivg GLqvL Faium_60ie\n044-4141 2222\nNeuberg Ehrlich Laboratory Private Limited,\ninfoaneubergdlagnostics com\nNo 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai\n600096\nwwWneubergdlagnosticscom\nFor",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            43.0,
+            496.0,
+            151.0
+          ],
+          "text": "Neuberg",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            132.0,
+            452.0,
+            164.0
+          ],
+          "text": "DIAGNostics",
+          "confidence": 0.65
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            169.0,
+            179.0,
+            199.0
+          ],
+          "text": "India",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            170.0,
+            250.0,
+            200.0
+          ],
+          "text": "UAE",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            168.0,
+            406.0,
+            198.0
+          ],
+          "text": "South Africa",
+          "confidence": 0.9042
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            428.0,
+            172.0,
+            476.0,
+            196.0
+          ],
+          "text": "USA",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            165.0,
+            795.0,
+            205.0
+          ],
+          "text": "TEST",
+          "confidence": 0.8809
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            165.0,
+            1005.0,
+            205.0
+          ],
+          "text": "REPORT",
+          "confidence": 0.6602
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            761.0,
+            251.0,
+            1089.0,
+            292.0
+          ],
+          "text": "Final Laboratory Report",
+          "confidence": 0.7941
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            252.0,
+            1318.0,
+            280.0
+          ],
+          "text": "PID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            293.0,
+            339.0,
+            726.0,
+            375.0
+          ],
+          "text": "Dr. Dhenesh .R, M.B.B.S,, DA , DNB ,",
+          "confidence": 0.4202
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            344.0,
+            1356.0,
+            372.0
+          ],
+          "text": "Ref: ID",
+          "confidence": 0.8794
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            344.0,
+            1412.0,
+            370.0
+          ],
+          "text": "IP",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            387.0,
+            262.0,
+            419.0
+          ],
+          "text": "Corporate",
+          "confidence": 0.917
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            388.0,
+            470.0,
+            420.0
+          ],
+          "text": "Delta Hospitals",
+          "confidence": 0.8509
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            388.0,
+            1248.0,
+            416.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            430.0,
+            290.0,
+            456.0
+          ],
+          "text": "Col Dt. Time",
+          "confidence": 0.7852
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            377.0,
+            429.0,
+            592.0,
+            461.0
+          ],
+          "text": "23-Apr-2025 23.48",
+          "confidence": 0.7809
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            430.0,
+            776.0,
+            458.0
+          ],
+          "text": "Recv Dt: Time",
+          "confidence": 0.4656
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            430.0,
+            1098.0,
+            460.0
+          ],
+          "text": "23-Apr-2025 23.48",
+          "confidence": 0.6187
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            428.0,
+            1273.0,
+            465.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            430.0,
+            1474.0,
+            460.0
+          ],
+          "text": "Plasma Citrate",
+          "confidence": 0.9451
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            467.0,
+            299.0,
+            504.0
+          ],
+          "text": "Reg Dt. Time",
+          "confidence": 0.5942
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            379.0,
+            467.0,
+            594.0,
+            499.0
+          ],
+          "text": "23-Apr-2025 23.48",
+          "confidence": 0.5867
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            470.0,
+            806.0,
+            498.0
+          ],
+          "text": "Report Released",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            472.0,
+            1100.0,
+            502.0
+          ],
+          "text": "24-Apr-2025 02.08",
+          "confidence": 0.9686
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            472.0,
+            1286.0,
+            504.0
+          ],
+          "text": "Report Printed",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            470.0,
+            1517.0,
+            506.0
+          ],
+          "text": "24-Apr-2025 16.27",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            540.0,
+            214.0,
+            570.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            615.0,
+            539.0,
+            737.0,
+            569.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            542.0,
+            894.0,
+            568.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1041.0,
+            539.0,
+            1488.0,
+            570.0
+          ],
+          "text": "BIOLOGICAL REF RANGE REMARKS",
+          "confidence": 0.738
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            584.0,
+            1116.0,
+            616.0
+          ],
+          "text": "HAEMATOLOGY INVESTIGATIONS",
+          "confidence": 0.9297
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            629.0,
+            1232.0,
+            662.0
+          ],
+          "text": "ACTIVA TED PARTIAL THROMBOPLASTIN TIME",
+          "confidence": 0.9357
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            694.0,
+            240.0,
+            722.0
+          ],
+          "text": "Control",
+          "confidence": 0.9644
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            694.0,
+            354.0,
+            722.0
+          ],
+          "text": "APTT",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            696.0,
+            694.0,
+            722.0
+          ],
+          "text": "29.0",
+          "confidence": 0.723
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            832.0,
+            696.0,
+            932.0,
+            722.0
+          ],
+          "text": "seconds",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            744.0,
+            569.0,
+            784.0
+          ],
+          "text": "Methodology: Optical Clot detection",
+          "confidence": 0.9523
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1914.0,
+            650.0,
+            1945.0
+          ],
+          "text": "Note:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal)",
+          "confidence": 0.7568
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1960.0,
+            266.0,
+            2012.0
+          ],
+          "text": "L,p @",
+          "confidence": 0.2432
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            2016.0,
+            278.0,
+            2048.0
+          ],
+          "text": "Gopinath R",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            2016.0,
+            1300.0,
+            2044.0
+          ],
+          "text": "KUMBHAT M",
+          "confidence": 0.9607
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            988.0,
+            2040.0,
+            1224.0,
+            2068.0
+          ],
+          "text": "MBBS,MD (Pathology) FGIL",
+          "confidence": 0.8516
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            2075.0,
+            264.0,
+            2108.0
+          ],
+          "text": "Verified by",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            2135.0,
+            1169.0,
+            2173.0
+          ],
+          "text": "Qodas rotui_Goeongivg GLqvL Faium_60ie",
+          "confidence": 0.0005
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            2192.0,
+            1402.0,
+            2220.0
+          ],
+          "text": "044-4141 2222",
+          "confidence": 0.6963
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            2210.0,
+            711.0,
+            2247.0
+          ],
+          "text": "Neuberg Ehrlich Laboratory Private Limited,",
+          "confidence": 0.7471
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            2228.0,
+            1548.0,
+            2254.0
+          ],
+          "text": "infoaneubergdlagnostics com",
+          "confidence": 0.6673
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            2248.0,
+            792.0,
+            2278.0
+          ],
+          "text": "No 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai",
+          "confidence": 0.7573
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            2250.0,
+            898.0,
+            2276.0
+          ],
+          "text": "600096",
+          "confidence": 0.9807
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1257.0,
+            2261.0,
+            1543.0,
+            2285.0
+          ],
+          "text": "wwWneubergdlagnosticscom",
+          "confidence": 0.7906
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            238.22335913138298,
+            691.1747742652154,
+            287.77664086861705,
+            724.8252257347846
+          ],
+          "text": "For",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "Neuberg\nDIAGNostics\nIndia\nUAE\nSouth Africa\nUSA\nTEST\nREPORT\nFinal Laboratory Report\nPID\nDr. Dhenesh .R, M.B.B.S,, DA , DNB ,\nRef: ID\nIP\nCorporate\nDelta Hospitals\nUHID\nCol Dt. Time\n23-Apr-2025 23.48\nRecv Dt: Time\n23-Apr-2025 23.48\nSample Type\nPlasma Citrate\nReg Dt. Time\n23-Apr-2025 23.48\nReport Released\n24-Apr-2025 02.08\nReport Printed\n24-Apr-2025 16.27\nTEST\nRESULTS\nUNIT\nBIOLOGICAL REF RANGE REMARKS\nHAEMATOLOGY INVESTIGATIONS\nACTIVA TED PARTIAL THROMBOPLASTIN TIME\nControl\nAPTT\n29.0\nseconds\nMethodology: Optical Clot detection\nNote:(LL-VeryLow,L-Low,H-High,HH-VeryHigh,A-Abnormal)\nL,p @\nGopinath R\nKUMBHAT M\nMBBS,MD (Pathology) FGIL\nVerified by\nQodas rotui_Goeongivg GLqvL Faium_60ie\n044-4141 2222\nNeuberg Ehrlich Laboratory Private Limited,\ninfoaneubergdlagnostics com\nNo 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai\n600096\nwwWneubergdlagnosticscom\nFor",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Qodas rotui_Goeongivg GLqvL Faium_",
+          "biomarker_normalized": "Qodas rotui_Goeongivg GLqvL Faium_",
+          "value": "60",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Qodas rotui_Goeongivg GLqvL Faium_60ie",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "No",
+          "biomarker_normalized": "No",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No 7, Rajiv Gandhi Salai; Industrial Estate, Perungudi; Chennai",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.8372,
+    "parsed_row_count": 2
+  }
+}

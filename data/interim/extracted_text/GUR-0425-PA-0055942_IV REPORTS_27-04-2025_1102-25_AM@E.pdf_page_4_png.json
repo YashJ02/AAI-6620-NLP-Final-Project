@@ -1,0 +1,657 @@
+{
+  "document_id": "GUR-0425-PA-0055942_IV REPORTS_27-04-2025_1102-25_AM@E.pdf_page_4",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055942_IV REPORTS_27-04-2025_1102-25_AM@E.pdf_page_4.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PARAMEDICAL CENTRE\n(COMPUTERISED PATHOLOGICAL LABORATORY)\n471, School Road, Kolkata- 51 (Near Uttarayan School), 0\n2514-9592 (Lab.)\nSarat Bose Road Kolkata- 81\n2514-3858, Mob.\nPatient\nPatient]\nAPR /989\nRefering By Dr.\nRakhi Sanyal (Dutta Sarmal\nDEPARTMENT OF SEROLOGY\nTEST NAME\nRESULT\nUNIT\nNORMAL RANGE\nC-REACTIVE PROTIEN (CRP)\n20.90\nmg/L\n0 - 6.0 mg/L\nSpecimen\nSerum\nMethod\nTurbidimetry\nNote\nCRP is an acute\nphase protein in normal serum\nwhich increases significantly after most forms of tissue injuries\nbacterial and virus infections , inflammation and malignant neoplasia\nDuring tissue necrosis and inflammation resulting\nfrom microbial infections, the CRP concentration can rise up to 30Omg/L in 12-24hours\nBlood drawn at outside_\nNB:-\nAll reference ranges are\nprovided along with thel\nTe\neorAeport\nZhecked By\nSul\nLab IOutside\nConsultant Biochemist\nPathologist in Charge\nConsultant Microbiologist\nDr: Bilas Kumar Sarkar\nDr: Subrata Pal\nDr: Arpita Neogi\nMD (Biochemistry)\nConsultant Pathologist\nMD (Microbiology)\nMD (Cal)",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            0.0,
+            1402.0,
+            74.0
+          ],
+          "text": "PARAMEDICAL CENTRE",
+          "confidence": 0.6169
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            456.0,
+            70.0,
+            1405.0,
+            115.0
+          ],
+          "text": "(COMPUTERISED PATHOLOGICAL LABORATORY)",
+          "confidence": 0.7497
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            403.0,
+            123.0,
+            1195.0,
+            164.0
+          ],
+          "text": "471, School Road, Kolkata- 51 (Near Uttarayan School), 0",
+          "confidence": 0.7811
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            125.0,
+            1455.0,
+            163.0
+          ],
+          "text": "2514-9592 (Lab.)",
+          "confidence": 0.5684
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            393.0,
+            215.0,
+            799.0,
+            251.0
+          ],
+          "text": "Sarat Bose Road Kolkata- 81",
+          "confidence": 0.8251
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            857.0,
+            213.0,
+            1087.0,
+            249.0
+          ],
+          "text": "2514-3858, Mob.",
+          "confidence": 0.8892
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            28.0,
+            308.0,
+            124.0,
+            340.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9342
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            28.0,
+            350.0,
+            122.0,
+            380.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.7429
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            346.0,
+            360.0,
+            378.0
+          ],
+          "text": "APR /989",
+          "confidence": 0.8901
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            26.0,
+            383.0,
+            227.0,
+            423.0
+          ],
+          "text": "Refering By Dr.",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            235.0,
+            383.0,
+            589.0,
+            421.0
+          ],
+          "text": "Rakhi Sanyal (Dutta Sarmal",
+          "confidence": 0.7395
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            520.0,
+            441.0,
+            1019.0,
+            483.0
+          ],
+          "text": "DEPARTMENT OF SEROLOGY",
+          "confidence": 0.7629
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            484.0,
+            226.0,
+            514.0
+          ],
+          "text": "TEST NAME",
+          "confidence": 0.6364
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            484.0,
+            758.0,
+            514.0
+          ],
+          "text": "RESULT",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            902.0,
+            482.0,
+            978.0,
+            510.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1062.0,
+            478.0,
+            1303.0,
+            510.0
+          ],
+          "text": "NORMAL RANGE",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            514.0,
+            437.0,
+            552.0
+          ],
+          "text": "C-REACTIVE PROTIEN (CRP)",
+          "confidence": 0.5755
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            512.0,
+            718.0,
+            542.0
+          ],
+          "text": "20.90",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            511.0,
+            975.0,
+            547.0
+          ],
+          "text": "mg/L",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1079.0,
+            509.0,
+            1235.0,
+            545.0
+          ],
+          "text": "0 - 6.0 mg/L",
+          "confidence": 0.8411
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            548.0,
+            152.0,
+            574.0
+          ],
+          "text": "Specimen",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            546.0,
+            234.0,
+            572.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            574.0,
+            110.0,
+            598.0
+          ],
+          "text": "Method",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            572.0,
+            216.0,
+            598.0
+          ],
+          "text": "Turbidimetry",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            644.0,
+            112.0,
+            670.0
+          ],
+          "text": "Note",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            644.0,
+            298.0,
+            670.0
+          ],
+          "text": "CRP is an acute",
+          "confidence": 0.8942
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            639.0,
+            622.0,
+            670.0
+          ],
+          "text": "phase protein in normal serum",
+          "confidence": 0.9207
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            636.0,
+            632.0,
+            1260.0,
+            665.0
+          ],
+          "text": "which increases significantly after most forms of tissue injuries",
+          "confidence": 0.9105
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            674.0,
+            736.0,
+            704.0
+          ],
+          "text": "bacterial and virus infections , inflammation and malignant neoplasia",
+          "confidence": 0.8286
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            751.0,
+            670.0,
+            1248.0,
+            702.0
+          ],
+          "text": "During tissue necrosis and inflammation resulting",
+          "confidence": 0.9632
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            57.0,
+            703.0,
+            919.0,
+            739.0
+          ],
+          "text": "from microbial infections, the CRP concentration can rise up to 30Omg/L in 12-24hours",
+          "confidence": 0.6614
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            60.0,
+            746.0,
+            290.0,
+            772.0
+          ],
+          "text": "Blood drawn at outside_",
+          "confidence": 0.8114
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            900.0,
+            104.0,
+            930.0
+          ],
+          "text": "NB:-",
+          "confidence": 0.5496
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            899.0,
+            427.0,
+            935.0
+          ],
+          "text": "All reference ranges are",
+          "confidence": 0.7587
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            925.0,
+            417.0,
+            968.0
+          ],
+          "text": "provided along with thel",
+          "confidence": 0.8402
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            954.0,
+            654.0,
+            978.0
+          ],
+          "text": "Te",
+          "confidence": 0.955
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            948.0,
+            835.0,
+            984.0
+          ],
+          "text": "eorAeport",
+          "confidence": 0.1118
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            1991.0,
+            273.0,
+            2029.0
+          ],
+          "text": "Zhecked By",
+          "confidence": 0.9417
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            961.0,
+            1999.0,
+            1047.0,
+            2067.0
+          ],
+          "text": "Sul",
+          "confidence": 0.4383
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            59.0,
+            2061.0,
+            225.0,
+            2097.0
+          ],
+          "text": "Lab IOutside",
+          "confidence": 0.824
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            2061.0,
+            705.0,
+            2094.0
+          ],
+          "text": "Consultant Biochemist",
+          "confidence": 0.9932
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            843.0,
+            2059.0,
+            1113.0,
+            2098.0
+          ],
+          "text": "Pathologist in Charge",
+          "confidence": 0.7899
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            2059.0,
+            1522.0,
+            2096.0
+          ],
+          "text": "Consultant Microbiologist",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            397.0,
+            2093.0,
+            733.0,
+            2129.0
+          ],
+          "text": "Dr: Bilas Kumar Sarkar",
+          "confidence": 0.9568
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            868.0,
+            2093.0,
+            1090.0,
+            2126.0
+          ],
+          "text": "Dr: Subrata Pal",
+          "confidence": 0.9777
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1245.0,
+            2092.0,
+            1482.0,
+            2130.0
+          ],
+          "text": "Dr: Arpita Neogi",
+          "confidence": 0.7283
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            449.0,
+            2127.0,
+            683.0,
+            2163.0
+          ],
+          "text": "MD (Biochemistry)",
+          "confidence": 0.9404
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            836.0,
+            2124.0,
+            1121.0,
+            2163.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.9727
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            2123.0,
+            1479.0,
+            2163.0
+          ],
+          "text": "MD (Microbiology)",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            2158.0,
+            1036.0,
+            2188.0
+          ],
+          "text": "MD (Cal)",
+          "confidence": 0.6625
+        }
+      ]
+    }
+  ],
+  "full_text": "PARAMEDICAL CENTRE\n(COMPUTERISED PATHOLOGICAL LABORATORY)\n471, School Road, Kolkata- 51 (Near Uttarayan School), 0\n2514-9592 (Lab.)\nSarat Bose Road Kolkata- 81\n2514-3858, Mob.\nPatient\nPatient]\nAPR /989\nRefering By Dr.\nRakhi Sanyal (Dutta Sarmal\nDEPARTMENT OF SEROLOGY\nTEST NAME\nRESULT\nUNIT\nNORMAL RANGE\nC-REACTIVE PROTIEN (CRP)\n20.90\nmg/L\n0 - 6.0 mg/L\nSpecimen\nSerum\nMethod\nTurbidimetry\nNote\nCRP is an acute\nphase protein in normal serum\nwhich increases significantly after most forms of tissue injuries\nbacterial and virus infections , inflammation and malignant neoplasia\nDuring tissue necrosis and inflammation resulting\nfrom microbial infections, the CRP concentration can rise up to 30Omg/L in 12-24hours\nBlood drawn at outside_\nNB:-\nAll reference ranges are\nprovided along with thel\nTe\neorAeport\nZhecked By\nSul\nLab IOutside\nConsultant Biochemist\nPathologist in Charge\nConsultant Microbiologist\nDr: Bilas Kumar Sarkar\nDr: Subrata Pal\nDr: Arpita Neogi\nMD (Biochemistry)\nConsultant Pathologist\nMD (Microbiology)\nMD (Cal)",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Sarat Bose Road Kolkata",
+          "biomarker_normalized": "Sarat Bose Road Kolkata",
+          "value": "81",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sarat Bose Road Kolkata- 81",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "APR /",
+          "biomarker_normalized": "APR /",
+          "value": "989",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "APR /989",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "from microbial infections, the CRP concentration can rise up to",
+          "biomarker_normalized": "from microbial infections, the CRP concentration can rise up to",
+          "value": "30",
+          "unit": "",
+          "reference_range": "12-24",
+          "source_line": "from microbial infections, the CRP concentration can rise up to 30Omg/L in 12-24hours",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 50,
+    "ocr_avg_confidence": 0.8388,
+    "parsed_row_count": 3
+  }
+}

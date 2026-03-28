@@ -1,0 +1,861 @@
+{
+  "document_id": "GUR-0425-PA-0055418_Q-Princeipd_250428_0930@F.pdf_page_21",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055418_Q-Princeipd_250428_0930@F.pdf_page_21.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Supervision Lab\nOur Vision, Attention On the Quality\nName\nPrince\nPatient ID\nDr; Ravinder\nDot (Salmonella Typhi) (IgG,lgM\nIESI\nRESULT\nSALMONELLA TYPHI DOT\nIgM\nNEGATIVE\nSALMONELLA TYPHI DOT - IgG\nPOSITIVE\nInterpretation\nmedicaltesl consisting of a dot ELISA kit that detects IgMand IgG antbodiessg;iniechergund\nTyphidot is a\ntest becomes\npositive within 2-3 days Cf infection &nd_\nmembrane protein (OMP) 0f (he Salmonella_typhi:\nThe\nof\nspecific IgM and IgG antibodies to a\nseparately identifies IgM and IgG antibodies\nThe test is based on the presence\ninfection wherezs Ig\u20ac\nspeaiice50Kc OMP antigeg which is impregnated on nitrocellulose istrivai I9M NOoareceint\nand result is cnly Positive\ninfectionsThe most important limitation of this test is that itis not quantitative\nsignifies remote\nOSidaltest can tell the titres of specific antibodies However both tests lack sensitivity\nor\nnegative.\nWhereas a detailed\nand specificity.\nEx-\nAkuy\nDr:\nAnkur VERMA\nMbbS-\nMD\nConsultont Pathologist\nIthe resuits(S) cfthe test (S) is alarming Cr unexpected the patentis advised\nNqq For\n{siure inmedical\ntechnology of dangers inherent inl\nRcg\ntyphidot\nHOSPITAL\nHOODA\nRoad\nGohana\nAdda,\n320\nGohana_\n{aas\nROHTAK\nSpeclalist\nSto\nChfld\n#T\nDCH,\n4f337\nMBBS,\n7rEr\n7et+;\n(Pgims) -",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            253.0,
+            1344.0,
+            421.0
+          ],
+          "text": "Supervision Lab",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            388.0,
+            388.0,
+            1297.0,
+            464.0
+          ],
+          "text": "Our Vision, Attention On the Quality",
+          "confidence": 0.9607
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            519.0,
+            157.0,
+            555.0
+          ],
+          "text": "Name",
+          "confidence": 0.8453
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            249.0,
+            515.0,
+            347.0,
+            551.0
+          ],
+          "text": "Prince",
+          "confidence": 0.898
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            891.0,
+            503.0,
+            1049.0,
+            541.0
+          ],
+          "text": "Patient ID",
+          "confidence": 0.873
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            255.0,
+            615.0,
+            447.0,
+            651.0
+          ],
+          "text": "Dr; Ravinder",
+          "confidence": 0.6693
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            765.0,
+            796.0,
+            820.0
+          ],
+          "text": "Dot (Salmonella Typhi) (IgG,lgM",
+          "confidence": 0.5726
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            857.0,
+            159.0,
+            894.0
+          ],
+          "text": "IESI",
+          "confidence": 0.7389
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            844.0,
+            883.0,
+            881.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.921
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            923.0,
+            445.0,
+            962.0
+          ],
+          "text": "SALMONELLA TYPHI DOT",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            919.0,
+            520.0,
+            960.0
+          ],
+          "text": "IgM",
+          "confidence": 0.976
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            909.0,
+            923.0,
+            948.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            991.0,
+            517.0,
+            1033.0
+          ],
+          "text": "SALMONELLA TYPHI DOT - IgG",
+          "confidence": 0.7029
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            771.0,
+            981.0,
+            911.0,
+            1017.0
+          ],
+          "text": "POSITIVE",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            1125.0,
+            281.0,
+            1168.0
+          ],
+          "text": "Interpretation",
+          "confidence": 0.6604
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            1127.0,
+            1615.0,
+            1203.0
+          ],
+          "text": "medicaltesl consisting of a dot ELISA kit that detects IgMand IgG antbodiessg;iniechergund",
+          "confidence": 0.149
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1160.0,
+            344.0,
+            1208.0
+          ],
+          "text": "Typhidot is a",
+          "confidence": 0.9518
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            890.0,
+            1186.0,
+            1078.0,
+            1218.0
+          ],
+          "text": "test becomes",
+          "confidence": 0.7745
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            1168.0,
+            1610.0,
+            1221.0
+          ],
+          "text": "positive within 2-3 days Cf infection &nd_",
+          "confidence": 0.3416
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            47.0,
+            1190.0,
+            714.0,
+            1240.0
+          ],
+          "text": "membrane protein (OMP) 0f (he Salmonella_typhi:",
+          "confidence": 0.697
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1190.0,
+            778.0,
+            1222.0
+          ],
+          "text": "The",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1110.0,
+            1216.0,
+            1144.0,
+            1246.0
+          ],
+          "text": "of",
+          "confidence": 0.604
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1141.0,
+            1204.0,
+            1628.0,
+            1254.0
+          ],
+          "text": "specific IgM and IgG antibodies to a",
+          "confidence": 0.4769
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1223.0,
+            647.0,
+            1283.0
+          ],
+          "text": "separately identifies IgM and IgG antibodies",
+          "confidence": 0.9685
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            653.0,
+            1217.0,
+            1111.0,
+            1259.0
+          ],
+          "text": "The test is based on the presence",
+          "confidence": 0.8066
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1237.0,
+            1569.0,
+            1279.0
+          ],
+          "text": "infection wherezs Ig\u20ac",
+          "confidence": 0.675
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            1244.0,
+            1280.0,
+            1318.0
+          ],
+          "text": "speaiice50Kc OMP antigeg which is impregnated on nitrocellulose istrivai I9M NOoareceint",
+          "confidence": 0.0592
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1291.0,
+            1268.0,
+            1632.0,
+            1313.0
+          ],
+          "text": "and result is cnly Positive",
+          "confidence": 0.8458
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            1276.0,
+            1294.0,
+            1342.0
+          ],
+          "text": "infectionsThe most important limitation of this test is that itis not quantitative",
+          "confidence": 0.3692
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1303.0,
+            272.0,
+            1352.0
+          ],
+          "text": "signifies remote",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            483.0,
+            1307.0,
+            1615.0,
+            1369.0
+          ],
+          "text": "OSidaltest can tell the titres of specific antibodies However both tests lack sensitivity",
+          "confidence": 0.5426
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            1350.0,
+            82.0,
+            1376.0
+          ],
+          "text": "or",
+          "confidence": 0.5691
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            1337.0,
+            213.0,
+            1388.0
+          ],
+          "text": "negative.",
+          "confidence": 0.6046
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            219.0,
+            1334.0,
+            485.0,
+            1373.0
+          ],
+          "text": "Whereas a detailed",
+          "confidence": 0.9811
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1373.0,
+            254.0,
+            1421.0
+          ],
+          "text": "and specificity.",
+          "confidence": 0.8625
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            1864.0,
+            298.0,
+            1890.0
+          ],
+          "text": "Ex-",
+          "confidence": 0.9442
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1089.0,
+            2003.0,
+            1289.0,
+            2047.0
+          ],
+          "text": "Akuy",
+          "confidence": 0.5662
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            2052.0,
+            1072.0,
+            2078.0
+          ],
+          "text": "Dr:",
+          "confidence": 0.3491
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            2032.0,
+            1376.0,
+            2081.0
+          ],
+          "text": "Ankur VERMA",
+          "confidence": 0.1971
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            2062.0,
+            1304.0,
+            2092.0
+          ],
+          "text": "MbbS-",
+          "confidence": 0.2103
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1314.0,
+            2062.0,
+            1376.0,
+            2086.0
+          ],
+          "text": "MD",
+          "confidence": 0.4922
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1009.0,
+            2082.0,
+            1384.0,
+            2130.0
+          ],
+          "text": "Consultont Pathologist",
+          "confidence": 0.6014
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            2192.0,
+            872.0,
+            2246.0
+          ],
+          "text": "Ithe resuits(S) cfthe test (S) is alarming Cr unexpected the patentis advised",
+          "confidence": 0.2089
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            2216.0,
+            1272.0,
+            2244.0
+          ],
+          "text": "Nqq For",
+          "confidence": 0.1992
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            284.0,
+            2238.0,
+            470.0,
+            2266.0
+          ],
+          "text": "{siure inmedical",
+          "confidence": 0.217
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            465.0,
+            2227.0,
+            823.0,
+            2272.0
+          ],
+          "text": "technology of dangers inherent inl",
+          "confidence": 0.4806
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1076.245685786415,
+            499.12534453582384,
+            1151.754314213585,
+            545.8746554641762
+          ],
+          "text": "Rcg",
+          "confidence": 0.3034
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            776.2802656784306,
+            1181.4963679179107,
+            891.7197343215694,
+            1227.5036320820893
+          ],
+          "text": "typhidot",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1107.6717988226487,
+            1651.9784735001215,
+            1330.3282011773513,
+            1729.0215264998785
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            945.6076433315133,
+            1682.6276775386286,
+            1111.3923566684866,
+            1752.3723224613714
+          ],
+          "text": "HOODA",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1253.2802656784306,
+            1701.0742208280597,
+            1333.7197343215694,
+            1743.9257791719403
+          ],
+          "text": "Road",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1143.0574282752855,
+            1712.4286340614885,
+            1257.9425717247145,
+            1759.5713659385115
+          ],
+          "text": "Gohana",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1063.405095554342,
+            1726.1737828150729,
+            1148.594904445658,
+            1768.8262171849271
+          ],
+          "text": "Adda,",
+          "confidence": 0.9138
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            519.9161138650585,
+            1727.7338348673272,
+            633.0838861349415,
+            1795.2661651326728
+          ],
+          "text": "320",
+          "confidence": 0.2569
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            951.1370142686695,
+            1738.4664893134338,
+            1067.8629857313306,
+            1785.5335106865662
+          ],
+          "text": "Gohana_",
+          "confidence": 0.9554
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            388.91611386505843,
+            1740.3167184270003,
+            518.0838861349415,
+            1802.6832815729997
+          ],
+          "text": "{aas",
+          "confidence": 0.0444
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1081.6750472251235,
+            1749.4770007789828,
+            1214.3249527748765,
+            1801.5229992210172
+          ],
+          "text": "ROHTAK",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            494.42752122286237,
+            1772.9783382066698,
+            634.5724787771376,
+            1821.0216617933302
+          ],
+          "text": "Speclalist",
+          "confidence": 0.6984
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            240.7639320225002,
+            1774.5093776971585,
+            352.2360679774998,
+            1833.4906223028415
+          ],
+          "text": "Sto",
+          "confidence": 0.6443
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            416.87867965644034,
+            1793.612301979915,
+            498.12132034355966,
+            1832.387698020085
+          ],
+          "text": "Chfld",
+          "confidence": 0.8519
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            541.5611569566013,
+            1796.1943687625242,
+            641.4388430433987,
+            1842.8056312374758
+          ],
+          "text": "#T",
+          "confidence": 0.1872
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            341.1708677174509,
+            1807.642871587666,
+            420.8291322825491,
+            1845.357128412334
+          ],
+          "text": "DCH,",
+          "confidence": 0.8293
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            428.3358994113243,
+            1819.0101735481046,
+            539.6641005886756,
+            1856.9898264518954
+          ],
+          "text": "4f337",
+          "confidence": 0.1811
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            248.98198161801108,
+            1821.814375899975,
+            345.01801838198895,
+            1861.185624100025
+          ],
+          "text": "MBBS,",
+          "confidence": 0.6695
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            300.6573935716709,
+            1838.9548156256503,
+            426.3426064283291,
+            1883.0451843743497
+          ],
+          "text": "7rEr",
+          "confidence": 0.3384
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            460.41000317999044,
+            1844.852944621821,
+            555.5899968200096,
+            1883.147055378179
+          ],
+          "text": "7et+;",
+          "confidence": 0.0246
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            341.02682341501134,
+            1858.4123553972581,
+            467.97317658498866,
+            1909.5876446027419
+          ],
+          "text": "(Pgims) -",
+          "confidence": 0.661
+        }
+      ]
+    }
+  ],
+  "full_text": "Supervision Lab\nOur Vision, Attention On the Quality\nName\nPrince\nPatient ID\nDr; Ravinder\nDot (Salmonella Typhi) (IgG,lgM\nIESI\nRESULT\nSALMONELLA TYPHI DOT\nIgM\nNEGATIVE\nSALMONELLA TYPHI DOT - IgG\nPOSITIVE\nInterpretation\nmedicaltesl consisting of a dot ELISA kit that detects IgMand IgG antbodiessg;iniechergund\nTyphidot is a\ntest becomes\npositive within 2-3 days Cf infection &nd_\nmembrane protein (OMP) 0f (he Salmonella_typhi:\nThe\nof\nspecific IgM and IgG antibodies to a\nseparately identifies IgM and IgG antibodies\nThe test is based on the presence\ninfection wherezs Ig\u20ac\nspeaiice50Kc OMP antigeg which is impregnated on nitrocellulose istrivai I9M NOoareceint\nand result is cnly Positive\ninfectionsThe most important limitation of this test is that itis not quantitative\nsignifies remote\nOSidaltest can tell the titres of specific antibodies However both tests lack sensitivity\nor\nnegative.\nWhereas a detailed\nand specificity.\nEx-\nAkuy\nDr:\nAnkur VERMA\nMbbS-\nMD\nConsultont Pathologist\nIthe resuits(S) cfthe test (S) is alarming Cr unexpected the patentis advised\nNqq For\n{siure inmedical\ntechnology of dangers inherent inl\nRcg\ntyphidot\nHOSPITAL\nHOODA\nRoad\nGohana\nAdda,\n320\nGohana_\n{aas\nROHTAK\nSpeclalist\nSto\nChfld\n#T\nDCH,\n4f337\nMBBS,\n7rEr\n7et+;\n(Pgims) -",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "positive within",
+          "biomarker_normalized": "positive within",
+          "value": "2",
+          "unit": "",
+          "reference_range": "2-3",
+          "source_line": "positive within 2-3 days Cf infection &nd_",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "membrane protein (OMP)",
+          "biomarker_normalized": "membrane protein (OMP)",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "membrane protein (OMP) 0f (he Salmonella_typhi:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "speaiice5",
+          "biomarker_normalized": "speaiice5",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "speaiice50Kc OMP antigeg which is impregnated on nitrocellulose istrivai I9M NOoareceint",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 67,
+    "ocr_avg_confidence": 0.6584,
+    "parsed_row_count": 3
+  }
+}

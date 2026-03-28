@@ -1,0 +1,1335 @@
+{
+  "document_id": "BLR-0425-PA-0039192_05c45741fa5d4b5180df06f200423a00__2_files_merged__26-04-2025_0430-01_PM@E.pdf_page_104",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0039192_05c45741fa5d4b5180df06f200423a00__2_files_merged__26-04-2025_0430-01_PM@E.pdf_page_104.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "C\nWITH\nAuTO\n(49 &\n104\n402, 107, 1084 102, Ast Floor;\nTowtes PkL; 0 & P MikL\nPha:\n323\nDr: (Capt) Atul Kapiia (Retd: } MD Path\nKJ-7, Kevi Nagar, Ghaziabad {UF.\nFaNkc MCL 3452\nPhe\n137305\nPatient ID\nHHE\nmh\nPatient]\nReferred\n:SH\nLab Serial No: 05\nReceiving\n23/Apri2025\n6.00.39AM\nWard No\nSP - 25\nReporting Date\n23/Apr/2025\n8.54-48AM\nCR! UHD No\n0223\n391506\nDate TAT\n2 Hours 54 Minute\nObserved Value\nUnit\nBiological Ref Interval\nLIVER FUNCTION TEST\nBILIRUBIN TOTAL\n8.21 H\nmgdl\n30\n1.20\nCONJUGATED (D. BILIRUBIN)\n7.48 H\nmigldL\n0.00\n0,30\nUNCONJUGATED (I.D,BILIRUBIN}\nmgdl\nO,DQ\n0,70\nSGOT\n113 H\nIIL\n0,00\n46,00\nSGPT\n89 H\nIUIL\n0.0Q\n45.QQ\nALKALINE PHOSPHATASE\n438 H\nUIl\n42.00\n128.00\nTOTAL PROTEIN\n6.0 L\n6,20 - 8 Qm\nALBUMIN\n3.2 1\ngmidl\n3 80\n5.40\nGLOBULIN\ngmldl\n1.50\n3,60\nAIG RATIO\n1,78\n1.0\n2 0\nGAMMAT-GT\nH\nIUIL\n11,00\n50.00\nSpecimen\nSERUM\n6+\nEND OF REPORT\nFACILITIES\nFOR  HORMONES ASSA\nThOLoGY\nMARROWi ASPIRATIDN & BOPSY WITH MICRO PH\n8\nNOTE\nABOVE MENTIONED\nA PROFESSIONAL OPINKON AND NOT A FINAL DIAGNOSIS, ALL LABORATORY TESTS & UTHER\nINVESTIGATION RESULTS ARE TO BE CORELATED\nDiSCREPANCIES, IF AMY , NECESSITATE REVIEWiREPEAT OF THE TESTS.\nMOT\nFC\ngmidi",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            78.0,
+            808.0,
+            140.0
+          ],
+          "text": "C",
+          "confidence": 0.9264
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            168.0,
+            504.0,
+            198.0
+          ],
+          "text": "WITH",
+          "confidence": 0.5754
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            164.0,
+            810.0,
+            194.0
+          ],
+          "text": "AuTO",
+          "confidence": 0.5543
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            160.0,
+            1174.0,
+            190.0
+          ],
+          "text": "(49 &",
+          "confidence": 0.3868
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            206.0,
+            260.0,
+            232.0
+          ],
+          "text": "104",
+          "confidence": 0.6439
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            201.0,
+            594.0,
+            234.0
+          ],
+          "text": "402, 107, 1084 102, Ast Floor;",
+          "confidence": 0.276
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            198.0,
+            950.0,
+            228.0
+          ],
+          "text": "Towtes PkL; 0 & P MikL",
+          "confidence": 0.1381
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            194.0,
+            1292.0,
+            220.0
+          ],
+          "text": "Pha:",
+          "confidence": 0.6964
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1404.0,
+            190.0,
+            1452.0,
+            220.0
+          ],
+          "text": "323",
+          "confidence": 0.8624
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            607.0,
+            243.0,
+            1025.0,
+            288.0
+          ],
+          "text": "Dr: (Capt) Atul Kapiia (Retd: } MD Path",
+          "confidence": 0.6758
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            289.0,
+            437.0,
+            330.0
+          ],
+          "text": "KJ-7, Kevi Nagar, Ghaziabad {UF.",
+          "confidence": 0.4373
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            715.0,
+            280.0,
+            912.0,
+            313.0
+          ],
+          "text": "FaNkc MCL 3452",
+          "confidence": 0.2075
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            330.0,
+            176.0,
+            356.0
+          ],
+          "text": "Phe",
+          "confidence": 0.8569
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            326.0,
+            490.0,
+            356.0
+          ],
+          "text": "137305",
+          "confidence": 0.7903
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            434.0,
+            268.0,
+            466.0
+          ],
+          "text": "Patient ID",
+          "confidence": 0.6639
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1175.0,
+            425.0,
+            1263.0,
+            461.0
+          ],
+          "text": "HHE",
+          "confidence": 0.0564
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            428.0,
+            1364.0,
+            460.0
+          ],
+          "text": "mh",
+          "confidence": 0.153
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            468.0,
+            236.0,
+            500.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.5973
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            502.0,
+            256.0,
+            534.0
+          ],
+          "text": "Referred",
+          "confidence": 0.9888
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            500.0,
+            394.0,
+            528.0
+          ],
+          "text": ":SH",
+          "confidence": 0.7656
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            533.0,
+            373.0,
+            569.0
+          ],
+          "text": "Lab Serial No: 05",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1031.0,
+            527.0,
+            1167.0,
+            563.0
+          ],
+          "text": "Receiving",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1252.0,
+            521.0,
+            1411.0,
+            558.0
+          ],
+          "text": "23/Apri2025",
+          "confidence": 0.7762
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1424.0,
+            518.0,
+            1567.0,
+            555.0
+          ],
+          "text": "6.00.39AM",
+          "confidence": 0.6724
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            568.0,
+            256.0,
+            598.0
+          ],
+          "text": "Ward No",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            566.0,
+            432.0,
+            594.0
+          ],
+          "text": "SP - 25",
+          "confidence": 0.9698
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            559.0,
+            1237.0,
+            596.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.8546
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            558.0,
+            1412.0,
+            590.0
+          ],
+          "text": "23/Apr/2025",
+          "confidence": 0.9032
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1427.0,
+            555.0,
+            1565.0,
+            585.0
+          ],
+          "text": "8.54-48AM",
+          "confidence": 0.436
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            600.0,
+            308.0,
+            632.0
+          ],
+          "text": "CR! UHD No",
+          "confidence": 0.9375
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            598.0,
+            406.0,
+            630.0
+          ],
+          "text": "0223",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            598.0,
+            520.0,
+            628.0
+          ],
+          "text": "391506",
+          "confidence": 0.8041
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1110.0,
+            594.0,
+            1240.0,
+            624.0
+          ],
+          "text": "Date TAT",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            592.0,
+            1484.0,
+            620.0
+          ],
+          "text": "2 Hours 54 Minute",
+          "confidence": 0.7572
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            696.0,
+            900.0,
+            728.0
+          ],
+          "text": "Observed Value",
+          "confidence": 0.8511
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            694.0,
+            1048.0,
+            726.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1193.0,
+            689.0,
+            1489.0,
+            729.0
+          ],
+          "text": "Biological Ref Interval",
+          "confidence": 0.8254
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            815.0,
+            439.0,
+            853.0
+          ],
+          "text": "LIVER FUNCTION TEST",
+          "confidence": 0.8482
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            862.0,
+            338.0,
+            894.0
+          ],
+          "text": "BILIRUBIN TOTAL",
+          "confidence": 0.6752
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            858.0,
+            828.0,
+            888.0
+          ],
+          "text": "8.21 H",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            858.0,
+            1052.0,
+            886.0
+          ],
+          "text": "mgdl",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            854.0,
+            1338.0,
+            878.0
+          ],
+          "text": "30",
+          "confidence": 0.9841
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            852.0,
+            1406.0,
+            880.0
+          ],
+          "text": "1.20",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            928.0,
+            478.0,
+            960.0
+          ],
+          "text": "CONJUGATED (D. BILIRUBIN)",
+          "confidence": 0.8879
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            924.0,
+            830.0,
+            952.0
+          ],
+          "text": "7.48 H",
+          "confidence": 0.765
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            924.0,
+            1056.0,
+            954.0
+          ],
+          "text": "migldL",
+          "confidence": 0.6175
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            920.0,
+            1338.0,
+            946.0
+          ],
+          "text": "0.00",
+          "confidence": 0.284
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            920.0,
+            1406.0,
+            946.0
+          ],
+          "text": "0,30",
+          "confidence": 0.9891
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            994.0,
+            524.0,
+            1027.0
+          ],
+          "text": "UNCONJUGATED (I.D,BILIRUBIN}",
+          "confidence": 0.7182
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            990.0,
+            1052.0,
+            1020.0
+          ],
+          "text": "mgdl",
+          "confidence": 0.7317
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            986.0,
+            1338.0,
+            1014.0
+          ],
+          "text": "O,DQ",
+          "confidence": 0.342
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            986.0,
+            1406.0,
+            1014.0
+          ],
+          "text": "0,70",
+          "confidence": 0.9555
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1064.0,
+            200.0,
+            1094.0
+          ],
+          "text": "SGOT",
+          "confidence": 0.8652
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1058.0,
+            826.0,
+            1088.0
+          ],
+          "text": "113 H",
+          "confidence": 0.828
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            1058.0,
+            1044.0,
+            1084.0
+          ],
+          "text": "IIL",
+          "confidence": 0.8897
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            1054.0,
+            1330.0,
+            1080.0
+          ],
+          "text": "0,00",
+          "confidence": 0.9944
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            1052.0,
+            1416.0,
+            1082.0
+          ],
+          "text": "46,00",
+          "confidence": 0.8262
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1132.0,
+            198.0,
+            1160.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1126.0,
+            820.0,
+            1152.0
+          ],
+          "text": "89 H",
+          "confidence": 0.7842
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            1124.0,
+            1044.0,
+            1150.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            1120.0,
+            1332.0,
+            1148.0
+          ],
+          "text": "0.0Q",
+          "confidence": 0.2185
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            1120.0,
+            1412.0,
+            1146.0
+          ],
+          "text": "45.QQ",
+          "confidence": 0.4964
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1195.0,
+            442.0,
+            1226.0
+          ],
+          "text": "ALKALINE PHOSPHATASE",
+          "confidence": 0.8029
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1192.0,
+            828.0,
+            1222.0
+          ],
+          "text": "438 H",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            1192.0,
+            1040.0,
+            1216.0
+          ],
+          "text": "UIl",
+          "confidence": 0.2262
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            1188.0,
+            1334.0,
+            1214.0
+          ],
+          "text": "42.00",
+          "confidence": 0.9683
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            1188.0,
+            1430.0,
+            1216.0
+          ],
+          "text": "128.00",
+          "confidence": 0.7723
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1264.0,
+            328.0,
+            1294.0
+          ],
+          "text": "TOTAL PROTEIN",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1260.0,
+            824.0,
+            1290.0
+          ],
+          "text": "6.0 L",
+          "confidence": 0.9564
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            1256.0,
+            1408.0,
+            1282.0
+          ],
+          "text": "6,20 - 8 Qm",
+          "confidence": 0.1093
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1332.0,
+            242.0,
+            1362.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1328.0,
+            824.0,
+            1356.0
+          ],
+          "text": "3.2 1",
+          "confidence": 0.2202
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            983.0,
+            1322.0,
+            1057.0,
+            1358.0
+          ],
+          "text": "gmidl",
+          "confidence": 0.9632
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1322.0,
+            1342.0,
+            1348.0
+          ],
+          "text": "3 80",
+          "confidence": 0.6052
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1322.0,
+            1410.0,
+            1350.0
+          ],
+          "text": "5.40",
+          "confidence": 0.9081
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1400.0,
+            258.0,
+            1428.0
+          ],
+          "text": "GLOBULIN",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1392.0,
+            1057.0,
+            1424.0
+          ],
+          "text": "gmldl",
+          "confidence": 0.774
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1388.0,
+            1338.0,
+            1416.0
+          ],
+          "text": "1.50",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1390.0,
+            1408.0,
+            1416.0
+          ],
+          "text": "3,60",
+          "confidence": 0.7781
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1466.0,
+            258.0,
+            1496.0
+          ],
+          "text": "AIG RATIO",
+          "confidence": 0.7404
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            768.0,
+            1462.0,
+            820.0,
+            1488.0
+          ],
+          "text": "1,78",
+          "confidence": 0.744
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            1456.0,
+            1342.0,
+            1484.0
+          ],
+          "text": "1.0",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1456.0,
+            1398.0,
+            1486.0
+          ],
+          "text": "2 0",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1534.0,
+            284.0,
+            1564.0
+          ],
+          "text": "GAMMAT-GT",
+          "confidence": 0.9923
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            1531.0,
+            829.0,
+            1555.0
+          ],
+          "text": "H",
+          "confidence": 0.9393
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1528.0,
+            1046.0,
+            1556.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9212
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1524.0,
+            1342.0,
+            1552.0
+          ],
+          "text": "11,00",
+          "confidence": 0.9913
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1524.0,
+            1424.0,
+            1554.0
+          ],
+          "text": "50.00",
+          "confidence": 0.9802
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            1611.0,
+            262.0,
+            1649.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            291.0,
+            1607.0,
+            399.0,
+            1643.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            983.0,
+            1653.0,
+            1007.0,
+            1667.0
+          ],
+          "text": "6+",
+          "confidence": 0.1428
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            745.0,
+            1649.0,
+            979.0,
+            1685.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.9833
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            2147.0,
+            238.0,
+            2177.0
+          ],
+          "text": "FACILITIES",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            2147.0,
+            516.0,
+            2177.0
+          ],
+          "text": "FOR  HORMONES ASSA",
+          "confidence": 0.8574
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            719.0,
+            2143.0,
+            825.0,
+            2173.0
+          ],
+          "text": "ThOLoGY",
+          "confidence": 0.3113
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            2140.0,
+            1428.0,
+            2171.0
+          ],
+          "text": "MARROWi ASPIRATIDN & BOPSY WITH MICRO PH",
+          "confidence": 0.6806
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1543.0,
+            2141.0,
+            1563.0,
+            2165.0
+          ],
+          "text": "8",
+          "confidence": 0.9671
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            2180.0,
+            184.0,
+            2210.0
+          ],
+          "text": "NOTE",
+          "confidence": 0.9434
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            2178.0,
+            420.0,
+            2210.0
+          ],
+          "text": "ABOVE MENTIONED",
+          "confidence": 0.8332
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            2170.0,
+            1571.0,
+            2207.0
+          ],
+          "text": "A PROFESSIONAL OPINKON AND NOT A FINAL DIAGNOSIS, ALL LABORATORY TESTS & UTHER",
+          "confidence": 0.3712
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            2207.0,
+            609.0,
+            2244.0
+          ],
+          "text": "INVESTIGATION RESULTS ARE TO BE CORELATED",
+          "confidence": 0.656
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            866.0,
+            2202.0,
+            1566.0,
+            2234.0
+          ],
+          "text": "DiSCREPANCIES, IF AMY , NECESSITATE REVIEWiREPEAT OF THE TESTS.",
+          "confidence": 0.4306
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            494.0,
+            2250.0,
+            574.0,
+            2280.0
+          ],
+          "text": "MOT",
+          "confidence": 0.351
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            2250.0,
+            760.0,
+            2278.0
+          ],
+          "text": "FC",
+          "confidence": 0.4051
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            983.3358994113244,
+            1256.6754770463422,
+            1055.6641005886756,
+            1290.3245229536578
+          ],
+          "text": "gmidi",
+          "confidence": 0.5601
+        }
+      ]
+    }
+  ],
+  "full_text": "C\nWITH\nAuTO\n(49 &\n104\n402, 107, 1084 102, Ast Floor;\nTowtes PkL; 0 & P MikL\nPha:\n323\nDr: (Capt) Atul Kapiia (Retd: } MD Path\nKJ-7, Kevi Nagar, Ghaziabad {UF.\nFaNkc MCL 3452\nPhe\n137305\nPatient ID\nHHE\nmh\nPatient]\nReferred\n:SH\nLab Serial No: 05\nReceiving\n23/Apri2025\n6.00.39AM\nWard No\nSP - 25\nReporting Date\n23/Apr/2025\n8.54-48AM\nCR! UHD No\n0223\n391506\nDate TAT\n2 Hours 54 Minute\nObserved Value\nUnit\nBiological Ref Interval\nLIVER FUNCTION TEST\nBILIRUBIN TOTAL\n8.21 H\nmgdl\n30\n1.20\nCONJUGATED (D. BILIRUBIN)\n7.48 H\nmigldL\n0.00\n0,30\nUNCONJUGATED (I.D,BILIRUBIN}\nmgdl\nO,DQ\n0,70\nSGOT\n113 H\nIIL\n0,00\n46,00\nSGPT\n89 H\nIUIL\n0.0Q\n45.QQ\nALKALINE PHOSPHATASE\n438 H\nUIl\n42.00\n128.00\nTOTAL PROTEIN\n6.0 L\n6,20 - 8 Qm\nALBUMIN\n3.2 1\ngmidl\n3 80\n5.40\nGLOBULIN\ngmldl\n1.50\n3,60\nAIG RATIO\n1,78\n1.0\n2 0\nGAMMAT-GT\nH\nIUIL\n11,00\n50.00\nSpecimen\nSERUM\n6+\nEND OF REPORT\nFACILITIES\nFOR  HORMONES ASSA\nThOLoGY\nMARROWi ASPIRATIDN & BOPSY WITH MICRO PH\n8\nNOTE\nABOVE MENTIONED\nA PROFESSIONAL OPINKON AND NOT A FINAL DIAGNOSIS, ALL LABORATORY TESTS & UTHER\nINVESTIGATION RESULTS ARE TO BE CORELATED\nDiSCREPANCIES, IF AMY , NECESSITATE REVIEWiREPEAT OF THE TESTS.\nMOT\nFC\ngmidi",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Towtes PkL;",
+          "biomarker_normalized": "Towtes PkL;",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Towtes PkL; 0 & P MikL",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "KJ",
+          "biomarker_normalized": "KJ",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "KJ-7, Kevi Nagar, Ghaziabad {UF.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "FaNkc MCL",
+          "biomarker_normalized": "FaNkc MCL",
+          "value": "3452",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "FaNkc MCL 3452",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Lab Serial No",
+          "biomarker_normalized": "Lab Serial No",
+          "value": "05",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Lab Serial No: 05",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SP",
+          "biomarker_normalized": "SP",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SP - 25",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 105,
+    "ocr_avg_confidence": 0.7484,
+    "parsed_row_count": 5
+  }
+}

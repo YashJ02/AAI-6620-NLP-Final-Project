@@ -1,0 +1,915 @@
+{
+  "document_id": "GUR-0425-PA-0051559_Q-11zonmergedFiles2711zon_250427_1425@F.pdf_page_34",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0051559_Q-11zonmergedFiles2711zon_250427_1425@F.pdf_page_34.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "OSCAR SUPER SPECIALITY HOSPITAL\n%\n& TRAUMA CENTRE\nCivil Hospital;, Sonipat | Mob :\nTransactionno\n42000\nPatient Nani\nMRS RAKHI\npale\nMobile No;\n4810\nDoctor Nan\nDR SIDDHARTH SHARMA\nDDate\nBIOCHEMISTRY REPORT\nTest Name\nLIPId PROFILE\nCOMPONEN\nRESULIS\nUNS\nREFE RANGE\nCHOLESTER\nCHOLESTERO\n112\n140-240\nHDL CHOLES ROL\nHDL CKOLESTRCL\nmgl\n30-75\nLOL CHOLESTEROL\nLDL CHOLES EROL\nmgb\n50-1J\nVLDL CHOLE JEROL\nVLDL CHOLENTEROL\n34\nmecl\n15 40\nSERUM IRIG YCERIDE\nSERUM TRICYCERIDE\n172\nmgui\n2 -160\nCHOLESHERAL HDL RAIIQ\nChOLESTERO\nHD_ RATIO\n3,6\n035\nEND OF REPORT\nDr. GURIZ ! GILL\nMBBS, MCai ology)\nReg Pathologist/Technologiste\nDr Sidcn-Ih Sharma\nMBBS MD)\nConsultant Fdiciie\nRegd: No- 90954\nCBC . Thyroid, Kldney Function Test, Liver Functlon Test, Lipid Prolile , Blood\nLH, FSH, Prolactin, B-HcG, Torch; Ca-125, CEA, PSA\n30/40 Color  poppler Ultrasounu; 4.5.G. IVP; Barlum Studies. Digilal X-\nMulli Slice Spiral Ct Scan, Ec.0,\n6 221 channels EMG Ncv Vep B.E.RA. Pft & comprehensive Hrailh chack-Wps etc.\n30/4D Ultra ;ound; Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FO 3 MEDICO LEGAL PURPOSE\naar@ar 24 %r gurta 81\nOpp:\nMo\nJhedl\nCAR\nSugar\n-aay;",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            249.0,
+            65.0,
+            1393.0,
+            155.0
+          ],
+          "text": "OSCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.8491
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            159.0,
+            189.0,
+            249.0
+          ],
+          "text": "%",
+          "confidence": 0.879
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            517.0,
+            157.0,
+            1125.0,
+            243.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            248.0,
+            870.0,
+            302.0
+          ],
+          "text": "Civil Hospital;, Sonipat | Mob :",
+          "confidence": 0.7104
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            462.0,
+            364.0,
+            490.0
+          ],
+          "text": "Transactionno",
+          "confidence": 0.5182
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            462.0,
+            580.0,
+            492.0
+          ],
+          "text": "42000",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            500.0,
+            328.0,
+            530.0
+          ],
+          "text": "Patient Nani",
+          "confidence": 0.3997
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            499.0,
+            495.0,
+            639.0,
+            531.0
+          ],
+          "text": "MRS RAKHI",
+          "confidence": 0.7347
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            498.0,
+            1148.0,
+            530.0
+          ],
+          "text": "pale",
+          "confidence": 0.6303
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            534.0,
+            314.0,
+            566.0
+          ],
+          "text": "Mobile No;",
+          "confidence": 0.9256
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            536.0,
+            1332.0,
+            564.0
+          ],
+          "text": "4810",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            572.0,
+            328.0,
+            602.0
+          ],
+          "text": "Doctor Nan",
+          "confidence": 0.934
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            570.0,
+            784.0,
+            602.0
+          ],
+          "text": "DR SIDDHARTH SHARMA",
+          "confidence": 0.9219
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            572.0,
+            1152.0,
+            598.0
+          ],
+          "text": "DDate",
+          "confidence": 0.666
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            645.0,
+            1027.0,
+            683.0
+          ],
+          "text": "BIOCHEMISTRY REPORT",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            694.0,
+            306.0,
+            720.0
+          ],
+          "text": "Test Name",
+          "confidence": 0.3328
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            692.0,
+            618.0,
+            722.0
+          ],
+          "text": "LIPId PROFILE",
+          "confidence": 0.5425
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            728.0,
+            326.0,
+            754.0
+          ],
+          "text": "COMPONEN",
+          "confidence": 0.5626
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            726.0,
+            858.0,
+            756.0
+          ],
+          "text": "RESULIS",
+          "confidence": 0.937
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            728.0,
+            1154.0,
+            754.0
+          ],
+          "text": "UNS",
+          "confidence": 0.9649
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            726.0,
+            1464.0,
+            756.0
+          ],
+          "text": "REFE RANGE",
+          "confidence": 0.8459
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            768.0,
+            334.0,
+            798.0
+          ],
+          "text": "CHOLESTER",
+          "confidence": 0.6138
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            806.0,
+            331.0,
+            838.0
+          ],
+          "text": "CHOLESTERO",
+          "confidence": 0.2513
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            814.0,
+            806.0,
+            858.0,
+            838.0
+          ],
+          "text": "112",
+          "confidence": 0.6331
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            806.0,
+            1436.0,
+            838.0
+          ],
+          "text": "140-240",
+          "confidence": 0.8765
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            848.0,
+            388.0,
+            878.0
+          ],
+          "text": "HDL CHOLES ROL",
+          "confidence": 0.8846
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            886.0,
+            382.0,
+            918.0
+          ],
+          "text": "HDL CKOLESTRCL",
+          "confidence": 0.5783
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            888.0,
+            1142.0,
+            920.0
+          ],
+          "text": "mgl",
+          "confidence": 0.2224
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            886.0,
+            1424.0,
+            916.0
+          ],
+          "text": "30-75",
+          "confidence": 0.751
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            926.0,
+            398.0,
+            958.0
+          ],
+          "text": "LOL CHOLESTEROL",
+          "confidence": 0.6441
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            964.0,
+            394.0,
+            996.0
+          ],
+          "text": "LDL CHOLES EROL",
+          "confidence": 0.2277
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            966.0,
+            1142.0,
+            998.0
+          ],
+          "text": "mgb",
+          "confidence": 0.1466
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            964.0,
+            1430.0,
+            996.0
+          ],
+          "text": "50-1J",
+          "confidence": 0.2048
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1004.0,
+            410.0,
+            1036.0
+          ],
+          "text": "VLDL CHOLE JEROL",
+          "confidence": 0.1308
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1044.0,
+            406.0,
+            1076.0
+          ],
+          "text": "VLDL CHOLENTEROL",
+          "confidence": 0.2088
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1044.0,
+            858.0,
+            1074.0
+          ],
+          "text": "34",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            1046.0,
+            1152.0,
+            1074.0
+          ],
+          "text": "mecl",
+          "confidence": 0.207
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1044.0,
+            1424.0,
+            1074.0
+          ],
+          "text": "15 40",
+          "confidence": 0.5177
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1084.0,
+            432.0,
+            1116.0
+          ],
+          "text": "SERUM IRIG YCERIDE",
+          "confidence": 0.6089
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1122.0,
+            430.0,
+            1154.0
+          ],
+          "text": "SERUM TRICYCERIDE",
+          "confidence": 0.3836
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1124.0,
+            858.0,
+            1152.0
+          ],
+          "text": "172",
+          "confidence": 0.4974
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            1124.0,
+            1144.0,
+            1156.0
+          ],
+          "text": "mgui",
+          "confidence": 0.1915
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            1122.0,
+            1430.0,
+            1152.0
+          ],
+          "text": "2 -160",
+          "confidence": 0.7138
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1164.0,
+            470.0,
+            1196.0
+          ],
+          "text": "CHOLESHERAL HDL RAIIQ",
+          "confidence": 0.1216
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1202.0,
+            332.0,
+            1234.0
+          ],
+          "text": "ChOLESTERO",
+          "confidence": 0.2255
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            1204.0,
+            466.0,
+            1234.0
+          ],
+          "text": "HD_ RATIO",
+          "confidence": 0.5811
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            820.0,
+            1202.0,
+            858.0,
+            1232.0
+          ],
+          "text": "3,6",
+          "confidence": 0.3734
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1356.0,
+            1202.0,
+            1422.0,
+            1232.0
+          ],
+          "text": "035",
+          "confidence": 0.9599
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1310.0,
+            944.0,
+            1338.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.8712
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            1339.0,
+            1517.0,
+            1396.0
+          ],
+          "text": "Dr. GURIZ ! GILL",
+          "confidence": 0.5689
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1387.0,
+            1517.0,
+            1435.0
+          ],
+          "text": "MBBS, MCai ology)",
+          "confidence": 0.1687
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1139.0,
+            1419.0,
+            1524.0,
+            1494.0
+          ],
+          "text": "Reg Pathologist/Technologiste",
+          "confidence": 0.3775
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            863.0,
+            1787.0,
+            1229.0,
+            1848.0
+          ],
+          "text": "Dr Sidcn-Ih Sharma",
+          "confidence": 0.1901
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            861.0,
+            1831.0,
+            1013.0,
+            1875.0
+          ],
+          "text": "MBBS MD)",
+          "confidence": 0.3983
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            856.0,
+            1866.0,
+            1147.0,
+            1918.0
+          ],
+          "text": "Consultant Fdiciie",
+          "confidence": 0.1934
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            857.0,
+            1898.0,
+            1102.0,
+            1946.0
+          ],
+          "text": "Regd: No- 90954",
+          "confidence": 0.6646
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            2001.0,
+            905.0,
+            2038.0
+          ],
+          "text": "CBC . Thyroid, Kldney Function Test, Liver Functlon Test, Lipid Prolile , Blood",
+          "confidence": 0.3763
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            975.0,
+            1997.0,
+            1583.0,
+            2037.0
+          ],
+          "text": "LH, FSH, Prolactin, B-HcG, Torch; Ca-125, CEA, PSA",
+          "confidence": 0.2295
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            2045.0,
+            999.0,
+            2083.0
+          ],
+          "text": "30/40 Color  poppler Ultrasounu; 4.5.G. IVP; Barlum Studies. Digilal X-",
+          "confidence": 0.0847
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1055.0,
+            2045.0,
+            1463.0,
+            2081.0
+          ],
+          "text": "Mulli Slice Spiral Ct Scan, Ec.0,",
+          "confidence": 0.0996
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            347.0,
+            2076.0,
+            1337.0,
+            2115.0
+          ],
+          "text": "6 221 channels EMG Ncv Vep B.E.RA. Pft & comprehensive Hrailh chack-Wps etc.",
+          "confidence": 0.0434
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            2139.0,
+            1539.0,
+            2203.0
+          ],
+          "text": "30/4D Ultra ;ound; Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab",
+          "confidence": 0.5849
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            2218.0,
+            760.0,
+            2271.0
+          ],
+          "text": "NOT FO 3 MEDICO LEGAL PURPOSE",
+          "confidence": 0.4631
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            2216.0,
+            1410.0,
+            2272.0
+          ],
+          "text": "aar@ar 24 %r gurta 81",
+          "confidence": 0.0356
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            285.1824104518503,
+            242.0778621224576,
+            384.8175895481497,
+            307.9221378775424
+          ],
+          "text": "Opp:",
+          "confidence": 0.818
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1078.0574282752855,
+            801.6692489068203,
+            1144.9425717247145,
+            844.3307510931797
+          ],
+          "text": "Mo",
+          "confidence": 0.3354
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1080.543071206464,
+            1201.4705928290948,
+            1143.456928793536,
+            1236.5294071709052
+          ],
+          "text": "Jhedl",
+          "confidence": 0.2256
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            475.0,
+            1767.7997091101402,
+            537.0,
+            1813.2002908898598
+          ],
+          "text": "CAR",
+          "confidence": 0.7066
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            895.1342492664539,
+            1998.1459283614802,
+            981.8657507335461,
+            2041.8540716385198
+          ],
+          "text": "Sugar",
+          "confidence": 0.5385
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            993.199081836106,
+            2043.1539042094366,
+            1061.800918163894,
+            2085.846095790563
+          ],
+          "text": "-aay;",
+          "confidence": 0.1578
+        }
+      ]
+    }
+  ],
+  "full_text": "OSCAR SUPER SPECIALITY HOSPITAL\n%\n& TRAUMA CENTRE\nCivil Hospital;, Sonipat | Mob :\nTransactionno\n42000\nPatient Nani\nMRS RAKHI\npale\nMobile No;\n4810\nDoctor Nan\nDR SIDDHARTH SHARMA\nDDate\nBIOCHEMISTRY REPORT\nTest Name\nLIPId PROFILE\nCOMPONEN\nRESULIS\nUNS\nREFE RANGE\nCHOLESTER\nCHOLESTERO\n112\n140-240\nHDL CHOLES ROL\nHDL CKOLESTRCL\nmgl\n30-75\nLOL CHOLESTEROL\nLDL CHOLES EROL\nmgb\n50-1J\nVLDL CHOLE JEROL\nVLDL CHOLENTEROL\n34\nmecl\n15 40\nSERUM IRIG YCERIDE\nSERUM TRICYCERIDE\n172\nmgui\n2 -160\nCHOLESHERAL HDL RAIIQ\nChOLESTERO\nHD_ RATIO\n3,6\n035\nEND OF REPORT\nDr. GURIZ ! GILL\nMBBS, MCai ology)\nReg Pathologist/Technologiste\nDr Sidcn-Ih Sharma\nMBBS MD)\nConsultant Fdiciie\nRegd: No- 90954\nCBC . Thyroid, Kldney Function Test, Liver Functlon Test, Lipid Prolile , Blood\nLH, FSH, Prolactin, B-HcG, Torch; Ca-125, CEA, PSA\n30/40 Color  poppler Ultrasounu; 4.5.G. IVP; Barlum Studies. Digilal X-\nMulli Slice Spiral Ct Scan, Ec.0,\n6 221 channels EMG Ncv Vep B.E.RA. Pft & comprehensive Hrailh chack-Wps etc.\n30/4D Ultra ;ound; Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FO 3 MEDICO LEGAL PURPOSE\naar@ar 24 %r gurta 81\nOpp:\nMo\nJhedl\nCAR\nSugar\n-aay;",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Regd: No",
+          "biomarker_normalized": "Regd: No",
+          "value": "90954",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd: No- 90954",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "LH, FSH, Prolactin, B-HcG, Torch; Ca",
+          "biomarker_normalized": "LH, FSH, Prolactin, B-HcG, Torch; Ca",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LH, FSH, Prolactin, B-HcG, Torch; Ca-125, CEA, PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Mulli Slice Spiral Ct Scan, Ec.",
+          "biomarker_normalized": "Mulli Slice Spiral Ct Scan, Ec.",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mulli Slice Spiral Ct Scan, Ec.0,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "NOT FO",
+          "biomarker_normalized": "NOT FO",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NOT FO 3 MEDICO LEGAL PURPOSE",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "aar@ar",
+          "biomarker_normalized": "aar@ar",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "aar@ar 24 %r gurta 81",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 70,
+    "ocr_avg_confidence": 0.5319,
+    "parsed_row_count": 5
+  }
+}

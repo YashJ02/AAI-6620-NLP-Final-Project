@@ -1,0 +1,1656 @@
+{
+  "document_id": "GUR-0425-PA-0048512_Q-POOJA4759000111zon_250424_1524@F.pdf_page_48",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0048512_Q-POOJA4759000111zon_250424_1524@F.pdf_page_48.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DSCAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nOpp: Civil Hospital, Sonipat\nMob :\nJrnsictlon No;\n41859\nPatieh: Name\nMRS POOJA\nDate\nMobie No;\nDocte\nBOCHHMSHHFO\noiy\nFt :\nu\nWVEK FUN TIONTESD\nCOMONEM\nRESULTS\nLNES\nRELLEANGE\nIserU  BILIRUBIN\nTOTAL biuRUBIR\n0.9\nmg d\n02-12\nDRREYT BILIRUBIN\n0,3\nmg'd\n0-0 4\nIndifect BILIRUBIN\n0,6\ningldl\n0 2-1.8\nsGd\nEG.4\n98\nWiL\n5-34\n5.G Pl\n66,F\n89\nU\n0-31\nALKAUINE PHOSPHALASI\nKLKANNE PHOSPHATASE\n85\nII\n39-|10\nITOTAL PROTEINWIIHNG RAIQ\nISERU\nPROTEIN\n6 4\ngnd\n6-8,3\nSeRU\nALBUMIA\n36\n32-5.0\nISERU\nGLOBULN\n2 8\n25-35\nest Hame :\nRFTTRFT\nCOMPONE\nRESULIS\nUNS\nRETLRANGE\nBLodp UREA\nEloQD UREA\n28\nMgd\n13 45\nSERUA CREATIINE\nSERU\nCREATININE\n077\nmgid\n061 4\nISERU\nURIC ACI\nSzRL\nURIC ACDD\n46\n35-72\nSERL\nELECTROLYIES\nISERI 4 SODIUM\n138\nWaqlal\n135155\nSZRU\nPOTASIUM\n39\nmeqidl\n35 55\nSERU\nCAcIA\nISERU ' CALCIUY\n8 5\n8 4 10 4\nSERUM PHOSPHORUS\nSERU AROEPHORUS\n33\nMaic\n26-5\nSWETA KUMARI\nDr\nGURLEEN GILL\nD;\nMBB.S_MS\nMBBS, M\n9-tFathology)\n(Obs_\n& Gynae)\nRegAuNAgDA-CIROIBB8\nCBC , Thyroid,\nanC\nTest, Livet\nFunction JeLHiHnvibivg [8gan LH, ESH Prolactin B-HCG TORCH CA-125,CEA FSA\nJu40 Paica Doppler Uibrasound; #.5 G. IvP; Barlum Studies: Diqital X-Rey: Mulli Slice Spiral Ct Scan, Ec.6_\nEE.G.-21 Channuls EMG NcV Vep 8.E.rA. Pft & Comprchensive Health chack-Wps elc:\n30/4D Ultrasound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNor FOR MEDICO LEGAL PURPOSE\nTm& &fau 24 1e guatat 81\ngma\nguc\nmg d\nmg d\naHe",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            253.0,
+            69.0,
+            1395.0,
+            159.0
+          ],
+          "text": "DSCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.9702
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            166.0,
+            186.0,
+            216.0
+          ],
+          "text": "OS",
+          "confidence": 0.4062
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            521.0,
+            161.0,
+            1127.0,
+            247.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            252.0,
+            744.0,
+            306.0
+          ],
+          "text": "Opp: Civil Hospital, Sonipat",
+          "confidence": 0.687
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            771.0,
+            253.0,
+            869.0,
+            297.0
+          ],
+          "text": "Mob :",
+          "confidence": 0.6056
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            488.0,
+            382.0,
+            514.0
+          ],
+          "text": "Jrnsictlon No;",
+          "confidence": 0.3193
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            526.0,
+            486.0,
+            604.0,
+            516.0
+          ],
+          "text": "41859",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            522.0,
+            364.0,
+            550.0
+          ],
+          "text": "Patieh: Name",
+          "confidence": 0.7832
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            526.0,
+            522.0,
+            668.0,
+            552.0
+          ],
+          "text": "MRS POOJA",
+          "confidence": 0.8357
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            522.0,
+            976.0,
+            550.0
+          ],
+          "text": "Date",
+          "confidence": 0.6921
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            558.0,
+            336.0,
+            586.0
+          ],
+          "text": "Mobie No;",
+          "confidence": 0.4843
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            594.0,
+            268.0,
+            626.0
+          ],
+          "text": "Docte",
+          "confidence": 0.3947
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            607.0,
+            659.0,
+            949.0,
+            691.0
+          ],
+          "text": "BOCHHMSHHFO",
+          "confidence": 0.1716
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            706.0,
+            268.0,
+            730.0
+          ],
+          "text": "oiy",
+          "confidence": 0.2038
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            275.0,
+            713.0,
+            317.0,
+            731.0
+          ],
+          "text": "Ft :",
+          "confidence": 0.0262
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            706.0,
+            512.0,
+            730.0
+          ],
+          "text": "u",
+          "confidence": 0.0432
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            702.0,
+            800.0,
+            732.0
+          ],
+          "text": "WVEK FUN TIONTESD",
+          "confidence": 0.042
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            746.0,
+            346.0,
+            772.0
+          ],
+          "text": "COMONEM",
+          "confidence": 0.141
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            746.0,
+            684.0,
+            772.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.4292
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            748.0,
+            1006.0,
+            772.0
+          ],
+          "text": "LNES",
+          "confidence": 0.1279
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            746.0,
+            1318.0,
+            772.0
+          ],
+          "text": "RELLEANGE",
+          "confidence": 0.2445
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            783.0,
+            401.0,
+            819.0
+          ],
+          "text": "IserU  BILIRUBIN",
+          "confidence": 0.1292
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            820.0,
+            390.0,
+            852.0
+          ],
+          "text": "TOTAL biuRUBIR",
+          "confidence": 0.1456
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            822.0,
+            684.0,
+            850.0
+          ],
+          "text": "0.9",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            824.0,
+            996.0,
+            854.0
+          ],
+          "text": "mg d",
+          "confidence": 0.2345
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            822.0,
+            1286.0,
+            850.0
+          ],
+          "text": "02-12",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            855.0,
+            401.0,
+            891.0
+          ],
+          "text": "DRREYT BILIRUBIN",
+          "confidence": 0.3279
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            858.0,
+            684.0,
+            886.0
+          ],
+          "text": "0,3",
+          "confidence": 0.4257
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            858.0,
+            997.0,
+            891.0
+          ],
+          "text": "mg'd",
+          "confidence": 0.3141
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            858.0,
+            1276.0,
+            886.0
+          ],
+          "text": "0-0 4",
+          "confidence": 0.7537
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            894.0,
+            420.0,
+            924.0
+          ],
+          "text": "Indifect BILIRUBIN",
+          "confidence": 0.5619
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            894.0,
+            684.0,
+            922.0
+          ],
+          "text": "0,6",
+          "confidence": 0.6012
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            896.0,
+            996.0,
+            926.0
+          ],
+          "text": "ingldl",
+          "confidence": 0.4183
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            894.0,
+            1288.0,
+            924.0
+          ],
+          "text": "0 2-1.8",
+          "confidence": 0.429
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            923.0,
+            293.0,
+            963.0
+          ],
+          "text": "sGd",
+          "confidence": 0.8163
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            961.0,
+            273.0,
+            997.0
+          ],
+          "text": "EG.4",
+          "confidence": 0.3384
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            966.0,
+            686.0,
+            996.0
+          ],
+          "text": "98",
+          "confidence": 0.6979
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            966.0,
+            980.0,
+            994.0
+          ],
+          "text": "WiL",
+          "confidence": 0.1243
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            966.0,
+            1274.0,
+            996.0
+          ],
+          "text": "5-34",
+          "confidence": 0.8592
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            999.0,
+            289.0,
+            1035.0
+          ],
+          "text": "5.G Pl",
+          "confidence": 0.1485
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1036.0,
+            270.0,
+            1068.0
+          ],
+          "text": "66,F",
+          "confidence": 0.264
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            1038.0,
+            686.0,
+            1068.0
+          ],
+          "text": "89",
+          "confidence": 0.9741
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1038.0,
+            978.0,
+            1068.0
+          ],
+          "text": "U",
+          "confidence": 0.1485
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1212.0,
+            1036.0,
+            1274.0,
+            1068.0
+          ],
+          "text": "0-31",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            1071.0,
+            483.0,
+            1107.0
+          ],
+          "text": "ALKAUINE PHOSPHALASI",
+          "confidence": 0.2888
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1110.0,
+            474.0,
+            1140.0
+          ],
+          "text": "KLKANNE PHOSPHATASE",
+          "confidence": 0.1788
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            1110.0,
+            688.0,
+            1140.0
+          ],
+          "text": "85",
+          "confidence": 0.4756
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1112.0,
+            984.0,
+            1140.0
+          ],
+          "text": "II",
+          "confidence": 0.7318
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            1110.0,
+            1282.0,
+            1140.0
+          ],
+          "text": "39-|10",
+          "confidence": 0.3455
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            1143.0,
+            555.0,
+            1179.0
+          ],
+          "text": "ITOTAL PROTEINWIIHNG RAIQ",
+          "confidence": 0.1184
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            1179.0,
+            271.0,
+            1215.0
+          ],
+          "text": "ISERU",
+          "confidence": 0.2745
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            1182.0,
+            388.0,
+            1212.0
+          ],
+          "text": "PROTEIN",
+          "confidence": 0.847
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1182.0,
+            684.0,
+            1210.0
+          ],
+          "text": "6 4",
+          "confidence": 0.4383
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1180.0,
+            1000.0,
+            1216.0
+          ],
+          "text": "gnd",
+          "confidence": 0.3247
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1212.0,
+            1180.0,
+            1278.0,
+            1208.0
+          ],
+          "text": "6-8,3",
+          "confidence": 0.8986
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1216.0,
+            270.0,
+            1248.0
+          ],
+          "text": "SeRU",
+          "confidence": 0.3869
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            1216.0,
+            388.0,
+            1248.0
+          ],
+          "text": "ALBUMIA",
+          "confidence": 0.325
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1218.0,
+            686.0,
+            1248.0
+          ],
+          "text": "36",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1216.0,
+            1290.0,
+            1246.0
+          ],
+          "text": "32-5.0",
+          "confidence": 0.9444
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1252.0,
+            270.0,
+            1284.0
+          ],
+          "text": "ISERU",
+          "confidence": 0.1896
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            1252.0,
+            400.0,
+            1284.0
+          ],
+          "text": "GLOBULN",
+          "confidence": 0.6091
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1252.0,
+            686.0,
+            1282.0
+          ],
+          "text": "2 8",
+          "confidence": 0.5755
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            1252.0,
+            1288.0,
+            1282.0
+          ],
+          "text": "25-35",
+          "confidence": 0.6489
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1326.0,
+            340.0,
+            1350.0
+          ],
+          "text": "est Hame :",
+          "confidence": 0.2402
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            1320.0,
+            568.0,
+            1352.0
+          ],
+          "text": "RFTTRFT",
+          "confidence": 0.6904
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1358.0,
+            356.0,
+            1386.0
+          ],
+          "text": "COMPONE",
+          "confidence": 0.2904
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            577.0,
+            1355.0,
+            685.0,
+            1385.0
+          ],
+          "text": "RESULIS",
+          "confidence": 0.6766
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1358.0,
+            1010.0,
+            1384.0
+          ],
+          "text": "UNS",
+          "confidence": 0.8484
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            1355.0,
+            1321.0,
+            1386.0
+          ],
+          "text": "RETLRANGE",
+          "confidence": 0.3296
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1393.0,
+            354.0,
+            1426.0
+          ],
+          "text": "BLodp UREA",
+          "confidence": 0.3174
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1430.0,
+            350.0,
+            1462.0
+          ],
+          "text": "EloQD UREA",
+          "confidence": 0.1506
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            1430.0,
+            688.0,
+            1460.0
+          ],
+          "text": "28",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            1429.0,
+            1001.0,
+            1465.0
+          ],
+          "text": "Mgd",
+          "confidence": 0.1621
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1212.0,
+            1430.0,
+            1282.0,
+            1460.0
+          ],
+          "text": "13 45",
+          "confidence": 0.7443
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1466.0,
+            422.0,
+            1498.0
+          ],
+          "text": "SERUA CREATIINE",
+          "confidence": 0.3063
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1502.0,
+            270.0,
+            1534.0
+          ],
+          "text": "SERU",
+          "confidence": 0.8657
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            1502.0,
+            422.0,
+            1534.0
+          ],
+          "text": "CREATININE",
+          "confidence": 0.7753
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1504.0,
+            686.0,
+            1534.0
+          ],
+          "text": "077",
+          "confidence": 0.3539
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1504.0,
+            1000.0,
+            1536.0
+          ],
+          "text": "mgid",
+          "confidence": 0.1873
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1502.0,
+            1288.0,
+            1534.0
+          ],
+          "text": "061 4",
+          "confidence": 0.7253
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1538.0,
+            270.0,
+            1570.0
+          ],
+          "text": "ISERU",
+          "confidence": 0.3438
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1538.0,
+            404.0,
+            1570.0
+          ],
+          "text": "URIC ACI",
+          "confidence": 0.6954
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1574.0,
+            270.0,
+            1604.0
+          ],
+          "text": "SzRL",
+          "confidence": 0.2589
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            1574.0,
+            402.0,
+            1604.0
+          ],
+          "text": "URIC ACDD",
+          "confidence": 0.9408
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1574.0,
+            686.0,
+            1602.0
+          ],
+          "text": "46",
+          "confidence": 0.918
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1574.0,
+            1288.0,
+            1604.0
+          ],
+          "text": "35-72",
+          "confidence": 0.4217
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1610.0,
+            272.0,
+            1640.0
+          ],
+          "text": "SERL",
+          "confidence": 0.8331
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1610.0,
+            460.0,
+            1642.0
+          ],
+          "text": "ELECTROLYIES",
+          "confidence": 0.8707
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1646.0,
+            380.0,
+            1676.0
+          ],
+          "text": "ISERI 4 SODIUM",
+          "confidence": 0.1552
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1648.0,
+            688.0,
+            1676.0
+          ],
+          "text": "138",
+          "confidence": 0.506
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1648.0,
+            1010.0,
+            1676.0
+          ],
+          "text": "Waqlal",
+          "confidence": 0.1431
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1201.0,
+            1646.0,
+            1293.0,
+            1676.0
+          ],
+          "text": "135155",
+          "confidence": 0.9738
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1682.0,
+            270.0,
+            1714.0
+          ],
+          "text": "SZRU",
+          "confidence": 0.1619
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            1682.0,
+            404.0,
+            1712.0
+          ],
+          "text": "POTASIUM",
+          "confidence": 0.6487
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            1684.0,
+            688.0,
+            1712.0
+          ],
+          "text": "39",
+          "confidence": 0.8837
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1684.0,
+            1010.0,
+            1712.0
+          ],
+          "text": "meqidl",
+          "confidence": 0.3068
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            1682.0,
+            1288.0,
+            1712.0
+          ],
+          "text": "35 55",
+          "confidence": 0.4402
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1718.0,
+            270.0,
+            1748.0
+          ],
+          "text": "SERU",
+          "confidence": 0.4558
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            1718.0,
+            394.0,
+            1748.0
+          ],
+          "text": "CAcIA",
+          "confidence": 0.2913
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            1748.0,
+            391.0,
+            1786.0
+          ],
+          "text": "ISERU ' CALCIUY",
+          "confidence": 0.1325
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1754.0,
+            688.0,
+            1784.0
+          ],
+          "text": "8 5",
+          "confidence": 0.9632
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            1752.0,
+            1294.0,
+            1782.0
+          ],
+          "text": "8 4 10 4",
+          "confidence": 0.4312
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1788.0,
+            444.0,
+            1820.0
+          ],
+          "text": "SERUM PHOSPHORUS",
+          "confidence": 0.5279
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            1823.0,
+            445.0,
+            1859.0
+          ],
+          "text": "SERU AROEPHORUS",
+          "confidence": 0.0837
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1826.0,
+            688.0,
+            1856.0
+          ],
+          "text": "33",
+          "confidence": 0.9828
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1828.0,
+            998.0,
+            1854.0
+          ],
+          "text": "Maic",
+          "confidence": 0.1746
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            1824.0,
+            1280.0,
+            1854.0
+          ],
+          "text": "26-5",
+          "confidence": 0.2093
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            1886.0,
+            940.0,
+            1948.0
+          ],
+          "text": "SWETA KUMARI",
+          "confidence": 0.9654
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            1007.0,
+            1867.0,
+            1063.0,
+            1911.0
+          ],
+          "text": "Dr",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1069.0,
+            1861.0,
+            1386.0,
+            1929.0
+          ],
+          "text": "GURLEEN GILL",
+          "confidence": 0.8662
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            563.0,
+            1909.0,
+            617.0,
+            1945.0
+          ],
+          "text": "D;",
+          "confidence": 0.3832
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            1924.0,
+            931.0,
+            1979.0
+          ],
+          "text": "MBB.S_MS",
+          "confidence": 0.5328
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            1007.0,
+            1911.0,
+            1163.0,
+            1955.0
+          ],
+          "text": "MBBS, M",
+          "confidence": 0.4544
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1909.0,
+            1385.0,
+            1975.0
+          ],
+          "text": "9-tFathology)",
+          "confidence": 0.2887
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            655.0,
+            1977.0,
+            753.0,
+            2013.0
+          ],
+          "text": "(Obs_",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            765.0,
+            1968.0,
+            943.0,
+            2013.0
+          ],
+          "text": "& Gynae)",
+          "confidence": 0.838
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            1000.0,
+            1946.0,
+            1381.0,
+            2006.0
+          ],
+          "text": "RegAuNAgDA-CIROIBB8",
+          "confidence": 0.0454
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            2003.0,
+            221.0,
+            2041.0
+          ],
+          "text": "CBC , Thyroid,",
+          "confidence": 0.6351
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            323.0,
+            2013.0,
+            365.0,
+            2031.0
+          ],
+          "text": "anC",
+          "confidence": 0.1221
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            2004.0,
+            528.0,
+            2036.0
+          ],
+          "text": "Test, Livet",
+          "confidence": 0.7432
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            1999.0,
+            1590.0,
+            2053.0
+          ],
+          "text": "Function JeLHiHnvibivg [8gan LH, ESH Prolactin B-HCG TORCH CA-125,CEA FSA",
+          "confidence": 0.0246
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            2046.0,
+            1469.0,
+            2088.0
+          ],
+          "text": "Ju40 Paica Doppler Uibrasound; #.5 G. IvP; Barlum Studies: Diqital X-Rey: Mulli Slice Spiral Ct Scan, Ec.6_",
+          "confidence": 0.0058
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            309.0,
+            2080.0,
+            1343.0,
+            2119.0
+          ],
+          "text": "EE.G.-21 Channuls EMG NcV Vep 8.E.rA. Pft & Comprchensive Health chack-Wps elc:",
+          "confidence": 0.061
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            2143.0,
+            1545.0,
+            2207.0
+          ],
+          "text": "30/4D Ultrasound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab",
+          "confidence": 0.6832
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            2224.0,
+            766.0,
+            2272.0
+          ],
+          "text": "Nor FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.7537
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            2220.0,
+            1416.0,
+            2276.0
+          ],
+          "text": "Tm& &fau 24 1e guatat 81",
+          "confidence": 0.1025
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            934.710199258823,
+            1216.4968911883748,
+            999.289800741177,
+            1252.5031088116252
+          ],
+          "text": "gma",
+          "confidence": 0.3656
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            933.6583592135001,
+            1251.531395729877,
+            999.3416407864999,
+            1286.468604270123
+          ],
+          "text": "guc",
+          "confidence": 0.1163
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            936.5430712064641,
+            1574.50639744434,
+            999.4569287935359,
+            1608.49360255566
+          ],
+          "text": "mg d",
+          "confidence": 0.6512
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            936.6583592135001,
+            1752.435649971638,
+            999.3416407864999,
+            1788.564350028362
+          ],
+          "text": "mg d",
+          "confidence": 0.6058
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            264.98198161801105,
+            1851.5904527556638,
+            338.01801838198895,
+            1887.4095472443362
+          ],
+          "text": "aHe",
+          "confidence": 0.1072
+        }
+      ]
+    }
+  ],
+  "full_text": "DSCAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nOpp: Civil Hospital, Sonipat\nMob :\nJrnsictlon No;\n41859\nPatieh: Name\nMRS POOJA\nDate\nMobie No;\nDocte\nBOCHHMSHHFO\noiy\nFt :\nu\nWVEK FUN TIONTESD\nCOMONEM\nRESULTS\nLNES\nRELLEANGE\nIserU  BILIRUBIN\nTOTAL biuRUBIR\n0.9\nmg d\n02-12\nDRREYT BILIRUBIN\n0,3\nmg'd\n0-0 4\nIndifect BILIRUBIN\n0,6\ningldl\n0 2-1.8\nsGd\nEG.4\n98\nWiL\n5-34\n5.G Pl\n66,F\n89\nU\n0-31\nALKAUINE PHOSPHALASI\nKLKANNE PHOSPHATASE\n85\nII\n39-|10\nITOTAL PROTEINWIIHNG RAIQ\nISERU\nPROTEIN\n6 4\ngnd\n6-8,3\nSeRU\nALBUMIA\n36\n32-5.0\nISERU\nGLOBULN\n2 8\n25-35\nest Hame :\nRFTTRFT\nCOMPONE\nRESULIS\nUNS\nRETLRANGE\nBLodp UREA\nEloQD UREA\n28\nMgd\n13 45\nSERUA CREATIINE\nSERU\nCREATININE\n077\nmgid\n061 4\nISERU\nURIC ACI\nSzRL\nURIC ACDD\n46\n35-72\nSERL\nELECTROLYIES\nISERI 4 SODIUM\n138\nWaqlal\n135155\nSZRU\nPOTASIUM\n39\nmeqidl\n35 55\nSERU\nCAcIA\nISERU ' CALCIUY\n8 5\n8 4 10 4\nSERUM PHOSPHORUS\nSERU AROEPHORUS\n33\nMaic\n26-5\nSWETA KUMARI\nDr\nGURLEEN GILL\nD;\nMBB.S_MS\nMBBS, M\n9-tFathology)\n(Obs_\n& Gynae)\nRegAuNAgDA-CIROIBB8\nCBC , Thyroid,\nanC\nTest, Livet\nFunction JeLHiHnvibivg [8gan LH, ESH Prolactin B-HCG TORCH CA-125,CEA FSA\nJu40 Paica Doppler Uibrasound; #.5 G. IvP; Barlum Studies: Diqital X-Rey: Mulli Slice Spiral Ct Scan, Ec.6_\nEE.G.-21 Channuls EMG NcV Vep 8.E.rA. Pft & Comprchensive Health chack-Wps elc:\n30/4D Ultrasound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNor FOR MEDICO LEGAL PURPOSE\nTm& &fau 24 1e guatat 81\ngma\nguc\nmg d\nmg d\naHe",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "EG.",
+          "biomarker_normalized": "EG.",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EG.4",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ISERI",
+          "biomarker_normalized": "ISERI",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ISERI 4 SODIUM",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Function JeLHiHnvibivg [",
+          "biomarker_normalized": "Function JeLHiHnvibivg [",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Function JeLHiHnvibivg [8gan LH, ESH Prolactin B-HCG TORCH CA-125,CEA FSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ju4",
+          "biomarker_normalized": "Ju4",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ju40 Paica Doppler Uibrasound; #.5 G. IvP; Barlum Studies: Diqital X-Rey: Mulli Slice Spiral Ct Scan, Ec.6_",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "EE.G.",
+          "biomarker_normalized": "EE.G.",
+          "value": "-21",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EE.G.-21 Channuls EMG NcV Vep 8.E.rA. Pft & Comprchensive Health chack-Wps elc:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Tm& &fau",
+          "biomarker_normalized": "Tm& &fau",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Tm& &fau 24 1e guatat 81",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 131,
+    "ocr_avg_confidence": 0.4932,
+    "parsed_row_count": 6
+  }
+}

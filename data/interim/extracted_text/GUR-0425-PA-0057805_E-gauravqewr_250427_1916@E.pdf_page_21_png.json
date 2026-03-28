@@ -1,0 +1,552 @@
+{
+  "document_id": "GUR-0425-PA-0057805_E-gauravqewr_250427_1916@E.pdf_page_21",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057805_E-gauravqewr_250427_1916@E.pdf_page_21.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Laboratory Investigation Report\nPatient)\nCentre\nCollection DatelTime\n27/Apr/2025 10.30AM\nDr:Meenakshi Jain\nReportlng DatelTime\n27/Apr/2025 12.58PM\nClinical Biochemistry\nTest\nBio Ref ikterval\nUrine\nUrinary Potassium (Spot)\n10.75\nmmolll\nISE Indirect\nComment Ref Ranges\nMale\n<40 years: 1 [\n80\n240 years: 17\n99\nFemale\n<\n40 years: 17\n145\n240 years: 22\n164\nKindly correlate with clinical findings\nEnd Of Report\nRrLl:\nResults]\nIfollow;\nDr.Preeli Tull,M.D;\nAscociate Okncctor & Quauty\nTest Perfonned at ;969\nMax Lab R G Square Mall, Patpargan;, IO8A, (P Ext; [ PExtension; Patparganj; Delhi,\nBooking Centre .5574 - Max Hospital,. Patparganj, Jrd Floor; RG Mall, IP Extension; Patparganj Delhi;\nThe\nauthenticity of the report can be verified by scanning the Q R Code on\nof the\ntop",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            164.0,
+            1009.0,
+            206.0
+          ],
+          "text": "Laboratory Investigation Report",
+          "confidence": 0.9527
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            198.0,
+            144.0,
+            224.0
+          ],
+          "text": "Patient)",
+          "confidence": 0.3333
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            838.0,
+            216.0,
+            910.0,
+            240.0
+          ],
+          "text": "Centre",
+          "confidence": 0.618
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            835.0,
+            280.0,
+            1048.0,
+            310.0
+          ],
+          "text": "Collection DatelTime",
+          "confidence": 0.964
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1058.0,
+            286.0,
+            1270.0,
+            314.0
+          ],
+          "text": "27/Apr/2025 10.30AM",
+          "confidence": 0.7116
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            301.0,
+            490.0,
+            330.0
+          ],
+          "text": "Dr:Meenakshi Jain",
+          "confidence": 0.8575
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            835.0,
+            313.0,
+            1046.0,
+            344.0
+          ],
+          "text": "Reportlng DatelTime",
+          "confidence": 0.5813
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1058.0,
+            318.0,
+            1270.0,
+            346.0
+          ],
+          "text": "27/Apr/2025 12.58PM",
+          "confidence": 0.8845
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            357.0,
+            870.0,
+            387.0
+          ],
+          "text": "Clinical Biochemistry",
+          "confidence": 0.9333
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            384.0,
+            106.0,
+            410.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            404.0,
+            1316.0,
+            432.0
+          ],
+          "text": "Bio Ref ikterval",
+          "confidence": 0.3414
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            426.0,
+            320.0,
+            454.0
+          ],
+          "text": "Urine",
+          "confidence": 0.7683
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            464.0,
+            353.0,
+            503.0
+          ],
+          "text": "Urinary Potassium (Spot)",
+          "confidence": 0.9357
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            676.0,
+            476.0,
+            742.0,
+            504.0
+          ],
+          "text": "10.75",
+          "confidence": 0.5923
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            484.0,
+            1118.0,
+            510.0
+          ],
+          "text": "mmolll",
+          "confidence": 0.835
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            494.0,
+            188.0,
+            520.0
+          ],
+          "text": "ISE Indirect",
+          "confidence": 0.8538
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            45.0,
+            565.0,
+            335.0,
+            613.0
+          ],
+          "text": "Comment Ref Ranges",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            644.0,
+            124.0,
+            676.0
+          ],
+          "text": "Male",
+          "confidence": 0.5894
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            45.0,
+            683.0,
+            221.0,
+            723.0
+          ],
+          "text": "<40 years: 1 [",
+          "confidence": 0.6239
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            686.0,
+            276.0,
+            718.0
+          ],
+          "text": "80",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            723.0,
+            225.0,
+            761.0
+          ],
+          "text": "240 years: 17",
+          "confidence": 0.8255
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            235.0,
+            725.0,
+            275.0,
+            761.0
+          ],
+          "text": "99",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            762.0,
+            147.0,
+            800.0
+          ],
+          "text": "Female",
+          "confidence": 0.6083
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            47.0,
+            809.0,
+            69.0,
+            829.0
+          ],
+          "text": "<",
+          "confidence": 0.9806
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            803.0,
+            223.0,
+            843.0
+          ],
+          "text": "40 years: 17",
+          "confidence": 0.8972
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            808.0,
+            288.0,
+            840.0
+          ],
+          "text": "145",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            41.0,
+            843.0,
+            221.0,
+            883.0
+          ],
+          "text": "240 years: 22",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            848.0,
+            288.0,
+            880.0
+          ],
+          "text": "164",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            38.0,
+            970.0,
+            466.0,
+            1024.0
+          ],
+          "text": "Kindly correlate with clinical findings",
+          "confidence": 0.9866
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            1032.0,
+            888.0,
+            1072.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.7864
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            1123.0,
+            191.0,
+            1167.0
+          ],
+          "text": "RrLl:",
+          "confidence": 0.2703
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            672.0,
+            1136.0,
+            754.0,
+            1164.0
+          ],
+          "text": "Results]",
+          "confidence": 0.5789
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            776.0,
+            1138.0,
+            854.0,
+            1166.0
+          ],
+          "text": "Ifollow;",
+          "confidence": 0.3971
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            45.0,
+            1175.0,
+            173.0,
+            1193.0
+          ],
+          "text": "Dr.Preeli Tull,M.D;",
+          "confidence": 0.2282
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            45.0,
+            1193.0,
+            231.0,
+            1213.0
+          ],
+          "text": "Ascociate Okncctor & Quauty",
+          "confidence": 0.1211
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            20.0,
+            1987.0,
+            214.0,
+            2015.0
+          ],
+          "text": "Test Perfonned at ;969",
+          "confidence": 0.5679
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            1991.0,
+            938.0,
+            2034.0
+          ],
+          "text": "Max Lab R G Square Mall, Patpargan;, IO8A, (P Ext; [ PExtension; Patparganj; Delhi,",
+          "confidence": 0.4313
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            13.0,
+            2012.0,
+            1015.0,
+            2074.0
+          ],
+          "text": "Booking Centre .5574 - Max Hospital,. Patparganj, Jrd Floor; RG Mall, IP Extension; Patparganj Delhi;",
+          "confidence": 0.3382
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            18.0,
+            2054.0,
+            62.0,
+            2080.0
+          ],
+          "text": "The",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            2049.0,
+            746.0,
+            2100.0
+          ],
+          "text": "authenticity of the report can be verified by scanning the Q R Code on",
+          "confidence": 0.8037
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            2070.0,
+            844.0,
+            2098.0
+          ],
+          "text": "of the",
+          "confidence": 0.6216
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            739.3030303934881,
+            2069.186753717829,
+            783.6969696065119,
+            2101.813246282171
+          ],
+          "text": "top",
+          "confidence": 0.9963
+        }
+      ]
+    }
+  ],
+  "full_text": "Laboratory Investigation Report\nPatient)\nCentre\nCollection DatelTime\n27/Apr/2025 10.30AM\nDr:Meenakshi Jain\nReportlng DatelTime\n27/Apr/2025 12.58PM\nClinical Biochemistry\nTest\nBio Ref ikterval\nUrine\nUrinary Potassium (Spot)\n10.75\nmmolll\nISE Indirect\nComment Ref Ranges\nMale\n<40 years: 1 [\n80\n240 years: 17\n99\nFemale\n<\n40 years: 17\n145\n240 years: 22\n164\nKindly correlate with clinical findings\nEnd Of Report\nRrLl:\nResults]\nIfollow;\nDr.Preeli Tull,M.D;\nAscociate Okncctor & Quauty\nTest Perfonned at ;969\nMax Lab R G Square Mall, Patpargan;, IO8A, (P Ext; [ PExtension; Patparganj; Delhi,\nBooking Centre .5574 - Max Hospital,. Patparganj, Jrd Floor; RG Mall, IP Extension; Patparganj Delhi;\nThe\nauthenticity of the report can be verified by scanning the Q R Code on\nof the\ntop",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Test Perfonned at ;",
+          "biomarker_normalized": "Test Perfonned at ;",
+          "value": "969",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Test Perfonned at ;969",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Booking Centre .",
+          "biomarker_normalized": "Booking Centre .",
+          "value": "5574",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Booking Centre .5574 - Max Hospital,. Patparganj, Jrd Floor; RG Mall, IP Extension; Patparganj Delhi;",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 42,
+    "ocr_avg_confidence": 0.7336,
+    "parsed_row_count": 2
+  }
+}

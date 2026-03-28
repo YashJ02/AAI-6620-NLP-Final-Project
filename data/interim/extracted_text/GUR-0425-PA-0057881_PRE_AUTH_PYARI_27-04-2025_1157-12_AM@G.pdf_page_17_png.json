@@ -1,0 +1,1683 @@
+{
+  "document_id": "GUR-0425-PA-0057881_PRE_AUTH_PYARI_27-04-2025_1157-12_AM@G.pdf_page_17",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057881_PRE_AUTH_PYARI_27-04-2025_1157-12_AM@G.pdf_page_17.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PATHOLOGY\nPatient\nUHID\n1992\nSample\nDate\n27/0 4/2025\n7:5CAM\nS:QOA\nOPA\nReport\nDa te\n27/04/2025\n6 : 48AM\nReferred\nBy\nReport\nStatus\nFina -\nTest\nName\nRe\nUnit\nBiological\nRe f\nMe chod\nRange\nBlood\nGas\nValue\npH\n77,350\n77 ,450\npCo2\n41\nmmHg\n35\n45\n30\nminllg\n8\n:U\nOxime\nValues\nCLHb\n1,2\ng / dL\n12 ,0\n416, (\n502\n50\n95\n30 ,0\nHcLc\n3 9\n0\nElectrolyte\nValues\ncK +\n4\n2\nmmol/L\n3 .5\n4:5\ncNa +\n131\nnmo] / L\n132,0\n145 . 0\ncCa2+\n1\n0\nmmol /L\n1.15\n1.29\nccl\n103\nmmol /L\n0 6 , 0\n10,6\nMe tabolite\nValue\ncGlu\n135\nmg /dL\n80. 0\n420 .0\ncLac\n2\n0\nmmol / L\n0 .5 -).5\nAcid\nbase\nStatus\ncBase (Ecf) \u20ac\n-3\nTuo]/L\ncHCO3 - (P, St) c\n20\nnmol/L\nEnd\n0f\nReport\nProvisional Result Entered By\nPRIYANKA\nMONDAL\nMBBS\nMD\n(PATHOLOGY )\nSHAREEF KHAN AHCI18O\nNo\nDMC\n115146\nTus\nCOMpule\ngenerateu\n[#pot {\nTu\n49nd\n0i:]\n7qu4720\nConeent\n68\nEa\nTepo:\ne\nOn\nan\nOpinion\nnot\nAne\nragnos\npO2\ntry\nDr\nReg",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            729.0,
+            439.0,
+            947.0,
+            475.0
+          ],
+          "text": "PATHOLOGY",
+          "confidence": 0.9193
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            486.0,
+            200.0,
+            518.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            526.0,
+            144.0,
+            556.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            528.0,
+            374.0,
+            560.0
+          ],
+          "text": "1992",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            975.0,
+            537.0,
+            1093.0,
+            573.0
+          ],
+          "text": "Sample",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            540.0,
+            1182.0,
+            566.0
+          ],
+          "text": "Date",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1252.0,
+            538.0,
+            1440.0,
+            570.0
+          ],
+          "text": "27/0 4/2025",
+          "confidence": 0.671
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1472.0,
+            540.0,
+            1590.0,
+            572.0
+          ],
+          "text": "7:5CAM",
+          "confidence": 0.3363
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1472.0,
+            588.0,
+            1590.0,
+            620.0
+          ],
+          "text": "S:QOA",
+          "confidence": 0.4088
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            626.0,
+            350.0,
+            656.0
+          ],
+          "text": "OPA",
+          "confidence": 0.2285
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            634.0,
+            1091.0,
+            670.0
+          ],
+          "text": "Report",
+          "confidence": 0.9048
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            638.0,
+            1180.0,
+            666.0
+          ],
+          "text": "Da te",
+          "confidence": 0.7524
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            633.0,
+            1441.0,
+            672.0
+          ],
+          "text": "27/04/2025",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1470.0,
+            638.0,
+            1588.0,
+            670.0
+          ],
+          "text": "6 : 48AM",
+          "confidence": 0.3952
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            670.0,
+            216.0,
+            702.0
+          ],
+          "text": "Referred",
+          "confidence": 0.9018
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            675.0,
+            273.0,
+            711.0
+          ],
+          "text": "By",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            680.0,
+            1091.0,
+            718.0
+          ],
+          "text": "Report",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            684.0,
+            1216.0,
+            712.0
+          ],
+          "text": "Status",
+          "confidence": 0.8089
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1252.0,
+            684.0,
+            1346.0,
+            716.0
+          ],
+          "text": "Fina -",
+          "confidence": 0.6964
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            742.0,
+            136.0,
+            770.0
+          ],
+          "text": "Test",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            742.0,
+            226.0,
+            770.0
+          ],
+          "text": "Name",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            746.0,
+            454.0,
+            772.0
+          ],
+          "text": "Re",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            634.0,
+            746.0,
+            714.0,
+            776.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            746.0,
+            1017.0,
+            784.0
+          ],
+          "text": "Biological",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            752.0,
+            1092.0,
+            778.0
+          ],
+          "text": "Re f",
+          "confidence": 0.5511
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            754.0,
+            1356.0,
+            780.0
+          ],
+          "text": "Me chod",
+          "confidence": 0.7598
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            827.0,
+            784.0,
+            929.0,
+            820.0
+          ],
+          "text": "Range",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            824.0,
+            144.0,
+            850.0
+          ],
+          "text": "Blood",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            823.0,
+            210.0,
+            852.0
+          ],
+          "text": "Gas",
+          "confidence": 0.9896
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            826.0,
+            308.0,
+            852.0
+          ],
+          "text": "Value",
+          "confidence": 0.6462
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            870.0,
+            112.0,
+            902.0
+          ],
+          "text": "pH",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            874.0,
+            902.0,
+            900.0
+          ],
+          "text": "77,350",
+          "confidence": 0.3919
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            934.0,
+            874.0,
+            1008.0,
+            900.0
+          ],
+          "text": "77 ,450",
+          "confidence": 0.1745
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            914.0,
+            144.0,
+            946.0
+          ],
+          "text": "pCo2",
+          "confidence": 0.8801
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            916.0,
+            448.0,
+            944.0
+          ],
+          "text": "41",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            629.0,
+            915.0,
+            706.0,
+            951.0
+          ],
+          "text": "mmHg",
+          "confidence": 0.9804
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            918.0,
+            864.0,
+            942.0
+          ],
+          "text": "35",
+          "confidence": 0.8952
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            920.0,
+            928.0,
+            944.0
+          ],
+          "text": "45",
+          "confidence": 0.9752
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            960.0,
+            450.0,
+            990.0
+          ],
+          "text": "30",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            629.0,
+            959.0,
+            706.0,
+            995.0
+          ],
+          "text": "minllg",
+          "confidence": 0.2799
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            831.0,
+            965.0,
+            861.0,
+            985.0
+          ],
+          "text": "8",
+          "confidence": 0.1814
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            964.0,
+            942.0,
+            988.0
+          ],
+          "text": ":U",
+          "confidence": 0.4202
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            1002.0,
+            158.0,
+            1028.0
+          ],
+          "text": "Oxime",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            1002.0,
+            322.0,
+            1030.0
+          ],
+          "text": "Values",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            1046.0,
+            158.0,
+            1072.0
+          ],
+          "text": "CLHb",
+          "confidence": 0.7708
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            1048.0,
+            450.0,
+            1078.0
+          ],
+          "text": "1,2",
+          "confidence": 0.436
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            1050.0,
+            706.0,
+            1082.0
+          ],
+          "text": "g / dL",
+          "confidence": 0.6223
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1050.0,
+            888.0,
+            1074.0
+          ],
+          "text": "12 ,0",
+          "confidence": 0.1605
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            1050.0,
+            982.0,
+            1076.0
+          ],
+          "text": "416, (",
+          "confidence": 0.1812
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            1092.0,
+            140.0,
+            1118.0
+          ],
+          "text": "502",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            1092.0,
+            450.0,
+            1122.0
+          ],
+          "text": "50",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1094.0,
+            862.0,
+            1118.0
+          ],
+          "text": "95",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            1096.0,
+            980.0,
+            1120.0
+          ],
+          "text": "30 ,0",
+          "confidence": 0.2677
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            1136.0,
+            158.0,
+            1162.0
+          ],
+          "text": "HcLc",
+          "confidence": 0.972
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1138.0,
+            450.0,
+            1166.0
+          ],
+          "text": "3 9",
+          "confidence": 0.4626
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            1141.0,
+            651.0,
+            1165.0
+          ],
+          "text": "0",
+          "confidence": 0.1029
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            1173.0,
+            275.0,
+            1215.0
+          ],
+          "text": "Electrolyte",
+          "confidence": 0.8751
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            284.0,
+            1180.0,
+            388.0,
+            1208.0
+          ],
+          "text": "Values",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            1226.0,
+            156.0,
+            1252.0
+          ],
+          "text": "cK +",
+          "confidence": 0.7328
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            411.0,
+            1229.0,
+            431.0,
+            1253.0
+          ],
+          "text": "4",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            443.0,
+            1229.0,
+            461.0,
+            1255.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            629.0,
+            1226.0,
+            736.0,
+            1259.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.9788
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1228.0,
+            874.0,
+            1254.0
+          ],
+          "text": "3 .5",
+          "confidence": 0.3487
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            906.0,
+            1230.0,
+            952.0,
+            1254.0
+          ],
+          "text": "4:5",
+          "confidence": 0.1383
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            1270.0,
+            172.0,
+            1296.0
+          ],
+          "text": "cNa +",
+          "confidence": 0.7791
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            1272.0,
+            460.0,
+            1298.0
+          ],
+          "text": "131",
+          "confidence": 0.9597
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            1274.0,
+            734.0,
+            1300.0
+          ],
+          "text": "nmo] / L",
+          "confidence": 0.4455
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1272.0,
+            900.0,
+            1298.0
+          ],
+          "text": "132,0",
+          "confidence": 0.299
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            1274.0,
+            1006.0,
+            1298.0
+          ],
+          "text": "145 . 0",
+          "confidence": 0.6951
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            1312.0,
+            190.0,
+            1340.0
+          ],
+          "text": "cCa2+",
+          "confidence": 0.9566
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            1314.0,
+            432.0,
+            1342.0
+          ],
+          "text": "1",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            445.0,
+            1317.0,
+            461.0,
+            1341.0
+          ],
+          "text": "0",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1318.0,
+            736.0,
+            1346.0
+          ],
+          "text": "mmol /L",
+          "confidence": 0.6587
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1316.0,
+            886.0,
+            1340.0
+          ],
+          "text": "1.15",
+          "confidence": 0.6815
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1318.0,
+            980.0,
+            1342.0
+          ],
+          "text": "1.29",
+          "confidence": 0.2371
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            1356.0,
+            155.0,
+            1386.0
+          ],
+          "text": "ccl",
+          "confidence": 0.9541
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            1360.0,
+            464.0,
+            1390.0
+          ],
+          "text": "103",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1362.0,
+            736.0,
+            1390.0
+          ],
+          "text": "mmol /L",
+          "confidence": 0.8976
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1362.0,
+            886.0,
+            1386.0
+          ],
+          "text": "0 6 , 0",
+          "confidence": 0.5295
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1362.0,
+            966.0,
+            1386.0
+          ],
+          "text": "10,6",
+          "confidence": 0.354
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            1402.0,
+            272.0,
+            1430.0
+          ],
+          "text": "Me tabolite",
+          "confidence": 0.8444
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            282.0,
+            1404.0,
+            370.0,
+            1430.0
+          ],
+          "text": "Value",
+          "confidence": 0.9784
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1446.0,
+            188.0,
+            1474.0
+          ],
+          "text": "cGlu",
+          "confidence": 0.9421
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            1448.0,
+            462.0,
+            1478.0
+          ],
+          "text": "135",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1450.0,
+            720.0,
+            1482.0
+          ],
+          "text": "mg /dL",
+          "confidence": 0.9114
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1450.0,
+            886.0,
+            1476.0
+          ],
+          "text": "80. 0",
+          "confidence": 0.4414
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            1450.0,
+            992.0,
+            1476.0
+          ],
+          "text": "420 .0",
+          "confidence": 0.367
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1494.0,
+            188.0,
+            1520.0
+          ],
+          "text": "cLac",
+          "confidence": 0.9444
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            1494.0,
+            430.0,
+            1520.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            441.0,
+            1493.0,
+            459.0,
+            1521.0
+          ],
+          "text": "0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1496.0,
+            734.0,
+            1524.0
+          ],
+          "text": "mmol / L",
+          "confidence": 0.7354
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1494.0,
+            952.0,
+            1520.0
+          ],
+          "text": "0 .5 -).5",
+          "confidence": 0.2018
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1536.0,
+            190.0,
+            1564.0
+          ],
+          "text": "Acid",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1538.0,
+            270.0,
+            1564.0
+          ],
+          "text": "base",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            281.0,
+            1537.0,
+            386.0,
+            1568.0
+          ],
+          "text": "Status",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1582.0,
+            322.0,
+            1610.0
+          ],
+          "text": "cBase (Ecf) \u20ac",
+          "confidence": 0.9114
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            1582.0,
+            446.0,
+            1608.0
+          ],
+          "text": "-3",
+          "confidence": 0.1133
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1584.0,
+            734.0,
+            1612.0
+          ],
+          "text": "Tuo]/L",
+          "confidence": 0.1726
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1624.0,
+            370.0,
+            1656.0
+          ],
+          "text": "cHCO3 - (P, St) c",
+          "confidence": 0.5442
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            1626.0,
+            446.0,
+            1656.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1628.0,
+            734.0,
+            1656.0
+          ],
+          "text": "nmol/L",
+          "confidence": 0.9459
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            668.0,
+            1730.0,
+            724.0,
+            1756.0
+          ],
+          "text": "End",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            1730.0,
+            776.0,
+            1760.0
+          ],
+          "text": "0f",
+          "confidence": 0.3452
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            1732.0,
+            890.0,
+            1762.0
+          ],
+          "text": "Report",
+          "confidence": 0.7249
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            655.0,
+            2189.0,
+            980.0,
+            2220.0
+          ],
+          "text": "Provisional Result Entered By",
+          "confidence": 0.8959
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            2180.0,
+            1410.0,
+            2206.0
+          ],
+          "text": "PRIYANKA",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1420.0,
+            2180.0,
+            1524.0,
+            2206.0
+          ],
+          "text": "MONDAL",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            2212.0,
+            1276.0,
+            2236.0
+          ],
+          "text": "MBBS",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            2212.0,
+            1326.0,
+            2236.0
+          ],
+          "text": "MD",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            2210.0,
+            1520.0,
+            2238.0
+          ],
+          "text": "(PATHOLOGY )",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            2228.0,
+            942.0,
+            2256.0
+          ],
+          "text": "SHAREEF KHAN AHCI18O",
+          "confidence": 0.5434
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            2244.0,
+            1310.0,
+            2270.0
+          ],
+          "text": "No",
+          "confidence": 0.8855
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            2244.0,
+            1410.0,
+            2268.0
+          ],
+          "text": "DMC",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1419.0,
+            2241.0,
+            1525.0,
+            2269.0
+          ],
+          "text": "115146",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            2287.0,
+            111.0,
+            2303.0
+          ],
+          "text": "Tus",
+          "confidence": 0.7816
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            2289.0,
+            249.0,
+            2305.0
+          ],
+          "text": "COMpule",
+          "confidence": 0.2844
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            255.0,
+            2289.0,
+            349.0,
+            2305.0
+          ],
+          "text": "generateu",
+          "confidence": 0.3727
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            355.0,
+            2289.0,
+            415.0,
+            2307.0
+          ],
+          "text": "[#pot {",
+          "confidence": 0.0829
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            425.0,
+            2291.0,
+            447.0,
+            2303.0
+          ],
+          "text": "Tu",
+          "confidence": 0.1389
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            465.0,
+            2291.0,
+            507.0,
+            2305.0
+          ],
+          "text": "49nd",
+          "confidence": 0.0174
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            517.0,
+            2289.0,
+            559.0,
+            2305.0
+          ],
+          "text": "0i:]",
+          "confidence": 0.0107
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            575.0,
+            2291.0,
+            651.0,
+            2307.0
+          ],
+          "text": "7qu4720",
+          "confidence": 0.0352
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            2307.0,
+            139.0,
+            2323.0
+          ],
+          "text": "Coneent",
+          "confidence": 0.4458
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            2307.0,
+            169.0,
+            2323.0
+          ],
+          "text": "68",
+          "confidence": 0.0388
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            2307.0,
+            219.0,
+            2323.0
+          ],
+          "text": "Ea",
+          "confidence": 0.0362
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            2309.0,
+            277.0,
+            2323.0
+          ],
+          "text": "Tepo:",
+          "confidence": 0.0546
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            295.0,
+            2309.0,
+            319.0,
+            2323.0
+          ],
+          "text": "e",
+          "confidence": 0.2823
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            325.0,
+            2307.0,
+            369.0,
+            2325.0
+          ],
+          "text": "On",
+          "confidence": 0.412
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            373.0,
+            2311.0,
+            397.0,
+            2325.0
+          ],
+          "text": "an",
+          "confidence": 0.2148
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            2307.0,
+            477.0,
+            2325.0
+          ],
+          "text": "Opinion",
+          "confidence": 0.3727
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            485.0,
+            2311.0,
+            517.0,
+            2325.0
+          ],
+          "text": "not",
+          "confidence": 0.8916
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            525.0,
+            2309.0,
+            559.0,
+            2325.0
+          ],
+          "text": "Ane",
+          "confidence": 0.1586
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            565.0,
+            2309.0,
+            659.0,
+            2325.0
+          ],
+          "text": "ragnos",
+          "confidence": 0.1711
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            69.71019925882295,
+            956.3702461655282,
+            129.28980074117703,
+            992.6297538344718
+          ],
+          "text": "pO2",
+          "confidence": 0.603
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            150.13379207705128,
+            1001.1638810551212,
+            210.86620792294872,
+            1035.8361189448788
+          ],
+          "text": "try",
+          "confidence": 0.691
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            1201.228773659285,
+            2177.214569927344,
+            1247.771226340715,
+            2207.785430072656
+          ],
+          "text": "Dr",
+          "confidence": 0.9724
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            1200.1251367176803,
+            2241.1638810551212,
+            1262.8748632823197,
+            2275.8361189448788
+          ],
+          "text": "Reg",
+          "confidence": 0.8916
+        }
+      ]
+    }
+  ],
+  "full_text": "PATHOLOGY\nPatient\nUHID\n1992\nSample\nDate\n27/0 4/2025\n7:5CAM\nS:QOA\nOPA\nReport\nDa te\n27/04/2025\n6 : 48AM\nReferred\nBy\nReport\nStatus\nFina -\nTest\nName\nRe\nUnit\nBiological\nRe f\nMe chod\nRange\nBlood\nGas\nValue\npH\n77,350\n77 ,450\npCo2\n41\nmmHg\n35\n45\n30\nminllg\n8\n:U\nOxime\nValues\nCLHb\n1,2\ng / dL\n12 ,0\n416, (\n502\n50\n95\n30 ,0\nHcLc\n3 9\n0\nElectrolyte\nValues\ncK +\n4\n2\nmmol/L\n3 .5\n4:5\ncNa +\n131\nnmo] / L\n132,0\n145 . 0\ncCa2+\n1\n0\nmmol /L\n1.15\n1.29\nccl\n103\nmmol /L\n0 6 , 0\n10,6\nMe tabolite\nValue\ncGlu\n135\nmg /dL\n80. 0\n420 .0\ncLac\n2\n0\nmmol / L\n0 .5 -).5\nAcid\nbase\nStatus\ncBase (Ecf) \u20ac\n-3\nTuo]/L\ncHCO3 - (P, St) c\n20\nnmol/L\nEnd\n0f\nReport\nProvisional Result Entered By\nPRIYANKA\nMONDAL\nMBBS\nMD\n(PATHOLOGY )\nSHAREEF KHAN AHCI18O\nNo\nDMC\n115146\nTus\nCOMpule\ngenerateu\n[#pot {\nTu\n49nd\n0i:]\n7qu4720\nConeent\n68\nEa\nTepo:\ne\nOn\nan\nOpinion\nnot\nAne\nragnos\npO2\ntry\nDr\nReg",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SHAREEF KHAN AHCI1",
+          "biomarker_normalized": "SHAREEF KHAN AHCI1",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SHAREEF KHAN AHCI18O",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 137,
+    "ocr_avg_confidence": 0.6933,
+    "parsed_row_count": 1
+  }
+}

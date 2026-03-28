@@ -1,0 +1,618 @@
+{
+  "document_id": "GUR-0425-PA-0055511_Q-ROHIT4854000111zon_250427_1412@F.pdf_page_31",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055511_Q-ROHIT4854000111zon_250427_1412@F.pdf_page_31.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "OSCAR SUPER SPECIALITY HOSPITAL\nes\n& TRAUMA CENTRE\nDpp: Civil Hospital, Sonipat\nMob\nTransactpn No;\n42463\nPatlent Kame\nDDate\nMobile\n4854\nDoctor Name\nISHARMA\nReporting Date\nSEROLOGY & IMMUNOGY REPORT\nTest Name:\nHBSAG\nCOMPONENT\nAUSTRALIA ANTIGEN\nRESULTS\nUNITS\nREFF RANGE\nAUSTRAL\nANTIGEN\nNEGATIVE\nDr. GURLEEN GILL\nMBBS, MiPathologv)\nRegd. No:-BMCIR/21938\nPathologisTechnologis\n#ee\nEND OF REPORT\"- +\nHe\nDr: Siddharh Sherma\nMBBS MD\nConsuitani Mediciiie\nRegd. No- 90934\nCBC, Thyroid,KidneyEunction Test, Liver Function Test, Lipid Profile, Blood Sugar LA,FSH, Prolactin, B-HCG, IORCH,Ca-425,CEA, PSA\n30/40 Cofer Doppler Ultrasound, H.S G. IVP; Barium Studies, Digital X-Ray: Multi Slice Spiral CT Scan; E.C.G=\nEEG -21 Channels EMG NcV VeP B.E.rA: Pft & Comprehensive Health Check-upS etc\n30/40 Ultr asound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNOT F OR MEDICO LEGAL PURPOSE\n#4t er gfaar 24 1e 3uaat 81\nHoseia\ncllu\nCar\n1",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            269.0,
+            79.0,
+            1413.0,
+            167.0
+          ],
+          "text": "OSCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.6515
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            171.0,
+            211.0,
+            261.0
+          ],
+          "text": "es",
+          "confidence": 0.2523
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            541.0,
+            168.0,
+            1145.0,
+            254.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            258.0,
+            764.0,
+            312.0
+          ],
+          "text": "Dpp: Civil Hospital, Sonipat",
+          "confidence": 0.4399
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            258.0,
+            872.0,
+            306.0
+          ],
+          "text": "Mob",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            482.0,
+            394.0,
+            508.0
+          ],
+          "text": "Transactpn No;",
+          "confidence": 0.5328
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            480.0,
+            550.0,
+            508.0
+          ],
+          "text": "42463",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            516.0,
+            378.0,
+            544.0
+          ],
+          "text": "Patlent Kame",
+          "confidence": 0.423
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            516.0,
+            1104.0,
+            544.0
+          ],
+          "text": "DDate",
+          "confidence": 0.8057
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            550.0,
+            306.0,
+            580.0
+          ],
+          "text": "Mobile",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            552.0,
+            1230.0,
+            578.0
+          ],
+          "text": "4854",
+          "confidence": 0.7672
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            586.0,
+            374.0,
+            614.0
+          ],
+          "text": "Doctor Name",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            586.0,
+            754.0,
+            616.0
+          ],
+          "text": "ISHARMA",
+          "confidence": 0.7586
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            584.0,
+            1113.0,
+            621.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.9828
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            658.0,
+            906.0,
+            690.0
+          ],
+          "text": "SEROLOGY & IMMUNOGY REPORT",
+          "confidence": 0.7576
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            702.0,
+            368.0,
+            732.0
+          ],
+          "text": "Test Name:",
+          "confidence": 0.7791
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            697.0,
+            569.0,
+            734.0
+          ],
+          "text": "HBSAG",
+          "confidence": 0.902
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            738.0,
+            396.0,
+            770.0
+          ],
+          "text": "COMPONENT",
+          "confidence": 0.9886
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            790.0,
+            489.0,
+            822.0
+          ],
+          "text": "AUSTRALIA ANTIGEN",
+          "confidence": 0.8218
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            790.0,
+            782.0,
+            822.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            790.0,
+            1150.0,
+            822.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9879
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            792.0,
+            1332.0,
+            822.0
+          ],
+          "text": "REFF RANGE",
+          "confidence": 0.7193
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            832.0,
+            322.0,
+            858.0
+          ],
+          "text": "AUSTRAL",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            832.0,
+            438.0,
+            858.0
+          ],
+          "text": "ANTIGEN",
+          "confidence": 0.766
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            830.0,
+            788.0,
+            860.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            966.0,
+            1406.0,
+            1014.0
+          ],
+          "text": "Dr. GURLEEN GILL",
+          "confidence": 0.9105
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            1010.0,
+            1408.0,
+            1058.0
+          ],
+          "text": "MBBS, MiPathologv)",
+          "confidence": 0.2977
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            1049.0,
+            1408.0,
+            1098.0
+          ],
+          "text": "Regd. No:-BMCIR/21938",
+          "confidence": 0.3935
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1118.0,
+            1410.0,
+            1150.0
+          ],
+          "text": "PathologisTechnologis",
+          "confidence": 0.5855
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            539.0,
+            1227.0,
+            611.0,
+            1243.0
+          ],
+          "text": "#ee",
+          "confidence": 0.004
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1221.0,
+            858.0,
+            1254.0
+          ],
+          "text": "END OF REPORT\"- +",
+          "confidence": 0.5937
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            434.0,
+            1762.0,
+            476.0,
+            1786.0
+          ],
+          "text": "He",
+          "confidence": 0.599
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            1765.0,
+            1134.0,
+            1814.0
+          ],
+          "text": "Dr: Siddharh Sherma",
+          "confidence": 0.4301
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            771.0,
+            1812.0,
+            923.0,
+            1852.0
+          ],
+          "text": "MBBS MD",
+          "confidence": 0.9956
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            771.0,
+            1848.0,
+            1055.0,
+            1885.0
+          ],
+          "text": "Consuitani Mediciiie",
+          "confidence": 0.6915
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            773.0,
+            1881.0,
+            1013.0,
+            1921.0
+          ],
+          "text": "Regd. No- 90934",
+          "confidence": 0.5362
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            2003.0,
+            1599.0,
+            2046.0
+          ],
+          "text": "CBC, Thyroid,KidneyEunction Test, Liver Function Test, Lipid Profile, Blood Sugar LA,FSH, Prolactin, B-HCG, IORCH,Ca-425,CEA, PSA",
+          "confidence": 0.1211
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            195.0,
+            2050.0,
+            1483.0,
+            2090.0
+          ],
+          "text": "30/40 Cofer Doppler Ultrasound, H.S G. IVP; Barium Studies, Digital X-Ray: Multi Slice Spiral CT Scan; E.C.G=",
+          "confidence": 0.145
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            321.0,
+            2083.0,
+            1349.0,
+            2121.0
+          ],
+          "text": "EEG -21 Channels EMG NcV VeP B.E.rA: Pft & Comprehensive Health Check-upS etc",
+          "confidence": 0.1778
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            2145.0,
+            1557.0,
+            2207.0
+          ],
+          "text": "30/40 Ultr asound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab",
+          "confidence": 0.7253
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            2224.0,
+            778.0,
+            2274.0
+          ],
+          "text": "NOT F OR MEDICO LEGAL PURPOSE",
+          "confidence": 0.4504
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            2222.0,
+            1426.0,
+            2278.0
+          ],
+          "text": "#4t er gfaar 24 1e 3uaat 81",
+          "confidence": 0.0543
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            420.06119189807555,
+            1729.1219034952862,
+            503.93880810192445,
+            1768.8780965047138
+          ],
+          "text": "Hoseia",
+          "confidence": 0.0781
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            351.65835921350015,
+            1731.6728649639026,
+            427.34164078649985,
+            1795.3271350360974
+          ],
+          "text": "cllu",
+          "confidence": 0.0339
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            377.0,
+            1755.7039137422835,
+            442.0,
+            1804.2960862577165
+          ],
+          "text": "Car",
+          "confidence": 0.3279
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            322.93328151465874,
+            1786.0154975724063,
+            360.06671848534126,
+            1889.9845024275937
+          ],
+          "text": "1",
+          "confidence": 0.2965
+        }
+      ]
+    }
+  ],
+  "full_text": "OSCAR SUPER SPECIALITY HOSPITAL\nes\n& TRAUMA CENTRE\nDpp: Civil Hospital, Sonipat\nMob\nTransactpn No;\n42463\nPatlent Kame\nDDate\nMobile\n4854\nDoctor Name\nISHARMA\nReporting Date\nSEROLOGY & IMMUNOGY REPORT\nTest Name:\nHBSAG\nCOMPONENT\nAUSTRALIA ANTIGEN\nRESULTS\nUNITS\nREFF RANGE\nAUSTRAL\nANTIGEN\nNEGATIVE\nDr. GURLEEN GILL\nMBBS, MiPathologv)\nRegd. No:-BMCIR/21938\nPathologisTechnologis\n#ee\nEND OF REPORT\"- +\nHe\nDr: Siddharh Sherma\nMBBS MD\nConsuitani Mediciiie\nRegd. No- 90934\nCBC, Thyroid,KidneyEunction Test, Liver Function Test, Lipid Profile, Blood Sugar LA,FSH, Prolactin, B-HCG, IORCH,Ca-425,CEA, PSA\n30/40 Cofer Doppler Ultrasound, H.S G. IVP; Barium Studies, Digital X-Ray: Multi Slice Spiral CT Scan; E.C.G=\nEEG -21 Channels EMG NcV VeP B.E.rA: Pft & Comprehensive Health Check-upS etc\n30/40 Ultr asound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNOT F OR MEDICO LEGAL PURPOSE\n#4t er gfaar 24 1e 3uaat 81\nHoseia\ncllu\nCar\n1",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Regd. No:-BMCIR/",
+          "biomarker_normalized": "Regd. No:-BMCIR/",
+          "value": "21938",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd. No:-BMCIR/21938",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Regd. No",
+          "biomarker_normalized": "Regd. No",
+          "value": "90934",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd. No- 90934",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CBC, Thyroid,KidneyEunction Test, Liver Function Test, Lipid Profile, Blood Sugar LA,FSH, Prolactin, B-HCG, IORCH,Ca",
+          "biomarker_normalized": "CBC, Thyroid,KidneyEunction Test, Liver Function Test, Lipid Profile, Blood Sugar LA,FSH, Prolactin, B-HCG, IORCH,Ca",
+          "value": "425",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBC, Thyroid,KidneyEunction Test, Liver Function Test, Lipid Profile, Blood Sugar LA,FSH, Prolactin, B-HCG, IORCH,Ca-425,CEA, PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "EEG",
+          "biomarker_normalized": "EEG",
+          "value": "-21",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EEG -21 Channels EMG NcV VeP B.E.rA: Pft & Comprehensive Health Check-upS etc",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 46,
+    "ocr_avg_confidence": 0.6251,
+    "parsed_row_count": 4
+  }
+}

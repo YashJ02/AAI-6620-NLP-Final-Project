@@ -1,0 +1,630 @@
+{
+  "document_id": "CHE-0425-PA-0013118_E-FBANDS_250427_1234@E.pdf_page_28",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0013118_E-FBANDS_250427_1234@E.pdf_page_28.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "THE MADRAS MEDICAL MISSION\nCLINICAL LABORATORY SERVICES\nNo. 4-A, Dr: ) Jayalalitha Nagar, Mogappair, Chennai\n600 037, India\nARa\nPh\n004\n40128000, 26568000, 66738000\n#C\n265}\nFor Appointments Toll Free No. 1800 123 599 999\nLAB NO_\nDT=\n104:14.36\nCONSULTANT\nDr.ULHAS M PANDURANGI\nSAMPLE RECEIVED DT.\n104.17:01\nWARDIROOM\nFloor\nAICUI2GIA\nRESULT ENTERED DT.\n104.41:18\nHEMATOLOGY REPORT\nTEST\nRESULT\nUNITS\nREFERENCE RANGE\nHaemoglobin\n8.4\ngldL\nMale:13.7\n17.5\nMethod\nSLS HAEMOGL OBIN DETECTION\nFemale:11,.2\n15.7\nSpecimen\nEDTA BLOOD\n~END OF REPORT-\nReported Date\n12.21:14\nCx~~|\nDr. CHITRA SREE. V. MBBS,DCP\nSenior Consultant & Head-(Biochemistry,Haematology)\n1 of 2\nFOR LAB HOME COLLECTION SERVICE,",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            15.0,
+            1259.0,
+            69.0
+          ],
+          "text": "THE MADRAS MEDICAL MISSION",
+          "confidence": 0.9847
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            533.0,
+            71.0,
+            1141.0,
+            111.0
+          ],
+          "text": "CLINICAL LABORATORY SERVICES",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            433.0,
+            113.0,
+            1061.0,
+            150.0
+          ],
+          "text": "No. 4-A, Dr: ) Jayalalitha Nagar, Mogappair, Chennai",
+          "confidence": 0.4011
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            114.0,
+            1236.0,
+            144.0
+          ],
+          "text": "600 037, India",
+          "confidence": 0.7915
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1377.0,
+            139.0,
+            1409.0,
+            153.0
+          ],
+          "text": "ARa",
+          "confidence": 0.182
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            610.0,
+            148.0,
+            648.0,
+            174.0
+          ],
+          "text": "Ph",
+          "confidence": 0.8566
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            148.0,
+            714.0,
+            176.0
+          ],
+          "text": "004",
+          "confidence": 0.508
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            148.0,
+            1062.0,
+            178.0
+          ],
+          "text": "40128000, 26568000, 66738000",
+          "confidence": 0.9264
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1361.0,
+            185.0,
+            1387.0,
+            199.0
+          ],
+          "text": "#C",
+          "confidence": 0.2558
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1393.0,
+            183.0,
+            1423.0,
+            197.0
+          ],
+          "text": "265}",
+          "confidence": 0.2817
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            489.0,
+            181.0,
+            1183.0,
+            221.0
+          ],
+          "text": "For Appointments Toll Free No. 1800 123 599 999",
+          "confidence": 0.891
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            394.0,
+            220.0,
+            424.0
+          ],
+          "text": "LAB NO_",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            394.0,
+            1264.0,
+            424.0
+          ],
+          "text": "DT=",
+          "confidence": 0.9625
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            394.0,
+            1520.0,
+            426.0
+          ],
+          "text": "104:14.36",
+          "confidence": 0.4294
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            430.0,
+            299.0,
+            466.0
+          ],
+          "text": "CONSULTANT",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            434.0,
+            716.0,
+            464.0
+          ],
+          "text": "Dr.ULHAS M PANDURANGI",
+          "confidence": 0.9832
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            434.0,
+            1246.0,
+            464.0
+          ],
+          "text": "SAMPLE RECEIVED DT.",
+          "confidence": 0.8381
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            434.0,
+            1518.0,
+            464.0
+          ],
+          "text": "104.17:01",
+          "confidence": 0.4494
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            472.0,
+            288.0,
+            502.0
+          ],
+          "text": "WARDIROOM",
+          "confidence": 0.9629
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            386.0,
+            476.0,
+            440.0,
+            500.0
+          ],
+          "text": "Floor",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            476.0,
+            556.0,
+            500.0
+          ],
+          "text": "AICUI2GIA",
+          "confidence": 0.4787
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            474.0,
+            1232.0,
+            502.0
+          ],
+          "text": "RESULT ENTERED DT.",
+          "confidence": 0.6945
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            472.0,
+            1520.0,
+            502.0
+          ],
+          "text": "104.41:18",
+          "confidence": 0.7873
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            598.0,
+            1019.0,
+            635.0
+          ],
+          "text": "HEMATOLOGY REPORT",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            651.0,
+            191.0,
+            687.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            649.0,
+            817.0,
+            690.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            650.0,
+            1049.0,
+            689.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1133.0,
+            653.0,
+            1455.0,
+            689.0
+          ],
+          "text": "REFERENCE RANGE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            703.0,
+            277.0,
+            739.0
+          ],
+          "text": "Haemoglobin",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            704.0,
+            724.0,
+            730.0
+          ],
+          "text": "8.4",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            945.0,
+            703.0,
+            1005.0,
+            739.0
+          ],
+          "text": "gldL",
+          "confidence": 0.6677
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            704.0,
+            1252.0,
+            732.0
+          ],
+          "text": "Male:13.7",
+          "confidence": 0.7271
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            706.0,
+            1330.0,
+            734.0
+          ],
+          "text": "17.5",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            745.0,
+            161.0,
+            761.0
+          ],
+          "text": "Method",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            741.0,
+            421.0,
+            761.0
+          ],
+          "text": "SLS HAEMOGL OBIN DETECTION",
+          "confidence": 0.8215
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1132.0,
+            734.0,
+            1284.0,
+            764.0
+          ],
+          "text": "Female:11,.2",
+          "confidence": 0.5537
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            736.0,
+            1356.0,
+            762.0
+          ],
+          "text": "15.7",
+          "confidence": 0.9886
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            773.0,
+            179.0,
+            793.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            771.0,
+            295.0,
+            791.0
+          ],
+          "text": "EDTA BLOOD",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            908.0,
+            876.0,
+            940.0
+          ],
+          "text": "~END OF REPORT-",
+          "confidence": 0.8867
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            910.0,
+            1222.0,
+            942.0
+          ],
+          "text": "Reported Date",
+          "confidence": 0.9614
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            908.0,
+            1486.0,
+            940.0
+          ],
+          "text": "12.21:14",
+          "confidence": 0.75
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            1902.0,
+            1353.0,
+            1947.0
+          ],
+          "text": "Cx~~|",
+          "confidence": 0.0173
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            1958.0,
+            1478.0,
+            1988.0
+          ],
+          "text": "Dr. CHITRA SREE. V. MBBS,DCP",
+          "confidence": 0.8661
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1013.0,
+            2007.0,
+            1601.0,
+            2046.0
+          ],
+          "text": "Senior Consultant & Head-(Biochemistry,Haematology)",
+          "confidence": 0.652
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1492.0,
+            2090.0,
+            1560.0,
+            2118.0
+          ],
+          "text": "1 of 2",
+          "confidence": 0.6303
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            359.0,
+            2157.0,
+            929.0,
+            2197.0
+          ],
+          "text": "FOR LAB HOME COLLECTION SERVICE,",
+          "confidence": 0.7888
+        }
+      ]
+    }
+  ],
+  "full_text": "THE MADRAS MEDICAL MISSION\nCLINICAL LABORATORY SERVICES\nNo. 4-A, Dr: ) Jayalalitha Nagar, Mogappair, Chennai\n600 037, India\nARa\nPh\n004\n40128000, 26568000, 66738000\n#C\n265}\nFor Appointments Toll Free No. 1800 123 599 999\nLAB NO_\nDT=\n104:14.36\nCONSULTANT\nDr.ULHAS M PANDURANGI\nSAMPLE RECEIVED DT.\n104.17:01\nWARDIROOM\nFloor\nAICUI2GIA\nRESULT ENTERED DT.\n104.41:18\nHEMATOLOGY REPORT\nTEST\nRESULT\nUNITS\nREFERENCE RANGE\nHaemoglobin\n8.4\ngldL\nMale:13.7\n17.5\nMethod\nSLS HAEMOGL OBIN DETECTION\nFemale:11,.2\n15.7\nSpecimen\nEDTA BLOOD\n~END OF REPORT-\nReported Date\n12.21:14\nCx~~|\nDr. CHITRA SREE. V. MBBS,DCP\nSenior Consultant & Head-(Biochemistry,Haematology)\n1 of 2\nFOR LAB HOME COLLECTION SERVICE,",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "No.",
+          "biomarker_normalized": "No.",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No. 4-A, Dr: ) Jayalalitha Nagar, Mogappair, Chennai",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "For Appointments Toll Free No.",
+          "biomarker_normalized": "For Appointments Toll Free No.",
+          "value": "1800",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "For Appointments Toll Free No. 1800 123 599 999",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Male",
+          "biomarker_normalized": "Male",
+          "value": "13.7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Male:13.7",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Female",
+          "biomarker_normalized": "Female",
+          "value": "11",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Female:11,.2",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 47,
+    "ocr_avg_confidence": 0.7857,
+    "parsed_row_count": 4
+  }
+}

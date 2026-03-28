@@ -1,0 +1,581 @@
+{
+  "document_id": "HYD-0425-PA-0007281_Q-QUERYREPLYOFPT.GTSRINIVASARAO_250427_0957@F.pdf_page_9",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\HYD-0425-PA-0007281_Q-QUERYREPLYOFPT.GTSRINIVASARAO_250427_0957@F.pdf_page_9.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SAI\nDIAGNOSTICS & SPECIALITY LABORATORY\nD. No.\n1-76/1/8/4, Ganga Enclave, Petbasheerabad, Medchal Road, Secunderatad\n67 .\nPh: No_\nPatient)\n20040207\nn\n18-Apr-2025 07.48.0} PIA\nDr. PRAVEEN\nCollected On\n18-Apr-2025 07*48.03 Pl^\nReporting On\n19-Apr-2025 06*42:18 PtA\nDEPARTMENT QFBIOCHEMISTRY\nBIOCHEMISTRY REPORTZ\nTest]\nRANDOM BLOODE\n138\nBLOOD UREA\nmg/dl\n80\n180, Method\nGod-Pod\nSERUM\n30\nmg/dl\n15\n50 Method : GLDH, Initial Rate\nCREATININE\n1.1\nmg/dl\n0.6\n1.5 Method : Jaffe's, Initial Rate\nNote\nPlease Correlate Clinically if necessary kindly discuss.\nbwk\nEND OF REPORT-\nDr.B.Bheeshma MD Path\nFOCUSED ON QUALITY\nConsultant Pathologist\nFOR CLINICAL CORRELATION IF THERE IS NEED KINDLY DISCUSS_\nFACILITIES AVAILABLE ROUND THE CLOCK UNDER ONE ROOF\np\n~AuRsUiTO1",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            819.0,
+            47.0,
+            983.0,
+            133.0
+          ],
+          "text": "SAI",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            126.0,
+            1350.0,
+            199.0
+          ],
+          "text": "DIAGNOSTICS & SPECIALITY LABORATORY",
+          "confidence": 0.9155
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            180.0,
+            492.0,
+            208.0
+          ],
+          "text": "D. No.",
+          "confidence": 0.8065
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            178.0,
+            1338.0,
+            228.0
+          ],
+          "text": "1-76/1/8/4, Ganga Enclave, Petbasheerabad, Medchal Road, Secunderatad",
+          "confidence": 0.3744
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            200.0,
+            1386.0,
+            228.0
+          ],
+          "text": "67 .",
+          "confidence": 0.461
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            228.0,
+            862.0,
+            260.0
+          ],
+          "text": "Ph: No_",
+          "confidence": 0.5804
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            270.0,
+            200.0,
+            302.0
+          ],
+          "text": "Patient)",
+          "confidence": 0.5099
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            342.0,
+            433.0,
+            378.0
+          ],
+          "text": "20040207",
+          "confidence": 0.9151
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1031.0,
+            337.0,
+            1047.0,
+            359.0
+          ],
+          "text": "n",
+          "confidence": 0.9918
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1089.0,
+            335.0,
+            1397.0,
+            373.0
+          ],
+          "text": "18-Apr-2025 07.48.0} PIA",
+          "confidence": 0.3215
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            308.0,
+            382.0,
+            466.0,
+            412.0
+          ],
+          "text": "Dr. PRAVEEN",
+          "confidence": 0.9187
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            878.0,
+            362.0,
+            1033.0,
+            399.0
+          ],
+          "text": "Collected On",
+          "confidence": 0.8477
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            368.0,
+            1399.0,
+            409.0
+          ],
+          "text": "18-Apr-2025 07*48.03 Pl^",
+          "confidence": 0.4591
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            880.0,
+            398.0,
+            1041.0,
+            439.0
+          ],
+          "text": "Reporting On",
+          "confidence": 0.9889
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1087.0,
+            405.0,
+            1399.0,
+            443.0
+          ],
+          "text": "19-Apr-2025 06*42:18 PtA",
+          "confidence": 0.3447
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            451.0,
+            958.0,
+            501.0
+          ],
+          "text": "DEPARTMENT QFBIOCHEMISTRY",
+          "confidence": 0.5883
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            610.0,
+            507.0,
+            903.0,
+            546.0
+          ],
+          "text": "BIOCHEMISTRY REPORTZ",
+          "confidence": 0.69
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            552.0,
+            346.0,
+            582.0
+          ],
+          "text": "Test]",
+          "confidence": 0.3631
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            598.0,
+            299.0,
+            635.0
+          ],
+          "text": "RANDOM BLOODE",
+          "confidence": 0.6054
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            616.0,
+            694.0,
+            646.0
+          ],
+          "text": "138",
+          "confidence": 0.7119
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            635.0,
+            251.0,
+            672.0
+          ],
+          "text": "BLOOD UREA",
+          "confidence": 0.6872
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            829.0,
+            621.0,
+            905.0,
+            657.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9696
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            626.0,
+            1018.0,
+            652.0
+          ],
+          "text": "80",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1029.0,
+            623.0,
+            1191.0,
+            659.0
+          ],
+          "text": "180, Method",
+          "confidence": 0.7799
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1201.0,
+            627.0,
+            1308.0,
+            658.0
+          ],
+          "text": "God-Pod",
+          "confidence": 0.9416
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            674.0,
+            180.0,
+            706.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            652.0,
+            680.0,
+            682.0
+          ],
+          "text": "30",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            827.0,
+            657.0,
+            905.0,
+            693.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.6647
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            662.0,
+            1018.0,
+            690.0
+          ],
+          "text": "15",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1029.0,
+            661.0,
+            1393.0,
+            699.0
+          ],
+          "text": "50 Method : GLDH, Initial Rate",
+          "confidence": 0.7195
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            674.0,
+            327.0,
+            711.0
+          ],
+          "text": "CREATININE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            692.0,
+            682.0,
+            720.0
+          ],
+          "text": "1.1",
+          "confidence": 0.8882
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            827.0,
+            695.0,
+            905.0,
+            731.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.7563
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            978.0,
+            698.0,
+            1024.0,
+            726.0
+          ],
+          "text": "0.6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1037.0,
+            696.0,
+            1407.0,
+            737.0
+          ],
+          "text": "1.5 Method : Jaffe's, Initial Rate",
+          "confidence": 0.8857
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1899.0,
+            99.0,
+            1928.0
+          ],
+          "text": "Note",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            1898.0,
+            621.0,
+            1935.0
+          ],
+          "text": "Please Correlate Clinically if necessary kindly discuss.",
+          "confidence": 0.6125
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1139.0,
+            1852.0,
+            1326.0,
+            1973.0
+          ],
+          "text": "bwk",
+          "confidence": 0.5919
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            672.0,
+            1932.0,
+            858.0,
+            1964.0
+          ],
+          "text": "END OF REPORT-",
+          "confidence": 0.8224
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            1964.0,
+            1364.0,
+            1996.0
+          ],
+          "text": "Dr.B.Bheeshma MD Path",
+          "confidence": 0.7859
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            2008.0,
+            906.0,
+            2040.0
+          ],
+          "text": "FOCUSED ON QUALITY",
+          "confidence": 0.9038
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1109.0,
+            2001.0,
+            1343.0,
+            2037.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.7094
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            237.0,
+            2053.0,
+            1247.0,
+            2117.0
+          ],
+          "text": "FOR CLINICAL CORRELATION IF THERE IS NEED KINDLY DISCUSS_",
+          "confidence": 0.6984
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            265.0,
+            2137.0,
+            1219.0,
+            2197.0
+          ],
+          "text": "FACILITIES AVAILABLE ROUND THE CLOCK UNDER ONE ROOF",
+          "confidence": 0.7574
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            313.47286143226125,
+            176.3297774987603,
+            406.52713856773875,
+            273.6702225012397
+          ],
+          "text": "p",
+          "confidence": 0.3258
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            153.19429636561892,
+            176.02335729825654,
+            302.8057036343811,
+            300.97664270174346
+          ],
+          "text": "~AuRsUiTO1",
+          "confidence": 0.0843
+        }
+      ]
+    }
+  ],
+  "full_text": "SAI\nDIAGNOSTICS & SPECIALITY LABORATORY\nD. No.\n1-76/1/8/4, Ganga Enclave, Petbasheerabad, Medchal Road, Secunderatad\n67 .\nPh: No_\nPatient)\n20040207\nn\n18-Apr-2025 07.48.0} PIA\nDr. PRAVEEN\nCollected On\n18-Apr-2025 07*48.03 Pl^\nReporting On\n19-Apr-2025 06*42:18 PtA\nDEPARTMENT QFBIOCHEMISTRY\nBIOCHEMISTRY REPORTZ\nTest]\nRANDOM BLOODE\n138\nBLOOD UREA\nmg/dl\n80\n180, Method\nGod-Pod\nSERUM\n30\nmg/dl\n15\n50 Method : GLDH, Initial Rate\nCREATININE\n1.1\nmg/dl\n0.6\n1.5 Method : Jaffe's, Initial Rate\nNote\nPlease Correlate Clinically if necessary kindly discuss.\nbwk\nEND OF REPORT-\nDr.B.Bheeshma MD Path\nFOCUSED ON QUALITY\nConsultant Pathologist\nFOR CLINICAL CORRELATION IF THERE IS NEED KINDLY DISCUSS_\nFACILITIES AVAILABLE ROUND THE CLOCK UNDER ONE ROOF\np\n~AuRsUiTO1",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": []
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 46,
+    "ocr_avg_confidence": 0.7386,
+    "parsed_row_count": 0
+  }
+}

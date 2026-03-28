@@ -1,0 +1,413 @@
+{
+  "document_id": "HYD-0425-PA-0006452_D ADINARAYANA PREAUTH DOCUMENTS_27-04-2025_1212-53_PM@E.pdf_page_14",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\HYD-0425-PA-0006452_D ADINARAYANA PREAUTH DOCUMENTS_27-04-2025_1212-53_PM@E.pdf_page_14.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "[pmh_\nPANACEA MERIDIAN\nA\n0\n5\nP\nT A L s\neN\n#Crudiv\nDr SURESH REDDY B\nReferredBy\n\"\nC ReacTIvE PRoteins (CRP)\nTest\nResult\nUnits\nBiolgicalRe  Rarga\nCRPICREACTIVEPROTEIN)\n34\n0-8\nEndoiReport\nDr P TejaswiReddy,\nMBBS,MD-Pathology\nOUR\nYbarS\nPANACEA\nI6\nNAMMAKAM\n150\nMg\nFTi~\n.",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            169.0,
+            1456.0,
+            208.0
+          ],
+          "text": "[pmh_",
+          "confidence": 0.0705
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1233.0,
+            267.0,
+            1603.0,
+            311.0
+          ],
+          "text": "PANACEA MERIDIAN",
+          "confidence": 0.7895
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            308.0,
+            1272.0,
+            336.0
+          ],
+          "text": "A",
+          "confidence": 0.2313
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            308.0,
+            1320.0,
+            336.0
+          ],
+          "text": "0",
+          "confidence": 0.9826
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1332.0,
+            308.0,
+            1366.0,
+            338.0
+          ],
+          "text": "5",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            310.0,
+            1410.0,
+            338.0
+          ],
+          "text": "P",
+          "confidence": 0.9335
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1442.0,
+            304.0,
+            1603.0,
+            345.0
+          ],
+          "text": "T A L s",
+          "confidence": 0.3507
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1379.0,
+            349.0,
+            1427.0,
+            365.0
+          ],
+          "text": "eN",
+          "confidence": 0.1032
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            366.0,
+            1490.0,
+            392.0
+          ],
+          "text": "#Crudiv",
+          "confidence": 0.0322
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            584.0,
+            596.0,
+            617.0
+          ],
+          "text": "Dr SURESH REDDY B",
+          "confidence": 0.8284
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            581.0,
+            1087.0,
+            623.0
+          ],
+          "text": "ReferredBy",
+          "confidence": 0.7992
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1221.0,
+            479.0,
+            1371.0,
+            619.0
+          ],
+          "text": "\"",
+          "confidence": 0.0078
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            659.0,
+            402.0,
+            692.0
+          ],
+          "text": "C ReacTIvE PRoteins (CRP)",
+          "confidence": 0.1616
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            717.0,
+            161.0,
+            753.0
+          ],
+          "text": "Test",
+          "confidence": 0.3729
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            723.0,
+            848.0,
+            766.0
+          ],
+          "text": "Result",
+          "confidence": 0.7348
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1079.0,
+            729.0,
+            1158.0,
+            768.0
+          ],
+          "text": "Units",
+          "confidence": 0.9744
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            732.0,
+            1592.0,
+            775.0
+          ],
+          "text": "BiolgicalRe  Rarga",
+          "confidence": 0.2339
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            95.0,
+            747.0,
+            476.0,
+            796.0
+          ],
+          "text": "CRPICREACTIVEPROTEIN)",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            768.0,
+            818.0,
+            800.0
+          ],
+          "text": "34",
+          "confidence": 0.3807
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            770.0,
+            1370.0,
+            802.0
+          ],
+          "text": "0-8",
+          "confidence": 0.8582
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            975.0,
+            953.0,
+            1019.0
+          ],
+          "text": "EndoiReport",
+          "confidence": 0.5806
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1143.0,
+            1189.0,
+            1423.0,
+            1233.0
+          ],
+          "text": "Dr P TejaswiReddy,",
+          "confidence": 0.6702
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1139.0,
+            1220.0,
+            1440.0,
+            1270.0
+          ],
+          "text": "MBBS,MD-Pathology",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2137.0,
+            72.0,
+            2175.0
+          ],
+          "text": "OUR",
+          "confidence": 0.9848
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            2150.0,
+            318.0,
+            2182.0
+          ],
+          "text": "YbarS",
+          "confidence": 0.1551
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2166.0,
+            130.0,
+            2209.0
+          ],
+          "text": "PANACEA",
+          "confidence": 0.686
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2136.0,
+            194.0,
+            2218.0
+          ],
+          "text": "I6",
+          "confidence": 0.4807
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            2180.0,
+            408.0,
+            2212.0
+          ],
+          "text": "NAMMAKAM",
+          "confidence": 0.7474
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            2174.0,
+            532.0,
+            2206.0
+          ],
+          "text": "150",
+          "confidence": 0.7747
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1077.405095554342,
+            764.8659866757048,
+            1154.594904445658,
+            810.1340133242952
+          ],
+          "text": "Mg",
+          "confidence": 0.1578
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1139.0347396685302,
+            1065.3985297120073,
+            1344.9652603314698,
+            1171.6014702879927
+          ],
+          "text": "FTi~",
+          "confidence": 0.0963
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            467.18066964638234,
+            1170.0102174463755,
+            921.8193303536176,
+            1541.9897825536245
+          ],
+          "text": ".",
+          "confidence": 0.0118
+        }
+      ]
+    }
+  ],
+  "full_text": "[pmh_\nPANACEA MERIDIAN\nA\n0\n5\nP\nT A L s\neN\n#Crudiv\nDr SURESH REDDY B\nReferredBy\n\"\nC ReacTIvE PRoteins (CRP)\nTest\nResult\nUnits\nBiolgicalRe  Rarga\nCRPICREACTIVEPROTEIN)\n34\n0-8\nEndoiReport\nDr P TejaswiReddy,\nMBBS,MD-Pathology\nOUR\nYbarS\nPANACEA\nI6\nNAMMAKAM\n150\nMg\nFTi~\n.",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": []
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 32,
+    "ocr_avg_confidence": 0.5369,
+    "parsed_row_count": 0
+  }
+}

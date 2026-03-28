@@ -1,0 +1,1059 @@
+{
+  "document_id": "MUM-0425-PA-0004284_E-1745743986041ARCHANARANAFINALBILLO_250427_1425@E.pdf_page_4",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\MUM-0425-PA-0004284_E-1745743986041ARCHANARANAFINALBILLO_250427_1425@E.pdf_page_4.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Fortis Hospital\nFontis\nA Block , Shalimar Bagh;\nNew Delhi\n110088\nH 0 $ P | T A L\nDEPARTMENT\nTel\n+91 11 4530 2222\nOF OBSTETRICS & GYNAECOLOGY\nFax\n+91 I1 4530 2211\nShalinpateBaz/Apr/2025\nDischarge Summary\nEmergency\n+91 11 4788 4788\nAmbulance\n900 900 1050\nPatient\n3\nROUTINE\nDr: Sunita Verma & Team, Dr: Sunita\nDr: Poonam Lata Singh, Dr: Netra Singh\nParameter Name\n25-04-2025\nPH\n7.0\nSPECIFIC GRAVITY\n1.020\nPROTEIN\nNOT DETECTED\nGLUCOSE\nNOT DETECTED\nKETONES\nNOT DETECTED\nBLOOD\nNOT DETECTED\nBILIRUBIN\nNOT DETECTED\nUROBILINOGEN\nNORMAL\nNITRITE\nNOT DETECTED\nLEUKOCYTE ESTERASE\nNEGATIVE\nRED BLOOD CELLS\nNOT DETECTED\nBLOOD UREA NITROGEN\n8\nCREATININE\n[0.61\nBUN/CREAT RATIO\n13.11\nIsODIUM\n138\nIPOTASSIUM\n13.92\nCHLORIDE\n103\nURIC ACID\n5.3\nASPARTATE AMINOTRANSFERASE (ASTISGOT)28\nALANINE AMINOTRANSFERASE (ALTISGPT)\n130\nALKALINE PHOSPHATASE\n263\nBILIRUBIN, TOTAL\n[0.61\nBILIRUBIN, DIRECT\n[0.10\nIBILIRUBIN, INDIRECT\n10.51\nGAMMA GLUTAMYL TRANSFERASE (GGT)\n/26\nLACTATE DEHYDROGENASE\n219\nFORTIS HEALTHCARE LIMITED\nRegd. Office: Fortis Hospital, Sector-62, Phase VIII; Mohali\n160062 , Punjab\nTel: +91 11 2682 5000,Fax +91 11 4162 8435 CIN: L85110P81996PLC045933\nFortis SPECIALITY Hospital\nVarma,",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            132.0,
+            1346.0,
+            158.0
+          ],
+          "text": "Fortis Hospital",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            126.0,
+            336.0,
+            204.0
+          ],
+          "text": "Fontis",
+          "confidence": 0.3706
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            160.0,
+            1410.0,
+            188.0
+          ],
+          "text": "A Block , Shalimar Bagh;",
+          "confidence": 0.676
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            186.0,
+            1300.0,
+            210.0
+          ],
+          "text": "New Delhi",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1308.0,
+            186.0,
+            1382.0,
+            210.0
+          ],
+          "text": "110088",
+          "confidence": 0.5549
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            212.0,
+            330.0,
+            244.0
+          ],
+          "text": "H 0 $ P | T A L",
+          "confidence": 0.358
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            526.0,
+            219.0,
+            717.0,
+            257.0
+          ],
+          "text": "DEPARTMENT",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            217.0,
+            1237.0,
+            237.0
+          ],
+          "text": "Tel",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1330.0,
+            214.0,
+            1494.0,
+            238.0
+          ],
+          "text": "+91 11 4530 2222",
+          "confidence": 0.6136
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            715.0,
+            223.0,
+            1163.0,
+            259.0
+          ],
+          "text": "OF OBSTETRICS & GYNAECOLOGY",
+          "confidence": 0.85
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            241.0,
+            1239.0,
+            261.0
+          ],
+          "text": "Fax",
+          "confidence": 0.7675
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1330.0,
+            240.0,
+            1494.0,
+            264.0
+          ],
+          "text": "+91 I1 4530 2211",
+          "confidence": 0.427
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            249.0,
+            399.0,
+            293.0
+          ],
+          "text": "ShalinpateBaz/Apr/2025",
+          "confidence": 0.3674
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            715.0,
+            256.0,
+            985.0,
+            300.0
+          ],
+          "text": "Discharge Summary",
+          "confidence": 0.8305
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1203.0,
+            263.0,
+            1304.0,
+            291.0
+          ],
+          "text": "Emergency",
+          "confidence": 0.5947
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1328.0,
+            262.0,
+            1494.0,
+            288.0
+          ],
+          "text": "+91 11 4788 4788",
+          "confidence": 0.467
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            288.0,
+            1304.0,
+            312.0
+          ],
+          "text": "Ambulance",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1330.0,
+            288.0,
+            1454.0,
+            312.0
+          ],
+          "text": "900 900 1050",
+          "confidence": 0.8262
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            332.0,
+            266.0,
+            360.0
+          ],
+          "text": "Patient",
+          "confidence": 0.8828
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            320.0,
+            430.0,
+            574.0
+          ],
+          "text": "3",
+          "confidence": 0.3551
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            440.0,
+            566.0,
+            470.0
+          ],
+          "text": "ROUTINE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            546.0,
+            834.0,
+            578.0
+          ],
+          "text": "Dr: Sunita Verma & Team, Dr: Sunita",
+          "confidence": 0.7692
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            911.0,
+            548.0,
+            1339.0,
+            586.0
+          ],
+          "text": "Dr: Poonam Lata Singh, Dr: Netra Singh",
+          "confidence": 0.6698
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            370.0,
+            626.0,
+            602.0,
+            658.0
+          ],
+          "text": "Parameter Name",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            814.0,
+            628.0,
+            968.0,
+            660.0
+          ],
+          "text": "25-04-2025",
+          "confidence": 0.7338
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            676.0,
+            236.0,
+            706.0
+          ],
+          "text": "PH",
+          "confidence": 0.9855
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            785.0,
+            675.0,
+            833.0,
+            711.0
+          ],
+          "text": "7.0",
+          "confidence": 0.9598
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            723.0,
+            429.0,
+            759.0
+          ],
+          "text": "SPECIFIC GRAVITY",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            728.0,
+            864.0,
+            760.0
+          ],
+          "text": "1.020",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            776.0,
+            312.0,
+            808.0
+          ],
+          "text": "PROTEIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            785.0,
+            775.0,
+            987.0,
+            811.0
+          ],
+          "text": "NOT DETECTED",
+          "confidence": 0.7553
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            825.0,
+            321.0,
+            861.0
+          ],
+          "text": "GLUCOSE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            785.0,
+            827.0,
+            987.0,
+            863.0
+          ],
+          "text": "NOT DETECTED",
+          "confidence": 0.853
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            875.0,
+            319.0,
+            911.0
+          ],
+          "text": "KETONES",
+          "confidence": 0.8195
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            880.0,
+            986.0,
+            912.0
+          ],
+          "text": "NOT DETECTED",
+          "confidence": 0.7155
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            928.0,
+            292.0,
+            960.0
+          ],
+          "text": "BLOOD",
+          "confidence": 0.8998
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            930.0,
+            986.0,
+            962.0
+          ],
+          "text": "NOT DETECTED",
+          "confidence": 0.768
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            978.0,
+            328.0,
+            1010.0
+          ],
+          "text": "BILIRUBIN",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            785.0,
+            979.0,
+            987.0,
+            1015.0
+          ],
+          "text": "NOT DETECTED",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1029.0,
+            400.0,
+            1061.0
+          ],
+          "text": "UROBILINOGEN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            784.0,
+            1028.0,
+            909.0,
+            1067.0
+          ],
+          "text": "NORMAL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1079.0,
+            300.0,
+            1111.0
+          ],
+          "text": "NITRITE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            1082.0,
+            986.0,
+            1114.0
+          ],
+          "text": "NOT DETECTED",
+          "confidence": 0.8869
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1128.0,
+            481.0,
+            1165.0
+          ],
+          "text": "LEUKOCYTE ESTERASE",
+          "confidence": 0.7735
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            1131.0,
+            918.0,
+            1163.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1179.0,
+            431.0,
+            1215.0
+          ],
+          "text": "RED BLOOD CELLS",
+          "confidence": 0.9429
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            1182.0,
+            986.0,
+            1214.0
+          ],
+          "text": "NOT DETECTED",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1232.0,
+            512.0,
+            1264.0
+          ],
+          "text": "BLOOD UREA NITROGEN",
+          "confidence": 0.682
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            785.0,
+            1235.0,
+            803.0,
+            1261.0
+          ],
+          "text": "8",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1282.0,
+            352.0,
+            1314.0
+          ],
+          "text": "CREATININE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1284.0,
+            844.0,
+            1316.0
+          ],
+          "text": "[0.61",
+          "confidence": 0.6196
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1331.0,
+            435.0,
+            1367.0
+          ],
+          "text": "BUN/CREAT RATIO",
+          "confidence": 0.8467
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            784.0,
+            1334.0,
+            862.0,
+            1366.0
+          ],
+          "text": "13.11",
+          "confidence": 0.8507
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            1381.0,
+            309.0,
+            1417.0
+          ],
+          "text": "IsODIUM",
+          "confidence": 0.7369
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            784.0,
+            1384.0,
+            838.0,
+            1416.0
+          ],
+          "text": "138",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            1431.0,
+            351.0,
+            1467.0
+          ],
+          "text": "IPOTASSIUM",
+          "confidence": 0.7531
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1434.0,
+            846.0,
+            1466.0
+          ],
+          "text": "13.92",
+          "confidence": 0.5987
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            1484.0,
+            328.0,
+            1516.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.7445
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            1483.0,
+            839.0,
+            1519.0
+          ],
+          "text": "103",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1534.0,
+            330.0,
+            1566.0
+          ],
+          "text": "URIC ACID",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            1535.0,
+            831.0,
+            1571.0
+          ],
+          "text": "5.3",
+          "confidence": 0.5571
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1585.0,
+            823.0,
+            1621.0
+          ],
+          "text": "ASPARTATE AMINOTRANSFERASE (ASTISGOT)28",
+          "confidence": 0.8341
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1635.0,
+            745.0,
+            1673.0
+          ],
+          "text": "ALANINE AMINOTRANSFERASE (ALTISGPT)",
+          "confidence": 0.5976
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1638.0,
+            824.0,
+            1670.0
+          ],
+          "text": "130",
+          "confidence": 0.7244
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1688.0,
+            514.0,
+            1720.0
+          ],
+          "text": "ALKALINE PHOSPHATASE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            1687.0,
+            839.0,
+            1723.0
+          ],
+          "text": "263",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            1733.0,
+            423.0,
+            1775.0
+          ],
+          "text": "BILIRUBIN, TOTAL",
+          "confidence": 0.9647
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1740.0,
+            844.0,
+            1772.0
+          ],
+          "text": "[0.61",
+          "confidence": 0.5751
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            1785.0,
+            437.0,
+            1823.0
+          ],
+          "text": "BILIRUBIN, DIRECT",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1790.0,
+            846.0,
+            1822.0
+          ],
+          "text": "[0.10",
+          "confidence": 0.3743
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1835.0,
+            465.0,
+            1873.0
+          ],
+          "text": "IBILIRUBIN, INDIRECT",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1840.0,
+            844.0,
+            1872.0
+          ],
+          "text": "10.51",
+          "confidence": 0.6379
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1887.0,
+            729.0,
+            1923.0
+          ],
+          "text": "GAMMA GLUTAMYL TRANSFERASE (GGT)",
+          "confidence": 0.9393
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1888.0,
+            822.0,
+            1920.0
+          ],
+          "text": "/26",
+          "confidence": 0.3093
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1938.0,
+            545.0,
+            1970.0
+          ],
+          "text": "LACTATE DEHYDROGENASE",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            1937.0,
+            839.0,
+            1973.0
+          ],
+          "text": "219",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            2084.0,
+            988.0,
+            2116.0
+          ],
+          "text": "FORTIS HEALTHCARE LIMITED",
+          "confidence": 0.7941
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            498.0,
+            2116.0,
+            996.0,
+            2144.0
+          ],
+          "text": "Regd. Office: Fortis Hospital, Sector-62, Phase VIII; Mohali",
+          "confidence": 0.5277
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1007.0,
+            2112.0,
+            1146.0,
+            2140.0
+          ],
+          "text": "160062 , Punjab",
+          "confidence": 0.8844
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            482.0,
+            2138.0,
+            1164.0,
+            2166.0
+          ],
+          "text": "Tel: +91 11 2682 5000,Fax +91 11 4162 8435 CIN: L85110P81996PLC045933",
+          "confidence": 0.3714
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            677.0,
+            2193.0,
+            1009.0,
+            2231.0
+          ],
+          "text": "Fortis SPECIALITY Hospital",
+          "confidence": 0.718
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            831.046026523848,
+            545.1365600658949,
+            915.953973476152,
+            582.8634399341051
+          ],
+          "text": "Varma,",
+          "confidence": 0.993
+        }
+      ]
+    }
+  ],
+  "full_text": "Fortis Hospital\nFontis\nA Block , Shalimar Bagh;\nNew Delhi\n110088\nH 0 $ P | T A L\nDEPARTMENT\nTel\n+91 11 4530 2222\nOF OBSTETRICS & GYNAECOLOGY\nFax\n+91 I1 4530 2211\nShalinpateBaz/Apr/2025\nDischarge Summary\nEmergency\n+91 11 4788 4788\nAmbulance\n900 900 1050\nPatient\n3\nROUTINE\nDr: Sunita Verma & Team, Dr: Sunita\nDr: Poonam Lata Singh, Dr: Netra Singh\nParameter Name\n25-04-2025\nPH\n7.0\nSPECIFIC GRAVITY\n1.020\nPROTEIN\nNOT DETECTED\nGLUCOSE\nNOT DETECTED\nKETONES\nNOT DETECTED\nBLOOD\nNOT DETECTED\nBILIRUBIN\nNOT DETECTED\nUROBILINOGEN\nNORMAL\nNITRITE\nNOT DETECTED\nLEUKOCYTE ESTERASE\nNEGATIVE\nRED BLOOD CELLS\nNOT DETECTED\nBLOOD UREA NITROGEN\n8\nCREATININE\n[0.61\nBUN/CREAT RATIO\n13.11\nIsODIUM\n138\nIPOTASSIUM\n13.92\nCHLORIDE\n103\nURIC ACID\n5.3\nASPARTATE AMINOTRANSFERASE (ASTISGOT)28\nALANINE AMINOTRANSFERASE (ALTISGPT)\n130\nALKALINE PHOSPHATASE\n263\nBILIRUBIN, TOTAL\n[0.61\nBILIRUBIN, DIRECT\n[0.10\nIBILIRUBIN, INDIRECT\n10.51\nGAMMA GLUTAMYL TRANSFERASE (GGT)\n/26\nLACTATE DEHYDROGENASE\n219\nFORTIS HEALTHCARE LIMITED\nRegd. Office: Fortis Hospital, Sector-62, Phase VIII; Mohali\n160062 , Punjab\nTel: +91 11 2682 5000,Fax +91 11 4162 8435 CIN: L85110P81996PLC045933\nFortis SPECIALITY Hospital\nVarma,",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "H 0 $ P | T A L",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "ShalinpateBaz/Apr/",
+          "biomarker_normalized": "ShalinpateBaz/Apr/",
+          "value": "2025",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ShalinpateBaz/Apr/2025",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ASPARTATE AMINOTRANSFERASE (ASTISGOT)",
+          "biomarker_normalized": "ASPARTATE AMINOTRANSFERASE (ASTISGOT)",
+          "value": "28",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ASPARTATE AMINOTRANSFERASE (ASTISGOT)28",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Regd. Office: Fortis Hospital, Sector",
+          "biomarker_normalized": "Regd. Office: Fortis Hospital, Sector",
+          "value": "62",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd. Office: Fortis Hospital, Sector-62, Phase VIII; Mohali",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Tel: +",
+          "biomarker_normalized": "Tel: +",
+          "value": "91",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Tel: +91 11 2682 5000,Fax +91 11 4162 8435 CIN: L85110P81996PLC045933",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 82,
+    "ocr_avg_confidence": 0.8054,
+    "parsed_row_count": 5
+  }
+}

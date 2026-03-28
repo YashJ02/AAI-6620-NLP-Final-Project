@@ -1,0 +1,717 @@
+{
+  "document_id": "AHD-0425-PA-0007719_E-REPORTS_250427_2032@E.pdf_page_4",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\AHD-0425-PA-0007719_E-REPORTS_250427_2032@E.pdf_page_4.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Atul S, Vadhavkar\nB.So: (Mlcro); D.ML,T\n`\nSHRGE\nFULLY\ndipGnOSTIC\nCOMPUTERISED\n016\nPATHOLOGICAL\nCGDTRE\nLABORATORY\nSHREE HOSPITAL, Oanesh Bauq\nTme : 8OOmm t 8.0pm\nSndy-8001 120nn\nMurbad Road, Kalyan (W)\nPatient]\nDr: BHAVESH CHAUHAN MD\nShree Hospital IPD\nTima\n11204.45\nSample Id\n10437984\nReport Release Time\n12+52.39\nCRP REPORT\nTest\nResult\nUnit\nBiological Ref. Range\nC-Reactive Protein (CRP)\n267.8 [H]\nmg/L\n0-5 mg/L\nMethod: Immunoturbidimetric\nAdults\n*5 mg/L\nNew born up to 3 weeks\n:<4.1 mg/L\nInfants and children\n<2.8\nmg/L\nSpecimen: Serum\nEquipment\nBiosystems BA2OO\nEnd Of Report\nNABL\n4 _\nM(EL)T\nLaBs\nAtul S. Vadhavkar\nDr A. J. Ranadive\nB. Sc (Micro) DMLT\nMD (Palholagy)\n3o\nULA",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1199.0,
+            47.0,
+            1439.0,
+            88.0
+          ],
+          "text": "Atul S, Vadhavkar",
+          "confidence": 0.4563
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            78.0,
+            1350.0,
+            104.0
+          ],
+          "text": "B.So: (Mlcro); D.ML,T",
+          "confidence": 0.2386
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            217.0,
+            143.0,
+            327.0,
+            211.0
+          ],
+          "text": "`",
+          "confidence": 0.2548
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            674.0,
+            126.0,
+            854.0,
+            200.0
+          ],
+          "text": "SHRGE",
+          "confidence": 0.2685
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1141.0,
+            159.0,
+            1245.0,
+            201.0
+          ],
+          "text": "FULLY",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            515.0,
+            188.0,
+            825.0,
+            262.0
+          ],
+          "text": "dipGnOSTIC",
+          "confidence": 0.2676
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1107.0,
+            191.0,
+            1370.0,
+            239.0
+          ],
+          "text": "COMPUTERISED",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            31.0,
+            251.0,
+            65.0,
+            271.0
+          ],
+          "text": "016",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1087.0,
+            226.0,
+            1360.0,
+            274.0
+          ],
+          "text": "PATHOLOGICAL",
+          "confidence": 0.8913
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            246.0,
+            784.0,
+            320.0
+          ],
+          "text": "CGDTRE",
+          "confidence": 0.4672
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1069.0,
+            267.0,
+            1305.0,
+            307.0
+          ],
+          "text": "LABORATORY",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1060.0,
+            321.0,
+            1368.0,
+            347.0
+          ],
+          "text": "SHREE HOSPITAL, Oanesh Bauq",
+          "confidence": 0.7378
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            344.0,
+            470.0,
+            374.0
+          ],
+          "text": "Tme : 8OOmm t 8.0pm",
+          "confidence": 0.1137
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            483.0,
+            343.0,
+            746.0,
+            375.0
+          ],
+          "text": "Sndy-8001 120nn",
+          "confidence": 0.4191
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            343.0,
+            1278.0,
+            371.0
+          ],
+          "text": "Murbad Road, Kalyan (W)",
+          "confidence": 0.5891
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            421.0,
+            231.0,
+            457.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.6074
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            397.0,
+            521.0,
+            783.0,
+            557.0
+          ],
+          "text": "Dr: BHAVESH CHAUHAN MD",
+          "confidence": 0.794
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            394.0,
+            566.0,
+            645.0,
+            607.0
+          ],
+          "text": "Shree Hospital IPD",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            564.0,
+            1219.0,
+            601.0
+          ],
+          "text": "Tima",
+          "confidence": 0.6827
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1433.0,
+            563.0,
+            1549.0,
+            599.0
+          ],
+          "text": "11204.45",
+          "confidence": 0.3849
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            610.0,
+            269.0,
+            652.0
+          ],
+          "text": "Sample Id",
+          "confidence": 0.7992
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            615.0,
+            530.0,
+            647.0
+          ],
+          "text": "10437984",
+          "confidence": 0.8106
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            615.0,
+            1197.0,
+            656.0
+          ],
+          "text": "Report Release Time",
+          "confidence": 0.8216
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1434.0,
+            612.0,
+            1548.0,
+            644.0
+          ],
+          "text": "12+52.39",
+          "confidence": 0.4182
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            769.0,
+            691.0,
+            979.0,
+            729.0
+          ],
+          "text": "CRP REPORT",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            740.0,
+            198.0,
+            772.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            744.0,
+            744.0,
+            776.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            744.0,
+            1006.0,
+            776.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1229.0,
+            735.0,
+            1508.0,
+            777.0
+          ],
+          "text": "Biological Ref. Range",
+          "confidence": 0.8833
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            778.0,
+            433.0,
+            817.0
+          ],
+          "text": "C-Reactive Protein (CRP)",
+          "confidence": 0.7082
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            655.0,
+            783.0,
+            775.0,
+            819.0
+          ],
+          "text": "267.8 [H]",
+          "confidence": 0.5627
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            783.0,
+            1011.0,
+            819.0
+          ],
+          "text": "mg/L",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1225.0,
+            777.0,
+            1339.0,
+            818.0
+          ],
+          "text": "0-5 mg/L",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            814.0,
+            509.0,
+            853.0
+          ],
+          "text": "Method: Immunoturbidimetric",
+          "confidence": 0.9928
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            890.0,
+            220.0,
+            922.0
+          ],
+          "text": "Adults",
+          "confidence": 0.8401
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            477.0,
+            892.0,
+            608.0,
+            932.0
+          ],
+          "text": "*5 mg/L",
+          "confidence": 0.4134
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            927.0,
+            445.0,
+            965.0
+          ],
+          "text": "New born up to 3 weeks",
+          "confidence": 0.8081
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            451.0,
+            931.0,
+            611.0,
+            967.0
+          ],
+          "text": ":<4.1 mg/L",
+          "confidence": 0.851
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            963.0,
+            387.0,
+            999.0
+          ],
+          "text": "Infants and children",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            968.0,
+            546.0,
+            998.0
+          ],
+          "text": "<2.8",
+          "confidence": 0.6287
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            545.0,
+            965.0,
+            619.0,
+            1007.0
+          ],
+          "text": "mg/L",
+          "confidence": 0.8095
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1078.0,
+            369.0,
+            1122.0
+          ],
+          "text": "Specimen: Serum",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            1117.0,
+            281.0,
+            1157.0
+          ],
+          "text": "Equipment",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            1116.0,
+            543.0,
+            1160.0
+          ],
+          "text": "Biosystems BA2OO",
+          "confidence": 0.9245
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            808.0,
+            1190.0,
+            950.0,
+            1218.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9275
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            279.0,
+            2121.0,
+            367.0,
+            2157.0
+          ],
+          "text": "NABL",
+          "confidence": 0.9724
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1022.0,
+            2154.0,
+            1092.0,
+            2182.0
+          ],
+          "text": "4 _",
+          "confidence": 0.7462
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            269.0,
+            2159.0,
+            377.0,
+            2201.0
+          ],
+          "text": "M(EL)T",
+          "confidence": 0.572
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            281.0,
+            2200.0,
+            368.0,
+            2240.0
+          ],
+          "text": "LaBs",
+          "confidence": 0.3364
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            2224.0,
+            1376.0,
+            2250.0
+          ],
+          "text": "Atul S. Vadhavkar",
+          "confidence": 0.6049
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1426.0,
+            2222.0,
+            1614.0,
+            2251.0
+          ],
+          "text": "Dr A. J. Ranadive",
+          "confidence": 0.5927
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            2248.0,
+            1366.0,
+            2272.0
+          ],
+          "text": "B. Sc (Micro) DMLT",
+          "confidence": 0.638
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1457.0,
+            2251.0,
+            1585.0,
+            2271.0
+          ],
+          "text": "MD (Palholagy)",
+          "confidence": 0.9243
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1313.1194299994186,
+            400.7920894515634,
+            1505.8805700005814,
+            597.2079105484366
+          ],
+          "text": "3o",
+          "confidence": 0.0047
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1085.2214851534113,
+            2103.8100375159693,
+            1247.7785148465887,
+            2195.1899624840307
+          ],
+          "text": "ULA",
+          "confidence": 0.2128
+        }
+      ]
+    }
+  ],
+  "full_text": "Atul S, Vadhavkar\nB.So: (Mlcro); D.ML,T\n`\nSHRGE\nFULLY\ndipGnOSTIC\nCOMPUTERISED\n016\nPATHOLOGICAL\nCGDTRE\nLABORATORY\nSHREE HOSPITAL, Oanesh Bauq\nTme : 8OOmm t 8.0pm\nSndy-8001 120nn\nMurbad Road, Kalyan (W)\nPatient]\nDr: BHAVESH CHAUHAN MD\nShree Hospital IPD\nTima\n11204.45\nSample Id\n10437984\nReport Release Time\n12+52.39\nCRP REPORT\nTest\nResult\nUnit\nBiological Ref. Range\nC-Reactive Protein (CRP)\n267.8 [H]\nmg/L\n0-5 mg/L\nMethod: Immunoturbidimetric\nAdults\n*5 mg/L\nNew born up to 3 weeks\n:<4.1 mg/L\nInfants and children\n<2.8\nmg/L\nSpecimen: Serum\nEquipment\nBiosystems BA2OO\nEnd Of Report\nNABL\n4 _\nM(EL)T\nLaBs\nAtul S. Vadhavkar\nDr A. J. Ranadive\nB. Sc (Micro) DMLT\nMD (Palholagy)\n3o\nULA",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Tme",
+          "biomarker_normalized": "Tme",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Tme : 8OOmm t 8.0pm",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Sndy",
+          "biomarker_normalized": "Sndy",
+          "value": "8001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sndy-8001 120nn",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "New born up to",
+          "biomarker_normalized": "New born up to",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "New born up to 3 weeks",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 55,
+    "ocr_avg_confidence": 0.7083,
+    "parsed_row_count": 3
+  }
+}

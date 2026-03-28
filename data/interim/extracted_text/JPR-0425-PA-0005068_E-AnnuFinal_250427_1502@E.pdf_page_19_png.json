@@ -1,0 +1,768 @@
+{
+  "document_id": "JPR-0425-PA-0005068_E-AnnuFinal_250427_1502@E.pdf_page_19",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\JPR-0425-PA-0005068_E-AnnuFinal_250427_1502@E.pdf_page_19.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "N\nLAB DIAGNOSTIC CENTRE\nFULLY COMPUTERISED & AUTOMATED\nPATHOLOGY ' X-RAY * STRESS TEST * TMT ' ECG\n2D ECHO\nLab ID;\n6610\nReg Date\n24-04-2025\nPatient\nRef\nMSNH\nDOB\nCons: Dr;\nGender\nFEMALE\nCollected\nat\nMAIN LAB\nMob No\nWIDAL TEST\nTest Description\nObserved Value\nBiological Reference Interval\nAqglutination Aqainst\nS.typhi 0 Antigen\n1 : 80\nNo Agglutination\nS,typhi H Antigen\n1.320\nNo Agglutination\nS.\nparatyphi A(H) Antigen\nNo Agglutination\nNo Agglutination\nS. paratyphi B(H) Antigen\nNo Agglutination\nNo Agglutination\nMethod\nTube Agglutination using serum sample\nThe test iS\nup with doubling dilutions of serum from 1:40 to 1.320.\nRepeat testing with Increasing titre is suggestive of infection with\nSalmonella species.\nLimitations: The test may be negative in the first week of fever with\nSalmonella infection; Anamnestic responce may be seen in viral infections.\nPreviously vaccinated individuals will show a positive test. Positive\nresult will also seen in patients who have suffered from salmonella\ninfection in the recent past:\nEND OF REPORT\nDr: Shubhangi Pawar\nMD (Path)\nChecked by:\nD'Wing; Ist & Znd Floor; Sai Shrushti Building; Adj Shangrila Biscuit Company;\nOpp: Bharat Petrol Pump LBS\nBhandup (W); Mumbai\n400078.\nLab NoiL\npul\nMarg;",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            89.0,
+            453.0,
+            253.0
+          ],
+          "text": "N",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            168.0,
+            1372.0,
+            241.0
+          ],
+          "text": "LAB DIAGNOSTIC CENTRE",
+          "confidence": 0.8633
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            242.0,
+            1180.0,
+            290.0
+          ],
+          "text": "FULLY COMPUTERISED & AUTOMATED",
+          "confidence": 0.9371
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            303.0,
+            1085.0,
+            348.0
+          ],
+          "text": "PATHOLOGY ' X-RAY * STRESS TEST * TMT ' ECG",
+          "confidence": 0.1588
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1113.0,
+            303.0,
+            1275.0,
+            339.0
+          ],
+          "text": "2D ECHO",
+          "confidence": 0.584
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            376.0,
+            212.0,
+            408.0
+          ],
+          "text": "Lab ID;",
+          "confidence": 0.6798
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            370.0,
+            374.0,
+            442.0,
+            406.0
+          ],
+          "text": "6610",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            365.0,
+            1199.0,
+            404.0
+          ],
+          "text": "Reg Date",
+          "confidence": 0.8695
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1321.0,
+            359.0,
+            1473.0,
+            397.0
+          ],
+          "text": "24-04-2025",
+          "confidence": 0.9102
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            428.0,
+            214.0,
+            456.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            478.0,
+            174.0,
+            508.0
+          ],
+          "text": "Ref",
+          "confidence": 0.3029
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            474.0,
+            464.0,
+            506.0
+          ],
+          "text": "MSNH",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            468.0,
+            1142.0,
+            498.0
+          ],
+          "text": "DOB",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            528.0,
+            244.0,
+            558.0
+          ],
+          "text": "Cons: Dr;",
+          "confidence": 0.332
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            518.0,
+            1174.0,
+            546.0
+          ],
+          "text": "Gender",
+          "confidence": 0.9024
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1323.0,
+            515.0,
+            1445.0,
+            545.0
+          ],
+          "text": "FEMALE",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            580.0,
+            244.0,
+            606.0
+          ],
+          "text": "Collected",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            580.0,
+            284.0,
+            606.0
+          ],
+          "text": "at",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            574.0,
+            516.0,
+            606.0
+          ],
+          "text": "MAIN LAB",
+          "confidence": 0.7857
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            568.0,
+            1180.0,
+            598.0
+          ],
+          "text": "Mob No",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            747.0,
+            618.0,
+            961.0,
+            659.0
+          ],
+          "text": "WIDAL TEST",
+          "confidence": 0.5512
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            683.0,
+            329.0,
+            721.0
+          ],
+          "text": "Test Description",
+          "confidence": 0.9668
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            723.0,
+            672.0,
+            966.0,
+            715.0
+          ],
+          "text": "Observed Value",
+          "confidence": 0.92
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1157.0,
+            668.0,
+            1531.0,
+            707.0
+          ],
+          "text": "Biological Reference Interval",
+          "confidence": 0.8777
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            718.0,
+            441.0,
+            762.0
+          ],
+          "text": "Aqglutination Aqainst",
+          "confidence": 0.484
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            767.0,
+            351.0,
+            805.0
+          ],
+          "text": "S.typhi 0 Antigen",
+          "confidence": 0.7274
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            760.0,
+            808.0,
+            792.0
+          ],
+          "text": "1 : 80",
+          "confidence": 0.8691
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1159.0,
+            755.0,
+            1383.0,
+            791.0
+          ],
+          "text": "No Agglutination",
+          "confidence": 0.9314
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            797.0,
+            352.0,
+            842.0
+          ],
+          "text": "S,typhi H Antigen",
+          "confidence": 0.7207
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            796.0,
+            816.0,
+            828.0
+          ],
+          "text": "1.320",
+          "confidence": 0.657
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1161.0,
+            789.0,
+            1385.0,
+            827.0
+          ],
+          "text": "No Agglutination",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            840.0,
+            148.0,
+            868.0
+          ],
+          "text": "S.",
+          "confidence": 0.1466
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            834.0,
+            465.0,
+            879.0
+          ],
+          "text": "paratyphi A(H) Antigen",
+          "confidence": 0.8532
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            725.0,
+            826.0,
+            951.0,
+            869.0
+          ],
+          "text": "No Agglutination",
+          "confidence": 0.7472
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1159.0,
+            820.0,
+            1383.0,
+            864.0
+          ],
+          "text": "No Agglutination",
+          "confidence": 0.7856
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            868.0,
+            466.0,
+            917.0
+          ],
+          "text": "S. paratyphi B(H) Antigen",
+          "confidence": 0.9552
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            727.0,
+            862.0,
+            951.0,
+            903.0
+          ],
+          "text": "No Agglutination",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1159.0,
+            859.0,
+            1385.0,
+            897.0
+          ],
+          "text": "No Agglutination",
+          "confidence": 0.9401
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            942.0,
+            206.0,
+            973.0
+          ],
+          "text": "Method",
+          "confidence": 0.9407
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            935.0,
+            672.0,
+            975.0
+          ],
+          "text": "Tube Agglutination using serum sample",
+          "confidence": 0.7535
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            972.0,
+            240.0,
+            1002.0
+          ],
+          "text": "The test iS",
+          "confidence": 0.9329
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            281.0,
+            961.0,
+            889.0,
+            1001.0
+          ],
+          "text": "up with doubling dilutions of serum from 1:40 to 1.320.",
+          "confidence": 0.7016
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            991.0,
+            845.0,
+            1032.0
+          ],
+          "text": "Repeat testing with Increasing titre is suggestive of infection with",
+          "confidence": 0.6573
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1024.0,
+            344.0,
+            1060.0
+          ],
+          "text": "Salmonella species.",
+          "confidence": 0.612
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1048.0,
+            865.0,
+            1086.0
+          ],
+          "text": "Limitations: The test may be negative in the first week of fever with",
+          "confidence": 0.7852
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1075.0,
+            959.0,
+            1114.0
+          ],
+          "text": "Salmonella infection; Anamnestic responce may be seen in viral infections.",
+          "confidence": 0.7079
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1104.0,
+            863.0,
+            1145.0
+          ],
+          "text": "Previously vaccinated individuals will show a positive test. Positive",
+          "confidence": 0.6134
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1132.0,
+            862.0,
+            1171.0
+          ],
+          "text": "result will also seen in patients who have suffered from salmonella",
+          "confidence": 0.932
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1169.0,
+            423.0,
+            1198.0
+          ],
+          "text": "infection in the recent past:",
+          "confidence": 0.6656
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            1226.0,
+            958.0,
+            1254.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.9804
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1333.0,
+            2060.0,
+            1627.0,
+            2097.0
+          ],
+          "text": "Dr: Shubhangi Pawar",
+          "confidence": 0.939
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1401.0,
+            2096.0,
+            1561.0,
+            2135.0
+          ],
+          "text": "MD (Path)",
+          "confidence": 0.7191
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            2133.0,
+            261.0,
+            2169.0
+          ],
+          "text": "Checked by:",
+          "confidence": 0.5282
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            2198.0,
+            1113.0,
+            2260.0
+          ],
+          "text": "D'Wing; Ist & Znd Floor; Sai Shrushti Building; Adj Shangrila Biscuit Company;",
+          "confidence": 0.6732
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2248.0,
+            522.0,
+            2298.0
+          ],
+          "text": "Opp: Bharat Petrol Pump LBS",
+          "confidence": 0.7446
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            594.0,
+            2240.0,
+            891.0,
+            2285.0
+          ],
+          "text": "Bhandup (W); Mumbai",
+          "confidence": 0.9029
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            906.0,
+            2242.0,
+            1014.0,
+            2274.0
+          ],
+          "text": "400078.",
+          "confidence": 0.7997
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            2295.0,
+            231.0,
+            2331.0
+          ],
+          "text": "Lab NoiL",
+          "confidence": 0.1652
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            238.47893962030983,
+            973.367426684703,
+            282.5210603796902,
+            1000.632573315297
+          ],
+          "text": "pul",
+          "confidence": 0.9388
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            509.1452637389891,
+            2245.1317018509494,
+            599.8547362610109,
+            2290.8682981490506
+          ],
+          "text": "Marg;",
+          "confidence": 0.2592
+        }
+      ]
+    }
+  ],
+  "full_text": "N\nLAB DIAGNOSTIC CENTRE\nFULLY COMPUTERISED & AUTOMATED\nPATHOLOGY ' X-RAY * STRESS TEST * TMT ' ECG\n2D ECHO\nLab ID;\n6610\nReg Date\n24-04-2025\nPatient\nRef\nMSNH\nDOB\nCons: Dr;\nGender\nFEMALE\nCollected\nat\nMAIN LAB\nMob No\nWIDAL TEST\nTest Description\nObserved Value\nBiological Reference Interval\nAqglutination Aqainst\nS.typhi 0 Antigen\n1 : 80\nNo Agglutination\nS,typhi H Antigen\n1.320\nNo Agglutination\nS.\nparatyphi A(H) Antigen\nNo Agglutination\nNo Agglutination\nS. paratyphi B(H) Antigen\nNo Agglutination\nNo Agglutination\nMethod\nTube Agglutination using serum sample\nThe test iS\nup with doubling dilutions of serum from 1:40 to 1.320.\nRepeat testing with Increasing titre is suggestive of infection with\nSalmonella species.\nLimitations: The test may be negative in the first week of fever with\nSalmonella infection; Anamnestic responce may be seen in viral infections.\nPreviously vaccinated individuals will show a positive test. Positive\nresult will also seen in patients who have suffered from salmonella\ninfection in the recent past:\nEND OF REPORT\nDr: Shubhangi Pawar\nMD (Path)\nChecked by:\nD'Wing; Ist & Znd Floor; Sai Shrushti Building; Adj Shangrila Biscuit Company;\nOpp: Bharat Petrol Pump LBS\nBhandup (W); Mumbai\n400078.\nLab NoiL\npul\nMarg;",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "S.typhi",
+          "biomarker_normalized": "S.typhi",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S.typhi 0 Antigen",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "up with doubling dilutions of serum from",
+          "biomarker_normalized": "up with doubling dilutions of serum from",
+          "value": "1",
+          "unit": "",
+          "reference_range": "40-1.320",
+          "source_line": "up with doubling dilutions of serum from 1:40 to 1.320.",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 60,
+    "ocr_avg_confidence": 0.773,
+    "parsed_row_count": 2
+  }
+}

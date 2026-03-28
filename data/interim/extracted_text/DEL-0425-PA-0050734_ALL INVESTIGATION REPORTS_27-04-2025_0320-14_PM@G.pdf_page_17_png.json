@@ -1,0 +1,498 @@
+{
+  "document_id": "DEL-0425-PA-0050734_ALL INVESTIGATION REPORTS_27-04-2025_0320-14_PM@G.pdf_page_17",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\DEL-0425-PA-0050734_ALL INVESTIGATION REPORTS_27-04-2025_0320-14_PM@G.pdf_page_17.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CHETHANA\nHosPitALs\nNover Ending Care.\n80\nMc\nMr BANTHALAPATI.S LAVAKUMAR RAJU\nIPNO\n3238\n(ne\n25/Years/Male\nVoctor\nDR,G. SAMARASIMKA REDDY (MBBS, MD)\nTime\nl09 08:25\nDI No\n53469\nReporting Time\nJ10;07.05\nSEROLOGYREPORIT\nCRP\nJESI\nC-REACTIVE PROTEINS\n31.8\nup to 6.0 mg/l\nMETHOD\nTurbilatex method\n'\nPlease Correlate Wih clinical findings If necessary discuss\nLAB INCHARGE\nDc: D, SH\"NTHI KIRAN\nMD. ! AHOLOGY\nRegd: No. 50455\nRajadhani Hotel Auto Nagar Hyderabad T.S:\nScanned with OKEN Scanner\nmg/l\n#OPP:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            80.0,
+            1538.0,
+            152.0
+          ],
+          "text": "CHETHANA",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            141.0,
+            1405.0,
+            183.0
+          ],
+          "text": "HosPitALs",
+          "confidence": 0.3995
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1275.0,
+            181.0,
+            1495.0,
+            217.0
+          ],
+          "text": "Nover Ending Care.",
+          "confidence": 0.6354
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            200.0,
+            1234.0,
+            228.0
+          ],
+          "text": "80",
+          "confidence": 0.5959
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            318.0,
+            188.0,
+            342.0
+          ],
+          "text": "Mc",
+          "confidence": 0.6515
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            311.0,
+            721.0,
+            348.0
+          ],
+          "text": "Mr BANTHALAPATI.S LAVAKUMAR RAJU",
+          "confidence": 0.549
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            316.0,
+            988.0,
+            346.0
+          ],
+          "text": "IPNO",
+          "confidence": 0.6785
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            312.0,
+            1248.0,
+            342.0
+          ],
+          "text": "3238",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            377.0,
+            163.0,
+            395.0
+          ],
+          "text": "(ne",
+          "confidence": 0.0247
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            366.0,
+            421.0,
+            403.0
+          ],
+          "text": "25/Years/Male",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            410.0,
+            198.0,
+            436.0
+          ],
+          "text": "Voctor",
+          "confidence": 0.6263
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            407.0,
+            749.0,
+            443.0
+          ],
+          "text": "DR,G. SAMARASIMKA REDDY (MBBS, MD)",
+          "confidence": 0.7609
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            410.0,
+            1104.0,
+            436.0
+          ],
+          "text": "Time",
+          "confidence": 0.8149
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            400.0,
+            1449.0,
+            436.0
+          ],
+          "text": "l09 08:25",
+          "confidence": 0.2963
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            448.0,
+            196.0,
+            476.0
+          ],
+          "text": "DI No",
+          "confidence": 0.3097
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            446.0,
+            324.0,
+            476.0
+          ],
+          "text": "53469",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            446.0,
+            1105.0,
+            483.0
+          ],
+          "text": "Reporting Time",
+          "confidence": 0.8081
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1327.0,
+            442.0,
+            1447.0,
+            474.0
+          ],
+          "text": "J10;07.05",
+          "confidence": 0.3555
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            633.0,
+            573.0,
+            1011.0,
+            617.0
+          ],
+          "text": "SEROLOGYREPORIT",
+          "confidence": 0.6904
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            648.0,
+            686.0,
+            680.0
+          ],
+          "text": "CRP",
+          "confidence": 0.8469
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            778.0,
+            304.0,
+            808.0
+          ],
+          "text": "JESI",
+          "confidence": 0.3197
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            869.0,
+            529.0,
+            905.0
+          ],
+          "text": "C-REACTIVE PROTEINS",
+          "confidence": 0.9833
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            872.0,
+            684.0,
+            904.0
+          ],
+          "text": "31.8",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            871.0,
+            871.0,
+            1071.0,
+            909.0
+          ],
+          "text": "up to 6.0 mg/l",
+          "confidence": 0.7257
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1083.0,
+            347.0,
+            1119.0
+          ],
+          "text": "METHOD",
+          "confidence": 0.9162
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            1084.0,
+            692.0,
+            1114.0
+          ],
+          "text": "Turbilatex method",
+          "confidence": 0.8027
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            669.0,
+            1015.0,
+            1361.0,
+            1171.0
+          ],
+          "text": "'",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            497.0,
+            1348.0,
+            1057.0,
+            1388.0
+          ],
+          "text": "Please Correlate Wih clinical findings If necessary discuss",
+          "confidence": 0.6085
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            810.0,
+            1610.0,
+            1016.0,
+            1642.0
+          ],
+          "text": "LAB INCHARGE",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            1650.0,
+            1114.0,
+            1711.0
+          ],
+          "text": "Dc: D, SH\"NTHI KIRAN",
+          "confidence": 0.3394
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            848.0,
+            1693.0,
+            1067.0,
+            1742.0
+          ],
+          "text": "MD. ! AHOLOGY",
+          "confidence": 0.101
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            858.0,
+            1732.0,
+            1062.0,
+            1782.0
+          ],
+          "text": "Regd: No. 50455",
+          "confidence": 0.5944
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            514.0,
+            2146.0,
+            1216.0,
+            2200.0
+          ],
+          "text": "Rajadhani Hotel Auto Nagar Hyderabad T.S:",
+          "confidence": 0.5826
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            2266.0,
+            1631.0,
+            2310.0
+          ],
+          "text": "Scanned with OKEN Scanner",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            689.4050955543422,
+            869.0317709733284,
+            769.5949044456578,
+            911.9682290266716
+          ],
+          "text": "mg/l",
+          "confidence": 0.6529
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            402.1180502992765,
+            2141.105097901312,
+            524.8819497007235,
+            2198.894902098688
+          ],
+          "text": "#OPP:",
+          "confidence": 0.3208
+        }
+      ]
+    }
+  ],
+  "full_text": "CHETHANA\nHosPitALs\nNover Ending Care.\n80\nMc\nMr BANTHALAPATI.S LAVAKUMAR RAJU\nIPNO\n3238\n(ne\n25/Years/Male\nVoctor\nDR,G. SAMARASIMKA REDDY (MBBS, MD)\nTime\nl09 08:25\nDI No\n53469\nReporting Time\nJ10;07.05\nSEROLOGYREPORIT\nCRP\nJESI\nC-REACTIVE PROTEINS\n31.8\nup to 6.0 mg/l\nMETHOD\nTurbilatex method\n'\nPlease Correlate Wih clinical findings If necessary discuss\nLAB INCHARGE\nDc: D, SH\"NTHI KIRAN\nMD. ! AHOLOGY\nRegd: No. 50455\nRajadhani Hotel Auto Nagar Hyderabad T.S:\nScanned with OKEN Scanner\nmg/l\n#OPP:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "l0",
+          "biomarker_normalized": "l0",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "l09 08:25",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "J1",
+          "biomarker_normalized": "J1",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J10;07.05",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "up to",
+          "biomarker_normalized": "up to",
+          "value": "6.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "up to 6.0 mg/l",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Regd: No.",
+          "biomarker_normalized": "Regd: No.",
+          "value": "50455",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd: No. 50455",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 36,
+    "ocr_avg_confidence": 0.6658,
+    "parsed_row_count": 4
+  }
+}

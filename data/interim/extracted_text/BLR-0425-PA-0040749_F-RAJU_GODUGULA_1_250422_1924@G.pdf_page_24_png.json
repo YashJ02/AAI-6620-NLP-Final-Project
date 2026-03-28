@@ -1,0 +1,1755 @@
+{
+  "document_id": "BLR-0425-PA-0040749_F-RAJU_GODUGULA_1_250422_1924@G.pdf_page_24",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0040749_F-RAJU_GODUGULA_1_250422_1924@G.pdf_page_24.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF CLINICAL BIOCHEMISTRY\nPatient\nAdmn\nNo\nUMR9996\nDr.CHENNA\nVIJAY MD_\nDM (NEUROLOG\nBill Date\n22-Apr-25\n08:40 am\nReport Date\n22-Apr-25\n09:47\nam\nParameter\nSpecimen\nResults\nBiological Reference\nMethod\nSGPT/ALT\n13\n0\n50\nU/L\nUV WITHOUT PSP\nSGOT/AST\n26\n0\n50\nU/L\nUV WITHOUT PSP\nAlkaline\nPhosphatase\n169\n30\n120\nU/L\nPNPP AMP BUFFER\nTOTAL PROTEIN\n5.8\n6.3\n8.2\ngm/dl\nBIURET\nALBUMIN\n3.5\n3.5\n5.2\ng/dl\nBROMOCRESOL GREEN\nGlobulin\n2.3\n2.0\n3.5  gm/dl\nCalculation\nA/G Ratio\n1.52\nCRP\n2.6\n0\n6.0\nmg/L\nLATEX PARTICLE\nIMMUNOTURBIDIMETRI\nCalcium\n7.5\n8.8\n10.6\nmg/dl\nARSENAZO\nPhosphorous\n2.9\n2.5\n4.5\nmg/dl\nPHOSPOMOLYBDATE\nCOMPLEX\nMagnesium\n2.06\n1.8\n2.6\nmg/dl\nXYLIDYL BLUE\nPRO CALCITONIN\nProcalcitonin\n0.861\nLow Risk for Sepsis: <0.5\nEnhanced\nHigh risk for sepsis:>2.0\nChemiluminescence\nng/mL\nInterpretation\nPCT is the prohormone of calcitonin secreted\nby different types of cells from numerous\norgans in response to proinflammatory\nstimulation, particularly bacterial stimulation.\n2. Depending upon clinical background, PCT\n0.1 can indicate clinically relevant bacterial\ninfection, requiring antibiotic treatment:\n3\nPCT is an important marker enabling specific\ndifferentiation between bacterial infection and\nother causes of inflammatory\nreactions\nResorption of septic infection is accompanied\nby decreases in PCT concentration which\nreturns to normal with half life of 24 hours\n5. In certain situations (newborns, polytrauma,\nburns,major surgery, prolonged or severe\ncardiogenic shock etc) PCT elevation may\nbe independent of any infectious aggression_\nThe return to normal values is usually\n6\nViral infections, allergies, autoimmune\ndiseases and\nrejection do not lead to\nsignificant increase in PCT _\nLocalized bacterial\ninfections can lead to moderate increase in PCT\nlevels.\nNOTE_\nPatients on Biotin supplement may have\ninterference in some immunoassays. With\nindividuals taking high dose Biotin (more than\nper day) supplements, at least 8-hour wait\ntime before blood draw is recommended\nLow Risk for Sepsis\n< 0.5 ng/ml\nHigh Risk for Sepsis\n> 2.0\nng/ml:\nPrinted By\n41011329\nPrinted On\n22-Apr-2025 07:17:55 PM\nSystem\nrapid\ngraft\nmg",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            447.0,
+            245.0,
+            1201.0,
+            281.0
+          ],
+          "text": "DEPARTMENT OF CLINICAL BIOCHEMISTRY",
+          "confidence": 0.6826
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            318.0,
+            240.0,
+            348.0
+          ],
+          "text": "Patient",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            372.0,
+            220.0,
+            402.0
+          ],
+          "text": "Admn",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            374.0,
+            362.0,
+            400.0
+          ],
+          "text": "No",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            372.0,
+            790.0,
+            402.0
+          ],
+          "text": "UMR9996",
+          "confidence": 0.9598
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1079.0,
+            371.0,
+            1211.0,
+            397.0
+          ],
+          "text": "Dr.CHENNA",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            372.0,
+            1332.0,
+            398.0
+          ],
+          "text": "VIJAY MD_",
+          "confidence": 0.9525
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            372.0,
+            1526.0,
+            400.0
+          ],
+          "text": "DM (NEUROLOG",
+          "confidence": 0.8874
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            424.0,
+            258.0,
+            452.0
+          ],
+          "text": "Bill Date",
+          "confidence": 0.7406
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            424.0,
+            550.0,
+            456.0
+          ],
+          "text": "22-Apr-25",
+          "confidence": 0.794
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            562.0,
+            424.0,
+            688.0,
+            452.0
+          ],
+          "text": "08:40 am",
+          "confidence": 0.891
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            806.0,
+            424.0,
+            978.0,
+            456.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8225
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            424.0,
+            1216.0,
+            456.0
+          ],
+          "text": "22-Apr-25",
+          "confidence": 0.837
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1226.0,
+            424.0,
+            1304.0,
+            452.0
+          ],
+          "text": "09:47",
+          "confidence": 0.8781
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            428.0,
+            1354.0,
+            452.0
+          ],
+          "text": "am",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            502.0,
+            282.0,
+            530.0
+          ],
+          "text": "Parameter",
+          "confidence": 0.9867
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            521.0,
+            500.0,
+            665.0,
+            532.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9944
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            502.0,
+            834.0,
+            532.0
+          ],
+          "text": "Results",
+          "confidence": 0.7028
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            499.0,
+            1246.0,
+            532.0
+          ],
+          "text": "Biological Reference",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1267.0,
+            500.0,
+            1375.0,
+            530.0
+          ],
+          "text": "Method",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            544.0,
+            244.0,
+            575.0
+          ],
+          "text": "SGPT/ALT",
+          "confidence": 0.6987
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            548.0,
+            756.0,
+            572.0
+          ],
+          "text": "13",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            548.0,
+            976.0,
+            572.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            546.0,
+            1026.0,
+            572.0
+          ],
+          "text": "50",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            548.0,
+            1084.0,
+            574.0
+          ],
+          "text": "U/L",
+          "confidence": 0.7055
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            548.0,
+            1470.0,
+            572.0
+          ],
+          "text": "UV WITHOUT PSP",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            592.0,
+            252.0,
+            618.0
+          ],
+          "text": "SGOT/AST",
+          "confidence": 0.6132
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            592.0,
+            756.0,
+            618.0
+          ],
+          "text": "26",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            955.0,
+            595.0,
+            975.0,
+            617.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            592.0,
+            1028.0,
+            620.0
+          ],
+          "text": "50",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            594.0,
+            1082.0,
+            620.0
+          ],
+          "text": "U/L",
+          "confidence": 0.7083
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            594.0,
+            1470.0,
+            618.0
+          ],
+          "text": "UV WITHOUT PSP",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            639.0,
+            221.0,
+            663.0
+          ],
+          "text": "Alkaline",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            222.0,
+            634.0,
+            371.0,
+            670.0
+          ],
+          "text": "Phosphatase",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            638.0,
+            776.0,
+            664.0
+          ],
+          "text": "169",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            638.0,
+            988.0,
+            664.0
+          ],
+          "text": "30",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            638.0,
+            1058.0,
+            666.0
+          ],
+          "text": "120",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            638.0,
+            1112.0,
+            666.0
+          ],
+          "text": "U/L",
+          "confidence": 0.9785
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            639.0,
+            1477.0,
+            664.0
+          ],
+          "text": "PNPP AMP BUFFER",
+          "confidence": 0.8596
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            684.0,
+            314.0,
+            710.0
+          ],
+          "text": "TOTAL PROTEIN",
+          "confidence": 0.8409
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            686.0,
+            768.0,
+            710.0
+          ],
+          "text": "5.8",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            686.0,
+            998.0,
+            710.0
+          ],
+          "text": "6.3",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1014.0,
+            686.0,
+            1056.0,
+            710.0
+          ],
+          "text": "8.2",
+          "confidence": 0.967
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            683.0,
+            1141.0,
+            715.0
+          ],
+          "text": "gm/dl",
+          "confidence": 0.9857
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            684.0,
+            1356.0,
+            710.0
+          ],
+          "text": "BIURET",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            730.0,
+            238.0,
+            756.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 0.6134
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            730.0,
+            766.0,
+            756.0
+          ],
+          "text": "3.5",
+          "confidence": 0.8493
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            730.0,
+            998.0,
+            756.0
+          ],
+          "text": "3.5",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            730.0,
+            1056.0,
+            756.0
+          ],
+          "text": "5.2",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            730.0,
+            1120.0,
+            762.0
+          ],
+          "text": "g/dl",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            730.0,
+            1532.0,
+            756.0
+          ],
+          "text": "BROMOCRESOL GREEN",
+          "confidence": 0.8389
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            776.0,
+            224.0,
+            802.0
+          ],
+          "text": "Globulin",
+          "confidence": 0.7706
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            776.0,
+            766.0,
+            802.0
+          ],
+          "text": "2.3",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            778.0,
+            998.0,
+            802.0
+          ],
+          "text": "2.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            776.0,
+            1141.0,
+            806.0
+          ],
+          "text": "3.5  gm/dl",
+          "confidence": 0.8218
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            776.0,
+            1394.0,
+            802.0
+          ],
+          "text": "Calculation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            822.0,
+            242.0,
+            848.0
+          ],
+          "text": "A/G Ratio",
+          "confidence": 0.9535
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            822.0,
+            780.0,
+            850.0
+          ],
+          "text": "1.52",
+          "confidence": 0.8843
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            868.0,
+            178.0,
+            894.0
+          ],
+          "text": "CRP",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            868.0,
+            766.0,
+            894.0
+          ],
+          "text": "2.6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            868.0,
+            976.0,
+            894.0
+          ],
+          "text": "0",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            868.0,
+            1036.0,
+            894.0
+          ],
+          "text": "6.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            868.0,
+            1110.0,
+            896.0
+          ],
+          "text": "mg/L",
+          "confidence": 0.9954
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            868.0,
+            1460.0,
+            894.0
+          ],
+          "text": "LATEX PARTICLE",
+          "confidence": 0.7047
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            894.0,
+            1538.0,
+            920.0
+          ],
+          "text": "IMMUNOTURBIDIMETRI",
+          "confidence": 0.899
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            956.0,
+            219.0,
+            982.0
+          ],
+          "text": "Calcium",
+          "confidence": 0.8962
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            956.0,
+            768.0,
+            982.0
+          ],
+          "text": "7.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            956.0,
+            998.0,
+            982.0
+          ],
+          "text": "8.8",
+          "confidence": 0.9616
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            956.0,
+            1072.0,
+            982.0
+          ],
+          "text": "10.6",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            956.0,
+            1154.0,
+            984.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            956.0,
+            1396.0,
+            982.0
+          ],
+          "text": "ARSENAZO",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1002.0,
+            278.0,
+            1030.0
+          ],
+          "text": "Phosphorous",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1002.0,
+            764.0,
+            1028.0
+          ],
+          "text": "2.9",
+          "confidence": 0.5209
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1002.0,
+            996.0,
+            1028.0
+          ],
+          "text": "2.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1014.0,
+            1002.0,
+            1058.0,
+            1028.0
+          ],
+          "text": "4.5",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1002.0,
+            1140.0,
+            1030.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9891
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1265.0,
+            1002.0,
+            1503.0,
+            1028.0
+          ],
+          "text": "PHOSPOMOLYBDATE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            1028.0,
+            1378.0,
+            1054.0
+          ],
+          "text": "COMPLEX",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1064.0,
+            260.0,
+            1092.0
+          ],
+          "text": "Magnesium",
+          "confidence": 0.8904
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1062.0,
+            780.0,
+            1088.0
+          ],
+          "text": "2.06",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1064.0,
+            996.0,
+            1088.0
+          ],
+          "text": "1.8",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            1064.0,
+            1058.0,
+            1088.0
+          ],
+          "text": "2.6",
+          "confidence": 0.8234
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1064.0,
+            1140.0,
+            1092.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9943
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            1062.0,
+            1432.0,
+            1088.0
+          ],
+          "text": "XYLIDYL BLUE",
+          "confidence": 0.7762
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1114.0,
+            384.0,
+            1144.0
+          ],
+          "text": "PRO CALCITONIN",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1158.0,
+            276.0,
+            1184.0
+          ],
+          "text": "Procalcitonin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1158.0,
+            792.0,
+            1184.0
+          ],
+          "text": "0.861",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1157.0,
+            1250.0,
+            1189.0
+          ],
+          "text": "Low Risk for Sepsis: <0.5",
+          "confidence": 0.7526
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1267.0,
+            1156.0,
+            1378.0,
+            1187.0
+          ],
+          "text": "Enhanced",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            1184.0,
+            1256.0,
+            1216.0
+          ],
+          "text": "High risk for sepsis:>2.0",
+          "confidence": 0.7651
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            1184.0,
+            1492.0,
+            1212.0
+          ],
+          "text": "Chemiluminescence",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            1207.0,
+            1034.0,
+            1245.0
+          ],
+          "text": "ng/mL",
+          "confidence": 0.7465
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1245.0,
+            290.0,
+            1277.0
+          ],
+          "text": "Interpretation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            1241.0,
+            1262.0,
+            1277.0
+          ],
+          "text": "PCT is the prohormone of calcitonin secreted",
+          "confidence": 0.9417
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1271.0,
+            1195.0,
+            1302.0
+          ],
+          "text": "by different types of cells from numerous",
+          "confidence": 0.9347
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1300.0,
+            1166.0,
+            1330.0
+          ],
+          "text": "organs in response to proinflammatory",
+          "confidence": 0.8196
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            721.0,
+            1324.0,
+            1236.0,
+            1354.0
+          ],
+          "text": "stimulation, particularly bacterial stimulation.",
+          "confidence": 0.8035
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1351.0,
+            1222.0,
+            1382.0
+          ],
+          "text": "2. Depending upon clinical background, PCT",
+          "confidence": 0.8164
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1380.0,
+            1214.0,
+            1408.0
+          ],
+          "text": "0.1 can indicate clinically relevant bacterial",
+          "confidence": 0.8806
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            721.0,
+            1403.0,
+            1178.0,
+            1436.0
+          ],
+          "text": "infection, requiring antibiotic treatment:",
+          "confidence": 0.978
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            725.0,
+            1435.0,
+            743.0,
+            1457.0
+          ],
+          "text": "3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1430.0,
+            1264.0,
+            1463.0
+          ],
+          "text": "PCT is an important marker enabling specific",
+          "confidence": 0.915
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1457.0,
+            1244.0,
+            1486.0
+          ],
+          "text": "differentiation between bacterial infection and",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1485.0,
+            1058.0,
+            1516.0
+          ],
+          "text": "other causes of inflammatory",
+          "confidence": 0.928
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1514.0,
+            832.0,
+            1538.0
+          ],
+          "text": "reactions",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1538.0,
+            1266.0,
+            1570.0
+          ],
+          "text": "Resorption of septic infection is accompanied",
+          "confidence": 0.7658
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1566.0,
+            1186.0,
+            1594.0
+          ],
+          "text": "by decreases in PCT concentration which",
+          "confidence": 0.9569
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1592.0,
+            1210.0,
+            1618.0
+          ],
+          "text": "returns to normal with half life of 24 hours",
+          "confidence": 0.9863
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1618.0,
+            1262.0,
+            1648.0
+          ],
+          "text": "5. In certain situations (newborns, polytrauma,",
+          "confidence": 0.8554
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            723.0,
+            1645.0,
+            1202.0,
+            1676.0
+          ],
+          "text": "burns,major surgery, prolonged or severe",
+          "confidence": 0.9794
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1674.0,
+            1196.0,
+            1702.0
+          ],
+          "text": "cardiogenic shock etc) PCT elevation may",
+          "confidence": 0.7369
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1698.0,
+            1228.0,
+            1731.0
+          ],
+          "text": "be independent of any infectious aggression_",
+          "confidence": 0.9566
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1726.0,
+            1154.0,
+            1754.0
+          ],
+          "text": "The return to normal values is usually",
+          "confidence": 0.9161
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            725.0,
+            1755.0,
+            743.0,
+            1777.0
+          ],
+          "text": "6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1750.0,
+            1190.0,
+            1782.0
+          ],
+          "text": "Viral infections, allergies, autoimmune",
+          "confidence": 0.7614
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1780.0,
+            872.0,
+            1806.0
+          ],
+          "text": "diseases and",
+          "confidence": 0.9762
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1780.0,
+            1206.0,
+            1808.0
+          ],
+          "text": "rejection do not lead to",
+          "confidence": 0.8134
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1806.0,
+            1024.0,
+            1834.0
+          ],
+          "text": "significant increase in PCT _",
+          "confidence": 0.6405
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            1806.0,
+            1244.0,
+            1832.0
+          ],
+          "text": "Localized bacterial",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1832.0,
+            1262.0,
+            1858.0
+          ],
+          "text": "infections can lead to moderate increase in PCT",
+          "confidence": 0.7801
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1860.0,
+            800.0,
+            1886.0
+          ],
+          "text": "levels.",
+          "confidence": 0.9369
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1920.0,
+            198.0,
+            1946.0
+          ],
+          "text": "NOTE_",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1918.0,
+            1182.0,
+            1951.0
+          ],
+          "text": "Patients on Biotin supplement may have",
+          "confidence": 0.6295
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1946.0,
+            1200.0,
+            1976.0
+          ],
+          "text": "interference in some immunoassays. With",
+          "confidence": 0.8211
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            721.0,
+            1969.0,
+            1247.0,
+            2005.0
+          ],
+          "text": "individuals taking high dose Biotin (more than",
+          "confidence": 0.7378
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            2026.0,
+            1256.0,
+            2059.0
+          ],
+          "text": "per day) supplements, at least 8-hour wait",
+          "confidence": 0.846
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            2054.0,
+            1188.0,
+            2080.0
+          ],
+          "text": "time before blood draw is recommended",
+          "confidence": 0.4472
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            2105.0,
+            948.0,
+            2135.0
+          ],
+          "text": "Low Risk for Sepsis",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            2108.0,
+            1112.0,
+            2136.0
+          ],
+          "text": "< 0.5 ng/ml",
+          "confidence": 0.7695
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            2134.0,
+            954.0,
+            2164.0
+          ],
+          "text": "High Risk for Sepsis",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            974.0,
+            2134.0,
+            1042.0,
+            2160.0
+          ],
+          "text": "> 2.0",
+          "confidence": 0.4979
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            1042.0,
+            2130.0,
+            1122.0,
+            2166.0
+          ],
+          "text": "ng/ml:",
+          "confidence": 0.7984
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            2214.0,
+            230.0,
+            2242.0
+          ],
+          "text": "Printed By",
+          "confidence": 0.7088
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            2213.0,
+            374.0,
+            2239.0
+          ],
+          "text": "41011329",
+          "confidence": 0.8755
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            2214.0,
+            686.0,
+            2242.0
+          ],
+          "text": "Printed On",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            2214.0,
+            1012.0,
+            2242.0
+          ],
+          "text": "22-Apr-2025 07:17:55 PM",
+          "confidence": 0.8918
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            2214.0,
+            1176.0,
+            2244.0
+          ],
+          "text": "System",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            1156.4789396203098,
+            1724.6396282688384,
+            1220.5210603796902,
+            1756.3603717311616
+          ],
+          "text": "rapid",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            874.5430712064641,
+            1778.6007725137779,
+            936.4569287935359,
+            1810.3992274862221
+          ],
+          "text": "graft",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            721.3030303934881,
+            2027.1867537178289,
+            765.6969696065119,
+            2059.813246282171
+          ],
+          "text": "mg",
+          "confidence": 0.9998
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF CLINICAL BIOCHEMISTRY\nPatient\nAdmn\nNo\nUMR9996\nDr.CHENNA\nVIJAY MD_\nDM (NEUROLOG\nBill Date\n22-Apr-25\n08:40 am\nReport Date\n22-Apr-25\n09:47\nam\nParameter\nSpecimen\nResults\nBiological Reference\nMethod\nSGPT/ALT\n13\n0\n50\nU/L\nUV WITHOUT PSP\nSGOT/AST\n26\n0\n50\nU/L\nUV WITHOUT PSP\nAlkaline\nPhosphatase\n169\n30\n120\nU/L\nPNPP AMP BUFFER\nTOTAL PROTEIN\n5.8\n6.3\n8.2\ngm/dl\nBIURET\nALBUMIN\n3.5\n3.5\n5.2\ng/dl\nBROMOCRESOL GREEN\nGlobulin\n2.3\n2.0\n3.5  gm/dl\nCalculation\nA/G Ratio\n1.52\nCRP\n2.6\n0\n6.0\nmg/L\nLATEX PARTICLE\nIMMUNOTURBIDIMETRI\nCalcium\n7.5\n8.8\n10.6\nmg/dl\nARSENAZO\nPhosphorous\n2.9\n2.5\n4.5\nmg/dl\nPHOSPOMOLYBDATE\nCOMPLEX\nMagnesium\n2.06\n1.8\n2.6\nmg/dl\nXYLIDYL BLUE\nPRO CALCITONIN\nProcalcitonin\n0.861\nLow Risk for Sepsis: <0.5\nEnhanced\nHigh risk for sepsis:>2.0\nChemiluminescence\nng/mL\nInterpretation\nPCT is the prohormone of calcitonin secreted\nby different types of cells from numerous\norgans in response to proinflammatory\nstimulation, particularly bacterial stimulation.\n2. Depending upon clinical background, PCT\n0.1 can indicate clinically relevant bacterial\ninfection, requiring antibiotic treatment:\n3\nPCT is an important marker enabling specific\ndifferentiation between bacterial infection and\nother causes of inflammatory\nreactions\nResorption of septic infection is accompanied\nby decreases in PCT concentration which\nreturns to normal with half life of 24 hours\n5. In certain situations (newborns, polytrauma,\nburns,major surgery, prolonged or severe\ncardiogenic shock etc) PCT elevation may\nbe independent of any infectious aggression_\nThe return to normal values is usually\n6\nViral infections, allergies, autoimmune\ndiseases and\nrejection do not lead to\nsignificant increase in PCT _\nLocalized bacterial\ninfections can lead to moderate increase in PCT\nlevels.\nNOTE_\nPatients on Biotin supplement may have\ninterference in some immunoassays. With\nindividuals taking high dose Biotin (more than\nper day) supplements, at least 8-hour wait\ntime before blood draw is recommended\nLow Risk for Sepsis\n< 0.5 ng/ml\nHigh Risk for Sepsis\n> 2.0\nng/ml:\nPrinted By\n41011329\nPrinted On\n22-Apr-2025 07:17:55 PM\nSystem\nrapid\ngraft\nmg",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "UMR9",
+          "biomarker_normalized": "UMR9",
+          "value": "996",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UMR9996",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Low Risk for Sepsis: <",
+          "biomarker_normalized": "Low Risk for Sepsis: <",
+          "value": "0.5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Low Risk for Sepsis: <0.5",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "High risk for sepsis:>",
+          "biomarker_normalized": "High risk for sepsis:>",
+          "value": "2.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "High risk for sepsis:>2.0",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "returns to normal with half life of",
+          "biomarker_normalized": "returns to normal with half life of",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "returns to normal with half life of 24 hours",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "per day) supplements, at least",
+          "biomarker_normalized": "per day) supplements, at least",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "per day) supplements, at least 8-hour wait",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 140,
+    "ocr_avg_confidence": 0.9058,
+    "parsed_row_count": 5
+  }
+}

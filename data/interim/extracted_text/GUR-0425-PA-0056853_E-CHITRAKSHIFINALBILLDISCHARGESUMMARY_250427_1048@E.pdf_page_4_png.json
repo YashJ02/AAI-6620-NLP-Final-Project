@@ -1,0 +1,633 @@
+{
+  "document_id": "GUR-0425-PA-0056853_E-CHITRAKSHIFINALBILLDISCHARGESUMMARY_250427_1048@E.pdf_page_4",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056853_E-CHITRAKSHIFINALBILLDISCHARGESUMMARY_250427_1048@E.pdf_page_4.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "JJ INSTITUTE\nOF MEDICAL SCIENCES (P) LTD\n7056103103\nE-mall\ncmmJimedicallnslltulo.com\nWicbaIlu\nwrww Imedicalinelilule com\nNADM\nH-2021-0773\nDepartment of Patholoq\n154091\nReporting Date\n11.32.51 PM\nPatient Type\nIP\nConsultant Doctor\nDr NAVDEEP SINGLA\nIP No.\n112907\nBLOOD SUGAR RANDOM\nInvestigation\nResult\nUnits\nBiological Reference Interval\nBLOODSUGAR RANDOM\nBLOOD SUGAR RANDOM\n85\nmgldl\n70\n140\nH\n2\nDr MEGHA KESHARWANI\n&\nMBBS, MD-Pathology\nReg No :15162\nPATHOLOGIST\n#t\nEND OF THE REPORT *#***\nDelhi-Rohtak Road,\nMetro Pillar No. 792, Bahadurgarh; Haryana-124507 (India)\nUser: VIPIN\nMEDICAL _\nSCIENCE\n((\nJJivS\naahadurgara\nOpp:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            37.0,
+            804.0,
+            118.0
+          ],
+          "text": "JJ INSTITUTE",
+          "confidence": 0.7854
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            111.0,
+            796.0,
+            166.0
+          ],
+          "text": "OF MEDICAL SCIENCES (P) LTD",
+          "confidence": 0.8948
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1484.0,
+            124.0,
+            1622.0,
+            150.0
+          ],
+          "text": "7056103103",
+          "confidence": 0.7875
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1371.0,
+            151.0,
+            1419.0,
+            169.0
+          ],
+          "text": "E-mall",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1428.0,
+            150.0,
+            1622.0,
+            174.0
+          ],
+          "text": "cmmJimedicallnslltulo.com",
+          "confidence": 0.3098
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1371.0,
+            169.0,
+            1427.0,
+            187.0
+          ],
+          "text": "WicbaIlu",
+          "confidence": 0.4439
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1437.0,
+            173.0,
+            1621.0,
+            189.0
+          ],
+          "text": "wrww Imedicalinelilule com",
+          "confidence": 0.4587
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            188.0,
+            1026.0,
+            212.0
+          ],
+          "text": "NADM",
+          "confidence": 0.8034
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            246.0,
+            1042.0,
+            270.0
+          ],
+          "text": "H-2021-0773",
+          "confidence": 0.7522
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            328.0,
+            1013.0,
+            368.0
+          ],
+          "text": "Department of Patholoq",
+          "confidence": 0.5199
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            460.0,
+            392.0,
+            492.0
+          ],
+          "text": "154091",
+          "confidence": 0.7923
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            931.0,
+            463.0,
+            1131.0,
+            501.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.9846
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            462.0,
+            1554.0,
+            492.0
+          ],
+          "text": "11.32.51 PM",
+          "confidence": 0.7996
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            501.0,
+            227.0,
+            539.0
+          ],
+          "text": "Patient Type",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            292.0,
+            504.0,
+            326.0,
+            534.0
+          ],
+          "text": "IP",
+          "confidence": 0.9814
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            508.0,
+            1168.0,
+            538.0
+          ],
+          "text": "Consultant Doctor",
+          "confidence": 0.7632
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            506.0,
+            1482.0,
+            538.0
+          ],
+          "text": "Dr NAVDEEP SINGLA",
+          "confidence": 0.5105
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            546.0,
+            142.0,
+            574.0
+          ],
+          "text": "IP No.",
+          "confidence": 0.9538
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            292.0,
+            548.0,
+            394.0,
+            578.0
+          ],
+          "text": "112907",
+          "confidence": 0.8176
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            651.0,
+            609.0,
+            1062.0,
+            642.0
+          ],
+          "text": "BLOOD SUGAR RANDOM",
+          "confidence": 0.9099
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            63.0,
+            657.0,
+            251.0,
+            695.0
+          ],
+          "text": "Investigation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            664.0,
+            720.0,
+            696.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            664.0,
+            1040.0,
+            696.0
+          ],
+          "text": "Units",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1217.0,
+            661.0,
+            1615.0,
+            701.0
+          ],
+          "text": "Biological Reference Interval",
+          "confidence": 0.8441
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            705.0,
+            417.0,
+            743.0
+          ],
+          "text": "BLOODSUGAR RANDOM",
+          "confidence": 0.6236
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            759.0,
+            410.0,
+            792.0
+          ],
+          "text": "BLOOD SUGAR RANDOM",
+          "confidence": 0.6757
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            764.0,
+            662.0,
+            794.0
+          ],
+          "text": "85",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            965.0,
+            765.0,
+            1045.0,
+            803.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9502
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            766.0,
+            1264.0,
+            796.0
+          ],
+          "text": "70",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            764.0,
+            1334.0,
+            796.0
+          ],
+          "text": "140",
+          "confidence": 0.5297
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            886.0,
+            410.0,
+            990.0
+          ],
+          "text": "H",
+          "confidence": 0.9801
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            918.0,
+            488.0,
+            970.0
+          ],
+          "text": "2",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            950.0,
+            1542.0,
+            982.0
+          ],
+          "text": "Dr MEGHA KESHARWANI",
+          "confidence": 0.6755
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            451.0,
+            967.0,
+            487.0,
+            1019.0
+          ],
+          "text": "&",
+          "confidence": 0.9097
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1223.0,
+            981.0,
+            1507.0,
+            1023.0
+          ],
+          "text": "MBBS, MD-Pathology",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1263.0,
+            1019.0,
+            1465.0,
+            1060.0
+          ],
+          "text": "Reg No :15162",
+          "confidence": 0.8321
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1252.0,
+            1056.0,
+            1462.0,
+            1088.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.8851
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            643.0,
+            1127.0,
+            703.0,
+            1143.0
+          ],
+          "text": "#t",
+          "confidence": 0.3657
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1126.0,
+            1068.0,
+            1156.0
+          ],
+          "text": "END OF THE REPORT *#***",
+          "confidence": 0.5854
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            2199.0,
+            485.0,
+            2241.0
+          ],
+          "text": "Delhi-Rohtak Road,",
+          "confidence": 0.8823
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            569.0,
+            2188.0,
+            1470.0,
+            2243.0
+          ],
+          "text": "Metro Pillar No. 792, Bahadurgarh; Haryana-124507 (India)",
+          "confidence": 0.6737
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            2230.0,
+            251.0,
+            2262.0
+          ],
+          "text": "User: VIPIN",
+          "confidence": 0.9631
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            276.95144619575154,
+            821.4016625235388,
+            395.04855380424846,
+            885.5983374764612
+          ],
+          "text": "MEDICAL _",
+          "confidence": 0.548
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            376.3998801050521,
+            821.0233996042741,
+            493.6001198949479,
+            933.9766003957259
+          ],
+          "text": "SCIENCE",
+          "confidence": 0.9533
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            224.59277789824415,
+            895.0102333271373,
+            311.40722210175585,
+            1077.9897666728627
+          ],
+          "text": "((",
+          "confidence": 0.4504
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            317.97191949374644,
+            977.2910721626102,
+            422.02808050625356,
+            1023.7089278373898
+          ],
+          "text": "JJivS",
+          "confidence": 0.3837
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            295.6076433315133,
+            1018.728202925677,
+            466.3923566684867,
+            1086.271797074323
+          ],
+          "text": "aahadurgara",
+          "confidence": 0.1097
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            478.15598647761215,
+            2193.089967765097,
+            573.8440135223879,
+            2254.910032234903
+          ],
+          "text": "Opp:",
+          "confidence": 0.6227
+        }
+      ]
+    }
+  ],
+  "full_text": "JJ INSTITUTE\nOF MEDICAL SCIENCES (P) LTD\n7056103103\nE-mall\ncmmJimedicallnslltulo.com\nWicbaIlu\nwrww Imedicalinelilule com\nNADM\nH-2021-0773\nDepartment of Patholoq\n154091\nReporting Date\n11.32.51 PM\nPatient Type\nIP\nConsultant Doctor\nDr NAVDEEP SINGLA\nIP No.\n112907\nBLOOD SUGAR RANDOM\nInvestigation\nResult\nUnits\nBiological Reference Interval\nBLOODSUGAR RANDOM\nBLOOD SUGAR RANDOM\n85\nmgldl\n70\n140\nH\n2\nDr MEGHA KESHARWANI\n&\nMBBS, MD-Pathology\nReg No :15162\nPATHOLOGIST\n#t\nEND OF THE REPORT *#***\nDelhi-Rohtak Road,\nMetro Pillar No. 792, Bahadurgarh; Haryana-124507 (India)\nUser: VIPIN\nMEDICAL _\nSCIENCE\n((\nJJivS\naahadurgara\nOpp:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "2021",
+          "unit": "",
+          "reference_range": "-2021-0773",
+          "source_line": "H-2021-0773",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "Reg No",
+          "biomarker_normalized": "Reg No",
+          "value": "15162",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reg No :15162",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Metro Pillar No.",
+          "biomarker_normalized": "Metro Pillar No.",
+          "value": "792",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Metro Pillar No. 792, Bahadurgarh; Haryana-124507 (India)",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 48,
+    "ocr_avg_confidence": 0.7644,
+    "parsed_row_count": 3
+  }
+}

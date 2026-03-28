@@ -1,0 +1,852 @@
+{
+  "document_id": "GUR-0425-PA-0048512_Q-POOJA4759000111zon_250424_1524@F.pdf_page_43",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0048512_Q-POOJA4759000111zon_250424_1524@F.pdf_page_43.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DSCAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nOpp: Civil Hospital; Sonipat\nMob\nPatient Nan\nOSCAR HIOSPITAL\nSamplerec Dale\n09/01/025\nReport Date\nm/o12uz5\nMICROBIOLOGY\nTest Name With Methodology\nResult\nUnit\nBiological Ref Interval\nCulture\nSensitivity (Blood)\nFINAL REPORT UPTO 3r DAY\nNo Aeropic Bacterial Growth\nComments\nThis test % Ued [0 check tor Ne presence Of & syslemic Irtecion wnen Int pJbenf gnows sign3 Or sympiomg 01 @ bacianal\ninfecon :ud\nJ8 faver chilla elavatod whito blcod ccll count, and fatiquc which also may be a sipn of infection occurring In\nother parts cthe Body such J5 @ urinzry #Jc intection (UTI) Preumonia  Olarmea  or stun Inlection\nA positrve bleod cuiture may mean that patent $ having & bacterial or fungal mfecton In your bloodstream tnat needs t0 ba\nIroztnd Immediatey Or 4 could bo Ialso positivo duc t0 skin contomination;\nA positivo rosul: couid also bo\nfalso positivo\ncaused Dy\n7in contaminaton So 3 repeat blcod culture tesiposijve With te same bacteria, Idicates tnat tne oactena\nlound In Ine /ullute arc causin9 Inloclon\nA negalive Gullure Lest indicales Ine absence bf any inlection\n0f Paleni 5 On unlibiotics Or some micqoorganisms ate Mofe\nditiculito gr\nin cultura and more testing may ba Tequired A clinical correlaton 0ftna Iest result is very important\nAntiblotic\nUusceptibility report; Antiblotic susceptibllity test (AST) was done by Kirby Bauer dlsc difiuslon\nmethod  AET  reporting is\ndone\nas\nper CLINICAL AND LABORATORY STANDARDS INSTITUTE;\nUSA 2017\nguldelines  Khe drugs are listed as per the FDA clinical Indications for use\nDr. SWETA KUMARI\nMBB.S_MS\n(Obs & Gynae)\nDr GURLEFN GILL\nRegd: HN 013316\nMBBS_MD (Pazhowuy\nRega. No. DMCIRU21938\nCBCThyrold Kiduey Function fest, Lver Function TestLpid Profile. Blood Sugar LHFSH,Prolactin.8-HcG,IorcH, CA-125, CEAL PSA\n30/40 Moloe Doppler Yulrasound, #.S.6. IVP Barium Studies, Olgital X-Aay: Mulli Sllice Spiral CT Scan; Ec.6\nEEG,-21 channois EMG Ncv VeP 8 E.ra_ Pft $ Compighonsiva Maaltn Chack-Ups elc.\n30/4D Ultrasound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNO] FOR MEdICO LEGAL PURPOSE\nTma\n24 T Jdu %i\nHosels\nHEM\nyla",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            255.0,
+            71.0,
+            1395.0,
+            157.0
+          ],
+          "text": "DSCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.7863
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            166.0,
+            188.0,
+            214.0
+          ],
+          "text": "OS",
+          "confidence": 0.4304
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            158.0,
+            1127.0,
+            247.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.8854
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            249.0,
+            744.0,
+            305.0
+          ],
+          "text": "Opp: Civil Hospital; Sonipat",
+          "confidence": 0.6308
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            250.0,
+            852.0,
+            298.0
+          ],
+          "text": "Mob",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            558.0,
+            254.0,
+            586.0
+          ],
+          "text": "Patient Nan",
+          "confidence": 0.4808
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            628.0,
+            686.0,
+            658.0
+          ],
+          "text": "OSCAR HIOSPITAL",
+          "confidence": 0.7005
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            785.0,
+            631.0,
+            976.0,
+            661.0
+          ],
+          "text": "Samplerec Dale",
+          "confidence": 0.2167
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            628.0,
+            1186.0,
+            658.0
+          ],
+          "text": "09/01/025",
+          "confidence": 0.164
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            655.0,
+            925.0,
+            696.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.7333
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1053.0,
+            657.0,
+            1187.0,
+            687.0
+          ],
+          "text": "m/o12uz5",
+          "confidence": 0.1071
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            683.0,
+            934.0,
+            945.0,
+            966.0
+          ],
+          "text": "MICROBIOLOGY",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            975.0,
+            524.0,
+            1020.0
+          ],
+          "text": "Test Name With Methodology",
+          "confidence": 0.9118
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            686.0,
+            982.0,
+            782.0,
+            1012.0
+          ],
+          "text": "Result",
+          "confidence": 0.7776
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            982.0,
+            1030.0,
+            1012.0
+          ],
+          "text": "Unit",
+          "confidence": 0.8973
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1153.0,
+            981.0,
+            1455.0,
+            1019.0
+          ],
+          "text": "Biological Ref Interval",
+          "confidence": 0.8571
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1028.0,
+            248.0,
+            1060.0
+          ],
+          "text": "Culture",
+          "confidence": 0.9219
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            276.0,
+            1023.0,
+            567.0,
+            1065.0
+          ],
+          "text": "Sensitivity (Blood)",
+          "confidence": 0.9759
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1072.0,
+            522.0,
+            1108.0
+          ],
+          "text": "FINAL REPORT UPTO 3r DAY",
+          "confidence": 0.7587
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            1074.0,
+            1038.0,
+            1106.0
+          ],
+          "text": "No Aeropic Bacterial Growth",
+          "confidence": 0.4598
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            1111.0,
+            264.0,
+            1141.0
+          ],
+          "text": "Comments",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1138.0,
+            1396.0,
+            1171.0
+          ],
+          "text": "This test % Ued [0 check tor Ne presence Of & syslemic Irtecion wnen Int pJbenf gnows sign3 Or sympiomg 01 @ bacianal",
+          "confidence": 0.0446
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1168.0,
+            276.0,
+            1194.0
+          ],
+          "text": "infecon :ud",
+          "confidence": 0.3321
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            287.0,
+            1165.0,
+            1395.0,
+            1201.0
+          ],
+          "text": "J8 faver chilla elavatod whito blcod ccll count, and fatiquc which also may be a sipn of infection occurring In",
+          "confidence": 0.1532
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1193.0,
+            1150.0,
+            1224.0
+          ],
+          "text": "other parts cthe Body such J5 @ urinzry #Jc intection (UTI) Preumonia  Olarmea  or stun Inlection",
+          "confidence": 0.1065
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1247.0,
+            1407.0,
+            1283.0
+          ],
+          "text": "A positrve bleod cuiture may mean that patent $ having & bacterial or fungal mfecton In your bloodstream tnat needs t0 ba",
+          "confidence": 0.183
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1280.0,
+            914.0,
+            1310.0
+          ],
+          "text": "Iroztnd Immediatey Or 4 could bo Ialso positivo duc t0 skin contomination;",
+          "confidence": 0.1458
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            1278.0,
+            1242.0,
+            1308.0
+          ],
+          "text": "A positivo rosul: couid also bo",
+          "confidence": 0.2838
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            1278.0,
+            1408.0,
+            1308.0
+          ],
+          "text": "falso positivo",
+          "confidence": 0.4204
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1308.0,
+            252.0,
+            1336.0
+          ],
+          "text": "caused Dy",
+          "confidence": 0.4074
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            1308.0,
+            1406.0,
+            1336.0
+          ],
+          "text": "7in contaminaton So 3 repeat blcod culture tesiposijve With te same bacteria, Idicates tnat tne oactena",
+          "confidence": 0.1507
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1333.0,
+            556.0,
+            1364.0
+          ],
+          "text": "lound In Ine /ullute arc causin9 Inloclon",
+          "confidence": 0.1234
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1388.0,
+            768.0,
+            1421.0
+          ],
+          "text": "A negalive Gullure Lest indicales Ine absence bf any inlection",
+          "confidence": 0.1154
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            1390.0,
+            1408.0,
+            1420.0
+          ],
+          "text": "0f Paleni 5 On unlibiotics Or some micqoorganisms ate Mofe",
+          "confidence": 0.0441
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1416.0,
+            276.0,
+            1448.0
+          ],
+          "text": "diticulito gr",
+          "confidence": 0.2433
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            296.0,
+            1416.0,
+            1304.0,
+            1448.0
+          ],
+          "text": "in cultura and more testing may ba Tequired A clinical correlaton 0ftna Iest result is very important",
+          "confidence": 0.1587
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1477.0,
+            261.0,
+            1513.0
+          ],
+          "text": "Antiblotic",
+          "confidence": 0.526
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            271.0,
+            1477.0,
+            1411.0,
+            1515.0
+          ],
+          "text": "Uusceptibility report; Antiblotic susceptibllity test (AST) was done by Kirby Bauer dlsc difiuslon",
+          "confidence": 0.4744
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            1510.0,
+            457.0,
+            1547.0
+          ],
+          "text": "method  AET  reporting is",
+          "confidence": 0.3353
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            1514.0,
+            530.0,
+            1542.0
+          ],
+          "text": "done",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            536.0,
+            1518.0,
+            568.0,
+            1542.0
+          ],
+          "text": "as",
+          "confidence": 0.9798
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            1512.0,
+            1269.0,
+            1544.0
+          ],
+          "text": "per CLINICAL AND LABORATORY STANDARDS INSTITUTE;",
+          "confidence": 0.5785
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            1514.0,
+            1408.0,
+            1544.0
+          ],
+          "text": "USA 2017",
+          "confidence": 0.6316
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1539.0,
+            973.0,
+            1583.0
+          ],
+          "text": "guldelines  Khe drugs are listed as per the FDA clinical Indications for use",
+          "confidence": 0.3258
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            520.0,
+            1692.0,
+            900.0,
+            1744.0
+          ],
+          "text": "Dr. SWETA KUMARI",
+          "confidence": 0.728
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            637.0,
+            1737.0,
+            886.0,
+            1780.0
+          ],
+          "text": "MBB.S_MS",
+          "confidence": 0.8288
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            605.0,
+            1768.0,
+            899.0,
+            1825.0
+          ],
+          "text": "(Obs & Gynae)",
+          "confidence": 0.4799
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            1751.0,
+            1451.0,
+            1813.0
+          ],
+          "text": "Dr GURLEFN GILL",
+          "confidence": 0.5207
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            1804.0,
+            896.0,
+            1855.0
+          ],
+          "text": "Regd: HN 013316",
+          "confidence": 0.3059
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1075.0,
+            1800.0,
+            1440.0,
+            1850.0
+          ],
+          "text": "MBBS_MD (Pazhowuy",
+          "confidence": 0.4584
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1077.0,
+            1833.0,
+            1453.0,
+            1893.0
+          ],
+          "text": "Rega. No. DMCIRU21938",
+          "confidence": 0.6216
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            63.0,
+            2000.0,
+            1587.0,
+            2042.0
+          ],
+          "text": "CBCThyrold Kiduey Function fest, Lver Function TestLpid Profile. Blood Sugar LHFSH,Prolactin.8-HcG,IorcH, CA-125, CEAL PSA",
+          "confidence": 0.0582
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            2047.0,
+            1469.0,
+            2087.0
+          ],
+          "text": "30/40 Moloe Doppler Yulrasound, #.S.6. IVP Barium Studies, Olgital X-Aay: Mulli Sllice Spiral CT Scan; Ec.6",
+          "confidence": 0.0244
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            307.0,
+            2077.0,
+            1341.0,
+            2117.0
+          ],
+          "text": "EEG,-21 channois EMG Ncv VeP 8 E.ra_ Pft $ Compighonsiva Maaltn Chack-Ups elc.",
+          "confidence": 0.0198
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            2142.0,
+            1543.0,
+            2205.0
+          ],
+          "text": "30/4D Ultrasound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab",
+          "confidence": 0.5014
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            2222.0,
+            764.0,
+            2270.0
+          ],
+          "text": "NO] FOR MEdICO LEGAL PURPOSE",
+          "confidence": 0.5294
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            912.0,
+            2218.0,
+            1050.0,
+            2269.0
+          ],
+          "text": "Tma",
+          "confidence": 0.128
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1151.0,
+            2225.0,
+            1416.0,
+            2268.0
+          ],
+          "text": "24 T Jdu %i",
+          "confidence": 0.1074
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            279.0275094958671,
+            1839.0815813559439,
+            372.9724905041329,
+            1886.9184186440561
+          ],
+          "text": "Hosels",
+          "confidence": 0.0223
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            294.0652976246927,
+            1868.1219034952862,
+            365.9347023753073,
+            1907.8780965047138
+          ],
+          "text": "HEM",
+          "confidence": 0.6552
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1043.0440559000835,
+            2214.9291689494326,
+            1151.9559440999165,
+            2277.0708310505674
+          ],
+          "text": "yla",
+          "confidence": 0.2212
+        }
+      ]
+    }
+  ],
+  "full_text": "DSCAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nOpp: Civil Hospital; Sonipat\nMob\nPatient Nan\nOSCAR HIOSPITAL\nSamplerec Dale\n09/01/025\nReport Date\nm/o12uz5\nMICROBIOLOGY\nTest Name With Methodology\nResult\nUnit\nBiological Ref Interval\nCulture\nSensitivity (Blood)\nFINAL REPORT UPTO 3r DAY\nNo Aeropic Bacterial Growth\nComments\nThis test % Ued [0 check tor Ne presence Of & syslemic Irtecion wnen Int pJbenf gnows sign3 Or sympiomg 01 @ bacianal\ninfecon :ud\nJ8 faver chilla elavatod whito blcod ccll count, and fatiquc which also may be a sipn of infection occurring In\nother parts cthe Body such J5 @ urinzry #Jc intection (UTI) Preumonia  Olarmea  or stun Inlection\nA positrve bleod cuiture may mean that patent $ having & bacterial or fungal mfecton In your bloodstream tnat needs t0 ba\nIroztnd Immediatey Or 4 could bo Ialso positivo duc t0 skin contomination;\nA positivo rosul: couid also bo\nfalso positivo\ncaused Dy\n7in contaminaton So 3 repeat blcod culture tesiposijve With te same bacteria, Idicates tnat tne oactena\nlound In Ine /ullute arc causin9 Inloclon\nA negalive Gullure Lest indicales Ine absence bf any inlection\n0f Paleni 5 On unlibiotics Or some micqoorganisms ate Mofe\nditiculito gr\nin cultura and more testing may ba Tequired A clinical correlaton 0ftna Iest result is very important\nAntiblotic\nUusceptibility report; Antiblotic susceptibllity test (AST) was done by Kirby Bauer dlsc difiuslon\nmethod  AET  reporting is\ndone\nas\nper CLINICAL AND LABORATORY STANDARDS INSTITUTE;\nUSA 2017\nguldelines  Khe drugs are listed as per the FDA clinical Indications for use\nDr. SWETA KUMARI\nMBB.S_MS\n(Obs & Gynae)\nDr GURLEFN GILL\nRegd: HN 013316\nMBBS_MD (Pazhowuy\nRega. No. DMCIRU21938\nCBCThyrold Kiduey Function fest, Lver Function TestLpid Profile. Blood Sugar LHFSH,Prolactin.8-HcG,IorcH, CA-125, CEAL PSA\n30/40 Moloe Doppler Yulrasound, #.S.6. IVP Barium Studies, Olgital X-Aay: Mulli Sllice Spiral CT Scan; Ec.6\nEEG,-21 channois EMG Ncv VeP 8 E.ra_ Pft $ Compighonsiva Maaltn Chack-Ups elc.\n30/4D Ultrasound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNO] FOR MEdICO LEGAL PURPOSE\nTma\n24 T Jdu %i\nHosels\nHEM\nyla",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "m/o1",
+          "biomarker_normalized": "m/o1",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "m/o12uz5",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "FINAL REPORT UPTO",
+          "biomarker_normalized": "FINAL REPORT UPTO",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "FINAL REPORT UPTO 3r DAY",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "This test % Ued [",
+          "biomarker_normalized": "This test % Ued [",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "This test % Ued [0 check tor Ne presence Of & syslemic Irtecion wnen Int pJbenf gnows sign3 Or sympiomg 01 @ bacianal",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Iroztnd Immediatey Or",
+          "biomarker_normalized": "Iroztnd Immediatey Or",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Iroztnd Immediatey Or 4 could bo Ialso positivo duc t0 skin contomination;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "in cultura and more testing may ba Tequired A clinical correlaton",
+          "biomarker_normalized": "in cultura and more testing may ba Tequired A clinical correlaton",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "in cultura and more testing may ba Tequired A clinical correlaton 0ftna Iest result is very important",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "USA",
+          "biomarker_normalized": "USA",
+          "value": "2017",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "USA 2017",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Regd: HN",
+          "biomarker_normalized": "Regd: HN",
+          "value": "013316",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd: HN 013316",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Rega. No. DMCIRU2",
+          "biomarker_normalized": "Rega. No. DMCIRU2",
+          "value": "1938",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Rega. No. DMCIRU21938",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CBCThyrold Kiduey Function fest, Lver Function TestLpid Profile. Blood Sugar LHFSH,Prolactin.",
+          "biomarker_normalized": "CBCThyrold Kiduey Function fest, Lver Function TestLpid Profile. Blood Sugar LHFSH,Prolactin.",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBCThyrold Kiduey Function fest, Lver Function TestLpid Profile. Blood Sugar LHFSH,Prolactin.8-HcG,IorcH, CA-125, CEAL PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "EEG,",
+          "biomarker_normalized": "EEG,",
+          "value": "-21",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EEG,-21 channois EMG Ncv VeP 8 E.ra_ Pft $ Compighonsiva Maaltn Chack-Ups elc.",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 61,
+    "ocr_avg_confidence": 0.4699,
+    "parsed_row_count": 10
+  }
+}

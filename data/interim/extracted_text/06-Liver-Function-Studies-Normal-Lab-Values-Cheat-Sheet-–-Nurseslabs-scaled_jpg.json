@@ -1,0 +1,1572 @@
+{
+  "document_id": "06-Liver-Function-Studies-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled",
+  "source_path": "data\\raw\\images_reference\\nurseslabs\\06-Liver-Function-Studies-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled.jpg",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABS.COM/LABS/\nLiver Function Studies\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nAlanine Aminotransferase (ALT, SGPT)\nAmmonia\nMale:\nMale:\nAdult:\nAdult:\n0.17 to 0.92 Ukat/L\n10 to 55 units/L\n7-57 umol/L\n10-80 pg/dL\nFemale:\nFemale:\nChild:\nChild:\n0.12 to 0.50 pkat/L\n7 to 30 units/L\n29-57 umol/L\n40-80\nug/dL\nNewborn:\nNewborn:\nAspartate Aminotransferase (AST, SGOT)\n64-107 umol/L\n90-150 ug/dL\nMale:\nMale:\n0.17 to 0.67 ukat/L\n10 to 40 units/L\nAlbumin\nFemale:\nFemale:\nAdult:\nAdult:\n0.15 to 0.42 ukat/L\n9 to 25 units/L\n35 to 50 g/L\n3.5 to 5.0 g/dL\nChild:\nChild:\nTotal bilirubin\n40-59 g/L\n4.0-5.9\nAdult:\nAdult:\nInfant:\nInfant:\n5.1-17 umol/L\n0.3t0 1\nmg/dL\n44-54 g/L\n44-5.4 g/dL\nNewborn:\nNewborn:\nNewborn:\nNewborn:\n17.1-205 umol/L\n1.0-12.0 mg/dL\n35-54 g/L\n3.5-5.4 g/dL\nCritical values:\nCritical values:\nPremature infant:\nPremature infant:\n30_42 g/L\n3.0_4.2 g/dL\nAdult:\nAdult:\n2205 umol/L\n>12 mg/dL\nTotal Protein\nNewborn:\nNewborn:\n2256 umol/L\n>15 mg/dL\nAdult:\nAdult:\n54-83 g/L\n5.44-8.3\ng/dL\nAmylase\nChild:\nChild:\n62-80 g/L\n6.2-8.0 g/dL\nAdult:\nAdult:\n30-220 units/L\n60-120 Somogyi units/dL\nInfant:\nInfant:\nor 500 nkat/L\n60_67 g/L\n6.0-6.7\ng/dL\nNewborns:\nNewborn:\nNewborn:\nNewborn:\n3-32.5 units/L\n6-65 Somogyi units/dL\n46-74 g/L\n4.6-7.4 g/dL\nor 50-_542 nkat/L\nPremature infant:\nPremature infant:\nDirect bilirubin (conjugated)\n42-76 g/L\n4.2-7.6\ng/dL\n1.7-5.1 umol/L\n0.1to 0.3\nmg/dL\nLipase\nIndirect bilirubin (unconjugated)\n0-160 units/L\n3.4-12.0 umol/L\n0.2 to 0.8 mg/dL\nNurseslabs\n2022 NURSESLABS.COM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL\ng/dL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            132.0,
+            1677.0,
+            242.0
+          ],
+          "text": "Normal Lab Values Cheatsheet",
+          "confidence": 0.7156
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            279.0,
+            1726.0,
+            305.0
+          ],
+          "text": "LEARN MORE AT NURSESLABS.COM/LABS/",
+          "confidence": 0.4066
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            353.0,
+            1025.0,
+            437.0
+          ],
+          "text": "Liver Function Studies",
+          "confidence": 0.9802
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            500.0,
+            482.0,
+            532.0
+          ],
+          "text": "RANGE (SI UNITS)",
+          "confidence": 0.7442
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            555.0,
+            500.0,
+            877.0,
+            532.0
+          ],
+          "text": "RANGE (CONVENTIONAL)",
+          "confidence": 0.9633
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            500.0,
+            1216.0,
+            532.0
+          ],
+          "text": "RANGE (SI UNITS)",
+          "confidence": 0.9654
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            500.0,
+            1609.0,
+            532.0
+          ],
+          "text": "RANGE (CONVENTIONAL)",
+          "confidence": 0.7813
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            580.0,
+            682.0,
+            612.0
+          ],
+          "text": "Alanine Aminotransferase (ALT, SGPT)",
+          "confidence": 0.9477
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            580.0,
+            1060.0,
+            608.0
+          ],
+          "text": "Ammonia",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            646.0,
+            272.0,
+            674.0
+          ],
+          "text": "Male:",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            646.0,
+            622.0,
+            672.0
+          ],
+          "text": "Male:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            646.0,
+            1012.0,
+            672.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            646.0,
+            1362.0,
+            674.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            676.0,
+            428.0,
+            708.0
+          ],
+          "text": "0.17 to 0.92 Ukat/L",
+          "confidence": 0.5075
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            676.0,
+            742.0,
+            704.0
+          ],
+          "text": "10 to 55 units/L",
+          "confidence": 0.9799
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            675.0,
+            1096.0,
+            706.0
+          ],
+          "text": "7-57 umol/L",
+          "confidence": 0.8683
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            675.0,
+            1449.0,
+            711.0
+          ],
+          "text": "10-80 pg/dL",
+          "confidence": 0.4054
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            738.0,
+            302.0,
+            764.0
+          ],
+          "text": "Female:",
+          "confidence": 0.9527
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            738.0,
+            652.0,
+            764.0
+          ],
+          "text": "Female:",
+          "confidence": 0.6409
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            736.0,
+            1008.0,
+            764.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            736.0,
+            1360.0,
+            766.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            766.0,
+            428.0,
+            798.0
+          ],
+          "text": "0.12 to 0.50 pkat/L",
+          "confidence": 0.7218
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            764.0,
+            728.0,
+            797.0
+          ],
+          "text": "7 to 30 units/L",
+          "confidence": 0.9346
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            768.0,
+            1108.0,
+            798.0
+          ],
+          "text": "29-57 umol/L",
+          "confidence": 0.7913
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            768.0,
+            1370.0,
+            794.0
+          ],
+          "text": "40-80",
+          "confidence": 0.9171
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1369.0,
+            764.0,
+            1454.0,
+            805.0
+          ],
+          "text": "ug/dL",
+          "confidence": 0.8835
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            828.0,
+            1056.0,
+            856.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            828.0,
+            1406.0,
+            856.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9478
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            842.0,
+            718.0,
+            874.0
+          ],
+          "text": "Aspartate Aminotransferase (AST, SGOT)",
+          "confidence": 0.6597
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            858.0,
+            1124.0,
+            888.0
+          ],
+          "text": "64-107 umol/L",
+          "confidence": 0.7601
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            860.0,
+            1462.0,
+            892.0
+          ],
+          "text": "90-150 ug/dL",
+          "confidence": 0.8375
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            908.0,
+            272.0,
+            934.0
+          ],
+          "text": "Male:",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            908.0,
+            622.0,
+            934.0
+          ],
+          "text": "Male:",
+          "confidence": 0.9486
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            935.0,
+            426.0,
+            968.0
+          ],
+          "text": "0.17 to 0.67 ukat/L",
+          "confidence": 0.7628
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            938.0,
+            744.0,
+            966.0
+          ],
+          "text": "10 to 40 units/L",
+          "confidence": 0.9521
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            932.0,
+            1046.0,
+            962.0
+          ],
+          "text": "Albumin",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            998.0,
+            302.0,
+            1026.0
+          ],
+          "text": "Female:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            998.0,
+            652.0,
+            1026.0
+          ],
+          "text": "Female:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            998.0,
+            1014.0,
+            1028.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.8041
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            998.0,
+            1362.0,
+            1028.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1028.0,
+            428.0,
+            1060.0
+          ],
+          "text": "0.15 to 0.42 ukat/L",
+          "confidence": 0.9791
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1030.0,
+            730.0,
+            1058.0
+          ],
+          "text": "9 to 25 units/L",
+          "confidence": 0.9421
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1027.0,
+            1089.0,
+            1063.0
+          ],
+          "text": "35 to 50 g/L",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1024.0,
+            1464.0,
+            1064.0
+          ],
+          "text": "3.5 to 5.0 g/dL",
+          "confidence": 0.7526
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1090.0,
+            1008.0,
+            1116.0
+          ],
+          "text": "Child:",
+          "confidence": 0.8891
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1088.0,
+            1360.0,
+            1118.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1104.0,
+            386.0,
+            1134.0
+          ],
+          "text": "Total bilirubin",
+          "confidence": 0.8101
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1120.0,
+            1072.0,
+            1152.0
+          ],
+          "text": "40-59 g/L",
+          "confidence": 0.9891
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1120.0,
+            1380.0,
+            1146.0
+          ],
+          "text": "4.0-5.9",
+          "confidence": 0.3262
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1170.0,
+            278.0,
+            1196.0
+          ],
+          "text": "Adult:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1170.0,
+            630.0,
+            1200.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1180.0,
+            1024.0,
+            1208.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            1180.0,
+            1372.0,
+            1208.0
+          ],
+          "text": "Infant:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1200.0,
+            380.0,
+            1230.0
+          ],
+          "text": "5.1-17 umol/L",
+          "confidence": 0.6657
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1200.0,
+            642.0,
+            1228.0
+          ],
+          "text": "0.3t0 1",
+          "confidence": 0.8176
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            641.0,
+            1196.0,
+            732.0,
+            1237.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9834
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1212.0,
+            1074.0,
+            1244.0
+          ],
+          "text": "44-54 g/L",
+          "confidence": 0.9772
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1212.0,
+            1448.0,
+            1244.0
+          ],
+          "text": "44-5.4 g/dL",
+          "confidence": 0.823
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1262.0,
+            324.0,
+            1288.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            1259.0,
+            671.0,
+            1287.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1272.0,
+            1056.0,
+            1300.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1272.0,
+            1406.0,
+            1300.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1292.0,
+            406.0,
+            1320.0
+          ],
+          "text": "17.1-205 umol/L",
+          "confidence": 0.8882
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1289.0,
+            747.0,
+            1326.0
+          ],
+          "text": "1.0-12.0 mg/dL",
+          "confidence": 0.7249
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1301.0,
+            1071.0,
+            1337.0
+          ],
+          "text": "35-54 g/L",
+          "confidence": 0.7164
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            1300.0,
+            1445.0,
+            1337.0
+          ],
+          "text": "3.5-5.4 g/dL",
+          "confidence": 0.6619
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1349.0,
+            384.0,
+            1378.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1352.0,
+            734.0,
+            1378.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.8298
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1362.0,
+            1152.0,
+            1392.0
+          ],
+          "text": "Premature infant:",
+          "confidence": 0.8226
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1362.0,
+            1498.0,
+            1390.0
+          ],
+          "text": "Premature infant:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1393.0,
+            1071.0,
+            1429.0
+          ],
+          "text": "30_42 g/L",
+          "confidence": 0.8752
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1393.0,
+            1447.0,
+            1429.0
+          ],
+          "text": "3.0_4.2 g/dL",
+          "confidence": 0.5254
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1412.0,
+            278.0,
+            1440.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9849
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1412.0,
+            630.0,
+            1442.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1442.0,
+            356.0,
+            1472.0
+          ],
+          "text": "2205 umol/L",
+          "confidence": 0.7337
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1439.0,
+            685.0,
+            1476.0
+          ],
+          "text": ">12 mg/dL",
+          "confidence": 0.6626
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1466.0,
+            1100.0,
+            1494.0
+          ],
+          "text": "Total Protein",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1504.0,
+            324.0,
+            1530.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            1503.0,
+            671.0,
+            1529.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9629
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1532.0,
+            354.0,
+            1562.0
+          ],
+          "text": "2256 umol/L",
+          "confidence": 0.7871
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1530.0,
+            687.0,
+            1568.0
+          ],
+          "text": ">15 mg/dL",
+          "confidence": 0.8852
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1532.0,
+            1012.0,
+            1558.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1532.0,
+            1360.0,
+            1558.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.6236
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1561.0,
+            1073.0,
+            1597.0
+          ],
+          "text": "54-83 g/L",
+          "confidence": 0.6233
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1562.0,
+            1380.0,
+            1588.0
+          ],
+          "text": "5.44-8.3",
+          "confidence": 0.5888
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1377.0,
+            1558.0,
+            1448.0,
+            1597.0
+          ],
+          "text": "g/dL",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1610.0,
+            314.0,
+            1640.0
+          ],
+          "text": "Amylase",
+          "confidence": 0.7996
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1624.0,
+            1010.0,
+            1652.0
+          ],
+          "text": "Child:",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1622.0,
+            1360.0,
+            1652.0
+          ],
+          "text": "Child:",
+          "confidence": 0.6571
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1654.0,
+            1072.0,
+            1686.0
+          ],
+          "text": "62-80 g/L",
+          "confidence": 0.9156
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1654.0,
+            1446.0,
+            1686.0
+          ],
+          "text": "6.2-8.0 g/dL",
+          "confidence": 0.7681
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1676.0,
+            278.0,
+            1702.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1674.0,
+            630.0,
+            1704.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.7481
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1704.0,
+            382.0,
+            1734.0
+          ],
+          "text": "30-220 units/L",
+          "confidence": 0.8097
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1706.0,
+            864.0,
+            1738.0
+          ],
+          "text": "60-120 Somogyi units/dL",
+          "confidence": 0.9419
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1714.0,
+            1024.0,
+            1742.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1714.0,
+            1372.0,
+            1742.0
+          ],
+          "text": "Infant:",
+          "confidence": 0.9648
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1736.0,
+            372.0,
+            1764.0
+          ],
+          "text": "or 500 nkat/L",
+          "confidence": 0.9869
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1743.0,
+            1071.0,
+            1779.0
+          ],
+          "text": "60_67 g/L",
+          "confidence": 0.7952
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1746.0,
+            1378.0,
+            1772.0
+          ],
+          "text": "6.0-6.7",
+          "confidence": 0.6315
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1376.0,
+            1740.0,
+            1447.0,
+            1780.0
+          ],
+          "text": "g/dL",
+          "confidence": 0.9899
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1796.0,
+            336.0,
+            1824.0
+          ],
+          "text": "Newborns:",
+          "confidence": 0.6196
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1796.0,
+            672.0,
+            1824.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1806.0,
+            1056.0,
+            1832.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1806.0,
+            1405.0,
+            1832.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1826.0,
+            380.0,
+            1854.0
+          ],
+          "text": "3-32.5 units/L",
+          "confidence": 0.9495
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            1825.0,
+            839.0,
+            1861.0
+          ],
+          "text": "6-65 Somogyi units/dL",
+          "confidence": 0.8772
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            1833.0,
+            1074.0,
+            1871.0
+          ],
+          "text": "46-74 g/L",
+          "confidence": 0.9923
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            1832.0,
+            1446.0,
+            1870.0
+          ],
+          "text": "4.6-7.4 g/dL",
+          "confidence": 0.7816
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1858.0,
+            420.0,
+            1884.0
+          ],
+          "text": "or 50-_542 nkat/L",
+          "confidence": 0.5904
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1896.0,
+            1150.0,
+            1924.0
+          ],
+          "text": "Premature infant:",
+          "confidence": 0.7344
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1896.0,
+            1498.0,
+            1924.0
+          ],
+          "text": "Premature infant:",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            1927.0,
+            565.0,
+            1968.0
+          ],
+          "text": "Direct bilirubin (conjugated)",
+          "confidence": 0.8208
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            1925.0,
+            1071.0,
+            1961.0
+          ],
+          "text": "42-76 g/L",
+          "confidence": 0.7663
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            1928.0,
+            1375.0,
+            1954.0
+          ],
+          "text": "4.2-7.6",
+          "confidence": 0.6332
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            1374.0,
+            1922.0,
+            1446.0,
+            1962.0
+          ],
+          "text": "g/dL",
+          "confidence": 0.8811
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            273.0,
+            1996.0,
+            456.0,
+            2026.0
+          ],
+          "text": "1.7-5.1 umol/L",
+          "confidence": 0.7024
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            1996.0,
+            726.0,
+            2022.0
+          ],
+          "text": "0.1to 0.3",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1993.0,
+            815.0,
+            2032.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9838
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1997.0,
+            1027.0,
+            2033.0
+          ],
+          "text": "Lipase",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            2067.0,
+            623.0,
+            2103.0
+          ],
+          "text": "Indirect bilirubin (unconjugated)",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            2064.0,
+            1358.0,
+            2092.0
+          ],
+          "text": "0-160 units/L",
+          "confidence": 0.74
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            2132.0,
+            464.0,
+            2164.0
+          ],
+          "text": "3.4-12.0 umol/L",
+          "confidence": 0.7806
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            2134.0,
+            814.0,
+            2166.0
+          ],
+          "text": "0.2 to 0.8 mg/dL",
+          "confidence": 0.9339
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            837.0,
+            2463.0,
+            1019.0,
+            2503.0
+          ],
+          "text": "Nurseslabs",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            567.0,
+            2517.0,
+            1259.0,
+            2537.0
+          ],
+          "text": "2022 NURSESLABS.COM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+          "confidence": 0.6532
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            1377.2111456180003,
+            1114.94201697829,
+            1447.7888543819997,
+            1155.05798302171
+          ],
+          "text": "g/dL",
+          "confidence": 0.9946
+        }
+      ]
+    }
+  ],
+  "full_text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABS.COM/LABS/\nLiver Function Studies\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nAlanine Aminotransferase (ALT, SGPT)\nAmmonia\nMale:\nMale:\nAdult:\nAdult:\n0.17 to 0.92 Ukat/L\n10 to 55 units/L\n7-57 umol/L\n10-80 pg/dL\nFemale:\nFemale:\nChild:\nChild:\n0.12 to 0.50 pkat/L\n7 to 30 units/L\n29-57 umol/L\n40-80\nug/dL\nNewborn:\nNewborn:\nAspartate Aminotransferase (AST, SGOT)\n64-107 umol/L\n90-150 ug/dL\nMale:\nMale:\n0.17 to 0.67 ukat/L\n10 to 40 units/L\nAlbumin\nFemale:\nFemale:\nAdult:\nAdult:\n0.15 to 0.42 ukat/L\n9 to 25 units/L\n35 to 50 g/L\n3.5 to 5.0 g/dL\nChild:\nChild:\nTotal bilirubin\n40-59 g/L\n4.0-5.9\nAdult:\nAdult:\nInfant:\nInfant:\n5.1-17 umol/L\n0.3t0 1\nmg/dL\n44-54 g/L\n44-5.4 g/dL\nNewborn:\nNewborn:\nNewborn:\nNewborn:\n17.1-205 umol/L\n1.0-12.0 mg/dL\n35-54 g/L\n3.5-5.4 g/dL\nCritical values:\nCritical values:\nPremature infant:\nPremature infant:\n30_42 g/L\n3.0_4.2 g/dL\nAdult:\nAdult:\n2205 umol/L\n>12 mg/dL\nTotal Protein\nNewborn:\nNewborn:\n2256 umol/L\n>15 mg/dL\nAdult:\nAdult:\n54-83 g/L\n5.44-8.3\ng/dL\nAmylase\nChild:\nChild:\n62-80 g/L\n6.2-8.0 g/dL\nAdult:\nAdult:\n30-220 units/L\n60-120 Somogyi units/dL\nInfant:\nInfant:\nor 500 nkat/L\n60_67 g/L\n6.0-6.7\ng/dL\nNewborns:\nNewborn:\nNewborn:\nNewborn:\n3-32.5 units/L\n6-65 Somogyi units/dL\n46-74 g/L\n4.6-7.4 g/dL\nor 50-_542 nkat/L\nPremature infant:\nPremature infant:\nDirect bilirubin (conjugated)\n42-76 g/L\n4.2-7.6\ng/dL\n1.7-5.1 umol/L\n0.1to 0.3\nmg/dL\nLipase\nIndirect bilirubin (unconjugated)\n0-160 units/L\n3.4-12.0 umol/L\n0.2 to 0.8 mg/dL\nNurseslabs\n2022 NURSESLABS.COM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL\ng/dL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "or",
+          "biomarker_normalized": "or",
+          "value": "500",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "or 500 nkat/L",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "or",
+          "biomarker_normalized": "or",
+          "value": "50",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "or 50-_542 nkat/L",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 127,
+    "ocr_avg_confidence": 0.8663,
+    "parsed_row_count": 2
+  }
+}

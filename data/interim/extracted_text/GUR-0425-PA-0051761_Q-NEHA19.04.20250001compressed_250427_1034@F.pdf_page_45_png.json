@@ -1,0 +1,912 @@
+{
+  "document_id": "GUR-0425-PA-0051761_Q-NEHA19.04.20250001compressed_250427_1034@F.pdf_page_45",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0051761_Q-NEHA19.04.20250001compressed_250427_1034@F.pdf_page_45.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "0\nSWASTIK HOSPIT\nJhajjar Road, Bahadurgarh\n76 Skitl 7 #eal\n7k6 Spiner 7 Care\nPatient Id\nSrl No.\n131\nSWASTIK HOSPITAL\nBIOCHEMSTRY\nSGOT\n45.9\nIUIL\n0 - 32\nSGPT\n35.9\nIUIL\n0.0\n33.0\nSEROLOGY\nCKP (QUANTITATIVE)\n17.9\nmgm/L\n0 - 8\nImmunoturbidimetry\nINTERPRETATION\nIn normal healthy individuals CRP levels generally do notexceed 10 mgm/L;\nCRP\nplays a role\nIn nost\ndefence and tissue repair\nThere is a lag time of 6\n10 hrs between\nstimulus and rise in serum\nJevels\nas compared t0 a lag time of 24-72 hrs,  for other\nacute phase reactants\n111*\nEnd Of Report\n***t\nXai\nDr: Yogesh\nGr Chanar\nDr: G*NNaw\nMD (Inter/e ked Cine)\nMBS\nDN}\n73/06131\nDisc/|4p241\nTECHNICIAN\nDR: GUNJAN\nDMCIRI10211\n3DIAD Ultrasound\nOn Panel\nColor\nDoppler\nHaryana Government\nAII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nCT Scan\nDelhi Government\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X Ray\nAll TPA & Insurance\nComputerised Lab\nDate\nHOSP;\nAE\nYuan",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            46.0,
+            222.0,
+            172.0
+          ],
+          "text": "0",
+          "confidence": 0.9179
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            274.0,
+            49.0,
+            1241.0,
+            157.0
+          ],
+          "text": "SWASTIK HOSPIT",
+          "confidence": 0.929
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            156.0,
+            1068.0,
+            206.0
+          ],
+          "text": "Jhajjar Road, Bahadurgarh",
+          "confidence": 0.6154
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            254.0,
+            282.0,
+            282.0
+          ],
+          "text": "76 Skitl 7 #eal",
+          "confidence": 0.3696
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            286.0,
+            286.0,
+            316.0
+          ],
+          "text": "7k6 Spiner 7 Care",
+          "confidence": 0.2028
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            448.0,
+            298.0,
+            478.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9823
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            450.0,
+            752.0,
+            478.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.5876
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            794.0,
+            450.0,
+            848.0,
+            480.0
+          ],
+          "text": "131",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            305.0,
+            527.0,
+            588.0,
+            560.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.7536
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            651.0,
+            740.0,
+            998.0,
+            792.0
+          ],
+          "text": "BIOCHEMSTRY",
+          "confidence": 0.961
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            810.0,
+            242.0,
+            842.0
+          ],
+          "text": "SGOT",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            814.0,
+            792.0,
+            844.0
+          ],
+          "text": "45.9",
+          "confidence": 0.4787
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            812.0,
+            990.0,
+            844.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            814.0,
+            1272.0,
+            846.0
+          ],
+          "text": "0 - 32",
+          "confidence": 0.9662
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            864.0,
+            238.0,
+            894.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.995
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            866.0,
+            792.0,
+            898.0
+          ],
+          "text": "35.9",
+          "confidence": 0.9692
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            866.0,
+            988.0,
+            898.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            868.0,
+            1236.0,
+            898.0
+          ],
+          "text": "0.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            868.0,
+            1322.0,
+            900.0
+          ],
+          "text": "33.0",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            928.0,
+            954.0,
+            978.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.9211
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            994.0,
+            465.0,
+            1035.0
+          ],
+          "text": "CKP (QUANTITATIVE)",
+          "confidence": 0.9694
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1000.0,
+            792.0,
+            1032.0
+          ],
+          "text": "17.9",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            1000.0,
+            1027.0,
+            1040.0
+          ],
+          "text": "mgm/L",
+          "confidence": 0.8041
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            1002.0,
+            1252.0,
+            1032.0
+          ],
+          "text": "0 - 8",
+          "confidence": 0.8837
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            1027.0,
+            395.0,
+            1065.0
+          ],
+          "text": "Immunoturbidimetry",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1066.0,
+            498.0,
+            1098.0
+          ],
+          "text": "INTERPRETATION",
+          "confidence": 0.9132
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1139.0,
+            1160.0,
+            1179.0
+          ],
+          "text": "In normal healthy individuals CRP levels generally do notexceed 10 mgm/L;",
+          "confidence": 0.5627
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1142.0,
+            1236.0,
+            1172.0
+          ],
+          "text": "CRP",
+          "confidence": 0.9716
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1323.0,
+            1143.0,
+            1473.0,
+            1179.0
+          ],
+          "text": "plays a role",
+          "confidence": 0.7016
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1172.0,
+            252.0,
+            1198.0
+          ],
+          "text": "In nost",
+          "confidence": 0.35
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            1170.0,
+            580.0,
+            1202.0
+          ],
+          "text": "defence and tissue repair",
+          "confidence": 0.8253
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            589.0,
+            1171.0,
+            877.0,
+            1207.0
+          ],
+          "text": "There is a lag time of 6",
+          "confidence": 0.7845
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            887.0,
+            1169.0,
+            1081.0,
+            1206.0
+          ],
+          "text": "10 hrs between",
+          "confidence": 0.7001
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            1171.0,
+            1453.0,
+            1207.0
+          ],
+          "text": "stimulus and rise in serum",
+          "confidence": 0.9541
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            1202.0,
+            242.0,
+            1230.0
+          ],
+          "text": "Jevels",
+          "confidence": 0.131
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            249.0,
+            1201.0,
+            853.0,
+            1239.0
+          ],
+          "text": "as compared t0 a lag time of 24-72 hrs,  for other",
+          "confidence": 0.3954
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            1203.0,
+            1207.0,
+            1239.0
+          ],
+          "text": "acute phase reactants",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            669.0,
+            1355.0,
+            713.0,
+            1369.0
+          ],
+          "text": "111*",
+          "confidence": 0.1705
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            717.0,
+            1351.0,
+            915.0,
+            1390.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            915.0,
+            1357.0,
+            961.0,
+            1371.0
+          ],
+          "text": "***t",
+          "confidence": 0.0486
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1778.0,
+            266.0,
+            1806.0
+          ],
+          "text": "Xai",
+          "confidence": 0.3045
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            1769.0,
+            738.0,
+            1819.0
+          ],
+          "text": "Dr: Yogesh",
+          "confidence": 0.8341
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            1771.0,
+            957.0,
+            1813.0
+          ],
+          "text": "Gr Chanar",
+          "confidence": 0.3369
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            1765.0,
+            1395.0,
+            1818.0
+          ],
+          "text": "Dr: G*NNaw",
+          "confidence": 0.0845
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            1817.0,
+            955.0,
+            1857.0
+          ],
+          "text": "MD (Inter/e ked Cine)",
+          "confidence": 0.1874
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1099.0,
+            1817.0,
+            1171.0,
+            1853.0
+          ],
+          "text": "MBS",
+          "confidence": 0.1055
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            1859.0,
+            753.0,
+            1895.0
+          ],
+          "text": "DN}",
+          "confidence": 0.1394
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            827.0,
+            1861.0,
+            953.0,
+            1897.0
+          ],
+          "text": "73/06131",
+          "confidence": 0.7466
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            1844.0,
+            1294.0,
+            1892.0
+          ],
+          "text": "Disc/|4p241",
+          "confidence": 0.0435
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1912.0,
+            303.0,
+            1942.0
+          ],
+          "text": "TECHNICIAN",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            1916.0,
+            1286.0,
+            1946.0
+          ],
+          "text": "DR: GUNJAN",
+          "confidence": 0.8423
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            1982.0,
+            1286.0,
+            2012.0
+          ],
+          "text": "DMCIRI10211",
+          "confidence": 0.8244
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            2032.0,
+            1570.0,
+            2062.0
+          ],
+          "text": "3DIAD Ultrasound",
+          "confidence": 0.8054
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            85.0,
+            2043.0,
+            259.0,
+            2079.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.976
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            2074.0,
+            1402.0,
+            2100.0
+          ],
+          "text": "Color",
+          "confidence": 0.9293
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1402.0,
+            2069.0,
+            1525.0,
+            2108.0
+          ],
+          "text": "Doppler",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            2086.0,
+            383.0,
+            2122.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.8035
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            429.0,
+            2082.0,
+            1249.0,
+            2125.0
+          ],
+          "text": "AII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.6375
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            2112.0,
+            1444.0,
+            2142.0
+          ],
+          "text": "CT Scan",
+          "confidence": 0.5471
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            2128.0,
+            340.0,
+            2158.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.8517
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            2166.0,
+            300.0,
+            2196.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            537.0,
+            2165.0,
+            1139.0,
+            2205.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            2149.0,
+            1510.0,
+            2188.0
+          ],
+          "text": "Digital X Ray",
+          "confidence": 0.6947
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            2204.0,
+            362.0,
+            2234.0
+          ],
+          "text": "All TPA & Insurance",
+          "confidence": 0.448
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            2190.0,
+            1585.0,
+            2228.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.9421
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1020.0271098427148,
+            439.0747450012914,
+            1121.972890157285,
+            497.9252549987086
+          ],
+          "text": "Date",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            224.049091866099,
+            1694.060303038033,
+            336.950908133901,
+            1775.939696961967
+          ],
+          "text": "HOSP;",
+          "confidence": 0.1767
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            172.57178534410684,
+            1702.1024553260336,
+            247.42821465589316,
+            1765.8975446739664
+          ],
+          "text": "AE",
+          "confidence": 0.2361
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1162.671267835837,
+            1790.369736260461,
+            1280.328732164163,
+            1855.630263739539
+          ],
+          "text": "Yuan",
+          "confidence": 0.3916
+        }
+      ]
+    }
+  ],
+  "full_text": "0\nSWASTIK HOSPIT\nJhajjar Road, Bahadurgarh\n76 Skitl 7 #eal\n7k6 Spiner 7 Care\nPatient Id\nSrl No.\n131\nSWASTIK HOSPITAL\nBIOCHEMSTRY\nSGOT\n45.9\nIUIL\n0 - 32\nSGPT\n35.9\nIUIL\n0.0\n33.0\nSEROLOGY\nCKP (QUANTITATIVE)\n17.9\nmgm/L\n0 - 8\nImmunoturbidimetry\nINTERPRETATION\nIn normal healthy individuals CRP levels generally do notexceed 10 mgm/L;\nCRP\nplays a role\nIn nost\ndefence and tissue repair\nThere is a lag time of 6\n10 hrs between\nstimulus and rise in serum\nJevels\nas compared t0 a lag time of 24-72 hrs,  for other\nacute phase reactants\n111*\nEnd Of Report\n***t\nXai\nDr: Yogesh\nGr Chanar\nDr: G*NNaw\nMD (Inter/e ked Cine)\nMBS\nDN}\n73/06131\nDisc/|4p241\nTECHNICIAN\nDR: GUNJAN\nDMCIRI10211\n3DIAD Ultrasound\nOn Panel\nColor\nDoppler\nHaryana Government\nAII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nCT Scan\nDelhi Government\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X Ray\nAll TPA & Insurance\nComputerised Lab\nDate\nHOSP;\nAE\nYuan",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "In normal healthy individuals CRP levels generally do notexceed",
+          "biomarker_normalized": "In normal healthy individuals CRP levels generally do notexceed",
+          "value": "10",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "In normal healthy individuals CRP levels generally do notexceed 10 mgm/L;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "There is a lag time of",
+          "biomarker_normalized": "There is a lag time of",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "There is a lag time of 6",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "as compared t0 a lag time of",
+          "biomarker_normalized": "as compared t0 a lag time of",
+          "value": "24",
+          "unit": "",
+          "reference_range": "24-72",
+          "source_line": "as compared t0 a lag time of 24-72 hrs, for other",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Disc/|",
+          "biomarker_normalized": "Disc/|",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Disc/|4p241",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "DMCIRI1",
+          "biomarker_normalized": "DMCIRI1",
+          "value": "0211",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMCIRI10211",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AII Lab Test; ICU & Ambulance Facility",
+          "biomarker_normalized": "AII Lab Test; ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 69,
+    "ocr_avg_confidence": 0.7051,
+    "parsed_row_count": 6
+  }
+}

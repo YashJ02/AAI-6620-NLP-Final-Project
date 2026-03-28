@@ -1,0 +1,594 @@
+{
+  "document_id": "GUR-0425-PA-0057899_F-ANJALI_NEGI_1_250427_1248@G.pdf_page_11",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057899_F-ANJALI_NEGI_1_250427_1248@G.pdf_page_11.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "9\nMAHINDRU PATHOLOGY LAB\n0\n(FULLY COMPUTERISED 24 HOURS LABORATORY)\nE-1\nKIRAN GARDEN, MAIN NAJAFGARH ROAD, UTTAM NAGAR, NEW DELHI-110059\nTel: :\n41752913,41046417\n40586579\nExtn. 516\n720\nDate\nUHIDNo\nSample Coll:\n18.48.00\nMAHINDRU HOSPITAL\nIPD\n3E\nSample Type\nBlood\nFemale\nTest\nWB.Cs:Show increased total count with\nneutrophilia:\nPlatlets:Normal in number and morphology.\nNo immature cell of any series seen.No haemoparasite seen:\nIMPRESSION\nNORMOCYTIC NORMOCHROMIC WITH\nNEUTROEMUMCdBUCETKOOBIS.\nC-REACTIVE PROTEIN (QUANTITATIVE)\n0.2\n0.1 - 6.0\n####End Of Report****\nTFCH\nIKKUMAR\nSR: CONSULTANT\nPATHOLOGIST\nClinical correlation is essential for final diagnosia\nIf test results are\nunsatisfactory please\nThis report is for perusal of doctors only\nAll disputes are subject t0 Delhi jurisdiction\ntor\nlegal",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            37.0,
+            107.0,
+            57.0,
+            141.0
+          ],
+          "text": "9",
+          "confidence": 0.6082
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            299.0,
+            99.0,
+            1610.0,
+            196.0
+          ],
+          "text": "MAHINDRU PATHOLOGY LAB",
+          "confidence": 0.837
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            148.0,
+            60.0,
+            266.0
+          ],
+          "text": "0",
+          "confidence": 0.2112
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            369.0,
+            186.0,
+            1537.0,
+            251.0
+          ],
+          "text": "(FULLY COMPUTERISED 24 HOURS LABORATORY)",
+          "confidence": 0.7601
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            313.0,
+            253.0,
+            369.0,
+            289.0
+          ],
+          "text": "E-1",
+          "confidence": 0.9803
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            251.0,
+            1601.0,
+            293.0
+          ],
+          "text": "KIRAN GARDEN, MAIN NAJAFGARH ROAD, UTTAM NAGAR, NEW DELHI-110059",
+          "confidence": 0.6849
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            300.0,
+            598.0,
+            332.0
+          ],
+          "text": "Tel: :",
+          "confidence": 0.3462
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            299.0,
+            1132.0,
+            331.0
+          ],
+          "text": "41752913,41046417",
+          "confidence": 0.9284
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1143.0,
+            299.0,
+            1291.0,
+            331.0
+          ],
+          "text": "40586579",
+          "confidence": 0.9941
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1303.0,
+            300.0,
+            1452.0,
+            332.0
+          ],
+          "text": "Extn. 516",
+          "confidence": 0.933
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            406.0,
+            260.0,
+            436.0
+          ],
+          "text": "720",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            466.0,
+            246.0,
+            496.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            456.0,
+            908.0,
+            488.0
+          ],
+          "text": "UHIDNo",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1077.0,
+            453.0,
+            1247.0,
+            489.0
+          ],
+          "text": "Sample Coll:",
+          "confidence": 0.9209
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1426.0,
+            450.0,
+            1542.0,
+            480.0
+          ],
+          "text": "18.48.00",
+          "confidence": 0.8957
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            319.0,
+            538.0,
+            625.0,
+            575.0
+          ],
+          "text": "MAHINDRU HOSPITAL",
+          "confidence": 0.9905
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            538.0,
+            688.0,
+            570.0
+          ],
+          "text": "IPD",
+          "confidence": 0.5401
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            799.0,
+            491.0,
+            985.0,
+            575.0
+          ],
+          "text": "3E",
+          "confidence": 0.0672
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            584.0,
+            353.0,
+            622.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.8733
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            582.0,
+            478.0,
+            614.0
+          ],
+          "text": "Blood",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            576.0,
+            1002.0,
+            608.0
+          ],
+          "text": "Female",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            666.0,
+            218.0,
+            694.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            725.0,
+            863.0,
+            769.0
+          ],
+          "text": "WB.Cs:Show increased total count with",
+          "confidence": 0.8785
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            864.0,
+            717.0,
+            1081.0,
+            773.0
+          ],
+          "text": "neutrophilia:",
+          "confidence": 0.9566
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            765.0,
+            919.0,
+            809.0
+          ],
+          "text": "Platlets:Normal in number and morphology.",
+          "confidence": 0.8803
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            801.0,
+            1188.0,
+            850.0
+          ],
+          "text": "No immature cell of any series seen.No haemoparasite seen:",
+          "confidence": 0.6581
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            889.0,
+            437.0,
+            925.0
+          ],
+          "text": "IMPRESSION",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            483.0,
+            876.0,
+            1168.0,
+            924.0
+          ],
+          "text": "NORMOCYTIC NORMOCHROMIC WITH",
+          "confidence": 0.9242
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            917.0,
+            1111.0,
+            961.0
+          ],
+          "text": "NEUTROEMUMCdBUCETKOOBIS.",
+          "confidence": 0.1022
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            165.0,
+            979.0,
+            705.0,
+            1021.0
+          ],
+          "text": "C-REACTIVE PROTEIN (QUANTITATIVE)",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            982.0,
+            812.0,
+            1012.0
+          ],
+          "text": "0.2",
+          "confidence": 0.4808
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1226.0,
+            974.0,
+            1336.0,
+            1004.0
+          ],
+          "text": "0.1 - 6.0",
+          "confidence": 0.788
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            745.0,
+            1083.0,
+            1040.0,
+            1123.0
+          ],
+          "text": "####End Of Report****",
+          "confidence": 0.5109
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            683.0,
+            2059.0,
+            767.0,
+            2095.0
+          ],
+          "text": "TFCH",
+          "confidence": 0.9597
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            2047.0,
+            1417.0,
+            2085.0
+          ],
+          "text": "IKKUMAR",
+          "confidence": 0.5087
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            2120.0,
+            1388.0,
+            2152.0
+          ],
+          "text": "SR: CONSULTANT",
+          "confidence": 0.6912
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1400.0,
+            2112.0,
+            1609.0,
+            2151.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            2170.0,
+            715.0,
+            2208.0
+          ],
+          "text": "Clinical correlation is essential for final diagnosia",
+          "confidence": 0.5309
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            2172.0,
+            944.0,
+            2202.0
+          ],
+          "text": "If test results are",
+          "confidence": 0.7556
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            2165.0,
+            1214.0,
+            2209.0
+          ],
+          "text": "unsatisfactory please",
+          "confidence": 0.8979
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            2201.0,
+            625.0,
+            2240.0
+          ],
+          "text": "This report is for perusal of doctors only",
+          "confidence": 0.8983
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            2204.0,
+            1180.0,
+            2236.0
+          ],
+          "text": "All disputes are subject t0 Delhi jurisdiction",
+          "confidence": 0.7391
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            2208.0,
+            1344.0,
+            2232.0
+          ],
+          "text": "tor",
+          "confidence": 0.3348
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1448.0,
+            2208.0,
+            1506.0,
+            2236.0
+          ],
+          "text": "legal",
+          "confidence": 0.5136
+        }
+      ]
+    }
+  ],
+  "full_text": "9\nMAHINDRU PATHOLOGY LAB\n0\n(FULLY COMPUTERISED 24 HOURS LABORATORY)\nE-1\nKIRAN GARDEN, MAIN NAJAFGARH ROAD, UTTAM NAGAR, NEW DELHI-110059\nTel: :\n41752913,41046417\n40586579\nExtn. 516\n720\nDate\nUHIDNo\nSample Coll:\n18.48.00\nMAHINDRU HOSPITAL\nIPD\n3E\nSample Type\nBlood\nFemale\nTest\nWB.Cs:Show increased total count with\nneutrophilia:\nPlatlets:Normal in number and morphology.\nNo immature cell of any series seen.No haemoparasite seen:\nIMPRESSION\nNORMOCYTIC NORMOCHROMIC WITH\nNEUTROEMUMCdBUCETKOOBIS.\nC-REACTIVE PROTEIN (QUANTITATIVE)\n0.2\n0.1 - 6.0\n####End Of Report****\nTFCH\nIKKUMAR\nSR: CONSULTANT\nPATHOLOGIST\nClinical correlation is essential for final diagnosia\nIf test results are\nunsatisfactory please\nThis report is for perusal of doctors only\nAll disputes are subject t0 Delhi jurisdiction\ntor\nlegal",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "(FULLY COMPUTERISED",
+          "biomarker_normalized": "(FULLY COMPUTERISED",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "(FULLY COMPUTERISED 24 HOURS LABORATORY)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "E",
+          "biomarker_normalized": "E",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "E-1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "KIRAN GARDEN, MAIN NAJAFGARH ROAD, UTTAM NAGAR, NEW DELHI",
+          "biomarker_normalized": "KIRAN GARDEN, MAIN NAJAFGARH ROAD, UTTAM NAGAR, NEW DELHI",
+          "value": "110059",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "KIRAN GARDEN, MAIN NAJAFGARH ROAD, UTTAM NAGAR, NEW DELHI-110059",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Extn.",
+          "biomarker_normalized": "Extn.",
+          "value": "516",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Extn. 516",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 44,
+    "ocr_avg_confidence": 0.763,
+    "parsed_row_count": 4
+  }
+}

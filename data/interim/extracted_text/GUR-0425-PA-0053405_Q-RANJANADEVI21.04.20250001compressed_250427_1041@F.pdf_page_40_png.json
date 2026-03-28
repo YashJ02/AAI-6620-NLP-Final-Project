@@ -1,0 +1,666 @@
+{
+  "document_id": "GUR-0425-PA-0053405_Q-RANJANADEVI21.04.20250001compressed_250427_1041@F.pdf_page_40",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053405_Q-RANJANADEVI21.04.20250001compressed_250427_1041@F.pdf_page_40.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "0\nSWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n7ke Skitl  7 ##eal\n7ke Spinit 7a Care\nPatient Id\nSrl No\n135\nDate\nSWASTIK HOSPITAL\nIgM\nNEGATIVE\nIgG\nNEGATIVE\nINTERPRETATION\nIgM\nPositive\nAcute Typhoid fever\nTyphi DOT has high sensitivity and specificity (95%) as compared to Blood Culture Stool\nCuliure and Widal test\nItIS useful for early , definite diagnosis of Typhoid (IgM levels in patient are usually detected\nby Typhidot at the onset of fever)\nTK #\nEnd Of Report\n2\nDr: Yogesh Kurfar Chah~,\nMD (Interkai Me ;\nDM Ho rvU6131\nD\nTECHNICIAN\nGUNJAN NAIN\nDMCIRI10211\n3DI4D Ultrasound\nOn Panel\nColor Doppler\nHaryana Government\nAII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nCT-Scan\nDelhi Government\nDigital X-Ray\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nComputerised Lab\nAll TPA & Insurance\nSiL *\nNAT\nTSUNJAN !\nGictan\n7tizi\ntrc",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            41.0,
+            231.0,
+            181.0
+          ],
+          "text": "0",
+          "confidence": 0.3887
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            287.0,
+            43.0,
+            1397.0,
+            153.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9003
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            154.0,
+            1080.0,
+            202.0
+          ],
+          "text": "Jhajjar Road, Bahadurgarh",
+          "confidence": 0.9308
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            252.0,
+            292.0,
+            278.0
+          ],
+          "text": "7ke Skitl  7 ##eal",
+          "confidence": 0.2036
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            282.0,
+            296.0,
+            312.0
+          ],
+          "text": "7ke Spinit 7a Care",
+          "confidence": 0.4909
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            442.0,
+            322.0,
+            472.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.7924
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            446.0,
+            768.0,
+            474.0
+          ],
+          "text": "Srl No",
+          "confidence": 0.9082
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            446.0,
+            870.0,
+            476.0
+          ],
+          "text": "135",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1045.0,
+            447.0,
+            1127.0,
+            490.0
+          ],
+          "text": "Date",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            328.0,
+            522.0,
+            610.0,
+            554.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            683.0,
+            247.0,
+            719.0
+          ],
+          "text": "IgM",
+          "confidence": 0.6021
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            682.0,
+            446.0,
+            714.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            751.0,
+            248.0,
+            792.0
+          ],
+          "text": "IgG",
+          "confidence": 0.9566
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            284.0,
+            754.0,
+            444.0,
+            786.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            864.0,
+            436.0,
+            896.0
+          ],
+          "text": "INTERPRETATION",
+          "confidence": 0.5715
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            927.0,
+            271.0,
+            963.0
+          ],
+          "text": "IgM",
+          "confidence": 0.7863
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            928.0,
+            378.0,
+            956.0
+          ],
+          "text": "Positive",
+          "confidence": 0.9937
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            405.0,
+            926.0,
+            667.0,
+            965.0
+          ],
+          "text": "Acute Typhoid fever",
+          "confidence": 0.7208
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            987.0,
+            1291.0,
+            1027.0
+          ],
+          "text": "Typhi DOT has high sensitivity and specificity (95%) as compared to Blood Culture Stool",
+          "confidence": 0.7406
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1052.0,
+            480.0,
+            1082.0
+          ],
+          "text": "Culiure and Widal test",
+          "confidence": 0.6257
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1111.0,
+            1321.0,
+            1152.0
+          ],
+          "text": "ItIS useful for early , definite diagnosis of Typhoid (IgM levels in patient are usually detected",
+          "confidence": 0.3393
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1176.0,
+            615.0,
+            1215.0
+          ],
+          "text": "by Typhidot at the onset of fever)",
+          "confidence": 0.7124
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            1382.0,
+            732.0,
+            1390.0
+          ],
+          "text": "TK #",
+          "confidence": 0.0213
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            1376.0,
+            934.0,
+            1408.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.3812
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            329.0,
+            1653.0,
+            369.0,
+            1697.0
+          ],
+          "text": "2",
+          "confidence": 0.7268
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            1630.0,
+            1027.0,
+            1703.0
+          ],
+          "text": "Dr: Yogesh Kurfar Chah~,",
+          "confidence": 0.646
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            698.0,
+            1686.0,
+            956.0,
+            1736.0
+          ],
+          "text": "MD (Interkai Me ;",
+          "confidence": 0.1531
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            757.0,
+            1730.0,
+            1020.0,
+            1785.0
+          ],
+          "text": "DM Ho rvU6131",
+          "confidence": 0.3387
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            1746.0,
+            1250.0,
+            1796.0
+          ],
+          "text": "D",
+          "confidence": 0.5401
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1914.0,
+            332.0,
+            1946.0
+          ],
+          "text": "TECHNICIAN",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1188.0,
+            1905.0,
+            1388.0,
+            1938.0
+          ],
+          "text": "GUNJAN NAIN",
+          "confidence": 0.6158
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            1974.0,
+            1316.0,
+            2006.0
+          ],
+          "text": "DMCIRI10211",
+          "confidence": 0.5422
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            2017.0,
+            1600.0,
+            2050.0
+          ],
+          "text": "3DI4D Ultrasound",
+          "confidence": 0.8519
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            2048.0,
+            289.0,
+            2088.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.8524
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1351.0,
+            2055.0,
+            1553.0,
+            2094.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 0.9034
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            2092.0,
+            417.0,
+            2132.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.8872
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            2072.0,
+            1282.0,
+            2126.0
+          ],
+          "text": "AII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.5224
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            2100.0,
+            1476.0,
+            2128.0
+          ],
+          "text": "CT-Scan",
+          "confidence": 0.7869
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            2133.0,
+            374.0,
+            2166.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.8321
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            2137.0,
+            1541.0,
+            2178.0
+          ],
+          "text": "Digital X-Ray",
+          "confidence": 0.6697
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2170.0,
+            335.0,
+            2208.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.8863
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            570.0,
+            2155.0,
+            1176.0,
+            2210.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.9765
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            2177.0,
+            1617.0,
+            2214.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            2212.0,
+            398.0,
+            2244.0
+          ],
+          "text": "All TPA & Insurance",
+          "confidence": 0.6415
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            1595.723615215158,
+            304.0,
+            1674.276384784842
+          ],
+          "text": "SiL *",
+          "confidence": 0.1538
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1381.517182334193,
+            1686.3083748675822,
+            1486.482817665807,
+            1757.6916251324178
+          ],
+          "text": "NAT",
+          "confidence": 0.4574
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1232.8695048315003,
+            1708.6449827078525,
+            1399.1304951684997,
+            1792.3550172921475
+          ],
+          "text": "TSUNJAN !",
+          "confidence": 0.1666
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1184.6076433315134,
+            1770.5661087813007,
+            1304.3923566684866,
+            1844.4338912186993
+          ],
+          "text": "Gictan",
+          "confidence": 0.1668
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1271.0776772972363,
+            1789.9325236038644,
+            1402.9223227027637,
+            1858.0674763961356
+          ],
+          "text": "7tizi",
+          "confidence": 0.2331
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1203.5611569566013,
+            1817.8395096567692,
+            1286.4388430433987,
+            1865.1604903432308
+          ],
+          "text": "trc",
+          "confidence": 0.0268
+        }
+      ]
+    }
+  ],
+  "full_text": "0\nSWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n7ke Skitl  7 ##eal\n7ke Spinit 7a Care\nPatient Id\nSrl No\n135\nDate\nSWASTIK HOSPITAL\nIgM\nNEGATIVE\nIgG\nNEGATIVE\nINTERPRETATION\nIgM\nPositive\nAcute Typhoid fever\nTyphi DOT has high sensitivity and specificity (95%) as compared to Blood Culture Stool\nCuliure and Widal test\nItIS useful for early , definite diagnosis of Typhoid (IgM levels in patient are usually detected\nby Typhidot at the onset of fever)\nTK #\nEnd Of Report\n2\nDr: Yogesh Kurfar Chah~,\nMD (Interkai Me ;\nDM Ho rvU6131\nD\nTECHNICIAN\nGUNJAN NAIN\nDMCIRI10211\n3DI4D Ultrasound\nOn Panel\nColor Doppler\nHaryana Government\nAII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nCT-Scan\nDelhi Government\nDigital X-Ray\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nComputerised Lab\nAll TPA & Insurance\nSiL *\nNAT\nTSUNJAN !\nGictan\n7tizi\ntrc",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Typhi DOT has high sensitivity and specificity (",
+          "biomarker_normalized": "Typhi DOT has high sensitivity and specificity (",
+          "value": "95",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Typhi DOT has high sensitivity and specificity (95%) as compared to Blood Culture Stool",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "DM Ho rvU6",
+          "biomarker_normalized": "DM Ho rvU6",
+          "value": "131",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DM Ho rvU6131",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "DMCIRI1",
+          "biomarker_normalized": "DMCIRI1",
+          "value": "0211",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMCIRI10211",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AII Lab Test; ICU & Ambulance Facility",
+          "biomarker_normalized": "AII Lab Test; ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AII Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 50,
+    "ocr_avg_confidence": 0.6528,
+    "parsed_row_count": 4
+  }
+}

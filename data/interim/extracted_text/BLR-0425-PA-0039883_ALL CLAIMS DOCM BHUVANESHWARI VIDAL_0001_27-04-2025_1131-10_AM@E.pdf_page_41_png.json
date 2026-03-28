@@ -1,0 +1,714 @@
+{
+  "document_id": "BLR-0425-PA-0039883_ALL CLAIMS DOCM BHUVANESHWARI VIDAL_0001_27-04-2025_1131-10_AM@E.pdf_page_41",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0039883_ALL CLAIMS DOCM BHUVANESHWARI VIDAL_0001_27-04-2025_1131-10_AM@E.pdf_page_41.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "kauvery\nhospital\nUHID / IP\nIPHS00059614(IP)\nBedNoNWard\n102-3/IMCU\nby\nDr. Raghunath R,\nMBBS\nMD\nReport Date\n1.20 PM\nOrder No\n6245726\nFinal\nOthers\nCrystals\nNil\nNil\nMethod: Centrifugation and Microscopy\nCasts\nNil\nNil\nMethod: Centrifugation and Microscopy\nOthers\nNil\nNil\nMethod: Nil\nSample Collected Details\nUrine /700229448\n8<\nANNIE ROSE\nL,\nMBBS\nDNB\nCONSULTANT\nSibiya\nPATHOLOGIST\nValidated By\nNo:KMC 102865\nApproved By\n\"END OF THE REPORT\"\n\"PLEASE CORRELATE CLINICALLY\"\nPage\nSri Kauvery Medical Care (India) Limited\n35, Shanthi Nagar, Opp. CSI Church; Hosur; Tamil Nadu 635109\nT:04344 272727\nEmergency\n04344 272727\nNA B H\nIccaeom\nW: www kauveryhospital com\nReg\n2/2",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1321.0,
+            118.0,
+            1572.0,
+            211.0
+          ],
+          "text": "kauvery",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1329.0,
+            185.0,
+            1525.0,
+            245.0
+          ],
+          "text": "hospital",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            287.0,
+            199.0,
+            323.0
+          ],
+          "text": "UHID / IP",
+          "confidence": 0.9941
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            288.0,
+            775.0,
+            332.0
+          ],
+          "text": "IPHS00059614(IP)",
+          "confidence": 0.8284
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            296.0,
+            1160.0,
+            328.0
+          ],
+          "text": "BedNoNWard",
+          "confidence": 0.2521
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            298.0,
+            1352.0,
+            328.0
+          ],
+          "text": "102-3/IMCU",
+          "confidence": 0.9573
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            440.0,
+            224.0,
+            472.0
+          ],
+          "text": "by",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            293.0,
+            435.0,
+            507.0,
+            473.0
+          ],
+          "text": "Dr. Raghunath R,",
+          "confidence": 0.6214
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            520.0,
+            438.0,
+            606.0,
+            468.0
+          ],
+          "text": "MBBS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            438.0,
+            668.0,
+            468.0
+          ],
+          "text": "MD",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            460.0,
+            1151.0,
+            498.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1358.0,
+            464.0,
+            1466.0,
+            496.0
+          ],
+          "text": "1.20 PM",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            516.0,
+            1114.0,
+            546.0
+          ],
+          "text": "Order No",
+          "confidence": 0.5372
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            516.0,
+            1312.0,
+            546.0
+          ],
+          "text": "6245726",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            514.0,
+            1403.0,
+            550.0
+          ],
+          "text": "Final",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            598.0,
+            169.0,
+            635.0
+          ],
+          "text": "Others",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            60.0,
+            640.0,
+            167.0,
+            679.0
+          ],
+          "text": "Crystals",
+          "confidence": 0.9229
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            646.0,
+            730.0,
+            676.0
+          ],
+          "text": "Nil",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            648.0,
+            1158.0,
+            672.0
+          ],
+          "text": "Nil",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            677.0,
+            404.0,
+            707.0
+          ],
+          "text": "Method: Centrifugation and Microscopy",
+          "confidence": 0.9803
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            706.0,
+            136.0,
+            736.0
+          ],
+          "text": "Casts",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            710.0,
+            730.0,
+            740.0
+          ],
+          "text": "Nil",
+          "confidence": 0.6948
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            712.0,
+            1158.0,
+            736.0
+          ],
+          "text": "Nil",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            738.0,
+            406.0,
+            774.0
+          ],
+          "text": "Method: Centrifugation and Microscopy",
+          "confidence": 0.972
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            768.0,
+            150.0,
+            804.0
+          ],
+          "text": "Others",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            776.0,
+            728.0,
+            804.0
+          ],
+          "text": "Nil",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            776.0,
+            1158.0,
+            802.0
+          ],
+          "text": "Nil",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            806.0,
+            172.0,
+            830.0
+          ],
+          "text": "Method: Nil",
+          "confidence": 0.9897
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            857.0,
+            290.0,
+            885.0
+          ],
+          "text": "Sample Collected Details",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            57.0,
+            883.0,
+            214.0,
+            908.0
+          ],
+          "text": "Urine /700229448",
+          "confidence": 0.8133
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            937.0,
+            1281.0,
+            981.0
+          ],
+          "text": "8<",
+          "confidence": 0.4403
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            982.0,
+            1096.0,
+            1014.0
+          ],
+          "text": "ANNIE ROSE",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            986.0,
+            1134.0,
+            1016.0
+          ],
+          "text": "L,",
+          "confidence": 0.9707
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            984.0,
+            1230.0,
+            1016.0
+          ],
+          "text": "MBBS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            984.0,
+            1310.0,
+            1016.0
+          ],
+          "text": "DNB",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1329.0,
+            983.0,
+            1521.0,
+            1019.0
+          ],
+          "text": "CONSULTANT",
+          "confidence": 0.8628
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            371.0,
+            1012.0,
+            458.0,
+            1052.0
+          ],
+          "text": "Sibiya",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            1018.0,
+            1284.0,
+            1050.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            329.0,
+            1047.0,
+            503.0,
+            1087.0
+          ],
+          "text": "Validated By",
+          "confidence": 0.9898
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            1050.0,
+            1328.0,
+            1082.0
+          ],
+          "text": "No:KMC 102865",
+          "confidence": 0.6398
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1105.0,
+            1083.0,
+            1283.0,
+            1119.0
+          ],
+          "text": "Approved By",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            2091.0,
+            903.0,
+            2112.0
+          ],
+          "text": "\"END OF THE REPORT\"",
+          "confidence": 0.3113
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            2110.0,
+            938.0,
+            2136.0
+          ],
+          "text": "\"PLEASE CORRELATE CLINICALLY\"",
+          "confidence": 0.9718
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1449.0,
+            2097.0,
+            1520.0,
+            2133.0
+          ],
+          "text": "Page",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            258.0,
+            2134.0,
+            874.0,
+            2185.0
+          ],
+          "text": "Sri Kauvery Medical Care (India) Limited",
+          "confidence": 0.9908
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            263.0,
+            2183.0,
+            955.0,
+            2220.0
+          ],
+          "text": "35, Shanthi Nagar, Opp. CSI Church; Hosur; Tamil Nadu 635109",
+          "confidence": 0.5608
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            2218.0,
+            456.0,
+            2246.0
+          ],
+          "text": "T:04344 272727",
+          "confidence": 0.7132
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            475.0,
+            2219.0,
+            602.0,
+            2252.0
+          ],
+          "text": "Emergency",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            2220.0,
+            774.0,
+            2250.0
+          ],
+          "text": "04344 272727",
+          "confidence": 0.9013
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            2243.0,
+            141.0,
+            2259.0
+          ],
+          "text": "NA B H",
+          "confidence": 0.2566
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            2264.0,
+            127.0,
+            2278.0
+          ],
+          "text": "Iccaeom",
+          "confidence": 0.3104
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            592.0,
+            2254.0,
+            924.0,
+            2286.0
+          ],
+          "text": "W: www kauveryhospital com",
+          "confidence": 0.7886
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1054.2520791808547,
+            1045.1459283614802,
+            1120.7479208191453,
+            1088.8540716385198
+          ],
+          "text": "Reg",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1513.2780681803986,
+            2097.199963181391,
+            1559.7219318196014,
+            2128.800036818609
+          ],
+          "text": "2/2",
+          "confidence": 0.5353
+        }
+      ]
+    }
+  ],
+  "full_text": "kauvery\nhospital\nUHID / IP\nIPHS00059614(IP)\nBedNoNWard\n102-3/IMCU\nby\nDr. Raghunath R,\nMBBS\nMD\nReport Date\n1.20 PM\nOrder No\n6245726\nFinal\nOthers\nCrystals\nNil\nNil\nMethod: Centrifugation and Microscopy\nCasts\nNil\nNil\nMethod: Centrifugation and Microscopy\nOthers\nNil\nNil\nMethod: Nil\nSample Collected Details\nUrine /700229448\n8<\nANNIE ROSE\nL,\nMBBS\nDNB\nCONSULTANT\nSibiya\nPATHOLOGIST\nValidated By\nNo:KMC 102865\nApproved By\n\"END OF THE REPORT\"\n\"PLEASE CORRELATE CLINICALLY\"\nPage\nSri Kauvery Medical Care (India) Limited\n35, Shanthi Nagar, Opp. CSI Church; Hosur; Tamil Nadu 635109\nT:04344 272727\nEmergency\n04344 272727\nNA B H\nIccaeom\nW: www kauveryhospital com\nReg\n2/2",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "IPHS0",
+          "biomarker_normalized": "IPHS0",
+          "value": "0059614",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IPHS00059614(IP)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Urine /",
+          "biomarker_normalized": "Urine /",
+          "value": "700229448",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Urine /700229448",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "No:KMC",
+          "biomarker_normalized": "No:KMC",
+          "value": "102865",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No:KMC 102865",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "T",
+          "biomarker_normalized": "T",
+          "value": "04344",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "T:04344 272727",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 54,
+    "ocr_avg_confidence": 0.8663,
+    "parsed_row_count": 4
+  }
+}

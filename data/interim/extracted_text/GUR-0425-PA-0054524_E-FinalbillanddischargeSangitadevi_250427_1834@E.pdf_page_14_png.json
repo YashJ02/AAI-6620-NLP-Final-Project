@@ -1,0 +1,720 @@
+{
+  "document_id": "GUR-0425-PA-0054524_E-FinalbillanddischargeSangitadevi_250427_1834@E.pdf_page_14",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0054524_E-FinalbillanddischargeSangitadevi_250427_1834@E.pdf_page_14.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Decent Hospital\nDECENT HOSPITAL\nBudoh Vhur Pant - A Tarasnindal\nIInfront SBlZonal Olfccl Gonkkpur\nMobe\nPATIEAT NAME\nMRS: SANGITA DEVI\nREPORTING DATE\nACEISEX\nS0 Y/ F\nTINB\nRFF BYDR\nDECENT HOSPITAL\n(ncL {RP4 |\nMMpienO\nTFST'S\nBO CHEMISTRY\nCRP (C Reactive Protein]\n77\nH\n(Adults <Smg/Ij\n(New Born unto\n3weeks <4.1me{I)\n(Infants & Children\n1\nChildren <2 8 me/l\nINTERPRETATION -\nCRP Is an acute phase B-globulin with & malecular mass of approximatelv\n118,000 daltons;\nCRP levels In seruI Or plasma may Fise during Reneral,nonspecificresponse to\nInfettous and non-intectious Inllammatorv conditiors such Js rheumatoid\narthritis, cardlovascular disease and peripheral vascular disease\nWithin 24 t0 44 hours followig acute\nrise' tv approximately 1000 uMes the\nCRP levels may\nremain clevaled lor several davs belore returningto normal\nAs elevaled CRP values arealways Jssucialed with pathological changes; lle\nAn CRP assav provides Useful information forthe dlagnosis therapv, and\nn\nortitoring of inflammatory con ditions and assuciated disease,\n1\nWiSh YOU GOOD HEALTH *\nTpdav\nDr, SPYADAV\nMD PATA (Reg ro 0440131\nach Investgason has lecrtical Emitallons and Uie inaccuraces are Inherent i a constantly clang ng\nabgical tne resua\naso vary 50\nkIndly Carelalu Clinica y and itorm tre center; Inc prusont\nport $ only A Fro essional opinion and not Ine fral diagnosis\nCall (l ABG 9807000707\nMgfi\n0ay",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            38.0,
+            1391.0,
+            100.0
+          ],
+          "text": "Decent Hospital",
+          "confidence": 0.6959
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            52.0,
+            1067.0,
+            178.0
+          ],
+          "text": "DECENT HOSPITAL",
+          "confidence": 0.7299
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1115.0,
+            97.0,
+            1457.0,
+            134.0
+          ],
+          "text": "Budoh Vhur Pant - A Tarasnindal",
+          "confidence": 0.3217
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1113.0,
+            134.0,
+            1539.0,
+            174.0
+          ],
+          "text": "IInfront SBlZonal Olfccl Gonkkpur",
+          "confidence": 0.155
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            174.0,
+            1170.0,
+            200.0
+          ],
+          "text": "Mobe",
+          "confidence": 0.4957
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            354.0,
+            260.0,
+            386.0
+          ],
+          "text": "PATIEAT NAME",
+          "confidence": 0.4865
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            354.0,
+            596.0,
+            386.0
+          ],
+          "text": "MRS: SANGITA DEVI",
+          "confidence": 0.3657
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            348.0,
+            1236.0,
+            380.0
+          ],
+          "text": "REPORTING DATE",
+          "confidence": 0.5777
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            394.0,
+            187.0,
+            430.0
+          ],
+          "text": "ACEISEX",
+          "confidence": 0.4491
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            335.0,
+            395.0,
+            437.0,
+            431.0
+          ],
+          "text": "S0 Y/ F",
+          "confidence": 0.4639
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            394.0,
+            1094.0,
+            424.0
+          ],
+          "text": "TINB",
+          "confidence": 0.4039
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            436.0,
+            206.0,
+            468.0
+          ],
+          "text": "RFF BYDR",
+          "confidence": 0.6983
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            440.0,
+            584.0,
+            472.0
+          ],
+          "text": "DECENT HOSPITAL",
+          "confidence": 0.8204
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            476.0,
+            210.0,
+            502.0
+          ],
+          "text": "(ncL {RP4 |",
+          "confidence": 0.0184
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1024.0,
+            482.0,
+            1164.0,
+            512.0
+          ],
+          "text": "MMpienO",
+          "confidence": 0.1249
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            526.0,
+            192.0,
+            558.0
+          ],
+          "text": "TFST'S",
+          "confidence": 0.6181
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            580.0,
+            985.0,
+            617.0
+          ],
+          "text": "BO CHEMISTRY",
+          "confidence": 0.7965
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            625.0,
+            409.0,
+            665.0
+          ],
+          "text": "CRP (C Reactive Protein]",
+          "confidence": 0.6452
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            632.0,
+            676.0,
+            664.0
+          ],
+          "text": "77",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            636.0,
+            790.0,
+            664.0
+          ],
+          "text": "H",
+          "confidence": 0.5404
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1333.0,
+            635.0,
+            1557.0,
+            676.0
+          ],
+          "text": "(Adults <Smg/Ij",
+          "confidence": 0.4116
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1335.0,
+            683.0,
+            1557.0,
+            719.0
+          ],
+          "text": "(New Born unto",
+          "confidence": 0.8528
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1299.0,
+            727.0,
+            1555.0,
+            765.0
+          ],
+          "text": "3weeks <4.1me{I)",
+          "confidence": 0.5121
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1293.0,
+            773.0,
+            1555.0,
+            811.0
+          ],
+          "text": "(Infants & Children",
+          "confidence": 0.7035
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            677.0,
+            142.0,
+            977.0
+          ],
+          "text": "1",
+          "confidence": 0.6422
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1294.0,
+            817.0,
+            1555.0,
+            859.0
+          ],
+          "text": "Children <2 8 me/l",
+          "confidence": 0.6427
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            902.0,
+            367.0,
+            934.0
+          ],
+          "text": "INTERPRETATION -",
+          "confidence": 0.8135
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            95.0,
+            947.0,
+            1061.0,
+            989.0
+          ],
+          "text": "CRP Is an acute phase B-globulin with & malecular mass of approximatelv",
+          "confidence": 0.4233
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            994.0,
+            322.0,
+            1024.0
+          ],
+          "text": "118,000 daltons;",
+          "confidence": 0.8943
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            1037.0,
+            1133.0,
+            1079.0
+          ],
+          "text": "CRP levels In seruI Or plasma may Fise during Reneral,nonspecificresponse to",
+          "confidence": 0.3123
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            1083.0,
+            1079.0,
+            1123.0
+          ],
+          "text": "Infettous and non-intectious Inllammatorv conditiors such Js rheumatoid",
+          "confidence": 0.4055
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            1127.0,
+            947.0,
+            1169.0
+          ],
+          "text": "arthritis, cardlovascular disease and peripheral vascular disease",
+          "confidence": 0.7309
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            95.0,
+            1173.0,
+            595.0,
+            1213.0
+          ],
+          "text": "Within 24 t0 44 hours followig acute",
+          "confidence": 0.3507
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            1221.0,
+            587.0,
+            1257.0
+          ],
+          "text": "rise' tv approximately 1000 uMes the",
+          "confidence": 0.3219
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            821.0,
+            1223.0,
+            1031.0,
+            1263.0
+          ],
+          "text": "CRP levels may",
+          "confidence": 0.9184
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            1266.0,
+            887.0,
+            1305.0
+          ],
+          "text": "remain clevaled lor several davs belore returningto normal",
+          "confidence": 0.6514
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            1313.0,
+            1097.0,
+            1357.0
+          ],
+          "text": "As elevaled CRP values arealways Jssucialed with pathological changes; lle",
+          "confidence": 0.5376
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1355.0,
+            1011.0,
+            1412.0
+          ],
+          "text": "An CRP assav provides Useful information forthe dlagnosis therapv, and",
+          "confidence": 0.2644
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            1410.0,
+            122.0,
+            1434.0
+          ],
+          "text": "n",
+          "confidence": 0.1972
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1401.0,
+            923.0,
+            1441.0
+          ],
+          "text": "ortitoring of inflammatory con ditions and assuciated disease,",
+          "confidence": 0.4158
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            21.0,
+            1421.0,
+            136.0,
+            1986.0
+          ],
+          "text": "1",
+          "confidence": 0.1209
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            1985.0,
+            991.0,
+            2025.0
+          ],
+          "text": "WiSh YOU GOOD HEALTH *",
+          "confidence": 0.2996
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1234.0,
+            1966.0,
+            1349.0,
+            2020.0
+          ],
+          "text": "Tpdav",
+          "confidence": 0.0994
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            2020.0,
+            1368.0,
+            2050.0
+          ],
+          "text": "Dr, SPYADAV",
+          "confidence": 0.6105
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1095.0,
+            2050.0,
+            1447.0,
+            2091.0
+          ],
+          "text": "MD PATA (Reg ro 0440131",
+          "confidence": 0.5308
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            6.0,
+            2130.0,
+            1132.0,
+            2178.0
+          ],
+          "text": "ach Investgason has lecrtical Emitallons and Uie inaccuraces are Inherent i a constantly clang ng",
+          "confidence": 0.0743
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            3.0,
+            2161.0,
+            215.0,
+            2200.0
+          ],
+          "text": "abgical tne resua",
+          "confidence": 0.1492
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            269.0,
+            2168.0,
+            416.0,
+            2198.0
+          ],
+          "text": "aso vary 50",
+          "confidence": 0.1712
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            411.0,
+            2164.0,
+            1091.0,
+            2207.0
+          ],
+          "text": "kIndly Carelalu Clinica y and itorm tre center; Inc prusont",
+          "confidence": 0.124
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            5.0,
+            2198.0,
+            691.0,
+            2240.0
+          ],
+          "text": "port $ only A Fro essional opinion and not Ine fral diagnosis",
+          "confidence": 0.2259
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            2254.0,
+            406.0,
+            2286.0
+          ],
+          "text": "Call (l ABG 9807000707",
+          "confidence": 0.1371
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            943.2802656784306,
+            630.8800042399873,
+            1018.7197343215694,
+            675.1199957600127
+          ],
+          "text": "Mgfi",
+          "confidence": 0.356
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            213.13379207705128,
+            2165.1638810551212,
+            273.8662079229487,
+            2199.8361189448788
+          ],
+          "text": "0ay",
+          "confidence": 0.0907
+        }
+      ]
+    }
+  ],
+  "full_text": "Decent Hospital\nDECENT HOSPITAL\nBudoh Vhur Pant - A Tarasnindal\nIInfront SBlZonal Olfccl Gonkkpur\nMobe\nPATIEAT NAME\nMRS: SANGITA DEVI\nREPORTING DATE\nACEISEX\nS0 Y/ F\nTINB\nRFF BYDR\nDECENT HOSPITAL\n(ncL {RP4 |\nMMpienO\nTFST'S\nBO CHEMISTRY\nCRP (C Reactive Protein]\n77\nH\n(Adults <Smg/Ij\n(New Born unto\n3weeks <4.1me{I)\n(Infants & Children\n1\nChildren <2 8 me/l\nINTERPRETATION -\nCRP Is an acute phase B-globulin with & malecular mass of approximatelv\n118,000 daltons;\nCRP levels In seruI Or plasma may Fise during Reneral,nonspecificresponse to\nInfettous and non-intectious Inllammatorv conditiors such Js rheumatoid\narthritis, cardlovascular disease and peripheral vascular disease\nWithin 24 t0 44 hours followig acute\nrise' tv approximately 1000 uMes the\nCRP levels may\nremain clevaled lor several davs belore returningto normal\nAs elevaled CRP values arealways Jssucialed with pathological changes; lle\nAn CRP assav provides Useful information forthe dlagnosis therapv, and\nn\nortitoring of inflammatory con ditions and assuciated disease,\n1\nWiSh YOU GOOD HEALTH *\nTpdav\nDr, SPYADAV\nMD PATA (Reg ro 0440131\nach Investgason has lecrtical Emitallons and Uie inaccuraces are Inherent i a constantly clang ng\nabgical tne resua\naso vary 50\nkIndly Carelalu Clinica y and itorm tre center; Inc prusont\nport $ only A Fro essional opinion and not Ine fral diagnosis\nCall (l ABG 9807000707\nMgfi\n0ay",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Children <",
+          "biomarker_normalized": "Children <",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Children <2 8 me/l",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Within",
+          "biomarker_normalized": "Within",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Within 24 t0 44 hours followig acute",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "rise' tv approximately",
+          "biomarker_normalized": "rise' tv approximately",
+          "value": "1000",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "rise' tv approximately 1000 uMes the",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MD PATA (Reg ro",
+          "biomarker_normalized": "MD PATA (Reg ro",
+          "value": "0440131",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MD PATA (Reg ro 0440131",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "aso vary",
+          "biomarker_normalized": "aso vary",
+          "value": "50",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "aso vary 50",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Call (l ABG",
+          "biomarker_normalized": "Call (l ABG",
+          "value": "9807000707",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Call (l ABG 9807000707",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.4604,
+    "parsed_row_count": 6
+  }
+}

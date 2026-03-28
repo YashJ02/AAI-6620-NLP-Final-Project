@@ -1,0 +1,1182 @@
+{
+  "document_id": "GUR-0425-PA-0047249_CH ACHIYYA CHOWDARY 0047249_28-04-2025_1118-26_AM@E.pdf_page_25",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0047249_CH ACHIYYA CHOWDARY 0047249_28-04-2025_1118-26_AM@E.pdf_page_25.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AiG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatlent\nAge/Sex\nUHID\nAIGG.20118473\nOrder Date\n(04.29\nEpisode\nIP\nIP / Bed\n111620\n765\nRcf. Doctor\nDrGvRAO\nMobile No\nFacility\nAIG Hospitals, Gachibowli\nBiochemistry\nTEST\nRESULT\nUNIT\nBIOLOGICAL REF INTERVAL\nSampl No\nAGIIOL 89+88\nCollerticn Date\n04.34\nAck Date\n10/C+'2025 0g.15\nRepcrt Date\n10,C+X25 07.52\nRFT-RENAL FUNCTION TESTS (UREA, CREAT, ELECT)\nSample Tyce-\n87\"\nBLOOD UREA\nSerum\n43\nmg{dL\n43\n43\nMcthu;}\n{REASE NINEIC\nSERUM CREATININE\nSerum\n1.03\ningfdl\n0.67 - [.17\nMctosd\n4x 'afes\n{DMs Trtabt\nSODIUM\nSerum\n136\nMEq/L\n136\n145\nKthop\n{3E XMOIREC7\nPOTASSIUM\nSerum\n5,1\nmEq/l\n3.5\n5.1\nXtntt\n{SF {inect\nCHLORIDE\nSerum\n102\nMEq/L\n98\n107\nXetx\n{SE XNDRECh\nInterpretauons; Axs In 029no5i5 ard\nscreering; screoning patierits]\nkisease;\nReport Saved By\nVKIRAN BABU\n007.52\nEnd of Report\nGr=\nDr,G, DEEPIKA\nMD HiacremistY, Sr Cersultanr\nHOD Siuchemlstiy\nMindspace Road; Gachibowli; Hydcranad; Telangana\n500032\n+91\nInfo caighospitalscom\nwwwaighospitalscam\nAIG Hospitals (a unit of Asian Institute af Gastroenterology}\nCIN: U9ggg9T61994PTCO18352",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            74.0,
+            432.0,
+            176.0
+          ],
+          "text": "AiG",
+          "confidence": 0.3689
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            162.0,
+            425.0,
+            204.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.9866
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            596.0,
+            259.0,
+            1157.0,
+            295.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.9782
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            334.0,
+            256.0,
+            362.0
+          ],
+          "text": "Patlent",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            328.0,
+            1088.0,
+            360.0
+          ],
+          "text": "Age/Sex",
+          "confidence": 0.9592
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            380.0,
+            236.0,
+            408.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            417.0,
+            379.0,
+            588.0,
+            409.0
+          ],
+          "text": "AIGG.20118473",
+          "confidence": 0.7865
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            380.0,
+            1116.0,
+            406.0
+          ],
+          "text": "Order Date",
+          "confidence": 0.9534
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1364.0,
+            376.0,
+            1430.0,
+            406.0
+          ],
+          "text": "(04.29",
+          "confidence": 0.4276
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            422.0,
+            262.0,
+            452.0
+          ],
+          "text": "Episode",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            422.0,
+            446.0,
+            446.0
+          ],
+          "text": "IP",
+          "confidence": 0.9579
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            418.0,
+            1072.0,
+            446.0
+          ],
+          "text": "IP / Bed",
+          "confidence": 0.5311
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            416.0,
+            1324.0,
+            446.0
+          ],
+          "text": "111620",
+          "confidence": 0.8994
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1338.0,
+            416.0,
+            1384.0,
+            444.0
+          ],
+          "text": "765",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            464.0,
+            302.0,
+            490.0
+          ],
+          "text": "Rcf. Doctor",
+          "confidence": 0.6033
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            464.0,
+            552.0,
+            492.0
+          ],
+          "text": "DrGvRAO",
+          "confidence": 0.9226
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            456.0,
+            1106.0,
+            484.0
+          ],
+          "text": "Mobile No",
+          "confidence": 0.6531
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            497.0,
+            1072.0,
+            530.0
+          ],
+          "text": "Facility",
+          "confidence": 0.787
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1238.0,
+            494.0,
+            1504.0,
+            524.0
+          ],
+          "text": "AIG Hospitals, Gachibowli",
+          "confidence": 0.8244
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            615.0,
+            975.0,
+            655.0
+          ],
+          "text": "Biochemistry",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            682.0,
+            258.0,
+            708.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9829
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            678.0,
+            866.0,
+            702.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            674.0,
+            1228.0,
+            700.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.5793
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            670.0,
+            1568.0,
+            698.0
+          ],
+          "text": "BIOLOGICAL REF INTERVAL",
+          "confidence": 0.8635
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            738.0,
+            278.0,
+            762.0
+          ],
+          "text": "Sampl No",
+          "confidence": 0.8647
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            736.0,
+            432.0,
+            760.0
+          ],
+          "text": "AGIIOL 89+88",
+          "confidence": 0.1719
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            496.0,
+            734.0,
+            628.0,
+            758.0
+          ],
+          "text": "Collerticn Date",
+          "confidence": 0.5118
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            732.0,
+            810.0,
+            756.0
+          ],
+          "text": "04.34",
+          "confidence": 0.6203
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            864.0,
+            732.0,
+            944.0,
+            756.0
+          ],
+          "text": "Ack Date",
+          "confidence": 0.9575
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            729.0,
+            1132.0,
+            754.0
+          ],
+          "text": "10/C+'2025 0g.15",
+          "confidence": 0.132
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            730.0,
+            1320.0,
+            754.0
+          ],
+          "text": "Repcrt Date",
+          "confidence": 0.3235
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1356.0,
+            726.0,
+            1496.0,
+            752.0
+          ],
+          "text": "10,C+X25 07.52",
+          "confidence": 0.234
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            777.0,
+            977.0,
+            819.0
+          ],
+          "text": "RFT-RENAL FUNCTION TESTS (UREA, CREAT, ELECT)",
+          "confidence": 0.9793
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            830.0,
+            316.0,
+            856.0
+          ],
+          "text": "Sample Tyce-",
+          "confidence": 0.4848
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            832.0,
+            392.0,
+            856.0
+          ],
+          "text": "87\"",
+          "confidence": 0.1358
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            878.0,
+            356.0,
+            910.0
+          ],
+          "text": "BLOOD UREA",
+          "confidence": 0.8249
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            372.0,
+            876.0,
+            458.0,
+            906.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            874.0,
+            824.0,
+            900.0
+          ],
+          "text": "43",
+          "confidence": 0.9353
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            872.0,
+            1222.0,
+            900.0
+          ],
+          "text": "mg{dL",
+          "confidence": 0.6155
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            874.0,
+            1366.0,
+            898.0
+          ],
+          "text": "43",
+          "confidence": 0.4553
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1380.0,
+            872.0,
+            1414.0,
+            898.0
+          ],
+          "text": "43",
+          "confidence": 0.6123
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            914.0,
+            256.0,
+            938.0
+          ],
+          "text": "Mcthu;}",
+          "confidence": 0.2319
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            264.0,
+            912.0,
+            412.0,
+            936.0
+          ],
+          "text": "{REASE NINEIC",
+          "confidence": 0.3162
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            943.0,
+            445.0,
+            979.0
+          ],
+          "text": "SERUM CREATININE",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            944.0,
+            546.0,
+            976.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            942.0,
+            844.0,
+            968.0
+          ],
+          "text": "1.03",
+          "confidence": 0.8348
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1149.0,
+            937.0,
+            1224.0,
+            973.0
+          ],
+          "text": "ingfdl",
+          "confidence": 0.6341
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            939.0,
+            1453.0,
+            969.0
+          ],
+          "text": "0.67 - [.17",
+          "confidence": 0.3228
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            982.0,
+            256.0,
+            1006.0
+          ],
+          "text": "Mctosd",
+          "confidence": 0.131
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            268.0,
+            980.0,
+            382.0,
+            1004.0
+          ],
+          "text": "4x 'afes",
+          "confidence": 0.1856
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            390.0,
+            980.0,
+            528.0,
+            1004.0
+          ],
+          "text": "{DMs Trtabt",
+          "confidence": 0.1579
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            1016.0,
+            295.0,
+            1046.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1014.0,
+            400.0,
+            1046.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            1012.0,
+            836.0,
+            1038.0
+          ],
+          "text": "136",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            1010.0,
+            1224.0,
+            1038.0
+          ],
+          "text": "MEq/L",
+          "confidence": 0.5196
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            1010.0,
+            1382.0,
+            1038.0
+          ],
+          "text": "136",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1394.0,
+            1010.0,
+            1440.0,
+            1036.0
+          ],
+          "text": "145",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            1050.0,
+            256.0,
+            1074.0
+          ],
+          "text": "Kthop",
+          "confidence": 0.1122
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            264.0,
+            1050.0,
+            386.0,
+            1074.0
+          ],
+          "text": "{3E XMOIREC7",
+          "confidence": 0.014
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            1084.0,
+            340.0,
+            1116.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            1082.0,
+            444.0,
+            1114.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            1080.0,
+            830.0,
+            1106.0
+          ],
+          "text": "5,1",
+          "confidence": 0.8235
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            1078.0,
+            1224.0,
+            1106.0
+          ],
+          "text": "mEq/l",
+          "confidence": 0.5783
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            1080.0,
+            1376.0,
+            1106.0
+          ],
+          "text": "3.5",
+          "confidence": 0.7947
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            1078.0,
+            1426.0,
+            1106.0
+          ],
+          "text": "5.1",
+          "confidence": 0.9235
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            1121.0,
+            255.0,
+            1141.0
+          ],
+          "text": "Xtntt",
+          "confidence": 0.0461
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            1118.0,
+            386.0,
+            1142.0
+          ],
+          "text": "{SF {inect",
+          "confidence": 0.243
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            1152.0,
+            324.0,
+            1184.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            1152.0,
+            426.0,
+            1184.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            794.0,
+            1150.0,
+            838.0,
+            1176.0
+          ],
+          "text": "102",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            1148.0,
+            1224.0,
+            1174.0
+          ],
+          "text": "MEq/L",
+          "confidence": 0.4743
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            1148.0,
+            1370.0,
+            1176.0
+          ],
+          "text": "98",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            1148.0,
+            1428.0,
+            1176.0
+          ],
+          "text": "107",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            1191.0,
+            255.0,
+            1211.0
+          ],
+          "text": "Xetx",
+          "confidence": 0.405
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            265.0,
+            1189.0,
+            385.0,
+            1209.0
+          ],
+          "text": "{SE XNDRECh",
+          "confidence": 0.1254
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            1236.0,
+            555.0,
+            1264.0
+          ],
+          "text": "Interpretauons; Axs In 029no5i5 ard",
+          "confidence": 0.1822
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1263.0,
+            479.0,
+            1299.0
+          ],
+          "text": "screering; screoning patierits]",
+          "confidence": 0.2637
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            759.0,
+            1265.0,
+            842.0,
+            1292.0
+          ],
+          "text": "kisease;",
+          "confidence": 0.2133
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            217.0,
+            1320.0,
+            394.0,
+            1352.0
+          ],
+          "text": "Report Saved By",
+          "confidence": 0.733
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            1318.0,
+            566.0,
+            1348.0
+          ],
+          "text": "VKIRAN BABU",
+          "confidence": 0.9405
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1318.0,
+            778.0,
+            1344.0
+          ],
+          "text": "007.52",
+          "confidence": 0.6445
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            1374.0,
+            892.0,
+            1404.0
+          ],
+          "text": "End of Report",
+          "confidence": 0.7082
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1189.0,
+            1399.0,
+            1393.0,
+            1476.0
+          ],
+          "text": "Gr=",
+          "confidence": 0.1081
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            1496.0,
+            1298.0,
+            1520.0
+          ],
+          "text": "Dr,G, DEEPIKA",
+          "confidence": 0.5712
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            1539.0,
+            1426.0,
+            1566.0
+          ],
+          "text": "MD HiacremistY, Sr Cersultanr",
+          "confidence": 0.1097
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1160.0,
+            1564.0,
+            1318.0,
+            1593.0
+          ],
+          "text": "HOD Siuchemlstiy",
+          "confidence": 0.4745
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            2175.0,
+            655.0,
+            2216.0
+          ],
+          "text": "Mindspace Road; Gachibowli; Hydcranad; Telangana",
+          "confidence": 0.6431
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            2182.0,
+            754.0,
+            2212.0
+          ],
+          "text": "500032",
+          "confidence": 0.9565
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            2182.0,
+            838.0,
+            2208.0
+          ],
+          "text": "+91",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1037.0,
+            2183.0,
+            1281.0,
+            2219.0
+          ],
+          "text": "Info caighospitalscom",
+          "confidence": 0.5857
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            2181.0,
+            1555.0,
+            2221.0
+          ],
+          "text": "wwwaighospitalscam",
+          "confidence": 0.6883
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            329.0,
+            2216.0,
+            937.0,
+            2253.0
+          ],
+          "text": "AIG Hospitals (a unit of Asian Institute af Gastroenterology}",
+          "confidence": 0.5645
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            965.0,
+            2219.0,
+            1303.0,
+            2255.0
+          ],
+          "text": "CIN: U9ggg9T61994PTCO18352",
+          "confidence": 0.1593
+        }
+      ]
+    }
+  ],
+  "full_text": "AiG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatlent\nAge/Sex\nUHID\nAIGG.20118473\nOrder Date\n(04.29\nEpisode\nIP\nIP / Bed\n111620\n765\nRcf. Doctor\nDrGvRAO\nMobile No\nFacility\nAIG Hospitals, Gachibowli\nBiochemistry\nTEST\nRESULT\nUNIT\nBIOLOGICAL REF INTERVAL\nSampl No\nAGIIOL 89+88\nCollerticn Date\n04.34\nAck Date\n10/C+'2025 0g.15\nRepcrt Date\n10,C+X25 07.52\nRFT-RENAL FUNCTION TESTS (UREA, CREAT, ELECT)\nSample Tyce-\n87\"\nBLOOD UREA\nSerum\n43\nmg{dL\n43\n43\nMcthu;}\n{REASE NINEIC\nSERUM CREATININE\nSerum\n1.03\ningfdl\n0.67 - [.17\nMctosd\n4x 'afes\n{DMs Trtabt\nSODIUM\nSerum\n136\nMEq/L\n136\n145\nKthop\n{3E XMOIREC7\nPOTASSIUM\nSerum\n5,1\nmEq/l\n3.5\n5.1\nXtntt\n{SF {inect\nCHLORIDE\nSerum\n102\nMEq/L\n98\n107\nXetx\n{SE XNDRECh\nInterpretauons; Axs In 029no5i5 ard\nscreering; screoning patierits]\nkisease;\nReport Saved By\nVKIRAN BABU\n007.52\nEnd of Report\nGr=\nDr,G, DEEPIKA\nMD HiacremistY, Sr Cersultanr\nHOD Siuchemlstiy\nMindspace Road; Gachibowli; Hydcranad; Telangana\n500032\n+91\nInfo caighospitalscom\nwwwaighospitalscam\nAIG Hospitals (a unit of Asian Institute af Gastroenterology}\nCIN: U9ggg9T61994PTCO18352",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "AIGG.",
+          "biomarker_normalized": "AIGG.",
+          "value": "20118473",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AIGG.20118473",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AGIIOL",
+          "biomarker_normalized": "AGIIOL",
+          "value": "89",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AGIIOL 89+88",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Interpretauons; Axs In",
+          "biomarker_normalized": "Interpretauons; Axs In",
+          "value": "029",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Interpretauons; Axs In 029no5i5 ard",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN: U9ggg9T6",
+          "biomarker_normalized": "CIN: U9ggg9T6",
+          "value": "1994",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN: U9ggg9T61994PTCO18352",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 93,
+    "ocr_avg_confidence": 0.6593,
+    "parsed_row_count": 4
+  }
+}

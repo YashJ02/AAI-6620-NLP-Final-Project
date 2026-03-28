@@ -1,0 +1,1182 @@
+{
+  "document_id": "GUR-0425-PA-0055258_Q-BIMLA000411zon_250423_1700@F.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055258_Q-BIMLA000411zon_250423_1700@F.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A NABH Accredited Multispecialilty Hospital\nDelhi\nDelhl-Rohtak Road, Bahadurgarh-124507 (Hr)\nHospital\nPh : 01276-230607 ,\nHd 4dy yerd\n4 73 Fnvtttt;\nComputerised Lab- X-Ray; Ultrasound, E.\nC.6\nTiming\n8.00 AM To 7 00 PM;\nCOMPLETE RANGE OF BiOCHEMISTRY MicRObIOLOGY\nDelhi-Rohtak Road\nSunday\n9 OO AM To 300 PM\nHAEMATOLOGY SEROLOGY CYTOLOC  HISTOPATHOLOGY\nBAHADURGARH-124507 (HARYANAI\nDale\nSr No;\n59\nAge\n40 Yrs\nSex\nF\nDt RAHUL\nLIVER FUNCTION TEST\nTOTAL BILIRUBIN\n1 2\nmgidl\n0.3-1 2\nCONJUGATED (D. Bilirubin)\n0.5\nmgldl\n0.00 - 0,2\nUNCONJUGATED (L D Bilirubin)\n0,.7\nmgldl\n0,3-1.0\nTOTAL PROTEINS\n7.7\ngmldl\n6 4 -8.3\nALBUMIN\n4,0\ngmlal\n35 -5.2\nGLOBULIN\n3.7\n23-35\nNGRATO\n1.081\n0 8 - 2.0\nS,G.0T(AST)\n28.0\nUIL\n0.00\n50 0\nSGPT (ALT)\n19.0\nUIL\n0,00 - 50, 0\nALKALINE PHOSPHATASE\n63,0\nUIL\n53.0 - 128 0\nCG T P\n11.0\nUIL\n0 0 - 55,0\n~N?\nTEBS MD P\nKO\n01\nCNEULTFA|\n4no= ^\nDr: Rahul Chana Dhan Kanarvado\nContuual Phyek\nMbbS\nDorc87*\nFeg: No\nSontd\nCLINICAL CCRRELATIOR ISESSENDAL FOR FRAAL DUCNoSIS\nMORE MN 42 HouKtS QVEANIGHT FASTING CONCITIDHIS RECUEDFORESA 0 UREA Triclycerides LIPIDPROFLE T3 T4Ts/ IRON $ HORVONES\nMemolyzed Serln May FAL seLy ElEvaIE POSTaSSIu Ron got SGpt LDMAND P-IOSPHATASIL\nVFEVIC Seitum VAY FALSELY ELEMATE ALXALINE PKOSPHATASE SCOI CalciUM [OTAL Proieins AND CReaTIniNE AND MAY FALSELY LOVER TOTAL EaIRUB N\nTus REPORT I3[OR Tie PeRBua Or DoctORS uly Notf0 MEDICOLECAL CASES\nYIE USE DISROSARLE S RINGES AND NTEDLES QNIY\nZ4HOURS EMERGENC ? SERVICES AVAILADLE\ngmlal\n2460",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1049.0,
+            111.0,
+            1540.0,
+            149.0
+          ],
+          "text": "A NABH Accredited Multispecialilty Hospital",
+          "confidence": 0.692
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            130.0,
+            576.0,
+            232.0
+          ],
+          "text": "Delhi",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1049.0,
+            150.0,
+            1565.0,
+            187.0
+          ],
+          "text": "Delhl-Rohtak Road, Bahadurgarh-124507 (Hr)",
+          "confidence": 0.5006
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            579.0,
+            127.0,
+            1026.0,
+            255.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            190.0,
+            1272.0,
+            220.0
+          ],
+          "text": "Ph : 01276-230607 ,",
+          "confidence": 0.4228
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            425.0,
+            243.0,
+            654.0,
+            286.0
+          ],
+          "text": "Hd 4dy yerd",
+          "confidence": 0.1264
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            245.0,
+            909.0,
+            288.0
+          ],
+          "text": "4 73 Fnvtttt;",
+          "confidence": 0.0212
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            361.0,
+            297.0,
+            1181.0,
+            357.0
+          ],
+          "text": "Computerised Lab- X-Ray; Ultrasound, E.",
+          "confidence": 0.5321
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            305.0,
+            1287.0,
+            347.0
+          ],
+          "text": "C.6",
+          "confidence": 0.7288
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            366.0,
+            174.0,
+            398.0
+          ],
+          "text": "Timing",
+          "confidence": 0.9965
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            364.0,
+            460.0,
+            394.0
+          ],
+          "text": "8.00 AM To 7 00 PM;",
+          "confidence": 0.6021
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            528.0,
+            365.0,
+            1132.0,
+            396.0
+          ],
+          "text": "COMPLETE RANGE OF BiOCHEMISTRY MicRObIOLOGY",
+          "confidence": 0.4648
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            368.0,
+            1562.0,
+            400.0
+          ],
+          "text": "Delhi-Rohtak Road",
+          "confidence": 0.7677
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            389.0,
+            186.0,
+            429.0
+          ],
+          "text": "Sunday",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            394.0,
+            460.0,
+            424.0
+          ],
+          "text": "9 OO AM To 300 PM",
+          "confidence": 0.4257
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            511.0,
+            396.0,
+            1148.0,
+            428.0
+          ],
+          "text": "HAEMATOLOGY SEROLOGY CYTOLOC  HISTOPATHOLOGY",
+          "confidence": 0.4179
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            396.0,
+            1570.0,
+            428.0
+          ],
+          "text": "BAHADURGARH-124507 (HARYANAI",
+          "confidence": 0.7643
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            515.0,
+            284.0,
+            553.0
+          ],
+          "text": "Dale",
+          "confidence": 0.5436
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            526.0,
+            914.0,
+            558.0
+          ],
+          "text": "Sr No;",
+          "confidence": 0.8996
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            528.0,
+            970.0,
+            558.0
+          ],
+          "text": "59",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            821.0,
+            567.0,
+            881.0,
+            603.0
+          ],
+          "text": "Age",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            565.0,
+            1012.0,
+            602.0
+          ],
+          "text": "40 Yrs",
+          "confidence": 0.9248
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            572.0,
+            1380.0,
+            604.0
+          ],
+          "text": "Sex",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1420.0,
+            574.0,
+            1446.0,
+            602.0
+          ],
+          "text": "F",
+          "confidence": 0.975
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            600.0,
+            498.0,
+            632.0
+          ],
+          "text": "Dt RAHUL",
+          "confidence": 0.5607
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            671.0,
+            632.0,
+            714.0
+          ],
+          "text": "LIVER FUNCTION TEST",
+          "confidence": 0.7169
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            760.0,
+            471.0,
+            797.0
+          ],
+          "text": "TOTAL BILIRUBIN",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            770.0,
+            802.0,
+            800.0
+          ],
+          "text": "1 2",
+          "confidence": 0.5076
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            927.0,
+            768.0,
+            1010.0,
+            812.0
+          ],
+          "text": "mgidl",
+          "confidence": 0.6442
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            776.0,
+            1320.0,
+            806.0
+          ],
+          "text": "0.3-1 2",
+          "confidence": 0.3949
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            810.0,
+            594.0,
+            853.0
+          ],
+          "text": "CONJUGATED (D. Bilirubin)",
+          "confidence": 0.8895
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            822.0,
+            802.0,
+            852.0
+          ],
+          "text": "0.5",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            823.0,
+            1007.0,
+            859.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.7692
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            826.0,
+            1336.0,
+            858.0
+          ],
+          "text": "0.00 - 0,2",
+          "confidence": 0.5204
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            229.0,
+            863.0,
+            641.0,
+            905.0
+          ],
+          "text": "UNCONJUGATED (L D Bilirubin)",
+          "confidence": 0.5886
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            872.0,
+            798.0,
+            900.0
+          ],
+          "text": "0,.7",
+          "confidence": 0.239
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            927.0,
+            873.0,
+            1007.0,
+            911.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9024
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            875.0,
+            1320.0,
+            908.0
+          ],
+          "text": "0,3-1.0",
+          "confidence": 0.403
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            911.0,
+            475.0,
+            949.0
+          ],
+          "text": "TOTAL PROTEINS",
+          "confidence": 0.9307
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            922.0,
+            798.0,
+            952.0
+          ],
+          "text": "7.7",
+          "confidence": 0.4946
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            923.0,
+            1008.0,
+            961.0
+          ],
+          "text": "gmldl",
+          "confidence": 0.5398
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            928.0,
+            1318.0,
+            958.0
+          ],
+          "text": "6 4 -8.3",
+          "confidence": 0.4572
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            964.0,
+            360.0,
+            996.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 0.8004
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            972.0,
+            800.0,
+            1004.0
+          ],
+          "text": "4,0",
+          "confidence": 0.6901
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            972.0,
+            1008.0,
+            1012.0
+          ],
+          "text": "gmlal",
+          "confidence": 0.8793
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            978.0,
+            1320.0,
+            1010.0
+          ],
+          "text": "35 -5.2",
+          "confidence": 0.5242
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            1014.0,
+            376.0,
+            1046.0
+          ],
+          "text": "GLOBULIN",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1024.0,
+            798.0,
+            1054.0
+          ],
+          "text": "3.7",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            1028.0,
+            1318.0,
+            1058.0
+          ],
+          "text": "23-35",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            1064.0,
+            374.0,
+            1096.0
+          ],
+          "text": "NGRATO",
+          "confidence": 0.8019
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1072.0,
+            826.0,
+            1100.0
+          ],
+          "text": "1.081",
+          "confidence": 0.4523
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            1078.0,
+            1318.0,
+            1108.0
+          ],
+          "text": "0 8 - 2.0",
+          "confidence": 0.6469
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1112.0,
+            419.0,
+            1151.0
+          ],
+          "text": "S,G.0T(AST)",
+          "confidence": 0.62
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            1122.0,
+            814.0,
+            1152.0
+          ],
+          "text": "28.0",
+          "confidence": 0.6294
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            1124.0,
+            976.0,
+            1154.0
+          ],
+          "text": "UIL",
+          "confidence": 0.6545
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            1128.0,
+            1272.0,
+            1158.0
+          ],
+          "text": "0.00",
+          "confidence": 0.7864
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1128.0,
+            1350.0,
+            1160.0
+          ],
+          "text": "50 0",
+          "confidence": 0.9956
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            1163.0,
+            405.0,
+            1201.0
+          ],
+          "text": "SGPT (ALT)",
+          "confidence": 0.6617
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1172.0,
+            814.0,
+            1204.0
+          ],
+          "text": "19.0",
+          "confidence": 0.6688
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            1174.0,
+            976.0,
+            1204.0
+          ],
+          "text": "UIL",
+          "confidence": 0.929
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            1178.0,
+            1350.0,
+            1210.0
+          ],
+          "text": "0,00 - 50, 0",
+          "confidence": 0.4808
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            1215.0,
+            583.0,
+            1251.0
+          ],
+          "text": "ALKALINE PHOSPHATASE",
+          "confidence": 0.7541
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            1222.0,
+            814.0,
+            1254.0
+          ],
+          "text": "63,0",
+          "confidence": 0.5371
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            1226.0,
+            974.0,
+            1256.0
+          ],
+          "text": "UIL",
+          "confidence": 0.9168
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            1227.0,
+            1365.0,
+            1263.0
+          ],
+          "text": "53.0 - 128 0",
+          "confidence": 0.495
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1265.0,
+            336.0,
+            1297.0
+          ],
+          "text": "CG T P",
+          "confidence": 0.1699
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            1274.0,
+            810.0,
+            1304.0
+          ],
+          "text": "11.0",
+          "confidence": 0.7778
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            1276.0,
+            976.0,
+            1308.0
+          ],
+          "text": "UIL",
+          "confidence": 0.5665
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1280.0,
+            1334.0,
+            1312.0
+          ],
+          "text": "0 0 - 55,0",
+          "confidence": 0.897
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            1688.0,
+            1228.0,
+            1716.0
+          ],
+          "text": "~N?",
+          "confidence": 0.0816
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            1712.0,
+            1168.0,
+            1740.0
+          ],
+          "text": "TEBS MD P",
+          "confidence": 0.0766
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            1738.0,
+            1124.0,
+            1764.0
+          ],
+          "text": "KO",
+          "confidence": 0.3387
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1143.0,
+            1745.0,
+            1171.0,
+            1765.0
+          ],
+          "text": "01",
+          "confidence": 0.1719
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1036.0,
+            1762.0,
+            1174.0,
+            1790.0
+          ],
+          "text": "CNEULTFA|",
+          "confidence": 0.0701
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1188.0,
+            1764.0,
+            1314.0,
+            1794.0
+          ],
+          "text": "4no= ^",
+          "confidence": 0.0455
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            245.0,
+            1787.0,
+            719.0,
+            1828.0
+          ],
+          "text": "Dr: Rahul Chana Dhan Kanarvado",
+          "confidence": 0.2154
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            1818.0,
+            505.0,
+            1855.0
+          ],
+          "text": "Contuual Phyek",
+          "confidence": 0.1674
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            1848.0,
+            338.0,
+            1880.0
+          ],
+          "text": "MbbS",
+          "confidence": 0.4503
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            339.0,
+            1843.0,
+            529.0,
+            1911.0
+          ],
+          "text": "Dorc87*",
+          "confidence": 0.0228
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            243.0,
+            1875.0,
+            363.0,
+            1916.0
+          ],
+          "text": "Feg: No",
+          "confidence": 0.2455
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1452.0,
+            2010.0,
+            1540.0,
+            2042.0
+          ],
+          "text": "Sontd",
+          "confidence": 0.4736
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            2034.0,
+            670.0,
+            2058.0
+          ],
+          "text": "CLINICAL CCRRELATIOR ISESSENDAL FOR FRAAL DUCNoSIS",
+          "confidence": 0.1119
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2062.0,
+            1512.0,
+            2090.0
+          ],
+          "text": "MORE MN 42 HouKtS QVEANIGHT FASTING CONCITIDHIS RECUEDFORESA 0 UREA Triclycerides LIPIDPROFLE T3 T4Ts/ IRON $ HORVONES",
+          "confidence": 0.0077
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            2094.0,
+            1008.0,
+            2120.0
+          ],
+          "text": "Memolyzed Serln May FAL seLy ElEvaIE POSTaSSIu Ron got SGpt LDMAND P-IOSPHATASIL",
+          "confidence": 0.0068
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            2126.0,
+            1520.0,
+            2154.0
+          ],
+          "text": "VFEVIC Seitum VAY FALSELY ELEMATE ALXALINE PKOSPHATASE SCOI CalciUM [OTAL Proieins AND CReaTIniNE AND MAY FALSELY LOVER TOTAL EaIRUB N",
+          "confidence": 0.0169
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2158.0,
+            898.0,
+            2182.0
+          ],
+          "text": "Tus REPORT I3[OR Tie PeRBua Or DoctORS uly Notf0 MEDICOLECAL CASES",
+          "confidence": 0.0139
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            2185.0,
+            584.0,
+            2210.0
+          ],
+          "text": "YIE USE DISROSARLE S RINGES AND NTEDLES QNIY",
+          "confidence": 0.0532
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            2213.0,
+            1102.0,
+            2244.0
+          ],
+          "text": "Z4HOURS EMERGENC ? SERVICES AVAILADLE",
+          "confidence": 0.1732
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            924.3447882227953,
+            1020.2303030540439,
+            1006.6552117772047,
+            1060.769696945956
+          ],
+          "text": "gmlal",
+          "confidence": 0.8597
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            336.12816736552907,
+            1699.9471786643676,
+            576.8718326344709,
+            1796.0528213356324
+          ],
+          "text": "2460",
+          "confidence": 0.1461
+        }
+      ]
+    }
+  ],
+  "full_text": "A NABH Accredited Multispecialilty Hospital\nDelhi\nDelhl-Rohtak Road, Bahadurgarh-124507 (Hr)\nHospital\nPh : 01276-230607 ,\nHd 4dy yerd\n4 73 Fnvtttt;\nComputerised Lab- X-Ray; Ultrasound, E.\nC.6\nTiming\n8.00 AM To 7 00 PM;\nCOMPLETE RANGE OF BiOCHEMISTRY MicRObIOLOGY\nDelhi-Rohtak Road\nSunday\n9 OO AM To 300 PM\nHAEMATOLOGY SEROLOGY CYTOLOC  HISTOPATHOLOGY\nBAHADURGARH-124507 (HARYANAI\nDale\nSr No;\n59\nAge\n40 Yrs\nSex\nF\nDt RAHUL\nLIVER FUNCTION TEST\nTOTAL BILIRUBIN\n1 2\nmgidl\n0.3-1 2\nCONJUGATED (D. Bilirubin)\n0.5\nmgldl\n0.00 - 0,2\nUNCONJUGATED (L D Bilirubin)\n0,.7\nmgldl\n0,3-1.0\nTOTAL PROTEINS\n7.7\ngmldl\n6 4 -8.3\nALBUMIN\n4,0\ngmlal\n35 -5.2\nGLOBULIN\n3.7\n23-35\nNGRATO\n1.081\n0 8 - 2.0\nS,G.0T(AST)\n28.0\nUIL\n0.00\n50 0\nSGPT (ALT)\n19.0\nUIL\n0,00 - 50, 0\nALKALINE PHOSPHATASE\n63,0\nUIL\n53.0 - 128 0\nCG T P\n11.0\nUIL\n0 0 - 55,0\n~N?\nTEBS MD P\nKO\n01\nCNEULTFA|\n4no= ^\nDr: Rahul Chana Dhan Kanarvado\nContuual Phyek\nMbbS\nDorc87*\nFeg: No\nSontd\nCLINICAL CCRRELATIOR ISESSENDAL FOR FRAAL DUCNoSIS\nMORE MN 42 HouKtS QVEANIGHT FASTING CONCITIDHIS RECUEDFORESA 0 UREA Triclycerides LIPIDPROFLE T3 T4Ts/ IRON $ HORVONES\nMemolyzed Serln May FAL seLy ElEvaIE POSTaSSIu Ron got SGpt LDMAND P-IOSPHATASIL\nVFEVIC Seitum VAY FALSELY ELEMATE ALXALINE PKOSPHATASE SCOI CalciUM [OTAL Proieins AND CReaTIniNE AND MAY FALSELY LOVER TOTAL EaIRUB N\nTus REPORT I3[OR Tie PeRBua Or DoctORS uly Notf0 MEDICOLECAL CASES\nYIE USE DISROSARLE S RINGES AND NTEDLES QNIY\nZ4HOURS EMERGENC ? SERVICES AVAILADLE\ngmlal\n2460",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Delhl-Rohtak Road, Bahadurgarh",
+          "biomarker_normalized": "Delhl-Rohtak Road, Bahadurgarh",
+          "value": "124507",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Delhl-Rohtak Road, Bahadurgarh-124507 (Hr)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ph",
+          "biomarker_normalized": "Ph",
+          "value": "01276",
+          "unit": "",
+          "reference_range": "01276-230607",
+          "source_line": "Ph : 01276-230607 ,",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Hd",
+          "biomarker_normalized": "Hd",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Hd 4dy yerd",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "C.",
+          "biomarker_normalized": "C.",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "C.6",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "BAHADURGARH",
+          "biomarker_normalized": "BAHADURGARH",
+          "value": "124507",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BAHADURGARH-124507 (HARYANAI",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "S,G.",
+          "biomarker_normalized": "S,G.",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S,G.0T(AST)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Dorc8",
+          "biomarker_normalized": "Dorc8",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Dorc87*",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MORE MN",
+          "biomarker_normalized": "MORE MN",
+          "value": "42",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MORE MN 42 HouKtS QVEANIGHT FASTING CONCITIDHIS RECUEDFORESA 0 UREA Triclycerides LIPIDPROFLE T3 T4Ts/ IRON $ HORVONES",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 90,
+    "ocr_avg_confidence": 0.5713,
+    "parsed_row_count": 8
+  }
+}

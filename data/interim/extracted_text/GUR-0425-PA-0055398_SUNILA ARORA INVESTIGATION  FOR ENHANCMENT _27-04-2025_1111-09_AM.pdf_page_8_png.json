@@ -1,0 +1,774 @@
+{
+  "document_id": "GUR-0425-PA-0055398_SUNILA ARORA INVESTIGATION  FOR ENHANCMENT _27-04-2025_1111-09_AM.pdf_page_8",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055398_SUNILA ARORA INVESTIGATION  FOR ENHANCMENT _27-04-2025_1111-09_AM.pdf_page_8.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "sarvodaya\nGebrax\nHelpline: 1800 313 1515\n33\n7uug\nDIAGNOSTICS\nears\nBy Sarvodaya Healthcare\nOf\nWWW:\nsarvodayadiagnostics com\nProviding Best in Class Diagnostic Services Adhering to NABL Guidelines for Quality Report\nMrs_\nSUNILA ARORA\n491403\nAccepted on\n01.30 PM\nDr: ADITI MEHROTRA\nReport Date\n02.39 PM\nStatus\nFinalized\nSample Type\nSERUM (SST or Plain)\nCLINICAL BIOCHEMISTRY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nSerum Sodium (Na+)\n143.6\nmmoll\n136\n145\nInterpretation:\nElectrolytes: Affects most metabolic processes. They serve\nmaintain osmotic pressure and hydration of various body fluid\ncompartments, proper body pH, and regulation of appropriate heart and muscle functions. Electrolytes are also involved in oxidatioi\nreduction reactions and participate as essential parts Or, co factors, in enzyme reactions\nst Method\nISE Indirect:\nSample Type\nSerum\nQamhexane\nMr: SOURABH\nDr: Ranjan Kuma\nMBBS, MD (Pathology\nthe QR code to\ncheck interpretation:\nAbove Results are of the Tests performed at Sarvodaya Hospilal and Resea:'\nCentre Lab adhering to Quality testing Guidelines_\nMrs\nSUNILA ARORA / 73 Yr / Female\nSalodaya Diagnostics\nA Unit of Anshu Hospitals Limited\nCIN No. U85110DL1997PLC088209-\n~f 1\nTrUsT\ntop",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            43.0,
+            399.0,
+            110.0
+          ],
+          "text": "sarvodaya",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            45.0,
+            907.0,
+            105.0
+          ],
+          "text": "Gebrax",
+          "confidence": 0.0766
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            57.0,
+            1592.0,
+            97.0
+          ],
+          "text": "Helpline: 1800 313 1515",
+          "confidence": 0.7379
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            817.0,
+            75.0,
+            875.0,
+            119.0
+          ],
+          "text": "33",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            106.0,
+            124.0,
+            132.0
+          ],
+          "text": "7uug",
+          "confidence": 0.0242
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            99.0,
+            400.0,
+            159.0
+          ],
+          "text": "DIAGNOSTICS",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            825.0,
+            117.0,
+            869.0,
+            133.0
+          ],
+          "text": "ears",
+          "confidence": 0.6576
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            155.0,
+            393.0,
+            182.0
+          ],
+          "text": "By Sarvodaya Healthcare",
+          "confidence": 0.9585
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            803.0,
+            155.0,
+            829.0,
+            175.0
+          ],
+          "text": "Of",
+          "confidence": 0.2743
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            144.0,
+            1232.0,
+            168.0
+          ],
+          "text": "WWW:",
+          "confidence": 0.5184
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1223.0,
+            137.0,
+            1593.0,
+            175.0
+          ],
+          "text": "sarvodayadiagnostics com",
+          "confidence": 0.9801
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            214.0,
+            1550.0,
+            266.0
+          ],
+          "text": "Providing Best in Class Diagnostic Services Adhering to NABL Guidelines for Quality Report",
+          "confidence": 0.7473
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            298.0,
+            140.0,
+            348.0
+          ],
+          "text": "Mrs_",
+          "confidence": 0.9909
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            293.0,
+            530.0,
+            348.0
+          ],
+          "text": "SUNILA ARORA",
+          "confidence": 0.8853
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            400.0,
+            286.0,
+            430.0
+          ],
+          "text": "491403",
+          "confidence": 0.5978
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            397.0,
+            1101.0,
+            433.0
+          ],
+          "text": "Accepted on",
+          "confidence": 0.796
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            396.0,
+            1410.0,
+            428.0
+          ],
+          "text": "01.30 PM",
+          "confidence": 0.9388
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            438.0,
+            466.0,
+            468.0
+          ],
+          "text": "Dr: ADITI MEHROTRA",
+          "confidence": 0.8015
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            434.0,
+            1093.0,
+            472.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            434.0,
+            1410.0,
+            466.0
+          ],
+          "text": "02.39 PM",
+          "confidence": 0.9652
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            469.0,
+            1020.0,
+            500.0
+          ],
+          "text": "Status",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1142.0,
+            470.0,
+            1256.0,
+            500.0
+          ],
+          "text": "Finalized",
+          "confidence": 0.9389
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            506.0,
+            1107.0,
+            545.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1142.0,
+            508.0,
+            1424.0,
+            540.0
+          ],
+          "text": "SERUM (SST or Plain)",
+          "confidence": 0.8615
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            623.0,
+            556.0,
+            1075.0,
+            597.0
+          ],
+          "text": "CLINICAL BIOCHEMISTRY",
+          "confidence": 0.9529
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            624.0,
+            250.0,
+            654.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            695.0,
+            619.0,
+            799.0,
+            649.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            620.0,
+            1000.0,
+            648.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            620.0,
+            1588.0,
+            650.0
+          ],
+          "text": "BIOLOGICAL REFERENCE RANGE",
+          "confidence": 0.9548
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            676.0,
+            373.0,
+            713.0
+          ],
+          "text": "Serum Sodium (Na+)",
+          "confidence": 0.8863
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            698.0,
+            676.0,
+            772.0,
+            706.0
+          ],
+          "text": "143.6",
+          "confidence": 0.7009
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            676.0,
+            1030.0,
+            704.0
+          ],
+          "text": "mmoll",
+          "confidence": 0.7229
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            676.0,
+            1232.0,
+            706.0
+          ],
+          "text": "136",
+          "confidence": 0.9821
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            676.0,
+            1300.0,
+            706.0
+          ],
+          "text": "145",
+          "confidence": 0.5973
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            56.0,
+            732.0,
+            244.0,
+            762.0
+          ],
+          "text": "Interpretation:",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            759.0,
+            783.0,
+            801.0
+          ],
+          "text": "Electrolytes: Affects most metabolic processes. They serve",
+          "confidence": 0.8447
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            829.0,
+            761.0,
+            1573.0,
+            799.0
+          ],
+          "text": "maintain osmotic pressure and hydration of various body fluid",
+          "confidence": 0.9061
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            790.0,
+            1631.0,
+            835.0
+          ],
+          "text": "compartments, proper body pH, and regulation of appropriate heart and muscle functions. Electrolytes are also involved in oxidatioi",
+          "confidence": 0.6741
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            824.0,
+            1131.0,
+            863.0
+          ],
+          "text": "reduction reactions and participate as essential parts Or, co factors, in enzyme reactions",
+          "confidence": 0.7327
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            860.0,
+            220.0,
+            890.0
+          ],
+          "text": "st Method",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            860.0,
+            394.0,
+            890.0
+          ],
+          "text": "ISE Indirect:",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            891.0,
+            229.0,
+            927.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            892.0,
+            342.0,
+            918.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            1049.0,
+            1591.0,
+            1099.0
+          ],
+          "text": "Qamhexane",
+          "confidence": 0.3864
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            1156.0,
+            250.0,
+            1186.0
+          ],
+          "text": "Mr: SOURABH",
+          "confidence": 0.6736
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1404.0,
+            1153.0,
+            1624.0,
+            1186.0
+          ],
+          "text": "Dr: Ranjan Kuma",
+          "confidence": 0.9254
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1337.0,
+            1185.0,
+            1629.0,
+            1228.0
+          ],
+          "text": "MBBS, MD (Pathology",
+          "confidence": 0.7483
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1430.0,
+            1286.0,
+            1630.0,
+            1318.0
+          ],
+          "text": "the QR code to",
+          "confidence": 0.8089
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1355.0,
+            1322.0,
+            1633.0,
+            1361.0
+          ],
+          "text": "check interpretation:",
+          "confidence": 0.8792
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            1502.0,
+            963.0,
+            1538.0
+          ],
+          "text": "Above Results are of the Tests performed at Sarvodaya Hospilal and Resea:'",
+          "confidence": 0.5861
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            985.0,
+            1501.0,
+            1521.0,
+            1537.0
+          ],
+          "text": "Centre Lab adhering to Quality testing Guidelines_",
+          "confidence": 0.9683
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            49.0,
+            2269.0,
+            87.0,
+            2289.0
+          ],
+          "text": "Mrs",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            2266.0,
+            398.0,
+            2290.0
+          ],
+          "text": "SUNILA ARORA / 73 Yr / Female",
+          "confidence": 0.8436
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            2282.0,
+            398.0,
+            2333.0
+          ],
+          "text": "Salodaya Diagnostics",
+          "confidence": 0.4904
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            417.0,
+            2285.0,
+            919.0,
+            2329.0
+          ],
+          "text": "A Unit of Anshu Hospitals Limited",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1041.0,
+            2285.0,
+            1589.0,
+            2321.0
+          ],
+          "text": "CIN No. U85110DL1997PLC088209-",
+          "confidence": 0.7127
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1585.0,
+            2291.0,
+            1619.0,
+            2307.0
+          ],
+          "text": "~f 1",
+          "confidence": 0.1945
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            822.3167184270003,
+            144.06217327560148,
+            895.6832815729997,
+            191.93782672439852
+          ],
+          "text": "TrUsT",
+          "confidence": 0.2237
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            777.2340536831779,
+            761.1219034952862,
+            832.7659463168221,
+            800.8780965047138
+          ],
+          "text": "top",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "sarvodaya\nGebrax\nHelpline: 1800 313 1515\n33\n7uug\nDIAGNOSTICS\nears\nBy Sarvodaya Healthcare\nOf\nWWW:\nsarvodayadiagnostics com\nProviding Best in Class Diagnostic Services Adhering to NABL Guidelines for Quality Report\nMrs_\nSUNILA ARORA\n491403\nAccepted on\n01.30 PM\nDr: ADITI MEHROTRA\nReport Date\n02.39 PM\nStatus\nFinalized\nSample Type\nSERUM (SST or Plain)\nCLINICAL BIOCHEMISTRY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nSerum Sodium (Na+)\n143.6\nmmoll\n136\n145\nInterpretation:\nElectrolytes: Affects most metabolic processes. They serve\nmaintain osmotic pressure and hydration of various body fluid\ncompartments, proper body pH, and regulation of appropriate heart and muscle functions. Electrolytes are also involved in oxidatioi\nreduction reactions and participate as essential parts Or, co factors, in enzyme reactions\nst Method\nISE Indirect:\nSample Type\nSerum\nQamhexane\nMr: SOURABH\nDr: Ranjan Kuma\nMBBS, MD (Pathology\nthe QR code to\ncheck interpretation:\nAbove Results are of the Tests performed at Sarvodaya Hospilal and Resea:'\nCentre Lab adhering to Quality testing Guidelines_\nMrs\nSUNILA ARORA / 73 Yr / Female\nSalodaya Diagnostics\nA Unit of Anshu Hospitals Limited\nCIN No. U85110DL1997PLC088209-\n~f 1\nTrUsT\ntop",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Helpline",
+          "biomarker_normalized": "Helpline",
+          "value": "1800",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Helpline: 1800 313 1515",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SUNILA ARORA /",
+          "biomarker_normalized": "SUNILA ARORA /",
+          "value": "73",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SUNILA ARORA / 73 Yr / Female",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN No. U8",
+          "biomarker_normalized": "CIN No. U8",
+          "value": "5110",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN No. U85110DL1997PLC088209-",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~f",
+          "biomarker_normalized": "~f",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~f 1",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 59,
+    "ocr_avg_confidence": 0.7981,
+    "parsed_row_count": 4
+  }
+}

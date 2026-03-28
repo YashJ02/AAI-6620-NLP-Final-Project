@@ -1,0 +1,1482 @@
+{
+  "document_id": "GUR-0425-PA-0049999_Q-KRISHNAKUMAR10413compressed_250427_1526@F.pdf_page_54",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0049999_Q-KRISHNAKUMAR10413compressed_250427_1526@F.pdf_page_54.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Property ID Na; 26, Ward No- 28, Mahavir Part,\nOpp: Metro Pillar No. 881 , Rohiak Road\n~SANAY\nBehadurgan_DIs Lhalar Harvana\n124507\nHOSPITAL\nDABA\ncom\nCIN Nj.\n15 9 9001\n1Seai\nwWldrsan ayhospltel com\nName : Mrs KrishnaKumari\nAge/ Sex\n38 Years / F\nDr, Ramesh Kumar\nOPD IPD\nIPD\nDate:\nLab Na\n06\nComplete Blood Count\nInvestigations\nResult\nUnils\nNoral Aduht Range\nHaemoglobin\n9.6\nM:S-IS\n(Cyanmei method)\nF:TLS-[6 5\nTotal Leuecsyte Count\n28,900\nIcu mm .\n4000-! [ Q00\nDLC\nPolymorphs\n94\n46\n45-75\nLymphocytes\n04\n0\n25445\nMonoeytes\n01\n%\n0-7\nEosinophils\n01\n\"o\n044\nBusophils\n00\n\"u\n0-[\nRBC\n4.52\nmillions' c\n45-6 5\nPCV\n28.2\n\"0\n3747\nMcV\n83,.7\nM\n82.92\nMCH\n28,3\nPE\n28-32\nMCHC\n34,6\ngm%\n32-37\nFlulelet Couni\n2.68\nlac / cmm\n1545\nRDW\n43,0\n39-46\nBIOCHEMISTRY\nInvestigations\nResult\nUnits\nNormal\n9 Sodium\n132,2\n135-155\n> Fotassiumn\n3,80\nmeq ]\n3.5-5.5\n8 Caleium\n8.10\nmg'dl\n8+-10 +\nEab teehnxian\nDr; VAVIN KUMAR SINHA\nInt\n(MD) PATHOLOGY\nDr.\n(Pathjl\nMBES;\n4o,\n'omall\nRef By\ngmn%/\nRange\nmey|\nSicha\nS\nNaveenke\nD\nJ5-67,\ndMC",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            79.0,
+            1571.0,
+            118.0
+          ],
+          "text": "Property ID Na; 26, Ward No- 28, Mahavir Part,",
+          "confidence": 0.3872
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1055.0,
+            120.0,
+            1493.0,
+            159.0
+          ],
+          "text": "Opp: Metro Pillar No. 881 , Rohiak Road",
+          "confidence": 0.32
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            104.0,
+            466.0,
+            236.0
+          ],
+          "text": "~SANAY",
+          "confidence": 0.203
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1057.0,
+            161.0,
+            1457.0,
+            197.0
+          ],
+          "text": "Behadurgan_DIs Lhalar Harvana",
+          "confidence": 0.3174
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1468.0,
+            162.0,
+            1558.0,
+            194.0
+          ],
+          "text": "124507",
+          "confidence": 0.608
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            208.0,
+            448.0,
+            258.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            256.0,
+            872.0,
+            286.0
+          ],
+          "text": "DABA",
+          "confidence": 0.7706
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1444.0,
+            248.0,
+            1500.0,
+            274.0
+          ],
+          "text": "com",
+          "confidence": 0.9756
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            268.0,
+            150.0,
+            294.0
+          ],
+          "text": "CIN Nj.",
+          "confidence": 0.3239
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            300.0,
+            168.0,
+            330.0
+          ],
+          "text": "15 9 9001",
+          "confidence": 0.1279
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            309.0,
+            267.0,
+            325.0
+          ],
+          "text": "1Seai",
+          "confidence": 0.0105
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            287.0,
+            1419.0,
+            323.0
+          ],
+          "text": "wWldrsan ayhospltel com",
+          "confidence": 0.3237
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            328.0,
+            716.0,
+            378.0
+          ],
+          "text": "Name : Mrs KrishnaKumari",
+          "confidence": 0.7482
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            330.0,
+            1088.0,
+            384.0
+          ],
+          "text": "Age/ Sex",
+          "confidence": 0.7107
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1121.0,
+            331.0,
+            1361.0,
+            373.0
+          ],
+          "text": "38 Years / F",
+          "confidence": 0.943
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            383.0,
+            383.0,
+            721.0,
+            427.0
+          ],
+          "text": "Dr, Ramesh Kumar",
+          "confidence": 0.699
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1115.0,
+            383.0,
+            1287.0,
+            427.0
+          ],
+          "text": "OPD IPD",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            380.0,
+            1394.0,
+            428.0
+          ],
+          "text": "IPD",
+          "confidence": 0.9398
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            217.0,
+            439.0,
+            323.0,
+            479.0
+          ],
+          "text": "Date:",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1113.0,
+            437.0,
+            1253.0,
+            479.0
+          ],
+          "text": "Lab Na",
+          "confidence": 0.6331
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1335.0,
+            437.0,
+            1393.0,
+            479.0
+          ],
+          "text": "06",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            528.0,
+            1016.0,
+            582.0
+          ],
+          "text": "Complete Blood Count",
+          "confidence": 0.9434
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            581.0,
+            444.0,
+            632.0
+          ],
+          "text": "Investigations",
+          "confidence": 0.718
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            641.0,
+            587.0,
+            753.0,
+            627.0
+          ],
+          "text": "Result",
+          "confidence": 0.6682
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            915.0,
+            587.0,
+            1009.0,
+            625.0
+          ],
+          "text": "Unils",
+          "confidence": 0.502
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            582.0,
+            1423.0,
+            634.0
+          ],
+          "text": "Noral Aduht Range",
+          "confidence": 0.4889
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            636.0,
+            405.0,
+            676.0
+          ],
+          "text": "Haemoglobin",
+          "confidence": 0.9546
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            645.0,
+            633.0,
+            715.0,
+            673.0
+          ],
+          "text": "9.6",
+          "confidence": 0.6297
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            636.0,
+            1342.0,
+            672.0
+          ],
+          "text": "M:S-IS",
+          "confidence": 0.3541
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            677.0,
+            485.0,
+            717.0
+          ],
+          "text": "(Cyanmei method)",
+          "confidence": 0.6659
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            679.0,
+            1391.0,
+            715.0
+          ],
+          "text": "F:TLS-[6 5",
+          "confidence": 0.1726
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            217.0,
+            723.0,
+            533.0,
+            766.0
+          ],
+          "text": "Total Leuecsyte Count",
+          "confidence": 0.4822
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            718.0,
+            770.0,
+            768.0
+          ],
+          "text": "28,900",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            728.0,
+            1038.0,
+            760.0
+          ],
+          "text": "Icu mm .",
+          "confidence": 0.3744
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            727.0,
+            1389.0,
+            763.0
+          ],
+          "text": "4000-! [ Q00",
+          "confidence": 0.1866
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            763.0,
+            291.0,
+            803.0
+          ],
+          "text": "DLC",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            812.0,
+            487.0,
+            855.0
+          ],
+          "text": "Polymorphs",
+          "confidence": 0.9605
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            669.0,
+            807.0,
+            728.0,
+            850.0
+          ],
+          "text": "94",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            818.0,
+            952.0,
+            850.0
+          ],
+          "text": "46",
+          "confidence": 0.1909
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            818.0,
+            1302.0,
+            850.0
+          ],
+          "text": "45-75",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            865.0,
+            506.0,
+            905.0
+          ],
+          "text": "Lymphocytes",
+          "confidence": 0.8332
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            673.0,
+            861.0,
+            729.0,
+            899.0
+          ],
+          "text": "04",
+          "confidence": 0.5992
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            863.0,
+            951.0,
+            903.0
+          ],
+          "text": "0",
+          "confidence": 0.4286
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            867.0,
+            1295.0,
+            903.0
+          ],
+          "text": "25445",
+          "confidence": 0.476
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            914.0,
+            473.0,
+            955.0
+          ],
+          "text": "Monoeytes",
+          "confidence": 0.4548
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            673.0,
+            909.0,
+            721.0,
+            949.0
+          ],
+          "text": "01",
+          "confidence": 0.9387
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            913.0,
+            951.0,
+            953.0
+          ],
+          "text": "%",
+          "confidence": 0.6053
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1215.0,
+            917.0,
+            1269.0,
+            953.0
+          ],
+          "text": "0-7",
+          "confidence": 0.9619
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            313.0,
+            961.0,
+            484.0,
+            1009.0
+          ],
+          "text": "Eosinophils",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            961.0,
+            719.0,
+            1001.0
+          ],
+          "text": "01",
+          "confidence": 0.7735
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            965.0,
+            953.0,
+            1003.0
+          ],
+          "text": "\"o",
+          "confidence": 0.795
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1215.0,
+            967.0,
+            1269.0,
+            1003.0
+          ],
+          "text": "044",
+          "confidence": 0.5058
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            313.0,
+            1017.0,
+            457.0,
+            1057.0
+          ],
+          "text": "Busophils",
+          "confidence": 0.831
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            1011.0,
+            727.0,
+            1051.0
+          ],
+          "text": "00",
+          "confidence": 0.4291
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            1017.0,
+            951.0,
+            1053.0
+          ],
+          "text": "\"u",
+          "confidence": 0.5351
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            1019.0,
+            1267.0,
+            1055.0
+          ],
+          "text": "0-[",
+          "confidence": 0.6228
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1063.0,
+            291.0,
+            1099.0
+          ],
+          "text": "RBC",
+          "confidence": 0.931
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1061.0,
+            731.0,
+            1103.0
+          ],
+          "text": "4.52",
+          "confidence": 0.9856
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            1065.0,
+            1117.0,
+            1105.0
+          ],
+          "text": "millions' c",
+          "confidence": 0.8168
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            1067.0,
+            1319.0,
+            1105.0
+          ],
+          "text": "45-6 5",
+          "confidence": 0.7001
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1115.0,
+            289.0,
+            1151.0
+          ],
+          "text": "PCV",
+          "confidence": 0.5003
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1111.0,
+            731.0,
+            1153.0
+          ],
+          "text": "28.2",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            1118.0,
+            948.0,
+            1152.0
+          ],
+          "text": "\"0",
+          "confidence": 0.3692
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            1119.0,
+            1303.0,
+            1155.0
+          ],
+          "text": "3747",
+          "confidence": 0.5422
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            1165.0,
+            299.0,
+            1201.0
+          ],
+          "text": "McV",
+          "confidence": 0.6652
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            645.0,
+            1161.0,
+            731.0,
+            1203.0
+          ],
+          "text": "83,.7",
+          "confidence": 0.3791
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            917.0,
+            1171.0,
+            937.0,
+            1197.0
+          ],
+          "text": "M",
+          "confidence": 0.5161
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            1169.0,
+            1301.0,
+            1205.0
+          ],
+          "text": "82.92",
+          "confidence": 0.4396
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            1218.0,
+            298.0,
+            1250.0
+          ],
+          "text": "MCH",
+          "confidence": 0.9555
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1215.0,
+            731.0,
+            1255.0
+          ],
+          "text": "28,3",
+          "confidence": 0.5474
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            912.0,
+            1228.0,
+            956.0,
+            1260.0
+          ],
+          "text": "PE",
+          "confidence": 0.7446
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            1221.0,
+            1301.0,
+            1257.0
+          ],
+          "text": "28-32",
+          "confidence": 0.7321
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1263.0,
+            321.0,
+            1303.0
+          ],
+          "text": "MCHC",
+          "confidence": 0.9314
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            645.0,
+            1263.0,
+            731.0,
+            1305.0
+          ],
+          "text": "34,6",
+          "confidence": 0.9484
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            907.0,
+            1265.0,
+            995.0,
+            1313.0
+          ],
+          "text": "gm%",
+          "confidence": 0.7118
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            1271.0,
+            1301.0,
+            1309.0
+          ],
+          "text": "32-37",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1317.0,
+            413.0,
+            1355.0
+          ],
+          "text": "Flulelet Couni",
+          "confidence": 0.3025
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            641.0,
+            1315.0,
+            727.0,
+            1357.0
+          ],
+          "text": "2.68",
+          "confidence": 0.8094
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            909.0,
+            1321.0,
+            1051.0,
+            1360.0
+          ],
+          "text": "lac / cmm",
+          "confidence": 0.7611
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            1323.0,
+            1319.0,
+            1359.0
+          ],
+          "text": "1545",
+          "confidence": 0.7471
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1369.0,
+            317.0,
+            1405.0
+          ],
+          "text": "RDW",
+          "confidence": 0.858
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            641.0,
+            1365.0,
+            729.0,
+            1407.0
+          ],
+          "text": "43,0",
+          "confidence": 0.6312
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            1373.0,
+            1303.0,
+            1409.0
+          ],
+          "text": "39-46",
+          "confidence": 0.5243
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            609.0,
+            1410.0,
+            890.0,
+            1460.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.6932
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1462.0,
+            482.0,
+            1514.0
+          ],
+          "text": "Investigations",
+          "confidence": 0.9287
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            610.0,
+            1464.0,
+            734.0,
+            1508.0
+          ],
+          "text": "Result",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            811.0,
+            1465.0,
+            919.0,
+            1509.0
+          ],
+          "text": "Units",
+          "confidence": 0.7885
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1110.0,
+            1464.0,
+            1254.0,
+            1512.0
+          ],
+          "text": "Normal",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1517.0,
+            361.0,
+            1553.0
+          ],
+          "text": "9 Sodium",
+          "confidence": 0.4679
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            611.0,
+            1517.0,
+            705.0,
+            1555.0
+          ],
+          "text": "132,2",
+          "confidence": 0.3196
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            1522.0,
+            1232.0,
+            1558.0
+          ],
+          "text": "135-155",
+          "confidence": 0.4047
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1564.0,
+            393.0,
+            1603.0
+          ],
+          "text": "> Fotassiumn",
+          "confidence": 0.2465
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            609.0,
+            1563.0,
+            691.0,
+            1603.0
+          ],
+          "text": "3,80",
+          "confidence": 0.5967
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            811.0,
+            1567.0,
+            897.0,
+            1607.0
+          ],
+          "text": "meq ]",
+          "confidence": 0.5222
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1569.0,
+            1216.0,
+            1605.0
+          ],
+          "text": "3.5-5.5",
+          "confidence": 0.7517
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            1615.0,
+            369.0,
+            1651.0
+          ],
+          "text": "8 Caleium",
+          "confidence": 0.5843
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            613.0,
+            1611.0,
+            691.0,
+            1653.0
+          ],
+          "text": "8.10",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            1619.0,
+            901.0,
+            1659.0
+          ],
+          "text": "mg'dl",
+          "confidence": 0.2596
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            1109.0,
+            1619.0,
+            1233.0,
+            1655.0
+          ],
+          "text": "8+-10 +",
+          "confidence": 0.3557
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1889.0,
+            415.0,
+            1925.0
+          ],
+          "text": "Eab teehnxian",
+          "confidence": 0.1331
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            991.0,
+            1893.0,
+            1403.0,
+            1931.0
+          ],
+          "text": "Dr; VAVIN KUMAR SINHA",
+          "confidence": 0.4371
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            1915.0,
+            797.0,
+            1955.0
+          ],
+          "text": "Int",
+          "confidence": 0.0129
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1107.0,
+            1931.0,
+            1409.0,
+            1971.0
+          ],
+          "text": "(MD) PATHOLOGY",
+          "confidence": 0.9602
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            531.0,
+            1941.0,
+            581.0,
+            1985.0
+          ],
+          "text": "Dr.",
+          "confidence": 0.9275
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            795.0,
+            1940.0,
+            898.0,
+            1995.0
+          ],
+          "text": "(Pathjl",
+          "confidence": 0.3814
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            1957.0,
+            750.0,
+            2018.0
+          ],
+          "text": "MBES;",
+          "confidence": 0.6694
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            743.0,
+            2003.0,
+            791.0,
+            2041.0
+          ],
+          "text": "4o,",
+          "confidence": 0.1076
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1377.4100031799906,
+            243.67494792461704,
+            1451.5899968200094,
+            278.3250520753829
+          ],
+          "text": "'omall",
+          "confidence": 0.1074
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            209.15595183776483,
+            372.0934345469491,
+            349.8440481622352,
+            439.9065654530509
+          ],
+          "text": "Ref By",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            911.4615384615385,
+            635.0979318625381,
+            995.5384615384615,
+            678.9020681374619
+          ],
+          "text": "gmn%/",
+          "confidence": 0.1929
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            1246.1907140819703,
+            1459.1003079700931,
+            1377.8092859180297,
+            1524.8996920299069
+          ],
+          "text": "Range",
+          "confidence": 0.9559
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            809.2802656784306,
+            1519.0154442465728,
+            898.7197343215694,
+            1566.9845557534272
+          ],
+          "text": "mey|",
+          "confidence": 0.6277
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            785.4188611699158,
+            1894.5992725688193,
+            891.5811388300842,
+            1951.4007274311807
+          ],
+          "text": "Sicha",
+          "confidence": 0.3961
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1378.1600296799108,
+            1852.8680146977772,
+            1718.8399703200892,
+            2209.131985302223
+          ],
+          "text": "S",
+          "confidence": 0.4114
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            575.4203985176459,
+            1913.4932231880266,
+            730.5796014823541,
+            1981.5067768119734
+          ],
+          "text": "Naveenke",
+          "confidence": 0.0535
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            741.5144372945836,
+            1954.7539943266509,
+            807.4855627054164,
+            1997.2460056733491
+          ],
+          "text": "D",
+          "confidence": 0.4726
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            788.2051046034557,
+            1982.7820560131956,
+            899.7948953965443,
+            2036.2179439868044
+          ],
+          "text": "J5-67,",
+          "confidence": 0.2222
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            664.3183180150093,
+            2000.2400649682809,
+            748.6816819849907,
+            2052.759935031719
+          ],
+          "text": "dMC",
+          "confidence": 0.1833
+        }
+      ]
+    }
+  ],
+  "full_text": "Property ID Na; 26, Ward No- 28, Mahavir Part,\nOpp: Metro Pillar No. 881 , Rohiak Road\n~SANAY\nBehadurgan_DIs Lhalar Harvana\n124507\nHOSPITAL\nDABA\ncom\nCIN Nj.\n15 9 9001\n1Seai\nwWldrsan ayhospltel com\nName : Mrs KrishnaKumari\nAge/ Sex\n38 Years / F\nDr, Ramesh Kumar\nOPD IPD\nIPD\nDate:\nLab Na\n06\nComplete Blood Count\nInvestigations\nResult\nUnils\nNoral Aduht Range\nHaemoglobin\n9.6\nM:S-IS\n(Cyanmei method)\nF:TLS-[6 5\nTotal Leuecsyte Count\n28,900\nIcu mm .\n4000-! [ Q00\nDLC\nPolymorphs\n94\n46\n45-75\nLymphocytes\n04\n0\n25445\nMonoeytes\n01\n%\n0-7\nEosinophils\n01\n\"o\n044\nBusophils\n00\n\"u\n0-[\nRBC\n4.52\nmillions' c\n45-6 5\nPCV\n28.2\n\"0\n3747\nMcV\n83,.7\nM\n82.92\nMCH\n28,3\nPE\n28-32\nMCHC\n34,6\ngm%\n32-37\nFlulelet Couni\n2.68\nlac / cmm\n1545\nRDW\n43,0\n39-46\nBIOCHEMISTRY\nInvestigations\nResult\nUnits\nNormal\n9 Sodium\n132,2\n135-155\n> Fotassiumn\n3,80\nmeq ]\n3.5-5.5\n8 Caleium\n8.10\nmg'dl\n8+-10 +\nEab teehnxian\nDr; VAVIN KUMAR SINHA\nInt\n(MD) PATHOLOGY\nDr.\n(Pathjl\nMBES;\n4o,\n'omall\nRef By\ngmn%/\nRange\nmey|\nSicha\nS\nNaveenke\nD\nJ5-67,\ndMC",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Property ID Na;",
+          "biomarker_normalized": "Property ID Na;",
+          "value": "26",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Property ID Na; 26, Ward No- 28, Mahavir Part,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Opp: Metro Pillar No.",
+          "biomarker_normalized": "Opp: Metro Pillar No.",
+          "value": "881",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Opp: Metro Pillar No. 881 , Rohiak Road",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "F:TLS-[",
+          "biomarker_normalized": "F:TLS-[",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "F:TLS-[6 5",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "J5",
+          "biomarker_normalized": "J5",
+          "value": "-67",
+          "unit": "",
+          "reference_range": "5-67",
+          "source_line": "J5-67,",
+          "confidence": 0.65
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 118,
+    "ocr_avg_confidence": 0.6197,
+    "parsed_row_count": 4
+  }
+}

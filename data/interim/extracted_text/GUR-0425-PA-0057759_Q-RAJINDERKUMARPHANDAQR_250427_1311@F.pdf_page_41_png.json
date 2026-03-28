@@ -1,0 +1,1461 @@
+{
+  "document_id": "GUR-0425-PA-0057759_Q-RAJINDERKUMARPHANDAQR_250427_1311@F.pdf_page_41",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057759_Q-RAJINDERKUMARPHANDAQR_250427_1311@F.pdf_page_41.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Super Speclality Hospital\nAakash - tal\nVf\nLABORATORY INVESTIGATION REPORT\nPatient]\nUHId\n4433 32504:\n370],2025\nEpisode\nIP\nTpNo\n127101\nRel, Doctor\nDr. Sustro Unt{Di, Sharad\nDrFkan; }\nFacility\nAush Heall I \u20ac Dc |\nBiochemistry\nResul\nUri:\nRef Renge\nSampke Ye\nCallc<'iur Dala\n26;33/25 01;51\n43;\n76/037J07' 07 15\nRool Onic\n750r;\n877\nLiver Function Test ( LFT )\nTotal Jubin\n2.41\n14,\nNsxdi\n0.17\nMc - So1n Soretrins Pad Re\nDircct JIircbin\n108\n(H;\nrgka\n0\n6J\nJec;\n5c3m8tsAnny\nIndirect BTnbin\n13\nH;\nFifem\n07.\n\"tlw\nOakauoit\nAlaIre Fhcsctatase\n431\n(H;\n40 -.Z\n\"n\nScnon #Ik Catrina(6{7iP ,\nGamma :7\n3\nW:\n6.01\n\"'soan nnn @lfnt\nNbu71i t\n2,92 , ()\ngdl\n3,97.\n\"\n978770n2\nGiabllin\n2.49\n%\n3 -- 5\nA\n0o3v\n46 Rajic\n0.84\nL\n=\n'x\nSa\nTotzl Prcle r\n644\n9i4\n64-83\nMthop\njeninty Equrrt\" Surlencai Tcr\"\nSGPT ALT\n23\nJI\n1\n\"44\n7mbu{9#\nSGOT}AST\n40\n{0;\nVia\n<35\nF\n#ueheU6eo\nBWru# Torj'\nExpectav Yawues\nCord Blc\n~2 mg/ji\nNevxrns Prem liure\n012,\n2080#9is\nRuav\n6.0\n{2.8 mgldl\n3-5\n10.0 . }4.8 mg/al\nPrine Duletln:\n2vjajs\nMc :Wob\nDels | i\nNare\ndov",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            181.0,
+            545.0,
+            257.0
+          ],
+          "text": "Super Speclality Hospital",
+          "confidence": 0.4304
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            180.0,
+            1120.0,
+            228.0
+          ],
+          "text": "Aakash - tal",
+          "confidence": 0.3423
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            144.0,
+            1518.0,
+            294.0
+          ],
+          "text": "Vf",
+          "confidence": 0.6297
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            327.0,
+            1119.0,
+            367.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            381.0,
+            290.0,
+            413.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.2473
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            430.0,
+            270.0,
+            454.0
+          ],
+          "text": "UHId",
+          "confidence": 0.9002
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            434.0,
+            564.0,
+            462.0
+          ],
+          "text": "4433 32504:",
+          "confidence": 0.0513
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1143.0,
+            439.0,
+            1262.0,
+            469.0
+          ],
+          "text": "370],2025",
+          "confidence": 0.1753
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            460.0,
+            300.0,
+            488.0
+          ],
+          "text": "Episode",
+          "confidence": 0.9867
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            464.0,
+            448.0,
+            488.0
+          ],
+          "text": "IP",
+          "confidence": 0.5339
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            476.0,
+            1054.0,
+            500.0
+          ],
+          "text": "TpNo",
+          "confidence": 0.3715
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            476.0,
+            1212.0,
+            502.0
+          ],
+          "text": "127101",
+          "confidence": 0.618
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            486.0,
+            334.0,
+            514.0
+          ],
+          "text": "Rel, Doctor",
+          "confidence": 0.917
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            420.0,
+            489.0,
+            682.0,
+            518.0
+          ],
+          "text": "Dr. Sustro Unt{Di, Sharad",
+          "confidence": 0.1687
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            494.0,
+            792.0,
+            522.0
+          ],
+          "text": "DrFkan; }",
+          "confidence": 0.3954
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            506.0,
+            1067.0,
+            538.0
+          ],
+          "text": "Facility",
+          "confidence": 0.7216
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1142.0,
+            509.0,
+            1380.0,
+            536.0
+          ],
+          "text": "Aush Heall I \u20ac Dc |",
+          "confidence": 0.0959
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            576.0,
+            933.0,
+            617.0
+          ],
+          "text": "Biochemistry",
+          "confidence": 0.7683
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            588.0,
+            632.0,
+            656.0,
+            660.0
+          ],
+          "text": "Resul",
+          "confidence": 0.536
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1034.0,
+            640.0,
+            1082.0,
+            666.0
+          ],
+          "text": "Uri:",
+          "confidence": 0.555
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1188.0,
+            642.0,
+            1296.0,
+            674.0
+          ],
+          "text": "Ref Renge",
+          "confidence": 0.5809
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            679.0,
+            272.0,
+            707.0
+          ],
+          "text": "Sampke Ye",
+          "confidence": 0.1203
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            486.0,
+            684.0,
+            606.0,
+            708.0
+          ],
+          "text": "Callc<'iur Dala",
+          "confidence": 0.1455
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            638.0,
+            686.0,
+            768.0,
+            713.0
+          ],
+          "text": "26;33/25 01;51",
+          "confidence": 0.2193
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            690.0,
+            894.0,
+            714.0
+          ],
+          "text": "43;",
+          "confidence": 0.0781
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            692.0,
+            1060.0,
+            716.0
+          ],
+          "text": "76/037J07' 07 15",
+          "confidence": 0.2034
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            696.0,
+            1246.0,
+            720.0
+          ],
+          "text": "Rool Onic",
+          "confidence": 0.0474
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1273.0,
+            699.0,
+            1349.0,
+            719.0
+          ],
+          "text": "750r;",
+          "confidence": 0.0959
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1353.0,
+            701.0,
+            1401.0,
+            721.0
+          ],
+          "text": "877",
+          "confidence": 0.0472
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            725.0,
+            520.0,
+            765.0
+          ],
+          "text": "Liver Function Test ( LFT )",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            761.0,
+            310.0,
+            789.0
+          ],
+          "text": "Total Jubin",
+          "confidence": 0.4216
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            770.0,
+            612.0,
+            794.0
+          ],
+          "text": "2.41",
+          "confidence": 0.3798
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            634.0,
+            770.0,
+            672.0,
+            796.0
+          ],
+          "text": "14,",
+          "confidence": 0.4152
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            780.0,
+            1104.0,
+            806.0
+          ],
+          "text": "Nsxdi",
+          "confidence": 0.2471
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            778.0,
+            1262.0,
+            804.0
+          ],
+          "text": "0.17",
+          "confidence": 0.1303
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            804.0,
+            514.0,
+            830.0
+          ],
+          "text": "Mc - So1n Soretrins Pad Re",
+          "confidence": 0.0001
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            837.0,
+            316.0,
+            865.0
+          ],
+          "text": "Dircct JIircbin",
+          "confidence": 0.1078
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            562.0,
+            846.0,
+            612.0,
+            870.0
+          ],
+          "text": "108",
+          "confidence": 0.4769
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            848.0,
+            670.0,
+            872.0
+          ],
+          "text": "(H;",
+          "confidence": 0.4069
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            856.0,
+            1102.0,
+            882.0
+          ],
+          "text": "rgka",
+          "confidence": 0.1301
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            855.0,
+            1209.0,
+            877.0
+          ],
+          "text": "0",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            854.0,
+            1260.0,
+            880.0
+          ],
+          "text": "6J",
+          "confidence": 0.2147
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            883.0,
+            243.0,
+            903.0
+          ],
+          "text": "Jec;",
+          "confidence": 0.0065
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            880.0,
+            412.0,
+            907.0
+          ],
+          "text": "5c3m8tsAnny",
+          "confidence": 0.005
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            171.0,
+            912.0,
+            332.0,
+            942.0
+          ],
+          "text": "Indirect BTnbin",
+          "confidence": 0.2369
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            920.0,
+            610.0,
+            946.0
+          ],
+          "text": "13",
+          "confidence": 0.9353
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            922.0,
+            668.0,
+            948.0
+          ],
+          "text": "H;",
+          "confidence": 0.4063
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1036.0,
+            932.0,
+            1100.0,
+            958.0
+          ],
+          "text": "Fifem",
+          "confidence": 0.076
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            930.0,
+            1278.0,
+            956.0
+          ],
+          "text": "07.",
+          "confidence": 0.7282
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            955.0,
+            242.0,
+            981.0
+          ],
+          "text": "\"tlw",
+          "confidence": 0.0315
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            249.0,
+            959.0,
+            333.0,
+            979.0
+          ],
+          "text": "Oakauoit",
+          "confidence": 0.0197
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            989.0,
+            372.0,
+            1020.0
+          ],
+          "text": "AlaIre Fhcsctatase",
+          "confidence": 0.1241
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            998.0,
+            602.0,
+            1022.0
+          ],
+          "text": "431",
+          "confidence": 0.2656
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            998.0,
+            662.0,
+            1024.0
+          ],
+          "text": "(H;",
+          "confidence": 0.2232
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            1006.0,
+            1274.0,
+            1030.0
+          ],
+          "text": "40 -.Z",
+          "confidence": 0.1693
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            1031.0,
+            240.0,
+            1056.0
+          ],
+          "text": "\"n",
+          "confidence": 0.0272
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            246.0,
+            1032.0,
+            478.0,
+            1060.0
+          ],
+          "text": "Scnon #Ik Catrina(6{7iP ,",
+          "confidence": 0.003
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            1065.0,
+            280.0,
+            1093.0
+          ],
+          "text": "Gamma :7",
+          "confidence": 0.5554
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            561.0,
+            1077.0,
+            583.0,
+            1095.0
+          ],
+          "text": "3",
+          "confidence": 0.3415
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1034.0,
+            1084.0,
+            1074.0,
+            1108.0
+          ],
+          "text": "W:",
+          "confidence": 0.2018
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1188.0,
+            1082.0,
+            1248.0,
+            1106.0
+          ],
+          "text": "6.01",
+          "confidence": 0.2019
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1110.0,
+            516.0,
+            1137.0
+          ],
+          "text": "\"'soan nnn @lfnt",
+          "confidence": 0.0012
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1142.0,
+            250.0,
+            1168.0
+          ],
+          "text": "Nbu71i t",
+          "confidence": 0.2264
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            1150.0,
+            662.0,
+            1176.0
+          ],
+          "text": "2,92 , ()",
+          "confidence": 0.3095
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            1160.0,
+            1076.0,
+            1188.0
+          ],
+          "text": "gdl",
+          "confidence": 0.1354
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            1158.0,
+            1294.0,
+            1184.0
+          ],
+          "text": "3,97.",
+          "confidence": 0.2137
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            1182.0,
+            238.0,
+            1208.0
+          ],
+          "text": "\"",
+          "confidence": 0.7705
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            1184.0,
+            468.0,
+            1211.0
+          ],
+          "text": "978770n2",
+          "confidence": 0.0186
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1218.0,
+            250.0,
+            1244.0
+          ],
+          "text": "Giabllin",
+          "confidence": 0.3517
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1224.0,
+            600.0,
+            1250.0
+          ],
+          "text": "2.49",
+          "confidence": 0.1506
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            1236.0,
+            1076.0,
+            1262.0
+          ],
+          "text": "%",
+          "confidence": 0.0688
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1181.0,
+            1233.0,
+            1271.0,
+            1259.0
+          ],
+          "text": "3 -- 5",
+          "confidence": 0.1733
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            171.0,
+            1257.0,
+            238.0,
+            1283.0
+          ],
+          "text": "A",
+          "confidence": 0.0349
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            245.0,
+            1261.0,
+            327.0,
+            1281.0
+          ],
+          "text": "0o3v",
+          "confidence": 0.1004
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1292.0,
+            260.0,
+            1320.0
+          ],
+          "text": "46 Rajic",
+          "confidence": 0.0749
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1300.0,
+            602.0,
+            1324.0
+          ],
+          "text": "0.84",
+          "confidence": 0.509
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            1302.0,
+            658.0,
+            1326.0
+          ],
+          "text": "L",
+          "confidence": 0.4095
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            1310.0,
+            1234.0,
+            1334.0
+          ],
+          "text": "=",
+          "confidence": 0.7236
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            171.0,
+            1337.0,
+            235.0,
+            1357.0
+          ],
+          "text": "'x",
+          "confidence": 0.0355
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            243.0,
+            1337.0,
+            325.0,
+            1357.0
+          ],
+          "text": "Sa",
+          "confidence": 0.1217
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            1369.0,
+            289.0,
+            1399.0
+          ],
+          "text": "Totzl Prcle r",
+          "confidence": 0.3228
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            1376.0,
+            596.0,
+            1400.0
+          ],
+          "text": "644",
+          "confidence": 0.2459
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            1386.0,
+            1072.0,
+            1414.0
+          ],
+          "text": "9i4",
+          "confidence": 0.106
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1177.0,
+            1383.0,
+            1269.0,
+            1409.0
+          ],
+          "text": "64-83",
+          "confidence": 0.5547
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            171.0,
+            1413.0,
+            233.0,
+            1433.0
+          ],
+          "text": "Mthop",
+          "confidence": 0.0541
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            1412.0,
+            506.0,
+            1441.0
+          ],
+          "text": "jeninty Equrrt\" Surlencai Tcr\"",
+          "confidence": 0.0003
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            1444.0,
+            262.0,
+            1470.0
+          ],
+          "text": "SGPT ALT",
+          "confidence": 0.6023
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1455.0,
+            593.0,
+            1475.0
+          ],
+          "text": "23",
+          "confidence": 0.7929
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1029.0,
+            1465.0,
+            1067.0,
+            1485.0
+          ],
+          "text": "JI",
+          "confidence": 0.2081
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1462.0,
+            1230.0,
+            1486.0
+          ],
+          "text": "1",
+          "confidence": 0.8052
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1486.0,
+            232.0,
+            1510.0
+          ],
+          "text": "\"44",
+          "confidence": 0.5981
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            1488.0,
+            498.0,
+            1512.0
+          ],
+          "text": "7mbu{9#",
+          "confidence": 0.0126
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1518.0,
+            266.0,
+            1548.0
+          ],
+          "text": "SGOT}AST",
+          "confidence": 0.5531
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            549.0,
+            1529.0,
+            579.0,
+            1549.0
+          ],
+          "text": "40",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            1528.0,
+            638.0,
+            1554.0
+          ],
+          "text": "{0;",
+          "confidence": 0.3291
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1024.0,
+            1538.0,
+            1066.0,
+            1562.0
+          ],
+          "text": "Via",
+          "confidence": 0.0419
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            1536.0,
+            1230.0,
+            1562.0
+          ],
+          "text": "<35",
+          "confidence": 0.9352
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            1563.0,
+            229.0,
+            1583.0
+          ],
+          "text": "F",
+          "confidence": 0.0113
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            1562.0,
+            498.0,
+            1588.0
+          ],
+          "text": "#ueheU6eo",
+          "confidence": 0.0006
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            1610.0,
+            298.0,
+            1636.0
+          ],
+          "text": "BWru# Torj'",
+          "confidence": 0.1077
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            1640.0,
+            320.0,
+            1668.0
+          ],
+          "text": "Expectav Yawues",
+          "confidence": 0.0928
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1700.0,
+            270.0,
+            1726.0
+          ],
+          "text": "Cord Blc",
+          "confidence": 0.3165
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            1704.0,
+            418.0,
+            1730.0
+          ],
+          "text": "~2 mg/ji",
+          "confidence": 0.1232
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            1731.0,
+            368.0,
+            1760.0
+          ],
+          "text": "Nevxrns Prem liure",
+          "confidence": 0.0766
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1759.0,
+            231.0,
+            1790.0
+          ],
+          "text": "012,",
+          "confidence": 0.1025
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            1764.0,
+            485.0,
+            1796.0
+          ],
+          "text": "2080#9is",
+          "confidence": 0.0497
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1790.0,
+            230.0,
+            1820.0
+          ],
+          "text": "Ruav",
+          "confidence": 0.0809
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            1796.0,
+            384.0,
+            1820.0
+          ],
+          "text": "6.0",
+          "confidence": 0.8216
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            1796.0,
+            508.0,
+            1824.0
+          ],
+          "text": "{2.8 mgldl",
+          "confidence": 0.1881
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1824.0,
+            198.0,
+            1848.0
+          ],
+          "text": "3-5",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            344.0,
+            1827.0,
+            520.0,
+            1857.0
+          ],
+          "text": "10.0 . }4.8 mg/al",
+          "confidence": 0.0857
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            1910.0,
+            856.0,
+            1934.0
+          ],
+          "text": "Prine Duletln:",
+          "confidence": 0.2005
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1912.0,
+            994.0,
+            1936.0
+          ],
+          "text": "2vjajs",
+          "confidence": 0.0268
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1365.0,
+            2021.0,
+            1431.0,
+            2037.0
+          ],
+          "text": "Mc :Wob",
+          "confidence": 0.0723
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            1394.0,
+            2058.0,
+            1484.0,
+            2076.0
+          ],
+          "text": "Dels | i",
+          "confidence": 0.0995
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            182.0841236778668,
+            623.1448741467184,
+            249.9158763221332,
+            659.8551258532816
+          ],
+          "text": "Nare",
+          "confidence": 0.3783
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            191.27806818039866,
+            1821.1867537178289,
+            237.72193181960134,
+            1853.8132462821711
+          ],
+          "text": "dov",
+          "confidence": 0.5446
+        }
+      ]
+    }
+  ],
+  "full_text": "Super Speclality Hospital\nAakash - tal\nVf\nLABORATORY INVESTIGATION REPORT\nPatient]\nUHId\n4433 32504:\n370],2025\nEpisode\nIP\nTpNo\n127101\nRel, Doctor\nDr. Sustro Unt{Di, Sharad\nDrFkan; }\nFacility\nAush Heall I \u20ac Dc |\nBiochemistry\nResul\nUri:\nRef Renge\nSampke Ye\nCallc<'iur Dala\n26;33/25 01;51\n43;\n76/037J07' 07 15\nRool Onic\n750r;\n877\nLiver Function Test ( LFT )\nTotal Jubin\n2.41\n14,\nNsxdi\n0.17\nMc - So1n Soretrins Pad Re\nDircct JIircbin\n108\n(H;\nrgka\n0\n6J\nJec;\n5c3m8tsAnny\nIndirect BTnbin\n13\nH;\nFifem\n07.\n\"tlw\nOakauoit\nAlaIre Fhcsctatase\n431\n(H;\n40 -.Z\n\"n\nScnon #Ik Catrina(6{7iP ,\nGamma :7\n3\nW:\n6.01\n\"'soan nnn @lfnt\nNbu71i t\n2,92 , ()\ngdl\n3,97.\n\"\n978770n2\nGiabllin\n2.49\n%\n3 -- 5\nA\n0o3v\n46 Rajic\n0.84\nL\n=\n'x\nSa\nTotzl Prcle r\n644\n9i4\n64-83\nMthop\njeninty Equrrt\" Surlencai Tcr\"\nSGPT ALT\n23\nJI\n1\n\"44\n7mbu{9#\nSGOT}AST\n40\n{0;\nVia\n<35\nF\n#ueheU6eo\nBWru# Torj'\nExpectav Yawues\nCord Blc\n~2 mg/ji\nNevxrns Prem liure\n012,\n2080#9is\nRuav\n6.0\n{2.8 mgldl\n3-5\n10.0 . }4.8 mg/al\nPrine Duletln:\n2vjajs\nMc :Wob\nDels | i\nNare\ndov",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Scnon #Ik Catrina(",
+          "biomarker_normalized": "Scnon #Ik Catrina(",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Scnon #Ik Catrina(6{7iP ,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Gamma",
+          "biomarker_normalized": "Gamma",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Gamma :7",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Nbu7",
+          "biomarker_normalized": "Nbu7",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Nbu71i t",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 117,
+    "ocr_avg_confidence": 0.3198,
+    "parsed_row_count": 3
+  }
+}

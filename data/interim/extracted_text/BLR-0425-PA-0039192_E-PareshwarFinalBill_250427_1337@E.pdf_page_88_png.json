@@ -1,0 +1,1065 @@
+{
+  "document_id": "BLR-0425-PA-0039192_E-PareshwarFinalBill_250427_1337@E.pdf_page_88",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0039192_E-PareshwarFinalBill_250427_1337@E.pdf_page_88.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Iso\n9001-2008\nDiagnostic Point Pathology Labs\nEQUIPPED With COMPUterIsed AUTO CHEMISTRY BLOOD GAS & HAEMATOLOGY ANALYSERS\n101,102,107, 108, 109, Ist Floor, Agarwal Tower; Pkt: 0 & P Mkt. Dilshad Garden; Delhi-95 Ph:L\nSARVODAYA HOSPITAL\nDr: (Capt) Atul Kapila (Retd:) MD Path \"\nKJ7 , Kavi Nagar,Ghaziabad (U.P.\nNo. MCI 3456\nPatient\nReferred\nVERMA\nLab Serial No: 07\nReceiving]\n6.00.30AM\nWard No\nSP - 25\nReporting Date\n8.29.07AM\nCR\nUHD No\n0223\n391503\nDate TAT\n2 Hours 29 Minute\nInvestiqation\nObserved Value\nUnit\nBiological Ref Interval\nHEMATOLOGY\nPT\nPROTHROMBIN TIME\nNORMAL CONTROL VALUE\n13.0\nsecond(s)\nPATIENT VALUE\n17.5\nsecond(s)\nInternational Normalized Ratio\n1.37\nSpecimen\nPT PLASMA\nComment\n1. INR is the parameter of choice in monitoring adequacy of oral anticoagulant therapy: Appropriate therapeutic range\nvaries with the disease and treatment intensity\n2, Prolonged INR suggests potential bleeding disorder\nbleeding complications\n3. Results should be clinically correlated\n4\nTest conducted on Citrated plasma\nRecommendedTherapeutic range for Oral Anticoagulant therapy\nINR 2.0-3.0\nTreatment of Venous thrombosis & Pulmonary embolism:\nProphylaxis of Venous thrombosis (High risk surgery):\nPrevention of systemic embolism in tissue heart valves,\nAMI, Valvular heart disease & Atrial fibrillation:\nBileaflet mechanical valve in aortic position\nINR 2.5-3.5:\nMechanical prosthetic valves\nSystemic recurrent emboli\nCommentsProthrombin time measures the extrinsic coagulation pathway which consists of activated Factor VII (VIla),\nTissue factor and Proteins of the common pathway (Factors X, V, Il & Fibrinogen): This assay is used to control long\nterm oral anticoagulant therapy, evaluation of liver function & to evaluate coagulation disorders specially factors\ninvolved in the extrinsic pathway like Factors V,\nVII, X, Prothrombin & Fibrinogen.\n**\nEND OF REPORT\n**\nPage 1 of 1\n044\nFACILITIES\nFOR HORMONES ASSAYS,FNAC , HISTOPATHOLOGY, BONE MARROW ASPIRATION\nBIOPSY WITH MICRO PHOTOGRAPHS:\nNOTE\nABOVE MENTIONED FINDINGS ARE A PROFESSIONAL OPINION AND NOT A FINAL DIAGNOSIS, ALL LABORATORY TESTS & OTHER\nINVESTIGATION RESULTS ARE TO BE CORELATED CLINIC-PATHOLOGICALLY, DISCREPANCIES, IF ANY, NECESSITATE REVIEWIREPEAT OF THE TESTS\nNOT VAILD FOR MFDICO LEGAL PURPOSE\nCINICALCORELATONIS MANDATORY\nRegn\nGl #8,'3\nJeeu",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            42.0,
+            1274.0,
+            74.0
+          ],
+          "text": "Iso",
+          "confidence": 0.2581
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1309.0,
+            39.0,
+            1549.0,
+            71.0
+          ],
+          "text": "9001-2008",
+          "confidence": 0.7185
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            49.0,
+            1559.0,
+            181.0
+          ],
+          "text": "Diagnostic Point Pathology Labs",
+          "confidence": 0.7379
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            160.0,
+            1551.0,
+            205.0
+          ],
+          "text": "EQUIPPED With COMPUterIsed AUTO CHEMISTRY BLOOD GAS & HAEMATOLOGY ANALYSERS",
+          "confidence": 0.3439
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            197.0,
+            1283.0,
+            239.0
+          ],
+          "text": "101,102,107, 108, 109, Ist Floor, Agarwal Tower; Pkt: 0 & P Mkt. Dilshad Garden; Delhi-95 Ph:L",
+          "confidence": 0.39
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            251.0,
+            525.0,
+            295.0
+          ],
+          "text": "SARVODAYA HOSPITAL",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            248.0,
+            1018.0,
+            296.0
+          ],
+          "text": "Dr: (Capt) Atul Kapila (Retd:) MD Path \"",
+          "confidence": 0.2171
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            296.0,
+            429.0,
+            334.0
+          ],
+          "text": "KJ7 , Kavi Nagar,Ghaziabad (U.P.",
+          "confidence": 0.3032
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            288.0,
+            908.0,
+            318.0
+          ],
+          "text": "No. MCI 3456",
+          "confidence": 0.9164
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            462.0,
+            234.0,
+            492.0
+          ],
+          "text": "Patient",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            494.0,
+            254.0,
+            524.0
+          ],
+          "text": "Referred",
+          "confidence": 0.9501
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            494.0,
+            562.0,
+            524.0
+          ],
+          "text": "VERMA",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            527.0,
+            368.0,
+            560.0
+          ],
+          "text": "Lab Serial No: 07",
+          "confidence": 0.7926
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1024.0,
+            524.0,
+            1166.0,
+            567.0
+          ],
+          "text": "Receiving]",
+          "confidence": 0.625
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            530.0,
+            1550.0,
+            562.0
+          ],
+          "text": "6.00.30AM",
+          "confidence": 0.55
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            562.0,
+            254.0,
+            592.0
+          ],
+          "text": "Ward No",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            562.0,
+            432.0,
+            592.0
+          ],
+          "text": "SP - 25",
+          "confidence": 0.6799
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            560.0,
+            1235.0,
+            601.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.6356
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1410.0,
+            564.0,
+            1550.0,
+            596.0
+          ],
+          "text": "8.29.07AM",
+          "confidence": 0.6418
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            594.0,
+            180.0,
+            626.0
+          ],
+          "text": "CR",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            596.0,
+            306.0,
+            626.0
+          ],
+          "text": "UHD No",
+          "confidence": 0.9505
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            594.0,
+            400.0,
+            626.0
+          ],
+          "text": "0223",
+          "confidence": 0.873
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            594.0,
+            516.0,
+            624.0
+          ],
+          "text": "391503",
+          "confidence": 0.9718
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            598.0,
+            1234.0,
+            628.0
+          ],
+          "text": "Date TAT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            598.0,
+            1482.0,
+            628.0
+          ],
+          "text": "2 Hours 29 Minute",
+          "confidence": 0.821
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            696.0,
+            310.0,
+            728.0
+          ],
+          "text": "Investiqation",
+          "confidence": 0.9848
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            695.0,
+            894.0,
+            728.0
+          ],
+          "text": "Observed Value",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            698.0,
+            1044.0,
+            728.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1187.0,
+            697.0,
+            1483.0,
+            733.0
+          ],
+          "text": "Biological Ref Interval",
+          "confidence": 0.8595
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            760.0,
+            934.0,
+            792.0
+          ],
+          "text": "HEMATOLOGY",
+          "confidence": 0.9487
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            812.0,
+            158.0,
+            842.0
+          ],
+          "text": "PT",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            812.0,
+            466.0,
+            844.0
+          ],
+          "text": "PROTHROMBIN TIME",
+          "confidence": 0.9765
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            856.0,
+            446.0,
+            886.0
+          ],
+          "text": "NORMAL CONTROL VALUE",
+          "confidence": 0.8512
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            858.0,
+            810.0,
+            884.0
+          ],
+          "text": "13.0",
+          "confidence": 0.6994
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            858.0,
+            1070.0,
+            890.0
+          ],
+          "text": "second(s)",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            888.0,
+            316.0,
+            918.0
+          ],
+          "text": "PATIENT VALUE",
+          "confidence": 0.6461
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            890.0,
+            812.0,
+            918.0
+          ],
+          "text": "17.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            889.0,
+            1071.0,
+            925.0
+          ],
+          "text": "second(s)",
+          "confidence": 0.7979
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            924.0,
+            458.0,
+            952.0
+          ],
+          "text": "International Normalized Ratio",
+          "confidence": 0.8264
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            924.0,
+            810.0,
+            952.0
+          ],
+          "text": "1.37",
+          "confidence": 0.5161
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            963.0,
+            252.0,
+            1001.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            282.0,
+            964.0,
+            441.0,
+            994.0
+          ],
+          "text": "PT PLASMA",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1008.0,
+            251.0,
+            1045.0
+          ],
+          "text": "Comment",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1039.0,
+            1555.0,
+            1084.0
+          ],
+          "text": "1. INR is the parameter of choice in monitoring adequacy of oral anticoagulant therapy: Appropriate therapeutic range",
+          "confidence": 0.774
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1073.0,
+            689.0,
+            1112.0
+          ],
+          "text": "varies with the disease and treatment intensity",
+          "confidence": 0.9382
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1100.0,
+            786.0,
+            1148.0
+          ],
+          "text": "2, Prolonged INR suggests potential bleeding disorder",
+          "confidence": 0.7122
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            797.0,
+            1103.0,
+            1087.0,
+            1145.0
+          ],
+          "text": "bleeding complications",
+          "confidence": 0.7273
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1135.0,
+            613.0,
+            1175.0
+          ],
+          "text": "3. Results should be clinically correlated",
+          "confidence": 0.7102
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1173.0,
+            135.0,
+            1195.0
+          ],
+          "text": "4",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1169.0,
+            583.0,
+            1205.0
+          ],
+          "text": "Test conducted on Citrated plasma",
+          "confidence": 0.9249
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1200.0,
+            910.0,
+            1240.0
+          ],
+          "text": "RecommendedTherapeutic range for Oral Anticoagulant therapy",
+          "confidence": 0.8285
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1234.0,
+            260.0,
+            1264.0
+          ],
+          "text": "INR 2.0-3.0",
+          "confidence": 0.7466
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1263.0,
+            818.0,
+            1305.0
+          ],
+          "text": "Treatment of Venous thrombosis & Pulmonary embolism:",
+          "confidence": 0.7626
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1296.0,
+            775.0,
+            1338.0
+          ],
+          "text": "Prophylaxis of Venous thrombosis (High risk surgery):",
+          "confidence": 0.8139
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1327.0,
+            799.0,
+            1368.0
+          ],
+          "text": "Prevention of systemic embolism in tissue heart valves,",
+          "confidence": 0.8232
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1363.0,
+            693.0,
+            1395.0
+          ],
+          "text": "AMI, Valvular heart disease & Atrial fibrillation:",
+          "confidence": 0.6067
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1391.0,
+            648.0,
+            1433.0
+          ],
+          "text": "Bileaflet mechanical valve in aortic position",
+          "confidence": 0.8812
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1426.0,
+            268.0,
+            1458.0
+          ],
+          "text": "INR 2.5-3.5:",
+          "confidence": 0.4189
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1456.0,
+            473.0,
+            1495.0
+          ],
+          "text": "Mechanical prosthetic valves",
+          "confidence": 0.9607
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1491.0,
+            441.0,
+            1527.0
+          ],
+          "text": "Systemic recurrent emboli",
+          "confidence": 0.939
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1519.0,
+            1555.0,
+            1564.0
+          ],
+          "text": "CommentsProthrombin time measures the extrinsic coagulation pathway which consists of activated Factor VII (VIla),",
+          "confidence": 0.7121
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1551.0,
+            1536.0,
+            1595.0
+          ],
+          "text": "Tissue factor and Proteins of the common pathway (Factors X, V, Il & Fibrinogen): This assay is used to control long",
+          "confidence": 0.5637
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1584.0,
+            1474.0,
+            1627.0
+          ],
+          "text": "term oral anticoagulant therapy, evaluation of liver function & to evaluate coagulation disorders specially factors",
+          "confidence": 0.7969
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1616.0,
+            691.0,
+            1655.0
+          ],
+          "text": "involved in the extrinsic pathway like Factors V,",
+          "confidence": 0.8406
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            699.0,
+            1617.0,
+            1109.0,
+            1659.0
+          ],
+          "text": "VII, X, Prothrombin & Fibrinogen.",
+          "confidence": 0.8533
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            703.0,
+            1685.0,
+            727.0,
+            1699.0
+          ],
+          "text": "**",
+          "confidence": 0.441
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1682.0,
+            964.0,
+            1714.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.701
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            967.0,
+            1687.0,
+            991.0,
+            1701.0
+          ],
+          "text": "**",
+          "confidence": 0.9448
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            761.0,
+            2080.0,
+            907.0,
+            2120.0
+          ],
+          "text": "Page 1 of 1",
+          "confidence": 0.9125
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            483.0,
+            2117.0,
+            513.0,
+            2131.0
+          ],
+          "text": "044",
+          "confidence": 0.8731
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            2152.0,
+            226.0,
+            2182.0
+          ],
+          "text": "FACILITIES",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            2149.0,
+            1128.0,
+            2181.0
+          ],
+          "text": "FOR HORMONES ASSAYS,FNAC , HISTOPATHOLOGY, BONE MARROW ASPIRATION",
+          "confidence": 0.5857
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            2146.0,
+            1554.0,
+            2176.0
+          ],
+          "text": "BIOPSY WITH MICRO PHOTOGRAPHS:",
+          "confidence": 0.7788
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            2184.0,
+            172.0,
+            2214.0
+          ],
+          "text": "NOTE",
+          "confidence": 0.9573
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            197.0,
+            2177.0,
+            1555.0,
+            2215.0
+          ],
+          "text": "ABOVE MENTIONED FINDINGS ARE A PROFESSIONAL OPINION AND NOT A FINAL DIAGNOSIS, ALL LABORATORY TESTS & OTHER",
+          "confidence": 0.5861
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            2209.0,
+            1553.0,
+            2247.0
+          ],
+          "text": "INVESTIGATION RESULTS ARE TO BE CORELATED CLINIC-PATHOLOGICALLY, DISCREPANCIES, IF ANY, NECESSITATE REVIEWIREPEAT OF THE TESTS",
+          "confidence": 0.8673
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            481.0,
+            2250.0,
+            1185.0,
+            2287.0
+          ],
+          "text": "NOT VAILD FOR MFDICO LEGAL PURPOSE",
+          "confidence": 0.6201
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            2284.0,
+            1062.0,
+            2312.0
+          ],
+          "text": "CINICALCORELATONIS MANDATORY",
+          "confidence": 0.4304
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            704.1493113770795,
+            287.1365600658949,
+            770.8506886229205,
+            324.8634399341051
+          ],
+          "text": "Regn",
+          "confidence": 0.5214
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1191.9563638994289,
+            1871.1566474515464,
+            1323.0436361005711,
+            1971.8433525484536
+          ],
+          "text": "Gl #8,'3",
+          "confidence": 0.0324
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            421.87867965644034,
+            2105.055644111415,
+            487.12132034355966,
+            2148.944355888585
+          ],
+          "text": "Jeeu",
+          "confidence": 0.0813
+        }
+      ]
+    }
+  ],
+  "full_text": "Iso\n9001-2008\nDiagnostic Point Pathology Labs\nEQUIPPED With COMPUterIsed AUTO CHEMISTRY BLOOD GAS & HAEMATOLOGY ANALYSERS\n101,102,107, 108, 109, Ist Floor, Agarwal Tower; Pkt: 0 & P Mkt. Dilshad Garden; Delhi-95 Ph:L\nSARVODAYA HOSPITAL\nDr: (Capt) Atul Kapila (Retd:) MD Path \"\nKJ7 , Kavi Nagar,Ghaziabad (U.P.\nNo. MCI 3456\nPatient\nReferred\nVERMA\nLab Serial No: 07\nReceiving]\n6.00.30AM\nWard No\nSP - 25\nReporting Date\n8.29.07AM\nCR\nUHD No\n0223\n391503\nDate TAT\n2 Hours 29 Minute\nInvestiqation\nObserved Value\nUnit\nBiological Ref Interval\nHEMATOLOGY\nPT\nPROTHROMBIN TIME\nNORMAL CONTROL VALUE\n13.0\nsecond(s)\nPATIENT VALUE\n17.5\nsecond(s)\nInternational Normalized Ratio\n1.37\nSpecimen\nPT PLASMA\nComment\n1. INR is the parameter of choice in monitoring adequacy of oral anticoagulant therapy: Appropriate therapeutic range\nvaries with the disease and treatment intensity\n2, Prolonged INR suggests potential bleeding disorder\nbleeding complications\n3. Results should be clinically correlated\n4\nTest conducted on Citrated plasma\nRecommendedTherapeutic range for Oral Anticoagulant therapy\nINR 2.0-3.0\nTreatment of Venous thrombosis & Pulmonary embolism:\nProphylaxis of Venous thrombosis (High risk surgery):\nPrevention of systemic embolism in tissue heart valves,\nAMI, Valvular heart disease & Atrial fibrillation:\nBileaflet mechanical valve in aortic position\nINR 2.5-3.5:\nMechanical prosthetic valves\nSystemic recurrent emboli\nCommentsProthrombin time measures the extrinsic coagulation pathway which consists of activated Factor VII (VIla),\nTissue factor and Proteins of the common pathway (Factors X, V, Il & Fibrinogen): This assay is used to control long\nterm oral anticoagulant therapy, evaluation of liver function & to evaluate coagulation disorders specially factors\ninvolved in the extrinsic pathway like Factors V,\nVII, X, Prothrombin & Fibrinogen.\n**\nEND OF REPORT\n**\nPage 1 of 1\n044\nFACILITIES\nFOR HORMONES ASSAYS,FNAC , HISTOPATHOLOGY, BONE MARROW ASPIRATION\nBIOPSY WITH MICRO PHOTOGRAPHS:\nNOTE\nABOVE MENTIONED FINDINGS ARE A PROFESSIONAL OPINION AND NOT A FINAL DIAGNOSIS, ALL LABORATORY TESTS & OTHER\nINVESTIGATION RESULTS ARE TO BE CORELATED CLINIC-PATHOLOGICALLY, DISCREPANCIES, IF ANY, NECESSITATE REVIEWIREPEAT OF THE TESTS\nNOT VAILD FOR MFDICO LEGAL PURPOSE\nCINICALCORELATONIS MANDATORY\nRegn\nGl #8,'3\nJeeu",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "No. MCI",
+          "biomarker_normalized": "No. MCI",
+          "value": "3456",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No. MCI 3456",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Lab Serial No",
+          "biomarker_normalized": "Lab Serial No",
+          "value": "07",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Lab Serial No: 07",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SP",
+          "biomarker_normalized": "SP",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SP - 25",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "INR",
+          "biomarker_normalized": "INR",
+          "value": "2.0",
+          "unit": "",
+          "reference_range": "2.0-3.0",
+          "source_line": "INR 2.0-3.0",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "INR",
+          "biomarker_normalized": "INR",
+          "value": "2.5",
+          "unit": "",
+          "reference_range": "2.5-3.5",
+          "source_line": "INR 2.5-3.5:",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "Page",
+          "biomarker_normalized": "Page",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Page 1 of 1",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Gl #",
+          "biomarker_normalized": "Gl #",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Gl #8,'3",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 81,
+    "ocr_avg_confidence": 0.7669,
+    "parsed_row_count": 7
+  }
+}

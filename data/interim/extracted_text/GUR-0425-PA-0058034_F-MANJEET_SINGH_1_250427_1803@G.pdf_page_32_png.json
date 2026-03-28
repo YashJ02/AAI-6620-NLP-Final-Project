@@ -1,0 +1,282 @@
+{
+  "document_id": "GUR-0425-PA-0058034_F-MANJEET_SINGH_1_250427_1803@G.pdf_page_32",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0058034_F-MANJEET_SINGH_1_250427_1803@G.pdf_page_32.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LaboratOrY Investiqatlon Report\nPalient Nama\nMr Malijeet Singh\nCellre\n5081\nMax Hcspitol\nCurugran\nEmeigency Toam Gen\nCilnlcal Biochemlstry\nRenal Function Test (RFT) Profile\nWichout Urine\nTest Perlorn%d 2t 585\nMjzr Lab Scrlr-44, (uUgrun Delua Towcr Plos No,-54, Sector-+,\nBooking Centre ,503|\nMux Hospital - Curugram; Opposite HUDA City Centre Metra Station, B\nplck 991044185\nThe &uthenticily of thc repon <in be verificd by scanning the Q R Code en top ofthap\n3c68i",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            180.0,
+            1019.0,
+            221.0
+          ],
+          "text": "LaboratOrY Investiqatlon Report",
+          "confidence": 0.4763
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            236.0,
+            214.0,
+            264.0
+          ],
+          "text": "Palient Nama",
+          "confidence": 0.5527
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            229.0,
+            495.0,
+            259.0
+          ],
+          "text": "Mr Malijeet Singh",
+          "confidence": 0.2545
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            848.0,
+            230.0,
+            922.0,
+            254.0
+          ],
+          "text": "Cellre",
+          "confidence": 0.4927
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            226.0,
+            1124.0,
+            250.0
+          ],
+          "text": "5081",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            222.0,
+            1270.0,
+            250.0
+          ],
+          "text": "Max Hcspitol",
+          "confidence": 0.7154
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1281.0,
+            219.0,
+            1378.0,
+            249.0
+          ],
+          "text": "Curugran",
+          "confidence": 0.6494
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            345.0,
+            332.0,
+            570.0,
+            361.0
+          ],
+          "text": "Emeigency Toam Gen",
+          "confidence": 0.64
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            376.0,
+            896.0,
+            404.0
+          ],
+          "text": "Cilnlcal Biochemlstry",
+          "confidence": 0.8415
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            499.0,
+            411.0,
+            879.0,
+            447.0
+          ],
+          "text": "Renal Function Test (RFT) Profile",
+          "confidence": 0.618
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            412.0,
+            1050.0,
+            438.0
+          ],
+          "text": "Wichout Urine",
+          "confidence": 0.4462
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            1968.0,
+            292.0,
+            1996.0
+          ],
+          "text": "Test Perlorn%d 2t 585",
+          "confidence": 0.3064
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            301.0,
+            1957.0,
+            879.0,
+            1994.0
+          ],
+          "text": "Mjzr Lab Scrlr-44, (uUgrun Delua Towcr Plos No,-54, Sector-+,",
+          "confidence": 0.1215
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            95.0,
+            1997.0,
+            317.0,
+            2033.0
+          ],
+          "text": "Booking Centre ,503|",
+          "confidence": 0.5011
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            327.0,
+            1985.0,
+            1045.0,
+            2027.0
+          ],
+          "text": "Mux Hospital - Curugram; Opposite HUDA City Centre Metra Station, B",
+          "confidence": 0.2406
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1056.0,
+            1982.0,
+            1254.0,
+            2010.0
+          ],
+          "text": "plck 991044185",
+          "confidence": 0.102
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            95.0,
+            2021.0,
+            925.0,
+            2063.0
+          ],
+          "text": "The &uthenticily of thc repon <in be verificd by scanning the Q R Code en top ofthap",
+          "confidence": 0.169
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1507.0,
+            2115.0,
+            1567.0,
+            2133.0
+          ],
+          "text": "3c68i",
+          "confidence": 0.0213
+        }
+      ]
+    }
+  ],
+  "full_text": "LaboratOrY Investiqatlon Report\nPalient Nama\nMr Malijeet Singh\nCellre\n5081\nMax Hcspitol\nCurugran\nEmeigency Toam Gen\nCilnlcal Biochemlstry\nRenal Function Test (RFT) Profile\nWichout Urine\nTest Perlorn%d 2t 585\nMjzr Lab Scrlr-44, (uUgrun Delua Towcr Plos No,-54, Sector-+,\nBooking Centre ,503|\nMux Hospital - Curugram; Opposite HUDA City Centre Metra Station, B\nplck 991044185\nThe &uthenticily of thc repon <in be verificd by scanning the Q R Code en top ofthap\n3c68i",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Test Perlorn%d",
+          "biomarker_normalized": "Test Perlorn%d",
+          "value": "2",
+          "unit": "%",
+          "reference_range": "",
+          "source_line": "Test Perlorn%d 2t 585",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Mjzr Lab Scrlr",
+          "biomarker_normalized": "Mjzr Lab Scrlr",
+          "value": "44",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mjzr Lab Scrlr-44, (uUgrun Delua Towcr Plos No,-54, Sector-+,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Booking Centre ,",
+          "biomarker_normalized": "Booking Centre ,",
+          "value": "503",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Booking Centre ,503|",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "plck",
+          "biomarker_normalized": "plck",
+          "value": "991044185",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "plck 991044185",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 18,
+    "ocr_avg_confidence": 0.4524,
+    "parsed_row_count": 4
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "document_id": "CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_28-04-2025_0951-48_AM@F.pdf_page_8",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_28-04-2025_0951-48_AM@F.pdf_page_8.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF BIOCHEMISTRY\nASHM-QF-LS(BC)-71\nNane\nMrs. KALIAMMAL #\nUHID\nMMhiP137802\nEMERGENCYIEMG 3 B\nSIN\nLRN\n51180468\n17001330\nSpecimen\nBlood\nRel Doctor\nDrR UESHPRABHUP\nCollecled 0n1\n32 APR-702504I4)iPv\nRccdired On\n32-APR-2025 0504*2P4\nRepored o\n2-4R 707505 14 Sa Pu\nRENAL\nRESULI\nBIOLOGICAL REFERENCE INIERVALS\nUNDS\n(DIRECT)\nSERUM\n0,6 *\n0.0\n0.2\n(DCA WITHAICS)\nBiliRUBIN UNCONJUGATED\n1.0\n0,0\n1.0\nSERUM Calculaled)\nRepont Status Final\nEND OF REPORT *\nCHECKED BY\n1002951\nElan\n1002951\nPrinted On\n26-ApR-2025 05 48 55 Pv\nDr Elamalhi %\nPATHOLOGIST\nPago | 0f 1\nmglal\nmgidL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            721.0,
+            217.0,
+            1171.0,
+            253.0
+          ],
+          "text": "DEPARTMENT OF BIOCHEMISTRY",
+          "confidence": 0.9737
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1283.0,
+            297.0,
+            1551.0,
+            333.0
+          ],
+          "text": "ASHM-QF-LS(BC)-71",
+          "confidence": 0.6122
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            386.0,
+            230.0,
+            414.0
+          ],
+          "text": "Nane",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            388.0,
+            576.0,
+            418.0
+          ],
+          "text": "Mrs. KALIAMMAL #",
+          "confidence": 0.7496
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            436.0,
+            226.0,
+            464.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            686.0,
+            434.0,
+            848.0,
+            464.0
+          ],
+          "text": "MMhiP137802",
+          "confidence": 0.2211
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1160.0,
+            431.0,
+            1419.0,
+            467.0
+          ],
+          "text": "EMERGENCYIEMG 3 B",
+          "confidence": 0.7873
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            484.0,
+            208.0,
+            510.0
+          ],
+          "text": "SIN",
+          "confidence": 0.8606
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            484.0,
+            284.0,
+            512.0
+          ],
+          "text": "LRN",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            484.0,
+            458.0,
+            514.0
+          ],
+          "text": "51180468",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            482.0,
+            484.0,
+            592.0,
+            514.0
+          ],
+          "text": "17001330",
+          "confidence": 0.8552
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            530.0,
+            274.0,
+            556.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.7779
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            526.0,
+            412.0,
+            552.0
+          ],
+          "text": "Blood",
+          "confidence": 0.6151
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            568.0,
+            284.0,
+            596.0
+          ],
+          "text": "Rel Doctor",
+          "confidence": 0.837
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            568.0,
+            578.0,
+            594.0
+          ],
+          "text": "DrR UESHPRABHUP",
+          "confidence": 0.2105
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            873.0,
+            255.0,
+            893.0
+          ],
+          "text": "Collecled 0n1",
+          "confidence": 0.2399
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            315.0,
+            872.0,
+            542.0,
+            896.0
+          ],
+          "text": "32 APR-702504I4)iPv",
+          "confidence": 0.0152
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            876.0,
+            698.0,
+            900.0
+          ],
+          "text": "Rccdired On",
+          "confidence": 0.1532
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            870.0,
+            980.0,
+            894.0
+          ],
+          "text": "32-APR-2025 0504*2P4",
+          "confidence": 0.0698
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1014.0,
+            872.0,
+            1126.0,
+            896.0
+          ],
+          "text": "Repored o",
+          "confidence": 0.5491
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            864.0,
+            1448.0,
+            890.0
+          ],
+          "text": "2-4R 707505 14 Sa Pu",
+          "confidence": 0.0408
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            932.0,
+            238.0,
+            962.0
+          ],
+          "text": "RENAL",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            980.0,
+            850.0,
+            1010.0
+          ],
+          "text": "RESULI",
+          "confidence": 0.9219
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            980.0,
+            1314.0,
+            1010.0
+          ],
+          "text": "BIOLOGICAL REFERENCE INIERVALS",
+          "confidence": 0.6492
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1386.0,
+            980.0,
+            1466.0,
+            1010.0
+          ],
+          "text": "UNDS",
+          "confidence": 0.4462
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            423.0,
+            1041.0,
+            528.0,
+            1074.0
+          ],
+          "text": "(DIRECT)",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            536.0,
+            1044.0,
+            626.0,
+            1072.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9167
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1044.0,
+            816.0,
+            1072.0
+          ],
+          "text": "0,6 *",
+          "confidence": 0.8851
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1042.0,
+            984.0,
+            1068.0
+          ],
+          "text": "0.0",
+          "confidence": 0.2571
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1042.0,
+            1046.0,
+            1068.0
+          ],
+          "text": "0.2",
+          "confidence": 0.6346
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1074.0,
+            342.0,
+            1106.0
+          ],
+          "text": "(DCA WITHAICS)",
+          "confidence": 0.5776
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1106.0,
+            456.0,
+            1136.0
+          ],
+          "text": "BiliRUBIN UNCONJUGATED",
+          "confidence": 0.3697
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1108.0,
+            800.0,
+            1134.0
+          ],
+          "text": "1.0",
+          "confidence": 0.4207
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1106.0,
+            982.0,
+            1132.0
+          ],
+          "text": "0,0",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1106.0,
+            1046.0,
+            1132.0
+          ],
+          "text": "1.0",
+          "confidence": 0.3817
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1138.0,
+            356.0,
+            1166.0
+          ],
+          "text": "SERUM Calculaled)",
+          "confidence": 0.7927
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1252.0,
+            342.0,
+            1280.0
+          ],
+          "text": "Repont Status Final",
+          "confidence": 0.3249
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            712.0,
+            1404.0,
+            938.0,
+            1432.0
+          ],
+          "text": "END OF REPORT *",
+          "confidence": 0.6147
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1806.0,
+            302.0,
+            1836.0
+          ],
+          "text": "CHECKED BY",
+          "confidence": 0.6262
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            1806.0,
+            426.0,
+            1836.0
+          ],
+          "text": "1002951",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1173.0,
+            1765.0,
+            1327.0,
+            1837.0
+          ],
+          "text": "Elan",
+          "confidence": 0.7709
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1836.0,
+            424.0,
+            1864.0
+          ],
+          "text": "1002951",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            268.0,
+            1900.0,
+            386.0,
+            1926.0
+          ],
+          "text": "Printed On",
+          "confidence": 0.5998
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            1900.0,
+            720.0,
+            1926.0
+          ],
+          "text": "26-ApR-2025 05 48 55 Pv",
+          "confidence": 0.1091
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            1902.0,
+            1318.0,
+            1932.0
+          ],
+          "text": "Dr Elamalhi %",
+          "confidence": 0.1951
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            1934.0,
+            1324.0,
+            1964.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.6137
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            2006.0,
+            856.0,
+            2037.0
+          ],
+          "text": "Pago | 0f 1",
+          "confidence": 0.1847
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1384.2802656784306,
+            1038.1479277798705,
+            1459.7197343215694,
+            1076.8520722201295
+          ],
+          "text": "mglal",
+          "confidence": 0.761
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1384.6583592135,
+            1101.5925343221147,
+            1457.3416407865,
+            1138.4074656778853
+          ],
+          "text": "mgidL",
+          "confidence": 0.2258
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF BIOCHEMISTRY\nASHM-QF-LS(BC)-71\nNane\nMrs. KALIAMMAL #\nUHID\nMMhiP137802\nEMERGENCYIEMG 3 B\nSIN\nLRN\n51180468\n17001330\nSpecimen\nBlood\nRel Doctor\nDrR UESHPRABHUP\nCollecled 0n1\n32 APR-702504I4)iPv\nRccdired On\n32-APR-2025 0504*2P4\nRepored o\n2-4R 707505 14 Sa Pu\nRENAL\nRESULI\nBIOLOGICAL REFERENCE INIERVALS\nUNDS\n(DIRECT)\nSERUM\n0,6 *\n0.0\n0.2\n(DCA WITHAICS)\nBiliRUBIN UNCONJUGATED\n1.0\n0,0\n1.0\nSERUM Calculaled)\nRepont Status Final\nEND OF REPORT *\nCHECKED BY\n1002951\nElan\n1002951\nPrinted On\n26-ApR-2025 05 48 55 Pv\nDr Elamalhi %\nPATHOLOGIST\nPago | 0f 1\nmglal\nmgidL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "ASHM-QF-LS(BC)",
+          "biomarker_normalized": "ASHM-QF-LS(BC)",
+          "value": "-71",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ASHM-QF-LS(BC)-71",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MMhiP1",
+          "biomarker_normalized": "MMhiP1",
+          "value": "37802",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MMhiP137802",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "EMERGENCYIEMG",
+          "biomarker_normalized": "EMERGENCYIEMG",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EMERGENCYIEMG 3 B",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Collecled",
+          "biomarker_normalized": "Collecled",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Collecled 0n1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Pago |",
+          "biomarker_normalized": "Pago |",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Pago | 0f 1",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 49,
+    "ocr_avg_confidence": 0.6079,
+    "parsed_row_count": 5
+  }
+}

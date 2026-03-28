@@ -1,0 +1,984 @@
+{
+  "document_id": "GUR-0425-PA-0052925_Q-BIJENDERVATS21.04.20250001compressed_250427_1101@F.pdf_page_40",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0052925_Q-BIJENDERVATS21.04.20250001compressed_250427_1101@F.pdf_page_40.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n7ke Skitt '7o Zeal\n76e Spirt 7 Care\nPatient Id\nSrl No.\n107\nDate\nSWASTIK HOSPITAL\n5\nTest\nCOMMENTS\nHepatitis C Virus (HCV) has been identified as the main etiologicall\noi Non A\nNon B hepatitis accounting for 80-90 cases of transfusion\nhepatitis cases\nHCV is transmitted primarily through parenteral[\nHCV antibodies have been found in patients with acute or chronic forms\nof Hepatitis C and In many asymptomatic donors:\nDiagnosis of this infectious disease should not be based on results of this\ntest alone, and a clinical correlation IS essential for the same_\nLIPID PRQFILE\nTRIGLYCERIDES\n94.7\nmgldL\n40.0 - 165.0\nTOTAL CHOLESTEROL\n170.6\nmgldL\n123.0\n199.0\nHDL CHOLESTEROL DIRECT\n48.9\nmgldL\n40.0\n79.4\nVLDL\n18.94\nmgldL\n4.7\n22.1\nLDL CHOLESTEROL DIRECT\n102.76\nmgldL\n63.0 - 129.0\nTOTAL CHOLESTEROLIHDL RATIO\n3.489\n0.0\n4.97\nLDL\nHDL CHOLESTEROL RATIO\n2.101\n0.00\n3.55\n'2\nDr\nML\nOn Panel\n3DIA4D Ultrasound\nHaryana Government\nAll Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi IJal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAII TPA & Insurance\nComputerised Lab\n0\n3\nYogesh\nKiclar\nChahar\nnter\nMedicine)\nDMC\n4ad",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            271.0,
+            43.0,
+            1381.0,
+            151.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9905
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            548.0,
+            150.0,
+            1062.0,
+            201.0
+          ],
+          "text": "Jhajjar Road, Bahadurgarh",
+          "confidence": 0.7789
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            244.0,
+            276.0,
+            275.0
+          ],
+          "text": "7ke Skitt '7o Zeal",
+          "confidence": 0.2653
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            278.0,
+            280.0,
+            308.0
+          ],
+          "text": "76e Spirt 7 Care",
+          "confidence": 0.5667
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            450.0,
+            300.0,
+            480.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9629
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            450.0,
+            755.0,
+            481.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.9592
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            796.0,
+            452.0,
+            848.0,
+            482.0
+          ],
+          "text": "107",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            452.0,
+            1096.0,
+            484.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            307.0,
+            529.0,
+            590.0,
+            562.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            426.0,
+            1375.0,
+            644.0
+          ],
+          "text": "5",
+          "confidence": 0.8049
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            620.0,
+            184.0,
+            646.0
+          ],
+          "text": "Test",
+          "confidence": 0.8476
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            750.0,
+            336.0,
+            780.0
+          ],
+          "text": "COMMENTS",
+          "confidence": 0.9787
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            813.0,
+            1001.0,
+            855.0
+          ],
+          "text": "Hepatitis C Virus (HCV) has been identified as the main etiologicall",
+          "confidence": 0.6643
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            846.0,
+            280.0,
+            876.0
+          ],
+          "text": "oi Non A",
+          "confidence": 0.5878
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            291.0,
+            841.0,
+            999.0,
+            885.0
+          ],
+          "text": "Non B hepatitis accounting for 80-90 cases of transfusion",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            874.0,
+            355.0,
+            912.0
+          ],
+          "text": "hepatitis cases",
+          "confidence": 0.9918
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            371.0,
+            877.0,
+            955.0,
+            917.0
+          ],
+          "text": "HCV is transmitted primarily through parenteral[",
+          "confidence": 0.5753
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            906.0,
+            1049.0,
+            947.0
+          ],
+          "text": "HCV antibodies have been found in patients with acute or chronic forms",
+          "confidence": 0.928
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            165.0,
+            939.0,
+            770.0,
+            977.0
+          ],
+          "text": "of Hepatitis C and In many asymptomatic donors:",
+          "confidence": 0.7755
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            969.0,
+            1069.0,
+            1009.0
+          ],
+          "text": "Diagnosis of this infectious disease should not be based on results of this",
+          "confidence": 0.9532
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1001.0,
+            908.0,
+            1034.0
+          ],
+          "text": "test alone, and a clinical correlation IS essential for the same_",
+          "confidence": 0.4745
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1165.0,
+            371.0,
+            1205.0
+          ],
+          "text": "LIPID PRQFILE",
+          "confidence": 0.6178
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1216.0,
+            395.0,
+            1256.0
+          ],
+          "text": "TRIGLYCERIDES",
+          "confidence": 0.7933
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1226.0,
+            788.0,
+            1258.0
+          ],
+          "text": "94.7",
+          "confidence": 0.7345
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            1229.0,
+            1017.0,
+            1267.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.975
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            1232.0,
+            1352.0,
+            1264.0
+          ],
+          "text": "40.0 - 165.0",
+          "confidence": 0.8503
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1271.0,
+            481.0,
+            1309.0
+          ],
+          "text": "TOTAL CHOLESTEROL",
+          "confidence": 0.9082
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1280.0,
+            806.0,
+            1312.0
+          ],
+          "text": "170.6",
+          "confidence": 0.9555
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            919.0,
+            1279.0,
+            1017.0,
+            1324.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9473
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            1286.0,
+            1266.0,
+            1318.0
+          ],
+          "text": "123.0",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1288.0,
+            1368.0,
+            1320.0
+          ],
+          "text": "199.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1323.0,
+            589.0,
+            1361.0
+          ],
+          "text": "HDL CHOLESTEROL DIRECT",
+          "confidence": 0.8463
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1334.0,
+            788.0,
+            1364.0
+          ],
+          "text": "48.9",
+          "confidence": 0.7236
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            1335.0,
+            1015.0,
+            1373.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            1340.0,
+            1248.0,
+            1370.0
+          ],
+          "text": "40.0",
+          "confidence": 0.6205
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            1340.0,
+            1336.0,
+            1372.0
+          ],
+          "text": "79.4",
+          "confidence": 0.5778
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1378.0,
+            250.0,
+            1410.0
+          ],
+          "text": "VLDL",
+          "confidence": 0.9919
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1386.0,
+            806.0,
+            1418.0
+          ],
+          "text": "18.94",
+          "confidence": 0.9819
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            1389.0,
+            1013.0,
+            1427.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9792
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            1394.0,
+            1232.0,
+            1424.0
+          ],
+          "text": "4.7",
+          "confidence": 0.9226
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            1394.0,
+            1314.0,
+            1422.0
+          ],
+          "text": "22.1",
+          "confidence": 0.9167
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1428.0,
+            581.0,
+            1469.0
+          ],
+          "text": "LDL CHOLESTEROL DIRECT",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            723.0,
+            1437.0,
+            823.0,
+            1473.0
+          ],
+          "text": "102.76",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            919.0,
+            1438.0,
+            1014.0,
+            1482.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9199
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1179.0,
+            1445.0,
+            1353.0,
+            1481.0
+          ],
+          "text": "63.0 - 129.0",
+          "confidence": 0.9283
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1481.0,
+            649.0,
+            1523.0
+          ],
+          "text": "TOTAL CHOLESTEROLIHDL RATIO",
+          "confidence": 0.8125
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1492.0,
+            804.0,
+            1524.0
+          ],
+          "text": "3.489",
+          "confidence": 0.7404
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            1498.0,
+            1232.0,
+            1530.0
+          ],
+          "text": "0.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            1500.0,
+            1316.0,
+            1532.0
+          ],
+          "text": "4.97",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1538.0,
+            204.0,
+            1570.0
+          ],
+          "text": "LDL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            1539.0,
+            643.0,
+            1578.0
+          ],
+          "text": "HDL CHOLESTEROL RATIO",
+          "confidence": 0.9728
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            1546.0,
+            802.0,
+            1578.0
+          ],
+          "text": "2.101",
+          "confidence": 0.9617
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            1552.0,
+            1248.0,
+            1584.0
+          ],
+          "text": "0.00",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            1554.0,
+            1334.0,
+            1584.0
+          ],
+          "text": "3.55",
+          "confidence": 0.993
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1788.0,
+            252.0,
+            1842.0
+          ],
+          "text": "'2",
+          "confidence": 0.2488
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            527.0,
+            1813.0,
+            573.0,
+            1855.0
+          ],
+          "text": "Dr",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            1869.0,
+            639.0,
+            1905.0
+          ],
+          "text": "ML",
+          "confidence": 0.8558
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            2025.0,
+            229.0,
+            2065.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.8345
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            2033.0,
+            1541.0,
+            2071.0
+          ],
+          "text": "3DIA4D Ultrasound",
+          "confidence": 0.6228
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            51.0,
+            2070.0,
+            355.0,
+            2111.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.8169
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            399.0,
+            2077.0,
+            1217.0,
+            2121.0
+          ],
+          "text": "All Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.4197
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1289.0,
+            2076.0,
+            1491.0,
+            2114.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            2108.0,
+            309.0,
+            2145.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1290.0,
+            2118.0,
+            1410.0,
+            2146.0
+          ],
+          "text": "CT-Scan",
+          "confidence": 0.9134
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            2150.0,
+            268.0,
+            2182.0
+          ],
+          "text": "Delhi IJal Board",
+          "confidence": 0.6377
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            505.0,
+            2161.0,
+            1107.0,
+            2205.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.7589
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            2154.0,
+            1474.0,
+            2194.0
+          ],
+          "text": "Digital X-Ray",
+          "confidence": 0.7816
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            2188.0,
+            330.0,
+            2221.0
+          ],
+          "text": "AII TPA & Insurance",
+          "confidence": 0.5286
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            2196.0,
+            1549.0,
+            2233.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.6928
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            69.72461040495172,
+            18.031910023136607,
+            213.2753895950483,
+            170.96808997686338
+          ],
+          "text": "0",
+          "confidence": 0.2712
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            230.83997041886852,
+            1807.0380309072889,
+            299.1600295811315,
+            1886.9619690927111
+          ],
+          "text": "3",
+          "confidence": 0.3133
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            573.1200920700473,
+            1815.0970966215455,
+            694.8799079299527,
+            1874.9029033784545
+          ],
+          "text": "Yogesh",
+          "confidence": 0.9556
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            680.1340769361179,
+            1825.0778621224576,
+            799.8659230638821,
+            1890.9221378775424
+          ],
+          "text": "Kiclar",
+          "confidence": 0.3546
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            784.1003166886294,
+            1838.0934312516142,
+            911.8996833113706,
+            1898.9065687483858
+          ],
+          "text": "Chahar",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            634.046026523848,
+            1873.1039098209153,
+            718.953973476152,
+            1915.8960901790847
+          ],
+          "text": "nter",
+          "confidence": 0.9692
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            757.0295841605964,
+            1887.095251759264,
+            903.9704158394036,
+            1939.904748240736
+          ],
+          "text": "Medicine)",
+          "confidence": 0.961
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            635.1577429423418,
+            1910.1194299994186,
+            718.8422570576582,
+            1957.8805700005814
+          ],
+          "text": "DMC",
+          "confidence": 0.972
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            84.0366541575895,
+            1922.04794576974,
+            243.96334584241052,
+            2020.95205423026
+          ],
+          "text": "4ad",
+          "confidence": 0.2504
+        }
+      ]
+    }
+  ],
+  "full_text": "SWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n7ke Skitt '7o Zeal\n76e Spirt 7 Care\nPatient Id\nSrl No.\n107\nDate\nSWASTIK HOSPITAL\n5\nTest\nCOMMENTS\nHepatitis C Virus (HCV) has been identified as the main etiologicall\noi Non A\nNon B hepatitis accounting for 80-90 cases of transfusion\nhepatitis cases\nHCV is transmitted primarily through parenteral[\nHCV antibodies have been found in patients with acute or chronic forms\nof Hepatitis C and In many asymptomatic donors:\nDiagnosis of this infectious disease should not be based on results of this\ntest alone, and a clinical correlation IS essential for the same_\nLIPID PRQFILE\nTRIGLYCERIDES\n94.7\nmgldL\n40.0 - 165.0\nTOTAL CHOLESTEROL\n170.6\nmgldL\n123.0\n199.0\nHDL CHOLESTEROL DIRECT\n48.9\nmgldL\n40.0\n79.4\nVLDL\n18.94\nmgldL\n4.7\n22.1\nLDL CHOLESTEROL DIRECT\n102.76\nmgldL\n63.0 - 129.0\nTOTAL CHOLESTEROLIHDL RATIO\n3.489\n0.0\n4.97\nLDL\nHDL CHOLESTEROL RATIO\n2.101\n0.00\n3.55\n'2\nDr\nML\nOn Panel\n3DIA4D Ultrasound\nHaryana Government\nAll Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi IJal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAII TPA & Insurance\nComputerised Lab\n0\n3\nYogesh\nKiclar\nChahar\nnter\nMedicine)\nDMC\n4ad",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Non B hepatitis accounting for",
+          "biomarker_normalized": "Non B hepatitis accounting for",
+          "value": "80",
+          "unit": "",
+          "reference_range": "80-90",
+          "source_line": "Non B hepatitis accounting for 80-90 cases of transfusion",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "All Lab Test, ICU & Ambulance Facility",
+          "biomarker_normalized": "All Lab Test, ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "All Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 78,
+    "ocr_avg_confidence": 0.8193,
+    "parsed_row_count": 2
+  }
+}

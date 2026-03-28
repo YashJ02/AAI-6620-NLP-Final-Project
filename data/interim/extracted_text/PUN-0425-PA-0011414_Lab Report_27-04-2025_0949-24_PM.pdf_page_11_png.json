@@ -1,0 +1,1104 @@
+{
+  "document_id": "PUN-0425-PA-0011414_Lab Report_27-04-2025_0949-24_PM.pdf_page_11",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\PUN-0425-PA-0011414_Lab Report_27-04-2025_0949-24_PM.pdf_page_11.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PARTH\nPATHOLOGY LABORATORY\nPatient ID\n202504255\nCollection Date\nPatient's\nRef.\nDr,Shree Parth Hospital\nReporting Date\nLLERLUNCTON TESTS\nBilirubin (Total)\n1.11\n0.31.20\nBilirubin (Direct)\n0.29\nmgldl\n00.4 mg/dl\nBilirubin (Indirect)\n0.82\nmgldl\n0-0 mgldl\nincressed in\nacute or chronic hepatitis; cinhosis, biliary fract obstruction; toxic hepatitis, neonatal jaundice (noonalal hyperbilirubinemia);\ncongenital liver enzyme absoralities (dubin-johnson rotor; gilbert;, crigler-nejjar syndromes) , fasting, hemolytic disorders. Hepatotoxic druds:\nAlkaline Phosphatase\n123.4\nIUn\n60-170 iul\nIncreased In : Obstructive hepatobiliary disease; bone disease, hyperparalhyroidism,rickets;benign familiar hyperphosphatasemia , pregnancy,GI\ndisease Hepatotoxic drug Decreased In: Hypophosphatasia.\nAlanine Transaminase (ALTISGPT)\n35.21\nIUIL\n5-50 UIL\nSerum, Method: UV Kinetic\nAspartate Transaminase (ASTISGOT)\n36.78\nIUIL\n5-50 UIL\nSerum; Method: UV Kinetic\nTotal Proteins\n6.82\n6-8\nAlbumin\n3.74\n3.54.5 gmdl\nGlobulin\n3.08\n2.5-3.5 mgldl\nAIG Ratio\n1.21\nmgm%\n1.34.0 mgm%\nThe pattern of liver test abnormality is hepatocellular. The AST is typically in the 100 to 200 IU/L range, even in severe disease,and the ALT\nlevel may be normal, even in severe cases. The AST level is higher than the ALT level, and the ratio is greater than\nin 70% of patients-\nCREACTLEPRQTEIN\nREACTIVE PROTEIN\n28.87\nmgIL\n0-6\nC-reactive protein (CRP) is a important and evolutionarily ancient component of the innate immune response: CRP has been described as\n\"the prototypical acute-phase reactant to infections and inflammation in human\nIn the clinical setting; CRP is used \"as a clinical\nindicator of acute infections and response to treatment, and to assess inflammatory status in chronic diseases. Initially it was thought that\nCRP might be a pathogenic secretion as it was elevated in people with a variety of illnesses including cancer. However, discovery of synthesis\nin the liver demonstrated that it is manufactured by the human body:\nThe fact that CRP is an independent predictor of stroke and coronary artery disease but also a\ncontributor to effective bacterial\nclearance, underscores the importance of microbes in the pathogenesis of these diseases. Some patients on the Marshall Protocol (MP)\nhave reported temporary increases in CRPuan observation which is consistent with a heightened immunel\nCRP's\npneumococcal infection;\nQp4\nDrDP Rajput\nMBBS,DCP\nLab Technician\n\"Please correlate reporSwiSHpizl\npatiHospital_Banarsi Nagar_Hirawadi Panchavati_Nashik\nmgldl\nmgldl\ngmldl\ngmldl\ngmldl\ngmldl\n2:1\nbeings:\nkey",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1029.0,
+            145.0,
+            1578.0,
+            267.0
+          ],
+          "text": "PARTH",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1035.0,
+            255.0,
+            1576.0,
+            308.0
+          ],
+          "text": "PATHOLOGY LABORATORY",
+          "confidence": 0.8987
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            358.0,
+            212.0,
+            390.0
+          ],
+          "text": "Patient ID",
+          "confidence": 0.9232
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            326.0,
+            354.0,
+            474.0,
+            386.0
+          ],
+          "text": "202504255",
+          "confidence": 0.8415
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            352.0,
+            1234.0,
+            384.0
+          ],
+          "text": "Collection Date",
+          "confidence": 0.7937
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            396.0,
+            197.0,
+            433.0
+          ],
+          "text": "Patient's",
+          "confidence": 0.8071
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            440.0,
+            140.0,
+            472.0
+          ],
+          "text": "Ref.",
+          "confidence": 0.3363
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            321.0,
+            431.0,
+            635.0,
+            467.0
+          ],
+          "text": "Dr,Shree Parth Hospital",
+          "confidence": 0.6466
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            438.0,
+            1233.0,
+            479.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            621.0,
+            1039.0,
+            663.0
+          ],
+          "text": "LLERLUNCTON TESTS",
+          "confidence": 0.5311
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            670.0,
+            280.0,
+            702.0
+          ],
+          "text": "Bilirubin (Total)",
+          "confidence": 0.8107
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            670.0,
+            782.0,
+            700.0
+          ],
+          "text": "1.11",
+          "confidence": 0.7553
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            670.0,
+            1390.0,
+            698.0
+          ],
+          "text": "0.31.20",
+          "confidence": 0.5615
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            713.0,
+            289.0,
+            745.0
+          ],
+          "text": "Bilirubin (Direct)",
+          "confidence": 0.8935
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            716.0,
+            784.0,
+            746.0
+          ],
+          "text": "0.29",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1147.0,
+            717.0,
+            1217.0,
+            753.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.5739
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            714.0,
+            1418.0,
+            744.0
+          ],
+          "text": "00.4 mg/dl",
+          "confidence": 0.4169
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            755.0,
+            311.0,
+            793.0
+          ],
+          "text": "Bilirubin (Indirect)",
+          "confidence": 0.823
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            762.0,
+            784.0,
+            792.0
+          ],
+          "text": "0.82",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1147.0,
+            761.0,
+            1217.0,
+            797.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9618
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            760.0,
+            1400.0,
+            790.0
+          ],
+          "text": "0-0 mgldl",
+          "confidence": 0.9282
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            802.0,
+            222.0,
+            826.0
+          ],
+          "text": "incressed in",
+          "confidence": 0.8136
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            229.0,
+            799.0,
+            1398.0,
+            837.0
+          ],
+          "text": "acute or chronic hepatitis; cinhosis, biliary fract obstruction; toxic hepatitis, neonatal jaundice (noonalal hyperbilirubinemia);",
+          "confidence": 0.5277
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            826.0,
+            1431.0,
+            864.0
+          ],
+          "text": "congenital liver enzyme absoralities (dubin-johnson rotor; gilbert;, crigler-nejjar syndromes) , fasting, hemolytic disorders. Hepatotoxic druds:",
+          "confidence": 0.3533
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            864.0,
+            385.0,
+            900.0
+          ],
+          "text": "Alkaline Phosphatase",
+          "confidence": 0.7934
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            870.0,
+            798.0,
+            900.0
+          ],
+          "text": "123.4",
+          "confidence": 0.8756
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            872.0,
+            1192.0,
+            902.0
+          ],
+          "text": "IUn",
+          "confidence": 0.2847
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            868.0,
+            1412.0,
+            894.0
+          ],
+          "text": "60-170 iul",
+          "confidence": 0.4866
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            906.0,
+            1461.0,
+            943.0
+          ],
+          "text": "Increased In : Obstructive hepatobiliary disease; bone disease, hyperparalhyroidism,rickets;benign familiar hyperphosphatasemia , pregnancy,GI",
+          "confidence": 0.4492
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            932.0,
+            673.0,
+            969.0
+          ],
+          "text": "disease Hepatotoxic drug Decreased In: Hypophosphatasia.",
+          "confidence": 0.7885
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            971.0,
+            539.0,
+            1011.0
+          ],
+          "text": "Alanine Transaminase (ALTISGPT)",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            978.0,
+            798.0,
+            1008.0
+          ],
+          "text": "35.21",
+          "confidence": 0.9622
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            980.0,
+            1198.0,
+            1010.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            976.0,
+            1392.0,
+            1006.0
+          ],
+          "text": "5-50 UIL",
+          "confidence": 0.6283
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            1013.0,
+            364.0,
+            1045.0
+          ],
+          "text": "Serum, Method: UV Kinetic",
+          "confidence": 0.7356
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1058.0,
+            573.0,
+            1097.0
+          ],
+          "text": "Aspartate Transaminase (ASTISGOT)",
+          "confidence": 0.8212
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1064.0,
+            800.0,
+            1094.0
+          ],
+          "text": "36.78",
+          "confidence": 0.9826
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            1068.0,
+            1198.0,
+            1098.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            1064.0,
+            1392.0,
+            1094.0
+          ],
+          "text": "5-50 UIL",
+          "confidence": 0.7108
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            1101.0,
+            366.0,
+            1130.0
+          ],
+          "text": "Serum; Method: UV Kinetic",
+          "confidence": 0.7458
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1148.0,
+            262.0,
+            1176.0
+          ],
+          "text": "Total Proteins",
+          "confidence": 0.813
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1152.0,
+            786.0,
+            1182.0
+          ],
+          "text": "6.82",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            1154.0,
+            1340.0,
+            1182.0
+          ],
+          "text": "6-8",
+          "confidence": 0.8762
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1192.0,
+            188.0,
+            1222.0
+          ],
+          "text": "Albumin",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1196.0,
+            784.0,
+            1224.0
+          ],
+          "text": "3.74",
+          "confidence": 0.648
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            1198.0,
+            1433.0,
+            1230.0
+          ],
+          "text": "3.54.5 gmdl",
+          "confidence": 0.7775
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1238.0,
+            192.0,
+            1268.0
+          ],
+          "text": "Globulin",
+          "confidence": 0.7662
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1240.0,
+            784.0,
+            1268.0
+          ],
+          "text": "3.08",
+          "confidence": 0.9254
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            1242.0,
+            1432.0,
+            1274.0
+          ],
+          "text": "2.5-3.5 mgldl",
+          "confidence": 0.4544
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1282.0,
+            210.0,
+            1312.0
+          ],
+          "text": "AIG Ratio",
+          "confidence": 0.8955
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1286.0,
+            782.0,
+            1312.0
+          ],
+          "text": "1.21",
+          "confidence": 0.5193
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1141.0,
+            1285.0,
+            1230.0,
+            1325.0
+          ],
+          "text": "mgm%",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1299.0,
+            1285.0,
+            1448.0,
+            1321.0
+          ],
+          "text": "1.34.0 mgm%",
+          "confidence": 0.6656
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            1332.0,
+            1561.0,
+            1371.0
+          ],
+          "text": "The pattern of liver test abnormality is hepatocellular. The AST is typically in the 100 to 200 IU/L range, even in severe disease,and the ALT",
+          "confidence": 0.6557
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1360.0,
+            1285.0,
+            1399.0
+          ],
+          "text": "level may be normal, even in severe cases. The AST level is higher than the ALT level, and the ratio is greater than",
+          "confidence": 0.8092
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            1370.0,
+            1530.0,
+            1400.0
+          ],
+          "text": "in 70% of patients-",
+          "confidence": 0.7965
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            1405.0,
+            1023.0,
+            1441.0
+          ],
+          "text": "CREACTLEPRQTEIN",
+          "confidence": 0.5585
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1445.0,
+            401.0,
+            1478.0
+          ],
+          "text": "REACTIVE PROTEIN",
+          "confidence": 0.9602
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1448.0,
+            798.0,
+            1476.0
+          ],
+          "text": "28.87",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            1454.0,
+            1208.0,
+            1486.0
+          ],
+          "text": "mgIL",
+          "confidence": 0.6141
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            1452.0,
+            1342.0,
+            1482.0
+          ],
+          "text": "0-6",
+          "confidence": 0.9704
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1497.0,
+            1555.0,
+            1535.0
+          ],
+          "text": "C-reactive protein (CRP) is a important and evolutionarily ancient component of the innate immune response: CRP has been described as",
+          "confidence": 0.7762
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1525.0,
+            936.0,
+            1562.0
+          ],
+          "text": "\"the prototypical acute-phase reactant to infections and inflammation in human",
+          "confidence": 0.7536
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1025.0,
+            1529.0,
+            1529.0,
+            1566.0
+          ],
+          "text": "In the clinical setting; CRP is used \"as a clinical",
+          "confidence": 0.5792
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1553.0,
+            1557.0,
+            1595.0
+          ],
+          "text": "indicator of acute infections and response to treatment, and to assess inflammatory status in chronic diseases. Initially it was thought that",
+          "confidence": 0.6247
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1583.0,
+            1581.0,
+            1623.0
+          ],
+          "text": "CRP might be a pathogenic secretion as it was elevated in people with a variety of illnesses including cancer. However, discovery of synthesis",
+          "confidence": 0.5808
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1612.0,
+            824.0,
+            1648.0
+          ],
+          "text": "in the liver demonstrated that it is manufactured by the human body:",
+          "confidence": 0.6795
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1642.0,
+            1078.0,
+            1674.0
+          ],
+          "text": "The fact that CRP is an independent predictor of stroke and coronary artery disease but also a",
+          "confidence": 0.7003
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1120.0,
+            1650.0,
+            1478.0,
+            1678.0
+          ],
+          "text": "contributor to effective bacterial",
+          "confidence": 0.8444
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            1670.0,
+            1527.0,
+            1713.0
+          ],
+          "text": "clearance, underscores the importance of microbes in the pathogenesis of these diseases. Some patients on the Marshall Protocol (MP)",
+          "confidence": 0.6573
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1698.0,
+            1203.0,
+            1737.0
+          ],
+          "text": "have reported temporary increases in CRPuan observation which is consistent with a heightened immunel",
+          "confidence": 0.4111
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            1730.0,
+            142.0,
+            1756.0
+          ],
+          "text": "CRP's",
+          "confidence": 0.7757
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            1759.0,
+            342.0,
+            1788.0
+          ],
+          "text": "pneumococcal infection;",
+          "confidence": 0.8499
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1301.0,
+            1953.0,
+            1503.0,
+            2014.0
+          ],
+          "text": "Qp4",
+          "confidence": 0.0691
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            2033.0,
+            1447.0,
+            2069.0
+          ],
+          "text": "DrDP Rajput",
+          "confidence": 0.5995
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            2074.0,
+            1432.0,
+            2106.0
+          ],
+          "text": "MBBS,DCP",
+          "confidence": 0.9732
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            413.0,
+            2113.0,
+            595.0,
+            2149.0
+          ],
+          "text": "Lab Technician",
+          "confidence": 0.979
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            2165.0,
+            411.0,
+            2209.0
+          ],
+          "text": "\"Please correlate reporSwiSHpizl",
+          "confidence": 0.3638
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            403.0,
+            2170.0,
+            1188.0,
+            2218.0
+          ],
+          "text": "patiHospital_Banarsi Nagar_Hirawadi Panchavati_Nashik",
+          "confidence": 0.7101
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1384.543071206464,
+            668.5063974443401,
+            1447.456928793536,
+            702.4936025556599
+          ],
+          "text": "mgldl",
+          "confidence": 0.4732
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1146.3447882227952,
+            670.0574282752855,
+            1217.6552117772048,
+            708.9425717247145
+          ],
+          "text": "mgldl",
+          "confidence": 0.9699
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1333.4789396203098,
+            1150.5269608098918,
+            1397.5210603796902,
+            1184.4730391901082
+          ],
+          "text": "gmldl",
+          "confidence": 0.2883
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1141.2802656784306,
+            1152.0574282752855,
+            1213.7197343215694,
+            1190.9425717247145
+          ],
+          "text": "gmldl",
+          "confidence": 0.9126
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1141.2802656784306,
+            1196.0574282752855,
+            1213.7197343215694,
+            1234.9425717247145
+          ],
+          "text": "gmldl",
+          "confidence": 0.9787
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1141.2802656784306,
+            1240.0574282752855,
+            1213.7197343215694,
+            1278.9425717247145
+          ],
+          "text": "gmldl",
+          "confidence": 0.9822
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1281.2499121058747,
+            1367.2145699273442,
+            1325.7500878941253,
+            1397.7854300726558
+          ],
+          "text": "2:1",
+          "confidence": 0.6912
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            931.0639666264153,
+            1525.1365600658949,
+            1017.9360333735847,
+            1562.8634399341051
+          ],
+          "text": "beings:",
+          "confidence": 0.8441
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1072.1788713227486,
+            1642.1289267866996,
+            1124.8211286772514,
+            1680.8710732133004
+          ],
+          "text": "key",
+          "confidence": 0.9653
+        }
+      ]
+    }
+  ],
+  "full_text": "PARTH\nPATHOLOGY LABORATORY\nPatient ID\n202504255\nCollection Date\nPatient's\nRef.\nDr,Shree Parth Hospital\nReporting Date\nLLERLUNCTON TESTS\nBilirubin (Total)\n1.11\n0.31.20\nBilirubin (Direct)\n0.29\nmgldl\n00.4 mg/dl\nBilirubin (Indirect)\n0.82\nmgldl\n0-0 mgldl\nincressed in\nacute or chronic hepatitis; cinhosis, biliary fract obstruction; toxic hepatitis, neonatal jaundice (noonalal hyperbilirubinemia);\ncongenital liver enzyme absoralities (dubin-johnson rotor; gilbert;, crigler-nejjar syndromes) , fasting, hemolytic disorders. Hepatotoxic druds:\nAlkaline Phosphatase\n123.4\nIUn\n60-170 iul\nIncreased In : Obstructive hepatobiliary disease; bone disease, hyperparalhyroidism,rickets;benign familiar hyperphosphatasemia , pregnancy,GI\ndisease Hepatotoxic drug Decreased In: Hypophosphatasia.\nAlanine Transaminase (ALTISGPT)\n35.21\nIUIL\n5-50 UIL\nSerum, Method: UV Kinetic\nAspartate Transaminase (ASTISGOT)\n36.78\nIUIL\n5-50 UIL\nSerum; Method: UV Kinetic\nTotal Proteins\n6.82\n6-8\nAlbumin\n3.74\n3.54.5 gmdl\nGlobulin\n3.08\n2.5-3.5 mgldl\nAIG Ratio\n1.21\nmgm%\n1.34.0 mgm%\nThe pattern of liver test abnormality is hepatocellular. The AST is typically in the 100 to 200 IU/L range, even in severe disease,and the ALT\nlevel may be normal, even in severe cases. The AST level is higher than the ALT level, and the ratio is greater than\nin 70% of patients-\nCREACTLEPRQTEIN\nREACTIVE PROTEIN\n28.87\nmgIL\n0-6\nC-reactive protein (CRP) is a important and evolutionarily ancient component of the innate immune response: CRP has been described as\n\"the prototypical acute-phase reactant to infections and inflammation in human\nIn the clinical setting; CRP is used \"as a clinical\nindicator of acute infections and response to treatment, and to assess inflammatory status in chronic diseases. Initially it was thought that\nCRP might be a pathogenic secretion as it was elevated in people with a variety of illnesses including cancer. However, discovery of synthesis\nin the liver demonstrated that it is manufactured by the human body:\nThe fact that CRP is an independent predictor of stroke and coronary artery disease but also a\ncontributor to effective bacterial\nclearance, underscores the importance of microbes in the pathogenesis of these diseases. Some patients on the Marshall Protocol (MP)\nhave reported temporary increases in CRPuan observation which is consistent with a heightened immunel\nCRP's\npneumococcal infection;\nQp4\nDrDP Rajput\nMBBS,DCP\nLab Technician\n\"Please correlate reporSwiSHpizl\npatiHospital_Banarsi Nagar_Hirawadi Panchavati_Nashik\nmgldl\nmgldl\ngmldl\ngmldl\ngmldl\ngmldl\n2:1\nbeings:\nkey",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "The pattern of liver test abnormality is hepatocellular. The AST is typically in the",
+          "biomarker_normalized": "The pattern of liver test abnormality is hepatocellular. The AST is typically in the",
+          "value": "100",
+          "unit": "IU/L",
+          "reference_range": "100-200",
+          "source_line": "The pattern of liver test abnormality is hepatocellular. The AST is typically in the 100 to 200 IU/L range, even in severe disease,and the ALT",
+          "confidence": 1.0
+        },
+        {
+          "biomarker": "in",
+          "biomarker_normalized": "in",
+          "value": "70",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "in 70% of patients-",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 88,
+    "ocr_avg_confidence": 0.7521,
+    "parsed_row_count": 2
+  }
+}

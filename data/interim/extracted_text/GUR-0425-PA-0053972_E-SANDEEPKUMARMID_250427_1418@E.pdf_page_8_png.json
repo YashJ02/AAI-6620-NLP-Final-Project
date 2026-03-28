@@ -1,0 +1,432 @@
+{
+  "document_id": "GUR-0425-PA-0053972_E-SANDEEPKUMARMID_250427_1418@E.pdf_page_8",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053972_E-SANDEEPKUMARMID_250427_1418@E.pdf_page_8.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Aakash Healthcare\n7x\n4-2019-0613\nSuper Speciality\nHospical\nWe can, He cunx\nDiagnostic Report\nIPID\n128824\nPatient Name\nMr. SANDEEP\nKUMAR\nOrder Date\n[18.45\nAge/Sex\n35 Year(s)/Male\nUHID\nAHDW.455123\nReport Date\n13.46\nRef. Doctor\nDr Neuro Unit- Dr Madhukar Bhardwaj/Dr\nFacility\nAakash Healthcare Delhi\nRarsbehard\nBhad saIVPURI=\nGALI NO-3 WEST\nAddress\nSAGARPUR, sagar pur,New Delhi, Delhi,\n\"\n110046\nMRI BRAIN (PLAIN)",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            175.0,
+            607.0,
+            217.0
+          ],
+          "text": "Aakash Healthcare",
+          "confidence": 0.6251
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            721.0,
+            127.0,
+            892.0,
+            238.0
+          ],
+          "text": "7x",
+          "confidence": 0.2492
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            169.0,
+            1485.0,
+            189.0
+          ],
+          "text": "4-2019-0613",
+          "confidence": 0.5629
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            215.0,
+            468.0,
+            248.0
+          ],
+          "text": "Super Speciality",
+          "confidence": 0.957
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            481.0,
+            210.0,
+            602.0,
+            243.0
+          ],
+          "text": "Hospical",
+          "confidence": 0.979
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            343.0,
+            245.0,
+            499.0,
+            261.0
+          ],
+          "text": "We can, He cunx",
+          "confidence": 0.2667
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            298.0,
+            1007.0,
+            336.0
+          ],
+          "text": "Diagnostic Report",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            976.0,
+            388.0,
+            1026.0,
+            414.0
+          ],
+          "text": "IPID",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            384.0,
+            1258.0,
+            408.0
+          ],
+          "text": "128824",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            402.0,
+            386.0,
+            428.0
+          ],
+          "text": "Patient Name",
+          "confidence": 0.7176
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            395.0,
+            590.0,
+            424.0
+          ],
+          "text": "Mr. SANDEEP",
+          "confidence": 0.8137
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            396.0,
+            680.0,
+            422.0
+          ],
+          "text": "KUMAR",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            974.0,
+            422.0,
+            1086.0,
+            448.0
+          ],
+          "text": "Order Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            416.0,
+            1358.0,
+            442.0
+          ],
+          "text": "[18.45",
+          "confidence": 0.2926
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            253.0,
+            434.0,
+            338.0,
+            467.0
+          ],
+          "text": "Age/Sex",
+          "confidence": 0.962
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            431.0,
+            616.0,
+            463.0
+          ],
+          "text": "35 Year(s)/Male",
+          "confidence": 0.7385
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            256.0,
+            470.0,
+            312.0,
+            494.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            459.0,
+            464.0,
+            604.0,
+            492.0
+          ],
+          "text": "AHDW.455123",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            976.0,
+            458.0,
+            1096.0,
+            486.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.7548
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            452.0,
+            1360.0,
+            478.0
+          ],
+          "text": "13.46",
+          "confidence": 0.9085
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            256.0,
+            502.0,
+            368.0,
+            528.0
+          ],
+          "text": "Ref. Doctor",
+          "confidence": 0.9435
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            492.0,
+            856.0,
+            524.0
+          ],
+          "text": "Dr Neuro Unit- Dr Madhukar Bhardwaj/Dr",
+          "confidence": 0.7432
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            975.0,
+            490.0,
+            1048.0,
+            520.0
+          ],
+          "text": "Facility",
+          "confidence": 0.8458
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            486.0,
+            1418.0,
+            514.0
+          ],
+          "text": "Aakash Healthcare Delhi",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            525.0,
+            580.0,
+            576.0
+          ],
+          "text": "Rarsbehard",
+          "confidence": 0.4333
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            520.0,
+            526.0,
+            684.0,
+            576.0
+          ],
+          "text": "Bhad saIVPURI=",
+          "confidence": 0.1022
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            542.0,
+            846.0,
+            570.0
+          ],
+          "text": "GALI NO-3 WEST",
+          "confidence": 0.7508
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            256.0,
+            556.0,
+            338.0,
+            582.0
+          ],
+          "text": "Address",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            574.0,
+            842.0,
+            606.0
+          ],
+          "text": "SAGARPUR, sagar pur,New Delhi, Delhi,",
+          "confidence": 0.6522
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            528.0,
+            1296.0,
+            624.0
+          ],
+          "text": "\"",
+          "confidence": 0.0663
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            610.0,
+            540.0,
+            636.0
+          ],
+          "text": "110046",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            656.0,
+            1018.0,
+            688.0
+          ],
+          "text": "MRI BRAIN (PLAIN)",
+          "confidence": 0.4838
+        }
+      ]
+    }
+  ],
+  "full_text": "Aakash Healthcare\n7x\n4-2019-0613\nSuper Speciality\nHospical\nWe can, He cunx\nDiagnostic Report\nIPID\n128824\nPatient Name\nMr. SANDEEP\nKUMAR\nOrder Date\n[18.45\nAge/Sex\n35 Year(s)/Male\nUHID\nAHDW.455123\nReport Date\n13.46\nRef. Doctor\nDr Neuro Unit- Dr Madhukar Bhardwaj/Dr\nFacility\nAakash Healthcare Delhi\nRarsbehard\nBhad saIVPURI=\nGALI NO-3 WEST\nAddress\nSAGARPUR, sagar pur,New Delhi, Delhi,\n\"\n110046\nMRI BRAIN (PLAIN)",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "AHDW.",
+          "biomarker_normalized": "AHDW.",
+          "value": "455123",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AHDW.455123",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "GALI NO",
+          "biomarker_normalized": "GALI NO",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "GALI NO-3 WEST",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 32,
+    "ocr_avg_confidence": 0.7451,
+    "parsed_row_count": 2
+  }
+}

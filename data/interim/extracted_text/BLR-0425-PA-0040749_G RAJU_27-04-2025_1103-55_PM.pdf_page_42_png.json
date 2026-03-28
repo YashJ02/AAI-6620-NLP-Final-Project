@@ -1,0 +1,1704 @@
+{
+  "document_id": "BLR-0425-PA-0040749_G RAJU_27-04-2025_1103-55_PM.pdf_page_42",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0040749_G RAJU_27-04-2025_1103-55_PM.pdf_page_42.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "KIMS-ICON\n#AbH\nH 0 $ P | T A L\nDEPARTMENT OF CLINICAL BIOCHEMISTRY\nFatient\nBy\nDr.CHENNA VIJAY MD, DM (NEUROLOGY)\nBill Date\n23-Apr-25\n04:03 PM\n(Sample Coll;\n23-Apr-25\n4:03PM\nAdmn\nUMR No\nUMR99968\nSample Rec:\n01-Jan--13 12:00 AM\nService No\n52050579\nReport Date\n23-Apr-25\n5:06 PM\nWard / Room/ Bed\nOPERATION THFATRE/OT/OT-1\nParameter\nSpecimen\nResults\nBiological Reference\ncthb\n10.9\nCalculated\nHclc\n35\nCalculated\nOxvqen Status\nctoze\n25.7\nCalculaled\nCalculated Values\ncBase Ecf)c\n24.3\nCalculated\nchCO3(P,st)c\n23,6\nCalculaled\ncCa++(7.4Jc\n1,70\nCalculated\nARTERIAL BLOOD GASES (ABG)\nBlood Gas Values\nPH\n7.29\n1 7,350\n7.450\nPotentiometry\nPCO2\n53\n[ 32.0\n45,0\nmmHg\nPotentiometry\nPO2\n418\n1\n80.0\n100.0\nmmilg\nAmperomelry\nElectrclytc Values\ncNa +\n134\n134,0\n146.0\nmmoll\nDirect ISE\nck +\n4.3\n3,5\n5.5\nmmol/l\nDirect ISE\ncCa+ +\n2.08\n1 1.15\n1.32\nmEq/L\nDirect ISE\nMetabolite Values\nclac\n2.2\n1 05\n1.6 mmol/l\ncGlu\n224\nOximctry Values\n502\n100\nCalculated\nFOzhbe\n-1,6\nCalculated\nFHHbC\n-1.1\nCalculaled\nctHb\n11.2\nCalculated\nHctc\n36\nCalculated\nOxyqen Status\nctoze\n27.1\nCalculated\nPrinted By\n41060u09\nPrinted On\n26-Apr-2025 09.23;53 AM\nSystem\norMedico/\n38\nKIMS Icone\n{0\nMOSPITAL\n5\nVisaanepetnaly\nIconkrishi Institute of Medical Sciences Rr\nate Limited\n#32-11-02, Sheela Nagar: BHPV PosqVtsaki)\n(nam\n530 012\nAndhra Pradesh; India, Phone Nc: 0891\nklmshospitals com\nCIN: UBS110AP2018PTC108133",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1083.0,
+            88.0,
+            1596.0,
+            188.0
+          ],
+          "text": "KIMS-ICON",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            175.0,
+            198.0,
+            201.0
+          ],
+          "text": "#AbH",
+          "confidence": 0.1406
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            170.0,
+            1509.0,
+            211.0
+          ],
+          "text": "H 0 $ P | T A L",
+          "confidence": 0.3064
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            441.0,
+            290.0,
+            1195.0,
+            333.0
+          ],
+          "text": "DEPARTMENT OF CLINICAL BIOCHEMISTRY",
+          "confidence": 0.9646
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            367.0,
+            239.0,
+            403.0
+          ],
+          "text": "Fatient",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            866.0,
+            420.0,
+            908.0,
+            452.0
+          ],
+          "text": "By",
+          "confidence": 0.8116
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            412.0,
+            1486.0,
+            444.0
+          ],
+          "text": "Dr.CHENNA VIJAY MD, DM (NEUROLOGY)",
+          "confidence": 0.7858
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            432.0,
+            264.0,
+            462.0
+          ],
+          "text": "Bill Date",
+          "confidence": 0.982
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            344.0,
+            426.0,
+            483.0,
+            462.0
+          ],
+          "text": "23-Apr-25",
+          "confidence": 0.4786
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            492.0,
+            428.0,
+            620.0,
+            458.0
+          ],
+          "text": "04:03 PM",
+          "confidence": 0.8338
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            475.0,
+            294.0,
+            507.0
+          ],
+          "text": "(Sample Coll;",
+          "confidence": 0.669
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            466.0,
+            485.0,
+            502.0
+          ],
+          "text": "23-Apr-25",
+          "confidence": 0.7953
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            468.0,
+            606.0,
+            498.0
+          ],
+          "text": "4:03PM",
+          "confidence": 0.9165
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            474.0,
+            824.0,
+            504.0
+          ],
+          "text": "Admn",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            852.0,
+            474.0,
+            966.0,
+            504.0
+          ],
+          "text": "UMR No",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            465.0,
+            1403.0,
+            502.0
+          ],
+          "text": "UMR99968",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            510.0,
+            316.0,
+            542.0
+          ],
+          "text": "Sample Rec:",
+          "confidence": 0.9778
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            510.0,
+            626.0,
+            540.0
+          ],
+          "text": "01-Jan--13 12:00 AM",
+          "confidence": 0.8183
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            516.0,
+            892.0,
+            542.0
+          ],
+          "text": "Service No",
+          "confidence": 0.9199
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            514.0,
+            1132.0,
+            544.0
+          ],
+          "text": "52050579",
+          "confidence": 0.8689
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            551.0,
+            311.0,
+            587.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.9897
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            550.0,
+            484.0,
+            580.0
+          ],
+          "text": "23-Apr-25",
+          "confidence": 0.8578
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            548.0,
+            616.0,
+            580.0
+          ],
+          "text": "5:06 PM",
+          "confidence": 0.5385
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            550.0,
+            986.0,
+            582.0
+          ],
+          "text": "Ward / Room/ Bed",
+          "confidence": 0.4841
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            545.0,
+            1409.0,
+            582.0
+          ],
+          "text": "OPERATION THFATRE/OT/OT-1",
+          "confidence": 0.7353
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            624.0,
+            278.0,
+            652.0
+          ],
+          "text": "Parameter",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            516.0,
+            617.0,
+            663.0,
+            655.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            620.0,
+            828.0,
+            648.0
+          ],
+          "text": "Results",
+          "confidence": 0.648
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            616.0,
+            1242.0,
+            648.0
+          ],
+          "text": "Biological Reference",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            662.0,
+            184.0,
+            688.0
+          ],
+          "text": "cthb",
+          "confidence": 0.8663
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            656.0,
+            776.0,
+            684.0
+          ],
+          "text": "10.9",
+          "confidence": 0.9646
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            650.0,
+            1388.0,
+            676.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9879
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            710.0,
+            184.0,
+            736.0
+          ],
+          "text": "Hclc",
+          "confidence": 0.6948
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            704.0,
+            756.0,
+            734.0
+          ],
+          "text": "35",
+          "confidence": 0.6636
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1265.0,
+            697.0,
+            1389.0,
+            725.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.8536
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            752.0,
+            318.0,
+            783.0
+          ],
+          "text": "Oxvqen Status",
+          "confidence": 0.6013
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            788.0,
+            200.0,
+            814.0
+          ],
+          "text": "ctoze",
+          "confidence": 0.985
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            784.0,
+            776.0,
+            810.0
+          ],
+          "text": "25.7",
+          "confidence": 0.8607
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            778.0,
+            1390.0,
+            804.0
+          ],
+          "text": "Calculaled",
+          "confidence": 0.7564
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            832.0,
+            356.0,
+            860.0
+          ],
+          "text": "Calculated Values",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            868.0,
+            264.0,
+            896.0
+          ],
+          "text": "cBase Ecf)c",
+          "confidence": 0.584
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            864.0,
+            776.0,
+            890.0
+          ],
+          "text": "24.3",
+          "confidence": 0.8642
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            856.0,
+            1390.0,
+            884.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            916.0,
+            284.0,
+            944.0
+          ],
+          "text": "chCO3(P,st)c",
+          "confidence": 0.4934
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            912.0,
+            776.0,
+            938.0
+          ],
+          "text": "23,6",
+          "confidence": 0.8057
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            906.0,
+            1390.0,
+            932.0
+          ],
+          "text": "Calculaled",
+          "confidence": 0.9574
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            961.0,
+            281.0,
+            998.0
+          ],
+          "text": "cCa++(7.4Jc",
+          "confidence": 0.5477
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            962.0,
+            780.0,
+            990.0
+          ],
+          "text": "1,70",
+          "confidence": 0.5882
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            956.0,
+            1392.0,
+            982.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9771
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1015.0,
+            579.0,
+            1051.0
+          ],
+          "text": "ARTERIAL BLOOD GASES (ABG)",
+          "confidence": 0.8895
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1058.0,
+            352.0,
+            1088.0
+          ],
+          "text": "Blood Gas Values",
+          "confidence": 0.8345
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1096.0,
+            164.0,
+            1122.0
+          ],
+          "text": "PH",
+          "confidence": 0.6959
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            1090.0,
+            778.0,
+            1116.0
+          ],
+          "text": "7.29",
+          "confidence": 0.9085
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1085.0,
+            1035.0,
+            1123.0
+          ],
+          "text": "1 7,350",
+          "confidence": 0.3722
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            1086.0,
+            1124.0,
+            1112.0
+          ],
+          "text": "7.450",
+          "confidence": 0.37
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1269.0,
+            1083.0,
+            1436.0,
+            1112.0
+          ],
+          "text": "Potentiometry",
+          "confidence": 0.8502
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1140.0,
+            196.0,
+            1170.0
+          ],
+          "text": "PCO2",
+          "confidence": 0.516
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1140.0,
+            756.0,
+            1164.0
+          ],
+          "text": "53",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1135.0,
+            1021.0,
+            1175.0
+          ],
+          "text": "[ 32.0",
+          "confidence": 0.1731
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1136.0,
+            1096.0,
+            1160.0
+          ],
+          "text": "45,0",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1136.0,
+            1186.0,
+            1164.0
+          ],
+          "text": "mmHg",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1269.0,
+            1131.0,
+            1436.0,
+            1162.0
+          ],
+          "text": "Potentiometry",
+          "confidence": 0.7367
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1190.0,
+            180.0,
+            1218.0
+          ],
+          "text": "PO2",
+          "confidence": 0.19
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1188.0,
+            770.0,
+            1214.0
+          ],
+          "text": "418",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1191.0,
+            953.0,
+            1221.0
+          ],
+          "text": "1",
+          "confidence": 0.3243
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            962.0,
+            1186.0,
+            1020.0,
+            1210.0
+          ],
+          "text": "80.0",
+          "confidence": 0.531
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1184.0,
+            1112.0,
+            1210.0
+          ],
+          "text": "100.0",
+          "confidence": 0.6619
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1186.0,
+            1202.0,
+            1214.0
+          ],
+          "text": "mmilg",
+          "confidence": 0.3462
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1182.0,
+            1432.0,
+            1210.0
+          ],
+          "text": "Amperomelry",
+          "confidence": 0.9855
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1233.0,
+            361.0,
+            1266.0
+          ],
+          "text": "Electrclytc Values",
+          "confidence": 0.8246
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1272.0,
+            194.0,
+            1298.0
+          ],
+          "text": "cNa +",
+          "confidence": 0.8179
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1268.0,
+            772.0,
+            1294.0
+          ],
+          "text": "134",
+          "confidence": 0.8984
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            962.0,
+            1266.0,
+            1036.0,
+            1292.0
+          ],
+          "text": "134,0",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            1264.0,
+            1126.0,
+            1290.0
+          ],
+          "text": "146.0",
+          "confidence": 0.7818
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1135.0,
+            1263.0,
+            1227.0,
+            1289.0
+          ],
+          "text": "mmoll",
+          "confidence": 0.7036
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1262.0,
+            1392.0,
+            1288.0
+          ],
+          "text": "Direct ISE",
+          "confidence": 0.9159
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1320.0,
+            178.0,
+            1346.0
+          ],
+          "text": "ck +",
+          "confidence": 0.404
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1318.0,
+            764.0,
+            1342.0
+          ],
+          "text": "4.3",
+          "confidence": 0.6632
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            962.0,
+            1314.0,
+            1008.0,
+            1340.0
+          ],
+          "text": "3,5",
+          "confidence": 0.7322
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            1314.0,
+            1068.0,
+            1340.0
+          ],
+          "text": "5.5",
+          "confidence": 0.7571
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            1314.0,
+            1170.0,
+            1340.0
+          ],
+          "text": "mmol/l",
+          "confidence": 0.8054
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1312.0,
+            1392.0,
+            1338.0
+          ],
+          "text": "Direct ISE",
+          "confidence": 0.8734
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1368.0,
+            210.0,
+            1394.0
+          ],
+          "text": "cCa+ +",
+          "confidence": 0.4408
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1366.0,
+            780.0,
+            1392.0
+          ],
+          "text": "2.08",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1360.0,
+            1023.0,
+            1401.0
+          ],
+          "text": "1 1.15",
+          "confidence": 0.8949
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1362.0,
+            1098.0,
+            1388.0
+          ],
+          "text": "1.32",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1362.0,
+            1186.0,
+            1390.0
+          ],
+          "text": "mEq/L",
+          "confidence": 0.6177
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1360.0,
+            1392.0,
+            1386.0
+          ],
+          "text": "Direct ISE",
+          "confidence": 0.9496
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1410.0,
+            358.0,
+            1440.0
+          ],
+          "text": "Metabolite Values",
+          "confidence": 0.9688
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1448.0,
+            186.0,
+            1474.0
+          ],
+          "text": "clac",
+          "confidence": 0.7598
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1444.0,
+            766.0,
+            1470.0
+          ],
+          "text": "2.2",
+          "confidence": 0.7371
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1441.0,
+            1007.0,
+            1481.0
+          ],
+          "text": "1 05",
+          "confidence": 0.8961
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            1442.0,
+            1164.0,
+            1468.0
+          ],
+          "text": "1.6 mmol/l",
+          "confidence": 0.8735
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1496.0,
+            184.0,
+            1522.0
+          ],
+          "text": "cGlu",
+          "confidence": 0.9703
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1494.0,
+            772.0,
+            1520.0
+          ],
+          "text": "224",
+          "confidence": 0.9432
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1538.0,
+            344.0,
+            1570.0
+          ],
+          "text": "Oximctry Values",
+          "confidence": 0.6032
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1576.0,
+            180.0,
+            1602.0
+          ],
+          "text": "502",
+          "confidence": 0.9801
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1574.0,
+            772.0,
+            1600.0
+          ],
+          "text": "100",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1568.0,
+            1396.0,
+            1594.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1624.0,
+            224.0,
+            1650.0
+          ],
+          "text": "FOzhbe",
+          "confidence": 0.7217
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1622.0,
+            776.0,
+            1648.0
+          ],
+          "text": "-1,6",
+          "confidence": 0.5223
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            1618.0,
+            1396.0,
+            1644.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1674.0,
+            210.0,
+            1700.0
+          ],
+          "text": "FHHbC",
+          "confidence": 0.5267
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1674.0,
+            774.0,
+            1698.0
+          ],
+          "text": "-1.1",
+          "confidence": 0.4195
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1273.0,
+            1665.0,
+            1396.0,
+            1695.0
+          ],
+          "text": "Calculaled",
+          "confidence": 0.9382
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1722.0,
+            188.0,
+            1748.0
+          ],
+          "text": "ctHb",
+          "confidence": 0.4239
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1720.0,
+            780.0,
+            1746.0
+          ],
+          "text": "11.2",
+          "confidence": 0.6914
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            1716.0,
+            1396.0,
+            1742.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.8479
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1772.0,
+            186.0,
+            1798.0
+          ],
+          "text": "Hctc",
+          "confidence": 0.4225
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1770.0,
+            760.0,
+            1798.0
+          ],
+          "text": "36",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            1764.0,
+            1396.0,
+            1792.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1816.0,
+            324.0,
+            1847.0
+          ],
+          "text": "Oxyqen Status",
+          "confidence": 0.9102
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1852.0,
+            202.0,
+            1878.0
+          ],
+          "text": "ctoze",
+          "confidence": 0.8415
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1850.0,
+            780.0,
+            1874.0
+          ],
+          "text": "27.1",
+          "confidence": 0.9042
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            1844.0,
+            1398.0,
+            1870.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1912.0,
+            240.0,
+            1942.0
+          ],
+          "text": "Printed By",
+          "confidence": 0.9558
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            1910.0,
+            376.0,
+            1938.0
+          ],
+          "text": "41060u09",
+          "confidence": 0.5959
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            1910.0,
+            686.0,
+            1936.0
+          ],
+          "text": "Printed On",
+          "confidence": 0.9302
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            1908.0,
+            1018.0,
+            1938.0
+          ],
+          "text": "26-Apr-2025 09.23;53 AM",
+          "confidence": 0.814
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            1908.0,
+            1180.0,
+            1936.0
+          ],
+          "text": "System",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            1980.0,
+            1388.0,
+            2030.0
+          ],
+          "text": "orMedico/",
+          "confidence": 0.1372
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            1225.0,
+            2013.0,
+            1261.0,
+            2053.0
+          ],
+          "text": "38",
+          "confidence": 0.5793
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            1243.0,
+            2059.0,
+            1426.0,
+            2103.0
+          ],
+          "text": "KIMS Icone",
+          "confidence": 0.2267
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            1401.0,
+            2091.0,
+            1423.0,
+            2109.0
+          ],
+          "text": "{0",
+          "confidence": 0.1609
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            2098.0,
+            1384.0,
+            2124.0
+          ],
+          "text": "MOSPITAL",
+          "confidence": 0.6278
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            1399.0,
+            2105.0,
+            1421.0,
+            2123.0
+          ],
+          "text": "5",
+          "confidence": 0.0301
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            2122.0,
+            1386.0,
+            2148.0
+          ],
+          "text": "Visaanepetnaly",
+          "confidence": 0.1525
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            858.0,
+            2140.0,
+            1406.0,
+            2172.0
+          ],
+          "text": "Iconkrishi Institute of Medical Sciences Rr",
+          "confidence": 0.6093
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            1418.0,
+            2141.0,
+            1572.0,
+            2174.0
+          ],
+          "text": "ate Limited",
+          "confidence": 0.6714
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            859.0,
+            2166.0,
+            1372.0,
+            2203.0
+          ],
+          "text": "#32-11-02, Sheela Nagar: BHPV PosqVtsaki)",
+          "confidence": 0.1073
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            1399.0,
+            2175.0,
+            1459.0,
+            2195.0
+          ],
+          "text": "(nam",
+          "confidence": 0.8789
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            1474.0,
+            2172.0,
+            1572.0,
+            2200.0
+          ],
+          "text": "530 012",
+          "confidence": 0.9579
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            2194.0,
+            1236.0,
+            2222.0
+          ],
+          "text": "Andhra Pradesh; India, Phone Nc: 0891",
+          "confidence": 0.666
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            2198.0,
+            1570.0,
+            2226.0
+          ],
+          "text": "klmshospitals com",
+          "confidence": 0.748
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            2224.0,
+            1570.0,
+            2250.0
+          ],
+          "text": "CIN: UBS110AP2018PTC108133",
+          "confidence": 0.3736
+        }
+      ]
+    }
+  ],
+  "full_text": "KIMS-ICON\n#AbH\nH 0 $ P | T A L\nDEPARTMENT OF CLINICAL BIOCHEMISTRY\nFatient\nBy\nDr.CHENNA VIJAY MD, DM (NEUROLOGY)\nBill Date\n23-Apr-25\n04:03 PM\n(Sample Coll;\n23-Apr-25\n4:03PM\nAdmn\nUMR No\nUMR99968\nSample Rec:\n01-Jan--13 12:00 AM\nService No\n52050579\nReport Date\n23-Apr-25\n5:06 PM\nWard / Room/ Bed\nOPERATION THFATRE/OT/OT-1\nParameter\nSpecimen\nResults\nBiological Reference\ncthb\n10.9\nCalculated\nHclc\n35\nCalculated\nOxvqen Status\nctoze\n25.7\nCalculaled\nCalculated Values\ncBase Ecf)c\n24.3\nCalculated\nchCO3(P,st)c\n23,6\nCalculaled\ncCa++(7.4Jc\n1,70\nCalculated\nARTERIAL BLOOD GASES (ABG)\nBlood Gas Values\nPH\n7.29\n1 7,350\n7.450\nPotentiometry\nPCO2\n53\n[ 32.0\n45,0\nmmHg\nPotentiometry\nPO2\n418\n1\n80.0\n100.0\nmmilg\nAmperomelry\nElectrclytc Values\ncNa +\n134\n134,0\n146.0\nmmoll\nDirect ISE\nck +\n4.3\n3,5\n5.5\nmmol/l\nDirect ISE\ncCa+ +\n2.08\n1 1.15\n1.32\nmEq/L\nDirect ISE\nMetabolite Values\nclac\n2.2\n1 05\n1.6 mmol/l\ncGlu\n224\nOximctry Values\n502\n100\nCalculated\nFOzhbe\n-1,6\nCalculated\nFHHbC\n-1.1\nCalculaled\nctHb\n11.2\nCalculated\nHctc\n36\nCalculated\nOxyqen Status\nctoze\n27.1\nCalculated\nPrinted By\n41060u09\nPrinted On\n26-Apr-2025 09.23;53 AM\nSystem\norMedico/\n38\nKIMS Icone\n{0\nMOSPITAL\n5\nVisaanepetnaly\nIconkrishi Institute of Medical Sciences Rr\nate Limited\n#32-11-02, Sheela Nagar: BHPV PosqVtsaki)\n(nam\n530 012\nAndhra Pradesh; India, Phone Nc: 0891\nklmshospitals com\nCIN: UBS110AP2018PTC108133",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "H 0 $ P | T A L",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "UMR9",
+          "biomarker_normalized": "UMR9",
+          "value": "9968",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UMR99968",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "OPERATION THFATRE/OT/OT",
+          "biomarker_normalized": "OPERATION THFATRE/OT/OT",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "OPERATION THFATRE/OT/OT-1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "cCa++(",
+          "biomarker_normalized": "cCa++(",
+          "value": "7.4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "cCa++(7.4Jc",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Andhra Pradesh; India, Phone Nc",
+          "biomarker_normalized": "Andhra Pradesh; India, Phone Nc",
+          "value": "0891",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Andhra Pradesh; India, Phone Nc: 0891",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN: UBS1",
+          "biomarker_normalized": "CIN: UBS1",
+          "value": "10",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN: UBS110AP2018PTC108133",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 135,
+    "ocr_avg_confidence": 0.7488,
+    "parsed_row_count": 6
+  }
+}

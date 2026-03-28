@@ -1,0 +1,1062 @@
+{
+  "document_id": "GUR-0425-PA-0055511_Q-ROHIT4854000111zon_250427_1412@F.pdf_page_23",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055511_Q-ROHIT4854000111zon_250427_1412@F.pdf_page_23.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "0SCAR SUPER SPECIALITY HOSPITAL\n%\n& TRAUMA CENTRE\nE\npp: Civil Hospital; Sonipat\nMob :\nWransaction No\n42463\nPatientl\nMobile No.\n4854\nDoctor Name\nDR SIDDHARTH SHARMA\nReporting Dale\nVTest Name\nURINE R/M\nCOMPONENT\nRESULIS\nUNS\nREFE RANGE\nPHYSICALEXIIN IOH\nLPPZARARCE\nYELLOV SH\nPH\n7.5\n6 8\nSPECIFIC CRAVITY\n025\n1,.003 _ 1.03\nCHEMICAL EXAMiN TIOH\nROBILNOGEN\nNIL\nIPROTEIN\nNiL\nIBLOOD\nNIL\nKETONE\nNIL\nGLUCOSE\nNIL\nMICROPIC EXAMIN WOH\nRBC (PER HPF)\nNIL\nHPF\nWBCPUS CELLS (FIR HPF)\n1012\nHPF\nEPTIHELIAL CELLS PER HPF)\n78\nCASTS (PER KPF)\nNIL\nCRYSTALS (PER HA\nNL\nAMORPHKOUS (PE  HPF)\nNL\nOTHER\nNIL\n44444\nEND OF REPORT -ttt\nDr. RLRlEEchnalogkt\nMBBS MQ Pathology)\nRegd: No. DMCTR21938\n6R\n5\nLSid\nLonarma\nVbo\nConsultani Tledicitie\nRega:\nNo- 90954\nCBC, Thyroid, Kidney Function Test; Liver Function Test, Lipid Profile, Blood\nLA, FSH, Prolactin, B-HCG, TORCH, Ca-125, CEA, PSA\n30/40 Colde Doppler Ultrasound; K.S G. IVP Bariuni Studles, Digltal X-Ray; Multi Slce Splral CT Scan; EC.G\n7E6.-21 Channels EMG NcV Vep B.E.RA . PFT\nComprehensive Health Check-Wps eic:\n30/4D UltrIsound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FOR MEdICO LEGAL PURPOSE\naa &r yfaqr 24 1 JurTen 8I\nMOSPI4\nTEA\n1\nMeA\nSugal",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            75.0,
+            1405.0,
+            163.0
+          ],
+          "text": "0SCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.7452
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            169.0,
+            199.0,
+            259.0
+          ],
+          "text": "%",
+          "confidence": 0.9483
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            531.0,
+            165.0,
+            1137.0,
+            253.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.811
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1469.0,
+            213.0,
+            1543.0,
+            233.0
+          ],
+          "text": "E",
+          "confidence": 0.2009
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            326.0,
+            256.0,
+            754.0,
+            312.0
+          ],
+          "text": "pp: Civil Hospital; Sonipat",
+          "confidence": 0.7094
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            256.0,
+            882.0,
+            304.0
+          ],
+          "text": "Mob :",
+          "confidence": 0.7691
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            496.0,
+            296.0,
+            522.0
+          ],
+          "text": "Wransaction No",
+          "confidence": 0.4485
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            494.0,
+            522.0,
+            522.0
+          ],
+          "text": "42463",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            530.0,
+            208.0,
+            558.0
+          ],
+          "text": "Patientl",
+          "confidence": 0.3663
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            566.0,
+            246.0,
+            596.0
+          ],
+          "text": "Mobile No.",
+          "confidence": 0.8552
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            566.0,
+            1322.0,
+            594.0
+          ],
+          "text": "4854",
+          "confidence": 0.5984
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            602.0,
+            276.0,
+            630.0
+          ],
+          "text": "Doctor Name",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            600.0,
+            726.0,
+            630.0
+          ],
+          "text": "DR SIDDHARTH SHARMA",
+          "confidence": 0.7399
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            602.0,
+            1168.0,
+            632.0
+          ],
+          "text": "Reporting Dale",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            724.0,
+            240.0,
+            750.0
+          ],
+          "text": "VTest Name",
+          "confidence": 0.5418
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            720.0,
+            388.0,
+            752.0
+          ],
+          "text": "URINE R/M",
+          "confidence": 0.8975
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            758.0,
+            270.0,
+            784.0
+          ],
+          "text": "COMPONENT",
+          "confidence": 0.8758
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            856.0,
+            755.0,
+            964.0,
+            785.0
+          ],
+          "text": "RESULIS",
+          "confidence": 0.6199
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            758.0,
+            1192.0,
+            784.0
+          ],
+          "text": "UNS",
+          "confidence": 0.9849
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1308.0,
+            756.0,
+            1458.0,
+            786.0
+          ],
+          "text": "REFE RANGE",
+          "confidence": 0.7537
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            794.0,
+            384.0,
+            826.0
+          ],
+          "text": "PHYSICALEXIIN IOH",
+          "confidence": 0.1308
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            830.0,
+            270.0,
+            860.0
+          ],
+          "text": "LPPZARARCE",
+          "confidence": 0.2887
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            830.0,
+            856.0,
+            860.0
+          ],
+          "text": "YELLOV SH",
+          "confidence": 0.5685
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            866.0,
+            158.0,
+            896.0
+          ],
+          "text": "PH",
+          "confidence": 0.5893
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            866.0,
+            856.0,
+            894.0
+          ],
+          "text": "7.5",
+          "confidence": 0.7974
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            866.0,
+            1404.0,
+            892.0
+          ],
+          "text": "6 8",
+          "confidence": 0.2286
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            896.0,
+            322.0,
+            928.0
+          ],
+          "text": "SPECIFIC CRAVITY",
+          "confidence": 0.6545
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            812.0,
+            898.0,
+            856.0,
+            926.0
+          ],
+          "text": "025",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            898.0,
+            1444.0,
+            926.0
+          ],
+          "text": "1,.003 _ 1.03",
+          "confidence": 0.3905
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            930.0,
+            390.0,
+            962.0
+          ],
+          "text": "CHEMICAL EXAMiN TIOH",
+          "confidence": 0.2246
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            962.0,
+            282.0,
+            994.0
+          ],
+          "text": "ROBILNOGEN",
+          "confidence": 0.9525
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            964.0,
+            856.0,
+            992.0
+          ],
+          "text": "NIL",
+          "confidence": 0.8387
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            991.0,
+            223.0,
+            1028.0
+          ],
+          "text": "IPROTEIN",
+          "confidence": 0.7076
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            812.0,
+            996.0,
+            856.0,
+            1024.0
+          ],
+          "text": "NiL",
+          "confidence": 0.3772
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1023.0,
+            203.0,
+            1060.0
+          ],
+          "text": "IBLOOD",
+          "confidence": 0.8136
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1028.0,
+            856.0,
+            1056.0
+          ],
+          "text": "NIL",
+          "confidence": 0.4528
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1057.0,
+            214.0,
+            1089.0
+          ],
+          "text": "KETONE",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1060.0,
+            858.0,
+            1088.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9743
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1090.0,
+            230.0,
+            1122.0
+          ],
+          "text": "GLUCOSE",
+          "confidence": 0.9037
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1092.0,
+            858.0,
+            1122.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9806
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1123.0,
+            384.0,
+            1156.0
+          ],
+          "text": "MICROPIC EXAMIN WOH",
+          "confidence": 0.3985
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1153.0,
+            283.0,
+            1189.0
+          ],
+          "text": "RBC (PER HPF)",
+          "confidence": 0.702
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1158.0,
+            856.0,
+            1186.0
+          ],
+          "text": "NIL",
+          "confidence": 0.8161
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1156.0,
+            1172.0,
+            1186.0
+          ],
+          "text": "HPF",
+          "confidence": 0.9596
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            1188.0,
+            406.0,
+            1220.0
+          ],
+          "text": "WBCPUS CELLS (FIR HPF)",
+          "confidence": 0.3243
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            796.0,
+            1188.0,
+            858.0,
+            1218.0
+          ],
+          "text": "1012",
+          "confidence": 0.8302
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1188.0,
+            1172.0,
+            1218.0
+          ],
+          "text": "HPF",
+          "confidence": 0.9226
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            1217.0,
+            427.0,
+            1253.0
+          ],
+          "text": "EPTIHELIAL CELLS PER HPF)",
+          "confidence": 0.5626
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1222.0,
+            854.0,
+            1248.0
+          ],
+          "text": "78",
+          "confidence": 0.942
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1254.0,
+            308.0,
+            1286.0
+          ],
+          "text": "CASTS (PER KPF)",
+          "confidence": 0.4838
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            814.0,
+            1258.0,
+            854.0,
+            1282.0
+          ],
+          "text": "NIL",
+          "confidence": 0.3213
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1285.0,
+            325.0,
+            1321.0
+          ],
+          "text": "CRYSTALS (PER HA",
+          "confidence": 0.7745
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1290.0,
+            856.0,
+            1318.0
+          ],
+          "text": "NL",
+          "confidence": 0.2709
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1320.0,
+            390.0,
+            1352.0
+          ],
+          "text": "AMORPHKOUS (PE  HPF)",
+          "confidence": 0.2608
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1322.0,
+            856.0,
+            1350.0
+          ],
+          "text": "NL",
+          "confidence": 0.9238
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1350.0,
+            202.0,
+            1380.0
+          ],
+          "text": "OTHER",
+          "confidence": 0.8968
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            1350.0,
+            858.0,
+            1380.0
+          ],
+          "text": "NIL",
+          "confidence": 0.4403
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            447.0,
+            1417.0,
+            517.0,
+            1433.0
+          ],
+          "text": "44444",
+          "confidence": 0.1442
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            1416.0,
+            780.0,
+            1446.0
+          ],
+          "text": "END OF REPORT -ttt",
+          "confidence": 0.1571
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1142.0,
+            1434.0,
+            1520.0,
+            1486.0
+          ],
+          "text": "Dr. RLRlEEchnalogkt",
+          "confidence": 0.149
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            1482.0,
+            1520.0,
+            1533.0
+          ],
+          "text": "MBBS MQ Pathology)",
+          "confidence": 0.3453
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            1517.0,
+            1520.0,
+            1565.0
+          ],
+          "text": "Regd: No. DMCTR21938",
+          "confidence": 0.6141
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            434.0,
+            1698.0,
+            470.0,
+            1724.0
+          ],
+          "text": "6R",
+          "confidence": 0.1423
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            1752.0,
+            568.0,
+            1788.0
+          ],
+          "text": "5",
+          "confidence": 0.3255
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            805.0,
+            1751.0,
+            941.0,
+            1795.0
+          ],
+          "text": "LSid",
+          "confidence": 0.2006
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            1753.0,
+            1165.0,
+            1795.0
+          ],
+          "text": "Lonarma",
+          "confidence": 0.1962
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1802.0,
+            882.0,
+            1830.0
+          ],
+          "text": "Vbo",
+          "confidence": 0.0886
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            800.0,
+            1832.0,
+            1087.0,
+            1872.0
+          ],
+          "text": "Consultani Tledicitie",
+          "confidence": 0.1973
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            805.0,
+            1865.0,
+            889.0,
+            1905.0
+          ],
+          "text": "Rega:",
+          "confidence": 0.5224
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            895.0,
+            1861.0,
+            1045.0,
+            1901.0
+          ],
+          "text": "No- 90954",
+          "confidence": 0.4949
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            1999.0,
+            915.0,
+            2040.0
+          ],
+          "text": "CBC, Thyroid, Kidney Function Test; Liver Function Test, Lipid Profile, Blood",
+          "confidence": 0.482
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            987.0,
+            1999.0,
+            1595.0,
+            2037.0
+          ],
+          "text": "LA, FSH, Prolactin, B-HCG, TORCH, Ca-125, CEA, PSA",
+          "confidence": 0.3022
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            2046.0,
+            1475.0,
+            2086.0
+          ],
+          "text": "30/40 Colde Doppler Ultrasound; K.S G. IVP Bariuni Studles, Digltal X-Ray; Multi Slce Splral CT Scan; EC.G",
+          "confidence": 0.1113
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            313.0,
+            2079.0,
+            871.0,
+            2115.0
+          ],
+          "text": "7E6.-21 Channels EMG NcV Vep B.E.RA . PFT",
+          "confidence": 0.0458
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            894.0,
+            2082.0,
+            1348.0,
+            2114.0
+          ],
+          "text": "Comprehensive Health Check-Wps eic:",
+          "confidence": 0.3216
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            2142.0,
+            1551.0,
+            2205.0
+          ],
+          "text": "30/4D UltrIsound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab",
+          "confidence": 0.4389
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            2222.0,
+            772.0,
+            2270.0
+          ],
+          "text": "NOT FOR MEdICO LEGAL PURPOSE",
+          "confidence": 0.3152
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            2218.0,
+            1422.0,
+            2274.0
+          ],
+          "text": "aa &r yfaqr 24 1 JurTen 8I",
+          "confidence": 0.0382
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            452.0147177686586,
+            1657.0807837648783,
+            552.9852822313414,
+            1713.9192162351217
+          ],
+          "text": "MOSPI4",
+          "confidence": 0.2568
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            464.08375337428015,
+            1689.1219034952862,
+            527.9162466257199,
+            1728.8780965047138
+          ],
+          "text": "TEA",
+          "confidence": 0.1648
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            362.5823545613272,
+            1695.0680305799197,
+            416.4176454386728,
+            1760.9319694200803
+          ],
+          "text": "1",
+          "confidence": 0.4872
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            470.43826238111393,
+            1881.0543645903708,
+            518.561737618886,
+            1904.9456354096292
+          ],
+          "text": "MeA",
+          "confidence": 0.0075
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            907.1466279914299,
+            1998.1317018509494,
+            993.8533720085701,
+            2043.8682981490506
+          ],
+          "text": "Sugal",
+          "confidence": 0.4961
+        }
+      ]
+    }
+  ],
+  "full_text": "0SCAR SUPER SPECIALITY HOSPITAL\n%\n& TRAUMA CENTRE\nE\npp: Civil Hospital; Sonipat\nMob :\nWransaction No\n42463\nPatientl\nMobile No.\n4854\nDoctor Name\nDR SIDDHARTH SHARMA\nReporting Dale\nVTest Name\nURINE R/M\nCOMPONENT\nRESULIS\nUNS\nREFE RANGE\nPHYSICALEXIIN IOH\nLPPZARARCE\nYELLOV SH\nPH\n7.5\n6 8\nSPECIFIC CRAVITY\n025\n1,.003 _ 1.03\nCHEMICAL EXAMiN TIOH\nROBILNOGEN\nNIL\nIPROTEIN\nNiL\nIBLOOD\nNIL\nKETONE\nNIL\nGLUCOSE\nNIL\nMICROPIC EXAMIN WOH\nRBC (PER HPF)\nNIL\nHPF\nWBCPUS CELLS (FIR HPF)\n1012\nHPF\nEPTIHELIAL CELLS PER HPF)\n78\nCASTS (PER KPF)\nNIL\nCRYSTALS (PER HA\nNL\nAMORPHKOUS (PE  HPF)\nNL\nOTHER\nNIL\n44444\nEND OF REPORT -ttt\nDr. RLRlEEchnalogkt\nMBBS MQ Pathology)\nRegd: No. DMCTR21938\n6R\n5\nLSid\nLonarma\nVbo\nConsultani Tledicitie\nRega:\nNo- 90954\nCBC, Thyroid, Kidney Function Test; Liver Function Test, Lipid Profile, Blood\nLA, FSH, Prolactin, B-HCG, TORCH, Ca-125, CEA, PSA\n30/40 Colde Doppler Ultrasound; K.S G. IVP Bariuni Studles, Digltal X-Ray; Multi Slce Splral CT Scan; EC.G\n7E6.-21 Channels EMG NcV Vep B.E.RA . PFT\nComprehensive Health Check-Wps eic:\n30/4D UltrIsound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FOR MEdICO LEGAL PURPOSE\naa &r yfaqr 24 1 JurTen 8I\nMOSPI4\nTEA\n1\nMeA\nSugal",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Regd: No. DMCTR2",
+          "biomarker_normalized": "Regd: No. DMCTR2",
+          "value": "1938",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd: No. DMCTR21938",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "No",
+          "biomarker_normalized": "No",
+          "value": "90954",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No- 90954",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "LA, FSH, Prolactin, B-HCG, TORCH, Ca",
+          "biomarker_normalized": "LA, FSH, Prolactin, B-HCG, TORCH, Ca",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LA, FSH, Prolactin, B-HCG, TORCH, Ca-125, CEA, PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "aa &r yfaqr",
+          "biomarker_normalized": "aa &r yfaqr",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "aa &r yfaqr 24 1 JurTen 8I",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 83,
+    "ocr_avg_confidence": 0.5493,
+    "parsed_row_count": 4
+  }
+}

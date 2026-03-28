@@ -1,0 +1,492 @@
+{
+  "document_id": "RJT-0425-PA-0003571_H_24489_9286123311_52_00_REPORTOFDEVENDRA_28-04-2025_1158-13_AM@E.pdf_page_23",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\RJT-0425-PA-0003571_H_24489_9286123311_52_00_REPORTOFDEVENDRA_28-04-2025_1158-13_AM@E.pdf_page_23.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Meww 4L7\nWOCKHARPT\nWi\nDEPARTMENT OF LABORATORY MEDICINE\nBIlI No.\nPatient]\nl09.39 AM\nIDHARMESH SOLANKI DR JAYDEEP DESAI\nReport Date\nPrimary Consultant\nDate Time\n10;11 AM\n108.29 AM\nApproval\nOrder Date\nSpecimen\nSerum\nOrder No.\n4000\nBed No.\n139 MB\nVisit Code\nip6.0029562\nVerified 8y\nMD,(PATHOLOGY}\nRepust( (ot pecllted Yhit Acpart Ralates Io Sampl Incclved hy Labarjlory\nParial Ropraduclinit of\nRR,1 :WiQLGical MEFERENCE iNterva\nN M Virani Wockhardt Hospital\nKalawad Road, Rajkot\n360 007\nTel.\n0281-669 4266\n'Mc;-2074",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1307.0,
+            111.0,
+            1393.0,
+            131.0
+          ],
+          "text": "Meww 4L7",
+          "confidence": 0.0987
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            126.0,
+            1388.0,
+            200.0
+          ],
+          "text": "WOCKHARPT",
+          "confidence": 0.5886
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1421.0,
+            115.0,
+            1535.0,
+            199.0
+          ],
+          "text": "Wi",
+          "confidence": 0.2327
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            533.0,
+            226.0,
+            1186.0,
+            283.0
+          ],
+          "text": "DEPARTMENT OF LABORATORY MEDICINE",
+          "confidence": 0.8081
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            284.0,
+            1090.0,
+            314.0
+          ],
+          "text": "BIlI No.",
+          "confidence": 0.6489
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            312.0,
+            242.0,
+            342.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.8615
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1412.0,
+            400.0,
+            1520.0,
+            430.0
+          ],
+          "text": "l09.39 AM",
+          "confidence": 0.2051
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            481.0,
+            416.0,
+            922.0,
+            464.0
+          ],
+          "text": "IDHARMESH SOLANKI DR JAYDEEP DESAI",
+          "confidence": 0.7303
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1009.0,
+            412.0,
+            1148.0,
+            445.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            435.0,
+            373.0,
+            471.0
+          ],
+          "text": "Primary Consultant",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            452.0,
+            1232.0,
+            480.0
+          ],
+          "text": "Date Time",
+          "confidence": 0.8559
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1414.0,
+            442.0,
+            1522.0,
+            472.0
+          ],
+          "text": "10;11 AM",
+          "confidence": 0.6806
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            573.0,
+            469.0,
+            682.0,
+            502.0
+          ],
+          "text": "108.29 AM",
+          "confidence": 0.7641
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1009.0,
+            455.0,
+            1116.0,
+            487.0
+          ],
+          "text": "Approval",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            484.0,
+            286.0,
+            512.0
+          ],
+          "text": "Order Date",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            502.0,
+            1125.0,
+            540.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            500.0,
+            1356.0,
+            526.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            530.0,
+            274.0,
+            558.0
+          ],
+          "text": "Order No.",
+          "confidence": 0.6571
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            442.0,
+            520.0,
+            504.0,
+            550.0
+          ],
+          "text": "4000",
+          "confidence": 0.881
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            552.0,
+            1102.0,
+            580.0
+          ],
+          "text": "Bed No.",
+          "confidence": 0.7559
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            542.0,
+            1374.0,
+            572.0
+          ],
+          "text": "139 MB",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            574.0,
+            276.0,
+            606.0
+          ],
+          "text": "Visit Code",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            439.0,
+            561.0,
+            585.0,
+            598.0
+          ],
+          "text": "ip6.0029562",
+          "confidence": 0.8181
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            630.0,
+            266.0,
+            660.0
+          ],
+          "text": "Verified 8y",
+          "confidence": 0.7289
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            619.0,
+            1411.0,
+            656.0
+          ],
+          "text": "MD,(PATHOLOGY}",
+          "confidence": 0.765
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            672.0,
+            790.0,
+            704.0
+          ],
+          "text": "Repust( (ot pecllted Yhit Acpart Ralates Io Sampl Incclved hy Labarjlory",
+          "confidence": 0.1138
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            689.0,
+            305.0,
+            707.0
+          ],
+          "text": "Parial Ropraduclinit of",
+          "confidence": 0.2561
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            697.0,
+            428.0,
+            728.0
+          ],
+          "text": "RR,1 :WiQLGical MEFERENCE iNterva",
+          "confidence": 0.0345
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            2101.0,
+            1110.0,
+            2149.0
+          ],
+          "text": "N M Virani Wockhardt Hospital",
+          "confidence": 0.7602
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            2160.0,
+            794.0,
+            2190.0
+          ],
+          "text": "Kalawad Road, Rajkot",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            808.0,
+            2158.0,
+            900.0,
+            2186.0
+          ],
+          "text": "360 007",
+          "confidence": 0.7908
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            2158.0,
+            948.0,
+            2184.0
+          ],
+          "text": "Tel.",
+          "confidence": 0.4409
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            2154.0,
+            1134.0,
+            2184.0
+          ],
+          "text": "0281-669 4266",
+          "confidence": 0.9829
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1457.0,
+            2193.0,
+            1529.0,
+            2213.0
+          ],
+          "text": "'Mc;-2074",
+          "confidence": 0.2723
+        }
+      ]
+    }
+  ],
+  "full_text": "Meww 4L7\nWOCKHARPT\nWi\nDEPARTMENT OF LABORATORY MEDICINE\nBIlI No.\nPatient]\nl09.39 AM\nIDHARMESH SOLANKI DR JAYDEEP DESAI\nReport Date\nPrimary Consultant\nDate Time\n10;11 AM\n108.29 AM\nApproval\nOrder Date\nSpecimen\nSerum\nOrder No.\n4000\nBed No.\n139 MB\nVisit Code\nip6.0029562\nVerified 8y\nMD,(PATHOLOGY}\nRepust( (ot pecllted Yhit Acpart Ralates Io Sampl Incclved hy Labarjlory\nParial Ropraduclinit of\nRR,1 :WiQLGical MEFERENCE iNterva\nN M Virani Wockhardt Hospital\nKalawad Road, Rajkot\n360 007\nTel.\n0281-669 4266\n'Mc;-2074",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Meww",
+          "biomarker_normalized": "Meww",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Meww 4L7",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "l0",
+          "biomarker_normalized": "l0",
+          "value": "9.39",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "l09.39 AM",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ip6.",
+          "biomarker_normalized": "ip6.",
+          "value": "0029562",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ip6.0029562",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Verified",
+          "biomarker_normalized": "Verified",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Verified 8y",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "RR,",
+          "biomarker_normalized": "RR,",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "RR,1 :WiQLGical MEFERENCE iNterva",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "'Mc;",
+          "biomarker_normalized": "'Mc;",
+          "value": "-2074",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "'Mc;-2074",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 34,
+    "ocr_avg_confidence": 0.6976,
+    "parsed_row_count": 6
+  }
+}

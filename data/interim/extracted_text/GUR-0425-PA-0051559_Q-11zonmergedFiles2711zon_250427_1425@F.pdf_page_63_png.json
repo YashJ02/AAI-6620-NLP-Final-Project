@@ -1,0 +1,732 @@
+{
+  "document_id": "GUR-0425-PA-0051559_Q-11zonmergedFiles2711zon_250427_1425@F.pdf_page_63",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0051559_Q-11zonmergedFiles2711zon_250427_1425@F.pdf_page_63.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "OICAR SUPER SPECIALITY HOSPITAL\n8s\n& TRAUMA CENTRE\nCivil Hospital, Sonipat | Mob :\nFaticmt Narc\nMc RARHI\nS\nRct.\nOSCARHIOSP'SONIPA [\nReceiving On\n17/042025\nSamiple Fra\nOSCARHIOSPASONIPAT\nPrinle d On\n18(2025\nSample\nSRUMI\nTest\nAnti \u20ac CI'\nUiml\nouea\nELS\nINTEKEXETATION:\nHegative : < 25,0 Ulml\nosilive ; > 25.0 Ulml\nCOMMENTS: -\nLA\nFactor delermination uscd widely for diagnosis of rheumatoid\nnthritis Bul it lack specificity tOr meumatoid arthritis RA, lactor\nalso positive in SLE. dermalomyositis, eryoglobulinemia &\nnixed connective lissue discases & in some healthy subject a5\nJell However Anti CCP antibody is highly specilic marker for\ncumatoid arthritis.\nCnd 0i Reron\nDr:\nSidd  Arth Sharma\nMBBS,M2\nConsultan Medicine\nDr\nRega No- 9u9s4\nNo\nIZhologv)\nMers;\nRega. No\"\nCBC, Thyrold , Kidney Function Test, Liver Function Test,Lipid Profile. Blood Sugar LH, FSH, Prolactin, B-HCG,TorcH, Ca-125,CEAPSA\n30 4p Calor pouplet Ultrasound  M.$ 6. IVB Barium Sludles, Digital X-Ray; Multi Slice Spiral CT Scan  Ec,6\nE7.6.-21 Channels EMG NcV Vep B.E.Ra. Pft & Comprenensiva Health Cneck-Wds etc .\n30/40 Ultra ;ound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FO { MEDICO LEGAL PURPOSE\n#4& &faut 24 He gudtat 81\nOpp:\nCLL\nCu\nMe7izi3ie",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            253.0,
+            67.0,
+            1396.0,
+            155.0
+          ],
+          "text": "OICAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.7759
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            161.0,
+            193.0,
+            251.0
+          ],
+          "text": "8s",
+          "confidence": 0.1898
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            157.0,
+            1129.0,
+            245.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9941
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            380.0,
+            247.0,
+            876.0,
+            304.0
+          ],
+          "text": "Civil Hospital, Sonipat | Mob :",
+          "confidence": 0.7721
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            450.0,
+            352.0,
+            482.0
+          ],
+          "text": "Faticmt Narc",
+          "confidence": 0.1387
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            452.0,
+            582.0,
+            482.0
+          ],
+          "text": "Mc RARHI",
+          "confidence": 0.2042
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            490.0,
+            252.0,
+            518.0
+          ],
+          "text": "S",
+          "confidence": 0.7085
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            526.0,
+            254.0,
+            554.0
+          ],
+          "text": "Rct.",
+          "confidence": 0.1207
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            526.0,
+            724.0,
+            556.0
+          ],
+          "text": "OSCARHIOSP'SONIPA [",
+          "confidence": 0.302
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            989.0,
+            524.0,
+            1138.0,
+            556.0
+          ],
+          "text": "Receiving On",
+          "confidence": 0.5112
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            524.0,
+            1352.0,
+            554.0
+          ],
+          "text": "17/042025",
+          "confidence": 0.2232
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            560.0,
+            333.0,
+            598.0
+          ],
+          "text": "Samiple Fra",
+          "confidence": 0.4442
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            561.0,
+            722.0,
+            592.0
+          ],
+          "text": "OSCARHIOSPASONIPAT",
+          "confidence": 0.2772
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            988.0,
+            562.0,
+            1108.0,
+            590.0
+          ],
+          "text": "Prinle d On",
+          "confidence": 0.1504
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            562.0,
+            1354.0,
+            590.0
+          ],
+          "text": "18(2025",
+          "confidence": 0.6382
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            596.0,
+            293.0,
+            632.0
+          ],
+          "text": "Sample",
+          "confidence": 0.866
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            598.0,
+            540.0,
+            626.0
+          ],
+          "text": "SRUMI",
+          "confidence": 0.2856
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            656.0,
+            258.0,
+            680.0
+          ],
+          "text": "Test",
+          "confidence": 0.5001
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            739.0,
+            316.0,
+            770.0
+          ],
+          "text": "Anti \u20ac CI'",
+          "confidence": 0.1716
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            740.0,
+            1030.0,
+            768.0
+          ],
+          "text": "Uiml",
+          "confidence": 0.3249
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            774.0,
+            280.0,
+            798.0
+          ],
+          "text": "ouea",
+          "confidence": 0.0232
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            287.0,
+            775.0,
+            327.0,
+            795.0
+          ],
+          "text": "ELS",
+          "confidence": 0.1801
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            924.0,
+            492.0,
+            956.0
+          ],
+          "text": "INTEKEXETATION:",
+          "confidence": 0.5554
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            329.0,
+            994.0,
+            601.0,
+            1039.0
+          ],
+          "text": "Hegative : < 25,0 Ulml",
+          "confidence": 0.6042
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1033.0,
+            591.0,
+            1069.0
+          ],
+          "text": "osilive ; > 25.0 Ulml",
+          "confidence": 0.3759
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            1110.0,
+            428.0,
+            1140.0
+          ],
+          "text": "COMMENTS: -",
+          "confidence": 0.6477
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1144.0,
+            374.0,
+            1172.0
+          ],
+          "text": "LA",
+          "confidence": 0.4499
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            381.0,
+            1139.0,
+            1099.0,
+            1176.0
+          ],
+          "text": "Factor delermination uscd widely for diagnosis of rheumatoid",
+          "confidence": 0.7329
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            335.0,
+            1172.0,
+            1097.0,
+            1210.0
+          ],
+          "text": "nthritis Bul it lack specificity tOr meumatoid arthritis RA, lactor",
+          "confidence": 0.3172
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            345.0,
+            1202.0,
+            1039.0,
+            1247.0
+          ],
+          "text": "also positive in SLE. dermalomyositis, eryoglobulinemia &",
+          "confidence": 0.4983
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            333.0,
+            1239.0,
+            1055.0,
+            1277.0
+          ],
+          "text": "nixed connective lissue discases & in some healthy subject a5",
+          "confidence": 0.4862
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            335.0,
+            1270.0,
+            1055.0,
+            1312.0
+          ],
+          "text": "Jell However Anti CCP antibody is highly specilic marker for",
+          "confidence": 0.49
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1306.0,
+            571.0,
+            1343.0
+          ],
+          "text": "cumatoid arthritis.",
+          "confidence": 0.6983
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            1376.0,
+            462.0,
+            1402.0
+          ],
+          "text": "Cnd 0i Reron",
+          "confidence": 0.1408
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            669.0,
+            1781.0,
+            723.0,
+            1821.0
+          ],
+          "text": "Dr:",
+          "confidence": 0.9818
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            716.0,
+            1759.0,
+            1029.0,
+            1823.0
+          ],
+          "text": "Sidd  Arth Sharma",
+          "confidence": 0.6156
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            668.0,
+            1815.0,
+            825.0,
+            1860.0
+          ],
+          "text": "MBBS,M2",
+          "confidence": 0.2589
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            668.0,
+            1841.0,
+            958.0,
+            1896.0
+          ],
+          "text": "Consultan Medicine",
+          "confidence": 0.7063
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1033.0,
+            1861.0,
+            1091.0,
+            1905.0
+          ],
+          "text": "Dr",
+          "confidence": 0.7147
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            1869.0,
+            919.0,
+            1931.0
+          ],
+          "text": "Rega No- 9u9s4",
+          "confidence": 0.2855
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1157.0,
+            1889.0,
+            1225.0,
+            1929.0
+          ],
+          "text": "No",
+          "confidence": 0.0565
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            1866.0,
+            1414.0,
+            1922.0
+          ],
+          "text": "IZhologv)",
+          "confidence": 0.302
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1037.0,
+            1896.0,
+            1153.0,
+            1945.0
+          ],
+          "text": "Mers;",
+          "confidence": 0.1102
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1042.0,
+            1932.0,
+            1206.0,
+            1987.0
+          ],
+          "text": "Rega. No\"",
+          "confidence": 0.3549
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1993.0,
+            1593.0,
+            2037.0
+          ],
+          "text": "CBC, Thyrold , Kidney Function Test, Liver Function Test,Lipid Profile. Blood Sugar LH, FSH, Prolactin, B-HCG,TorcH, Ca-125,CEAPSA",
+          "confidence": 0.2113
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            2041.0,
+            1473.0,
+            2081.0
+          ],
+          "text": "30 4p Calor pouplet Ultrasound  M.$ 6. IVB Barium Sludles, Digital X-Ray; Multi Slice Spiral CT Scan  Ec,6",
+          "confidence": 0.1062
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            313.0,
+            2071.0,
+            1347.0,
+            2111.0
+          ],
+          "text": "E7.6.-21 Channels EMG NcV Vep B.E.Ra. Pft & Comprenensiva Health Cneck-Wds etc .",
+          "confidence": 0.0458
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            2133.0,
+            1551.0,
+            2199.0
+          ],
+          "text": "30/40 Ultra ;ound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab",
+          "confidence": 0.6871
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            2214.0,
+            770.0,
+            2267.0
+          ],
+          "text": "NOT FO { MEDICO LEGAL PURPOSE",
+          "confidence": 0.6751
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            2210.0,
+            1420.0,
+            2266.0
+          ],
+          "text": "#4& &faut 24 He gudtat 81",
+          "confidence": 0.0319
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            292.24042673644544,
+            246.08996776509676,
+            388.75957326355456,
+            307.9100322349032
+          ],
+          "text": "Opp:",
+          "confidence": 0.4491
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1306.464986100386,
+            1818.5758221913609,
+            1410.535013899614,
+            1874.4241778086391
+          ],
+          "text": "CLL",
+          "confidence": 0.2899
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1096.2634282208821,
+            1838.9589834406966,
+            1231.7365717791179,
+            1898.0410165593034
+          ],
+          "text": "Cu",
+          "confidence": 0.2968
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1196.226499018874,
+            1896.5086250343202,
+            1419.773500981126,
+            1964.4913749656798
+          ],
+          "text": "Me7izi3ie",
+          "confidence": 0.017
+        }
+      ]
+    }
+  ],
+  "full_text": "OICAR SUPER SPECIALITY HOSPITAL\n8s\n& TRAUMA CENTRE\nCivil Hospital, Sonipat | Mob :\nFaticmt Narc\nMc RARHI\nS\nRct.\nOSCARHIOSP'SONIPA [\nReceiving On\n17/042025\nSamiple Fra\nOSCARHIOSPASONIPAT\nPrinle d On\n18(2025\nSample\nSRUMI\nTest\nAnti \u20ac CI'\nUiml\nouea\nELS\nINTEKEXETATION:\nHegative : < 25,0 Ulml\nosilive ; > 25.0 Ulml\nCOMMENTS: -\nLA\nFactor delermination uscd widely for diagnosis of rheumatoid\nnthritis Bul it lack specificity tOr meumatoid arthritis RA, lactor\nalso positive in SLE. dermalomyositis, eryoglobulinemia &\nnixed connective lissue discases & in some healthy subject a5\nJell However Anti CCP antibody is highly specilic marker for\ncumatoid arthritis.\nCnd 0i Reron\nDr:\nSidd  Arth Sharma\nMBBS,M2\nConsultan Medicine\nDr\nRega No- 9u9s4\nNo\nIZhologv)\nMers;\nRega. No\"\nCBC, Thyrold , Kidney Function Test, Liver Function Test,Lipid Profile. Blood Sugar LH, FSH, Prolactin, B-HCG,TorcH, Ca-125,CEAPSA\n30 4p Calor pouplet Ultrasound  M.$ 6. IVB Barium Sludles, Digital X-Ray; Multi Slice Spiral CT Scan  Ec,6\nE7.6.-21 Channels EMG NcV Vep B.E.Ra. Pft & Comprenensiva Health Cneck-Wds etc .\n30/40 Ultra ;ound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FO { MEDICO LEGAL PURPOSE\n#4& &faut 24 He gudtat 81\nOpp:\nCLL\nCu\nMe7izi3ie",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Hegative : <",
+          "biomarker_normalized": "Hegative : <",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Hegative : < 25,0 Ulml",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "osilive ; >",
+          "biomarker_normalized": "osilive ; >",
+          "value": "25.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "osilive ; > 25.0 Ulml",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Cnd",
+          "biomarker_normalized": "Cnd",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Cnd 0i Reron",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Rega No",
+          "biomarker_normalized": "Rega No",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Rega No- 9u9s4",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CBC, Thyrold , Kidney Function Test, Liver Function Test,Lipid Profile. Blood Sugar LH, FSH, Prolactin, B-HCG,TorcH, Ca",
+          "biomarker_normalized": "CBC, Thyrold , Kidney Function Test, Liver Function Test,Lipid Profile. Blood Sugar LH, FSH, Prolactin, B-HCG,TorcH, Ca",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBC, Thyrold , Kidney Function Test, Liver Function Test,Lipid Profile. Blood Sugar LH, FSH, Prolactin, B-HCG,TorcH, Ca-125,CEAPSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "E7.",
+          "biomarker_normalized": "E7.",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "E7.6.-21 Channels EMG NcV Vep B.E.Ra. Pft & Comprenensiva Health Cneck-Wds etc .",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 54,
+    "ocr_avg_confidence": 0.4073,
+    "parsed_row_count": 6
+  }
+}

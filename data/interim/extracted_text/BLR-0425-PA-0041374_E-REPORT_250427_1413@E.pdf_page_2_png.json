@@ -1,0 +1,1025 @@
+{
+  "document_id": "BLR-0425-PA-0041374_E-REPORT_250427_1413@E.pdf_page_2",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0041374_E-REPORT_250427_1413@E.pdf_page_2.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Diagnostics S_\nNo_\nMR No_\nPatient\nIPDNo\nDr. Pawan Kumar Bansal\nReporting Date\n26-Apr-2025 06.39 AM\nAMCARE HOSPITAL\nTest\nCC\nBLOODCOUNI\n(Electrical Impedance)\nHB\nL\n11.3\n13.0-17.0\nTLC\nH\n16.3\n4.0-11.0\n10A3/cumm\nDLC\nNEUTROPHILS\n74\n45-70\n%\nLYMPHOCYTE\n4\n16\n20-40\n%\nMONOCYTE\n06\n2-10\n%\nEOSINOPHIL\n04\n1-6\n%\nBASOPHIL\n00\n0-1\n%\nPLATELET COUNT\n201\n150-450\n10A3/cumm\nRBC COUNT\n4.1\n4.0-5.5\nmillion\ncellslcumm\nHCT\n34\n40-50\n%\nMCV\n83.2\n82-102\nfl\nMCH\n27.5\n27-33\npicogram\nMCHC\n33.1\n31.5-34.5\ngldl\nRDW\nH\n15.1\n11.5-14.5\n%\nPLATELET COUNT IS AS PER COUNTER READING\nNIDHI VASHIST\nMBBS,DCP\nCONSULTANT PATHOLOGIST\n14.12.53\nPrinted By\nLOVISH\ngmldl\n3 -",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            301.0,
+            254.0,
+            333.0
+          ],
+          "text": "Diagnostics S_",
+          "confidence": 0.8922
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            304.0,
+            302.0,
+            328.0
+          ],
+          "text": "No_",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            302.0,
+            1000.0,
+            328.0
+          ],
+          "text": "MR No_",
+          "confidence": 0.761
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            365.0,
+            177.0,
+            391.0
+          ],
+          "text": "Patient",
+          "confidence": 0.7447
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            366.0,
+            998.0,
+            392.0
+          ],
+          "text": "IPDNo",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            362.0,
+            479.0,
+            679.0,
+            511.0
+          ],
+          "text": "Dr. Pawan Kumar Bansal",
+          "confidence": 0.7438
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            480.0,
+            1104.0,
+            512.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            480.0,
+            1476.0,
+            510.0
+          ],
+          "text": "26-Apr-2025 06.39 AM",
+          "confidence": 0.6191
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            677.0,
+            577.0,
+            993.0,
+            613.0
+          ],
+          "text": "AMCARE HOSPITAL",
+          "confidence": 0.8793
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            632.0,
+            156.0,
+            664.0
+          ],
+          "text": "Test",
+          "confidence": 0.9815
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            686.0,
+            222.0,
+            718.0
+          ],
+          "text": "CC",
+          "confidence": 0.7856
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            360.0,
+            682.0,
+            615.0,
+            721.0
+          ],
+          "text": "BLOODCOUNI",
+          "confidence": 0.4781
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            734.0,
+            375.0,
+            776.0
+          ],
+          "text": "(Electrical Impedance)",
+          "confidence": 0.7989
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            784.0,
+            154.0,
+            812.0
+          ],
+          "text": "HB",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            607.0,
+            787.0,
+            625.0,
+            813.0
+          ],
+          "text": "L",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            784.0,
+            816.0,
+            814.0
+          ],
+          "text": "11.3",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            782.0,
+            1124.0,
+            814.0
+          ],
+          "text": "13.0-17.0",
+          "confidence": 0.6427
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            832.0,
+            170.0,
+            864.0
+          ],
+          "text": "TLC",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            830.0,
+            630.0,
+            862.0
+          ],
+          "text": "H",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            834.0,
+            816.0,
+            864.0
+          ],
+          "text": "16.3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            834.0,
+            1106.0,
+            862.0
+          ],
+          "text": "4.0-11.0",
+          "confidence": 0.98
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            829.0,
+            1541.0,
+            868.0
+          ],
+          "text": "10A3/cumm",
+          "confidence": 0.5275
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            882.0,
+            172.0,
+            914.0
+          ],
+          "text": "DLC",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            931.0,
+            310.0,
+            967.0
+          ],
+          "text": "NEUTROPHILS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            936.0,
+            790.0,
+            964.0
+          ],
+          "text": "74",
+          "confidence": 0.7704
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            934.0,
+            1076.0,
+            966.0
+          ],
+          "text": "45-70",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            936.0,
+            1420.0,
+            964.0
+          ],
+          "text": "%",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            984.0,
+            308.0,
+            1016.0
+          ],
+          "text": "LYMPHOCYTE",
+          "confidence": 0.6717
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            934.0,
+            630.0,
+            1014.0
+          ],
+          "text": "4",
+          "confidence": 0.2409
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            986.0,
+            792.0,
+            1016.0
+          ],
+          "text": "16",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            986.0,
+            1076.0,
+            1016.0
+          ],
+          "text": "20-40",
+          "confidence": 0.638
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1392.0,
+            986.0,
+            1424.0,
+            1020.0
+          ],
+          "text": "%",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1035.0,
+            275.0,
+            1067.0
+          ],
+          "text": "MONOCYTE",
+          "confidence": 0.9834
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1036.0,
+            792.0,
+            1068.0
+          ],
+          "text": "06",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1036.0,
+            1060.0,
+            1068.0
+          ],
+          "text": "2-10",
+          "confidence": 0.5625
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1389.0,
+            1035.0,
+            1425.0,
+            1073.0
+          ],
+          "text": "%",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1088.0,
+            280.0,
+            1118.0
+          ],
+          "text": "EOSINOPHIL",
+          "confidence": 0.6866
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1088.0,
+            790.0,
+            1120.0
+          ],
+          "text": "04",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            1088.0,
+            1042.0,
+            1116.0
+          ],
+          "text": "1-6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            1088.0,
+            1424.0,
+            1118.0
+          ],
+          "text": "%",
+          "confidence": 0.99
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1137.0,
+            251.0,
+            1169.0
+          ],
+          "text": "BASOPHIL",
+          "confidence": 0.9911
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1138.0,
+            790.0,
+            1168.0
+          ],
+          "text": "00",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1138.0,
+            1038.0,
+            1166.0
+          ],
+          "text": "0-1",
+          "confidence": 0.7994
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1392.0,
+            1140.0,
+            1422.0,
+            1166.0
+          ],
+          "text": "%",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1187.0,
+            363.0,
+            1220.0
+          ],
+          "text": "PLATELET COUNT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1190.0,
+            804.0,
+            1220.0
+          ],
+          "text": "201",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1190.0,
+            1108.0,
+            1220.0
+          ],
+          "text": "150-450",
+          "confidence": 0.6983
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1391.0,
+            1187.0,
+            1541.0,
+            1223.0
+          ],
+          "text": "10A3/cumm",
+          "confidence": 0.7395
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1239.0,
+            279.0,
+            1272.0
+          ],
+          "text": "RBC COUNT",
+          "confidence": 0.6502
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1242.0,
+            794.0,
+            1268.0
+          ],
+          "text": "4.1",
+          "confidence": 0.9403
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1240.0,
+            1090.0,
+            1270.0
+          ],
+          "text": "4.0-5.5",
+          "confidence": 0.6808
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1392.0,
+            1240.0,
+            1478.0,
+            1272.0
+          ],
+          "text": "million",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            1274.0,
+            1538.0,
+            1306.0
+          ],
+          "text": "cellslcumm",
+          "confidence": 0.4288
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1314.0,
+            174.0,
+            1344.0
+          ],
+          "text": "HCT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            1314.0,
+            790.0,
+            1344.0
+          ],
+          "text": "34",
+          "confidence": 0.8355
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1314.0,
+            1076.0,
+            1344.0
+          ],
+          "text": "40-50",
+          "confidence": 0.3222
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            1314.0,
+            1422.0,
+            1342.0
+          ],
+          "text": "%",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1364.0,
+            176.0,
+            1396.0
+          ],
+          "text": "MCV",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            1366.0,
+            814.0,
+            1396.0
+          ],
+          "text": "83.2",
+          "confidence": 0.6232
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1364.0,
+            1092.0,
+            1396.0
+          ],
+          "text": "82-102",
+          "confidence": 0.785
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1393.0,
+            1369.0,
+            1409.0,
+            1391.0
+          ],
+          "text": "fl",
+          "confidence": 0.571
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1416.0,
+            176.0,
+            1446.0
+          ],
+          "text": "MCH",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1416.0,
+            816.0,
+            1446.0
+          ],
+          "text": "27.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1416.0,
+            1076.0,
+            1446.0
+          ],
+          "text": "27-33",
+          "confidence": 0.9788
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            1413.0,
+            1515.0,
+            1455.0
+          ],
+          "text": "picogram",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1466.0,
+            198.0,
+            1498.0
+          ],
+          "text": "MCHC",
+          "confidence": 0.6495
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            1468.0,
+            810.0,
+            1498.0
+          ],
+          "text": "33.1",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1466.0,
+            1124.0,
+            1498.0
+          ],
+          "text": "31.5-34.5",
+          "confidence": 0.7964
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1389.0,
+            1467.0,
+            1447.0,
+            1503.0
+          ],
+          "text": "gldl",
+          "confidence": 0.9695
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1518.0,
+            184.0,
+            1548.0
+          ],
+          "text": "RDW",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            1518.0,
+            630.0,
+            1544.0
+          ],
+          "text": "H",
+          "confidence": 0.9856
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1518.0,
+            810.0,
+            1546.0
+          ],
+          "text": "15.1",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1518.0,
+            1124.0,
+            1548.0
+          ],
+          "text": "11.5-14.5",
+          "confidence": 0.9424
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            1518.0,
+            1422.0,
+            1546.0
+          ],
+          "text": "%",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            1572.0,
+            755.0,
+            1602.0
+          ],
+          "text": "PLATELET COUNT IS AS PER COUNTER READING",
+          "confidence": 0.6015
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            1854.0,
+            1434.0,
+            1884.0
+          ],
+          "text": "NIDHI VASHIST",
+          "confidence": 0.8596
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            1892.0,
+            1328.0,
+            1924.0
+          ],
+          "text": "MBBS,DCP",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1183.0,
+            1925.0,
+            1557.0,
+            1961.0
+          ],
+          "text": "CONSULTANT PATHOLOGIST",
+          "confidence": 0.8151
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            2020.0,
+            361.0,
+            2050.0
+          ],
+          "text": "14.12.53",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            703.0,
+            2022.0,
+            834.0,
+            2054.0
+          ],
+          "text": "Printed By",
+          "confidence": 0.8313
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            846.0,
+            2020.0,
+            956.0,
+            2050.0
+          ],
+          "text": "LOVISH",
+          "confidence": 0.8148
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1387.3447882227952,
+            778.1916222962614,
+            1469.6552117772048,
+            818.8083777037386
+          ],
+          "text": "gmldl",
+          "confidence": 0.955
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1274.1430466182294,
+            1760.90199429838,
+            1391.8569533817706,
+            1814.09800570162
+          ],
+          "text": "3 -",
+          "confidence": 0.078
+        }
+      ]
+    }
+  ],
+  "full_text": "Diagnostics S_\nNo_\nMR No_\nPatient\nIPDNo\nDr. Pawan Kumar Bansal\nReporting Date\n26-Apr-2025 06.39 AM\nAMCARE HOSPITAL\nTest\nCC\nBLOODCOUNI\n(Electrical Impedance)\nHB\nL\n11.3\n13.0-17.0\nTLC\nH\n16.3\n4.0-11.0\n10A3/cumm\nDLC\nNEUTROPHILS\n74\n45-70\n%\nLYMPHOCYTE\n4\n16\n20-40\n%\nMONOCYTE\n06\n2-10\n%\nEOSINOPHIL\n04\n1-6\n%\nBASOPHIL\n00\n0-1\n%\nPLATELET COUNT\n201\n150-450\n10A3/cumm\nRBC COUNT\n4.1\n4.0-5.5\nmillion\ncellslcumm\nHCT\n34\n40-50\n%\nMCV\n83.2\n82-102\nfl\nMCH\n27.5\n27-33\npicogram\nMCHC\n33.1\n31.5-34.5\ngldl\nRDW\nH\n15.1\n11.5-14.5\n%\nPLATELET COUNT IS AS PER COUNTER READING\nNIDHI VASHIST\nMBBS,DCP\nCONSULTANT PATHOLOGIST\n14.12.53\nPrinted By\nLOVISH\ngmldl\n3 -",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": []
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 83,
+    "ocr_avg_confidence": 0.8517,
+    "parsed_row_count": 0
+  }
+}

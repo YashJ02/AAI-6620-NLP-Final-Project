@@ -1,0 +1,509 @@
+{
+  "document_id": "BLR-0425-PA-0039930_E-BABY_OF_SIREESHA_BADVELU_2_250427_1048@E.pdf_page_8",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0039930_E-BABY_OF_SIREESHA_BADVELU_2_250427_1048@E.pdf_page_8.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF BLOOD BANK\nlPatient\nSIRREEESHA\nAdmn\nNo\nDr.MAHESH\nGIRIDHAR YADHAV P\nReport Date\n18-Apr-25\n09:22 am\nBBill Date\n18-AApr-25\n05302 am\nService No\n51407900\nWard / Room/ Bed\nParameter\nSpecimen\nResults\nMethod\nBLOOD GROUPING AND RH\nBLOOD GROUP_\nBlood\nA\nSlide Agglutination\nMethod\nRh (D) Typing\nPositive\n(+ Ve )\nMethod_\nSlide Agglutination Method\nxxx\nEnd Of Report *xx\nLuk\nPATHOLOGIST\nPrinted By\n32101845\nPrinted On\n27-Apr-2025 10:46.40 AM\nSystem",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            303.0,
+            1092.0,
+            336.0
+          ],
+          "text": "DEPARTMENT OF BLOOD BANK",
+          "confidence": 0.8687
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            376.0,
+            240.0,
+            406.0
+          ],
+          "text": "lPatient",
+          "confidence": 0.7565
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            404.0,
+            548.0,
+            434.0
+          ],
+          "text": "SIRREEESHA",
+          "confidence": 0.392
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            430.0,
+            218.0,
+            460.0
+          ],
+          "text": "Admn",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            430.0,
+            362.0,
+            458.0
+          ],
+          "text": "No",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            428.0,
+            1216.0,
+            454.0
+          ],
+          "text": "Dr.MAHESH",
+          "confidence": 0.7254
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1260.0,
+            428.0,
+            1506.0,
+            454.0
+          ],
+          "text": "GIRIDHAR YADHAV P",
+          "confidence": 0.6774
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            806.0,
+            482.0,
+            980.0,
+            514.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8225
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            480.0,
+            1200.0,
+            508.0
+          ],
+          "text": "18-Apr-25",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            480.0,
+            1326.0,
+            506.0
+          ],
+          "text": "09:22 am",
+          "confidence": 0.8782
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            492.0,
+            258.0,
+            522.0
+          ],
+          "text": "BBill Date",
+          "confidence": 0.9107
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            496.0,
+            548.0,
+            522.0
+          ],
+          "text": "18-AApr-25",
+          "confidence": 0.9136
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            562.0,
+            496.0,
+            688.0,
+            520.0
+          ],
+          "text": "05302 am",
+          "confidence": 0.4198
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            814.0,
+            526.0,
+            970.0,
+            556.0
+          ],
+          "text": "Service No",
+          "confidence": 0.9763
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1077.0,
+            527.0,
+            1199.0,
+            553.0
+          ],
+          "text": "51407900",
+          "confidence": 0.6913
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            542.0,
+            380.0,
+            574.0
+          ],
+          "text": "Ward / Room/ Bed",
+          "confidence": 0.9823
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            613.0,
+            282.0,
+            646.0
+          ],
+          "text": "Parameter",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            524.0,
+            614.0,
+            666.0,
+            646.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            614.0,
+            834.0,
+            646.0
+          ],
+          "text": "Results",
+          "confidence": 0.9207
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1267.0,
+            613.0,
+            1375.0,
+            643.0
+          ],
+          "text": "Method",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            656.0,
+            518.0,
+            686.0
+          ],
+          "text": "BLOOD GROUPING AND RH",
+          "confidence": 0.8761
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            702.0,
+            304.0,
+            728.0
+          ],
+          "text": "BLOOD GROUP_",
+          "confidence": 0.9425
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            524.0,
+            702.0,
+            590.0,
+            728.0
+          ],
+          "text": "Blood",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            702.0,
+            764.0,
+            726.0
+          ],
+          "text": "A",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            702.0,
+            1482.0,
+            730.0
+          ],
+          "text": "Slide Agglutination",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            728.0,
+            1352.0,
+            754.0
+          ],
+          "text": "Method",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            762.0,
+            292.0,
+            794.0
+          ],
+          "text": "Rh (D) Typing",
+          "confidence": 0.8932
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            762.0,
+            834.0,
+            788.0
+          ],
+          "text": "Positive",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            764.0,
+            950.0,
+            790.0
+          ],
+          "text": "(+ Ve )",
+          "confidence": 0.8802
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            810.0,
+            218.0,
+            836.0
+          ],
+          "text": "Method_",
+          "confidence": 0.6654
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            723.0,
+            806.0,
+            1029.0,
+            844.0
+          ],
+          "text": "Slide Agglutination Method",
+          "confidence": 0.7244
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            855.0,
+            729.0,
+            873.0
+          ],
+          "text": "xxx",
+          "confidence": 0.5957
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            737.0,
+            853.0,
+            999.0,
+            891.0
+          ],
+          "text": "End Of Report *xx",
+          "confidence": 0.7313
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1110.0,
+            1740.0,
+            1317.0,
+            1841.0
+          ],
+          "text": "Luk",
+          "confidence": 0.579
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            1874.0,
+            1320.0,
+            1900.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.9399
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1920.0,
+            236.0,
+            1948.0
+          ],
+          "text": "Printed By",
+          "confidence": 0.8055
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            1920.0,
+            374.0,
+            1946.0
+          ],
+          "text": "32101845",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            1918.0,
+            684.0,
+            1944.0
+          ],
+          "text": "Printed On",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            1920.0,
+            1014.0,
+            1948.0
+          ],
+          "text": "27-Apr-2025 10:46.40 AM",
+          "confidence": 0.6368
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            1920.0,
+            1174.0,
+            1948.0
+          ],
+          "text": "System",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF BLOOD BANK\nlPatient\nSIRREEESHA\nAdmn\nNo\nDr.MAHESH\nGIRIDHAR YADHAV P\nReport Date\n18-Apr-25\n09:22 am\nBBill Date\n18-AApr-25\n05302 am\nService No\n51407900\nWard / Room/ Bed\nParameter\nSpecimen\nResults\nMethod\nBLOOD GROUPING AND RH\nBLOOD GROUP_\nBlood\nA\nSlide Agglutination\nMethod\nRh (D) Typing\nPositive\n(+ Ve )\nMethod_\nSlide Agglutination Method\nxxx\nEnd Of Report *xx\nLuk\nPATHOLOGIST\nPrinted By\n32101845\nPrinted On\n27-Apr-2025 10:46.40 AM\nSystem",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": []
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 40,
+    "ocr_avg_confidence": 0.855,
+    "parsed_row_count": 0
+  }
+}

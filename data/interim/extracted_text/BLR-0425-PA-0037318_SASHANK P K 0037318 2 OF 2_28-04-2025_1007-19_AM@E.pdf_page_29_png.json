@@ -1,0 +1,1875 @@
+{
+  "document_id": "BLR-0425-PA-0037318_SASHANK P K 0037318 2 OF 2_28-04-2025_1007-19_AM@E.pdf_page_29",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0037318_SASHANK P K 0037318 2 OF 2_28-04-2025_1007-19_AM@E.pdf_page_29.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AlG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatient\nUHID\nAIGG,.20965929\n18.23\nEpisode\n[P\n112902\nRef, Doctor\nDr . RUPA BANERJEE\nFacility\nAIG Hlospatals, GaccIbowli\nSample No\nAGI103046HD\nCollec Date\n19,22\nAck, Datc\n21.08\nReport Date\n23.17\nBiochemistry\nTest\nRESULT\nunIT\nBIOLOGICAL REF INTERVAL\nSERUM URIC ACID\nSampiv TyPP-\nSwn\nURIC ACID\n5,7\nmg/dL\n3.5-+\nMthc\nLRiCASF/ROO\nInterpretations:\nUrc\nacid\n\"5\n(he\nend\nproduct  0fpurinie   mctabolism\nUric\nacid\n75\nexcroied\nto\nJarge   degree\nby Ie\nkdneys\nand\n(0\nsmaller   degrco\nXn}\nthe   intostinal\ntractby\nmicrabial   degradation:\n{t\n\"5\nusetul\nin\nIhe   diagnosis   and\n(reatmont\nol\n{enol\nfallure,\nmonitoring\npotionts\nrecciving\ncytotoxic\ndrugs.\ngout,\nYeukaemia,\npsoriasis ,\nPregnancy\nInduced hypertension\n(preeclampsia   toxaemia),\nstarvation\nand   other wasting   conditoris   Incrcased   levels\nar\n{ound ir\nGout; arthntis, impairad renal functions and starvatlon;\nPatlents with   asymptomotic   hyperuricomla\nshould   undergo\nJerm) follow-Up becauso\nAre\nat risk\no/ devoloplng\nrenal disoase (hough only\nfew dovelop gout   Decreased levels\narc\nsben\nIn\nsevoro  hepalocellular disease, Fancons\nsyndroms\n8rd\nothior\ncruses\nof    defective\nreral   tubular  reabsorption   ard drugs\n\"ke   allopurinol;\nwricosuric\nard\nsonic\nchomoltierapcutic\nCeuions:\nSome   drugs\nsuch\nas\nAlpha-mothyldopa\nDesleroxaming\nand\ntisrapoulic concentrations\n2Rosuls\ncrn\nbo   lalsely\ndocreased\nin\npatients\nwith\n{ovels\n0f\nN-acelyl-p-benzogulrore\nimino\n(NAPQL\nmetabollte of acotaririophen} N-acetylcystoine (NAC}, and metamizolo\nReport Saved By\nY SUBASH CHANDRA BOSE\n23.07 PM}\nEnc of Repatt\nA-1\nDr.G. DELPIKA\nM\"E ninchict stry, StCursultant\nKOC Blccerslry\nPrint Date Timo\n17.33.53\nPrinl By\nKOMATIREDDY SRINIvA\nMindspace Road; Gachibowli, Hyderabad Telangana\n500 032\n+91 40 42444222\n0\ninfo@aighospitalscom\nwwwalghospitalscom\nAIG Hospitals (a unit ofF Asian Institute af Gastraenterology)\nCIN: U99999TG1994PTCO[8352\nJong\nthey\ndrugs.",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            78.0,
+            430.0,
+            178.0
+          ],
+          "text": "AlG",
+          "confidence": 0.3559
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            219.0,
+            167.0,
+            425.0,
+            209.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            623.0,
+            242.0,
+            1131.0,
+            281.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.9801
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            286.0,
+            300.0,
+            312.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            326.0,
+            280.0,
+            352.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            434.0,
+            330.0,
+            590.0,
+            356.0
+          ],
+          "text": "AIGG,.20965929",
+          "confidence": 0.5572
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            342.0,
+            1366.0,
+            366.0
+          ],
+          "text": "18.23",
+          "confidence": 0.8941
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            366.0,
+            304.0,
+            394.0
+          ],
+          "text": "Episode",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            433.0,
+            371.0,
+            459.0,
+            391.0
+          ],
+          "text": "[P",
+          "confidence": 0.2285
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            380.0,
+            1268.0,
+            406.0
+          ],
+          "text": "112902",
+          "confidence": 0.9624
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            404.0,
+            340.0,
+            432.0
+          ],
+          "text": "Ref, Doctor",
+          "confidence": 0.6724
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            432.0,
+            408.0,
+            630.0,
+            436.0
+          ],
+          "text": "Dr . RUPA BANERJEE",
+          "confidence": 0.7952
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            449.0,
+            1031.0,
+            482.0
+          ],
+          "text": "Facility",
+          "confidence": 0.8435
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            454.0,
+            1410.0,
+            483.0
+          ],
+          "text": "AIG Hlospatals, GaccIbowli",
+          "confidence": 0.1929
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            510.0,
+            332.0,
+            538.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9656
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            430.0,
+            514.0,
+            570.0,
+            540.0
+          ],
+          "text": "AGI103046HD",
+          "confidence": 0.2083
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            520.0,
+            1076.0,
+            548.0
+          ],
+          "text": "Collec Date",
+          "confidence": 0.9938
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            526.0,
+            1348.0,
+            552.0
+          ],
+          "text": "19,22",
+          "confidence": 0.949
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            548.0,
+            318.0,
+            574.0
+          ],
+          "text": "Ack, Datc",
+          "confidence": 0.7274
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            552.0,
+            614.0,
+            578.0
+          ],
+          "text": "21.08",
+          "confidence": 0.6149
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            949.0,
+            557.0,
+            1084.0,
+            587.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            562.0,
+            1346.0,
+            588.0
+          ],
+          "text": "23.17",
+          "confidence": 0.5253
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            632.0,
+            959.0,
+            673.0
+          ],
+          "text": "Biochemistry",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            682.0,
+            306.0,
+            706.0
+          ],
+          "text": "Test",
+          "confidence": 0.4775
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            690.0,
+            836.0,
+            716.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            694.0,
+            1156.0,
+            720.0
+          ],
+          "text": "unIT",
+          "confidence": 0.3713
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            696.0,
+            1472.0,
+            722.0
+          ],
+          "text": "BIOLOGICAL REF INTERVAL",
+          "confidence": 0.6433
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            235.0,
+            727.0,
+            501.0,
+            763.0
+          ],
+          "text": "SERUM URIC ACID",
+          "confidence": 0.7546
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            245.0,
+            763.0,
+            364.0,
+            790.0
+          ],
+          "text": "Sampiv TyPP-",
+          "confidence": 0.3436
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            390.0,
+            768.0,
+            443.0,
+            788.0
+          ],
+          "text": "Swn",
+          "confidence": 0.2124
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            798.0,
+            374.0,
+            830.0
+          ],
+          "text": "URIC ACID",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            804.0,
+            814.0,
+            828.0
+          ],
+          "text": "5,7",
+          "confidence": 0.6025
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            806.0,
+            1172.0,
+            839.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.1456
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1224.0,
+            810.0,
+            1310.0,
+            836.0
+          ],
+          "text": "3.5-+",
+          "confidence": 0.2372
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            830.0,
+            308.0,
+            854.0
+          ],
+          "text": "Mthc",
+          "confidence": 0.2159
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            833.0,
+            428.0,
+            853.0
+          ],
+          "text": "LRiCASF/ROO",
+          "confidence": 0.1578
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            855.0,
+            376.0,
+            886.0
+          ],
+          "text": "Interpretations:",
+          "confidence": 0.9119
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            860.0,
+            432.0,
+            886.0
+          ],
+          "text": "Urc",
+          "confidence": 0.628
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            862.0,
+            490.0,
+            886.0
+          ],
+          "text": "acid",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            496.0,
+            862.0,
+            522.0,
+            886.0
+          ],
+          "text": "\"5",
+          "confidence": 0.2061
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            530.0,
+            862.0,
+            568.0,
+            888.0
+          ],
+          "text": "(he",
+          "confidence": 0.9904
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            864.0,
+            624.0,
+            888.0
+          ],
+          "text": "end",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            864.0,
+            962.0,
+            894.0
+          ],
+          "text": "product  0fpurinie   mctabolism",
+          "confidence": 0.2856
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            868.0,
+            1020.0,
+            894.0
+          ],
+          "text": "Uric",
+          "confidence": 0.9642
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            870.0,
+            1078.0,
+            894.0
+          ],
+          "text": "acid",
+          "confidence": 0.9341
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1085.0,
+            873.0,
+            1109.0,
+            893.0
+          ],
+          "text": "75",
+          "confidence": 0.5757
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            872.0,
+            1214.0,
+            896.0
+          ],
+          "text": "excroied",
+          "confidence": 0.3352
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1220.0,
+            872.0,
+            1246.0,
+            896.0
+          ],
+          "text": "to",
+          "confidence": 0.6855
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            872.0,
+            1425.0,
+            905.0
+          ],
+          "text": "Jarge   degree",
+          "confidence": 0.5491
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1434.0,
+            876.0,
+            1510.0,
+            904.0
+          ],
+          "text": "by Ie",
+          "confidence": 0.6154
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            885.0,
+            301.0,
+            917.0
+          ],
+          "text": "kdneys",
+          "confidence": 0.9381
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            308.0,
+            890.0,
+            354.0,
+            914.0
+          ],
+          "text": "and",
+          "confidence": 0.9112
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            363.0,
+            893.0,
+            387.0,
+            913.0
+          ],
+          "text": "(0",
+          "confidence": 0.3198
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            892.0,
+            594.0,
+            920.0
+          ],
+          "text": "smaller   degrco",
+          "confidence": 0.6608
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            603.0,
+            897.0,
+            627.0,
+            917.0
+          ],
+          "text": "Xn}",
+          "confidence": 0.2439
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            636.0,
+            893.0,
+            782.0,
+            922.0
+          ],
+          "text": "the   intostinal",
+          "confidence": 0.7316
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            898.0,
+            878.0,
+            926.0
+          ],
+          "text": "tractby",
+          "confidence": 0.9788
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            898.0,
+            1126.0,
+            928.0
+          ],
+          "text": "micrabial   degradation:",
+          "confidence": 0.4704
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1137.0,
+            903.0,
+            1155.0,
+            925.0
+          ],
+          "text": "{t",
+          "confidence": 0.044
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            902.0,
+            1188.0,
+            926.0
+          ],
+          "text": "\"5",
+          "confidence": 0.188
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            902.0,
+            1266.0,
+            928.0
+          ],
+          "text": "usetul",
+          "confidence": 0.5386
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1273.0,
+            905.0,
+            1297.0,
+            925.0
+          ],
+          "text": "in",
+          "confidence": 0.8204
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            903.0,
+            1510.0,
+            934.0
+          ],
+          "text": "Ihe   diagnosis   and",
+          "confidence": 0.59
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            917.0,
+            320.0,
+            945.0
+          ],
+          "text": "(reatmont",
+          "confidence": 0.5041
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            920.0,
+            360.0,
+            946.0
+          ],
+          "text": "ol",
+          "confidence": 0.5996
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            372.0,
+            922.0,
+            432.0,
+            946.0
+          ],
+          "text": "{enol",
+          "confidence": 0.5732
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            444.0,
+            919.0,
+            521.0,
+            950.0
+          ],
+          "text": "fallure,",
+          "confidence": 0.386
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            915.0,
+            652.0,
+            956.0
+          ],
+          "text": "monitoring",
+          "confidence": 0.9848
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            924.0,
+            752.0,
+            952.0
+          ],
+          "text": "potionts",
+          "confidence": 0.8967
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            765.0,
+            924.0,
+            865.0,
+            956.0
+          ],
+          "text": "recciving",
+          "confidence": 0.8904
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            877.0,
+            926.0,
+            974.0,
+            956.0
+          ],
+          "text": "cytotoxic",
+          "confidence": 0.8166
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            928.0,
+            1059.0,
+            960.0
+          ],
+          "text": "drugs.",
+          "confidence": 0.8315
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1075.0,
+            931.0,
+            1134.0,
+            960.0
+          ],
+          "text": "gout,",
+          "confidence": 0.7282
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1147.0,
+            930.0,
+            1266.0,
+            960.0
+          ],
+          "text": "Yeukaemia,",
+          "confidence": 0.8329
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1279.0,
+            933.0,
+            1384.0,
+            962.0
+          ],
+          "text": "psoriasis ,",
+          "confidence": 0.8724
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1397.0,
+            931.0,
+            1516.0,
+            969.0
+          ],
+          "text": "Pregnancy",
+          "confidence": 0.8798
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            948.0,
+            446.0,
+            978.0
+          ],
+          "text": "Induced hypertension",
+          "confidence": 0.42
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            949.0,
+            729.0,
+            985.0
+          ],
+          "text": "(preeclampsia   toxaemia),",
+          "confidence": 0.6085
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            956.0,
+            842.0,
+            982.0
+          ],
+          "text": "starvation",
+          "confidence": 0.9565
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            958.0,
+            1360.0,
+            990.0
+          ],
+          "text": "and   other wasting   conditoris   Incrcased   levels",
+          "confidence": 0.1957
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1367.0,
+            969.0,
+            1405.0,
+            989.0
+          ],
+          "text": "ar",
+          "confidence": 0.9141
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1414.0,
+            966.0,
+            1510.0,
+            992.0
+          ],
+          "text": "{ound ir",
+          "confidence": 0.2116
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            974.0,
+            767.0,
+            1013.0
+          ],
+          "text": "Gout; arthntis, impairad renal functions and starvatlon;",
+          "confidence": 0.3692
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1007.0,
+            671.0,
+            1043.0
+          ],
+          "text": "Patlents with   asymptomotic   hyperuricomla",
+          "confidence": 0.6758
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            1015.0,
+            851.0,
+            1047.0
+          ],
+          "text": "should   undergo",
+          "confidence": 0.6823
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            902.0,
+            1020.0,
+            1168.0,
+            1048.0
+          ],
+          "text": "Jerm) follow-Up becauso",
+          "confidence": 0.4395
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1233.0,
+            1027.0,
+            1271.0,
+            1047.0
+          ],
+          "text": "Are",
+          "confidence": 0.6005
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            1026.0,
+            1356.0,
+            1050.0
+          ],
+          "text": "at risk",
+          "confidence": 0.9182
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1362.0,
+            1023.0,
+            1511.0,
+            1056.0
+          ],
+          "text": "o/ devoloplng",
+          "confidence": 0.7269
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1040.0,
+            500.0,
+            1072.0
+          ],
+          "text": "renal disoase (hough only",
+          "confidence": 0.6723
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            531.0,
+            1041.0,
+            927.0,
+            1077.0
+          ],
+          "text": "few dovelop gout   Decreased levels",
+          "confidence": 0.4763
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1055.0,
+            971.0,
+            1075.0
+          ],
+          "text": "arc",
+          "confidence": 0.8496
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            979.0,
+            1055.0,
+            1033.0,
+            1075.0
+          ],
+          "text": "sben",
+          "confidence": 0.1492
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1052.0,
+            1064.0,
+            1076.0
+          ],
+          "text": "In",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1052.0,
+            1506.0,
+            1084.0
+          ],
+          "text": "sevoro  hepalocellular disease, Fancons",
+          "confidence": 0.6519
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1070.0,
+            318.0,
+            1098.0
+          ],
+          "text": "syndroms",
+          "confidence": 0.8186
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            328.0,
+            1072.0,
+            374.0,
+            1098.0
+          ],
+          "text": "8rd",
+          "confidence": 0.5217
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            1072.0,
+            442.0,
+            1098.0
+          ],
+          "text": "othior",
+          "confidence": 0.3254
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1076.0,
+            530.0,
+            1100.0
+          ],
+          "text": "cruses",
+          "confidence": 0.4506
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            538.0,
+            1074.0,
+            672.0,
+            1102.0
+          ],
+          "text": "of    defective",
+          "confidence": 0.5696
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            1075.0,
+            1095.0,
+            1114.0
+          ],
+          "text": "reral   tubular  reabsorption   ard drugs",
+          "confidence": 0.2976
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            1083.0,
+            1268.0,
+            1113.0
+          ],
+          "text": "\"ke   allopurinol;",
+          "confidence": 0.234
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            1086.0,
+            1382.0,
+            1112.0
+          ],
+          "text": "wricosuric",
+          "confidence": 0.5696
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            1088.0,
+            1438.0,
+            1112.0
+          ],
+          "text": "ard",
+          "confidence": 0.4205
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1445.0,
+            1093.0,
+            1505.0,
+            1113.0
+          ],
+          "text": "sonic",
+          "confidence": 0.8025
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1099.0,
+            400.0,
+            1130.0
+          ],
+          "text": "chomoltierapcutic",
+          "confidence": 0.3266
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1129.0,
+            314.0,
+            1161.0
+          ],
+          "text": "Ceuions:",
+          "confidence": 0.4841
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            1162.0,
+            388.0,
+            1193.0
+          ],
+          "text": "Some   drugs",
+          "confidence": 0.5586
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            1164.0,
+            452.0,
+            1190.0
+          ],
+          "text": "such",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            463.0,
+            1169.0,
+            493.0,
+            1189.0
+          ],
+          "text": "as",
+          "confidence": 0.9662
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            1160.0,
+            697.0,
+            1199.0
+          ],
+          "text": "Alpha-mothyldopa",
+          "confidence": 0.7222
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            1167.0,
+            872.0,
+            1197.0
+          ],
+          "text": "Desleroxaming",
+          "confidence": 0.5991
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            880.0,
+            1172.0,
+            928.0,
+            1196.0
+          ],
+          "text": "and",
+          "confidence": 0.9872
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            1191.0,
+            483.0,
+            1221.0
+          ],
+          "text": "tisrapoulic concentrations",
+          "confidence": 0.5449
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1221.0,
+            312.0,
+            1247.0
+          ],
+          "text": "2Rosuls",
+          "confidence": 0.785
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            323.0,
+            1229.0,
+            365.0,
+            1249.0
+          ],
+          "text": "crn",
+          "confidence": 0.1473
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            1222.0,
+            495.0,
+            1255.0
+          ],
+          "text": "bo   lalsely",
+          "confidence": 0.542
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            503.0,
+            1227.0,
+            620.0,
+            1254.0
+          ],
+          "text": "docreased",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            1230.0,
+            654.0,
+            1254.0
+          ],
+          "text": "in",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            665.0,
+            1228.0,
+            754.0,
+            1256.0
+          ],
+          "text": "patients",
+          "confidence": 0.8001
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            1232.0,
+            812.0,
+            1256.0
+          ],
+          "text": "with",
+          "confidence": 0.9567
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            1234.0,
+            992.0,
+            1258.0
+          ],
+          "text": "{ovels",
+          "confidence": 0.3355
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            1234.0,
+            1032.0,
+            1258.0
+          ],
+          "text": "0f",
+          "confidence": 0.3784
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1234.0,
+            1304.0,
+            1264.0
+          ],
+          "text": "N-acelyl-p-benzogulrore",
+          "confidence": 0.2894
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            1313.0,
+            1236.0,
+            1376.0,
+            1264.0
+          ],
+          "text": "imino",
+          "confidence": 0.7469
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            1388.0,
+            1238.0,
+            1478.0,
+            1268.0
+          ],
+          "text": "(NAPQL",
+          "confidence": 0.3618
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1249.0,
+            939.0,
+            1289.0
+          ],
+          "text": "metabollte of acotaririophen} N-acetylcystoine (NAC}, and metamizolo",
+          "confidence": 0.3303
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1297.0,
+            362.0,
+            1328.0
+          ],
+          "text": "Report Saved By",
+          "confidence": 0.6673
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            1300.0,
+            638.0,
+            1330.0
+          ],
+          "text": "Y SUBASH CHANDRA BOSE",
+          "confidence": 0.945
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            1304.0,
+            875.0,
+            1334.0
+          ],
+          "text": "23.07 PM}",
+          "confidence": 0.7204
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            1360.0,
+            910.0,
+            1388.0
+          ],
+          "text": "Enc of Repatt",
+          "confidence": 0.5951
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            1130.0,
+            1404.0,
+            1332.0,
+            1484.0
+          ],
+          "text": "A-1",
+          "confidence": 0.1098
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            1119.0,
+            1499.0,
+            1247.0,
+            1519.0
+          ],
+          "text": "Dr.G. DELPIKA",
+          "confidence": 0.6164
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            1537.0,
+            1357.0,
+            1562.0
+          ],
+          "text": "M\"E ninchict stry, StCursultant",
+          "confidence": 0.2489
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            1560.0,
+            1258.0,
+            1590.0
+          ],
+          "text": "KOC Blccerslry",
+          "confidence": 0.4581
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            2104.0,
+            280.0,
+            2132.0
+          ],
+          "text": "Print Date Timo",
+          "confidence": 0.6956
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            2107.0,
+            554.0,
+            2137.0
+          ],
+          "text": "17.33.53",
+          "confidence": 0.4176
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            990.0,
+            2116.0,
+            1076.0,
+            2146.0
+          ],
+          "text": "Prinl By",
+          "confidence": 0.6996
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            2120.0,
+            1378.0,
+            2148.0
+          ],
+          "text": "KOMATIREDDY SRINIvA",
+          "confidence": 0.6159
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            2177.0,
+            651.0,
+            2217.0
+          ],
+          "text": "Mindspace Road; Gachibowli, Hyderabad Telangana",
+          "confidence": 0.4258
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            2186.0,
+            750.0,
+            2214.0
+          ],
+          "text": "500 032",
+          "confidence": 0.8008
+        },
+        {
+          "block_no": 141,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            2183.0,
+            998.0,
+            2214.0
+          ],
+          "text": "+91 40 42444222",
+          "confidence": 0.6078
+        },
+        {
+          "block_no": 142,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            2188.0,
+            1036.0,
+            2212.0
+          ],
+          "text": "0",
+          "confidence": 0.1391
+        },
+        {
+          "block_no": 143,
+          "block_type": 0,
+          "bbox": [
+            1033.0,
+            2187.0,
+            1281.0,
+            2223.0
+          ],
+          "text": "info@aighospitalscom",
+          "confidence": 0.7134
+        },
+        {
+          "block_no": 144,
+          "block_type": 0,
+          "bbox": [
+            1308.0,
+            2182.0,
+            1553.0,
+            2225.0
+          ],
+          "text": "wwwalghospitalscom",
+          "confidence": 0.8502
+        },
+        {
+          "block_no": 145,
+          "block_type": 0,
+          "bbox": [
+            323.0,
+            2219.0,
+            935.0,
+            2258.0
+          ],
+          "text": "AIG Hospitals (a unit ofF Asian Institute af Gastraenterology)",
+          "confidence": 0.5597
+        },
+        {
+          "block_no": 146,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            2226.0,
+            1298.0,
+            2256.0
+          ],
+          "text": "CIN: U99999TG1994PTCO[8352",
+          "confidence": 0.6245
+        },
+        {
+          "block_no": 147,
+          "block_type": 0,
+          "bbox": [
+            850.1384522477824,
+            1015.1638810551212,
+            909.8615477522176,
+            1049.8361189448788
+          ],
+          "text": "Jong",
+          "confidence": 0.6852
+        },
+        {
+          "block_no": 148,
+          "block_type": 0,
+          "bbox": [
+            1170.1593552338386,
+            1018.1539501058485,
+            1228.8406447661614,
+            1053.8460498941515
+          ],
+          "text": "they",
+          "confidence": 0.9077
+        },
+        {
+          "block_no": 149,
+          "block_type": 0,
+          "bbox": [
+            395.0869553631957,
+            1100.1539501058485,
+            465.9130446368043,
+            1135.8460498941515
+          ],
+          "text": "drugs.",
+          "confidence": 0.7596
+        }
+      ]
+    }
+  ],
+  "full_text": "AlG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatient\nUHID\nAIGG,.20965929\n18.23\nEpisode\n[P\n112902\nRef, Doctor\nDr . RUPA BANERJEE\nFacility\nAIG Hlospatals, GaccIbowli\nSample No\nAGI103046HD\nCollec Date\n19,22\nAck, Datc\n21.08\nReport Date\n23.17\nBiochemistry\nTest\nRESULT\nunIT\nBIOLOGICAL REF INTERVAL\nSERUM URIC ACID\nSampiv TyPP-\nSwn\nURIC ACID\n5,7\nmg/dL\n3.5-+\nMthc\nLRiCASF/ROO\nInterpretations:\nUrc\nacid\n\"5\n(he\nend\nproduct  0fpurinie   mctabolism\nUric\nacid\n75\nexcroied\nto\nJarge   degree\nby Ie\nkdneys\nand\n(0\nsmaller   degrco\nXn}\nthe   intostinal\ntractby\nmicrabial   degradation:\n{t\n\"5\nusetul\nin\nIhe   diagnosis   and\n(reatmont\nol\n{enol\nfallure,\nmonitoring\npotionts\nrecciving\ncytotoxic\ndrugs.\ngout,\nYeukaemia,\npsoriasis ,\nPregnancy\nInduced hypertension\n(preeclampsia   toxaemia),\nstarvation\nand   other wasting   conditoris   Incrcased   levels\nar\n{ound ir\nGout; arthntis, impairad renal functions and starvatlon;\nPatlents with   asymptomotic   hyperuricomla\nshould   undergo\nJerm) follow-Up becauso\nAre\nat risk\no/ devoloplng\nrenal disoase (hough only\nfew dovelop gout   Decreased levels\narc\nsben\nIn\nsevoro  hepalocellular disease, Fancons\nsyndroms\n8rd\nothior\ncruses\nof    defective\nreral   tubular  reabsorption   ard drugs\n\"ke   allopurinol;\nwricosuric\nard\nsonic\nchomoltierapcutic\nCeuions:\nSome   drugs\nsuch\nas\nAlpha-mothyldopa\nDesleroxaming\nand\ntisrapoulic concentrations\n2Rosuls\ncrn\nbo   lalsely\ndocreased\nin\npatients\nwith\n{ovels\n0f\nN-acelyl-p-benzogulrore\nimino\n(NAPQL\nmetabollte of acotaririophen} N-acetylcystoine (NAC}, and metamizolo\nReport Saved By\nY SUBASH CHANDRA BOSE\n23.07 PM}\nEnc of Repatt\nA-1\nDr.G. DELPIKA\nM\"E ninchict stry, StCursultant\nKOC Blccerslry\nPrint Date Timo\n17.33.53\nPrinl By\nKOMATIREDDY SRINIvA\nMindspace Road; Gachibowli, Hyderabad Telangana\n500 032\n+91 40 42444222\n0\ninfo@aighospitalscom\nwwwalghospitalscom\nAIG Hospitals (a unit ofF Asian Institute af Gastraenterology)\nCIN: U99999TG1994PTCO[8352\nJong\nthey\ndrugs.",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "AIGG,.",
+          "biomarker_normalized": "AIGG,.",
+          "value": "20965929",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AIGG,.20965929",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AGI1",
+          "biomarker_normalized": "AGI1",
+          "value": "03046",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AGI103046HD",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "product",
+          "biomarker_normalized": "product",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "product 0fpurinie mctabolism",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "A",
+          "biomarker_normalized": "A",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "A-1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "CIN: U9",
+          "biomarker_normalized": "CIN: U9",
+          "value": "9999",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN: U99999TG1994PTCO[8352",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 150,
+    "ocr_avg_confidence": 0.6317,
+    "parsed_row_count": 5
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "document_id": "GUR-0425-PA-0053454_Q-11zonmergedFiles2411zon_250427_1324@F.pdf_page_30",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053454_Q-11zonmergedFiles2411zon_250427_1324@F.pdf_page_30.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "OSCAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\n67b5\nIpp: Civil Hospital, Sonipat\nMob ;\nTransaction\n4204\nPaticnt Nam\nKUMAR GUPTA\nDate\nMobile Na\n4839\nDoctor Nam\nDate\nTest Name\nCR.P (QUANTITATIVE)\nCOMPONEM\nRESULIS\nUNITS\nREFE RANGE\nCRP QUA MATMI\nCRP\n16.9\nUi\n0 6\n80ee\nEND OL RLPORT \"\nPatholvgustfechnolglut\nDr CURLEEN CILL\nMpbs Wopatrolugy)\nReya Na. DMCRI 1938\nDr. RAHUL\n15BS m! (Gen\nConsuttarikien & Laptus ~ui _\nDMC 91153\nCBC, Thyrold.Kidney Function Test, Liver Function Test, Lpid Profile; Blood\nLA, FSH, Prolactin; 8-HcG; Torch, CA-125, CEA, PSA\n30/40 Col\nDoepler Ultrasound,4.5.6. IVE Barlum Studies . Olgital X-Ray; Mulli Sllce Spiral CT Scan EC.G ,\n2l6-21 Channels EMG NcV Vep & EraPeL 4 Comptehensive Hoalth Check-Wna utc\n30/4D Ultr Isound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNOT FDR MEDICO LEGAL PURPOSE\ntm& &faut 24 1 Jurat %I\nMosei\n'SCAR\nHEA\nSurger,\nSurgeon\nNol\nRega:\nSugal",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            263.0,
+            68.0,
+            1406.0,
+            158.0
+          ],
+          "text": "OSCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.4604
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            167.0,
+            199.0,
+            211.0
+          ],
+          "text": "OS",
+          "confidence": 0.5637
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            533.0,
+            158.0,
+            1141.0,
+            248.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9864
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1474.0,
+            208.0,
+            1548.0,
+            232.0
+          ],
+          "text": "67b5",
+          "confidence": 0.0468
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            250.0,
+            758.0,
+            304.0
+          ],
+          "text": "Ipp: Civil Hospital, Sonipat",
+          "confidence": 0.7675
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            784.0,
+            250.0,
+            886.0,
+            298.0
+          ],
+          "text": "Mob ;",
+          "confidence": 0.7661
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            488.0,
+            316.0,
+            514.0
+          ],
+          "text": "Transaction",
+          "confidence": 0.5983
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            486.0,
+            638.0,
+            514.0
+          ],
+          "text": "4204",
+          "confidence": 0.4238
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            522.0,
+            322.0,
+            552.0
+          ],
+          "text": "Paticnt Nam",
+          "confidence": 0.531
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            520.0,
+            872.0,
+            552.0
+          ],
+          "text": "KUMAR GUPTA",
+          "confidence": 0.3852
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            522.0,
+            1092.0,
+            550.0
+          ],
+          "text": "Date",
+          "confidence": 0.3953
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            558.0,
+            308.0,
+            588.0
+          ],
+          "text": "Mobile Na",
+          "confidence": 0.8688
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            558.0,
+            1262.0,
+            588.0
+          ],
+          "text": "4839",
+          "confidence": 0.6895
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            594.0,
+            320.0,
+            620.0
+          ],
+          "text": "Doctor Nam",
+          "confidence": 0.893
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            594.0,
+            1096.0,
+            622.0
+          ],
+          "text": "Date",
+          "confidence": 0.4262
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            721.0,
+            298.0,
+            750.0
+          ],
+          "text": "Test Name",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            385.0,
+            714.0,
+            709.0,
+            755.0
+          ],
+          "text": "CR.P (QUANTITATIVE)",
+          "confidence": 0.683
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            759.0,
+            321.0,
+            787.0
+          ],
+          "text": "COMPONEM",
+          "confidence": 0.5896
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            758.0,
+            838.0,
+            790.0
+          ],
+          "text": "RESULIS",
+          "confidence": 0.6606
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            762.0,
+            1194.0,
+            790.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.4563
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            760.0,
+            1386.0,
+            792.0
+          ],
+          "text": "REFE RANGE",
+          "confidence": 0.8008
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            793.0,
+            435.0,
+            832.0
+          ],
+          "text": "CRP QUA MATMI",
+          "confidence": 0.1407
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            836.0,
+            244.0,
+            866.0
+          ],
+          "text": "CRP",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            838.0,
+            838.0,
+            868.0
+          ],
+          "text": "16.9",
+          "confidence": 0.4748
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            838.0,
+            1180.0,
+            866.0
+          ],
+          "text": "Ui",
+          "confidence": 0.1454
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            838.0,
+            1334.0,
+            868.0
+          ],
+          "text": "0 6",
+          "confidence": 0.493
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            625.0,
+            949.0,
+            689.0,
+            965.0
+          ],
+          "text": "80ee",
+          "confidence": 0.0102
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            948.0,
+            982.0,
+            976.0
+          ],
+          "text": "END OL RLPORT \"",
+          "confidence": 0.2537
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            1094.0,
+            1416.0,
+            1126.0
+          ],
+          "text": "Patholvgustfechnolglut",
+          "confidence": 0.1205
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1190.0,
+            1455.0,
+            1245.0
+          ],
+          "text": "Dr CURLEEN CILL",
+          "confidence": 0.6203
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1081.0,
+            1241.0,
+            1453.0,
+            1283.0
+          ],
+          "text": "Mpbs Wopatrolugy)",
+          "confidence": 0.0752
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            1275.0,
+            1456.0,
+            1328.0
+          ],
+          "text": "Reya Na. DMCRI 1938",
+          "confidence": 0.2174
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1667.0,
+            980.0,
+            1716.0
+          ],
+          "text": "Dr. RAHUL",
+          "confidence": 0.9071
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            1706.0,
+            984.0,
+            1754.0
+          ],
+          "text": "15BS m! (Gen",
+          "confidence": 0.0664
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            747.0,
+            1745.0,
+            1101.0,
+            1797.0
+          ],
+          "text": "Consuttarikien & Laptus ~ui _",
+          "confidence": 0.0903
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            899.0,
+            1787.0,
+            1065.0,
+            1825.0
+          ],
+          "text": "DMC 91153",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            1998.0,
+            911.0,
+            2039.0
+          ],
+          "text": "CBC, Thyrold.Kidney Function Test, Liver Function Test, Lpid Profile; Blood",
+          "confidence": 0.3723
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            2003.0,
+            1589.0,
+            2043.0
+          ],
+          "text": "LA, FSH, Prolactin; 8-HcG; Torch, CA-125, CEA, PSA",
+          "confidence": 0.1122
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            2048.0,
+            314.0,
+            2080.0
+          ],
+          "text": "30/40 Col",
+          "confidence": 0.3232
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            333.0,
+            2048.0,
+            1471.0,
+            2089.0
+          ],
+          "text": "Doepler Ultrasound,4.5.6. IVE Barlum Studies . Olgital X-Ray; Mulli Sllce Spiral CT Scan EC.G ,",
+          "confidence": 0.1498
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            309.0,
+            2077.0,
+            1341.0,
+            2122.0
+          ],
+          "text": "2l6-21 Channels EMG NcV Vep & EraPeL 4 Comptehensive Hoalth Check-Wna utc",
+          "confidence": 0.0253
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            2142.0,
+            1545.0,
+            2207.0
+          ],
+          "text": "30/4D Ultr Isound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab",
+          "confidence": 0.4139
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            2220.0,
+            766.0,
+            2270.0
+          ],
+          "text": "NOT FDR MEDICO LEGAL PURPOSE",
+          "confidence": 0.6292
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            2222.0,
+            1416.0,
+            2276.0
+          ],
+          "text": "tm& &faut 24 1 Jurat %I",
+          "confidence": 0.0432
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            458.04081822850355,
+            1679.089572499564,
+            541.9591817714964,
+            1724.910427500436
+          ],
+          "text": "Mosei",
+          "confidence": 0.1816
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            400.54230423844285,
+            1705.8001955294853,
+            480.45769576155715,
+            1765.1998044705147
+          ],
+          "text": "'SCAR",
+          "confidence": 0.3587
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            469.1539501058485,
+            1711.1638810551212,
+            528.8460498941515,
+            1745.8361189448788
+          ],
+          "text": "HEA",
+          "confidence": 0.4659
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            975.0709587121853,
+            1714.1087751412585,
+            1092.9290412878147,
+            1763.8912248587415
+          ],
+          "text": "Surger,",
+          "confidence": 0.3324
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1090.1549273233647,
+            1751.1190646990801,
+            1201.8450726766353,
+            1805.8809353009199
+          ],
+          "text": "Surgeon",
+          "confidence": 0.9299
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            831.263428220882,
+            1771.6400504674343,
+            902.736571779118,
+            1827.3599495325657
+          ],
+          "text": "Nol",
+          "confidence": 0.9838
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            744.135060241595,
+            1777.1039678918432,
+            841.864939758405,
+            1827.8960321081568
+          ],
+          "text": "Rega:",
+          "confidence": 0.9443
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            903.1466279914299,
+            2000.1317018509494,
+            989.8533720085701,
+            2045.8682981490506
+          ],
+          "text": "Sugal",
+          "confidence": 0.9092
+        }
+      ]
+    }
+  ],
+  "full_text": "OSCAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\n67b5\nIpp: Civil Hospital, Sonipat\nMob ;\nTransaction\n4204\nPaticnt Nam\nKUMAR GUPTA\nDate\nMobile Na\n4839\nDoctor Nam\nDate\nTest Name\nCR.P (QUANTITATIVE)\nCOMPONEM\nRESULIS\nUNITS\nREFE RANGE\nCRP QUA MATMI\nCRP\n16.9\nUi\n0 6\n80ee\nEND OL RLPORT \"\nPatholvgustfechnolglut\nDr CURLEEN CILL\nMpbs Wopatrolugy)\nReya Na. DMCRI 1938\nDr. RAHUL\n15BS m! (Gen\nConsuttarikien & Laptus ~ui _\nDMC 91153\nCBC, Thyrold.Kidney Function Test, Liver Function Test, Lpid Profile; Blood\nLA, FSH, Prolactin; 8-HcG; Torch, CA-125, CEA, PSA\n30/40 Col\nDoepler Ultrasound,4.5.6. IVE Barlum Studies . Olgital X-Ray; Mulli Sllce Spiral CT Scan EC.G ,\n2l6-21 Channels EMG NcV Vep & EraPeL 4 Comptehensive Hoalth Check-Wna utc\n30/4D Ultr Isound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNOT FDR MEDICO LEGAL PURPOSE\ntm& &faut 24 1 Jurat %I\nMosei\n'SCAR\nHEA\nSurger,\nSurgeon\nNol\nRega:\nSugal",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Reya Na. DMCRI",
+          "biomarker_normalized": "Reya Na. DMCRI",
+          "value": "1938",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reya Na. DMCRI 1938",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "DMC",
+          "biomarker_normalized": "DMC",
+          "value": "91153",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMC 91153",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "LA, FSH, Prolactin;",
+          "biomarker_normalized": "LA, FSH, Prolactin;",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LA, FSH, Prolactin; 8-HcG; Torch, CA-125, CEA, PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Doepler Ultrasound,",
+          "biomarker_normalized": "Doepler Ultrasound,",
+          "value": "4.5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Doepler Ultrasound,4.5.6. IVE Barlum Studies . Olgital X-Ray; Mulli Sllce Spiral CT Scan EC.G ,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "tm& &faut",
+          "biomarker_normalized": "tm& &faut",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "tm& &faut 24 1 Jurat %I",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 52,
+    "ocr_avg_confidence": 0.4953,
+    "parsed_row_count": 5
+  }
+}

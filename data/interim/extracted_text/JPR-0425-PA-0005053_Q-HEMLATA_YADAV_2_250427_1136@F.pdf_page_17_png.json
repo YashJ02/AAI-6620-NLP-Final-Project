@@ -1,0 +1,486 @@
+{
+  "document_id": "JPR-0425-PA-0005053_Q-HEMLATA_YADAV_2_250427_1136@F.pdf_page_17",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\JPR-0425-PA-0005053_Q-HEMLATA_YADAV_2_250427_1136@F.pdf_page_17.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "APEX HOSPITALS PVT LTD LAB:\nAPI* Mc TAL\"\n0i\nCorporate Identiy Numiber (CIN) : U8SM10RJ1987P7rcr|\nUHID NO /\nIP No\nPEX0506615\nMNIP2501294\nBill Date\n26-Apr-2025 10.21 AM\nMt5\nSS\nType\nSerum\nType\nBed No\nCASH\nDelux Room\nDoctor\nCHLORIDE\nISF )\n10.6\nmnio ] / 1\n98 -\n107'\n*** End Of Report ***\nDr: JAI WADE\nMBBS, DNB-Pathology\nPathologist\nVerified By\nUser\nPrini Dt\n26-Apr- 2025 (1.41 PM\nMALVIYA\nNAGAR",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            327.0,
+            174.0,
+            1145.0,
+            243.0
+          ],
+          "text": "APEX HOSPITALS PVT LTD LAB:",
+          "confidence": 0.7842
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            231.0,
+            305.0,
+            267.0
+          ],
+          "text": "API* Mc TAL\"",
+          "confidence": 0.1315
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            328.0,
+            260.0,
+            368.0,
+            284.0
+          ],
+          "text": "0i",
+          "confidence": 0.1223
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            282.0,
+            1137.0,
+            320.0
+          ],
+          "text": "Corporate Identiy Numiber (CIN) : U8SM10RJ1987P7rcr|",
+          "confidence": 0.0987
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            382.0,
+            222.0,
+            412.0
+          ],
+          "text": "UHID NO /",
+          "confidence": 0.9395
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            382.0,
+            320.0,
+            410.0
+          ],
+          "text": "IP No",
+          "confidence": 0.8983
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            380.0,
+            550.0,
+            410.0
+          ],
+          "text": "PEX0506615",
+          "confidence": 0.9425
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            566.0,
+            378.0,
+            750.0,
+            410.0
+          ],
+          "text": "MNIP2501294",
+          "confidence": 0.9675
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            972.0,
+            378.0,
+            1112.0,
+            408.0
+          ],
+          "text": "Bill Date",
+          "confidence": 0.9739
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1260.0,
+            370.0,
+            1551.0,
+            410.0
+          ],
+          "text": "26-Apr-2025 10.21 AM",
+          "confidence": 0.6719
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            424.0,
+            410.0,
+            450.0
+          ],
+          "text": "Mt5",
+          "confidence": 0.4155
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1034.0,
+            432.0,
+            1140.0,
+            506.0
+          ],
+          "text": "SS",
+          "confidence": 0.008
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            522.0,
+            292.0,
+            554.0
+          ],
+          "text": "Type",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            522.0,
+            446.0,
+            550.0
+          ],
+          "text": "Serum",
+          "confidence": 0.8893
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            971.0,
+            517.0,
+            1055.0,
+            553.0
+          ],
+          "text": "Type",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            516.0,
+            1204.0,
+            548.0
+          ],
+          "text": "Bed No",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            512.0,
+            1346.0,
+            544.0
+          ],
+          "text": "CASH",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1362.0,
+            511.0,
+            1520.0,
+            544.0
+          ],
+          "text": "Delux Room",
+          "confidence": 0.8487
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            590.0,
+            162.0,
+            618.0
+          ],
+          "text": "Doctor",
+          "confidence": 0.8383
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            59.0,
+            679.0,
+            198.0,
+            712.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.7056
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            677.0,
+            278.0,
+            713.0
+          ],
+          "text": "ISF )",
+          "confidence": 0.9764
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            680.0,
+            664.0,
+            710.0
+          ],
+          "text": "10.6",
+          "confidence": 0.2682
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            874.0,
+            680.0,
+            982.0,
+            706.0
+          ],
+          "text": "mnio ] / 1",
+          "confidence": 0.4074
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            678.0,
+            1158.0,
+            706.0
+          ],
+          "text": "98 -",
+          "confidence": 0.8173
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            678.0,
+            1234.0,
+            706.0
+          ],
+          "text": "107'",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            631.0,
+            721.0,
+            991.0,
+            761.0
+          ],
+          "text": "*** End Of Report ***",
+          "confidence": 0.7872
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1062.0,
+            1866.0,
+            1238.0,
+            1892.0
+          ],
+          "text": "Dr: JAI WADE",
+          "confidence": 0.7156
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            1896.0,
+            1292.0,
+            1928.0
+          ],
+          "text": "MBBS, DNB-Pathology",
+          "confidence": 0.9136
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1930.0,
+            1224.0,
+            1958.0
+          ],
+          "text": "Pathologist",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            2046.0,
+            174.0,
+            2074.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.5624
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            2072.0,
+            102.0,
+            2096.0
+          ],
+          "text": "User",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            51.0,
+            2097.0,
+            131.0,
+            2117.0
+          ],
+          "text": "Prini Dt",
+          "confidence": 0.7202
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            2096.0,
+            376.0,
+            2122.0
+          ],
+          "text": "26-Apr- 2025 (1.41 PM",
+          "confidence": 0.245
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            697.0,
+            2173.0,
+            819.0,
+            2199.0
+          ],
+          "text": "MALVIYA",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            2174.0,
+            920.0,
+            2200.0
+          ],
+          "text": "NAGAR",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "APEX HOSPITALS PVT LTD LAB:\nAPI* Mc TAL\"\n0i\nCorporate Identiy Numiber (CIN) : U8SM10RJ1987P7rcr|\nUHID NO /\nIP No\nPEX0506615\nMNIP2501294\nBill Date\n26-Apr-2025 10.21 AM\nMt5\nSS\nType\nSerum\nType\nBed No\nCASH\nDelux Room\nDoctor\nCHLORIDE\nISF )\n10.6\nmnio ] / 1\n98 -\n107'\n*** End Of Report ***\nDr: JAI WADE\nMBBS, DNB-Pathology\nPathologist\nVerified By\nUser\nPrini Dt\n26-Apr- 2025 (1.41 PM\nMALVIYA\nNAGAR",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Corporate Identiy Numiber (CIN) : U8SM1",
+          "biomarker_normalized": "Corporate Identiy Numiber (CIN) : U8SM1",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Corporate Identiy Numiber (CIN) : U8SM10RJ1987P7rcr|",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "PEX0",
+          "biomarker_normalized": "PEX0",
+          "value": "506615",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PEX0506615",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MNIP2",
+          "biomarker_normalized": "MNIP2",
+          "value": "501294",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MNIP2501294",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "mnio ] /",
+          "biomarker_normalized": "mnio ] /",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mnio ] / 1",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 35,
+    "ocr_avg_confidence": 0.7325,
+    "parsed_row_count": 4
+  }
+}

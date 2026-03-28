@@ -1,0 +1,552 @@
+{
+  "document_id": "GUR-0425-PA-0051604_Q-ASHISHKUMAR4813000111zon_250427_1255@F.pdf_page_31",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0051604_Q-ASHISHKUMAR4813000111zon_250427_1255@F.pdf_page_31.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "OICAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nGap. Civil Hospital, Sonipat | Mob\nTrnsaction Ni\n42007\nI\nSEROLOGY & IMMUNOGY REPORT\nTest Name;\nHIV | & I\nCOMPONEN\nHIV / & Il\nRESULTS\nUNITS\nREFF RANGE\nHiv& I\nNEGATIVE\nREMARKS\nTh\nIs 2 screening test.\nNegative resulls do not exclude recent exposure or infection with HIV 182\nDr. GURLEEN GILL\nMBBS; MD Bathology)\nReyd NoDMCIRI21938\nPathologistTechnologist\nEND OF REPORT *tee\nDr:\nMBBS MLS\nSharma\nConsultani\nRegd. No-\n\"glosxtna\nCBC, Thyrold, Kidney Fnctton Test. Liver Function Test Lipid Profile, Blood Sugar LH; FSH, Prolactin; B-HcG; TORCH, CA-125, CEA, PSA\n30/40 Colo  Doppler Ultrasound, 4.5.6. IvP; Barlum Studles. Digital X-Ray; Muili Siice Spital CT Scjn, Ec.G\nEn-21 Channels EmC Ncv Vep 8 EraL Pft & Comarehensive Healln Chack-Wns Big.\n30/4D Ultrasound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNOT FOR MEdICO LEGAL PURPOSE\nThar @am 24 [ arr1 }I\nSiddhad",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            253.0,
+            71.0,
+            1394.0,
+            162.0
+          ],
+          "text": "OICAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.4637
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            170.0,
+            192.0,
+            218.0
+          ],
+          "text": "OS",
+          "confidence": 0.31
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            163.0,
+            1129.0,
+            250.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.99
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            253.0,
+            856.0,
+            309.0
+          ],
+          "text": "Gap. Civil Hospital, Sonipat | Mob",
+          "confidence": 0.5177
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            548.0,
+            320.0,
+            578.0
+          ],
+          "text": "Trnsaction Ni",
+          "confidence": 0.3204
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            548.0,
+            490.0,
+            578.0
+          ],
+          "text": "42007",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            535.0,
+            1327.0,
+            717.0
+          ],
+          "text": "I",
+          "confidence": 0.8828
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            743.0,
+            877.0,
+            776.0
+          ],
+          "text": "SEROLOGY & IMMUNOGY REPORT",
+          "confidence": 0.7603
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            788.0,
+            308.0,
+            820.0
+          ],
+          "text": "Test Name;",
+          "confidence": 0.6254
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            788.0,
+            536.0,
+            820.0
+          ],
+          "text": "HIV | & I",
+          "confidence": 0.2038
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            828.0,
+            323.0,
+            860.0
+          ],
+          "text": "COMPONEN",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            908.0,
+            274.0,
+            940.0
+          ],
+          "text": "HIV / & Il",
+          "confidence": 0.3528
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            908.0,
+            726.0,
+            940.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            908.0,
+            1144.0,
+            940.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9691
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            910.0,
+            1349.0,
+            942.0
+          ],
+          "text": "REFF RANGE",
+          "confidence": 0.9689
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            952.0,
+            250.0,
+            982.0
+          ],
+          "text": "Hiv& I",
+          "confidence": 0.1216
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            952.0,
+            734.0,
+            982.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.6327
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1028.0,
+            278.0,
+            1060.0
+          ],
+          "text": "REMARKS",
+          "confidence": 0.9216
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1030.0,
+            326.0,
+            1060.0
+          ],
+          "text": "Th",
+          "confidence": 0.9914
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            337.0,
+            1027.0,
+            553.0,
+            1063.0
+          ],
+          "text": "Is 2 screening test.",
+          "confidence": 0.2961
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1066.0,
+            1053.0,
+            1105.0
+          ],
+          "text": "Negative resulls do not exclude recent exposure or infection with HIV 182",
+          "confidence": 0.6465
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1162.0,
+            1418.0,
+            1212.0
+          ],
+          "text": "Dr. GURLEEN GILL",
+          "confidence": 0.8898
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1204.0,
+            1416.0,
+            1257.0
+          ],
+          "text": "MBBS; MD Bathology)",
+          "confidence": 0.3833
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            1235.0,
+            1416.0,
+            1292.0
+          ],
+          "text": "Reyd NoDMCIRI21938",
+          "confidence": 0.5056
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            1299.0,
+            1417.0,
+            1341.0
+          ],
+          "text": "PathologistTechnologist",
+          "confidence": 0.9176
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            1453.0,
+            857.0,
+            1492.0
+          ],
+          "text": "END OF REPORT *tee",
+          "confidence": 0.0601
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            1692.0,
+            1000.0,
+            1740.0
+          ],
+          "text": "Dr:",
+          "confidence": 0.7869
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            943.0,
+            1741.0,
+            1099.0,
+            1785.0
+          ],
+          "text": "MBBS MLS",
+          "confidence": 0.6378
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1709.0,
+            1311.0,
+            1771.0
+          ],
+          "text": "Sharma",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1772.0,
+            1096.0,
+            1823.0
+          ],
+          "text": "Consultani",
+          "confidence": 0.6329
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1804.0,
+            1086.0,
+            1852.0
+          ],
+          "text": "Regd. No-",
+          "confidence": 0.4289
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            1779.0,
+            1231.0,
+            1871.0
+          ],
+          "text": "\"glosxtna",
+          "confidence": 0.0113
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            1997.0,
+            1583.0,
+            2040.0
+          ],
+          "text": "CBC, Thyrold, Kidney Fnctton Test. Liver Function Test Lipid Profile, Blood Sugar LH; FSH, Prolactin; B-HcG; TORCH, CA-125, CEA, PSA",
+          "confidence": 0.1501
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            2045.0,
+            1463.0,
+            2084.0
+          ],
+          "text": "30/40 Colo  Doppler Ultrasound, 4.5.6. IvP; Barlum Studles. Digital X-Ray; Muili Siice Spital CT Scjn, Ec.G",
+          "confidence": 0.051
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            325.0,
+            2078.0,
+            1339.0,
+            2116.0
+          ],
+          "text": "En-21 Channels EmC Ncv Vep 8 EraL Pft & Comarehensive Healln Chack-Wns Big.",
+          "confidence": 0.0324
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            2140.0,
+            1539.0,
+            2204.0
+          ],
+          "text": "30/4D Ultrasound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab",
+          "confidence": 0.7178
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            2220.0,
+            760.0,
+            2268.0
+          ],
+          "text": "NOT FOR MEdICO LEGAL PURPOSE",
+          "confidence": 0.6728
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            2216.0,
+            1410.0,
+            2272.0
+          ],
+          "text": "Thar @am 24 [ arr1 }I",
+          "confidence": 0.0132
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            994.0806504495005,
+            1693.0866917312576,
+            1146.9193495504996,
+            1755.9133082687424
+          ],
+          "text": "Siddhad",
+          "confidence": 0.6797
+        }
+      ]
+    }
+  ],
+  "full_text": "OICAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nGap. Civil Hospital, Sonipat | Mob\nTrnsaction Ni\n42007\nI\nSEROLOGY & IMMUNOGY REPORT\nTest Name;\nHIV | & I\nCOMPONEN\nHIV / & Il\nRESULTS\nUNITS\nREFF RANGE\nHiv& I\nNEGATIVE\nREMARKS\nTh\nIs 2 screening test.\nNegative resulls do not exclude recent exposure or infection with HIV 182\nDr. GURLEEN GILL\nMBBS; MD Bathology)\nReyd NoDMCIRI21938\nPathologistTechnologist\nEND OF REPORT *tee\nDr:\nMBBS MLS\nSharma\nConsultani\nRegd. No-\n\"glosxtna\nCBC, Thyrold, Kidney Fnctton Test. Liver Function Test Lipid Profile, Blood Sugar LH; FSH, Prolactin; B-HcG; TORCH, CA-125, CEA, PSA\n30/40 Colo  Doppler Ultrasound, 4.5.6. IvP; Barlum Studles. Digital X-Ray; Muili Siice Spital CT Scjn, Ec.G\nEn-21 Channels EmC Ncv Vep 8 EraL Pft & Comarehensive Healln Chack-Wns Big.\n30/4D Ultrasound, Color Doppler; CT-Scan, Digital X-Ray & Computerised Lab\nNOT FOR MEdICO LEGAL PURPOSE\nThar @am 24 [ arr1 }I\nSiddhad",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Is",
+          "biomarker_normalized": "Is",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Is 2 screening test.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Negative resulls do not exclude recent exposure or infection with HIV",
+          "biomarker_normalized": "Negative resulls do not exclude recent exposure or infection with HIV",
+          "value": "182",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Negative resulls do not exclude recent exposure or infection with HIV 182",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Reyd NoDMCIRI2",
+          "biomarker_normalized": "Reyd NoDMCIRI2",
+          "value": "1938",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reyd NoDMCIRI21938",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "CBC, Thyrold, Kidney Fnctton Test. Liver Function Test Lipid Profile, Blood Sugar LH; FSH, Prolactin; B-HcG; TORCH, CA",
+          "biomarker_normalized": "CBC, Thyrold, Kidney Fnctton Test. Liver Function Test Lipid Profile, Blood Sugar LH; FSH, Prolactin; B-HcG; TORCH, CA",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBC, Thyrold, Kidney Fnctton Test. Liver Function Test Lipid Profile, Blood Sugar LH; FSH, Prolactin; B-HcG; TORCH, CA-125, CEA, PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "En",
+          "biomarker_normalized": "En",
+          "value": "21",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "En-21 Channels EmC Ncv Vep 8 EraL Pft & Comarehensive Healln Chack-Wns Big.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Thar @am",
+          "biomarker_normalized": "Thar @am",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Thar @am 24 [ arr1 }I",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 39,
+    "ocr_avg_confidence": 0.5778,
+    "parsed_row_count": 6
+  }
+}

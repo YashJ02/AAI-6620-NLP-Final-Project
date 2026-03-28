@@ -1,0 +1,738 @@
+{
+  "document_id": "GUR-0425-PA-0048512_Q-POOJA4759000111zon_250424_1524@F.pdf_page_35",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0048512_Q-POOJA4759000111zon_250424_1524@F.pdf_page_35.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DSCAR SUPER SPECIALITY HOSPITAL\n%\n& TRAUMA CENTRE\nOpp. Civil Hospital, Sonipat\nMob :\nMrntaclion No:\n41519\n(Patiek\nMobile No\n4759\nDocte\nName\nKUMARI\nReporting Date\nSEROLOGY & IMMUNOGY REPORT\nTest Name:\nANTI HCV\nCOMPONENT\nANTIHCV\nRESULTS\nUNITS\nREFF RANGE\nANTI\nCV\nNEGATIVE\nTl; /\nIth Generation Js52y,utili:in8 $ combinallon ol modilied HCV anl cens Iromn tne core ,NSJ,NSt\nJrd N95 rrions of Hepztitis Cvitu: Thisis onl3 srnin} tostAll rejctrvo amplcs shovid be\nconfinfed by suppl-Mental assays e RIBA HCV antibody Is vpically nat dedcted until approxlmately\n1wet alter Intection\nnont\"Jclrg rojull dota nol exciudo Lhe poisibiley 0l eaposute I0 Or Inteclion Wiin HcV;Thc ptescncr\nofant KCV antibody does not implv a Hapatiti; C iniection but may be indirative Of recent Jnd / or\n(oxst Irectlon by HCV:\nPatholvgistTechnologist\nDr. GURLEHN GILL\nMose\n'ENBAF BfAp@ TTAKUMARI\nMBBS,WD (Phthologv\nDe\nMBBSMS\nRega-NG DieiRi2193\n(Obs: & Gynae)\nRegd  HN 013316\nCBC, Thyroid, Kidney Function Test, Liver Function Test; Lipid Prolile. Blood Sugar LH, FSH: Prolactin B-HcG: Iorch CA-125,ceA, PSa\nJ0/40 Yolor Dopplat Ultrasound, H.S.G. IvP; Barlum Sludles, Digital X-Ray: Multi Sllce Spiral CT Scan, EC\nLE6.21 Channak: EMG Mcv VeP 8 E.Ra. PFT\nComprehensive Kealth Check- WpS etc\n30/4D Ultrasound, Color Doppler; CT-Scan; Digilal X-Ray & Computerised Lab\nNO] FOR MEDICO LEGAL PURPOSE\na&\n24 T2 Juta %1\n402,\nUaut",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            67.0,
+            1394.0,
+            157.0
+          ],
+          "text": "DSCAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.8702
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            161.0,
+            191.0,
+            249.0
+          ],
+          "text": "%",
+          "confidence": 0.8067
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            158.0,
+            1129.0,
+            245.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            295.0,
+            246.0,
+            747.0,
+            306.0
+          ],
+          "text": "Opp. Civil Hospital, Sonipat",
+          "confidence": 0.7422
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            773.0,
+            251.0,
+            871.0,
+            295.0
+          ],
+          "text": "Mob :",
+          "confidence": 0.8724
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            482.0,
+            388.0,
+            510.0
+          ],
+          "text": "Mrntaclion No:",
+          "confidence": 0.1106
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            484.0,
+            530.0,
+            512.0
+          ],
+          "text": "41519",
+          "confidence": 0.9708
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            515.0,
+            278.0,
+            552.0
+          ],
+          "text": "(Patiek",
+          "confidence": 0.1933
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            554.0,
+            338.0,
+            584.0
+          ],
+          "text": "Mobile No",
+          "confidence": 0.9269
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            556.0,
+            1234.0,
+            584.0
+          ],
+          "text": "4759",
+          "confidence": 0.9943
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            590.0,
+            276.0,
+            618.0
+          ],
+          "text": "Docte",
+          "confidence": 0.4266
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            292.0,
+            590.0,
+            364.0,
+            618.0
+          ],
+          "text": "Name",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            590.0,
+            678.0,
+            620.0
+          ],
+          "text": "KUMARI",
+          "confidence": 0.9921
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            591.0,
+            1090.0,
+            624.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.8214
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            664.0,
+            888.0,
+            694.0
+          ],
+          "text": "SEROLOGY & IMMUNOGY REPORT",
+          "confidence": 0.7451
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            704.0,
+            358.0,
+            734.0
+          ],
+          "text": "Test Name:",
+          "confidence": 0.7773
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            706.0,
+            580.0,
+            734.0
+          ],
+          "text": "ANTI HCV",
+          "confidence": 0.9126
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            740.0,
+            386.0,
+            772.0
+          ],
+          "text": "COMPONENT",
+          "confidence": 0.6815
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            814.0,
+            338.0,
+            846.0
+          ],
+          "text": "ANTIHCV",
+          "confidence": 0.7491
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            814.0,
+            760.0,
+            846.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.9842
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            816.0,
+            1130.0,
+            846.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9486
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            816.0,
+            1334.0,
+            848.0
+          ],
+          "text": "REFF RANGE",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            856.0,
+            266.0,
+            880.0
+          ],
+          "text": "ANTI",
+          "confidence": 0.137
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            280.0,
+            856.0,
+            314.0,
+            882.0
+          ],
+          "text": "CV",
+          "confidence": 0.6477
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            854.0,
+            766.0,
+            884.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9683
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            928.0,
+            274.0,
+            954.0
+          ],
+          "text": "Tl; /",
+          "confidence": 0.0374
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            284.0,
+            926.0,
+            1144.0,
+            958.0
+          ],
+          "text": "Ith Generation Js52y,utili:in8 $ combinallon ol modilied HCV anl cens Iromn tne core ,NSJ,NSt",
+          "confidence": 0.0187
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            964.0,
+            1084.0,
+            992.0
+          ],
+          "text": "Jrd N95 rrions of Hepztitis Cvitu: Thisis onl3 srnin} tostAll rejctrvo amplcs shovid be",
+          "confidence": 0.0056
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            998.0,
+            1130.0,
+            1029.0
+          ],
+          "text": "confinfed by suppl-Mental assays e RIBA HCV antibody Is vpically nat dedcted until approxlmately",
+          "confidence": 0.1192
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1038.0,
+            440.0,
+            1064.0
+          ],
+          "text": "1wet alter Intection",
+          "confidence": 0.0981
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1072.0,
+            1158.0,
+            1102.0
+          ],
+          "text": "nont\"Jclrg rojull dota nol exciudo Lhe poisibiley 0l eaposute I0 Or Inteclion Wiin HcV;Thc ptescncr",
+          "confidence": 0.0042
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1110.0,
+            1116.0,
+            1138.0
+          ],
+          "text": "ofant KCV antibody does not implv a Hapatiti; C iniection but may be indirative Of recent Jnd / or",
+          "confidence": 0.19
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1146.0,
+            420.0,
+            1174.0
+          ],
+          "text": "(oxst Irectlon by HCV:",
+          "confidence": 0.1128
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1290.0,
+            1367.0,
+            1327.0
+          ],
+          "text": "PatholvgistTechnologist",
+          "confidence": 0.1871
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1131.0,
+            1356.0,
+            1512.0,
+            1423.0
+          ],
+          "text": "Dr. GURLEHN GILL",
+          "confidence": 0.441
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1426.0,
+            268.0,
+            1450.0
+          ],
+          "text": "Mose",
+          "confidence": 0.0336
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            1395.0,
+            1001.0,
+            1444.0
+          ],
+          "text": "'ENBAF BfAp@ TTAKUMARI",
+          "confidence": 0.1565
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            1407.0,
+            1500.0,
+            1460.0
+          ],
+          "text": "MBBS,WD (Phthologv",
+          "confidence": 0.3854
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            1452.0,
+            262.0,
+            1476.0
+          ],
+          "text": "De",
+          "confidence": 0.2628
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            1438.0,
+            990.0,
+            1476.0
+          ],
+          "text": "MBBSMS",
+          "confidence": 0.7956
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1133.0,
+            1434.0,
+            1516.0,
+            1506.0
+          ],
+          "text": "Rega-NG DieiRi2193",
+          "confidence": 0.2184
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            717.0,
+            1475.0,
+            1005.0,
+            1520.0
+          ],
+          "text": "(Obs: & Gynae)",
+          "confidence": 0.8171
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            1509.0,
+            1006.0,
+            1561.0
+          ],
+          "text": "Regd  HN 013316",
+          "confidence": 0.6497
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            1993.0,
+            1589.0,
+            2036.0
+          ],
+          "text": "CBC, Thyroid, Kidney Function Test, Liver Function Test; Lipid Prolile. Blood Sugar LH, FSH: Prolactin B-HcG: Iorch CA-125,ceA, PSa",
+          "confidence": 0.0678
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            2042.0,
+            1439.0,
+            2081.0
+          ],
+          "text": "J0/40 Yolor Dopplat Ultrasound, H.S.G. IvP; Barlum Sludles, Digital X-Ray: Multi Sllce Spiral CT Scan, EC",
+          "confidence": 0.0647
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            308.0,
+            2076.0,
+            864.0,
+            2108.0
+          ],
+          "text": "LE6.21 Channak: EMG Mcv VeP 8 E.Ra. PFT",
+          "confidence": 0.0345
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            2072.0,
+            1337.0,
+            2112.0
+          ],
+          "text": "Comprehensive Kealth Check- WpS etc",
+          "confidence": 0.176
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            2136.0,
+            1545.0,
+            2201.0
+          ],
+          "text": "30/4D Ultrasound, Color Doppler; CT-Scan; Digilal X-Ray & Computerised Lab",
+          "confidence": 0.463
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            2216.0,
+            766.0,
+            2266.0
+          ],
+          "text": "NO] FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.5626
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            2214.0,
+            1053.0,
+            2263.0
+          ],
+          "text": "a&",
+          "confidence": 0.3717
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1153.0,
+            2219.0,
+            1415.0,
+            2261.0
+          ],
+          "text": "24 T2 Juta %1",
+          "confidence": 0.0767
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1423.2145699273442,
+            2040.1289267866996,
+            1473.7854300726558,
+            2078.8710732133004
+          ],
+          "text": "402,",
+          "confidence": 0.0295
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1044.0440559000835,
+            2208.9130254674346,
+            1153.9559440999165,
+            2272.0869745325654
+          ],
+          "text": "Uaut",
+          "confidence": 0.1345
+        }
+      ]
+    }
+  ],
+  "full_text": "DSCAR SUPER SPECIALITY HOSPITAL\n%\n& TRAUMA CENTRE\nOpp. Civil Hospital, Sonipat\nMob :\nMrntaclion No:\n41519\n(Patiek\nMobile No\n4759\nDocte\nName\nKUMARI\nReporting Date\nSEROLOGY & IMMUNOGY REPORT\nTest Name:\nANTI HCV\nCOMPONENT\nANTIHCV\nRESULTS\nUNITS\nREFF RANGE\nANTI\nCV\nNEGATIVE\nTl; /\nIth Generation Js52y,utili:in8 $ combinallon ol modilied HCV anl cens Iromn tne core ,NSJ,NSt\nJrd N95 rrions of Hepztitis Cvitu: Thisis onl3 srnin} tostAll rejctrvo amplcs shovid be\nconfinfed by suppl-Mental assays e RIBA HCV antibody Is vpically nat dedcted until approxlmately\n1wet alter Intection\nnont\"Jclrg rojull dota nol exciudo Lhe poisibiley 0l eaposute I0 Or Inteclion Wiin HcV;Thc ptescncr\nofant KCV antibody does not implv a Hapatiti; C iniection but may be indirative Of recent Jnd / or\n(oxst Irectlon by HCV:\nPatholvgistTechnologist\nDr. GURLEHN GILL\nMose\n'ENBAF BfAp@ TTAKUMARI\nMBBS,WD (Phthologv\nDe\nMBBSMS\nRega-NG DieiRi2193\n(Obs: & Gynae)\nRegd  HN 013316\nCBC, Thyroid, Kidney Function Test, Liver Function Test; Lipid Prolile. Blood Sugar LH, FSH: Prolactin B-HcG: Iorch CA-125,ceA, PSa\nJ0/40 Yolor Dopplat Ultrasound, H.S.G. IvP; Barlum Sludles, Digital X-Ray: Multi Sllce Spiral CT Scan, EC\nLE6.21 Channak: EMG Mcv VeP 8 E.Ra. PFT\nComprehensive Kealth Check- WpS etc\n30/4D Ultrasound, Color Doppler; CT-Scan; Digilal X-Ray & Computerised Lab\nNO] FOR MEDICO LEGAL PURPOSE\na&\n24 T2 Juta %1\n402,\nUaut",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Ith Generation Js5",
+          "biomarker_normalized": "Ith Generation Js5",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ith Generation Js52y,utili:in8 $ combinallon ol modilied HCV anl cens Iromn tne core ,NSJ,NSt",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Jrd N9",
+          "biomarker_normalized": "Jrd N9",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Jrd N95 rrions of Hepztitis Cvitu: Thisis onl3 srnin} tostAll rejctrvo amplcs shovid be",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "nont\"Jclrg rojull dota nol exciudo Lhe poisibiley",
+          "biomarker_normalized": "nont\"Jclrg rojull dota nol exciudo Lhe poisibiley",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "nont\"Jclrg rojull dota nol exciudo Lhe poisibiley 0l eaposute I0 Or Inteclion Wiin HcV;Thc ptescncr",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Rega-NG DieiRi2",
+          "biomarker_normalized": "Rega-NG DieiRi2",
+          "value": "193",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Rega-NG DieiRi2193",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Regd HN",
+          "biomarker_normalized": "Regd HN",
+          "value": "013316",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd HN 013316",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CBC, Thyroid, Kidney Function Test, Liver Function Test; Lipid Prolile. Blood Sugar LH, FSH: Prolactin B-HcG: Iorch CA",
+          "biomarker_normalized": "CBC, Thyroid, Kidney Function Test, Liver Function Test; Lipid Prolile. Blood Sugar LH, FSH: Prolactin B-HcG: Iorch CA",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBC, Thyroid, Kidney Function Test, Liver Function Test; Lipid Prolile. Blood Sugar LH, FSH: Prolactin B-HcG: Iorch CA-125,ceA, PSa",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "J0/",
+          "biomarker_normalized": "J0/",
+          "value": "40",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J0/40 Yolor Dopplat Ultrasound, H.S.G. IvP; Barlum Sludles, Digital X-Ray: Multi Sllce Spiral CT Scan, EC",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "LE6.",
+          "biomarker_normalized": "LE6.",
+          "value": "21",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LE6.21 Channak: EMG Mcv VeP 8 E.Ra. PFT",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.4866,
+    "parsed_row_count": 8
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "document_id": "CHE-0425-PA-0014450_F-ASHOKLAB_250427_1146@G.pdf_page_2",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014450_F-ASHOKLAB_250427_1146@G.pdf_page_2.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Collection Date\n25 Apr 2025 11.54\nReferred By\nTEJAS SURESH RAO\nReporting Date\n25 Apr 2025 14.08\nReceiving Date\n25 Apr 2025 11.54\nBIOCHEMISTRY\nTEST\nRESULT\nUNIT\nBIOLOGICAL REFERENCE INTERVAL\nC-Reactive\nProtein\n(Quantitative)\nC-REACTIVE\nPROTEIN\nCRP\n16.17\n#\nmg/dl\n[<0.5 ]\nMethod:\nImmunoturbidimetric\nSPECIMEN\nSERUM\nEND\nOF\nREPORT _\nDR SOUMYA GUPTA\nMBBS\nMD(Pathology)\nSv\"",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            390.0,
+            1164.0,
+            420.0
+          ],
+          "text": "Collection Date",
+          "confidence": 0.8223
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            390.0,
+            1418.0,
+            420.0
+          ],
+          "text": "25 Apr 2025 11.54",
+          "confidence": 0.5584
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            63.0,
+            437.0,
+            213.0,
+            473.0
+          ],
+          "text": "Referred By",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            432.0,
+            438.0,
+            686.0,
+            468.0
+          ],
+          "text": "TEJAS SURESH RAO",
+          "confidence": 0.7909
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            979.0,
+            439.0,
+            1164.0,
+            472.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.736
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            438.0,
+            1418.0,
+            468.0
+          ],
+          "text": "25 Apr 2025 14.08",
+          "confidence": 0.6207
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            476.0,
+            242.0,
+            508.0
+          ],
+          "text": "Receiving Date",
+          "confidence": 0.6842
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            474.0,
+            588.0,
+            506.0
+          ],
+          "text": "25 Apr 2025 11.54",
+          "confidence": 0.643
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            560.0,
+            918.0,
+            588.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.8989
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            608.0,
+            200.0,
+            636.0
+          ],
+          "text": "TEST",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            608.0,
+            728.0,
+            636.0
+          ],
+          "text": "RESULT",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            876.0,
+            608.0,
+            944.0,
+            634.0
+          ],
+          "text": "UNIT",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            607.0,
+            1564.0,
+            636.0
+          ],
+          "text": "BIOLOGICAL REFERENCE INTERVAL",
+          "confidence": 0.9954
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            746.0,
+            798.0,
+            774.0
+          ],
+          "text": "C-Reactive",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            810.0,
+            745.0,
+            928.0,
+            773.0
+          ],
+          "text": "Protein",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            743.0,
+            1173.0,
+            781.0
+          ],
+          "text": "(Quantitative)",
+          "confidence": 0.9094
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            814.0,
+            276.0,
+            840.0
+          ],
+          "text": "C-REACTIVE",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            814.0,
+            408.0,
+            838.0
+          ],
+          "text": "PROTEIN",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            814.0,
+            470.0,
+            838.0
+          ],
+          "text": "CRP",
+          "confidence": 0.9536
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            812.0,
+            700.0,
+            840.0
+          ],
+          "text": "16.17",
+          "confidence": 0.8185
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            812.0,
+            734.0,
+            838.0
+          ],
+          "text": "#",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            858.0,
+            812.0,
+            946.0,
+            842.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            812.0,
+            1254.0,
+            842.0
+          ],
+          "text": "[<0.5 ]",
+          "confidence": 0.5025
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            844.0,
+            224.0,
+            872.0
+          ],
+          "text": "Method:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            844.0,
+            554.0,
+            872.0
+          ],
+          "text": "Immunoturbidimetric",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            878.0,
+            244.0,
+            904.0
+          ],
+          "text": "SPECIMEN",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            878.0,
+            374.0,
+            904.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9612
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            972.0,
+            672.0,
+            996.0
+          ],
+          "text": "END",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            972.0,
+            720.0,
+            996.0
+          ],
+          "text": "OF",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            731.0,
+            972.0,
+            847.0,
+            996.0
+          ],
+          "text": "REPORT _",
+          "confidence": 0.5324
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            962.0,
+            1138.0,
+            1222.0,
+            1166.0
+          ],
+          "text": "DR SOUMYA GUPTA",
+          "confidence": 0.9714
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            962.0,
+            1170.0,
+            1040.0,
+            1196.0
+          ],
+          "text": "MBBS",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            1165.0,
+            1215.0,
+            1204.0
+          ],
+          "text": "MD(Pathology)",
+          "confidence": 0.7815
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1118.2599556283028,
+            1047.1790396333658,
+            1236.7400443716972,
+            1109.8209603666342
+          ],
+          "text": "Sv\"",
+          "confidence": 0.2933
+        }
+      ]
+    }
+  ],
+  "full_text": "Collection Date\n25 Apr 2025 11.54\nReferred By\nTEJAS SURESH RAO\nReporting Date\n25 Apr 2025 14.08\nReceiving Date\n25 Apr 2025 11.54\nBIOCHEMISTRY\nTEST\nRESULT\nUNIT\nBIOLOGICAL REFERENCE INTERVAL\nC-Reactive\nProtein\n(Quantitative)\nC-REACTIVE\nPROTEIN\nCRP\n16.17\n#\nmg/dl\n[<0.5 ]\nMethod:\nImmunoturbidimetric\nSPECIMEN\nSERUM\nEND\nOF\nREPORT _\nDR SOUMYA GUPTA\nMBBS\nMD(Pathology)\nSv\"",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": []
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 34,
+    "ocr_avg_confidence": 0.8658,
+    "parsed_row_count": 0
+  }
+}

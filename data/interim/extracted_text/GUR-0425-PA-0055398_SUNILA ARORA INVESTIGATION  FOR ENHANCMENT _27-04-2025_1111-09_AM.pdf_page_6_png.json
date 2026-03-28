@@ -1,0 +1,630 @@
+{
+  "document_id": "GUR-0425-PA-0055398_SUNILA ARORA INVESTIGATION  FOR ENHANCMENT _27-04-2025_1111-09_AM.pdf_page_6",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055398_SUNILA ARORA INVESTIGATION  FOR ENHANCMENT _27-04-2025_1111-09_AM.pdf_page_6.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "sarvodaya\nGebrAtA\nHelpline: 1800 313 1515\n33\nDIAGNOSTICS\nYears\nBy Sarvodaya Healthcare\nOF\nwwWsarvodayadiagnostics com\nProviding Best in Class Diagnostic Services Adhering to NABL Guidelines for Quality Report\nMrs\nSUNILA ARORA\n491403\nAccepted on\n[01.30 PM\nby\nDr. ADITI MEHROTRA\nReport Date\n02.39 PM\nStatus\nFinalized\nSample Type\nSERUM (SST or Plain)\nCLINICAL BIOCHEMISTRY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nSerum Chloride\n105.3\nmmolL\n98\n107\nQanhexenc\nMr: SOURABH\nDr: Ranjan Kuma\nMBBS, MD (Pathology\nithe QR code to\ncheck interpretation:\nAbove Results are of the Tests performed at Sarvodaya Hospital and Research Centre Lab adhering to Quality testing Guidelines.\nMrs\nSUNILA ARORA / 73 Yr / Female\nSanvodaya Diagnostics\nA Unit of Anshu Hospitals Limited\nCIN No. U85110DL1997PLCO88209\nnf 1\nTrust",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            46.0,
+            396.0,
+            112.0
+          ],
+          "text": "sarvodaya",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            780.0,
+            50.0,
+            902.0,
+            104.0
+          ],
+          "text": "GebrAtA",
+          "confidence": 0.0448
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            55.0,
+            1591.0,
+            97.0
+          ],
+          "text": "Helpline: 1800 313 1515",
+          "confidence": 0.7909
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            814.0,
+            74.0,
+            872.0,
+            122.0
+          ],
+          "text": "33",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            101.0,
+            398.0,
+            163.0
+          ],
+          "text": "DIAGNOSTICS",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            823.0,
+            119.0,
+            865.0,
+            135.0
+          ],
+          "text": "Years",
+          "confidence": 0.5273
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            158.0,
+            392.0,
+            184.0
+          ],
+          "text": "By Sarvodaya Healthcare",
+          "confidence": 0.987
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            798.0,
+            154.0,
+            826.0,
+            178.0
+          ],
+          "text": "OF",
+          "confidence": 0.1928
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1149.0,
+            137.0,
+            1591.0,
+            175.0
+          ],
+          "text": "wwWsarvodayadiagnostics com",
+          "confidence": 0.9088
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            214.0,
+            1548.0,
+            268.0
+          ],
+          "text": "Providing Best in Class Diagnostic Services Adhering to NABL Guidelines for Quality Report",
+          "confidence": 0.6959
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            296.0,
+            144.0,
+            344.0
+          ],
+          "text": "Mrs",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            291.0,
+            533.0,
+            344.0
+          ],
+          "text": "SUNILA ARORA",
+          "confidence": 0.8364
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            398.0,
+            290.0,
+            428.0
+          ],
+          "text": "491403",
+          "confidence": 0.6708
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            396.0,
+            1104.0,
+            426.0
+          ],
+          "text": "Accepted on",
+          "confidence": 0.9836
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1290.0,
+            394.0,
+            1414.0,
+            426.0
+          ],
+          "text": "[01.30 PM",
+          "confidence": 0.4365
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            438.0,
+            154.0,
+            470.0
+          ],
+          "text": "by",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            434.0,
+            470.0,
+            464.0
+          ],
+          "text": "Dr. ADITI MEHROTRA",
+          "confidence": 0.7905
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            434.0,
+            1096.0,
+            464.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.7339
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1290.0,
+            430.0,
+            1414.0,
+            462.0
+          ],
+          "text": "02.39 PM",
+          "confidence": 0.5974
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            466.0,
+            1028.0,
+            503.0
+          ],
+          "text": "Status",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            468.0,
+            1260.0,
+            500.0
+          ],
+          "text": "Finalized",
+          "confidence": 0.7616
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            934.0,
+            504.0,
+            1109.0,
+            543.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.8629
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            501.0,
+            1430.0,
+            541.0
+          ],
+          "text": "SERUM (SST or Plain)",
+          "confidence": 0.7753
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            629.0,
+            555.0,
+            1079.0,
+            593.0
+          ],
+          "text": "CLINICAL BIOCHEMISTRY",
+          "confidence": 0.7543
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            620.0,
+            254.0,
+            650.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            699.0,
+            617.0,
+            803.0,
+            647.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            939.0,
+            617.0,
+            1004.0,
+            647.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            617.0,
+            1591.0,
+            648.0
+          ],
+          "text": "BIOLOGICAL REFERENCE RANGE",
+          "confidence": 0.9851
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            674.0,
+            308.0,
+            705.0
+          ],
+          "text": "Serum Chloride",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            674.0,
+            776.0,
+            704.0
+          ],
+          "text": "105.3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            674.0,
+            1034.0,
+            702.0
+          ],
+          "text": "mmolL",
+          "confidence": 0.7609
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            674.0,
+            1220.0,
+            704.0
+          ],
+          "text": "98",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            674.0,
+            1286.0,
+            704.0
+          ],
+          "text": "107",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1402.0,
+            831.0,
+            1593.0,
+            883.0
+          ],
+          "text": "Qanhexenc",
+          "confidence": 0.2746
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            936.0,
+            252.0,
+            968.0
+          ],
+          "text": "Mr: SOURABH",
+          "confidence": 0.8391
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1405.0,
+            933.0,
+            1630.0,
+            972.0
+          ],
+          "text": "Dr: Ranjan Kuma",
+          "confidence": 0.9754
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1339.0,
+            971.0,
+            1631.0,
+            1011.0
+          ],
+          "text": "MBBS, MD (Pathology",
+          "confidence": 0.8926
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1432.0,
+            1068.0,
+            1632.0,
+            1100.0
+          ],
+          "text": "ithe QR code to",
+          "confidence": 0.4843
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            1107.0,
+            1635.0,
+            1143.0
+          ],
+          "text": "check interpretation:",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1285.0,
+            1529.0,
+            1323.0
+          ],
+          "text": "Above Results are of the Tests performed at Sarvodaya Hospital and Research Centre Lab adhering to Quality testing Guidelines.",
+          "confidence": 0.5913
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            49.0,
+            2267.0,
+            87.0,
+            2287.0
+          ],
+          "text": "Mrs",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            2264.0,
+            398.0,
+            2288.0
+          ],
+          "text": "SUNILA ARORA / 73 Yr / Female",
+          "confidence": 0.6184
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            40.0,
+            2282.0,
+            396.0,
+            2333.0
+          ],
+          "text": "Sanvodaya Diagnostics",
+          "confidence": 0.5999
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            415.0,
+            2284.0,
+            919.0,
+            2329.0
+          ],
+          "text": "A Unit of Anshu Hospitals Limited",
+          "confidence": 0.9524
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1039.0,
+            2283.0,
+            1587.0,
+            2321.0
+          ],
+          "text": "CIN No. U85110DL1997PLCO88209",
+          "confidence": 0.7415
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1585.0,
+            2289.0,
+            1619.0,
+            2305.0
+          ],
+          "text": "nf 1",
+          "confidence": 0.6265
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            820.4275212228624,
+            146.10987742939722,
+            893.5724787771376,
+            192.89012257060278
+          ],
+          "text": "Trust",
+          "confidence": 0.3583
+        }
+      ]
+    }
+  ],
+  "full_text": "sarvodaya\nGebrAtA\nHelpline: 1800 313 1515\n33\nDIAGNOSTICS\nYears\nBy Sarvodaya Healthcare\nOF\nwwWsarvodayadiagnostics com\nProviding Best in Class Diagnostic Services Adhering to NABL Guidelines for Quality Report\nMrs\nSUNILA ARORA\n491403\nAccepted on\n[01.30 PM\nby\nDr. ADITI MEHROTRA\nReport Date\n02.39 PM\nStatus\nFinalized\nSample Type\nSERUM (SST or Plain)\nCLINICAL BIOCHEMISTRY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nSerum Chloride\n105.3\nmmolL\n98\n107\nQanhexenc\nMr: SOURABH\nDr: Ranjan Kuma\nMBBS, MD (Pathology\nithe QR code to\ncheck interpretation:\nAbove Results are of the Tests performed at Sarvodaya Hospital and Research Centre Lab adhering to Quality testing Guidelines.\nMrs\nSUNILA ARORA / 73 Yr / Female\nSanvodaya Diagnostics\nA Unit of Anshu Hospitals Limited\nCIN No. U85110DL1997PLCO88209\nnf 1\nTrust",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Helpline",
+          "biomarker_normalized": "Helpline",
+          "value": "1800",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Helpline: 1800 313 1515",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SUNILA ARORA /",
+          "biomarker_normalized": "SUNILA ARORA /",
+          "value": "73",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SUNILA ARORA / 73 Yr / Female",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN No. U8",
+          "biomarker_normalized": "CIN No. U8",
+          "value": "5110",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN No. U85110DL1997PLCO88209",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "nf",
+          "biomarker_normalized": "nf",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "nf 1",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 47,
+    "ocr_avg_confidence": 0.7879,
+    "parsed_row_count": 4
+  }
+}

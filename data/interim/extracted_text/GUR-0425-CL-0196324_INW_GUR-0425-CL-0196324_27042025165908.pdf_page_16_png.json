@@ -1,0 +1,531 @@
+{
+  "document_id": "GUR-0425-CL-0196324_INW_GUR-0425-CL-0196324_27042025165908.pdf_page_16",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-CL-0196324_INW_GUR-0425-CL-0196324_27042025165908.pdf_page_16.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Cloudnine Hospital\nKIDS CLINIC INDIA LIMITED;\nS.No. 103, CTS No 3175, Plot No 65, Shri Shivaji Co-Operatlve\nHousing Society Limited , Senapati Bapat Road,\ncloudnine\nBhamburda, Shivajinagar Pune 444016\nPatient\nGender:\nFemale\nReport Status:\nFinal Report\nby:\nDr. Amit Jayasingrao Nigade\nVisit IDIRef No: 28339\nDepartment- HEMATOLOGY\nCoombs Test; Direct\nTest\n17.06\nCoombs Test Direct\nNegative\n(Melhod: Tube Agglutinalion]\nNegative\n***\nEnd Of Report\n#kr\nD: . Shanila Lahoti Kulkarni\nConsulting Pathologist\nBzrc ode No\nSHNOO08560\nSample TyFe\nWHOLE BLOOD EDTA\nCloudnine Hospitals , Unil of Kids Clinic India Limited . Regd :  Ofice:\n1533, 9th Main, 3rd Block; Jayanagar, Bengaluru 560011\nServices\nCloudnina Matemily; Cloudnine Paediatrics,Cloudnine Mother and Child Care Cloudnine Clinic and Cloudnine Fertilit\nCIN\nU8511OKAZOOSPLC037953 T\n99729 99729",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            4089.0,
+            389.0,
+            5141.0,
+            590.0
+          ],
+          "text": "Cloudnine Hospital",
+          "confidence": 0.9756
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            3856.0,
+            533.0,
+            5129.0,
+            684.0
+          ],
+          "text": "KIDS CLINIC INDIA LIMITED;",
+          "confidence": 0.6693
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            2913.0,
+            650.0,
+            5144.0,
+            813.0
+          ],
+          "text": "S.No. 103, CTS No 3175, Plot No 65, Shri Shivaji Co-Operatlve",
+          "confidence": 0.479
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            3432.0,
+            757.0,
+            5130.0,
+            918.0
+          ],
+          "text": "Housing Society Limited , Senapati Bapat Road,",
+          "confidence": 0.669
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            809.0,
+            1060.0,
+            1094.0
+          ],
+          "text": "cloudnine",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            3717.0,
+            855.0,
+            5151.0,
+            1027.0
+          ],
+          "text": "Bhamburda, Shivajinagar Pune 444016",
+          "confidence": 0.5695
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            442.0,
+            1482.0,
+            718.0,
+            1580.0
+          ],
+          "text": "Patient",
+          "confidence": 0.8845
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            442.0,
+            1615.0,
+            762.0,
+            1720.0
+          ],
+          "text": "Gender:",
+          "confidence": 0.9246
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            1620.0,
+            1335.0,
+            1723.0
+          ],
+          "text": "Female",
+          "confidence": 0.596
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            3405.0,
+            1930.0,
+            3979.0,
+            2057.0
+          ],
+          "text": "Report Status:",
+          "confidence": 0.7055
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            4005.0,
+            1937.0,
+            4549.0,
+            2050.0
+          ],
+          "text": "Final Report",
+          "confidence": 0.7594
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            2026.0,
+            928.0,
+            2139.0
+          ],
+          "text": "by:",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1020.0,
+            2028.0,
+            2196.0,
+            2188.0
+          ],
+          "text": "Dr. Amit Jayasingrao Nigade",
+          "confidence": 0.9086
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            3410.0,
+            2071.0,
+            4269.0,
+            2170.0
+          ],
+          "text": "Visit IDIRef No: 28339",
+          "confidence": 0.9018
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            2122.0,
+            2275.0,
+            3417.0,
+            2427.0
+          ],
+          "text": "Department- HEMATOLOGY",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            459.0,
+            2471.0,
+            1400.0,
+            2621.0
+          ],
+          "text": "Coombs Test; Direct",
+          "confidence": 0.7832
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            480.0,
+            2731.0,
+            680.0,
+            2836.0
+          ],
+          "text": "Test",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            2763.0,
+            2883.0,
+            2994.0,
+            2982.0
+          ],
+          "text": "17.06",
+          "confidence": 0.6081
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            479.0,
+            2991.0,
+            1314.0,
+            3127.0
+          ],
+          "text": "Coombs Test Direct",
+          "confidence": 0.7969
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            2707.0,
+            3044.0,
+            3056.0,
+            3168.0
+          ],
+          "text": "Negative",
+          "confidence": 0.7533
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            479.0,
+            3095.0,
+            1329.0,
+            3205.0
+          ],
+          "text": "(Melhod: Tube Agglutinalion]",
+          "confidence": 0.8084
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            4070.0,
+            3056.0,
+            4433.0,
+            3188.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            2197.0,
+            3357.0,
+            2304.0,
+            3401.0
+          ],
+          "text": "***",
+          "confidence": 0.0626
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            2321.0,
+            3342.0,
+            2970.0,
+            3490.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.7814
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            2964.0,
+            3370.0,
+            3072.0,
+            3414.0
+          ],
+          "text": "#kr",
+          "confidence": 0.0614
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            516.0,
+            3877.0,
+            1620.0,
+            3998.0
+          ],
+          "text": "D: . Shanila Lahoti Kulkarni",
+          "confidence": 0.2989
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            3983.0,
+            1543.0,
+            4139.0
+          ],
+          "text": "Consulting Pathologist",
+          "confidence": 0.9424
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            6890.0,
+            1016.0,
+            6989.0
+          ],
+          "text": "Bzrc ode No",
+          "confidence": 0.5749
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1057.0,
+            6878.0,
+            1517.0,
+            6977.0
+          ],
+          "text": "SHNOO08560",
+          "confidence": 0.3415
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            594.0,
+            6986.0,
+            1067.0,
+            7091.0
+          ],
+          "text": "Sample TyFe",
+          "confidence": 0.6887
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1107.0,
+            6949.0,
+            1889.0,
+            7066.0
+          ],
+          "text": "WHOLE BLOOD EDTA",
+          "confidence": 0.9356
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            307.0,
+            7612.0,
+            2292.0,
+            7740.0
+          ],
+          "text": "Cloudnine Hospitals , Unil of Kids Clinic India Limited . Regd :  Ofice:",
+          "confidence": 0.5088
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            2343.0,
+            7611.0,
+            3972.0,
+            7726.0
+          ],
+          "text": "1533, 9th Main, 3rd Block; Jayanagar, Bengaluru 560011",
+          "confidence": 0.5401
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            311.0,
+            7743.0,
+            589.0,
+            7824.0
+          ],
+          "text": "Services",
+          "confidence": 0.9307
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            7693.0,
+            4027.0,
+            7822.0
+          ],
+          "text": "Cloudnina Matemily; Cloudnine Paediatrics,Cloudnine Mother and Child Care Cloudnine Clinic and Cloudnine Fertilit",
+          "confidence": 0.2621
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            311.0,
+            7831.0,
+            449.0,
+            7907.0
+          ],
+          "text": "CIN",
+          "confidence": 0.9801
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            7803.0,
+            1410.0,
+            7915.0
+          ],
+          "text": "U8511OKAZOOSPLC037953 T",
+          "confidence": 0.4496
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1470.0,
+            7792.0,
+            1871.0,
+            7883.0
+          ],
+          "text": "99729 99729",
+          "confidence": 0.7587
+        }
+      ]
+    }
+  ],
+  "full_text": "Cloudnine Hospital\nKIDS CLINIC INDIA LIMITED;\nS.No. 103, CTS No 3175, Plot No 65, Shri Shivaji Co-Operatlve\nHousing Society Limited , Senapati Bapat Road,\ncloudnine\nBhamburda, Shivajinagar Pune 444016\nPatient\nGender:\nFemale\nReport Status:\nFinal Report\nby:\nDr. Amit Jayasingrao Nigade\nVisit IDIRef No: 28339\nDepartment- HEMATOLOGY\nCoombs Test; Direct\nTest\n17.06\nCoombs Test Direct\nNegative\n(Melhod: Tube Agglutinalion]\nNegative\n***\nEnd Of Report\n#kr\nD: . Shanila Lahoti Kulkarni\nConsulting Pathologist\nBzrc ode No\nSHNOO08560\nSample TyFe\nWHOLE BLOOD EDTA\nCloudnine Hospitals , Unil of Kids Clinic India Limited . Regd :  Ofice:\n1533, 9th Main, 3rd Block; Jayanagar, Bengaluru 560011\nServices\nCloudnina Matemily; Cloudnine Paediatrics,Cloudnine Mother and Child Care Cloudnine Clinic and Cloudnine Fertilit\nCIN\nU8511OKAZOOSPLC037953 T\n99729 99729",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "S.No.",
+          "biomarker_normalized": "S.No.",
+          "value": "103",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S.No. 103, CTS No 3175, Plot No 65, Shri Shivaji Co-Operatlve",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Bhamburda, Shivajinagar Pune",
+          "biomarker_normalized": "Bhamburda, Shivajinagar Pune",
+          "value": "444016",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Bhamburda, Shivajinagar Pune 444016",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Visit IDIRef No",
+          "biomarker_normalized": "Visit IDIRef No",
+          "value": "28339",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Visit IDIRef No: 28339",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SHNOO0",
+          "biomarker_normalized": "SHNOO0",
+          "value": "8560",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SHNOO08560",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "U8",
+          "biomarker_normalized": "U8",
+          "value": "511",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "U8511OKAZOOSPLC037953 T",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 38,
+    "ocr_avg_confidence": 0.708,
+    "parsed_row_count": 5
+  }
+}

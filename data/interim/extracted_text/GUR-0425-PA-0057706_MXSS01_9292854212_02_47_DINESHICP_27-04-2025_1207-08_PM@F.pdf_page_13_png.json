@@ -1,0 +1,387 @@
+{
+  "document_id": "GUR-0425-PA-0057706_MXSS01_9292854212_02_47_DINESHICP_27-04-2025_1207-08_PM@F.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057706_MXSS01_9292854212_02_47_DINESHICP_27-04-2025_1207-08_PM@F.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Laboratory Investigation Report\nPatient]\nCentre\nSHBG.6545\nCollection DatelTime\n26/Apr/2025 01.24AM\nDr.Emergency Team Shbg\nReporting DatelTime\n26/Apr/2025 03.31AM\nClinical Biochemistry\nSIN No:SB2155798\nRenal Function Test (RFT) Profile\nWithout Urine\nPa e\nDr. Pooja Bhasin M.D:\nDirector & HOD\nDr.\nLaxmi Sharma, MD\nLab Service Pathology\nAssociate Director & Quality\nTest Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab\nBooking Centre :1060\nMax Hospital Shalimar Bagh, Max Lab\nThe authenticity of the report can be verified by scanning the Q R Code on top of theb\nMc-2262\nVijay",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            194.0,
+            1018.0,
+            224.0
+          ],
+          "text": "Laboratory Investigation Report",
+          "confidence": 0.9185
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            238.0,
+            156.0,
+            264.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.6722
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            242.0,
+            924.0,
+            266.0
+          ],
+          "text": "Centre",
+          "confidence": 0.9542
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            304.0,
+            446.0,
+            328.0
+          ],
+          "text": "SHBG.6545",
+          "confidence": 0.8528
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            307.0,
+            1062.0,
+            332.0
+          ],
+          "text": "Collection DatelTime",
+          "confidence": 0.9712
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            307.0,
+            1284.0,
+            333.0
+          ],
+          "text": "26/Apr/2025 01.24AM",
+          "confidence": 0.9083
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            337.0,
+            582.0,
+            367.0
+          ],
+          "text": "Dr.Emergency Team Shbg",
+          "confidence": 0.8226
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            340.0,
+            1060.0,
+            370.0
+          ],
+          "text": "Reporting DatelTime",
+          "confidence": 0.6994
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            339.0,
+            1283.0,
+            369.0
+          ],
+          "text": "26/Apr/2025 03.31AM",
+          "confidence": 0.9533
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            653.0,
+            385.0,
+            897.0,
+            423.0
+          ],
+          "text": "Clinical Biochemistry",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1287.0,
+            414.0,
+            1427.0,
+            433.0
+          ],
+          "text": "SIN No:SB2155798",
+          "confidence": 0.8314
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            428.0,
+            878.0,
+            458.0
+          ],
+          "text": "Renal Function Test (RFT) Profile",
+          "confidence": 0.9514
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            428.0,
+            1050.0,
+            454.0
+          ],
+          "text": "Without Urine",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            476.0,
+            220.0,
+            532.0
+          ],
+          "text": "Pa e",
+          "confidence": 0.6091
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            550.0,
+            300.0,
+            576.0
+          ],
+          "text": "Dr. Pooja Bhasin M.D:",
+          "confidence": 0.5632
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            574.0,
+            236.0,
+            598.0
+          ],
+          "text": "Director & HOD",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            576.0,
+            454.0,
+            600.0
+          ],
+          "text": "Dr.",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            574.0,
+            690.0,
+            604.0
+          ],
+          "text": "Laxmi Sharma, MD",
+          "confidence": 0.8815
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            87.0,
+            593.0,
+            294.0,
+            630.0
+          ],
+          "text": "Lab Service Pathology",
+          "confidence": 0.9853
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            600.0,
+            686.0,
+            626.0
+          ],
+          "text": "Associate Director & Quality",
+          "confidence": 0.7875
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            1928.0,
+            604.0,
+            1956.0
+          ],
+          "text": "Test Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab",
+          "confidence": 0.6067
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            1955.0,
+            287.0,
+            1991.0
+          ],
+          "text": "Booking Centre :1060",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            1960.0,
+            682.0,
+            1992.0
+          ],
+          "text": "Max Hospital Shalimar Bagh, Max Lab",
+          "confidence": 0.6736
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1992.0,
+            892.0,
+            2024.0
+          ],
+          "text": "The authenticity of the report can be verified by scanning the Q R Code on top of theb",
+          "confidence": 0.527
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1449.0,
+            2135.0,
+            1533.0,
+            2155.0
+          ],
+          "text": "Mc-2262",
+          "confidence": 0.7718
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            453.1133818625269,
+            573.1867537178289,
+            511.8866181374731,
+            605.8132462821711
+          ],
+          "text": "Vijay",
+          "confidence": 0.9996
+        }
+      ]
+    }
+  ],
+  "full_text": "Laboratory Investigation Report\nPatient]\nCentre\nSHBG.6545\nCollection DatelTime\n26/Apr/2025 01.24AM\nDr.Emergency Team Shbg\nReporting DatelTime\n26/Apr/2025 03.31AM\nClinical Biochemistry\nSIN No:SB2155798\nRenal Function Test (RFT) Profile\nWithout Urine\nPa e\nDr. Pooja Bhasin M.D:\nDirector & HOD\nDr.\nLaxmi Sharma, MD\nLab Service Pathology\nAssociate Director & Quality\nTest Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab\nBooking Centre :1060\nMax Hospital Shalimar Bagh, Max Lab\nThe authenticity of the report can be verified by scanning the Q R Code on top of theb\nMc-2262\nVijay",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SHBG.",
+          "biomarker_normalized": "SHBG.",
+          "value": "6545",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SHBG.6545",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "SIN No:SB2",
+          "biomarker_normalized": "SIN No:SB2",
+          "value": "155798",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SIN No:SB2155798",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Test Performed at",
+          "biomarker_normalized": "Test Performed at",
+          "value": "1060",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Test Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Booking Centre",
+          "biomarker_normalized": "Booking Centre",
+          "value": "1060",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Booking Centre :1060",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Mc",
+          "biomarker_normalized": "Mc",
+          "value": "2262",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mc-2262",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 26,
+    "ocr_avg_confidence": 0.8426,
+    "parsed_row_count": 5
+  }
+}

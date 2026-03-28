@@ -1,0 +1,393 @@
+{
+  "document_id": "GUR-0425-PA-0055833_F-REPORTS_250423_1613@G.pdf_page_10",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055833_F-REPORTS_250423_1613@G.pdf_page_10.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "aeer\nNational Lab\nCLINICAL LAB\nDIGITAL X-RAY* E.C.G.\nULTRASOUND\n7131, GEETA COLONY, NEAR GURUDWARA 7 BLOCK; DELHI - 110031-PH:\nSOM BAZAR MAIN ROAD, OPP.-BEDI MARKET, DELHI'11O051 PH:\nDate\nSrl No.\nCollection Time- 8 OOam To 2 OOpm\nDr SELF\nTesth\nBIOCHEMSTRY\nBLOOD SUGAR FASTING\n104\nmg/dl\n70\n110\n****\nEnd Of Reprt\n****\nDARBARI\nMBBS, MD\nCONSULTANT PATHOLOGIST\nHome Collection Facility Available\nContd__.3\nNot Valid for Medico Legal Purposes\nPLEASE CO-RELATE RESULTS, CUINICALLY IF THE ReSULt(S) Qf THE testis) [S ALARMING OR UN EXPECTED, THE PATIENTITREATING DOCTOR IS ADVISED To",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            130.0,
+            270.0,
+            209.0
+          ],
+          "text": "aeer",
+          "confidence": 0.1965
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            485.0,
+            131.0,
+            1326.0,
+            210.0
+          ],
+          "text": "National Lab",
+          "confidence": 0.7141
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            407.0,
+            207.0,
+            678.0,
+            252.0
+          ],
+          "text": "CLINICAL LAB",
+          "confidence": 0.8691
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            204.0,
+            1154.0,
+            252.0
+          ],
+          "text": "DIGITAL X-RAY* E.C.G.",
+          "confidence": 0.6735
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            207.0,
+            1472.0,
+            249.0
+          ],
+          "text": "ULTRASOUND",
+          "confidence": 0.9861
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            293.0,
+            259.0,
+            1189.0,
+            297.0
+          ],
+          "text": "7131, GEETA COLONY, NEAR GURUDWARA 7 BLOCK; DELHI - 110031-PH:",
+          "confidence": 0.5092
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            421.0,
+            297.0,
+            1221.0,
+            335.0
+          ],
+          "text": "SOM BAZAR MAIN ROAD, OPP.-BEDI MARKET, DELHI'11O051 PH:",
+          "confidence": 0.5146
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            470.0,
+            214.0,
+            502.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            806.0,
+            474.0,
+            894.0,
+            504.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.7801
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1104.0,
+            475.0,
+            1563.0,
+            511.0
+          ],
+          "text": "Collection Time- 8 OOam To 2 OOpm",
+          "confidence": 0.5648
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            550.0,
+            406.0,
+            582.0
+          ],
+          "text": "Dr SELF",
+          "confidence": 0.9024
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            623.0,
+            207.0,
+            659.0
+          ],
+          "text": "Testh",
+          "confidence": 0.4317
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            735.0,
+            995.0,
+            777.0
+          ],
+          "text": "BIOCHEMSTRY",
+          "confidence": 0.5176
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            792.0,
+            506.0,
+            824.0
+          ],
+          "text": "BLOOD SUGAR FASTING",
+          "confidence": 0.9904
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            748.0,
+            796.0,
+            798.0,
+            826.0
+          ],
+          "text": "104",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            945.0,
+            797.0,
+            1023.0,
+            833.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.6299
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            798.0,
+            1248.0,
+            830.0
+          ],
+          "text": "70",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            800.0,
+            1314.0,
+            830.0
+          ],
+          "text": "110",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            909.0,
+            735.0,
+            923.0
+          ],
+          "text": "****",
+          "confidence": 0.4321
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            737.0,
+            903.0,
+            909.0,
+            944.0
+          ],
+          "text": "End Of Reprt",
+          "confidence": 0.9781
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            911.0,
+            909.0,
+            957.0,
+            925.0
+          ],
+          "text": "****",
+          "confidence": 0.3607
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            2014.0,
+            1416.0,
+            2044.0
+          ],
+          "text": "DARBARI",
+          "confidence": 0.7787
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1101.0,
+            2045.0,
+            1247.0,
+            2081.0
+          ],
+          "text": "MBBS, MD",
+          "confidence": 0.9564
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1100.0,
+            2080.0,
+            1481.0,
+            2111.0
+          ],
+          "text": "CONSULTANT PATHOLOGIST",
+          "confidence": 0.9709
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            2168.0,
+            1031.0,
+            2210.0
+          ],
+          "text": "Home Collection Facility Available",
+          "confidence": 0.8322
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1414.0,
+            2176.0,
+            1537.0,
+            2213.0
+          ],
+          "text": "Contd__.3",
+          "confidence": 0.7516
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            2201.0,
+            1045.0,
+            2240.0
+          ],
+          "text": "Not Valid for Medico Legal Purposes",
+          "confidence": 0.9024
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            2244.0,
+            1268.0,
+            2270.0
+          ],
+          "text": "PLEASE CO-RELATE RESULTS, CUINICALLY IF THE ReSULt(S) Qf THE testis) [S ALARMING OR UN EXPECTED, THE PATIENTITREATING DOCTOR IS ADVISED To",
+          "confidence": 0.207
+        }
+      ]
+    }
+  ],
+  "full_text": "aeer\nNational Lab\nCLINICAL LAB\nDIGITAL X-RAY* E.C.G.\nULTRASOUND\n7131, GEETA COLONY, NEAR GURUDWARA 7 BLOCK; DELHI - 110031-PH:\nSOM BAZAR MAIN ROAD, OPP.-BEDI MARKET, DELHI'11O051 PH:\nDate\nSrl No.\nCollection Time- 8 OOam To 2 OOpm\nDr SELF\nTesth\nBIOCHEMSTRY\nBLOOD SUGAR FASTING\n104\nmg/dl\n70\n110\n****\nEnd Of Reprt\n****\nDARBARI\nMBBS, MD\nCONSULTANT PATHOLOGIST\nHome Collection Facility Available\nContd__.3\nNot Valid for Medico Legal Purposes\nPLEASE CO-RELATE RESULTS, CUINICALLY IF THE ReSULt(S) Qf THE testis) [S ALARMING OR UN EXPECTED, THE PATIENTITREATING DOCTOR IS ADVISED To",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SOM BAZAR MAIN ROAD, OPP.-BEDI MARKET, DELHI'",
+          "biomarker_normalized": "SOM BAZAR MAIN ROAD, OPP.-BEDI MARKET, DELHI'",
+          "value": "11",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SOM BAZAR MAIN ROAD, OPP.-BEDI MARKET, DELHI'11O051 PH:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Collection Time",
+          "biomarker_normalized": "Collection Time",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Collection Time- 8 OOam To 2 OOpm",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Contd__.",
+          "biomarker_normalized": "Contd__.",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Contd__.3",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 28,
+    "ocr_avg_confidence": 0.7302,
+    "parsed_row_count": 3
+  }
+}

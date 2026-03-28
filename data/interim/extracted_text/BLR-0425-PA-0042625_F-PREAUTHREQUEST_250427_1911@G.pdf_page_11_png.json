@@ -1,0 +1,927 @@
+{
+  "document_id": "BLR-0425-PA-0042625_F-PREAUTHREQUEST_250427_1911@G.pdf_page_11",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042625_F-PREAUTHREQUEST_250427_1911@G.pdf_page_11.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PAEDIATRIC CHART\n<:\nINDOOR No\nNAME\nMv\nJay\n36\nMC\n39\n6\nSo\nBL\nWT\n3.1 kd\nSEX\nMale\nAPCAR\nGROUP-Ahi\nSR. Dh 'RUBIR\nD\nIND\n45 %\n1\nL5\nTi ~L\nB |s\nska\n2'\nAr\n36 1\n3\npn~\nL\n3\n6-\nAr\n80\nS:30\nI7l~3 l&\n{o: ooan\nGonq\n6:s0p^\n138n8ll .\n10. 28pr\n149\nmg (4/\n8 30\nAr\n(8\n6.zo Am\n102\nJo ! 30\nAM\n112\nrgldl;\n3 , @0Pm\n12o~36 UU\n(04 =\nIo 00\n34\nahiiee _\nTme\n00\n78r 8\n[4/w\n7j /\n0@\npn\nmald |\nmaldl\nYbiy",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            91.0,
+            1095.0,
+            159.0
+          ],
+          "text": "PAEDIATRIC CHART",
+          "confidence": 0.799
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            427.0,
+            167.0,
+            543.0,
+            203.0
+          ],
+          "text": "<:",
+          "confidence": 0.0709
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1201.0,
+            161.0,
+            1355.0,
+            197.0
+          ],
+          "text": "INDOOR No",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            295.0,
+            287.0,
+            331.0
+          ],
+          "text": "NAME",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            286.0,
+            426.0,
+            334.0
+          ],
+          "text": "Mv",
+          "confidence": 0.4252
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            469.0,
+            277.0,
+            583.0,
+            341.0
+          ],
+          "text": "Jay",
+          "confidence": 0.4598
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            516.0,
+            830.0,
+            564.0
+          ],
+          "text": "36",
+          "confidence": 0.4363
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            456.0,
+            546.0,
+            506.0,
+            576.0
+          ],
+          "text": "MC",
+          "confidence": 0.1386
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            775.0,
+            569.0,
+            839.0,
+            605.0
+          ],
+          "text": "39",
+          "confidence": 0.4435
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            588.0,
+            508.0,
+            618.0
+          ],
+          "text": "6",
+          "confidence": 0.5224
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            775.0,
+            597.0,
+            852.0,
+            636.0
+          ],
+          "text": "So",
+          "confidence": 0.2502
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            628.0,
+            506.0,
+            660.0
+          ],
+          "text": "BL",
+          "confidence": 0.9857
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            668.0,
+            514.0,
+            700.0
+          ],
+          "text": "WT",
+          "confidence": 0.75
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            632.0,
+            942.0,
+            710.0
+          ],
+          "text": "3.1 kd",
+          "confidence": 0.2012
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            704.0,
+            530.0,
+            742.0
+          ],
+          "text": "SEX",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            682.0,
+            869.0,
+            734.0
+          ],
+          "text": "Male",
+          "confidence": 0.4032
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            744.0,
+            579.0,
+            783.0
+          ],
+          "text": "APCAR",
+          "confidence": 0.2573
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            462.0,
+            819.0,
+            635.0,
+            858.0
+          ],
+          "text": "GROUP-Ahi",
+          "confidence": 0.2727
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            463.0,
+            861.0,
+            695.0,
+            903.0
+          ],
+          "text": "SR. Dh 'RUBIR",
+          "confidence": 0.2257
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            468.0,
+            914.0,
+            492.0,
+            940.0
+          ],
+          "text": "D",
+          "confidence": 0.274
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            956.0,
+            528.0,
+            988.0
+          ],
+          "text": "IND",
+          "confidence": 0.9777
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            998.0,
+            554.0,
+            1030.0
+          ],
+          "text": "45 %",
+          "confidence": 0.3726
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            795.0,
+            1065.0,
+            835.0,
+            1111.0
+          ],
+          "text": "1",
+          "confidence": 0.2467
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            829.0,
+            1049.0,
+            913.0,
+            1153.0
+          ],
+          "text": "L5",
+          "confidence": 0.1224
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            1051.0,
+            1367.0,
+            1115.0
+          ],
+          "text": "Ti ~L",
+          "confidence": 0.2439
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1509.0,
+            1037.0,
+            1609.0,
+            1103.0
+          ],
+          "text": "B |s",
+          "confidence": 0.2469
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1099.0,
+            313.0,
+            1161.0
+          ],
+          "text": "ska",
+          "confidence": 0.2174
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1160.0,
+            1212.0,
+            1212.0,
+            1268.0
+          ],
+          "text": "2'",
+          "confidence": 0.4392
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1271.0,
+            1215.0,
+            1351.0,
+            1257.0
+          ],
+          "text": "Ar",
+          "confidence": 0.3712
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1483.0,
+            1199.0,
+            1619.0,
+            1283.0
+          ],
+          "text": "36 1",
+          "confidence": 0.4497
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            425.0,
+            1253.0,
+            469.0,
+            1301.0
+          ],
+          "text": "3",
+          "confidence": 0.9954
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            479.0,
+            1250.0,
+            641.0,
+            1325.0
+          ],
+          "text": "pn~",
+          "confidence": 0.1718
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            1231.0,
+            1003.0,
+            1297.0
+          ],
+          "text": "L",
+          "confidence": 0.6597
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            1283.0,
+            181.0,
+            1347.0
+          ],
+          "text": "3",
+          "confidence": 0.8371
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1165.0,
+            1303.0,
+            1201.0,
+            1349.0
+          ],
+          "text": "6-",
+          "confidence": 0.1349
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1265.0,
+            1299.0,
+            1335.0,
+            1339.0
+          ],
+          "text": "Ar",
+          "confidence": 0.9644
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1481.0,
+            1283.0,
+            1537.0,
+            1325.0
+          ],
+          "text": "80",
+          "confidence": 0.5182
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            420.0,
+            1356.0,
+            540.0,
+            1410.0
+          ],
+          "text": "S:30",
+          "confidence": 0.6228
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            1320.0,
+            1049.0,
+            1444.0
+          ],
+          "text": "I7l~3 l&",
+          "confidence": 0.0602
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1152.0,
+            1382.0,
+            1352.0,
+            1432.0
+          ],
+          "text": "{o: ooan",
+          "confidence": 0.4184
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1463.0,
+            1370.0,
+            1608.0,
+            1445.0
+          ],
+          "text": "Gonq",
+          "confidence": 0.5723
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            403.0,
+            1431.0,
+            627.0,
+            1523.0
+          ],
+          "text": "6:s0p^",
+          "confidence": 0.2723
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            1415.0,
+            1101.0,
+            1542.0
+          ],
+          "text": "138n8ll .",
+          "confidence": 0.1925
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            1532.0,
+            640.0,
+            1587.0
+          ],
+          "text": "10. 28pr",
+          "confidence": 0.3524
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            1526.0,
+            840.0,
+            1578.0
+          ],
+          "text": "149",
+          "confidence": 0.9698
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            847.0,
+            1523.0,
+            1038.0,
+            1616.0
+          ],
+          "text": "mg (4/",
+          "confidence": 0.3568
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            1620.0,
+            544.0,
+            1674.0
+          ],
+          "text": "8 30",
+          "confidence": 0.4524
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            555.0,
+            1627.0,
+            655.0,
+            1663.0
+          ],
+          "text": "Ar",
+          "confidence": 0.3424
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1626.0,
+            830.0,
+            1680.0
+          ],
+          "text": "(8",
+          "confidence": 0.8745
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            420.0,
+            1716.0,
+            672.0,
+            1764.0
+          ],
+          "text": "6.zo Am",
+          "confidence": 0.2083
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            777.0,
+            1729.0,
+            867.0,
+            1773.0
+          ],
+          "text": "102",
+          "confidence": 0.4296
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            427.0,
+            1819.0,
+            535.0,
+            1859.0
+          ],
+          "text": "Jo ! 30",
+          "confidence": 0.2426
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            547.0,
+            1809.0,
+            621.0,
+            1851.0
+          ],
+          "text": "AM",
+          "confidence": 0.8348
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1806.0,
+            848.0,
+            1858.0
+          ],
+          "text": "112",
+          "confidence": 0.7377
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            853.0,
+            1777.0,
+            1017.0,
+            1865.0
+          ],
+          "text": "rgldl;",
+          "confidence": 0.1507
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            417.0,
+            1883.0,
+            623.0,
+            1945.0
+          ],
+          "text": "3 , @0Pm",
+          "confidence": 0.2547
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1876.0,
+            1016.0,
+            1972.0
+          ],
+          "text": "12o~36 UU",
+          "confidence": 0.2274
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            763.0,
+            1968.0,
+            878.0,
+            2044.0
+          ],
+          "text": "(04 =",
+          "confidence": 0.493
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            459.0,
+            2043.0,
+            555.0,
+            2087.0
+          ],
+          "text": "Io 00",
+          "confidence": 0.4833
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            856.0,
+            1970.0,
+            1010.0,
+            2116.0
+          ],
+          "text": "34",
+          "confidence": 0.0909
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            572.0769521047183,
+            257.09153949711407,
+            751.9230478952817,
+            336.90846050288593
+          ],
+          "text": "ahiiee _",
+          "confidence": 0.1154
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            432.71806521676416,
+            1066.797544796975,
+            589.2819347832358,
+            1144.202455203025
+          ],
+          "text": "Tme",
+          "confidence": 0.6755
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1210.4100031799906,
+            1215.1615294421183,
+            1274.5899968200094,
+            1256.8384705578817
+          ],
+          "text": "00",
+          "confidence": 0.9469
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            732.3471395572151,
+            1218.0516585746873,
+            921.6528604427849,
+            1335.9483414253127
+          ],
+          "text": "78r 8",
+          "confidence": 0.1239
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            169.34917954470376,
+            1251.0126763627734,
+            340.65082045529624,
+            1370.9873236372266
+          ],
+          "text": "[4/w",
+          "confidence": 0.6503
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1531.179107398177,
+            1266.5498529926235,
+            1637.820892601823,
+            1367.4501470073765
+          ],
+          "text": "7j /",
+          "confidence": 0.5266
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1204.4100031799906,
+            1308.0675927626517,
+            1254.5899968200094,
+            1343.9324072373483
+          ],
+          "text": "0@",
+          "confidence": 0.1439
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            527.9120750480483,
+            1348.6566246969212,
+            643.0879249519517,
+            1429.3433753030788
+          ],
+          "text": "pn",
+          "confidence": 0.452
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            827.9189235553514,
+            1605.981221125502,
+            1014.0810764446486,
+            1710.018778874498
+          ],
+          "text": "mald |",
+          "confidence": 0.5991
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            882.0758553927899,
+            1707.721841523845,
+            1042.92414460721,
+            1805.278158476155
+          ],
+          "text": "maldl",
+          "confidence": 0.4393
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            755.3256999177122,
+            2024.0538540019409,
+            913.6743000822878,
+            2132.9461459980594
+          ],
+          "text": "Ybiy",
+          "confidence": 0.1
+        }
+      ]
+    }
+  ],
+  "full_text": "PAEDIATRIC CHART\n<:\nINDOOR No\nNAME\nMv\nJay\n36\nMC\n39\n6\nSo\nBL\nWT\n3.1 kd\nSEX\nMale\nAPCAR\nGROUP-Ahi\nSR. Dh 'RUBIR\nD\nIND\n45 %\n1\nL5\nTi ~L\nB |s\nska\n2'\nAr\n36 1\n3\npn~\nL\n3\n6-\nAr\n80\nS:30\nI7l~3 l&\n{o: ooan\nGonq\n6:s0p^\n138n8ll .\n10. 28pr\n149\nmg (4/\n8 30\nAr\n(8\n6.zo Am\n102\nJo ! 30\nAM\n112\nrgldl;\n3 , @0Pm\n12o~36 UU\n(04 =\nIo 00\n34\nahiiee _\nTme\n00\n78r 8\n[4/w\n7j /\n0@\npn\nmald |\nmaldl\nYbiy",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "S",
+          "biomarker_normalized": "S",
+          "value": "30",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S:30",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "I7l~",
+          "biomarker_normalized": "I7l~",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "I7l~3 l&",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "mg (",
+          "biomarker_normalized": "mg (",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mg (4/",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Jo !",
+          "biomarker_normalized": "Jo !",
+          "value": "30",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Jo ! 30",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Io",
+          "biomarker_normalized": "Io",
+          "value": "00",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Io 00",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 71,
+    "ocr_avg_confidence": 0.4547,
+    "parsed_row_count": 5
+  }
+}

@@ -1,0 +1,1206 @@
+{
+  "document_id": "GUR-0425-PA-0055247_Q-Muraliquery_250427_1736@F.pdf_page_5",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055247_Q-Muraliquery_250427_1736@F.pdf_page_5.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sugam Hospitals\nSymbol of Health\nERIIFIED\nName\nMr MURALLG\nUHI0343755\nHAEMATOLOGY\nHb\n15\nPCV\n4S 6\n44 `0\nTOTAL WBC COUNT\nbLLo[l4oo\n7556\nPLATELET COUNT\n24&o\n2.2\nDIFFERENTIAL COUNT\nN\nM\nS: 2\nL\n(4 )\nE\nESR\n1/2 Hour\n1 Hour\n|\n\"\nGLUCOSE PROFILE\nRBS\n34S\nFBS\nLa3\n. .\nPPBS\nHBAIC\n31\nRFT\nUREA\n25\nCREATININE\nJ-0\n26\nELECTROLYTES\nSODIUM\n131\n4o\n443\n1.0\nPOTASSIUM\nLo\nA4\nB,M\nCHLORIDE\nBICARBONATE\n2&,\nLIPID PROFILE\nTOTAL CHOLESTEROL\n226\nTGL\n48\nHDL\n64\nLDL\nL52\nVLDL\n[ ' . .\n`\nRF\n]\n4| `\nTHYROID PROFILE\nFREE T3\n2-18\n(204.4\nFREE T4\nL3?\n(41LZ\nTSH\nL\n1HC 35550\nPANCREATIC PROFILE\nSERUM AMYLASE\nSERUM LIPASE\nLFT\nBILIRUBIN\nTOTAL\nDIRECT\nINDIRECT\nSGOT\nSGPT\nnasS\nLoo",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            527.0,
+            102.0,
+            1083.0,
+            210.0
+          ],
+          "text": "Sugam Hospitals",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            890.0,
+            194.0,
+            1074.0,
+            226.0
+          ],
+          "text": "Symbol of Health",
+          "confidence": 0.9954
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1179.0,
+            213.0,
+            1233.0,
+            227.0
+          ],
+          "text": "ERIIFIED",
+          "confidence": 0.543
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            250.0,
+            408.0,
+            274.0
+          ],
+          "text": "Name",
+          "confidence": 0.9518
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            430.0,
+            252.0,
+            562.0,
+            278.0
+          ],
+          "text": "Mr MURALLG",
+          "confidence": 0.9314
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            430.0,
+            311.0,
+            548.0,
+            335.0
+          ],
+          "text": "UHI0343755",
+          "confidence": 0.4765
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            432.0,
+            402.0,
+            464.0
+          ],
+          "text": "HAEMATOLOGY",
+          "confidence": 0.7727
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            420.0,
+            434.0,
+            464.0,
+            464.0
+          ],
+          "text": "Hb",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            425.0,
+            799.0,
+            475.0
+          ],
+          "text": "15",
+          "confidence": 0.4694
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            432.0,
+            478.0,
+            498.0,
+            510.0
+          ],
+          "text": "PCV",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            475.0,
+            793.0,
+            513.0
+          ],
+          "text": "4S 6",
+          "confidence": 0.3818
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1117.0,
+            479.0,
+            1231.0,
+            515.0
+          ],
+          "text": "44 `0",
+          "confidence": 0.4921
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            523.0,
+            459.0,
+            554.0
+          ],
+          "text": "TOTAL WBC COUNT",
+          "confidence": 0.8582
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            839.0,
+            515.0,
+            1089.0,
+            575.0
+          ],
+          "text": "bLLo[l4oo",
+          "confidence": 0.0603
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            507.0,
+            1239.0,
+            563.0
+          ],
+          "text": "7556",
+          "confidence": 0.6784
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            568.0,
+            439.0,
+            600.0
+          ],
+          "text": "PLATELET COUNT",
+          "confidence": 0.6762
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            974.0,
+            566.0,
+            1086.0,
+            616.0
+          ],
+          "text": "24&o",
+          "confidence": 0.2365
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1111.0,
+            571.0,
+            1205.0,
+            611.0
+          ],
+          "text": "2.2",
+          "confidence": 0.8286
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            614.0,
+            506.0,
+            646.0
+          ],
+          "text": "DIFFERENTIAL COUNT",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            540.0,
+            616.0,
+            570.0,
+            646.0
+          ],
+          "text": "N",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            538.0,
+            660.0,
+            572.0,
+            692.0
+          ],
+          "text": "M",
+          "confidence": 0.9193
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            707.0,
+            655.0,
+            799.0,
+            698.0
+          ],
+          "text": "S: 2",
+          "confidence": 0.6212
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            542.0,
+            706.0,
+            572.0,
+            736.0
+          ],
+          "text": "L",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            691.0,
+            705.0,
+            768.0,
+            738.0
+          ],
+          "text": "(4 )",
+          "confidence": 0.4096
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            540.0,
+            750.0,
+            572.0,
+            782.0
+          ],
+          "text": "E",
+          "confidence": 0.9889
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            794.0,
+            254.0,
+            826.0
+          ],
+          "text": "ESR",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            796.0,
+            390.0,
+            826.0
+          ],
+          "text": "1/2 Hour",
+          "confidence": 0.6573
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            839.0,
+            362.0,
+            871.0
+          ],
+          "text": "1 Hour",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1324.0,
+            846.0,
+            1386.0,
+            876.0
+          ],
+          "text": "|",
+          "confidence": 0.0547
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1412.0,
+            846.0,
+            1512.0,
+            878.0
+          ],
+          "text": "\"",
+          "confidence": 0.0793
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            884.0,
+            464.0,
+            916.0
+          ],
+          "text": "GLUCOSE PROFILE",
+          "confidence": 0.9151
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            886.0,
+            548.0,
+            918.0
+          ],
+          "text": "RBS",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            881.0,
+            806.0,
+            934.0
+          ],
+          "text": "34S",
+          "confidence": 0.5187
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            486.0,
+            932.0,
+            548.0,
+            962.0
+          ],
+          "text": "FBS",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1121.0,
+            937.0,
+            1219.0,
+            979.0
+          ],
+          "text": "La3",
+          "confidence": 0.195
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1252.0,
+            929.0,
+            1379.0,
+            969.0
+          ],
+          "text": ". .",
+          "confidence": 0.0429
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            486.0,
+            978.0,
+            570.0,
+            1008.0
+          ],
+          "text": "PPBS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            486.0,
+            1022.0,
+            588.0,
+            1054.0
+          ],
+          "text": "HBAIC",
+          "confidence": 0.7966
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1105.0,
+            977.0,
+            1219.0,
+            1063.0
+          ],
+          "text": "31",
+          "confidence": 0.1194
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1068.0,
+            248.0,
+            1098.0
+          ],
+          "text": "RFT",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            1068.0,
+            352.0,
+            1098.0
+          ],
+          "text": "UREA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            1060.0,
+            791.0,
+            1111.0
+          ],
+          "text": "25",
+          "confidence": 0.7165
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            1112.0,
+            446.0,
+            1144.0
+          ],
+          "text": "CREATININE",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1114.0,
+            784.0,
+            1144.0
+          ],
+          "text": "J-0",
+          "confidence": 0.8134
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1125.0,
+            1115.0,
+            1195.0,
+            1153.0
+          ],
+          "text": "26",
+          "confidence": 0.5685
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            1156.0,
+            412.0,
+            1188.0
+          ],
+          "text": "ELECTROLYTES",
+          "confidence": 0.9278
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            1158.0,
+            562.0,
+            1190.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1152.0,
+            786.0,
+            1200.0
+          ],
+          "text": "131",
+          "confidence": 0.6833
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            835.0,
+            1159.0,
+            925.0,
+            1203.0
+          ],
+          "text": "4o",
+          "confidence": 0.6058
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            978.0,
+            1160.0,
+            1068.0,
+            1208.0
+          ],
+          "text": "443",
+          "confidence": 0.8
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            1157.0,
+            1198.0,
+            1190.0
+          ],
+          "text": "1.0",
+          "confidence": 0.5528
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            1204.0,
+            610.0,
+            1236.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1201.0,
+            809.0,
+            1246.0
+          ],
+          "text": "Lo",
+          "confidence": 0.6959
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            829.0,
+            1196.0,
+            925.0,
+            1258.0
+          ],
+          "text": "A4",
+          "confidence": 0.7792
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            991.0,
+            1205.0,
+            1073.0,
+            1245.0
+          ],
+          "text": "B,M",
+          "confidence": 0.1289
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            1250.0,
+            598.0,
+            1282.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            1293.0,
+            652.0,
+            1325.0
+          ],
+          "text": "BICARBONATE",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            729.0,
+            1293.0,
+            821.0,
+            1335.0
+          ],
+          "text": "2&,",
+          "confidence": 0.1296
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            1340.0,
+            394.0,
+            1370.0
+          ],
+          "text": "LIPID PROFILE",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            1383.0,
+            565.0,
+            1419.0
+          ],
+          "text": "TOTAL CHOLESTEROL",
+          "confidence": 0.6997
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            703.0,
+            1377.0,
+            813.0,
+            1419.0
+          ],
+          "text": "226",
+          "confidence": 0.5448
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            386.0,
+            1430.0,
+            446.0,
+            1462.0
+          ],
+          "text": "TGL",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            704.0,
+            1424.0,
+            792.0,
+            1480.0
+          ],
+          "text": "48",
+          "confidence": 0.9647
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            1476.0,
+            450.0,
+            1506.0
+          ],
+          "text": "HDL",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            1479.0,
+            777.0,
+            1523.0
+          ],
+          "text": "64",
+          "confidence": 0.7033
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            1522.0,
+            444.0,
+            1552.0
+          ],
+          "text": "LDL",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            1521.0,
+            796.0,
+            1563.0
+          ],
+          "text": "L52",
+          "confidence": 0.6316
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            1566.0,
+            456.0,
+            1596.0
+          ],
+          "text": "VLDL",
+          "confidence": 0.8574
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1244.0,
+            1572.0,
+            1376.0,
+            1600.0
+          ],
+          "text": "[ ' . .",
+          "confidence": 0.4157
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1395.0,
+            1569.0,
+            1501.0,
+            1605.0
+          ],
+          "text": "`",
+          "confidence": 0.1478
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            394.0,
+            1610.0,
+            436.0,
+            1640.0
+          ],
+          "text": "RF",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            1615.0,
+            1370.0,
+            1643.0
+          ],
+          "text": "]",
+          "confidence": 0.1526
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1403.0,
+            1616.0,
+            1511.0,
+            1646.0
+          ],
+          "text": "4| `",
+          "confidence": 0.0038
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            1650.0,
+            453.0,
+            1688.0
+          ],
+          "text": "THYROID PROFILE",
+          "confidence": 0.8554
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            1654.0,
+            596.0,
+            1686.0
+          ],
+          "text": "FREE T3",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1656.0,
+            796.0,
+            1704.0
+          ],
+          "text": "2-18",
+          "confidence": 0.3043
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1648.0,
+            1068.0,
+            1702.0
+          ],
+          "text": "(204.4",
+          "confidence": 0.3569
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            1702.0,
+            596.0,
+            1732.0
+          ],
+          "text": "FREE T4",
+          "confidence": 0.9362
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            1694.0,
+            793.0,
+            1749.0
+          ],
+          "text": "L3?",
+          "confidence": 0.4365
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            829.0,
+            1685.0,
+            1083.0,
+            1751.0
+          ],
+          "text": "(41LZ",
+          "confidence": 0.0691
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            1746.0,
+            534.0,
+            1776.0
+          ],
+          "text": "TSH",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            698.0,
+            1756.0,
+            724.0,
+            1788.0
+          ],
+          "text": "L",
+          "confidence": 0.9483
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1733.0,
+            1095.0,
+            1798.0
+          ],
+          "text": "1HC 35550",
+          "confidence": 0.1024
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            1787.0,
+            499.0,
+            1823.0
+          ],
+          "text": "PANCREATIC PROFILE",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1836.0,
+            538.0,
+            1868.0
+          ],
+          "text": "SERUM AMYLASE",
+          "confidence": 0.9394
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1882.0,
+            500.0,
+            1912.0
+          ],
+          "text": "SERUM LIPASE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            1928.0,
+            240.0,
+            1956.0
+          ],
+          "text": "LFT",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            1926.0,
+            406.0,
+            1958.0
+          ],
+          "text": "BILIRUBIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            1926.0,
+            514.0,
+            1958.0
+          ],
+          "text": "TOTAL",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            1972.0,
+            436.0,
+            2004.0
+          ],
+          "text": "DIRECT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            2018.0,
+            464.0,
+            2050.0
+          ],
+          "text": "INDIRECT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            2064.0,
+            408.0,
+            2094.0
+          ],
+          "text": "SGOT",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            2110.0,
+            406.0,
+            2140.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            2166.0,
+            601.0,
+            2223.0
+          ],
+          "text": "nasS",
+          "confidence": 0.2268
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            731.4615384615385,
+            1251.0266395775689,
+            807.5384615384615,
+            1292.9733604224311
+          ],
+          "text": "Loo",
+          "confidence": 0.5643
+        }
+      ]
+    }
+  ],
+  "full_text": "Sugam Hospitals\nSymbol of Health\nERIIFIED\nName\nMr MURALLG\nUHI0343755\nHAEMATOLOGY\nHb\n15\nPCV\n4S 6\n44 `0\nTOTAL WBC COUNT\nbLLo[l4oo\n7556\nPLATELET COUNT\n24&o\n2.2\nDIFFERENTIAL COUNT\nN\nM\nS: 2\nL\n(4 )\nE\nESR\n1/2 Hour\n1 Hour\n|\n\"\nGLUCOSE PROFILE\nRBS\n34S\nFBS\nLa3\n. .\nPPBS\nHBAIC\n31\nRFT\nUREA\n25\nCREATININE\nJ-0\n26\nELECTROLYTES\nSODIUM\n131\n4o\n443\n1.0\nPOTASSIUM\nLo\nA4\nB,M\nCHLORIDE\nBICARBONATE\n2&,\nLIPID PROFILE\nTOTAL CHOLESTEROL\n226\nTGL\n48\nHDL\n64\nLDL\nL52\nVLDL\n[ ' . .\n`\nRF\n]\n4| `\nTHYROID PROFILE\nFREE T3\n2-18\n(204.4\nFREE T4\nL3?\n(41LZ\nTSH\nL\n1HC 35550\nPANCREATIC PROFILE\nSERUM AMYLASE\nSERUM LIPASE\nLFT\nBILIRUBIN\nTOTAL\nDIRECT\nINDIRECT\nSGOT\nSGPT\nnasS\nLoo",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "UHI0",
+          "biomarker_normalized": "UHI0",
+          "value": "343755",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UHI0343755",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "S",
+          "biomarker_normalized": "S",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S: 2",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "J",
+          "biomarker_normalized": "J",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J-0",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "L5",
+          "biomarker_normalized": "L5",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "L52",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 95,
+    "ocr_avg_confidence": 0.7145,
+    "parsed_row_count": 4
+  }
+}

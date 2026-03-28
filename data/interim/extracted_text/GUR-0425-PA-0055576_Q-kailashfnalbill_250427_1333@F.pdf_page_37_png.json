@@ -1,0 +1,915 @@
+{
+  "document_id": "GUR-0425-PA-0055576_Q-kailashfnalbill_250427_1333@F.pdf_page_37",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055576_Q-kailashfnalbill_250427_1333@F.pdf_page_37.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Shzee Path Lal\n\"THINK OF WELLNESS, THINK OF SHREE PATH LAB\"\nOPP; GOVT GIRLS SCHOOL_CIRCULAR ROAD, REWARI-123401 (HR)\nPH:\nTel:\n01274-222109\nWebsite\nwwwshreepathhiab.com\nPatient]\nReferred By -Vedanta hospital\nReported\n\"\non\nBLODD CULTURE -\n12 DRUGS\nOrganism Isolated\nActinobacter sp.\nAntibiotic\nSr\nName Of Antibiotics\nSensitivity\nNo.\nMEROPENAM + SULBACTUM\nSensitiveC\n++++)\n2\nCo-Trimaxazole\nResistant\n3\nCephalexin\nResistant\n4\nCEFOPARZONE\nSensitive\n5\nLevofloxacin\nSensitive\n6\nCiprofoxacin\nResistant\nMetronidazole\nResistant\n8\nDoxycyclin\nResistant\nCLOXACILLIN\nSensitive\n10\nCLARITHROMYCIN\nSensitive (++++)\n1\nLINCOMYCIN\nResistant\n12\nGENTAMICIN\nResistant\nComment\nAntibiotic or antifungal therapy initiated before the specimen is taken may produce false-negative results. Obtain the culture before\nstarting these therapy for the most accurate identification of the causative bacteria and the best clinical results Interpretation of cuture\nreports must be made according to the particular clinical scenario  Antimicrobial sensitivity testing requests would be acceptable if\nprovided within & hrs of the release of Primary culturelidentification report\nDr; Kamal Kant\nMB.B.S;,\nMD\nDMC\n58271\nShree Path Lab\nAKANKSHA GUPTA\nKAMAL KANT\nConsultant Pathologist\nConsultant Pathologist\nThe reported result are for information and interpretation of the referring doctor or such other medical professionals who\nunderstands reporting units, reference ranges and limitations of technologies. NOT VALID FOR MEDICOLEGAL PURPOSE",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            5.0,
+            1170.0,
+            154.0
+          ],
+          "text": "Shzee Path Lal",
+          "confidence": 0.4703
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            137.0,
+            1165.0,
+            203.0
+          ],
+          "text": "\"THINK OF WELLNESS, THINK OF SHREE PATH LAB\"",
+          "confidence": 0.6759
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            192.0,
+            1164.0,
+            242.0
+          ],
+          "text": "OPP; GOVT GIRLS SCHOOL_CIRCULAR ROAD, REWARI-123401 (HR)",
+          "confidence": 0.3872
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            226.0,
+            276.0,
+            256.0
+          ],
+          "text": "PH:",
+          "confidence": 0.6395
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            232.0,
+            856.0,
+            264.0
+          ],
+          "text": "Tel:",
+          "confidence": 0.8691
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            872.0,
+            234.0,
+            1060.0,
+            266.0
+          ],
+          "text": "01274-222109",
+          "confidence": 0.7988
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            255.0,
+            343.0,
+            291.0
+          ],
+          "text": "Website",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            257.0,
+            675.0,
+            299.0
+          ],
+          "text": "wwwshreepathhiab.com",
+          "confidence": 0.5788
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            404.0,
+            307.0,
+            441.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.6504
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            475.0,
+            601.0,
+            520.0
+          ],
+          "text": "Referred By -Vedanta hospital",
+          "confidence": 0.7313
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1056.0,
+            562.0,
+            1185.0,
+            602.0
+          ],
+          "text": "Reported",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            422.0,
+            1392.0,
+            620.0
+          ],
+          "text": "\"",
+          "confidence": 0.2952
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            568.0,
+            1224.0,
+            598.0
+          ],
+          "text": "on",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            473.0,
+            683.0,
+            721.0,
+            721.0
+          ],
+          "text": "BLODD CULTURE -",
+          "confidence": 0.9098
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            686.0,
+            893.0,
+            726.0
+          ],
+          "text": "12 DRUGS",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            752.0,
+            414.0,
+            794.0
+          ],
+          "text": "Organism Isolated",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            858.0,
+            763.0,
+            1081.0,
+            807.0
+          ],
+          "text": "Actinobacter sp.",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            165.0,
+            823.0,
+            282.0,
+            856.0
+          ],
+          "text": "Antibiotic",
+          "confidence": 0.863
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            902.0,
+            266.0,
+            934.0
+          ],
+          "text": "Sr",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            311.0,
+            903.0,
+            595.0,
+            942.0
+          ],
+          "text": "Name Of Antibiotics",
+          "confidence": 0.7094
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            949.0,
+            910.0,
+            1106.0,
+            955.0
+          ],
+          "text": "Sensitivity",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            936.0,
+            270.0,
+            966.0
+          ],
+          "text": "No.",
+          "confidence": 0.9475
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            308.0,
+            974.0,
+            719.0,
+            1015.0
+          ],
+          "text": "MEROPENAM + SULBACTUM",
+          "confidence": 0.8981
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            949.0,
+            985.0,
+            1079.0,
+            1021.0
+          ],
+          "text": "SensitiveC",
+          "confidence": 0.6498
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            992.0,
+            1170.0,
+            1020.0
+          ],
+          "text": "++++)",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            1015.0,
+            245.0,
+            1041.0
+          ],
+          "text": "2",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            1012.0,
+            521.0,
+            1052.0
+          ],
+          "text": "Co-Trimaxazole",
+          "confidence": 0.716
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1022.0,
+            1081.0,
+            1062.0
+          ],
+          "text": "Resistant",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            1053.0,
+            245.0,
+            1079.0
+          ],
+          "text": "3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            1050.0,
+            459.0,
+            1091.0
+          ],
+          "text": "Cephalexin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            949.0,
+            1061.0,
+            1081.0,
+            1097.0
+          ],
+          "text": "Resistant",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            225.0,
+            1093.0,
+            245.0,
+            1117.0
+          ],
+          "text": "4",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            1088.0,
+            535.0,
+            1128.0
+          ],
+          "text": "CEFOPARZONE",
+          "confidence": 0.7151
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            1098.0,
+            1075.0,
+            1137.0
+          ],
+          "text": "Sensitive",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1129.0,
+            243.0,
+            1155.0
+          ],
+          "text": "5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            1127.0,
+            473.0,
+            1166.0
+          ],
+          "text": "Levofloxacin",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1136.0,
+            1075.0,
+            1176.0
+          ],
+          "text": "Sensitive",
+          "confidence": 0.6811
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            1167.0,
+            243.0,
+            1193.0
+          ],
+          "text": "6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            303.0,
+            1167.0,
+            473.0,
+            1205.0
+          ],
+          "text": "Ciprofoxacin",
+          "confidence": 0.8685
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            1175.0,
+            1079.0,
+            1213.0
+          ],
+          "text": "Resistant",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            1202.0,
+            493.0,
+            1242.0
+          ],
+          "text": "Metronidazole",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            945.0,
+            1215.0,
+            1077.0,
+            1251.0
+          ],
+          "text": "Resistant",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            1245.0,
+            241.0,
+            1271.0
+          ],
+          "text": "8",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            1242.0,
+            449.0,
+            1284.0
+          ],
+          "text": "Doxycyclin",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            945.0,
+            1253.0,
+            1077.0,
+            1289.0
+          ],
+          "text": "Resistant",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            1280.0,
+            497.0,
+            1319.0
+          ],
+          "text": "CLOXACILLIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            1290.0,
+            1071.0,
+            1329.0
+          ],
+          "text": "Sensitive",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1322.0,
+            250.0,
+            1352.0
+          ],
+          "text": "10",
+          "confidence": 0.7516
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            1319.0,
+            569.0,
+            1358.0
+          ],
+          "text": "CLARITHROMYCIN",
+          "confidence": 0.8217
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1328.0,
+            1163.0,
+            1368.0
+          ],
+          "text": "Sensitive (++++)",
+          "confidence": 0.8328
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            1365.0,
+            231.0,
+            1387.0
+          ],
+          "text": "1",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            1358.0,
+            489.0,
+            1396.0
+          ],
+          "text": "LINCOMYCIN",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            941.0,
+            1369.0,
+            1073.0,
+            1405.0
+          ],
+          "text": "Resistant",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1398.0,
+            248.0,
+            1430.0
+          ],
+          "text": "12",
+          "confidence": 0.5628
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            1400.0,
+            488.0,
+            1432.0
+          ],
+          "text": "GENTAMICIN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            939.0,
+            1407.0,
+            1073.0,
+            1443.0
+          ],
+          "text": "Resistant",
+          "confidence": 0.9823
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1480.0,
+            234.0,
+            1500.0
+          ],
+          "text": "Comment",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1533.0,
+            1355.0,
+            1575.0
+          ],
+          "text": "Antibiotic or antifungal therapy initiated before the specimen is taken may produce false-negative results. Obtain the culture before",
+          "confidence": 0.5978
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1556.0,
+            1355.0,
+            1601.0
+          ],
+          "text": "starting these therapy for the most accurate identification of the causative bacteria and the best clinical results Interpretation of cuture",
+          "confidence": 0.61
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1585.0,
+            1357.0,
+            1629.0
+          ],
+          "text": "reports must be made according to the particular clinical scenario  Antimicrobial sensitivity testing requests would be acceptable if",
+          "confidence": 0.5849
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1611.0,
+            805.0,
+            1647.0
+          ],
+          "text": "provided within & hrs of the release of Primary culturelidentification report",
+          "confidence": 0.7223
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            1953.0,
+            1032.0,
+            2015.0
+          ],
+          "text": "Dr; Kamal Kant",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            1990.0,
+            897.0,
+            2043.0
+          ],
+          "text": "MB.B.S;,",
+          "confidence": 0.6634
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            911.0,
+            2004.0,
+            1014.0,
+            2049.0
+          ],
+          "text": "MD",
+          "confidence": 0.9648
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            2032.0,
+            839.0,
+            2072.0
+          ],
+          "text": "DMC",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            874.0,
+            2037.0,
+            1021.0,
+            2086.0
+          ],
+          "text": "58271",
+          "confidence": 0.9687
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            2059.0,
+            1022.0,
+            2122.0
+          ],
+          "text": "Shree Path Lab",
+          "confidence": 0.9113
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            2102.0,
+            439.0,
+            2147.0
+          ],
+          "text": "AKANKSHA GUPTA",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1328.0,
+            2117.0,
+            1575.0,
+            2161.0
+          ],
+          "text": "KAMAL KANT",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            2144.0,
+            443.0,
+            2185.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.7936
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            2158.0,
+            1577.0,
+            2200.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.6512
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            2210.0,
+            1558.0,
+            2262.0
+          ],
+          "text": "The reported result are for information and interpretation of the referring doctor or such other medical professionals who",
+          "confidence": 0.6423
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            24.0,
+            2240.0,
+            1564.0,
+            2292.0
+          ],
+          "text": "understands reporting units, reference ranges and limitations of technologies. NOT VALID FOR MEDICOLEGAL PURPOSE",
+          "confidence": 0.7398
+        }
+      ]
+    }
+  ],
+  "full_text": "Shzee Path Lal\n\"THINK OF WELLNESS, THINK OF SHREE PATH LAB\"\nOPP; GOVT GIRLS SCHOOL_CIRCULAR ROAD, REWARI-123401 (HR)\nPH:\nTel:\n01274-222109\nWebsite\nwwwshreepathhiab.com\nPatient]\nReferred By -Vedanta hospital\nReported\n\"\non\nBLODD CULTURE -\n12 DRUGS\nOrganism Isolated\nActinobacter sp.\nAntibiotic\nSr\nName Of Antibiotics\nSensitivity\nNo.\nMEROPENAM + SULBACTUM\nSensitiveC\n++++)\n2\nCo-Trimaxazole\nResistant\n3\nCephalexin\nResistant\n4\nCEFOPARZONE\nSensitive\n5\nLevofloxacin\nSensitive\n6\nCiprofoxacin\nResistant\nMetronidazole\nResistant\n8\nDoxycyclin\nResistant\nCLOXACILLIN\nSensitive\n10\nCLARITHROMYCIN\nSensitive (++++)\n1\nLINCOMYCIN\nResistant\n12\nGENTAMICIN\nResistant\nComment\nAntibiotic or antifungal therapy initiated before the specimen is taken may produce false-negative results. Obtain the culture before\nstarting these therapy for the most accurate identification of the causative bacteria and the best clinical results Interpretation of cuture\nreports must be made according to the particular clinical scenario  Antimicrobial sensitivity testing requests would be acceptable if\nprovided within & hrs of the release of Primary culturelidentification report\nDr; Kamal Kant\nMB.B.S;,\nMD\nDMC\n58271\nShree Path Lab\nAKANKSHA GUPTA\nKAMAL KANT\nConsultant Pathologist\nConsultant Pathologist\nThe reported result are for information and interpretation of the referring doctor or such other medical professionals who\nunderstands reporting units, reference ranges and limitations of technologies. NOT VALID FOR MEDICOLEGAL PURPOSE",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "OPP; GOVT GIRLS SCHOOL_CIRCULAR ROAD, REWARI",
+          "biomarker_normalized": "OPP; GOVT GIRLS SCHOOL_CIRCULAR ROAD, REWARI",
+          "value": "123401",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "OPP; GOVT GIRLS SCHOOL_CIRCULAR ROAD, REWARI-123401 (HR)",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 73,
+    "ocr_avg_confidence": 0.8602,
+    "parsed_row_count": 1
+  }
+}

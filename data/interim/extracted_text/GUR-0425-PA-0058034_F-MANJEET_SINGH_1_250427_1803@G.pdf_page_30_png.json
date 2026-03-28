@@ -1,0 +1,1035 @@
+{
+  "document_id": "GUR-0425-PA-0058034_F-MANJEET_SINGH_1_250427_1803@G.pdf_page_30",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0058034_F-MANJEET_SINGH_1_250427_1803@G.pdf_page_30.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Laboratory InvestigaLion Report\nCunire\n6081\nMMax Hosnlial\nEmorgency Team Gen\nReparling Date Time\n27/Apri2025 07,OJAM\nIlnical Biochemlstry\nRenal Function Test (RFT) Profile\nWithoui Urine\nUrea, Serum\nUnit\nBio Ref Interval\nDate\n27/Apr/2u2s\nU5:24AM\nmgidl\n17,0-43.0\nUrea\n16.0\nUipage, UV\nCreatinine, Serum\nUnic\nBio Ref\nDate\n27/Apr/2uzs\nInterval\n05:24A.M\nmgidL\n0,8 - 13\nCreaiirine\n0.52\nAkaline Drrale kinatc\nmVmin/1,73\neGFR by MDRD\n160.84\nm?\nNCRD\n@GFR by CKD EPI 2021\n112,91\nRef: Range\nGlomerular Filteration Rate is calculated by MDRD equation which is most accurate for GFRs < 6Oml\nnin\nCGTR\nEstimnated\n/1.73 m\" MDRD equation iS used for adult population only,\nCategory\nRef Intertal (ml\nmln { [.73 m'\nCanditium\nNonmal Or High\nGI\n2q0\nG2\n60 . 89\nMildly Decreased\nGJu\n45\n59\nMildly to Muderately Decreased\nGSb\nJ0 -44\nModerutely lo Severly Decteased\n04\n15\n\"J0\nSeverl; DeereISe4\nG:\n[5\nKidlucy Iallune\nTes: Prrlomied at 585 _\nMax Lub Sector-44, Guruuratn; Deita Tuwcr Plot No; 54, Scctor-H;,\nKooking Cenlie 5081\nMux Haspital\nGurugram; Opposite HUDA City Ccntre Metra Stution, B\nBlock\nThe authenticity Of the report Can be veriticd by scamning the Q R Code on top ofih[",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            180.0,
+            1019.0,
+            217.0
+          ],
+          "text": "Laboratory InvestigaLion Report",
+          "confidence": 0.6109
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            228.0,
+            922.0,
+            252.0
+          ],
+          "text": "Cunire",
+          "confidence": 0.4567
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            222.0,
+            1122.0,
+            248.0
+          ],
+          "text": "6081",
+          "confidence": 0.6282
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            220.0,
+            1268.0,
+            246.0
+          ],
+          "text": "MMax Hosnlial",
+          "confidence": 0.4253
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            345.0,
+            328.0,
+            572.0,
+            359.0
+          ],
+          "text": "Emorgency Team Gen",
+          "confidence": 0.4773
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            324.0,
+            1060.0,
+            354.0
+          ],
+          "text": "Reparling Date Time",
+          "confidence": 0.6029
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            318.0,
+            1286.0,
+            349.0
+          ],
+          "text": "27/Apri2025 07,OJAM",
+          "confidence": 0.1352
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            670.0,
+            373.0,
+            895.0,
+            402.0
+          ],
+          "text": "Ilnical Biochemlstry",
+          "confidence": 0.5752
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            412.0,
+            878.0,
+            444.0
+          ],
+          "text": "Renal Function Test (RFT) Profile",
+          "confidence": 0.7891
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            408.0,
+            1050.0,
+            436.0
+          ],
+          "text": "Withoui Urine",
+          "confidence": 0.6237
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            467.0,
+            224.0,
+            498.0
+          ],
+          "text": "Urea, Serum",
+          "confidence": 0.8545
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1234.0,
+            494.0,
+            1292.0,
+            524.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1349.0,
+            487.0,
+            1559.0,
+            523.0
+          ],
+          "text": "Bio Ref Interval",
+          "confidence": 0.9303
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            514.0,
+            142.0,
+            544.0
+          ],
+          "text": "Date",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            503.0,
+            563.0,
+            544.0
+          ],
+          "text": "27/Apr/2u2s",
+          "confidence": 0.6974
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            544.0,
+            532.0,
+            576.0
+          ],
+          "text": "U5:24AM",
+          "confidence": 0.4213
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1234.0,
+            572.0,
+            1306.0,
+            602.0
+          ],
+          "text": "mgidl",
+          "confidence": 0.614
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            568.0,
+            1472.0,
+            596.0
+          ],
+          "text": "17,0-43.0",
+          "confidence": 0.8681
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            592.0,
+            148.0,
+            618.0
+          ],
+          "text": "Urea",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            586.0,
+            456.0,
+            612.0
+          ],
+          "text": "16.0",
+          "confidence": 0.9716
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            618.0,
+            212.0,
+            644.0
+          ],
+          "text": "Uipage, UV",
+          "confidence": 0.145
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            658.0,
+            294.0,
+            687.0
+          ],
+          "text": "Creatinine, Serum",
+          "confidence": 0.9793
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            684.0,
+            1288.0,
+            714.0
+          ],
+          "text": "Unic",
+          "confidence": 0.9546
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            680.0,
+            1466.0,
+            712.0
+          ],
+          "text": "Bio Ref",
+          "confidence": 0.5827
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            706.0,
+            146.0,
+            736.0
+          ],
+          "text": "Date",
+          "confidence": 0.9756
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            694.0,
+            561.0,
+            736.0
+          ],
+          "text": "27/Apr/2uzs",
+          "confidence": 0.5446
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1359.0,
+            717.0,
+            1464.0,
+            749.0
+          ],
+          "text": "Interval",
+          "confidence": 0.819
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            730.0,
+            529.0,
+            770.0
+          ],
+          "text": "05:24A.M",
+          "confidence": 0.5694
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            764.0,
+            1300.0,
+            794.0
+          ],
+          "text": "mgidL",
+          "confidence": 0.3931
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1358.0,
+            760.0,
+            1456.0,
+            788.0
+          ],
+          "text": "0,8 - 13",
+          "confidence": 0.5538
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            782.0,
+            210.0,
+            810.0
+          ],
+          "text": "Creaiirine",
+          "confidence": 0.3811
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            778.0,
+            454.0,
+            804.0
+          ],
+          "text": "0.52",
+          "confidence": 0.8854
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            810.0,
+            310.0,
+            836.0
+          ],
+          "text": "Akaline Drrale kinatc",
+          "confidence": 0.2631
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1229.0,
+            821.0,
+            1362.0,
+            853.0
+          ],
+          "text": "mVmin/1,73",
+          "confidence": 0.3974
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            844.0,
+            278.0,
+            876.0
+          ],
+          "text": "eGFR by MDRD",
+          "confidence": 0.8993
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            838.0,
+            482.0,
+            866.0
+          ],
+          "text": "160.84",
+          "confidence": 0.7681
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            856.0,
+            1266.0,
+            882.0
+          ],
+          "text": "m?",
+          "confidence": 0.7823
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            874.0,
+            168.0,
+            898.0
+          ],
+          "text": "NCRD",
+          "confidence": 0.2849
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            906.0,
+            363.0,
+            945.0
+          ],
+          "text": "@GFR by CKD EPI 2021",
+          "confidence": 0.6827
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            906.0,
+            482.0,
+            932.0
+          ],
+          "text": "112,91",
+          "confidence": 0.6985
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            1051.0,
+            234.0,
+            1092.0
+          ],
+          "text": "Ref: Range",
+          "confidence": 0.9242
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            299.0,
+            1100.0,
+            1534.0,
+            1157.0
+          ],
+          "text": "Glomerular Filteration Rate is calculated by MDRD equation which is most accurate for GFRs < 6Oml",
+          "confidence": 0.6868
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1546.0,
+            1102.0,
+            1598.0,
+            1130.0
+          ],
+          "text": "nin",
+          "confidence": 0.4457
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            1128.0,
+            162.0,
+            1160.0
+          ],
+          "text": "CGTR",
+          "confidence": 0.8038
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1126.0,
+            302.0,
+            1158.0
+          ],
+          "text": "Estimnated",
+          "confidence": 0.3733
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            1154.0,
+            758.0,
+            1197.0
+          ],
+          "text": "/1.73 m\" MDRD equation iS used for adult population only,",
+          "confidence": 0.375
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            1309.0,
+            190.0,
+            1340.0
+          ],
+          "text": "Category",
+          "confidence": 0.9806
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1310.0,
+            372.0,
+            1338.0
+          ],
+          "text": "Ref Intertal (ml",
+          "confidence": 0.6695
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            1308.0,
+            516.0,
+            1336.0
+          ],
+          "text": "mln { [.73 m'",
+          "confidence": 0.1862
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            1298.0,
+            846.0,
+            1324.0
+          ],
+          "text": "Canditium",
+          "confidence": 0.4838
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            570.0,
+            1372.0,
+            720.0,
+            1402.0
+          ],
+          "text": "Nonmal Or High",
+          "confidence": 0.264
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1400.0,
+            160.0,
+            1424.0
+          ],
+          "text": "GI",
+          "confidence": 0.7068
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            1393.0,
+            403.0,
+            1423.0
+          ],
+          "text": "2q0",
+          "confidence": 0.1686
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1454.0,
+            162.0,
+            1478.0
+          ],
+          "text": "G2",
+          "confidence": 0.5287
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            1448.0,
+            416.0,
+            1474.0
+          ],
+          "text": "60 . 89",
+          "confidence": 0.5533
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            571.0,
+            1442.0,
+            739.0,
+            1472.0
+          ],
+          "text": "Mildly Decreased",
+          "confidence": 0.6797
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1494.0,
+            168.0,
+            1518.0
+          ],
+          "text": "GJu",
+          "confidence": 0.9819
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            1490.0,
+            378.0,
+            1514.0
+          ],
+          "text": "45",
+          "confidence": 0.5928
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            386.0,
+            1488.0,
+            418.0,
+            1514.0
+          ],
+          "text": "59",
+          "confidence": 0.2506
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            1480.0,
+            878.0,
+            1512.0
+          ],
+          "text": "Mildly to Muderately Decreased",
+          "confidence": 0.3763
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1532.0,
+            170.0,
+            1558.0
+          ],
+          "text": "GSb",
+          "confidence": 0.7092
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            1528.0,
+            418.0,
+            1556.0
+          ],
+          "text": "J0 -44",
+          "confidence": 0.2077
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            1519.0,
+            882.0,
+            1550.0
+          ],
+          "text": "Moderutely lo Severly Decteased",
+          "confidence": 0.4217
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1572.0,
+            166.0,
+            1598.0
+          ],
+          "text": "04",
+          "confidence": 0.9018
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            1568.0,
+            380.0,
+            1594.0
+          ],
+          "text": "15",
+          "confidence": 0.7005
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            386.0,
+            1568.0,
+            420.0,
+            1592.0
+          ],
+          "text": "\"J0",
+          "confidence": 0.1022
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            1562.0,
+            748.0,
+            1590.0
+          ],
+          "text": "Severl; DeereISe4",
+          "confidence": 0.2208
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            1612.0,
+            166.0,
+            1636.0
+          ],
+          "text": "G:",
+          "confidence": 0.4348
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            360.0,
+            1608.0,
+            408.0,
+            1632.0
+          ],
+          "text": "[5",
+          "confidence": 0.1918
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            575.0,
+            1601.0,
+            712.0,
+            1630.0
+          ],
+          "text": "Kidlucy Iallune",
+          "confidence": 0.159
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1966.0,
+            298.0,
+            1994.0
+          ],
+          "text": "Tes: Prrlomied at 585 _",
+          "confidence": 0.2145
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            303.0,
+            1955.0,
+            877.0,
+            1991.0
+          ],
+          "text": "Max Lub Sector-44, Guruuratn; Deita Tuwcr Plot No; 54, Scctor-H;,",
+          "confidence": 0.1117
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            1996.0,
+            318.0,
+            2028.0
+          ],
+          "text": "Kooking Cenlie 5081",
+          "confidence": 0.5518
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            1992.0,
+            470.0,
+            2022.0
+          ],
+          "text": "Mux Haspital",
+          "confidence": 0.8398
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            480.0,
+            1981.0,
+            1047.0,
+            2022.0
+          ],
+          "text": "Gurugram; Opposite HUDA City Ccntre Metra Stution, B",
+          "confidence": 0.4591
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1056.0,
+            1982.0,
+            1124.0,
+            2006.0
+          ],
+          "text": "Block",
+          "confidence": 0.8871
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            2017.0,
+            929.0,
+            2061.0
+          ],
+          "text": "The authenticity Of the report Can be veriticd by scamning the Q R Code on top ofih[",
+          "confidence": 0.2263
+        }
+      ]
+    }
+  ],
+  "full_text": "Laboratory InvestigaLion Report\nCunire\n6081\nMMax Hosnlial\nEmorgency Team Gen\nReparling Date Time\n27/Apri2025 07,OJAM\nIlnical Biochemlstry\nRenal Function Test (RFT) Profile\nWithoui Urine\nUrea, Serum\nUnit\nBio Ref Interval\nDate\n27/Apr/2u2s\nU5:24AM\nmgidl\n17,0-43.0\nUrea\n16.0\nUipage, UV\nCreatinine, Serum\nUnic\nBio Ref\nDate\n27/Apr/2uzs\nInterval\n05:24A.M\nmgidL\n0,8 - 13\nCreaiirine\n0.52\nAkaline Drrale kinatc\nmVmin/1,73\neGFR by MDRD\n160.84\nm?\nNCRD\n@GFR by CKD EPI 2021\n112,91\nRef: Range\nGlomerular Filteration Rate is calculated by MDRD equation which is most accurate for GFRs < 6Oml\nnin\nCGTR\nEstimnated\n/1.73 m\" MDRD equation iS used for adult population only,\nCategory\nRef Intertal (ml\nmln { [.73 m'\nCanditium\nNonmal Or High\nGI\n2q0\nG2\n60 . 89\nMildly Decreased\nGJu\n45\n59\nMildly to Muderately Decreased\nGSb\nJ0 -44\nModerutely lo Severly Decteased\n04\n15\n\"J0\nSeverl; DeereISe4\nG:\n[5\nKidlucy Iallune\nTes: Prrlomied at 585 _\nMax Lub Sector-44, Guruuratn; Deita Tuwcr Plot No; 54, Scctor-H;,\nKooking Cenlie 5081\nMux Haspital\nGurugram; Opposite HUDA City Ccntre Metra Stution, B\nBlock\nThe authenticity Of the report Can be veriticd by scamning the Q R Code on top ofih[",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "U5",
+          "biomarker_normalized": "U5",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "U5:24AM",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "mVmin/",
+          "biomarker_normalized": "mVmin/",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mVmin/1,73",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "@GFR by CKD EPI",
+          "biomarker_normalized": "@GFR by CKD EPI",
+          "value": "2021",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "@GFR by CKD EPI 2021",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Glomerular Filteration Rate is calculated by MDRD equation which is most accurate for GFRs <",
+          "biomarker_normalized": "Glomerular Filteration Rate is calculated by MDRD equation which is most accurate for GFRs <",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Glomerular Filteration Rate is calculated by MDRD equation which is most accurate for GFRs < 6Oml",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "mln { [.",
+          "biomarker_normalized": "mln { [.",
+          "value": "73",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mln { [.73 m'",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "J0",
+          "biomarker_normalized": "J0",
+          "value": "-44",
+          "unit": "",
+          "reference_range": "0-44",
+          "source_line": "J0 -44",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "Tes: Prrlomied at",
+          "biomarker_normalized": "Tes: Prrlomied at",
+          "value": "585",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Tes: Prrlomied at 585 _",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Max Lub Sector",
+          "biomarker_normalized": "Max Lub Sector",
+          "value": "44",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Max Lub Sector-44, Guruuratn; Deita Tuwcr Plot No; 54, Scctor-H;,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Kooking Cenlie",
+          "biomarker_normalized": "Kooking Cenlie",
+          "value": "5081",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Kooking Cenlie 5081",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 77,
+    "ocr_avg_confidence": 0.5793,
+    "parsed_row_count": 9
+  }
+}

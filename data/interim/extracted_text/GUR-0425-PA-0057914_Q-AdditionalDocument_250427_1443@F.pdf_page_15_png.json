@@ -1,0 +1,581 @@
+{
+  "document_id": "GUR-0425-PA-0057914_Q-AdditionalDocument_250427_1443@F.pdf_page_15",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057914_Q-AdditionalDocument_250427_1443@F.pdf_page_15.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Anbu Hospital\nOi6iv\n(Multi Speciality)\nMA @\n[5s561LD6O601\nMr ANANTHRAJ $\n75 Y/Male\nRequested on\n16.4\nSpecimen Collected on\n16.47\nReferred by:\nReported on\n16.47\nDr SENTHILKUMAR R MD,PDCC\nRESULT VALUE\nBIOLOGICAL REFERENCE RANGE\nTEST NAME\nBIOCHEMISTRY\nELECTROLYTES\n136\n130\n148 mEq/L\nSODIUM\nSERUM\n5.0\n3.5 - 5 mEq/L\nPOTASSIUM SERUM\n20\n22\n26 mEq/L\nBICARBONATE SERUM\n107\n96\n108 mEq/L\nCHLORIDE\nSERUM\nEnd of Report\nRESULT ENTERED BY\nLABV1\nRESULT VERIFIED BY\nLABVI\nFINAL REPORT\n485, Lakshmi Vilas Street; Kumbakonam\n612 00/, Thanjavur District.\n.",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            117.0,
+            1122.0,
+            220.0
+          ],
+          "text": "Anbu Hospital",
+          "confidence": 0.5345
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            184.0,
+            310.0,
+            258.0
+          ],
+          "text": "Oi6iv",
+          "confidence": 0.1247
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            709.0,
+            219.0,
+            989.0,
+            261.0
+          ],
+          "text": "(Multi Speciality)",
+          "confidence": 0.953
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1428.0,
+            216.0,
+            1502.0,
+            240.0
+          ],
+          "text": "MA @",
+          "confidence": 0.1308
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            248.0,
+            336.0,
+            279.0
+          ],
+          "text": "[5s561LD6O601",
+          "confidence": 0.1843
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            479.0,
+            369.0,
+            515.0
+          ],
+          "text": "Mr ANANTHRAJ $",
+          "confidence": 0.9873
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            530.0,
+            260.0,
+            562.0
+          ],
+          "text": "75 Y/Male",
+          "confidence": 0.9135
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            558.0,
+            1331.0,
+            599.0
+          ],
+          "text": "Requested on",
+          "confidence": 0.7437
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1514.0,
+            556.0,
+            1576.0,
+            586.0
+          ],
+          "text": "16.4",
+          "confidence": 0.9677
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1047.0,
+            594.0,
+            1331.0,
+            635.0
+          ],
+          "text": "Specimen Collected on",
+          "confidence": 0.8965
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1514.0,
+            592.0,
+            1586.0,
+            620.0
+          ],
+          "text": "16.47",
+          "confidence": 0.9923
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            612.0,
+            286.0,
+            644.0
+          ],
+          "text": "Referred by:",
+          "confidence": 0.9463
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            626.0,
+            1331.0,
+            665.0
+          ],
+          "text": "Reported on",
+          "confidence": 0.9541
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1516.0,
+            624.0,
+            1586.0,
+            652.0
+          ],
+          "text": "16.47",
+          "confidence": 0.7311
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            653.0,
+            521.0,
+            691.0
+          ],
+          "text": "Dr SENTHILKUMAR R MD,PDCC",
+          "confidence": 0.9023
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            738.0,
+            864.0,
+            770.0
+          ],
+          "text": "RESULT VALUE",
+          "confidence": 0.9893
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1056.0,
+            724.0,
+            1459.0,
+            762.0
+          ],
+          "text": "BIOLOGICAL REFERENCE RANGE",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            749.0,
+            284.0,
+            782.0
+          ],
+          "text": "TEST NAME",
+          "confidence": 0.9944
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            792.0,
+            329.0,
+            829.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            836.0,
+            321.0,
+            875.0
+          ],
+          "text": "ELECTROLYTES",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            871.0,
+            735.0,
+            904.0
+          ],
+          "text": "136",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1062.0,
+            866.0,
+            1116.0,
+            896.0
+          ],
+          "text": "130",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            861.0,
+            1269.0,
+            897.0
+          ],
+          "text": "148 mEq/L",
+          "confidence": 0.9723
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            884.0,
+            246.0,
+            916.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            882.0,
+            353.0,
+            912.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            918.0,
+            726.0,
+            946.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1061.0,
+            907.0,
+            1233.0,
+            943.0
+          ],
+          "text": "3.5 - 5 mEq/L",
+          "confidence": 0.9714
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            924.0,
+            383.0,
+            962.0
+          ],
+          "text": "POTASSIUM SERUM",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            962.0,
+            722.0,
+            992.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1062.0,
+            956.0,
+            1102.0,
+            984.0
+          ],
+          "text": "22",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            952.0,
+            1240.0,
+            984.0
+          ],
+          "text": "26 mEq/L",
+          "confidence": 0.9419
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            968.0,
+            411.0,
+            1005.0
+          ],
+          "text": "BICARBONATE SERUM",
+          "confidence": 0.8014
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            1006.0,
+            736.0,
+            1036.0
+          ],
+          "text": "107",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1064.0,
+            998.0,
+            1104.0,
+            1028.0
+          ],
+          "text": "96",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1115.0,
+            993.0,
+            1257.0,
+            1029.0
+          ],
+          "text": "108 mEq/L",
+          "confidence": 0.9722
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1016.0,
+            268.0,
+            1048.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            280.0,
+            1014.0,
+            376.0,
+            1044.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            763.0,
+            1083.0,
+            941.0,
+            1119.0
+          ],
+          "text": "End of Report",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1137.0,
+            393.0,
+            1176.0
+          ],
+          "text": "RESULT ENTERED BY",
+          "confidence": 0.8617
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            1136.0,
+            490.0,
+            1168.0
+          ],
+          "text": "LABV1",
+          "confidence": 0.5615
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1185.0,
+            391.0,
+            1221.0
+          ],
+          "text": "RESULT VERIFIED BY",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            1184.0,
+            488.0,
+            1214.0
+          ],
+          "text": "LABVI",
+          "confidence": 0.6792
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1231.0,
+            325.0,
+            1267.0
+          ],
+          "text": "FINAL REPORT",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            387.0,
+            2130.0,
+            921.0,
+            2167.0
+          ],
+          "text": "485, Lakshmi Vilas Street; Kumbakonam",
+          "confidence": 0.7168
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            939.0,
+            2126.0,
+            1317.0,
+            2169.0
+          ],
+          "text": "612 00/, Thanjavur District.",
+          "confidence": 0.5936
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1096.0057274709197,
+            1162.0465132093975,
+            1215.9942725290803,
+            1234.9534867906025
+          ],
+          "text": ".",
+          "confidence": 0.0732
+        }
+      ]
+    }
+  ],
+  "full_text": "Anbu Hospital\nOi6iv\n(Multi Speciality)\nMA @\n[5s561LD6O601\nMr ANANTHRAJ $\n75 Y/Male\nRequested on\n16.4\nSpecimen Collected on\n16.47\nReferred by:\nReported on\n16.47\nDr SENTHILKUMAR R MD,PDCC\nRESULT VALUE\nBIOLOGICAL REFERENCE RANGE\nTEST NAME\nBIOCHEMISTRY\nELECTROLYTES\n136\n130\n148 mEq/L\nSODIUM\nSERUM\n5.0\n3.5 - 5 mEq/L\nPOTASSIUM SERUM\n20\n22\n26 mEq/L\nBICARBONATE SERUM\n107\n96\n108 mEq/L\nCHLORIDE\nSERUM\nEnd of Report\nRESULT ENTERED BY\nLABV1\nRESULT VERIFIED BY\nLABVI\nFINAL REPORT\n485, Lakshmi Vilas Street; Kumbakonam\n612 00/, Thanjavur District.\n.",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": []
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 46,
+    "ocr_avg_confidence": 0.8492,
+    "parsed_row_count": 0
+  }
+}

@@ -1,0 +1,885 @@
+{
+  "document_id": "BLR-0425-PA-0042483_F-CamScanner0426202520.02_250426_2031@G.pdf_page_20",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042483_F-CamScanner0426202520.02_250426_2031@G.pdf_page_20.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Min, VaNitiIA U\nMafotonco;\nHninunik Maainating\nHamnpla Colloclod At;\nVio; \"nnt {rNANs\nQoly Clinlc, Ar] Dlng)v slic, Corlto\n0ashh n\n1t2maaibiiu/\nM,ii1,i9\nLuyri, vf /urnn/0 Pwrm\n\"5mrios((as#16\n1) NO);\nHorupuhmm\n0mo\nAqlo:\nJ Yom(o)\n#ux;\nVol\nVv unalr)\n\"nllon:: MAotteeilis\n25intts%npa\nVonlllcms LUd. 0/6/AO,1,m\ncan,|Anlloshrn,Umtvykno\nPmoo\n\"nnistnf\nVer / Higgh: > 3 190\nVLOL Cholostorol\n20,4\nrcykJl\nUpto 40\n(Scrm \u20ac  culsled)\nLDLIHDL Rallo\n3,0\n2535\n(Sqtm Cukculsted)\nSolo: Rotcrnco Inlorval ns por Nnllonnl Choloslorol Educnllon Prorjram (NCEF) Adull Troatrnent Pancl Ill Rcpon\nCholestrol\nHDL Rallo\n5,8\n5,0\n(Scnm Calculnled)\nUrea, Scrum\n(Scrum Urcasu)\nUrca Scrum\n17.3\nmgldl\nNew\n9-26\nChildren: 10-43\nAdult: 10-50\nNX\nDr. BHARATHI N S\nMBBS DCP PATHOLOGIST\nKMC:80778\nReler to conditions ol reporting ovariaal\nResults relate only to the\nThe\nLIS\nINNER HEALTH REVEALED\nSpecialist\nScanned with CamScanner\nViluyu\nborn:\nLO:\nMETROPC\nPathology.",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            169.0,
+            75.0,
+            359.0,
+            111.0
+          ],
+          "text": "Min, VaNitiIA U",
+          "confidence": 0.1489
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            676.0,
+            81.0,
+            810.0,
+            117.0
+          ],
+          "text": "Mafotonco;",
+          "confidence": 0.1289
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            821.0,
+            89.0,
+            1033.0,
+            127.0
+          ],
+          "text": "Hninunik Maainating",
+          "confidence": 0.024
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            677.0,
+            114.0,
+            923.0,
+            154.0
+          ],
+          "text": "Hamnpla Colloclod At;",
+          "confidence": 0.3716
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1137.0,
+            101.0,
+            1397.0,
+            141.0
+          ],
+          "text": "Vio; \"nnt {rNANs",
+          "confidence": 0.0529
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            745.0,
+            141.0,
+            1111.0,
+            183.0
+          ],
+          "text": "Qoly Clinlc, Ar] Dlng)v slic, Corlto",
+          "confidence": 0.0668
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            140.0,
+            1423.0,
+            176.0
+          ],
+          "text": "0ashh n",
+          "confidence": 0.0027
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            283.0,
+            183.0,
+            499.0,
+            213.0
+          ],
+          "text": "1t2maaibiiu/",
+          "confidence": 0.0485
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            166.0,
+            814.0,
+            198.0
+          ],
+          "text": "M,ii1,i9",
+          "confidence": 0.1192
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            170.0,
+            1081.0,
+            215.0
+          ],
+          "text": "Luyri, vf /urnn/0 Pwrm",
+          "confidence": 0.0349
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            165.0,
+            1417.0,
+            205.0
+          ],
+          "text": "\"5mrios((as#16",
+          "confidence": 0.0117
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            186.0,
+            270.0,
+            216.0
+          ],
+          "text": "1) NO);",
+          "confidence": 0.3958
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            193.0,
+            798.0,
+            226.0
+          ],
+          "text": "Horupuhmm",
+          "confidence": 0.0662
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1285.0,
+            203.0,
+            1432.0,
+            233.0
+          ],
+          "text": "0mo",
+          "confidence": 0.133
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            226.0,
+            230.0,
+            256.0
+          ],
+          "text": "Aqlo:",
+          "confidence": 0.4224
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            239.0,
+            216.0,
+            363.0,
+            253.0
+          ],
+          "text": "J Yom(o)",
+          "confidence": 0.2682
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            218.0,
+            455.0,
+            249.0
+          ],
+          "text": "#ux;",
+          "confidence": 0.2532
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            220.0,
+            554.0,
+            248.0
+          ],
+          "text": "Vol",
+          "confidence": 0.15
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            679.0,
+            214.0,
+            810.0,
+            254.0
+          ],
+          "text": "Vv unalr)",
+          "confidence": 0.1279
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            226.0,
+            1032.0,
+            259.0
+          ],
+          "text": "\"nllon:: MAotteeilis",
+          "confidence": 0.0696
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            229.0,
+            1401.0,
+            265.0
+          ],
+          "text": "25intts%npa",
+          "confidence": 0.0181
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            691.0,
+            243.0,
+            987.0,
+            285.0
+          ],
+          "text": "Vonlllcms LUd. 0/6/AO,1,m",
+          "confidence": 0.0392
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            683.0,
+            271.0,
+            1025.0,
+            309.0
+          ],
+          "text": "can,|Anlloshrn,Umtvykno",
+          "confidence": 0.0244
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            269.0,
+            1434.0,
+            301.0
+          ],
+          "text": "Pmoo",
+          "confidence": 0.0217
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            299.0,
+            1425.0,
+            335.0
+          ],
+          "text": "\"nnistnf",
+          "confidence": 0.0096
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            423.0,
+            1293.0,
+            464.0
+          ],
+          "text": "Ver / Higgh: > 3 190",
+          "confidence": 0.1272
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            454.0,
+            331.0,
+            498.0
+          ],
+          "text": "VLOL Cholostorol",
+          "confidence": 0.6236
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            456.0,
+            646.0,
+            488.0
+          ],
+          "text": "20,4",
+          "confidence": 0.9212
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            459.0,
+            1009.0,
+            495.0
+          ],
+          "text": "rcykJl",
+          "confidence": 0.1668
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            462.0,
+            1178.0,
+            494.0
+          ],
+          "text": "Upto 40",
+          "confidence": 0.748
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            486.0,
+            291.0,
+            523.0
+          ],
+          "text": "(Scrm \u20ac  culsled)",
+          "confidence": 0.3113
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            515.0,
+            297.0,
+            557.0
+          ],
+          "text": "LDLIHDL Rallo",
+          "confidence": 0.7454
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            591.0,
+            515.0,
+            639.0,
+            551.0
+          ],
+          "text": "3,0",
+          "confidence": 0.5546
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            520.0,
+            1170.0,
+            552.0
+          ],
+          "text": "2535",
+          "confidence": 0.5378
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            546.0,
+            293.0,
+            583.0
+          ],
+          "text": "(Sqtm Cukculsted)",
+          "confidence": 0.2923
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            571.0,
+            1278.0,
+            613.0
+          ],
+          "text": "Solo: Rotcrnco Inlorval ns por Nnllonnl Choloslorol Educnllon Prorjram (NCEF) Adull Troatrnent Pancl Ill Rcpon",
+          "confidence": 0.1186
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            660.0,
+            247.0,
+            699.0
+          ],
+          "text": "Cholestrol",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            660.0,
+            396.0,
+            690.0
+          ],
+          "text": "HDL Rallo",
+          "confidence": 0.9759
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            660.0,
+            644.0,
+            692.0
+          ],
+          "text": "5,8",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            660.0,
+            1152.0,
+            692.0
+          ],
+          "text": "5,0",
+          "confidence": 0.9164
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            692.0,
+            298.0,
+            724.0
+          ],
+          "text": "(Scnm Calculnled)",
+          "confidence": 0.5622
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            803.0,
+            278.0,
+            842.0
+          ],
+          "text": "Urea, Scrum",
+          "confidence": 0.6517
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            838.0,
+            270.0,
+            864.0
+          ],
+          "text": "(Scrum Urcasu)",
+          "confidence": 0.5986
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            866.0,
+            268.0,
+            896.0
+          ],
+          "text": "Urca Scrum",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            864.0,
+            666.0,
+            894.0
+          ],
+          "text": "17.3",
+          "confidence": 0.5686
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            939.0,
+            863.0,
+            1023.0,
+            899.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9423
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            864.0,
+            1150.0,
+            892.0
+          ],
+          "text": "New",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            862.0,
+            1278.0,
+            894.0
+          ],
+          "text": "9-26",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            892.0,
+            1278.0,
+            924.0
+          ],
+          "text": "Children: 10-43",
+          "confidence": 0.9839
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            922.0,
+            1240.0,
+            954.0
+          ],
+          "text": "Adult: 10-50",
+          "confidence": 0.8398
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            1935.0,
+            995.0,
+            1975.0
+          ],
+          "text": "NX",
+          "confidence": 0.1399
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            1967.0,
+            1116.0,
+            1997.0
+          ],
+          "text": "Dr. BHARATHI N S",
+          "confidence": 0.3579
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            1988.0,
+            1196.0,
+            2020.0
+          ],
+          "text": "MBBS DCP PATHOLOGIST",
+          "confidence": 0.6757
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            2015.0,
+            1042.0,
+            2044.0
+          ],
+          "text": "KMC:80778",
+          "confidence": 0.7337
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            2084.0,
+            832.0,
+            2116.0
+          ],
+          "text": "Reler to conditions ol reporting ovariaal",
+          "confidence": 0.3647
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            2080.0,
+            1128.0,
+            2110.0
+          ],
+          "text": "Results relate only to the",
+          "confidence": 0.6008
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            2167.0,
+            183.0,
+            2207.0
+          ],
+          "text": "The",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            2132.0,
+            444.0,
+            2204.0
+          ],
+          "text": "LIS",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            2153.0,
+            1202.0,
+            2222.0
+          ],
+          "text": "INNER HEALTH REVEALED",
+          "confidence": 0.7644
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            291.0,
+            2195.0,
+            409.0,
+            2235.0
+          ],
+          "text": "Specialist",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            2277.0,
+            1428.0,
+            2310.0
+          ],
+          "text": "Scanned with CamScanner",
+          "confidence": 0.8424
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            674.1012951811963,
+            137.11542815707753,
+            754.8987048188037,
+            177.88457184292247
+          ],
+          "text": "Viluyu",
+          "confidence": 0.4072
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1147.108809934369,
+            859.1365600658949,
+            1217.891190065631,
+            896.8634399341051
+          ],
+          "text": "born:",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            968.9226786698487,
+            1862.2948551186937,
+            1115.0773213301513,
+            1983.7051448813063
+          ],
+          "text": "LO:",
+          "confidence": 0.351
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            74.06888977164064,
+            2085.0421192876934,
+            316.93111022835933,
+            2205.9578807123066
+          ],
+          "text": "METROPC",
+          "confidence": 0.3459
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            171.00214822786708,
+            2170.0544243046716,
+            300.9978517721329,
+            2237.9455756953284
+          ],
+          "text": "Pathology.",
+          "confidence": 0.447
+        }
+      ]
+    }
+  ],
+  "full_text": "Min, VaNitiIA U\nMafotonco;\nHninunik Maainating\nHamnpla Colloclod At;\nVio; \"nnt {rNANs\nQoly Clinlc, Ar] Dlng)v slic, Corlto\n0ashh n\n1t2maaibiiu/\nM,ii1,i9\nLuyri, vf /urnn/0 Pwrm\n\"5mrios((as#16\n1) NO);\nHorupuhmm\n0mo\nAqlo:\nJ Yom(o)\n#ux;\nVol\nVv unalr)\n\"nllon:: MAotteeilis\n25intts%npa\nVonlllcms LUd. 0/6/AO,1,m\ncan,|Anlloshrn,Umtvykno\nPmoo\n\"nnistnf\nVer / Higgh: > 3 190\nVLOL Cholostorol\n20,4\nrcykJl\nUpto 40\n(Scrm \u20ac  culsled)\nLDLIHDL Rallo\n3,0\n2535\n(Sqtm Cukculsted)\nSolo: Rotcrnco Inlorval ns por Nnllonnl Choloslorol Educnllon Prorjram (NCEF) Adull Troatrnent Pancl Ill Rcpon\nCholestrol\nHDL Rallo\n5,8\n5,0\n(Scnm Calculnled)\nUrea, Scrum\n(Scrum Urcasu)\nUrca Scrum\n17.3\nmgldl\nNew\n9-26\nChildren: 10-43\nAdult: 10-50\nNX\nDr. BHARATHI N S\nMBBS DCP PATHOLOGIST\nKMC:80778\nReler to conditions ol reporting ovariaal\nResults relate only to the\nThe\nLIS\nINNER HEALTH REVEALED\nSpecialist\nScanned with CamScanner\nViluyu\nborn:\nLO:\nMETROPC\nPathology.",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Luyri, vf /urnn/",
+          "biomarker_normalized": "Luyri, vf /urnn/",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Luyri, vf /urnn/0 Pwrm",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Vonlllcms LUd.",
+          "biomarker_normalized": "Vonlllcms LUd.",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Vonlllcms LUd. 0/6/AO,1,m",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ver / Higgh: >",
+          "biomarker_normalized": "Ver / Higgh: >",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ver / Higgh: > 3 190",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "40",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 40",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Children",
+          "biomarker_normalized": "Children",
+          "value": "10",
+          "unit": "",
+          "reference_range": "10-43",
+          "source_line": "Children: 10-43",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "Adult",
+          "biomarker_normalized": "Adult",
+          "value": "10",
+          "unit": "",
+          "reference_range": "10-50",
+          "source_line": "Adult: 10-50",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "KMC",
+          "biomarker_normalized": "KMC",
+          "value": "80778",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "KMC:80778",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 66,
+    "ocr_avg_confidence": 0.4575,
+    "parsed_row_count": 7
+  }
+}

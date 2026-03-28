@@ -1,0 +1,936 @@
+{
+  "document_id": "GUR-0425-PA-0053605_RAJ RANI CLAIM FILE 23.04.25_27-04-2025_0257-11_PM@E.pdf_page_27",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053605_RAJ RANI CLAIM FILE 23.04.25_27-04-2025_0257-11_PM@E.pdf_page_27.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "sarvodaya\nKALYANI\nJp\nDIAGNOSTICS\nHOspItal\n'By S00v0ujyu Hejiincaro\nWt 'Intat %(wo\nFum\nFC\n5010202555\nI\nResults\nUuits\nReference Range\n111\nSchutnt\nIol sulirubin\nUS\nmg 4L\n0u12\nVu\" murubim\nU}\nmgul\nuun {u\nInalura\" % Kiuubin\n\"22\nIDE dl\n01-616\n/\n\"X\n03\nt\nX8\nMe5\nPlurnl TAIP\n62\nKii\nHa'iu\n4n\n0t7\nJLTn AIbcutin\n38\n12\n'ilhulin\n6\nWL\n2\n16rm\n11\nEnd of Report\nTEChnICAL supervisor\nTechNiCIAN\nCompletod By\nM MeanKnyam\nSarvodaya Diagnostics, Sector 8, Faridabad\nGaur\nGreater Noida Wasl\nKalyani Hospilal,\nFOR FREE HOME SA\"PLE BOOKING\nT8Do 913 1515,\n'93559 28636\nE;\nGurugram\ninfo@ sarvodayadlagnogtics com\nFor reports Www sarvodayadingnoetico com\nKalyan Hesplul\nEmergency Linti-+91-124444636999 |\nGovt Girls College  Anamika Enchve MG Ronb}\nGurpuum 3122001\n2417 Opon\nOppi",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            50.0,
+            431.0,
+            128.0
+          ],
+          "text": "sarvodaya",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1374.0,
+            90.0,
+            1586.0,
+            140.0
+          ],
+          "text": "KALYANI",
+          "confidence": 0.8457
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            51.0,
+            115.0,
+            125.0,
+            155.0
+          ],
+          "text": "Jp",
+          "confidence": 0.0361
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            113.0,
+            431.0,
+            181.0
+          ],
+          "text": "DIAGNOSTICS",
+          "confidence": 0.9732
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1420.0,
+            144.0,
+            1584.0,
+            174.0
+          ],
+          "text": "HOspItal",
+          "confidence": 0.1186
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            176.0,
+            426.0,
+            204.0
+          ],
+          "text": "'By S00v0ujyu Hejiincaro",
+          "confidence": 0.0167
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1400.0,
+            190.0,
+            1582.0,
+            218.0
+          ],
+          "text": "Wt 'Intat %(wo",
+          "confidence": 0.0259
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            30.0,
+            314.0,
+            78.0,
+            338.0
+          ],
+          "text": "Fum",
+          "confidence": 0.4835
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            10.0,
+            302.0,
+            376.0,
+            496.0
+          ],
+          "text": "FC",
+          "confidence": 0.3098
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            494.0,
+            320.0,
+            522.0
+          ],
+          "text": "5010202555",
+          "confidence": 0.919
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            596.0,
+            98.0,
+            622.0
+          ],
+          "text": "I",
+          "confidence": 0.2738
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            594.0,
+            768.0,
+            626.0
+          ],
+          "text": "Results",
+          "confidence": 0.9806
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            596.0,
+            1022.0,
+            626.0
+          ],
+          "text": "Uuits",
+          "confidence": 0.7266
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1181.0,
+            593.0,
+            1422.0,
+            634.0
+          ],
+          "text": "Reference Range",
+          "confidence": 0.8431
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            34.0,
+            630.0,
+            90.0,
+            654.0
+          ],
+          "text": "111",
+          "confidence": 0.199
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            630.0,
+            200.0,
+            656.0
+          ],
+          "text": "Schutnt",
+          "confidence": 0.1591
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            690.0,
+            198.0,
+            718.0
+          ],
+          "text": "Iol sulirubin",
+          "confidence": 0.1916
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            692.0,
+            714.0,
+            722.0
+          ],
+          "text": "US",
+          "confidence": 0.1817
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            691.0,
+            1018.0,
+            729.0
+          ],
+          "text": "mg 4L",
+          "confidence": 0.2592
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            694.0,
+            1264.0,
+            724.0
+          ],
+          "text": "0u12",
+          "confidence": 0.1083
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            32.0,
+            720.0,
+            206.0,
+            751.0
+          ],
+          "text": "Vu\" murubim",
+          "confidence": 0.0827
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            724.0,
+            710.0,
+            752.0
+          ],
+          "text": "U}",
+          "confidence": 0.07
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            726.0,
+            1018.0,
+            758.0
+          ],
+          "text": "mgul",
+          "confidence": 0.1426
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            726.0,
+            1276.0,
+            756.0
+          ],
+          "text": "uun {u",
+          "confidence": 0.2119
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            34.0,
+            752.0,
+            222.0,
+            782.0
+          ],
+          "text": "Inalura\" % Kiuubin",
+          "confidence": 0.0265
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            756.0,
+            712.0,
+            786.0
+          ],
+          "text": "\"22",
+          "confidence": 0.7195
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            758.0,
+            1006.0,
+            790.0
+          ],
+          "text": "IDE dl",
+          "confidence": 0.3761
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            758.0,
+            1244.0,
+            788.0
+          ],
+          "text": "01-616",
+          "confidence": 0.1023
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            788.0,
+            164.0,
+            814.0
+          ],
+          "text": "/",
+          "confidence": 0.5275
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            790.0,
+            692.0,
+            820.0
+          ],
+          "text": "\"X",
+          "confidence": 0.1883
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            790.0,
+            1236.0,
+            820.0
+          ],
+          "text": "03",
+          "confidence": 0.3231
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            820.0,
+            172.0,
+            846.0
+          ],
+          "text": "t",
+          "confidence": 0.1414
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            822.0,
+            692.0,
+            852.0
+          ],
+          "text": "X8",
+          "confidence": 0.099
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            824.0,
+            1236.0,
+            850.0
+          ],
+          "text": "Me5",
+          "confidence": 0.1356
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            851.0,
+            314.0,
+            883.0
+          ],
+          "text": "Plurnl TAIP",
+          "confidence": 0.0539
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            852.0,
+            692.0,
+            884.0
+          ],
+          "text": "62",
+          "confidence": 0.2919
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            856.0,
+            1260.0,
+            884.0
+          ],
+          "text": "Kii",
+          "confidence": 0.0898
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            887.0,
+            175.0,
+            907.0
+          ],
+          "text": "Ha'iu",
+          "confidence": 0.0089
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            886.0,
+            696.0,
+            914.0
+          ],
+          "text": "4n",
+          "confidence": 0.0497
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1195.0,
+            888.0,
+            1260.0,
+            916.0
+          ],
+          "text": "0t7",
+          "confidence": 0.0794
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            914.0,
+            200.0,
+            940.0
+          ],
+          "text": "JLTn AIbcutin",
+          "confidence": 0.044
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            916.0,
+            698.0,
+            948.0
+          ],
+          "text": "38",
+          "confidence": 0.166
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            920.0,
+            1262.0,
+            950.0
+          ],
+          "text": "12",
+          "confidence": 0.1818
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            31.0,
+            944.0,
+            132.0,
+            972.0
+          ],
+          "text": "'ilhulin",
+          "confidence": 0.1657
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            950.0,
+            698.0,
+            978.0
+          ],
+          "text": "6",
+          "confidence": 0.198
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            954.0,
+            1010.0,
+            980.0
+          ],
+          "text": "WL",
+          "confidence": 0.1527
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1177.0,
+            950.0,
+            1240.0,
+            980.0
+          ],
+          "text": "2",
+          "confidence": 0.8743
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            32.0,
+            978.0,
+            140.0,
+            1004.0
+          ],
+          "text": "16rm",
+          "confidence": 0.1088
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            980.0,
+            696.0,
+            1010.0
+          ],
+          "text": "11",
+          "confidence": 0.7132
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            699.0,
+            1111.0,
+            886.0,
+            1151.0
+          ],
+          "text": "End of Report",
+          "confidence": 0.5861
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            2034.0,
+            314.0,
+            2062.0
+          ],
+          "text": "TEChnICAL supervisor",
+          "confidence": 0.1147
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            2038.0,
+            466.0,
+            2062.0
+          ],
+          "text": "TechNiCIAN",
+          "confidence": 0.1994
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            41.0,
+            2057.0,
+            190.0,
+            2086.0
+          ],
+          "text": "Completod By",
+          "confidence": 0.3889
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            2059.0,
+            358.0,
+            2088.0
+          ],
+          "text": "M MeanKnyam",
+          "confidence": 0.1413
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2163.0,
+            632.0,
+            2216.0
+          ],
+          "text": "Sarvodaya Diagnostics, Sector 8, Faridabad",
+          "confidence": 0.8338
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            655.0,
+            2179.0,
+            740.0,
+            2220.0
+          ],
+          "text": "Gaur",
+          "confidence": 0.6471
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            835.0,
+            2181.0,
+            1130.0,
+            2226.0
+          ],
+          "text": "Greater Noida Wasl",
+          "confidence": 0.4892
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            2187.0,
+            1402.0,
+            2236.0
+          ],
+          "text": "Kalyani Hospilal,",
+          "confidence": 0.7789
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2211.0,
+            385.0,
+            2248.0
+          ],
+          "text": "FOR FREE HOME SA\"PLE BOOKING",
+          "confidence": 0.4192
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            394.0,
+            2222.0,
+            550.0,
+            2250.0
+          ],
+          "text": "T8Do 913 1515,",
+          "confidence": 0.3093
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            2226.0,
+            730.0,
+            2254.0
+          ],
+          "text": "'93559 28636",
+          "confidence": 0.3491
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            2230.0,
+            770.0,
+            2254.0
+          ],
+          "text": "E;",
+          "confidence": 0.1404
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1397.0,
+            2195.0,
+            1553.0,
+            2240.0
+          ],
+          "text": "Gurugram",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            2226.0,
+            1093.0,
+            2266.0
+          ],
+          "text": "info@ sarvodayadlagnogtics com",
+          "confidence": 0.3614
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1110.0,
+            2238.0,
+            1548.0,
+            2270.0
+          ],
+          "text": "For reports Www sarvodayadingnoetico com",
+          "confidence": 0.0787
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2257.0,
+            179.0,
+            2294.0
+          ],
+          "text": "Kalyan Hesplul",
+          "confidence": 0.1621
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            2262.0,
+            607.0,
+            2303.0
+          ],
+          "text": "Emergency Linti-+91-124444636999 |",
+          "confidence": 0.1056
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            667.0,
+            2273.0,
+            1189.0,
+            2313.0
+          ],
+          "text": "Govt Girls College  Anamika Enchve MG Ronb}",
+          "confidence": 0.1831
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1185.0,
+            2281.0,
+            1397.0,
+            2321.0
+          ],
+          "text": "Gurpuum 3122001",
+          "confidence": 0.1401
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1422.0,
+            2292.0,
+            1550.0,
+            2320.0
+          ],
+          "text": "2417 Opon",
+          "confidence": 0.3204
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            606.1439143161442,
+            2271.1448741467184,
+            667.8560856838558,
+            2307.8551258532816
+          ],
+          "text": "Oppi",
+          "confidence": 0.3229
+        }
+      ]
+    }
+  ],
+  "full_text": "sarvodaya\nKALYANI\nJp\nDIAGNOSTICS\nHOspItal\n'By S00v0ujyu Hejiincaro\nWt 'Intat %(wo\nFum\nFC\n5010202555\nI\nResults\nUuits\nReference Range\n111\nSchutnt\nIol sulirubin\nUS\nmg 4L\n0u12\nVu\" murubim\nU}\nmgul\nuun {u\nInalura\" % Kiuubin\n\"22\nIDE dl\n01-616\n/\n\"X\n03\nt\nX8\nMe5\nPlurnl TAIP\n62\nKii\nHa'iu\n4n\n0t7\nJLTn AIbcutin\n38\n12\n'ilhulin\n6\nWL\n2\n16rm\n11\nEnd of Report\nTEChnICAL supervisor\nTechNiCIAN\nCompletod By\nM MeanKnyam\nSarvodaya Diagnostics, Sector 8, Faridabad\nGaur\nGreater Noida Wasl\nKalyani Hospilal,\nFOR FREE HOME SA\"PLE BOOKING\nT8Do 913 1515,\n'93559 28636\nE;\nGurugram\ninfo@ sarvodayadlagnogtics com\nFor reports Www sarvodayadingnoetico com\nKalyan Hesplul\nEmergency Linti-+91-124444636999 |\nGovt Girls College  Anamika Enchve MG Ronb}\nGurpuum 3122001\n2417 Opon\nOppi",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "'By S0",
+          "biomarker_normalized": "'By S0",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "'By S00v0ujyu Hejiincaro",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "mg",
+          "biomarker_normalized": "mg",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mg 4L",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Sarvodaya Diagnostics, Sector",
+          "biomarker_normalized": "Sarvodaya Diagnostics, Sector",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sarvodaya Diagnostics, Sector 8, Faridabad",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "T8Do",
+          "biomarker_normalized": "T8Do",
+          "value": "913",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "T8Do 913 1515,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Emergency Linti-+",
+          "biomarker_normalized": "Emergency Linti-+",
+          "value": "91",
+          "unit": "",
+          "reference_range": "91-124444636999",
+          "source_line": "Emergency Linti-+91-124444636999 |",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Gurpuum",
+          "biomarker_normalized": "Gurpuum",
+          "value": "3122001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Gurpuum 3122001",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 71,
+    "ocr_avg_confidence": 0.3246,
+    "parsed_row_count": 6
+  }
+}

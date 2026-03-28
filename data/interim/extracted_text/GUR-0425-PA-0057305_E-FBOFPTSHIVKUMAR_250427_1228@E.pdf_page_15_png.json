@@ -1,0 +1,1266 @@
+{
+  "document_id": "GUR-0425-PA-0057305_E-FBOFPTSHIVKUMAR_250427_1228@E.pdf_page_15",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057305_E-FBOFPTSHIVKUMAR_250427_1228@E.pdf_page_15.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LokprigA HOSpITal\nCENTRAL LABORATORY\nHd H fH:\n(Haematology_ Clin; Path /Biochem / Histopath / Cytologv/ Immunology)\nNABH\nPATlENT NAME \"ess\nAr\nSAMRAT PALACE,GARH RO\nMEFRUT\n250003\nPHJCL\nSHH KUMAR GARG\nUtI\n127234\nRef By\nSelf\nSample Collection\n12.35 PM\nRoom_\nno\n120\nSigned Off\n04.00 PM\nReport Status\nFinal\nTest\nBlological Ref: Interval\nTIBC(TOTAL IRONBINDING CAPACITY)\n345.0\nug/dL\n250\n400\nSERUM IRON\n65.0\nug/dL\n60\n160\nSATURATION\nVethod : (FERROZINE METHOD)\n18.8\n%\n20\n50\nFFRRITIN\n:ehou\n(ELFA METHOD)\n168.3\nnglmL\n30\n350\nRBCs:- Are adequate in no_\npredominantly are microcytic hypochromic with mild\nWBCs: Are showing neutrophilic leukocytosis with lefoshit &YOx1c goanclation oifdear seoyophils.\nPlatelets\nAre adequate in no. & normal in\nmorphology:\nNo haemoparasite seen.\nEnd of\nReport-\nBREPARED BY:\nAMIT\nDR: RKAGARWAL\nMD (PATHOLOGY) DCP\nCONSULTANT PATHOLOGIST\nFacilities\nIb. Electrophoresis\nTB Culture & Sensitivity\nTB Culture & Sensitivity (2nd-Iine)\nTB PCR\nCarcinoembryonic Antigen (CEA)\nSer. Ferritin\nSer. Insulin\nProstate-Specific Antigeh (PSA)\nTriiodothyronine Free\nMicro albumin\nTroponin'T'\nBacterial Culture & Sensitivity\nFungal Culture & Sensitivity\nRP Quantitative\nRA Quantitative\nAsO Quantitative\nAnti TPO\n24 hrs. Total Urinary Protein\nSer. B12, Procalcitonin\nBence\nDi- Dimer; Sickling Phenomenon,\nImmunohistochemistry,\nAII Routine Tests, ANA,_\nAFP; CA-19.9,\nCA-125 ,\nBnti, cccalcitoniq TSBenFreeones Dsorei\nIf test result are unexpected\nor\nalarming, client is advised toE\nResults  relate & pertain   to the specimen submittod\nIt is presumed that the specimen belongs to the patient]\nNot for Medico Legal\nE-mail;\n~OKPRIYA_\nHosPItAt",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            35.0,
+            1348.0,
+            149.0
+          ],
+          "text": "LokprigA HOSpITal",
+          "confidence": 0.2587
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            126.0,
+            1133.0,
+            186.0
+          ],
+          "text": "CENTRAL LABORATORY",
+          "confidence": 0.9452
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            186.0,
+            219.0,
+            217.0
+          ],
+          "text": "Hd H fH:",
+          "confidence": 0.206
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            309.0,
+            166.0,
+            1290.0,
+            223.0
+          ],
+          "text": "(Haematology_ Clin; Path /Biochem / Histopath / Cytologv/ Immunology)",
+          "confidence": 0.3811
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1423.0,
+            177.0,
+            1489.0,
+            197.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9796
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            15.0,
+            213.0,
+            223.0,
+            249.0
+          ],
+          "text": "PATlENT NAME \"ess",
+          "confidence": 0.166
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            226.0,
+            344.0,
+            252.0
+          ],
+          "text": "Ar",
+          "confidence": 0.4606
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            371.0,
+            198.0,
+            855.0,
+            243.0
+          ],
+          "text": "SAMRAT PALACE,GARH RO",
+          "confidence": 0.4991
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            212.0,
+            1078.0,
+            238.0
+          ],
+          "text": "MEFRUT",
+          "confidence": 0.4733
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1103.0,
+            211.0,
+            1227.0,
+            247.0
+          ],
+          "text": "250003",
+          "confidence": 0.8158
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1381.0,
+            229.0,
+            1457.0,
+            249.0
+          ],
+          "text": "PHJCL",
+          "confidence": 0.6055
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            224.0,
+            571.0,
+            261.0
+          ],
+          "text": "SHH KUMAR GARG",
+          "confidence": 0.445
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            238.0,
+            796.0,
+            264.0
+          ],
+          "text": "UtI",
+          "confidence": 0.0768
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            250.0,
+            1188.0,
+            274.0
+          ],
+          "text": "127234",
+          "confidence": 0.8364
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            14.0,
+            324.0,
+            92.0,
+            354.0
+          ],
+          "text": "Ref By",
+          "confidence": 0.8578
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            326.0,
+            348.0,
+            352.0
+          ],
+          "text": "Self",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            751.0,
+            339.0,
+            954.0,
+            371.0
+          ],
+          "text": "Sample Collection",
+          "confidence": 0.6852
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            352.0,
+            1338.0,
+            378.0
+          ],
+          "text": "12.35 PM",
+          "confidence": 0.9112
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            13.0,
+            361.0,
+            84.0,
+            388.0
+          ],
+          "text": "Room_",
+          "confidence": 0.9878
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            367.0,
+            121.0,
+            387.0
+          ],
+          "text": "no",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            366.0,
+            344.0,
+            392.0
+          ],
+          "text": "120",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            378.0,
+            872.0,
+            406.0
+          ],
+          "text": "Signed Off",
+          "confidence": 0.9451
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            388.0,
+            1336.0,
+            416.0
+          ],
+          "text": "04.00 PM",
+          "confidence": 0.6387
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            749.0,
+            415.0,
+            904.0,
+            445.0
+          ],
+          "text": "Report Status",
+          "confidence": 0.7148
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1099.0,
+            421.0,
+            1158.0,
+            449.0
+          ],
+          "text": "Final",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            458.0,
+            96.0,
+            482.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1131.0,
+            483.0,
+            1380.0,
+            512.0
+          ],
+          "text": "Blological Ref: Interval",
+          "confidence": 0.5219
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            15.0,
+            497.0,
+            445.0,
+            533.0
+          ],
+          "text": "TIBC(TOTAL IRONBINDING CAPACITY)",
+          "confidence": 0.9503
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            510.0,
+            714.0,
+            536.0
+          ],
+          "text": "345.0",
+          "confidence": 0.8113
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            928.0,
+            518.0,
+            992.0,
+            544.0
+          ],
+          "text": "ug/dL",
+          "confidence": 0.6489
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1130.0,
+            522.0,
+            1176.0,
+            548.0
+          ],
+          "text": "250",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            522.0,
+            1236.0,
+            548.0
+          ],
+          "text": "400",
+          "confidence": 0.9605
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            14.0,
+            551.0,
+            168.0,
+            581.0
+          ],
+          "text": "SERUM IRON",
+          "confidence": 0.9928
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            566.0,
+            700.0,
+            592.0
+          ],
+          "text": "65.0",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            570.0,
+            990.0,
+            601.0
+          ],
+          "text": "ug/dL",
+          "confidence": 0.6846
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1130.0,
+            576.0,
+            1164.0,
+            602.0
+          ],
+          "text": "60",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            574.0,
+            1223.0,
+            604.0
+          ],
+          "text": "160",
+          "confidence": 0.9889
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            14.0,
+            606.0,
+            164.0,
+            634.0
+          ],
+          "text": "SATURATION",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            38.0,
+            636.0,
+            292.0,
+            662.0
+          ],
+          "text": "Vethod : (FERROZINE METHOD)",
+          "confidence": 0.8208
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            622.0,
+            698.0,
+            648.0
+          ],
+          "text": "18.8",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            926.0,
+            628.0,
+            952.0,
+            652.0
+          ],
+          "text": "%",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            632.0,
+            1162.0,
+            658.0
+          ],
+          "text": "20",
+          "confidence": 0.5837
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            632.0,
+            1206.0,
+            658.0
+          ],
+          "text": "50",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            11.0,
+            661.0,
+            124.0,
+            692.0
+          ],
+          "text": "FFRRITIN",
+          "confidence": 0.8732
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            39.0,
+            695.0,
+            105.0,
+            713.0
+          ],
+          "text": ":ehou",
+          "confidence": 0.1997
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            691.0,
+            240.0,
+            718.0
+          ],
+          "text": "(ELFA METHOD)",
+          "confidence": 0.9315
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            676.0,
+            710.0,
+            704.0
+          ],
+          "text": "168.3",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            684.0,
+            996.0,
+            710.0
+          ],
+          "text": "nglmL",
+          "confidence": 0.9377
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            688.0,
+            1162.0,
+            714.0
+          ],
+          "text": "30",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            688.0,
+            1218.0,
+            714.0
+          ],
+          "text": "350",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            2.0,
+            720.0,
+            312.0,
+            753.0
+          ],
+          "text": "RBCs:- Are adequate in no_",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            341.0,
+            722.0,
+            938.0,
+            771.0
+          ],
+          "text": "predominantly are microcytic hypochromic with mild",
+          "confidence": 0.9904
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            739.0,
+            1103.0,
+            807.0
+          ],
+          "text": "WBCs: Are showing neutrophilic leukocytosis with lefoshit &YOx1c goanclation oifdear seoyophils.",
+          "confidence": 0.064
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            784.0,
+            104.0,
+            814.0
+          ],
+          "text": "Platelets",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            787.0,
+            493.0,
+            823.0
+          ],
+          "text": "Are adequate in no. & normal in",
+          "confidence": 0.4246
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            492.0,
+            792.0,
+            639.0,
+            832.0
+          ],
+          "text": "morphology:",
+          "confidence": 0.8039
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            818.0,
+            405.0,
+            855.0
+          ],
+          "text": "No haemoparasite seen.",
+          "confidence": 0.7997
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            641.0,
+            917.0,
+            703.0,
+            937.0
+          ],
+          "text": "End of",
+          "confidence": 0.8827
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            915.0,
+            773.0,
+            945.0
+          ],
+          "text": "Report-",
+          "confidence": 0.9028
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            37.0,
+            1763.0,
+            197.0,
+            1807.0
+          ],
+          "text": "BREPARED BY:",
+          "confidence": 0.6176
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            1812.0,
+            104.0,
+            1836.0
+          ],
+          "text": "AMIT",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            1814.0,
+            1184.0,
+            1842.0
+          ],
+          "text": "DR: RKAGARWAL",
+          "confidence": 0.4632
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1838.0,
+            1216.0,
+            1870.0
+          ],
+          "text": "MD (PATHOLOGY) DCP",
+          "confidence": 0.7991
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            917.0,
+            1871.0,
+            1248.0,
+            1904.0
+          ],
+          "text": "CONSULTANT PATHOLOGIST",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            1911.0,
+            869.0,
+            1953.0
+          ],
+          "text": "Facilities",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            1948.0,
+            194.0,
+            1976.0
+          ],
+          "text": "Ib. Electrophoresis",
+          "confidence": 0.5097
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1948.0,
+            458.0,
+            1980.0
+          ],
+          "text": "TB Culture & Sensitivity",
+          "confidence": 0.8572
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            478.0,
+            1952.0,
+            819.0,
+            1984.0
+          ],
+          "text": "TB Culture & Sensitivity (2nd-Iine)",
+          "confidence": 0.7541
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            848.0,
+            1958.0,
+            936.0,
+            1984.0
+          ],
+          "text": "TB PCR",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            1956.0,
+            1295.0,
+            1995.0
+          ],
+          "text": "Carcinoembryonic Antigen (CEA)",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            1964.0,
+            1430.0,
+            1992.0
+          ],
+          "text": "Ser. Ferritin",
+          "confidence": 0.9754
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1452.0,
+            1965.0,
+            1570.0,
+            1995.0
+          ],
+          "text": "Ser. Insulin",
+          "confidence": 0.9606
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            15.0,
+            1971.0,
+            347.0,
+            2007.0
+          ],
+          "text": "Prostate-Specific Antigeh (PSA)",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            369.0,
+            1975.0,
+            590.0,
+            2007.0
+          ],
+          "text": "Triiodothyronine Free",
+          "confidence": 0.9889
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            1980.0,
+            770.0,
+            2010.0
+          ],
+          "text": "Micro albumin",
+          "confidence": 0.6279
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            795.0,
+            1981.0,
+            912.0,
+            2011.0
+          ],
+          "text": "Troponin'T'",
+          "confidence": 0.7505
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1985.0,
+            1258.0,
+            2018.0
+          ],
+          "text": "Bacterial Culture & Sensitivity",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1281.0,
+            1989.0,
+            1570.0,
+            2022.0
+          ],
+          "text": "Fungal Culture & Sensitivity",
+          "confidence": 0.8634
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            1996.0,
+            174.0,
+            2024.0
+          ],
+          "text": "RP Quantitative",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            2000.0,
+            380.0,
+            2026.0
+          ],
+          "text": "RA Quantitative",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            2002.0,
+            582.0,
+            2030.0
+          ],
+          "text": "AsO Quantitative",
+          "confidence": 0.8185
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            2004.0,
+            712.0,
+            2030.0
+          ],
+          "text": "Anti TPO",
+          "confidence": 0.9017
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            2006.0,
+            1044.0,
+            2038.0
+          ],
+          "text": "24 hrs. Total Urinary Protein",
+          "confidence": 0.6687
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            2011.0,
+            1318.0,
+            2041.0
+          ],
+          "text": "Ser. B12, Procalcitonin",
+          "confidence": 0.9465
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            2016.0,
+            1418.0,
+            2042.0
+          ],
+          "text": "Bence",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2018.0,
+            355.0,
+            2055.0
+          ],
+          "text": "Di- Dimer; Sickling Phenomenon,",
+          "confidence": 0.5497
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            368.0,
+            2023.0,
+            605.0,
+            2059.0
+          ],
+          "text": "Immunohistochemistry,",
+          "confidence": 0.938
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            2030.0,
+            864.0,
+            2058.0
+          ],
+          "text": "AII Routine Tests, ANA,_",
+          "confidence": 0.4227
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            874.0,
+            2033.0,
+            1024.0,
+            2062.0
+          ],
+          "text": "AFP; CA-19.9,",
+          "confidence": 0.5792
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            2036.0,
+            1116.0,
+            2062.0
+          ],
+          "text": "CA-125 ,",
+          "confidence": 0.5277
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            2016.0,
+            1572.0,
+            2072.0
+          ],
+          "text": "Bnti, cccalcitoniq TSBenFreeones Dsorei",
+          "confidence": 0.1172
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            33.0,
+            2053.0,
+            401.0,
+            2094.0
+          ],
+          "text": "If test result are unexpected",
+          "confidence": 0.7798
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            2062.0,
+            440.0,
+            2088.0
+          ],
+          "text": "or",
+          "confidence": 0.958
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            445.0,
+            2053.0,
+            829.0,
+            2098.0
+          ],
+          "text": "alarming, client is advised toE",
+          "confidence": 0.4873
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2091.0,
+            531.0,
+            2127.0
+          ],
+          "text": "Results  relate & pertain   to the specimen submittod",
+          "confidence": 0.3655
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            0.0,
+            2120.0,
+            481.0,
+            2163.0
+          ],
+          "text": "It is presumed that the specimen belongs to the patient]",
+          "confidence": 0.885
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            2172.0,
+            442.0,
+            2204.0
+          ],
+          "text": "Not for Medico Legal",
+          "confidence": 0.8721
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            2177.0,
+            918.0,
+            2209.0
+          ],
+          "text": "E-mail;",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            37.98022872943999,
+            24.580027072251273,
+            148.01977127056,
+            137.41997292774872
+          ],
+          "text": "~OKPRIYA_",
+          "confidence": 0.584
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            129.45533412661587,
+            24.02252263703024,
+            247.54466587338413,
+            138.97747736296975
+          ],
+          "text": "HosPItAt",
+          "confidence": 0.1257
+        }
+      ]
+    }
+  ],
+  "full_text": "LokprigA HOSpITal\nCENTRAL LABORATORY\nHd H fH:\n(Haematology_ Clin; Path /Biochem / Histopath / Cytologv/ Immunology)\nNABH\nPATlENT NAME \"ess\nAr\nSAMRAT PALACE,GARH RO\nMEFRUT\n250003\nPHJCL\nSHH KUMAR GARG\nUtI\n127234\nRef By\nSelf\nSample Collection\n12.35 PM\nRoom_\nno\n120\nSigned Off\n04.00 PM\nReport Status\nFinal\nTest\nBlological Ref: Interval\nTIBC(TOTAL IRONBINDING CAPACITY)\n345.0\nug/dL\n250\n400\nSERUM IRON\n65.0\nug/dL\n60\n160\nSATURATION\nVethod : (FERROZINE METHOD)\n18.8\n%\n20\n50\nFFRRITIN\n:ehou\n(ELFA METHOD)\n168.3\nnglmL\n30\n350\nRBCs:- Are adequate in no_\npredominantly are microcytic hypochromic with mild\nWBCs: Are showing neutrophilic leukocytosis with lefoshit &YOx1c goanclation oifdear seoyophils.\nPlatelets\nAre adequate in no. & normal in\nmorphology:\nNo haemoparasite seen.\nEnd of\nReport-\nBREPARED BY:\nAMIT\nDR: RKAGARWAL\nMD (PATHOLOGY) DCP\nCONSULTANT PATHOLOGIST\nFacilities\nIb. Electrophoresis\nTB Culture & Sensitivity\nTB Culture & Sensitivity (2nd-Iine)\nTB PCR\nCarcinoembryonic Antigen (CEA)\nSer. Ferritin\nSer. Insulin\nProstate-Specific Antigeh (PSA)\nTriiodothyronine Free\nMicro albumin\nTroponin'T'\nBacterial Culture & Sensitivity\nFungal Culture & Sensitivity\nRP Quantitative\nRA Quantitative\nAsO Quantitative\nAnti TPO\n24 hrs. Total Urinary Protein\nSer. B12, Procalcitonin\nBence\nDi- Dimer; Sickling Phenomenon,\nImmunohistochemistry,\nAII Routine Tests, ANA,_\nAFP; CA-19.9,\nCA-125 ,\nBnti, cccalcitoniq TSBenFreeones Dsorei\nIf test result are unexpected\nor\nalarming, client is advised toE\nResults  relate & pertain   to the specimen submittod\nIt is presumed that the specimen belongs to the patient]\nNot for Medico Legal\nE-mail;\n~OKPRIYA_\nHosPItAt",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "TB Culture & Sensitivity (",
+          "biomarker_normalized": "TB Culture & Sensitivity (",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "TB Culture & Sensitivity (2nd-Iine)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ser. B1",
+          "biomarker_normalized": "Ser. B1",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ser. B12, Procalcitonin",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "AFP; CA",
+          "biomarker_normalized": "AFP; CA",
+          "value": "19.9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AFP; CA-19.9,",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "CA",
+          "biomarker_normalized": "CA",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CA-125 ,",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 100,
+    "ocr_avg_confidence": 0.7726,
+    "parsed_row_count": 4
+  }
+}

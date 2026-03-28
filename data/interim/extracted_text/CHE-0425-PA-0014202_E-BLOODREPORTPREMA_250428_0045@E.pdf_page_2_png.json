@@ -1,0 +1,1266 @@
+{
+  "document_id": "CHE-0425-PA-0014202_E-BLOODREPORTPREMA_250428_0045@E.pdf_page_2",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014202_E-BLOODREPORTPREMA_250428_0045@E.pdf_page_2.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SRINIVASAN RAJALAKSHMI MEMORIAL HOSPITAL\nCLINICAL LABORATORY\nPATIENT ID\nSID.NO.\n01002270\nSAMPLE REG.ON\n17:57:45\nPATIENT\nMrs  PREMA.KR\nSAMPLE COLLECTED\nDr: S.KRISHNAN, MD:,\nREPORTED ON\n20:05.48\nTest\nResult\nUnits\nFlag\nBiological\n(Specimen/ Method)\nInterval\n1 HOUR\n20\nmm/hr\n5\n20\n(WESTERGREN\nSEROLOGY\nLEPTOSPIRA IGG\nNEGATIVE [7.23]\nNTU\nLess than\nNTU\nNegative\nSERUM\nELISA\n9\n11 NTU\nEquivocal\nMore than 11 NTU\nPositive.\nLEPTOSPIRA IGM\nNEGATIVE [6.99]\nUnits\nLess than\n9 Units\nNegative\n(SERUM\nELISA )\n11 Units\nEquivocal\nMore than 11 Units\nPositive\nThis test detects Abs to about 250 Pathogenic Serovars of the Leptospira specis L Interrogans IgM Abs\nto Leptospira is present from the third\nof Infection and may persist upto 5 months after infection.\nSCRUB TYPHUS IGM\nNEGATIVE The\nNegative:\n9\n(SERUM\nELISA)\ndetection of scrub\nEquivocal; 9-11\ntyphus IgM, helps to\nPositive:\n11\ndiagnose exposure\nto Orientia\ntsutsugamushi an\ninfectious disease.\nResults should be\ninterpreted in\ncontext to clinical\nsymptoms and other\nlaboratory findings:\nLaboratory reports\nshould not be\ninterpreted in\nisolation. Always\ncorrelate with\nclinical and\nimaging\ndata.\nWIDAL (AGGLUTINATION)\n(SERUM\nAGGLUTINATION)\nS.TYPHI \"0\"\nNEGATIVE 1 in 20 DILUTIONS\nS.TYPHI \"H\"\nNEGATIVE\n1 in 20 DILUTIONS\nS.PARATYPHI \"AH\"\nNEGATIVE\n1 in 20 DILUTIONS\n11/77 , 6th Street; Voltas Colony Nanganallur; Chennai\n600 061 _\nDay",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            109.0,
+            1519.0,
+            175.0
+          ],
+          "text": "SRINIVASAN RAJALAKSHMI MEMORIAL HOSPITAL",
+          "confidence": 0.8691
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            570.0,
+            188.0,
+            1078.0,
+            238.0
+          ],
+          "text": "CLINICAL LABORATORY",
+          "confidence": 0.6846
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            333.0,
+            1066.0,
+            360.0
+          ],
+          "text": "PATIENT ID",
+          "confidence": 0.7036
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            360.0,
+            158.0,
+            386.0
+          ],
+          "text": "SID.NO.",
+          "confidence": 0.9831
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            359.0,
+            413.0,
+            398.0
+          ],
+          "text": "01002270",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            372.0,
+            1132.0,
+            402.0
+          ],
+          "text": "SAMPLE REG.ON",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1364.0,
+            378.0,
+            1482.0,
+            408.0
+          ],
+          "text": "17:57:45",
+          "confidence": 0.4045
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            45.0,
+            400.0,
+            167.0,
+            426.0
+          ],
+          "text": "PATIENT",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            399.0,
+            499.0,
+            436.0
+          ],
+          "text": "Mrs  PREMA.KR",
+          "confidence": 0.578
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            412.0,
+            1182.0,
+            444.0
+          ],
+          "text": "SAMPLE COLLECTED",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            478.0,
+            591.0,
+            520.0
+          ],
+          "text": "Dr: S.KRISHNAN, MD:,",
+          "confidence": 0.5607
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            486.0,
+            1104.0,
+            516.0
+          ],
+          "text": "REPORTED ON",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            490.0,
+            1478.0,
+            522.0
+          ],
+          "text": "20:05.48",
+          "confidence": 0.9584
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            558.0,
+            198.0,
+            588.0
+          ],
+          "text": "Test",
+          "confidence": 0.9757
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            566.0,
+            690.0,
+            598.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            570.0,
+            968.0,
+            602.0
+          ],
+          "text": "Units",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1023.0,
+            569.0,
+            1096.0,
+            610.0
+          ],
+          "text": "Flag",
+          "confidence": 0.6266
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1119.0,
+            573.0,
+            1271.0,
+            611.0
+          ],
+          "text": "Biological",
+          "confidence": 0.9622
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            588.0,
+            441.0,
+            629.0
+          ],
+          "text": "(Specimen/ Method)",
+          "confidence": 0.7368
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            602.0,
+            1247.0,
+            640.0
+          ],
+          "text": "Interval",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            638.0,
+            222.0,
+            668.0
+          ],
+          "text": "1 HOUR",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            646.0,
+            626.0,
+            672.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            650.0,
+            968.0,
+            676.0
+          ],
+          "text": "mm/hr",
+          "confidence": 0.972
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1119.0,
+            653.0,
+            1139.0,
+            677.0
+          ],
+          "text": "5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1158.0,
+            652.0,
+            1194.0,
+            680.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            671.0,
+            260.0,
+            703.0
+          ],
+          "text": "(WESTERGREN",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            698.0,
+            726.0,
+            881.0,
+            765.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            763.0,
+            347.0,
+            799.0
+          ],
+          "text": "LEPTOSPIRA IGG",
+          "confidence": 0.6849
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            587.0,
+            773.0,
+            824.0,
+            809.0
+          ],
+          "text": "NEGATIVE [7.23]",
+          "confidence": 0.7943
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            778.0,
+            934.0,
+            804.0
+          ],
+          "text": "NTU",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            782.0,
+            1230.0,
+            808.0
+          ],
+          "text": "Less than",
+          "confidence": 0.9896
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            782.0,
+            1316.0,
+            808.0
+          ],
+          "text": "NTU",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            784.0,
+            1448.0,
+            814.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            804.0,
+            194.0,
+            830.0
+          ],
+          "text": "SERUM",
+          "confidence": 0.9055
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            806.0,
+            270.0,
+            832.0
+          ],
+          "text": "ELISA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1119.0,
+            811.0,
+            1135.0,
+            833.0
+          ],
+          "text": "9",
+          "confidence": 0.3832
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            810.0,
+            1254.0,
+            834.0
+          ],
+          "text": "11 NTU",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1323.0,
+            809.0,
+            1434.0,
+            841.0
+          ],
+          "text": "Equivocal",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            836.0,
+            1328.0,
+            864.0
+          ],
+          "text": "More than 11 NTU",
+          "confidence": 0.8719
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1355.0,
+            836.0,
+            1454.0,
+            866.0
+          ],
+          "text": "Positive.",
+          "confidence": 0.7403
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            860.0,
+            349.0,
+            896.0
+          ],
+          "text": "LEPTOSPIRA IGM",
+          "confidence": 0.8448
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            587.0,
+            869.0,
+            824.0,
+            905.0
+          ],
+          "text": "NEGATIVE [6.99]",
+          "confidence": 0.8181
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            874.0,
+            946.0,
+            900.0
+          ],
+          "text": "Units",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            877.0,
+            1230.0,
+            905.0
+          ],
+          "text": "Less than",
+          "confidence": 0.6846
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            877.0,
+            1326.0,
+            906.0
+          ],
+          "text": "9 Units",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            880.0,
+            1450.0,
+            910.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            898.0,
+            194.0,
+            926.0
+          ],
+          "text": "(SERUM",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            902.0,
+            278.0,
+            928.0
+          ],
+          "text": "ELISA )",
+          "confidence": 0.9686
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            906.0,
+            1264.0,
+            932.0
+          ],
+          "text": "11 Units",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1324.0,
+            908.0,
+            1436.0,
+            936.0
+          ],
+          "text": "Equivocal",
+          "confidence": 0.6796
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            931.0,
+            1338.0,
+            960.0
+          ],
+          "text": "More than 11 Units",
+          "confidence": 0.8666
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            932.0,
+            1448.0,
+            962.0
+          ],
+          "text": "Positive",
+          "confidence": 0.6386
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            39.0,
+            959.0,
+            1505.0,
+            1023.0
+          ],
+          "text": "This test detects Abs to about 250 Pathogenic Serovars of the Leptospira specis L Interrogans IgM Abs",
+          "confidence": 0.7048
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            39.0,
+            999.0,
+            571.0,
+            1039.0
+          ],
+          "text": "to Leptospira is present from the third",
+          "confidence": 0.7714
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            636.0,
+            1002.0,
+            1444.0,
+            1053.0
+          ],
+          "text": "of Infection and may persist upto 5 months after infection.",
+          "confidence": 0.8275
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            1048.0,
+            384.0,
+            1080.0
+          ],
+          "text": "SCRUB TYPHUS IGM",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            1054.0,
+            786.0,
+            1086.0
+          ],
+          "text": "NEGATIVE The",
+          "confidence": 0.7073
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            1062.0,
+            1230.0,
+            1094.0
+          ],
+          "text": "Negative:",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1261.0,
+            1067.0,
+            1277.0,
+            1089.0
+          ],
+          "text": "9",
+          "confidence": 0.755
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            1080.0,
+            192.0,
+            1110.0
+          ],
+          "text": "(SERUM",
+          "confidence": 0.9562
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1088.0,
+            278.0,
+            1114.0
+          ],
+          "text": "ELISA)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            1080.0,
+            831.0,
+            1117.0
+          ],
+          "text": "detection of scrub",
+          "confidence": 0.8767
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            1090.0,
+            1296.0,
+            1118.0
+          ],
+          "text": "Equivocal; 9-11",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            583.0,
+            1113.0,
+            865.0,
+            1149.0
+          ],
+          "text": "typhus IgM, helps to",
+          "confidence": 0.8462
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            1118.0,
+            1214.0,
+            1144.0
+          ],
+          "text": "Positive:",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1246.0,
+            1120.0,
+            1276.0,
+            1144.0
+          ],
+          "text": "11",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            1139.0,
+            841.0,
+            1183.0
+          ],
+          "text": "diagnose exposure",
+          "confidence": 0.9381
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            1170.0,
+            733.0,
+            1206.0
+          ],
+          "text": "to Orientia",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            1203.0,
+            827.0,
+            1239.0
+          ],
+          "text": "tsutsugamushi an",
+          "confidence": 0.7568
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            1231.0,
+            835.0,
+            1261.0
+          ],
+          "text": "infectious disease.",
+          "confidence": 0.9188
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            1262.0,
+            826.0,
+            1294.0
+          ],
+          "text": "Results should be",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            1288.0,
+            775.0,
+            1326.0
+          ],
+          "text": "interpreted in",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            1322.0,
+            826.0,
+            1352.0
+          ],
+          "text": "context to clinical",
+          "confidence": 0.9807
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            1350.0,
+            862.0,
+            1382.0
+          ],
+          "text": "symptoms and other",
+          "confidence": 0.8192
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            577.0,
+            1373.0,
+            854.0,
+            1417.0
+          ],
+          "text": "laboratory findings:",
+          "confidence": 0.9769
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            1405.0,
+            839.0,
+            1444.0
+          ],
+          "text": "Laboratory reports",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            1438.0,
+            770.0,
+            1468.0
+          ],
+          "text": "should not be",
+          "confidence": 0.7261
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            1464.0,
+            773.0,
+            1502.0
+          ],
+          "text": "interpreted in",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            1492.0,
+            815.0,
+            1530.0
+          ],
+          "text": "isolation. Always",
+          "confidence": 0.7121
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            1526.0,
+            772.0,
+            1554.0
+          ],
+          "text": "correlate with",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            1554.0,
+            736.0,
+            1584.0
+          ],
+          "text": "clinical and",
+          "confidence": 0.9376
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            737.0,
+            1551.0,
+            854.0,
+            1593.0
+          ],
+          "text": "imaging",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            1582.0,
+            652.0,
+            1610.0
+          ],
+          "text": "data.",
+          "confidence": 0.9792
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            1611.0,
+            499.0,
+            1655.0
+          ],
+          "text": "WIDAL (AGGLUTINATION)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            1650.0,
+            192.0,
+            1678.0
+          ],
+          "text": "(SERUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            1651.0,
+            406.0,
+            1684.0
+          ],
+          "text": "AGGLUTINATION)",
+          "confidence": 0.7026
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            1692.0,
+            274.0,
+            1718.0
+          ],
+          "text": "S.TYPHI \"0\"",
+          "confidence": 0.7156
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            599.0,
+            1701.0,
+            983.0,
+            1737.0
+          ],
+          "text": "NEGATIVE 1 in 20 DILUTIONS",
+          "confidence": 0.9246
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            1738.0,
+            272.0,
+            1769.0
+          ],
+          "text": "S.TYPHI \"H\"",
+          "confidence": 0.9581
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            599.0,
+            1752.0,
+            733.0,
+            1782.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1754.0,
+            980.0,
+            1786.0
+          ],
+          "text": "1 in 20 DILUTIONS",
+          "confidence": 0.9807
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            1788.0,
+            362.0,
+            1821.0
+          ],
+          "text": "S.PARATYPHI \"AH\"",
+          "confidence": 0.869
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            597.0,
+            1802.0,
+            733.0,
+            1832.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1804.0,
+            980.0,
+            1836.0
+          ],
+          "text": "1 in 20 DILUTIONS",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            2133.0,
+            1182.0,
+            2181.0
+          ],
+          "text": "11/77 , 6th Street; Voltas Colony Nanganallur; Chennai",
+          "confidence": 0.8592
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1199.0,
+            2137.0,
+            1329.0,
+            2173.0
+          ],
+          "text": "600 061 _",
+          "confidence": 0.7085
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            569.3234198799278,
+            1000.1253445358238,
+            639.6765801200722,
+            1046.8746554641762
+          ],
+          "text": "Day",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "SRINIVASAN RAJALAKSHMI MEMORIAL HOSPITAL\nCLINICAL LABORATORY\nPATIENT ID\nSID.NO.\n01002270\nSAMPLE REG.ON\n17:57:45\nPATIENT\nMrs  PREMA.KR\nSAMPLE COLLECTED\nDr: S.KRISHNAN, MD:,\nREPORTED ON\n20:05.48\nTest\nResult\nUnits\nFlag\nBiological\n(Specimen/ Method)\nInterval\n1 HOUR\n20\nmm/hr\n5\n20\n(WESTERGREN\nSEROLOGY\nLEPTOSPIRA IGG\nNEGATIVE [7.23]\nNTU\nLess than\nNTU\nNegative\nSERUM\nELISA\n9\n11 NTU\nEquivocal\nMore than 11 NTU\nPositive.\nLEPTOSPIRA IGM\nNEGATIVE [6.99]\nUnits\nLess than\n9 Units\nNegative\n(SERUM\nELISA )\n11 Units\nEquivocal\nMore than 11 Units\nPositive\nThis test detects Abs to about 250 Pathogenic Serovars of the Leptospira specis L Interrogans IgM Abs\nto Leptospira is present from the third\nof Infection and may persist upto 5 months after infection.\nSCRUB TYPHUS IGM\nNEGATIVE The\nNegative:\n9\n(SERUM\nELISA)\ndetection of scrub\nEquivocal; 9-11\ntyphus IgM, helps to\nPositive:\n11\ndiagnose exposure\nto Orientia\ntsutsugamushi an\ninfectious disease.\nResults should be\ninterpreted in\ncontext to clinical\nsymptoms and other\nlaboratory findings:\nLaboratory reports\nshould not be\ninterpreted in\nisolation. Always\ncorrelate with\nclinical and\nimaging\ndata.\nWIDAL (AGGLUTINATION)\n(SERUM\nAGGLUTINATION)\nS.TYPHI \"0\"\nNEGATIVE 1 in 20 DILUTIONS\nS.TYPHI \"H\"\nNEGATIVE\n1 in 20 DILUTIONS\nS.PARATYPHI \"AH\"\nNEGATIVE\n1 in 20 DILUTIONS\n11/77 , 6th Street; Voltas Colony Nanganallur; Chennai\n600 061 _\nDay",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "NEGATIVE [",
+          "biomarker_normalized": "NEGATIVE [",
+          "value": "7.23",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NEGATIVE [7.23]",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "More than",
+          "biomarker_normalized": "More than",
+          "value": "11",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "More than 11 NTU",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "NEGATIVE [",
+          "biomarker_normalized": "NEGATIVE [",
+          "value": "6.99",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NEGATIVE [6.99]",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "This test detects Abs to about",
+          "biomarker_normalized": "This test detects Abs to about",
+          "value": "250",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "This test detects Abs to about 250 Pathogenic Serovars of the Leptospira specis L Interrogans IgM Abs",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "of Infection and may persist upto",
+          "biomarker_normalized": "of Infection and may persist upto",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "of Infection and may persist upto 5 months after infection.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Equivocal;",
+          "biomarker_normalized": "Equivocal;",
+          "value": "9",
+          "unit": "",
+          "reference_range": "9-11",
+          "source_line": "Equivocal; 9-11",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "S.TYPHI \"",
+          "biomarker_normalized": "S.TYPHI \"",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S.TYPHI \"0\"",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "NEGATIVE",
+          "biomarker_normalized": "NEGATIVE",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NEGATIVE 1 in 20 DILUTIONS",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 97,
+    "ocr_avg_confidence": 0.8943,
+    "parsed_row_count": 8
+  }
+}

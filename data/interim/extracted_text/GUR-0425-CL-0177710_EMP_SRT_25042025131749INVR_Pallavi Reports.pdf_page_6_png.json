@@ -1,0 +1,1260 @@
+{
+  "document_id": "GUR-0425-CL-0177710_EMP_SRT_25042025131749INVR_Pallavi Reports.pdf_page_6",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-CL-0177710_EMP_SRT_25042025131749INVR_Pallavi Reports.pdf_page_6.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "InstaHealth Labs\nInstaHcalth Labs\nFast\nAccurate\nAffordable\nSCO 361, Level-1, Sector 44-D,Chandigah-160047\n+91\n+91\nWWWinstahealthcare.in\nREPORT\nPANCHKULA\nCollected On\n31-Mar-2025 10:30 AM\nReferring Customer\nPANCHKULA\nRegistered On\n18-Apr-2025 02:20 PM\nSample Type\nSerum\nReported On\n18-Apr-2025 04:47 PM\n2\n2\nClient Code\nBGLPJOOS\nReport Status\nFinal Report\n1\nCLINICAL BIOCHEMISTRY\nBIOGENE HEALTH CHECK PROFILE-3\n1\nTest\nIron Profile-I\nIron(Fe)\n58\n50-170\nFerrozine\nUnsaturated iron binding capacity (UIBC)\n232\nugldL\n155 _ 300\nCalculated\nTotal Iron Binding Capacity (TIBC)\n290\n250\n425\nFerene\nTransferrin\n202.8\nmgldL\n250-380\nCalculated\nIron Saturation((% Transferrin Saturation)\n20\n%\n15-50\nCalculated\nInterpretation:\nSerum transferrin (and TIBC) high, serum iron low_\nsaturation low. Usual causes of depleted iron stores include blood loss, inadequate dietary iron. RBCs in moderately severe iron\ndeficiency\nare\nhypochromic and microcytic. Stainable marTow iron is absent: Serum ferritin decrease is the earliest indicator of iron deficiency if inflammation is absent.\nAnemia of chronic disease: Serum transferrin (and TIBC) low to normal ,\nserum iron low _\nsaturation low O normal. Transferrin decreases with many inflammatory diseases. With\nchronic disease there is a block in movement to and utilization of iron by marrow. This leads to low serum iron and decreased erythropoiesis. Examples include acute and chronic\ninfections, malignancy and renal failure _\nSideroblastic Anemia: Serum transferrin (and TIBC) normal to low_\nserum iron normal t0\nhigh, saturation high_\nHemolytic Anemia: Serum transferrin (and TIBC) normal to low_\nserum iron\nhigh _\nsaturation high.\nHemochromatosis: Serum transferrin (and TIBC) slightly low_\nserum iron high, saturation very high\nProtein depletion: Serum transferrin (and TIBC) may be low\nserum iron normal or low (if patient also is iron deficient). This may occur aS a result of malnutrition, liver disease_\nrenal\ndisease\nLiver disease: Serum transferrin variable; with acute viral hepatitis, high along with serum iron and ferritin. With chronic liver disease (eg, cirrhosis) , transferrin may be low. Patients whof\nhave cirrhosis and portacaval shunting have saturated TIBC/transferrin as well as high ferritin .\n***\nEnd Of Report\n*xx\nDr Pratap Patil\nDr. Saumya Gupta\nDr Balraj Raj\nMD (Patholoav)\nMD DNB\nPathologist\nAlumnus PGIMER;\n(M.DMBBS)\nChandigarh\nPowered by:\nBIOGENE LABS\nCENTRALISED LAB:\nugldL\npgldL\npRai",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1085.0,
+            16.0,
+            1609.0,
+            88.0
+          ],
+          "text": "InstaHealth Labs",
+          "confidence": 0.8084
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            67.0,
+            97.0,
+            229.0,
+            117.0
+          ],
+          "text": "InstaHcalth Labs",
+          "confidence": 0.8547
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            96.0,
+            1184.0,
+            128.0
+          ],
+          "text": "Fast",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1234.0,
+            92.0,
+            1372.0,
+            124.0
+          ],
+          "text": "Accurate",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1420.0,
+            90.0,
+            1582.0,
+            126.0
+          ],
+          "text": "Affordable",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            152.0,
+            891.0,
+            193.0
+          ],
+          "text": "SCO 361, Level-1, Sector 44-D,Chandigah-160047",
+          "confidence": 0.9471
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            156.0,
+            964.0,
+            186.0
+          ],
+          "text": "+91",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            156.0,
+            1220.0,
+            188.0
+          ],
+          "text": "+91",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            883.0,
+            197.0,
+            1171.0,
+            233.0
+          ],
+          "text": "WWWinstahealthcare.in",
+          "confidence": 0.927
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            767.0,
+            245.0,
+            889.0,
+            283.0
+          ],
+          "text": "REPORT",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            349.0,
+            390.0,
+            499.0,
+            416.0
+          ],
+          "text": "PANCHKULA",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            388.0,
+            1100.0,
+            418.0
+          ],
+          "text": "Collected On",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            388.0,
+            1510.0,
+            418.0
+          ],
+          "text": "31-Mar-2025 10:30 AM",
+          "confidence": 0.6524
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            425.0,
+            313.0,
+            463.0
+          ],
+          "text": "Referring Customer",
+          "confidence": 0.9433
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            430.0,
+            502.0,
+            458.0
+          ],
+          "text": "PANCHKULA",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            430.0,
+            1120.0,
+            462.0
+          ],
+          "text": "Registered On",
+          "confidence": 0.7462
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            430.0,
+            1506.0,
+            458.0
+          ],
+          "text": "18-Apr-2025 02:20 PM",
+          "confidence": 0.5525
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            472.0,
+            230.0,
+            504.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.92
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            347.0,
+            471.0,
+            432.0,
+            501.0
+          ],
+          "text": "Serum",
+          "confidence": 0.6108
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            472.0,
+            1102.0,
+            504.0
+          ],
+          "text": "Reported On",
+          "confidence": 0.7446
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1222.0,
+            472.0,
+            1508.0,
+            502.0
+          ],
+          "text": "18-Apr-2025 04:47 PM",
+          "confidence": 0.6659
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            7.0,
+            499.0,
+            19.0,
+            525.0
+          ],
+          "text": "2",
+          "confidence": 0.9912
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            5.0,
+            523.0,
+            19.0,
+            553.0
+          ],
+          "text": "2",
+          "confidence": 0.2253
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            514.0,
+            216.0,
+            542.0
+          ],
+          "text": "Client Code",
+          "confidence": 0.8752
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            514.0,
+            476.0,
+            542.0
+          ],
+          "text": "BGLPJOOS",
+          "confidence": 0.9426
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            512.0,
+            1117.0,
+            548.0
+          ],
+          "text": "Report Status",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1221.0,
+            512.0,
+            1377.0,
+            548.0
+          ],
+          "text": "Final Report",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            5.0,
+            551.0,
+            19.0,
+            635.0
+          ],
+          "text": "1",
+          "confidence": 0.1174
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            645.0,
+            567.0,
+            1025.0,
+            603.0
+          ],
+          "text": "CLINICAL BIOCHEMISTRY",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            623.0,
+            1108.0,
+            656.0
+          ],
+          "text": "BIOGENE HEALTH CHECK PROFILE-3",
+          "confidence": 0.9513
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            5.0,
+            633.0,
+            19.0,
+            679.0
+          ],
+          "text": "1",
+          "confidence": 0.3249
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            672.0,
+            134.0,
+            700.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            762.0,
+            255.0,
+            798.0
+          ],
+          "text": "Iron Profile-I",
+          "confidence": 0.6552
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            810.0,
+            168.0,
+            842.0
+          ],
+          "text": "Iron(Fe)",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            812.0,
+            664.0,
+            842.0
+          ],
+          "text": "58",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            810.0,
+            1036.0,
+            838.0
+          ],
+          "text": "50-170",
+          "confidence": 0.988
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            810.0,
+            1380.0,
+            838.0
+          ],
+          "text": "Ferrozine",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            854.0,
+            532.0,
+            886.0
+          ],
+          "text": "Unsaturated iron binding capacity (UIBC)",
+          "confidence": 0.7864
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            854.0,
+            680.0,
+            886.0
+          ],
+          "text": "232",
+          "confidence": 0.9923
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            854.0,
+            858.0,
+            886.0
+          ],
+          "text": "ugldL",
+          "confidence": 0.837
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            852.0,
+            1072.0,
+            882.0
+          ],
+          "text": "155 _ 300",
+          "confidence": 0.9904
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            852.0,
+            1394.0,
+            882.0
+          ],
+          "text": "Calculated",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            892.0,
+            459.0,
+            931.0
+          ],
+          "text": "Total Iron Binding Capacity (TIBC)",
+          "confidence": 0.8855
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            898.0,
+            680.0,
+            928.0
+          ],
+          "text": "290",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            896.0,
+            1002.0,
+            926.0
+          ],
+          "text": "250",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            896.0,
+            1066.0,
+            926.0
+          ],
+          "text": "425",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            896.0,
+            1354.0,
+            924.0
+          ],
+          "text": "Ferene",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            940.0,
+            198.0,
+            966.0
+          ],
+          "text": "Transferrin",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            942.0,
+            702.0,
+            972.0
+          ],
+          "text": "202.8",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            940.0,
+            864.0,
+            972.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.9173
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            940.0,
+            1052.0,
+            968.0
+          ],
+          "text": "250-380",
+          "confidence": 0.8883
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            938.0,
+            1394.0,
+            968.0
+          ],
+          "text": "Calculated",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            982.0,
+            532.0,
+            1014.0
+          ],
+          "text": "Iron Saturation((% Transferrin Saturation)",
+          "confidence": 0.9918
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            984.0,
+            664.0,
+            1016.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            786.0,
+            984.0,
+            816.0,
+            1008.0
+          ],
+          "text": "%",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            982.0,
+            1022.0,
+            1010.0
+          ],
+          "text": "15-50",
+          "confidence": 0.3987
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            982.0,
+            1394.0,
+            1012.0
+          ],
+          "text": "Calculated",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            1034.0,
+            214.0,
+            1060.0
+          ],
+          "text": "Interpretation:",
+          "confidence": 0.8855
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1078.0,
+            544.0,
+            1102.0
+          ],
+          "text": "Serum transferrin (and TIBC) high, serum iron low_",
+          "confidence": 0.8961
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            548.0,
+            1076.0,
+            1526.0,
+            1103.0
+          ],
+          "text": "saturation low. Usual causes of depleted iron stores include blood loss, inadequate dietary iron. RBCs in moderately severe iron",
+          "confidence": 0.7139
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1099.0,
+            232.0,
+            1128.0
+          ],
+          "text": "deficiency",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            233.0,
+            1109.0,
+            259.0,
+            1123.0
+          ],
+          "text": "are",
+          "confidence": 0.7261
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            1099.0,
+            1426.0,
+            1130.0
+          ],
+          "text": "hypochromic and microcytic. Stainable marTow iron is absent: Serum ferritin decrease is the earliest indicator of iron deficiency if inflammation is absent.",
+          "confidence": 0.835
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1128.0,
+            724.0,
+            1152.0
+          ],
+          "text": "Anemia of chronic disease: Serum transferrin (and TIBC) low to normal ,",
+          "confidence": 0.6963
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            727.0,
+            1133.0,
+            847.0,
+            1149.0
+          ],
+          "text": "serum iron low _",
+          "confidence": 0.437
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            852.0,
+            1128.0,
+            1526.0,
+            1154.0
+          ],
+          "text": "saturation low O normal. Transferrin decreases with many inflammatory diseases. With",
+          "confidence": 0.9103
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1154.0,
+            1506.0,
+            1178.0
+          ],
+          "text": "chronic disease there is a block in movement to and utilization of iron by marrow. This leads to low serum iron and decreased erythropoiesis. Examples include acute and chronic",
+          "confidence": 0.6389
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1180.0,
+            450.0,
+            1204.0
+          ],
+          "text": "infections, malignancy and renal failure _",
+          "confidence": 0.9266
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1204.0,
+            682.0,
+            1228.0
+          ],
+          "text": "Sideroblastic Anemia: Serum transferrin (and TIBC) normal to low_",
+          "confidence": 0.8164
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            687.0,
+            1207.0,
+            849.0,
+            1225.0
+          ],
+          "text": "serum iron normal t0",
+          "confidence": 0.5203
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            848.0,
+            1204.0,
+            1012.0,
+            1230.0
+          ],
+          "text": "high, saturation high_",
+          "confidence": 0.5927
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1229.0,
+            658.0,
+            1254.0
+          ],
+          "text": "Hemolytic Anemia: Serum transferrin (and TIBC) normal to low_",
+          "confidence": 0.8088
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            663.0,
+            1235.0,
+            747.0,
+            1251.0
+          ],
+          "text": "serum iron",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            1230.0,
+            788.0,
+            1256.0
+          ],
+          "text": "high _",
+          "confidence": 0.4585
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            1230.0,
+            912.0,
+            1256.0
+          ],
+          "text": "saturation high.",
+          "confidence": 0.8527
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1256.0,
+            636.0,
+            1280.0
+          ],
+          "text": "Hemochromatosis: Serum transferrin (and TIBC) slightly low_",
+          "confidence": 0.7633
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            1256.0,
+            928.0,
+            1282.0
+          ],
+          "text": "serum iron high, saturation very high",
+          "confidence": 0.8563
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1282.0,
+            630.0,
+            1306.0
+          ],
+          "text": "Protein depletion: Serum transferrin (and TIBC) may be low",
+          "confidence": 0.5443
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            634.0,
+            1279.0,
+            1510.0,
+            1306.0
+          ],
+          "text": "serum iron normal or low (if patient also is iron deficient). This may occur aS a result of malnutrition, liver disease_",
+          "confidence": 0.7434
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1515.0,
+            1285.0,
+            1557.0,
+            1303.0
+          ],
+          "text": "renal",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            1309.0,
+            207.0,
+            1327.0
+          ],
+          "text": "disease",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1331.0,
+            1578.0,
+            1358.0
+          ],
+          "text": "Liver disease: Serum transferrin variable; with acute viral hepatitis, high along with serum iron and ferritin. With chronic liver disease (eg, cirrhosis) , transferrin may be low. Patients whof",
+          "confidence": 0.6091
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1354.0,
+            868.0,
+            1384.0
+          ],
+          "text": "have cirrhosis and portacaval shunting have saturated TIBC/transferrin as well as high ferritin .",
+          "confidence": 0.5794
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            637.0,
+            1451.0,
+            685.0,
+            1469.0
+          ],
+          "text": "***",
+          "confidence": 0.6692
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            687.0,
+            1448.0,
+            879.0,
+            1488.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.838
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            879.0,
+            1453.0,
+            927.0,
+            1469.0
+          ],
+          "text": "*xx",
+          "confidence": 0.594
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            305.0,
+            1989.0,
+            487.0,
+            2025.0
+          ],
+          "text": "Dr Pratap Patil",
+          "confidence": 0.9429
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            1985.0,
+            782.0,
+            2018.0
+          ],
+          "text": "Dr. Saumya Gupta",
+          "confidence": 0.577
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1394.0,
+            1986.0,
+            1550.0,
+            2018.0
+          ],
+          "text": "Dr Balraj Raj",
+          "confidence": 0.9405
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            2024.0,
+            496.0,
+            2052.0
+          ],
+          "text": "MD (Patholoav)",
+          "confidence": 0.9237
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            2016.0,
+            666.0,
+            2044.0
+          ],
+          "text": "MD DNB",
+          "confidence": 0.9492
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1393.0,
+            2015.0,
+            1539.0,
+            2051.0
+          ],
+          "text": "Pathologist",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            563.0,
+            2045.0,
+            783.0,
+            2081.0
+          ],
+          "text": "Alumnus PGIMER;",
+          "confidence": 0.748
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1392.0,
+            2048.0,
+            1540.0,
+            2078.0
+          ],
+          "text": "(M.DMBBS)",
+          "confidence": 0.4438
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            566.0,
+            2078.0,
+            710.0,
+            2110.0
+          ],
+          "text": "Chandigarh",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            2250.0,
+            300.0,
+            2276.0
+          ],
+          "text": "Powered by:",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            2277.0,
+            487.0,
+            2321.0
+          ],
+          "text": "BIOGENE LABS",
+          "confidence": 0.9708
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            543.0,
+            2295.0,
+            785.0,
+            2331.0
+          ],
+          "text": "CENTRALISED LAB:",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            785.2802656784306,
+            807.062000688057,
+            859.7197343215694,
+            846.937999311943
+          ],
+          "text": "ugldL",
+          "confidence": 0.8083
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            785.2802656784306,
+            892.0212064577801,
+            859.7197343215694,
+            932.9787935422199
+          ],
+          "text": "pgldL",
+          "confidence": 0.7012
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1396.517182334193,
+            1892.3237379021425,
+            1512.482817665807,
+            1968.6762620978575
+          ],
+          "text": "pRai",
+          "confidence": 0.4057
+        }
+      ]
+    }
+  ],
+  "full_text": "InstaHealth Labs\nInstaHcalth Labs\nFast\nAccurate\nAffordable\nSCO 361, Level-1, Sector 44-D,Chandigah-160047\n+91\n+91\nWWWinstahealthcare.in\nREPORT\nPANCHKULA\nCollected On\n31-Mar-2025 10:30 AM\nReferring Customer\nPANCHKULA\nRegistered On\n18-Apr-2025 02:20 PM\nSample Type\nSerum\nReported On\n18-Apr-2025 04:47 PM\n2\n2\nClient Code\nBGLPJOOS\nReport Status\nFinal Report\n1\nCLINICAL BIOCHEMISTRY\nBIOGENE HEALTH CHECK PROFILE-3\n1\nTest\nIron Profile-I\nIron(Fe)\n58\n50-170\nFerrozine\nUnsaturated iron binding capacity (UIBC)\n232\nugldL\n155 _ 300\nCalculated\nTotal Iron Binding Capacity (TIBC)\n290\n250\n425\nFerene\nTransferrin\n202.8\nmgldL\n250-380\nCalculated\nIron Saturation((% Transferrin Saturation)\n20\n%\n15-50\nCalculated\nInterpretation:\nSerum transferrin (and TIBC) high, serum iron low_\nsaturation low. Usual causes of depleted iron stores include blood loss, inadequate dietary iron. RBCs in moderately severe iron\ndeficiency\nare\nhypochromic and microcytic. Stainable marTow iron is absent: Serum ferritin decrease is the earliest indicator of iron deficiency if inflammation is absent.\nAnemia of chronic disease: Serum transferrin (and TIBC) low to normal ,\nserum iron low _\nsaturation low O normal. Transferrin decreases with many inflammatory diseases. With\nchronic disease there is a block in movement to and utilization of iron by marrow. This leads to low serum iron and decreased erythropoiesis. Examples include acute and chronic\ninfections, malignancy and renal failure _\nSideroblastic Anemia: Serum transferrin (and TIBC) normal to low_\nserum iron normal t0\nhigh, saturation high_\nHemolytic Anemia: Serum transferrin (and TIBC) normal to low_\nserum iron\nhigh _\nsaturation high.\nHemochromatosis: Serum transferrin (and TIBC) slightly low_\nserum iron high, saturation very high\nProtein depletion: Serum transferrin (and TIBC) may be low\nserum iron normal or low (if patient also is iron deficient). This may occur aS a result of malnutrition, liver disease_\nrenal\ndisease\nLiver disease: Serum transferrin variable; with acute viral hepatitis, high along with serum iron and ferritin. With chronic liver disease (eg, cirrhosis) , transferrin may be low. Patients whof\nhave cirrhosis and portacaval shunting have saturated TIBC/transferrin as well as high ferritin .\n***\nEnd Of Report\n*xx\nDr Pratap Patil\nDr. Saumya Gupta\nDr Balraj Raj\nMD (Patholoav)\nMD DNB\nPathologist\nAlumnus PGIMER;\n(M.DMBBS)\nChandigarh\nPowered by:\nBIOGENE LABS\nCENTRALISED LAB:\nugldL\npgldL\npRai",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SCO",
+          "biomarker_normalized": "SCO",
+          "value": "361",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SCO 361, Level-1, Sector 44-D,Chandigah-160047",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BIOGENE HEALTH CHECK PROFILE",
+          "biomarker_normalized": "BIOGENE HEALTH CHECK PROFILE",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BIOGENE HEALTH CHECK PROFILE-3",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 101,
+    "ocr_avg_confidence": 0.8357,
+    "parsed_row_count": 2
+  }
+}

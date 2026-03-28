@@ -1,0 +1,1056 @@
+{
+  "document_id": "GUR-0425-PA-0052271_Q-RAMFEERPANDEY21.04.20250001compressed1_250427_1439@F.pdf_page_42",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0052271_Q-RAMFEERPANDEY21.04.20250001compressed1_250427_1439@F.pdf_page_42.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "@\nSWASTIK HOSPIT\nJhajjar Road, Bahadurgarh\n76 Skitt \"7 #ral\n7ke Spirt 7 Care\nPatient Id\nSrl No.\n157\nDate\nSWASTIK HOSPITAL\n3\nTest\nURINE EXAMNATION TEST\nPHYSICAL EXAMINATION\nQUANTITY\n20\nml:\nCOLOUR\nYELLOW\nTRANSPARENCY\nCLEAR\nSPECIFIC GRAVITY\n1,015\n1.005-1.025\nPH\n6.0\n5.5-6.5\nCHEMICAL EXAMINATION\nALBUMIN\nNIL\nNIL\nREDUCING SUGAR\nNIL\nNIL\nBLOOD\nNIL\nNIL\nKETON\nNIL\nNIL\nNIL\nBILIRUBIN\nNIL\nNIL\nNIL\nNIL\nMICROSCOPIC EXAMINATION\nPUS CELLS\n3-4\nIHPF\n1-2\nRBC'S\nNIL\nIHPF\nNIL\nCASTS\nNIL\nNIL\nCRYSTALS\nNIL\nNIL\nDr: Voge]K)urar Chahar\nMC\nKns\n\"erhoc)\nJbziie\nMKAL\nDr\nENNAIN\n~Uc131\nMB?\nDiCGineti\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nAlI TPA & Insurance\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X- Ray\nComputerised Lab",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            44.0,
+            208.0,
+            168.0
+          ],
+          "text": "@",
+          "confidence": 0.1534
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            265.0,
+            47.0,
+            1231.0,
+            155.0
+          ],
+          "text": "SWASTIK HOSPIT",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            156.0,
+            1058.0,
+            204.0
+          ],
+          "text": "Jhajjar Road, Bahadurgarh",
+          "confidence": 0.9559
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            252.0,
+            272.0,
+            280.0
+          ],
+          "text": "76 Skitt \"7 #ral",
+          "confidence": 0.307
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            284.0,
+            276.0,
+            312.0
+          ],
+          "text": "7ke Spirt 7 Care",
+          "confidence": 0.391
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            446.0,
+            320.0,
+            476.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.8683
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            448.0,
+            774.0,
+            478.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.9556
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            450.0,
+            868.0,
+            478.0
+          ],
+          "text": "157",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            452.0,
+            1118.0,
+            482.0
+          ],
+          "text": "Date",
+          "confidence": 0.7656
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            326.0,
+            523.0,
+            609.0,
+            559.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.7549
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            833.0,
+            449.0,
+            1247.0,
+            633.0
+          ],
+          "text": "3",
+          "confidence": 0.0724
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            612.0,
+            202.0,
+            638.0
+          ],
+          "text": "Test",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            535.0,
+            739.0,
+            1152.0,
+            800.0
+          ],
+          "text": "URINE EXAMNATION TEST",
+          "confidence": 0.7723
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            807.0,
+            555.0,
+            850.0
+          ],
+          "text": "PHYSICAL EXAMINATION",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            864.0,
+            324.0,
+            896.0
+          ],
+          "text": "QUANTITY",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            873.0,
+            785.0,
+            909.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            882.0,
+            986.0,
+            912.0
+          ],
+          "text": "ml:",
+          "confidence": 0.3942
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            916.0,
+            298.0,
+            948.0
+          ],
+          "text": "COLOUR",
+          "confidence": 0.9804
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            929.0,
+            877.0,
+            965.0
+          ],
+          "text": "YELLOW",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            964.0,
+            417.0,
+            1007.0
+          ],
+          "text": "TRANSPARENCY",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            979.0,
+            849.0,
+            1018.0
+          ],
+          "text": "CLEAR",
+          "confidence": 0.9947
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1018.0,
+            449.0,
+            1060.0
+          ],
+          "text": "SPECIFIC GRAVITY",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            1036.0,
+            822.0,
+            1068.0
+          ],
+          "text": "1,015",
+          "confidence": 0.6559
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1197.0,
+            1045.0,
+            1369.0,
+            1085.0
+          ],
+          "text": "1.005-1.025",
+          "confidence": 0.6901
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1074.0,
+            208.0,
+            1104.0
+          ],
+          "text": "PH",
+          "confidence": 0.9746
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1090.0,
+            784.0,
+            1120.0
+          ],
+          "text": "6.0",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            1104.0,
+            1298.0,
+            1136.0
+          ],
+          "text": "5.5-6.5",
+          "confidence": 0.7228
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1127.0,
+            556.0,
+            1179.0
+          ],
+          "text": "CHEMICAL EXAMINATION",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            1184.0,
+            297.0,
+            1224.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            1204.0,
+            788.0,
+            1236.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            1215.0,
+            1250.0,
+            1254.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1234.0,
+            442.0,
+            1282.0
+          ],
+          "text": "REDUCING SUGAR",
+          "confidence": 0.8994
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            731.0,
+            1255.0,
+            788.0,
+            1293.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            1274.0,
+            1246.0,
+            1306.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1290.0,
+            267.0,
+            1327.0
+          ],
+          "text": "BLOOD",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1312.0,
+            784.0,
+            1344.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            1315.0,
+            985.0,
+            1351.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1346.0,
+            262.0,
+            1378.0
+          ],
+          "text": "KETON",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1455.0,
+            1333.0,
+            1511.0,
+            1369.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            1364.0,
+            784.0,
+            1396.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            1367.0,
+            984.0,
+            1405.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1396.0,
+            305.0,
+            1436.0
+          ],
+          "text": "BILIRUBIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1451.0,
+            1385.0,
+            1510.0,
+            1423.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            1418.0,
+            782.0,
+            1450.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            923.0,
+            1421.0,
+            984.0,
+            1460.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1451.0,
+            1439.0,
+            1508.0,
+            1477.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1454.0,
+            612.0,
+            1509.0
+          ],
+          "text": "MICROSCOPIC EXAMINATION",
+          "confidence": 0.8907
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1513.0,
+            319.0,
+            1554.0
+          ],
+          "text": "PUS CELLS",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            721.0,
+            1531.0,
+            778.0,
+            1568.0
+          ],
+          "text": "3-4",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            919.0,
+            1537.0,
+            999.0,
+            1576.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9903
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            1550.0,
+            1234.0,
+            1582.0
+          ],
+          "text": "1-2",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1570.0,
+            240.0,
+            1602.0
+          ],
+          "text": "RBC'S",
+          "confidence": 0.6075
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1588.0,
+            776.0,
+            1620.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            917.0,
+            1591.0,
+            998.0,
+            1630.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1181.0,
+            1601.0,
+            1237.0,
+            1637.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1619.0,
+            251.0,
+            1657.0
+          ],
+          "text": "CASTS",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1642.0,
+            774.0,
+            1672.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            1656.0,
+            1232.0,
+            1688.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1671.0,
+            305.0,
+            1711.0
+          ],
+          "text": "CRYSTALS",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            720.0,
+            1694.0,
+            772.0,
+            1726.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1177.0,
+            1705.0,
+            1234.0,
+            1743.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            559.0,
+            1773.0,
+            946.0,
+            1840.0
+          ],
+          "text": "Dr: Voge]K)urar Chahar",
+          "confidence": 0.1855
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            619.0,
+            1827.0,
+            673.0,
+            1863.0
+          ],
+          "text": "MC",
+          "confidence": 0.5503
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            739.0,
+            1843.0,
+            785.0,
+            1863.0
+          ],
+          "text": "Kns",
+          "confidence": 0.4574
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            795.0,
+            1838.0,
+            938.0,
+            1882.0
+          ],
+          "text": "\"erhoc)",
+          "confidence": 0.0784
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1857.0,
+            208.0,
+            1896.0
+          ],
+          "text": "Jbziie",
+          "confidence": 0.1004
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            697.0,
+            1873.0,
+            805.0,
+            1911.0
+          ],
+          "text": "MKAL",
+          "confidence": 0.1695
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            1844.0,
+            1180.0,
+            1892.0
+          ],
+          "text": "Dr",
+          "confidence": 0.8343
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            1854.0,
+            1425.0,
+            1911.0
+          ],
+          "text": "ENNAIN",
+          "confidence": 0.4416
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            1880.0,
+            936.0,
+            1925.0
+          ],
+          "text": "~Uc131",
+          "confidence": 0.3308
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            1889.0,
+            1196.0,
+            1931.0
+          ],
+          "text": "MB?",
+          "confidence": 0.1345
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1923.0,
+            1319.0,
+            1976.0
+          ],
+          "text": "DiCGineti",
+          "confidence": 0.0301
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            35.0,
+            2025.0,
+            207.0,
+            2066.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.8015
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1267.0,
+            2053.0,
+            1519.0,
+            2090.0
+          ],
+          "text": "3DI4D Ultrasound",
+          "confidence": 0.9693
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            31.0,
+            2069.0,
+            331.0,
+            2111.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.9527
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            375.0,
+            2079.0,
+            1197.0,
+            2139.0
+          ],
+          "text": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7656
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1267.0,
+            2093.0,
+            1471.0,
+            2131.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            30.0,
+            2108.0,
+            287.0,
+            2146.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.5438
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            2131.0,
+            1389.0,
+            2167.0
+          ],
+          "text": "CT-Scan",
+          "confidence": 0.6761
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            32.0,
+            2150.0,
+            246.0,
+            2183.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.8095
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            29.0,
+            2187.0,
+            308.0,
+            2227.0
+          ],
+          "text": "AlI TPA & Insurance",
+          "confidence": 0.5648
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            482.0,
+            2166.0,
+            1086.0,
+            2219.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.7981
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1263.0,
+            2172.0,
+            1452.0,
+            2212.0
+          ],
+          "text": "Digital X- Ray",
+          "confidence": 0.7419
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            2212.0,
+            1529.0,
+            2251.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.9943
+        }
+      ]
+    }
+  ],
+  "full_text": "@\nSWASTIK HOSPIT\nJhajjar Road, Bahadurgarh\n76 Skitt \"7 #ral\n7ke Spirt 7 Care\nPatient Id\nSrl No.\n157\nDate\nSWASTIK HOSPITAL\n3\nTest\nURINE EXAMNATION TEST\nPHYSICAL EXAMINATION\nQUANTITY\n20\nml:\nCOLOUR\nYELLOW\nTRANSPARENCY\nCLEAR\nSPECIFIC GRAVITY\n1,015\n1.005-1.025\nPH\n6.0\n5.5-6.5\nCHEMICAL EXAMINATION\nALBUMIN\nNIL\nNIL\nREDUCING SUGAR\nNIL\nNIL\nBLOOD\nNIL\nNIL\nKETON\nNIL\nNIL\nNIL\nBILIRUBIN\nNIL\nNIL\nNIL\nNIL\nMICROSCOPIC EXAMINATION\nPUS CELLS\n3-4\nIHPF\n1-2\nRBC'S\nNIL\nIHPF\nNIL\nCASTS\nNIL\nNIL\nCRYSTALS\nNIL\nNIL\nDr: Voge]K)urar Chahar\nMC\nKns\n\"erhoc)\nJbziie\nMKAL\nDr\nENNAIN\n~Uc131\nMB?\nDiCGineti\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAll Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nAlI TPA & Insurance\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X- Ray\nComputerised Lab",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "~Uc1",
+          "biomarker_normalized": "~Uc1",
+          "value": "31",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~Uc131",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "All Lab Test; ICU & Ambulance Facility",
+          "biomarker_normalized": "All Lab Test; ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "All Lab Test; ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 84,
+    "ocr_avg_confidence": 0.8057,
+    "parsed_row_count": 2
+  }
+}

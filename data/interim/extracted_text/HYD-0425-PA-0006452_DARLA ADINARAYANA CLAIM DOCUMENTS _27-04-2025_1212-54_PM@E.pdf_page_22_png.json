@@ -1,0 +1,960 @@
+{
+  "document_id": "HYD-0425-PA-0006452_DARLA ADINARAYANA CLAIM DOCUMENTS _27-04-2025_1212-54_PM@E.pdf_page_22",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\HYD-0425-PA-0006452_DARLA ADINARAYANA CLAIM DOCUMENTS _27-04-2025_1212-54_PM@E.pdf_page_22.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PANACEA MERIDIAN\nH\n0\n5\nP\nTA Ls\n0(lr4eu UtohahEotnta|\nRCPURAN\nPatient\nGende E\nCcnsuitant\nDr. SURESH REDDY B\nReferred By\nVldal Heallh Insurance TPA\nPvt Ltd\nLiver FUNCTON TEST (LFT \"\nTest\nBesut\nUoits\nBjological Rul_Ranga\nTOTAL BILIRUBIN\n0,8\nmold_\n0.1\n122\nDIRECT BILIRUBIN\n0.3\nmcyd_\n0 -0.3\n(Dauine\nINDIRELT BILIRUBIN\n0.5\nmgidl\n0 2 - 0,8\nFai'd\nSFRIM SCPT ALTI\n59\nUIL\nUpto 45\nSLRUM SGOT(AST)\n55\nUIL\n0 -31\nSERUM ALKALINE PHOSPHATASE\n402\nUIL\n30 - 115\nSERUMTOTAL PROTEINS\n6,9\nCldl\n4.9 - @\nALAUMIN\n3,5\nSERUM GLOBULIN\n3.4\nm\nGldl\n2.5 < 3 6\nNIGRATIO\n1,0\n12.22\nEnd of Repon\nDr. P Tejaswl Reddy,\nMBBS, MD-Pathology\nQUn\nIC\nYuaks\n150\nMANACE\nNamAKAM\nFcrsn' Ieertt ( me*E\nloPpOSite TOBEERAMGUDA KAMAN PCPURAM\n2411\nMYEAAEAD {AXOAREDDY DiST; Ielongand 502032\nPTiors\n#th",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1229.0,
+            187.0,
+            1594.0,
+            242.0
+          ],
+          "text": "PANACEA MERIDIAN",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            240.0,
+            1272.0,
+            270.0
+          ],
+          "text": "H",
+          "confidence": 0.7211
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1282.0,
+            240.0,
+            1318.0,
+            270.0
+          ],
+          "text": "0",
+          "confidence": 0.9766
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1328.0,
+            238.0,
+            1362.0,
+            270.0
+          ],
+          "text": "5",
+          "confidence": 0.937
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1372.0,
+            236.0,
+            1406.0,
+            268.0
+          ],
+          "text": "P",
+          "confidence": 0.6306
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1435.0,
+            231.0,
+            1593.0,
+            267.0
+          ],
+          "text": "TA Ls",
+          "confidence": 0.4592
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            269.0,
+            1584.0,
+            296.0
+          ],
+          "text": "0(lr4eu UtohahEotnta|",
+          "confidence": 0.0003
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            290.0,
+            1487.0,
+            328.0
+          ],
+          "text": "RCPURAN",
+          "confidence": 0.8878
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            434.0,
+            172.0,
+            466.0
+          ],
+          "text": "Patient",
+          "confidence": 0.3492
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            486.0,
+            178.0,
+            518.0
+          ],
+          "text": "Gende E",
+          "confidence": 0.2213
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            542.0,
+            218.0,
+            574.0
+          ],
+          "text": "Ccnsuitant",
+          "confidence": 0.3744
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            539.0,
+            618.0,
+            572.0
+          ],
+          "text": "Dr. SURESH REDDY B",
+          "confidence": 0.6851
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            527.0,
+            1081.0,
+            565.0
+          ],
+          "text": "Referred By",
+          "confidence": 0.7964
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            528.0,
+            1583.0,
+            566.0
+          ],
+          "text": "Vldal Heallh Insurance TPA",
+          "confidence": 0.4867
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1231.0,
+            563.0,
+            1340.0,
+            599.0
+          ],
+          "text": "Pvt Ltd",
+          "confidence": 0.7949
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            618.0,
+            406.0,
+            648.0
+          ],
+          "text": "Liver FUNCTON TEST (LFT \"",
+          "confidence": 0.2121
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            677.0,
+            177.0,
+            713.0
+          ],
+          "text": "Test",
+          "confidence": 0.9582
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            675.0,
+            843.0,
+            711.0
+          ],
+          "text": "Besut",
+          "confidence": 0.9446
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1069.0,
+            675.0,
+            1145.0,
+            711.0
+          ],
+          "text": "Uoits",
+          "confidence": 0.5724
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1297.0,
+            670.0,
+            1575.0,
+            712.0
+          ],
+          "text": "Bjological Rul_Ranga",
+          "confidence": 0.4962
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            711.0,
+            355.0,
+            749.0
+          ],
+          "text": "TOTAL BILIRUBIN",
+          "confidence": 0.9119
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            716.0,
+            802.0,
+            748.0
+          ],
+          "text": "0,8",
+          "confidence": 0.8493
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            709.0,
+            1158.0,
+            754.0
+          ],
+          "text": "mold_",
+          "confidence": 0.6873
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            712.0,
+            1346.0,
+            744.0
+          ],
+          "text": "0.1",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            712.0,
+            1410.0,
+            744.0
+          ],
+          "text": "122",
+          "confidence": 0.3205
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            760.0,
+            369.0,
+            798.0
+          ],
+          "text": "DIRECT BILIRUBIN",
+          "confidence": 0.8042
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            766.0,
+            802.0,
+            796.0
+          ],
+          "text": "0.3",
+          "confidence": 0.9138
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            758.0,
+            1158.0,
+            802.0
+          ],
+          "text": "mcyd_",
+          "confidence": 0.1306
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1297.0,
+            759.0,
+            1387.0,
+            795.0
+          ],
+          "text": "0 -0.3",
+          "confidence": 0.7231
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            812.0,
+            242.0,
+            838.0
+          ],
+          "text": "(Dauine",
+          "confidence": 0.0843
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            852.0,
+            394.0,
+            884.0
+          ],
+          "text": "INDIRELT BILIRUBIN",
+          "confidence": 0.7585
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            854.0,
+            802.0,
+            886.0
+          ],
+          "text": "0.5",
+          "confidence": 0.6047
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            846.0,
+            1158.0,
+            890.0
+          ],
+          "text": "mgidl",
+          "confidence": 0.2011
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            850.0,
+            1406.0,
+            880.0
+          ],
+          "text": "0 2 - 0,8",
+          "confidence": 0.4832
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            901.0,
+            233.0,
+            921.0
+          ],
+          "text": "Fai'd",
+          "confidence": 0.0274
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            939.0,
+            375.0,
+            975.0
+          ],
+          "text": "SFRIM SCPT ALTI",
+          "confidence": 0.3374
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            944.0,
+            794.0,
+            974.0
+          ],
+          "text": "59",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            940.0,
+            1122.0,
+            972.0
+          ],
+          "text": "UIL",
+          "confidence": 0.4392
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1297.0,
+            937.0,
+            1405.0,
+            975.0
+          ],
+          "text": "Upto 45",
+          "confidence": 0.8813
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            987.0,
+            381.0,
+            1025.0
+          ],
+          "text": "SLRUM SGOT(AST)",
+          "confidence": 0.5496
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            992.0,
+            794.0,
+            1024.0
+          ],
+          "text": "55",
+          "confidence": 0.9403
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            988.0,
+            1120.0,
+            1020.0
+          ],
+          "text": "UIL",
+          "confidence": 0.4747
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            988.0,
+            1376.0,
+            1020.0
+          ],
+          "text": "0 -31",
+          "confidence": 0.9206
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1037.0,
+            579.0,
+            1073.0
+          ],
+          "text": "SERUM ALKALINE PHOSPHATASE",
+          "confidence": 0.8259
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1042.0,
+            808.0,
+            1072.0
+          ],
+          "text": "402",
+          "confidence": 0.7272
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1038.0,
+            1122.0,
+            1070.0
+          ],
+          "text": "UIL",
+          "confidence": 0.7596
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            1036.0,
+            1410.0,
+            1068.0
+          ],
+          "text": "30 - 115",
+          "confidence": 0.257
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1086.0,
+            468.0,
+            1118.0
+          ],
+          "text": "SERUMTOTAL PROTEINS",
+          "confidence": 0.8373
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1090.0,
+            802.0,
+            1120.0
+          ],
+          "text": "6,9",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1086.0,
+            1138.0,
+            1116.0
+          ],
+          "text": "Cldl",
+          "confidence": 0.3483
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            1086.0,
+            1384.0,
+            1114.0
+          ],
+          "text": "4.9 - @",
+          "confidence": 0.427
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1133.0,
+            245.0,
+            1163.0
+          ],
+          "text": "ALAUMIN",
+          "confidence": 0.5214
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1136.0,
+            802.0,
+            1168.0
+          ],
+          "text": "3,5",
+          "confidence": 0.6922
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1179.0,
+            368.0,
+            1212.0
+          ],
+          "text": "SERUM GLOBULIN",
+          "confidence": 0.6761
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1184.0,
+            800.0,
+            1214.0
+          ],
+          "text": "3.4",
+          "confidence": 0.902
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            1104.0,
+            979.0,
+            1227.0
+          ],
+          "text": "m",
+          "confidence": 0.6814
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            1180.0,
+            1138.0,
+            1212.0
+          ],
+          "text": "Gldl",
+          "confidence": 0.3378
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            1180.0,
+            1410.0,
+            1212.0
+          ],
+          "text": "2.5 < 3 6",
+          "confidence": 0.3024
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1228.0,
+            260.0,
+            1260.0
+          ],
+          "text": "NIGRATIO",
+          "confidence": 0.4879
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1232.0,
+            802.0,
+            1262.0
+          ],
+          "text": "1,0",
+          "confidence": 0.7257
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            1230.0,
+            1410.0,
+            1262.0
+          ],
+          "text": "12.22",
+          "confidence": 0.7853
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            1444.0,
+            940.0,
+            1486.0
+          ],
+          "text": "End of Repon",
+          "confidence": 0.6831
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1133.0,
+            1656.0,
+            1411.0,
+            1696.0
+          ],
+          "text": "Dr. P Tejaswl Reddy,",
+          "confidence": 0.5286
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1130.0,
+            1688.0,
+            1419.0,
+            1732.0
+          ],
+          "text": "MBBS, MD-Pathology",
+          "confidence": 0.774
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            2130.0,
+            125.0,
+            2167.0
+          ],
+          "text": "QUn",
+          "confidence": 0.1158
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            2117.0,
+            269.0,
+            2203.0
+          ],
+          "text": "IC",
+          "confidence": 0.6238
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            286.0,
+            2130.0,
+            372.0,
+            2162.0
+          ],
+          "text": "Yuaks",
+          "confidence": 0.0572
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            2150.0,
+            584.0,
+            2182.0
+          ],
+          "text": "150",
+          "confidence": 0.8228
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            51.0,
+            2161.0,
+            187.0,
+            2197.0
+          ],
+          "text": "MANACE",
+          "confidence": 0.3827
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            284.0,
+            2157.0,
+            463.0,
+            2195.0
+          ],
+          "text": "NamAKAM",
+          "confidence": 0.1562
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            2239.0,
+            1548.0,
+            2267.0
+          ],
+          "text": "Fcrsn' Ieertt ( me*E",
+          "confidence": 0.0011
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            2273.0,
+            783.0,
+            2311.0
+          ],
+          "text": "loPpOSite TOBEERAMGUDA KAMAN PCPURAM",
+          "confidence": 0.0842
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            2234.0,
+            1120.0,
+            2339.0
+          ],
+          "text": "2411",
+          "confidence": 0.567
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            2302.0,
+            730.0,
+            2339.0
+          ],
+          "text": "MYEAAEAD {AXOAREDDY DiST; Ielongand 502032",
+          "confidence": 0.0525
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1133.1588936020132,
+            1527.9607057082148,
+            1325.8411063979868,
+            1628.0392942917852
+          ],
+          "text": "PTiors",
+          "confidence": 0.0559
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1175.1280168676399,
+            2237.186753717829,
+            1233.8719831323601,
+            2269.813246282171
+          ],
+          "text": "#th",
+          "confidence": 0.1003
+        }
+      ]
+    }
+  ],
+  "full_text": "PANACEA MERIDIAN\nH\n0\n5\nP\nTA Ls\n0(lr4eu UtohahEotnta|\nRCPURAN\nPatient\nGende E\nCcnsuitant\nDr. SURESH REDDY B\nReferred By\nVldal Heallh Insurance TPA\nPvt Ltd\nLiver FUNCTON TEST (LFT \"\nTest\nBesut\nUoits\nBjological Rul_Ranga\nTOTAL BILIRUBIN\n0,8\nmold_\n0.1\n122\nDIRECT BILIRUBIN\n0.3\nmcyd_\n0 -0.3\n(Dauine\nINDIRELT BILIRUBIN\n0.5\nmgidl\n0 2 - 0,8\nFai'd\nSFRIM SCPT ALTI\n59\nUIL\nUpto 45\nSLRUM SGOT(AST)\n55\nUIL\n0 -31\nSERUM ALKALINE PHOSPHATASE\n402\nUIL\n30 - 115\nSERUMTOTAL PROTEINS\n6,9\nCldl\n4.9 - @\nALAUMIN\n3,5\nSERUM GLOBULIN\n3.4\nm\nGldl\n2.5 < 3 6\nNIGRATIO\n1,0\n12.22\nEnd of Repon\nDr. P Tejaswl Reddy,\nMBBS, MD-Pathology\nQUn\nIC\nYuaks\n150\nMANACE\nNamAKAM\nFcrsn' Ieertt ( me*E\nloPpOSite TOBEERAMGUDA KAMAN PCPURAM\n2411\nMYEAAEAD {AXOAREDDY DiST; Ielongand 502032\nPTiors\n#th",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "45",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 45",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MYEAAEAD {AXOAREDDY DiST; Ielongand",
+          "biomarker_normalized": "MYEAAEAD {AXOAREDDY DiST; Ielongand",
+          "value": "502032",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MYEAAEAD {AXOAREDDY DiST; Ielongand 502032",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 76,
+    "ocr_avg_confidence": 0.5631,
+    "parsed_row_count": 2
+  }
+}

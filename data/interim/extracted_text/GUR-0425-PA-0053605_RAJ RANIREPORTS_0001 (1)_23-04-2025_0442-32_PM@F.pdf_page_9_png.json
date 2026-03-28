@@ -1,0 +1,780 @@
+{
+  "document_id": "GUR-0425-PA-0053605_RAJ RANIREPORTS_0001 (1)_23-04-2025_0442-32_PM@F.pdf_page_9",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053605_RAJ RANIREPORTS_0001 (1)_23-04-2025_0442-32_PM@F.pdf_page_9.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ConFIDENTIAL\n10zs\ngeneOpath\nISO\nOF EXCELLENCE\nHEALTH\nCARE SERVICES\nRegn.No-PASIREGIGGN/200366\nAP Id :-287226\n9001:2015\nFULLY COMPUTERISED LABORATORY\nAN ISO CERTIFIED 9001:2015 LABORATORY\nMRS\nRAJRANI\nSample Collected At:\n26069\nWidal test (slide method)\nWIDAL Test(slide method)\n1.20\n1.40\n1.80\n1.160\n1 320\nSalmonella typhi 0 (TO)\nS almonella typhi H (TH)\nSalmonella paratyphi A,H (AH)\n+\nSalmonella paratyphi B, H (BH)\n+\nNote: 1. Titres 1.80 and ahove of \"0\" antigen & 1.160 and above o/\ntitres are significant Comments:This test measures somatic 0 and]\nTyphoid and Paratyphoid bacilli. The agglutinins usually appear\nthe firsl week O1 Wle\nand increase steadily till third\nfourth week after which the declinel\nIpositive Widal test may\noccur because of typhoid vaccination or previous typhoid infection and in certain autoimmune\ndiseases: Non specific febrile disease may cause this titre to increase (anamnestic reaction). The test\nmay be falsely negative in cases of Enteric fever treated with antibiotics in the early\nrecommended test specially in the first week after infection is Blood Culture\nHlaut\nDrMALIKA MEHTA\nMr DAULATI\nMBBSMD CONSULTANT\nMicrobiolgy\nPATHOLOGIST\nUmang Hospital, Bulding No. 306, Opp Radha Swami Satsang Bhawan.\n+91\nPataudi Road, Gurugram-122004 (Haryana)\nVikas Nagar; Sec-10, Main Basai Road, Near Indian Oil Pump;\n+91\nGurugram\n122001\nPiot No. 713, Near Basal Chowk; Gurugram-122001 (Haryana)\nGreRIENA",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            84.0,
+            1064.0,
+            114.0
+          ],
+          "text": "ConFIDENTIAL",
+          "confidence": 0.6642
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1373.0,
+            111.0,
+            1517.0,
+            175.0
+          ],
+          "text": "10zs",
+          "confidence": 0.5301
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            107.0,
+            777.0,
+            239.0
+          ],
+          "text": "geneOpath",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            832.0,
+            158.0,
+            1051.0,
+            258.0
+          ],
+          "text": "ISO",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            183.0,
+            1490.0,
+            212.0
+          ],
+          "text": "OF EXCELLENCE",
+          "confidence": 0.3876
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            219.0,
+            229.0,
+            395.0,
+            267.0
+          ],
+          "text": "HEALTH",
+          "confidence": 0.9625
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            407.0,
+            221.0,
+            773.0,
+            265.0
+          ],
+          "text": "CARE SERVICES",
+          "confidence": 0.9321
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            233.0,
+            1521.0,
+            275.0
+          ],
+          "text": "Regn.No-PASIREGIGGN/200366",
+          "confidence": 0.6319
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1327.0,
+            264.0,
+            1521.0,
+            301.0
+          ],
+          "text": "AP Id :-287226",
+          "confidence": 0.7497
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            855.0,
+            291.0,
+            1027.0,
+            327.0
+          ],
+          "text": "9001:2015",
+          "confidence": 0.7832
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            296.0,
+            1520.0,
+            326.0
+          ],
+          "text": "FULLY COMPUTERISED LABORATORY",
+          "confidence": 0.8186
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            313.0,
+            767.0,
+            355.0
+          ],
+          "text": "AN ISO CERTIFIED 9001:2015 LABORATORY",
+          "confidence": 0.7219
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            447.0,
+            215.0,
+            483.0
+          ],
+          "text": "MRS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            449.0,
+            379.0,
+            485.0
+          ],
+          "text": "RAJRANI",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            454.0,
+            1031.0,
+            496.0
+          ],
+          "text": "Sample Collected At:",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            575.0,
+            295.0,
+            611.0
+          ],
+          "text": "26069",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            689.0,
+            1053.0,
+            733.0
+          ],
+          "text": "Widal test (slide method)",
+          "confidence": 0.8307
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            737.0,
+            477.0,
+            781.0
+          ],
+          "text": "WIDAL Test(slide method)",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            593.0,
+            875.0,
+            665.0,
+            911.0
+          ],
+          "text": "1.20",
+          "confidence": 0.9803
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            727.0,
+            875.0,
+            799.0,
+            911.0
+          ],
+          "text": "1.40",
+          "confidence": 0.9926
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            877.0,
+            877.0,
+            951.0,
+            913.0
+          ],
+          "text": "1.80",
+          "confidence": 0.9726
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            882.0,
+            1120.0,
+            914.0
+          ],
+          "text": "1.160",
+          "confidence": 0.9821
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            884.0,
+            1272.0,
+            916.0
+          ],
+          "text": "1 320",
+          "confidence": 0.719
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            918.0,
+            468.0,
+            969.0
+          ],
+          "text": "Salmonella typhi 0 (TO)",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            973.0,
+            478.0,
+            1023.0
+          ],
+          "text": "S almonella typhi H (TH)",
+          "confidence": 0.8824
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            1027.0,
+            576.0,
+            1077.0
+          ],
+          "text": "Salmonella paratyphi A,H (AH)",
+          "confidence": 0.9399
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            1040.0,
+            614.0,
+            1066.0
+          ],
+          "text": "+",
+          "confidence": 0.9937
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            107.0,
+            1079.0,
+            572.0,
+            1128.0
+          ],
+          "text": "Salmonella paratyphi B, H (BH)",
+          "confidence": 0.9387
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            1094.0,
+            614.0,
+            1118.0
+          ],
+          "text": "+",
+          "confidence": 0.8882
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            1141.0,
+            1076.0,
+            1196.0
+          ],
+          "text": "Note: 1. Titres 1.80 and ahove of \"0\" antigen & 1.160 and above o/",
+          "confidence": 0.4636
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1179.0,
+            1082.0,
+            1230.0
+          ],
+          "text": "titres are significant Comments:This test measures somatic 0 and]",
+          "confidence": 0.6695
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            1221.0,
+            1028.0,
+            1274.0
+          ],
+          "text": "Typhoid and Paratyphoid bacilli. The agglutinins usually appear",
+          "confidence": 0.6686
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1223.0,
+            1233.0,
+            1529.0,
+            1272.0
+          ],
+          "text": "the firsl week O1 Wle",
+          "confidence": 0.2639
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            1256.0,
+            530.0,
+            1306.0
+          ],
+          "text": "and increase steadily till third",
+          "confidence": 0.9888
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            1264.0,
+            1079.0,
+            1309.0
+          ],
+          "text": "fourth week after which the declinel",
+          "confidence": 0.7349
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1209.0,
+            1269.0,
+            1564.0,
+            1318.0
+          ],
+          "text": "Ipositive Widal test may",
+          "confidence": 0.8329
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            1300.0,
+            1482.0,
+            1353.0
+          ],
+          "text": "occur because of typhoid vaccination or previous typhoid infection and in certain autoimmune",
+          "confidence": 0.7408
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            1338.0,
+            1596.0,
+            1394.0
+          ],
+          "text": "diseases: Non specific febrile disease may cause this titre to increase (anamnestic reaction). The test",
+          "confidence": 0.7743
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            1378.0,
+            1324.0,
+            1434.0
+          ],
+          "text": "may be falsely negative in cases of Enteric fever treated with antibiotics in the early",
+          "confidence": 0.8684
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1420.0,
+            1216.0,
+            1468.0
+          ],
+          "text": "recommended test specially in the first week after infection is Blood Culture",
+          "confidence": 0.9122
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1925.0,
+            243.0,
+            1967.0
+          ],
+          "text": "Hlaut",
+          "confidence": 0.1201
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            2016.0,
+            385.0,
+            2056.0
+          ],
+          "text": "DrMALIKA MEHTA",
+          "confidence": 0.9153
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            2025.0,
+            1393.0,
+            2063.0
+          ],
+          "text": "Mr DAULATI",
+          "confidence": 0.6339
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            2055.0,
+            412.0,
+            2086.0
+          ],
+          "text": "MBBSMD CONSULTANT",
+          "confidence": 0.9944
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1275.0,
+            2058.0,
+            1432.0,
+            2102.0
+          ],
+          "text": "Microbiolgy",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            2088.0,
+            282.0,
+            2118.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            2121.0,
+            1059.0,
+            2165.0
+          ],
+          "text": "Umang Hospital, Bulding No. 306, Opp Radha Swami Satsang Bhawan.",
+          "confidence": 0.5053
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            2146.0,
+            1310.0,
+            2178.0
+          ],
+          "text": "+91",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            2158.0,
+            711.0,
+            2198.0
+          ],
+          "text": "Pataudi Road, Gurugram-122004 (Haryana)",
+          "confidence": 0.8926
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            2189.0,
+            937.0,
+            2234.0
+          ],
+          "text": "Vikas Nagar; Sec-10, Main Basai Road, Near Indian Oil Pump;",
+          "confidence": 0.7267
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            2182.0,
+            1312.0,
+            2214.0
+          ],
+          "text": "+91",
+          "confidence": 0.9501
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            2230.0,
+            295.0,
+            2268.0
+          ],
+          "text": "Gurugram",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            2228.0,
+            410.0,
+            2260.0
+          ],
+          "text": "122001",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            2253.0,
+            943.0,
+            2297.0
+          ],
+          "text": "Piot No. 713, Near Basal Chowk; Gurugram-122001 (Haryana)",
+          "confidence": 0.7949
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1355.3700465834029,
+            69.71228468177213,
+            1470.6299534165971,
+            127.28771531822787
+          ],
+          "text": "GreRIENA",
+          "confidence": 0.054
+        }
+      ]
+    }
+  ],
+  "full_text": "ConFIDENTIAL\n10zs\ngeneOpath\nISO\nOF EXCELLENCE\nHEALTH\nCARE SERVICES\nRegn.No-PASIREGIGGN/200366\nAP Id :-287226\n9001:2015\nFULLY COMPUTERISED LABORATORY\nAN ISO CERTIFIED 9001:2015 LABORATORY\nMRS\nRAJRANI\nSample Collected At:\n26069\nWidal test (slide method)\nWIDAL Test(slide method)\n1.20\n1.40\n1.80\n1.160\n1 320\nSalmonella typhi 0 (TO)\nS almonella typhi H (TH)\nSalmonella paratyphi A,H (AH)\n+\nSalmonella paratyphi B, H (BH)\n+\nNote: 1. Titres 1.80 and ahove of \"0\" antigen & 1.160 and above o/\ntitres are significant Comments:This test measures somatic 0 and]\nTyphoid and Paratyphoid bacilli. The agglutinins usually appear\nthe firsl week O1 Wle\nand increase steadily till third\nfourth week after which the declinel\nIpositive Widal test may\noccur because of typhoid vaccination or previous typhoid infection and in certain autoimmune\ndiseases: Non specific febrile disease may cause this titre to increase (anamnestic reaction). The test\nmay be falsely negative in cases of Enteric fever treated with antibiotics in the early\nrecommended test specially in the first week after infection is Blood Culture\nHlaut\nDrMALIKA MEHTA\nMr DAULATI\nMBBSMD CONSULTANT\nMicrobiolgy\nPATHOLOGIST\nUmang Hospital, Bulding No. 306, Opp Radha Swami Satsang Bhawan.\n+91\nPataudi Road, Gurugram-122004 (Haryana)\nVikas Nagar; Sec-10, Main Basai Road, Near Indian Oil Pump;\n+91\nGurugram\n122001\nPiot No. 713, Near Basal Chowk; Gurugram-122001 (Haryana)\nGreRIENA",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Regn.No-PASIREGIGGN/",
+          "biomarker_normalized": "Regn.No-PASIREGIGGN/",
+          "value": "200366",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regn.No-PASIREGIGGN/200366",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AP Id",
+          "biomarker_normalized": "AP Id",
+          "value": "-287226",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AP Id :-287226",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "AN ISO CERTIFIED",
+          "biomarker_normalized": "AN ISO CERTIFIED",
+          "value": "9001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AN ISO CERTIFIED 9001:2015 LABORATORY",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Salmonella typhi",
+          "biomarker_normalized": "Salmonella typhi",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Salmonella typhi 0 (TO)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Note",
+          "biomarker_normalized": "Note",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Note: 1. Titres 1.80 and ahove of \"0\" antigen & 1.160 and above o/",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "titres are significant Comments:This test measures somatic",
+          "biomarker_normalized": "titres are significant Comments:This test measures somatic",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "titres are significant Comments:This test measures somatic 0 and]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Umang Hospital, Bulding No.",
+          "biomarker_normalized": "Umang Hospital, Bulding No.",
+          "value": "306",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Umang Hospital, Bulding No. 306, Opp Radha Swami Satsang Bhawan.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Pataudi Road, Gurugram",
+          "biomarker_normalized": "Pataudi Road, Gurugram",
+          "value": "122004",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Pataudi Road, Gurugram-122004 (Haryana)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Vikas Nagar; Sec",
+          "biomarker_normalized": "Vikas Nagar; Sec",
+          "value": "10",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Vikas Nagar; Sec-10, Main Basai Road, Near Indian Oil Pump;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Piot No.",
+          "biomarker_normalized": "Piot No.",
+          "value": "713",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Piot No. 713, Near Basal Chowk; Gurugram-122001 (Haryana)",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 55,
+    "ocr_avg_confidence": 0.8142,
+    "parsed_row_count": 10
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "document_id": "GUR-0425-PA-0048851_Q-FINAL0001_250422_1251@F.pdf_page_50",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0048851_Q-FINAL0001_250422_1251@F.pdf_page_50.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ADVANTA SUPER SPECIALITY HOSPITAL\nABvANta\nSilani  Gate, Jhajjar (Haryana)\nPh:: 01251-252128,\nDate\nSrl No.\n10\nPatient Id\nDr: MRINAL VERMA\nNo.\n14828\n12326\nTest\nBIOCHEMSTRY\nProCalcitonin\n0.5\nnglmL\n<0.5 nglmL\nComment:\nProcalcitonin, the prohormone %f calcitonin is below limit of detection (0.25 ng/ml) in healthy individuals. It rises in\nresponse to an inflammatory stimulus especially of bacterial origin. It does not rise significantly with viral or non\ninfectious inflammations_\nProcalcitonin level\nInferences\n0.25 nglmL\nMinor local bacterial infection is possible. Severe systemic Infection\n(sepsis) is not likely\n0.25\n<2\nnglmL\nSystemic infection is possible, but various conditions are known to\ninduce PCT as well (see below): Suggest repeat after 6-24 hours for a\ndefinitive diagnosis\n2.0\n<10 nglmL\nSystemic infection (sepsis) is likely, unless other causes are known\n>10 nglmL\nImportant systemic inflammatory response, almost exclusively due to\nsevere bacterial sepsis or septic shock\nPCT levels can be elevated in non infectious causes like:\nThe first days after a major trauma, major surgical intervention, burns, treatment with OKT3 antibodies and other\ndrugs stimulating the\nrelease of pro-inflammatory cytokines,small cell lung cancer, medullary C-cell carcinoma of thyroid.\n\"Patients with prolonged or severe cardiogenic shock; prolonged severe organ perfusion anomalies\nNeonates\n48 hrs of life\n\"Fatients with PCT values <2 ngIml should be closely monitored both clinically and by reassessing PCT within 6-24\nhrs.\n+*tt\nEnd Of Report\n##t+\nDR:\nNo.\nALZA\nBNNGLA\nMES,\nMD\nConsuBit\n(PATH)\nFathologist\nRegd .\nDMc-17916",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            273.0,
+            71.0,
+            1389.0,
+            143.0
+          ],
+          "text": "ADVANTA SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.8728
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            173.0,
+            241.0,
+            213.0
+          ],
+          "text": "ABvANta",
+          "confidence": 0.0583
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            155.0,
+            1030.0,
+            203.0
+          ],
+          "text": "Silani  Gate, Jhajjar (Haryana)",
+          "confidence": 0.6995
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            547.0,
+            191.0,
+            819.0,
+            231.0
+          ],
+          "text": "Ph:: 01251-252128,",
+          "confidence": 0.6987
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            332.0,
+            240.0,
+            362.0
+          ],
+          "text": "Date",
+          "confidence": 0.7865
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            338.0,
+            884.0,
+            368.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.879
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            340.0,
+            936.0,
+            370.0
+          ],
+          "text": "10",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1149.0,
+            341.0,
+            1287.0,
+            383.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9092
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            412.0,
+            578.0,
+            444.0
+          ],
+          "text": "Dr: MRINAL VERMA",
+          "confidence": 0.9295
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            864.0,
+            416.0,
+            917.0,
+            448.0
+          ],
+          "text": "No.",
+          "confidence": 0.5429
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            928.0,
+            420.0,
+            1014.0,
+            450.0
+          ],
+          "text": "14828",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            424.0,
+            1376.0,
+            456.0
+          ],
+          "text": "12326",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            488.0,
+            188.0,
+            516.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            671.0,
+            589.0,
+            976.0,
+            640.0
+          ],
+          "text": "BIOCHEMSTRY",
+          "confidence": 0.8068
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            650.0,
+            322.0,
+            682.0
+          ],
+          "text": "ProCalcitonin",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            658.0,
+            774.0,
+            688.0
+          ],
+          "text": "0.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            661.0,
+            1011.0,
+            697.0
+          ],
+          "text": "nglmL",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1187.0,
+            663.0,
+            1335.0,
+            701.0
+          ],
+          "text": "<0.5 nglmL",
+          "confidence": 0.9285
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            722.0,
+            311.0,
+            762.0
+          ],
+          "text": "Comment:",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            752.0,
+            1539.0,
+            812.0
+          ],
+          "text": "Procalcitonin, the prohormone %f calcitonin is below limit of detection (0.25 ng/ml) in healthy individuals. It rises in",
+          "confidence": 0.4504
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            786.0,
+            1506.0,
+            840.0
+          ],
+          "text": "response to an inflammatory stimulus especially of bacterial origin. It does not rise significantly with viral or non",
+          "confidence": 0.41
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            820.0,
+            452.0,
+            853.0
+          ],
+          "text": "infectious inflammations_",
+          "confidence": 0.7858
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            852.0,
+            400.0,
+            884.0
+          ],
+          "text": "Procalcitonin level",
+          "confidence": 0.7893
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            853.0,
+            769.0,
+            891.0
+          ],
+          "text": "Inferences",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            881.0,
+            319.0,
+            919.0
+          ],
+          "text": "0.25 nglmL",
+          "confidence": 0.9147
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            884.0,
+            1454.0,
+            935.0
+          ],
+          "text": "Minor local bacterial infection is possible. Severe systemic Infection",
+          "confidence": 0.9603
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            915.0,
+            871.0,
+            957.0
+          ],
+          "text": "(sepsis) is not likely",
+          "confidence": 0.8121
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            942.0,
+            212.0,
+            974.0
+          ],
+          "text": "0.25",
+          "confidence": 0.7505
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            944.0,
+            272.0,
+            972.0
+          ],
+          "text": "<2",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            271.0,
+            943.0,
+            359.0,
+            981.0
+          ],
+          "text": "nglmL",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            623.0,
+            947.0,
+            1437.0,
+            991.0
+          ],
+          "text": "Systemic infection is possible, but various conditions are known to",
+          "confidence": 0.7157
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            619.0,
+            976.0,
+            1484.0,
+            1025.0
+          ],
+          "text": "induce PCT as well (see below): Suggest repeat after 6-24 hours for a",
+          "confidence": 0.8328
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            1009.0,
+            863.0,
+            1048.0
+          ],
+          "text": "definitive diagnosis",
+          "confidence": 0.8736
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1034.0,
+            194.0,
+            1062.0
+          ],
+          "text": "2.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1033.0,
+            349.0,
+            1073.0
+          ],
+          "text": "<10 nglmL",
+          "confidence": 0.9652
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            623.0,
+            1039.0,
+            1449.0,
+            1083.0
+          ],
+          "text": "Systemic infection (sepsis) is likely, unless other causes are known",
+          "confidence": 0.7216
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1065.0,
+            287.0,
+            1101.0
+          ],
+          "text": ">10 nglmL",
+          "confidence": 0.8003
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            619.0,
+            1067.0,
+            1470.0,
+            1118.0
+          ],
+          "text": "Important systemic inflammatory response, almost exclusively due to",
+          "confidence": 0.8531
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            1103.0,
+            1105.0,
+            1142.0
+          ],
+          "text": "severe bacterial sepsis or septic shock",
+          "confidence": 0.9016
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1155.0,
+            849.0,
+            1197.0
+          ],
+          "text": "PCT levels can be elevated in non infectious causes like:",
+          "confidence": 0.8106
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1186.0,
+            1538.0,
+            1238.0
+          ],
+          "text": "The first days after a major trauma, major surgical intervention, burns, treatment with OKT3 antibodies and other",
+          "confidence": 0.7715
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1213.0,
+            407.0,
+            1257.0
+          ],
+          "text": "drugs stimulating the",
+          "confidence": 0.9392
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1246.0,
+            1364.0,
+            1303.0
+          ],
+          "text": "release of pro-inflammatory cytokines,small cell lung cancer, medullary C-cell carcinoma of thyroid.",
+          "confidence": 0.6831
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1278.0,
+            1364.0,
+            1330.0
+          ],
+          "text": "\"Patients with prolonged or severe cardiogenic shock; prolonged severe organ perfusion anomalies",
+          "confidence": 0.5918
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            1312.0,
+            288.0,
+            1342.0
+          ],
+          "text": "Neonates",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            1312.0,
+            470.0,
+            1344.0
+          ],
+          "text": "48 hrs of life",
+          "confidence": 0.8025
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1336.0,
+            1553.0,
+            1397.0
+          ],
+          "text": "\"Fatients with PCT values <2 ngIml should be closely monitored both clinically and by reassessing PCT within 6-24",
+          "confidence": 0.5872
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1374.0,
+            196.0,
+            1402.0
+          ],
+          "text": "hrs.",
+          "confidence": 0.9396
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            659.0,
+            1569.0,
+            705.0,
+            1585.0
+          ],
+          "text": "+*tt",
+          "confidence": 0.1561
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            707.0,
+            1567.0,
+            905.0,
+            1608.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.6347
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            1573.0,
+            951.0,
+            1589.0
+          ],
+          "text": "##t+",
+          "confidence": 0.2063
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1067.0,
+            1711.0,
+            1131.0,
+            1749.0
+          ],
+          "text": "DR:",
+          "confidence": 0.5585
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1131.0,
+            1819.0,
+            1179.0,
+            1855.0
+          ],
+          "text": "No.",
+          "confidence": 0.8843
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1134.079207920792,
+            1716.095251759264,
+            1240.920792079208,
+            1768.904748240736
+          ],
+          "text": "ALZA",
+          "confidence": 0.7902
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1229.0364595425247,
+            1727.0806504495004,
+            1378.9635404574753,
+            1791.9193495504996
+          ],
+          "text": "BNNGLA",
+          "confidence": 0.5455
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1105.0577006100903,
+            1749.1087751412585,
+            1211.9422993899097,
+            1798.8912248587415
+          ],
+          "text": "MES,",
+          "confidence": 0.4791
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1208.1849706495486,
+            1767.1219034952862,
+            1270.8150293504514,
+            1806.8780965047138
+          ],
+          "text": "MD",
+          "confidence": 0.1646
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1042.0009370607756,
+            1772.0605878236588,
+            1207.9990629392244,
+            1826.9394121763412
+          ],
+          "text": "ConsuBit",
+          "confidence": 0.2111
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1263.0544243046713,
+            1773.1039678918432,
+            1372.9455756953287,
+            1823.8960321081568
+          ],
+          "text": "(PATH)",
+          "confidence": 0.6794
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1199.0018577175229,
+            1794.0581595370227,
+            1370.9981422824771,
+            1859.9418404629773
+          ],
+          "text": "Fathologist",
+          "confidence": 0.4863
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1042.1220661695313,
+            1805.1087751412585,
+            1136.8779338304687,
+            1854.8912248587415
+          ],
+          "text": "Regd .",
+          "confidence": 0.558
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1180.0015950108696,
+            1824.0668719800622,
+            1364.9984049891304,
+            1885.9331280199378
+          ],
+          "text": "DMc-17916",
+          "confidence": 0.3044
+        }
+      ]
+    }
+  ],
+  "full_text": "ADVANTA SUPER SPECIALITY HOSPITAL\nABvANta\nSilani  Gate, Jhajjar (Haryana)\nPh:: 01251-252128,\nDate\nSrl No.\n10\nPatient Id\nDr: MRINAL VERMA\nNo.\n14828\n12326\nTest\nBIOCHEMSTRY\nProCalcitonin\n0.5\nnglmL\n<0.5 nglmL\nComment:\nProcalcitonin, the prohormone %f calcitonin is below limit of detection (0.25 ng/ml) in healthy individuals. It rises in\nresponse to an inflammatory stimulus especially of bacterial origin. It does not rise significantly with viral or non\ninfectious inflammations_\nProcalcitonin level\nInferences\n0.25 nglmL\nMinor local bacterial infection is possible. Severe systemic Infection\n(sepsis) is not likely\n0.25\n<2\nnglmL\nSystemic infection is possible, but various conditions are known to\ninduce PCT as well (see below): Suggest repeat after 6-24 hours for a\ndefinitive diagnosis\n2.0\n<10 nglmL\nSystemic infection (sepsis) is likely, unless other causes are known\n>10 nglmL\nImportant systemic inflammatory response, almost exclusively due to\nsevere bacterial sepsis or septic shock\nPCT levels can be elevated in non infectious causes like:\nThe first days after a major trauma, major surgical intervention, burns, treatment with OKT3 antibodies and other\ndrugs stimulating the\nrelease of pro-inflammatory cytokines,small cell lung cancer, medullary C-cell carcinoma of thyroid.\n\"Patients with prolonged or severe cardiogenic shock; prolonged severe organ perfusion anomalies\nNeonates\n48 hrs of life\n\"Fatients with PCT values <2 ngIml should be closely monitored both clinically and by reassessing PCT within 6-24\nhrs.\n+*tt\nEnd Of Report\n##t+\nDR:\nNo.\nALZA\nBNNGLA\nMES,\nMD\nConsuBit\n(PATH)\nFathologist\nRegd .\nDMc-17916",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Ph",
+          "biomarker_normalized": "Ph",
+          "value": "01251",
+          "unit": "",
+          "reference_range": "01251-252128",
+          "source_line": "Ph:: 01251-252128,",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "Procalcitonin, the prohormone %f calcitonin is below limit of detection (",
+          "biomarker_normalized": "Procalcitonin, the prohormone %f calcitonin is below limit of detection (",
+          "value": "0.25",
+          "unit": "ng/ml",
+          "reference_range": "",
+          "source_line": "Procalcitonin, the prohormone %f calcitonin is below limit of detection (0.25 ng/ml) in healthy individuals. It rises in",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "induce PCT as well (see below): Suggest repeat after",
+          "biomarker_normalized": "induce PCT as well (see below): Suggest repeat after",
+          "value": "6",
+          "unit": "",
+          "reference_range": "6-24",
+          "source_line": "induce PCT as well (see below): Suggest repeat after 6-24 hours for a",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "\"Fatients with PCT values <",
+          "biomarker_normalized": "\"Fatients with PCT values <",
+          "value": "2",
+          "unit": "",
+          "reference_range": "6-24",
+          "source_line": "\"Fatients with PCT values <2 ngIml should be closely monitored both clinically and by reassessing PCT within 6-24",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "DMc",
+          "biomarker_normalized": "DMc",
+          "value": "17916",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMc-17916",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 62,
+    "ocr_avg_confidence": 0.7487,
+    "parsed_row_count": 5
+  }
+}

@@ -1,0 +1,1416 @@
+{
+  "document_id": "KOL-0425-PA-0004068_E-1745819838697ANKURSAXENAFINALBILLconverted_250428_1144@E.pdf_page_16",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\KOL-0425-PA-0004068_E-1745819838697ANKURSAXENAFINALBILLconverted_250428_1144@E.pdf_page_16.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "K5\nKD Hospital\n634 elzecld elIea\nDEPARTMENT OF BIOCHEMISTRY\nPatient\nAdmn\n202559913\nBy\nDr ARCHANA\nJADEJA MD Medicine\nBill Date\n25-Apr-25\n11.26 am\nReport Date\n25-Apr-25\n12.18 pm\nCollection Date\n11.26.07\nReceived Date\n12:16.58\nLIVER FUNCTION TEST WITH PROTEINS\nParameter\nSpecimen\nResults\nBiological Reference\nMethod\nIntervals\nTotal Bilirubin\nSerum\n0.955\n0 - 1.4\nmg/dL\nDiazo Method\nDirect Bilirubin\n0.311\n<=\n0,30\nmg/dl\nDiazo end point\nIndirect Bilirubin\n0,644\n0.0\n0.8\nCalculation\nAlkaline Phosphatase\n65.0\n40\n129 U/L\n4-PNPP/Amp kinetic\nSGPT /ALT\n57.0\n5.0\n41,0\nU/L\nIFCC without PSP\nSGOT/AST\n56.0\n5.0\n40.0 U/L\nIFCC without PSP\nGamma GT\n60.0\n8\n6 [\nU/L\nIFCC method, Kinetic\nTotal Protein\n6,8\n6.4\n8,3 gm/dl\nBiuret\nAlbumin\n4.5\n3.5\n5.0 gm/dl\nBCP Dye Binding\nGlobulin\n2.3\n2.0\n3.5 gm/dl\nCalculation\nA/G Ratio\n1.957\n0.9\n2.1\nNOTE:\n'. ..J: #n.)\nTt*\nEnd Of Report ***\nSuggested Clinical Correlation\nIf neccessary, Please\ndiscuss\nVerified By\n1746\nIhireiLobrerpital\nMeVaishnodeui Crrcle;\nTest results related only to the item tested,\ns. G. Highway; Ahmedabad\n382421\nNo part of the report can be reproduced without written\nMC-3264\nDr, MASUM BHAVSAR, MBBS; MD\nA Unit of: permission of the laboratory.\nShri Harihar Maharaj\nCONSULPATHQAAFUz8 f677 0000\nCharitable Trust\nWlulkdhosnitolcoin\nPrinted By\n2672\nPrinted On\n25-Apr-2025 11.16:04 PM\nSystem\nNo\nmg/dl",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            56.0,
+            1568.0,
+            232.0
+          ],
+          "text": "K5",
+          "confidence": 0.4749
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1254.0,
+            241.0,
+            1571.0,
+            318.0
+          ],
+          "text": "KD Hospital",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            312.0,
+            1568.0,
+            362.0
+          ],
+          "text": "634 elzecld elIea",
+          "confidence": 0.1378
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            576.0,
+            338.0,
+            1207.0,
+            378.0
+          ],
+          "text": "DEPARTMENT OF BIOCHEMISTRY",
+          "confidence": 0.794
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            195.0,
+            410.0,
+            300.0,
+            440.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            464.0,
+            280.0,
+            492.0
+          ],
+          "text": "Admn",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            466.0,
+            854.0,
+            496.0
+          ],
+          "text": "202559913",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            470.0,
+            1038.0,
+            498.0
+          ],
+          "text": "By",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1142.0,
+            468.0,
+            1292.0,
+            494.0
+          ],
+          "text": "Dr ARCHANA",
+          "confidence": 0.8573
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1301.0,
+            467.0,
+            1540.0,
+            499.0
+          ],
+          "text": "JADEJA MD Medicine",
+          "confidence": 0.9789
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            514.0,
+            319.0,
+            546.0
+          ],
+          "text": "Bill Date",
+          "confidence": 0.7003
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            518.0,
+            614.0,
+            550.0
+          ],
+          "text": "25-Apr-25",
+          "confidence": 0.8833
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            518.0,
+            750.0,
+            548.0
+          ],
+          "text": "11.26 am",
+          "confidence": 0.9909
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            868.0,
+            520.0,
+            1040.0,
+            550.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.6575
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            520.0,
+            1278.0,
+            550.0
+          ],
+          "text": "25-Apr-25",
+          "confidence": 0.9261
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            520.0,
+            1418.0,
+            552.0
+          ],
+          "text": "12.18 pm",
+          "confidence": 0.9468
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            557.0,
+            414.0,
+            588.0
+          ],
+          "text": "Collection Date",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            560.0,
+            766.0,
+            588.0
+          ],
+          "text": "11.26.07",
+          "confidence": 0.9729
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            866.0,
+            566.0,
+            1070.0,
+            594.0
+          ],
+          "text": "Received Date",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1314.0,
+            568.0,
+            1438.0,
+            598.0
+          ],
+          "text": "12:16.58",
+          "confidence": 0.6197
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            702.0,
+            888.0,
+            743.0
+          ],
+          "text": "LIVER FUNCTION TEST WITH PROTEINS",
+          "confidence": 0.9633
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            748.0,
+            345.0,
+            785.0
+          ],
+          "text": "Parameter",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            570.0,
+            754.0,
+            714.0,
+            786.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9894
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            756.0,
+            884.0,
+            788.0
+          ],
+          "text": "Results",
+          "confidence": 0.9674
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1051.0,
+            756.0,
+            1349.0,
+            794.0
+          ],
+          "text": "Biological Reference",
+          "confidence": 0.8069
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            755.0,
+            1479.0,
+            793.0
+          ],
+          "text": "Method",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1049.0,
+            791.0,
+            1191.0,
+            827.0
+          ],
+          "text": "Intervals",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            822.0,
+            370.0,
+            850.0
+          ],
+          "text": "Total Bilirubin",
+          "confidence": 0.7837
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            570.0,
+            826.0,
+            650.0,
+            852.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            826.0,
+            844.0,
+            856.0
+          ],
+          "text": "0.955",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1048.0,
+            826.0,
+            1131.0,
+            857.0
+          ],
+          "text": "0 - 1.4",
+          "confidence": 0.9091
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            830.0,
+            1222.0,
+            860.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9726
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            828.0,
+            1524.0,
+            861.0
+          ],
+          "text": "Diazo Method",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            862.0,
+            382.0,
+            893.0
+          ],
+          "text": "Direct Bilirubin",
+          "confidence": 0.8881
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            868.0,
+            842.0,
+            896.0
+          ],
+          "text": "0.311",
+          "confidence": 0.9226
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1051.0,
+            875.0,
+            1087.0,
+            893.0
+          ],
+          "text": "<=",
+          "confidence": 0.8854
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            870.0,
+            1148.0,
+            898.0
+          ],
+          "text": "0,30",
+          "confidence": 0.9912
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1158.0,
+            872.0,
+            1234.0,
+            904.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            872.0,
+            1550.0,
+            902.0
+          ],
+          "text": "Diazo end point",
+          "confidence": 0.6316
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            904.0,
+            406.0,
+            935.0
+          ],
+          "text": "Indirect Bilirubin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            910.0,
+            842.0,
+            938.0
+          ],
+          "text": "0,644",
+          "confidence": 0.8286
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            912.0,
+            1090.0,
+            940.0
+          ],
+          "text": "0.0",
+          "confidence": 0.8009
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            914.0,
+            1152.0,
+            940.0
+          ],
+          "text": "0.8",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            916.0,
+            1494.0,
+            942.0
+          ],
+          "text": "Calculation",
+          "confidence": 0.7382
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            948.0,
+            462.0,
+            980.0
+          ],
+          "text": "Alkaline Phosphatase",
+          "confidence": 0.8971
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            952.0,
+            828.0,
+            982.0
+          ],
+          "text": "65.0",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            956.0,
+            1082.0,
+            982.0
+          ],
+          "text": "40",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1098.0,
+            956.0,
+            1208.0,
+            986.0
+          ],
+          "text": "129 U/L",
+          "confidence": 0.8726
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            958.0,
+            1596.0,
+            986.0
+          ],
+          "text": "4-PNPP/Amp kinetic",
+          "confidence": 0.7086
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            990.0,
+            322.0,
+            1022.0
+          ],
+          "text": "SGPT /ALT",
+          "confidence": 0.7771
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            996.0,
+            828.0,
+            1024.0
+          ],
+          "text": "57.0",
+          "confidence": 0.9522
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            996.0,
+            1090.0,
+            1024.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9908
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            998.0,
+            1166.0,
+            1026.0
+          ],
+          "text": "41,0",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            1000.0,
+            1224.0,
+            1028.0
+          ],
+          "text": "U/L",
+          "confidence": 0.9529
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            1000.0,
+            1568.0,
+            1030.0
+          ],
+          "text": "IFCC without PSP",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1034.0,
+            326.0,
+            1064.0
+          ],
+          "text": "SGOT/AST",
+          "confidence": 0.9823
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            1038.0,
+            828.0,
+            1066.0
+          ],
+          "text": "56.0",
+          "confidence": 0.8348
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            1040.0,
+            1090.0,
+            1068.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9965
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1107.0,
+            1037.0,
+            1223.0,
+            1073.0
+          ],
+          "text": "40.0 U/L",
+          "confidence": 0.7765
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1364.0,
+            1042.0,
+            1568.0,
+            1074.0
+          ],
+          "text": "IFCC without PSP",
+          "confidence": 0.9265
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1076.0,
+            328.0,
+            1104.0
+          ],
+          "text": "Gamma GT",
+          "confidence": 0.6751
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            1082.0,
+            828.0,
+            1108.0
+          ],
+          "text": "60.0",
+          "confidence": 0.7691
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            1084.0,
+            1068.0,
+            1110.0
+          ],
+          "text": "8",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            1084.0,
+            1118.0,
+            1110.0
+          ],
+          "text": "6 [",
+          "confidence": 0.7339
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1130.0,
+            1084.0,
+            1178.0,
+            1114.0
+          ],
+          "text": "U/L",
+          "confidence": 0.6225
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1364.0,
+            1086.0,
+            1602.0,
+            1116.0
+          ],
+          "text": "IFCC method, Kinetic",
+          "confidence": 0.7722
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1118.0,
+            354.0,
+            1146.0
+          ],
+          "text": "Total Protein",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            1124.0,
+            812.0,
+            1150.0
+          ],
+          "text": "6,8",
+          "confidence": 0.6725
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            1126.0,
+            1088.0,
+            1152.0
+          ],
+          "text": "6.4",
+          "confidence": 0.9854
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1106.0,
+            1125.0,
+            1226.0,
+            1156.0
+          ],
+          "text": "8,3 gm/dl",
+          "confidence": 0.6666
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            1128.0,
+            1440.0,
+            1156.0
+          ],
+          "text": "Biuret",
+          "confidence": 0.8695
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1162.0,
+            296.0,
+            1190.0
+          ],
+          "text": "Albumin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            1166.0,
+            812.0,
+            1192.0
+          ],
+          "text": "4.5",
+          "confidence": 0.7814
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            1168.0,
+            1088.0,
+            1196.0
+          ],
+          "text": "3.5",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1168.0,
+            1226.0,
+            1198.0
+          ],
+          "text": "5.0 gm/dl",
+          "confidence": 0.9148
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            1169.0,
+            1560.0,
+            1202.0
+          ],
+          "text": "BCP Dye Binding",
+          "confidence": 0.9953
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1203.0,
+            295.0,
+            1231.0
+          ],
+          "text": "Globulin",
+          "confidence": 0.9856
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            1208.0,
+            812.0,
+            1236.0
+          ],
+          "text": "2.3",
+          "confidence": 0.9383
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            1210.0,
+            1088.0,
+            1238.0
+          ],
+          "text": "2.0",
+          "confidence": 0.7502
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1105.0,
+            1207.0,
+            1236.0,
+            1245.0
+          ],
+          "text": "3.5 gm/dl",
+          "confidence": 0.6807
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1366.0,
+            1212.0,
+            1494.0,
+            1240.0
+          ],
+          "text": "Calculation",
+          "confidence": 0.5071
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1248.0,
+            314.0,
+            1278.0
+          ],
+          "text": "A/G Ratio",
+          "confidence": 0.993
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            768.0,
+            1250.0,
+            838.0,
+            1278.0
+          ],
+          "text": "1.957",
+          "confidence": 0.9187
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            1252.0,
+            1088.0,
+            1278.0
+          ],
+          "text": "0.9",
+          "confidence": 0.9858
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1252.0,
+            1148.0,
+            1278.0
+          ],
+          "text": "2.1",
+          "confidence": 0.8649
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            1290.0,
+            270.0,
+            1316.0
+          ],
+          "text": "NOTE:",
+          "confidence": 0.919
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            1299.0,
+            983.0,
+            1339.0
+          ],
+          "text": "'. ..J: #n.)",
+          "confidence": 0.0049
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            729.0,
+            1605.0,
+            783.0,
+            1625.0
+          ],
+          "text": "Tt*",
+          "confidence": 0.1835
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            789.0,
+            1603.0,
+            1053.0,
+            1645.0
+          ],
+          "text": "End Of Report ***",
+          "confidence": 0.8694
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            1992.0,
+            525.0,
+            2030.0
+          ],
+          "text": "Suggested Clinical Correlation",
+          "confidence": 0.9799
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            548.0,
+            1998.0,
+            794.0,
+            2030.0
+          ],
+          "text": "If neccessary, Please",
+          "confidence": 0.9493
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            2024.0,
+            270.0,
+            2052.0
+          ],
+          "text": "discuss",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            2051.0,
+            313.0,
+            2087.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            2054.0,
+            412.0,
+            2084.0
+          ],
+          "text": "1746",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1369.0,
+            2040.0,
+            1576.0,
+            2080.0
+          ],
+          "text": "IhireiLobrerpital",
+          "confidence": 0.068
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            2078.0,
+            1574.0,
+            2110.0
+          ],
+          "text": "MeVaishnodeui Crrcle;",
+          "confidence": 0.3689
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            2101.0,
+            679.0,
+            2137.0
+          ],
+          "text": "Test results related only to the item tested,",
+          "confidence": 0.9053
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1149.0,
+            2109.0,
+            1475.0,
+            2147.0
+          ],
+          "text": "s. G. Highway; Ahmedabad",
+          "confidence": 0.6376
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            1488.0,
+            2110.0,
+            1574.0,
+            2140.0
+          ],
+          "text": "382421",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            2141.0,
+            820.0,
+            2174.0
+          ],
+          "text": "No part of the report can be reproduced without written",
+          "confidence": 0.673
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            876.0,
+            2146.0,
+            990.0,
+            2178.0
+          ],
+          "text": "MC-3264",
+          "confidence": 0.9761
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            2151.0,
+            1518.0,
+            2184.0
+          ],
+          "text": "Dr, MASUM BHAVSAR, MBBS; MD",
+          "confidence": 0.867
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            2163.0,
+            515.0,
+            2203.0
+          ],
+          "text": "A Unit of: permission of the laboratory.",
+          "confidence": 0.7403
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            2190.0,
+            323.0,
+            2229.0
+          ],
+          "text": "Shri Harihar Maharaj",
+          "confidence": 0.9908
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1127.0,
+            2181.0,
+            1579.0,
+            2225.0
+          ],
+          "text": "CONSULPATHQAAFUz8 f677 0000",
+          "confidence": 0.1753
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            2222.0,
+            262.0,
+            2254.0
+          ],
+          "text": "Charitable Trust",
+          "confidence": 0.9369
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1317.0,
+            2221.0,
+            1579.0,
+            2257.0
+          ],
+          "text": "Wlulkdhosnitolcoin",
+          "confidence": 0.3449
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            2252.0,
+            280.0,
+            2284.0
+          ],
+          "text": "Printed By",
+          "confidence": 0.9919
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            2252.0,
+            366.0,
+            2282.0
+          ],
+          "text": "2672",
+          "confidence": 0.6103
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            2254.0,
+            734.0,
+            2284.0
+          ],
+          "text": "Printed On",
+          "confidence": 0.9774
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            2256.0,
+            1062.0,
+            2286.0
+          ],
+          "text": "25-Apr-2025 11.16:04 PM",
+          "confidence": 0.8382
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            2256.0,
+            1226.0,
+            2286.0
+          ],
+          "text": "System",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            379.27806818039863,
+            463.1867537178289,
+            425.72193181960137,
+            495.8132462821711
+          ],
+          "text": "No",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1160.4789396203098,
+            910.6902057408794,
+            1236.5210603796902,
+            946.3097942591206
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9842
+        }
+      ]
+    }
+  ],
+  "full_text": "K5\nKD Hospital\n634 elzecld elIea\nDEPARTMENT OF BIOCHEMISTRY\nPatient\nAdmn\n202559913\nBy\nDr ARCHANA\nJADEJA MD Medicine\nBill Date\n25-Apr-25\n11.26 am\nReport Date\n25-Apr-25\n12.18 pm\nCollection Date\n11.26.07\nReceived Date\n12:16.58\nLIVER FUNCTION TEST WITH PROTEINS\nParameter\nSpecimen\nResults\nBiological Reference\nMethod\nIntervals\nTotal Bilirubin\nSerum\n0.955\n0 - 1.4\nmg/dL\nDiazo Method\nDirect Bilirubin\n0.311\n<=\n0,30\nmg/dl\nDiazo end point\nIndirect Bilirubin\n0,644\n0.0\n0.8\nCalculation\nAlkaline Phosphatase\n65.0\n40\n129 U/L\n4-PNPP/Amp kinetic\nSGPT /ALT\n57.0\n5.0\n41,0\nU/L\nIFCC without PSP\nSGOT/AST\n56.0\n5.0\n40.0 U/L\nIFCC without PSP\nGamma GT\n60.0\n8\n6 [\nU/L\nIFCC method, Kinetic\nTotal Protein\n6,8\n6.4\n8,3 gm/dl\nBiuret\nAlbumin\n4.5\n3.5\n5.0 gm/dl\nBCP Dye Binding\nGlobulin\n2.3\n2.0\n3.5 gm/dl\nCalculation\nA/G Ratio\n1.957\n0.9\n2.1\nNOTE:\n'. ..J: #n.)\nTt*\nEnd Of Report ***\nSuggested Clinical Correlation\nIf neccessary, Please\ndiscuss\nVerified By\n1746\nIhireiLobrerpital\nMeVaishnodeui Crrcle;\nTest results related only to the item tested,\ns. G. Highway; Ahmedabad\n382421\nNo part of the report can be reproduced without written\nMC-3264\nDr, MASUM BHAVSAR, MBBS; MD\nA Unit of: permission of the laboratory.\nShri Harihar Maharaj\nCONSULPATHQAAFUz8 f677 0000\nCharitable Trust\nWlulkdhosnitolcoin\nPrinted By\n2672\nPrinted On\n25-Apr-2025 11.16:04 PM\nSystem\nNo\nmg/dl",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "MC",
+          "biomarker_normalized": "MC",
+          "value": "3264",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MC-3264",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "CONSULPATHQAAFUz8 f6",
+          "biomarker_normalized": "CONSULPATHQAAFUz8 f6",
+          "value": "77",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CONSULPATHQAAFUz8 f677 0000",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 114,
+    "ocr_avg_confidence": 0.8484,
+    "parsed_row_count": 2
+  }
+}

@@ -1,0 +1,1761 @@
+{
+  "document_id": "BLR-0425-PA-0038965_BIPUL CHAKRABORTY 0038965 2 OF 2_28-04-2025_1014-26_AM.pdf_page_7",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0038965_BIPUL CHAKRABORTY 0038965 2 OF 2_28-04-2025_1014-26_AM.pdf_page_7.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nAge/ Sex\n32 Year(s)Malc\nPatient\nOrder Date\nhu:16\nUHID\nAIGG.20968030\nBill No.\nAGOCS250375793\nEpisode\nOP\nMobile No\nRef. Doctor\nDr. Siddhant Matnur\nAIG Hospitals, Gachiboli\nFacility\nCollec Date\n10.19\nSample No\nAGH1031276G\nAck; Date\n11.27\nReport Date\n12.03\nBiochemistry\nUNIT\nBIOLOGICAL REF INTERVAL\nRESULT\nTEST\nRBS (RANDOM BLOOD SUGAR)\nSumpie Typo -\nScxim Fxntr\n126\nmg/dL\n70\n140\nRANDOM BLOOD GLUCOSE\nMelitv\nHexanmiase\n{Wo\n07\nriore\noccasions;\nalong\nwith   !ypical   symptorris\nis\nIntorprelaticns:\nRandom\nplasma\ngiucoso\n>200   mgdl\nJn\ndingrostic for diabetes mollitus\nis above Ihe relerence rangc\nPatients with   Impaired glucose tolerance (IGT} are\nthose whose plasma\nor serum glucosc\nhour\nOGTT with lasting\nplasma glucose\nvalucs\nless  (han the\ndiabelic   range_\nThese\nbut less than 200\nQuring\n2\ntesting:\nincreascd risk of devoloping type 2 diabeles and should be followed up with ropeated_\npationts have\nto   levels\nJ0\nbelow\nnormial;\nmay\nbe\ncaused\nby   excess  admiriistratior\nof\nHypoglyceria;\ndecreaso\nin\nblood   glcose\nsevere\nhepatic\nwith\norai\nhypoglycemic\ndrugs,\nscre\ntoxins\nsuch\n05\naiconol\nand   hypoglycins,\ninsuln,\novcrtreatment\nncoplasms,\nsepticaemia\nchronic\nranal\nfailure\nand\ndysfunction,\n'asulinonas,\ninsulin\nanlibodics;\nnon-parcrcatic\nreactive hypogiycaemia.\nIhe\ndiagrosis\nof diabetes  mellitus   shOuld\nDe\nmade bv ropeal\nCautions:\nXn\n(he\nabsenco\nof\nunoquivocal  hyperglycemia,\ntestirig\nRcport Saveo By\nNAMBURU VEERAIAH\n12,03 PM}\nEnd of Rcport\nGri=\nDr,G. DEEPIKA\nND Biochemisu y, Sr Ccrs_ltant\nHOL Bochemistty\n@Mindspace Road; Gachlbowll; Hyderabad, Telangana\n500032\ninforwaighospitals,com\nVvwvwaighospitalscom\nAIG Hospitals (a unit of Asian Institule of Gastroenterology)\nCIN; Ugg999TG1 994PTCO18352\nmgiaL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            71.0,
+            427.0,
+            176.0
+          ],
+          "text": "AIG",
+          "confidence": 0.968
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            215.0,
+            163.0,
+            421.0,
+            205.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            545.0,
+            231.0,
+            1106.0,
+            283.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.9415
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            906.0,
+            304.0,
+            1013.0,
+            340.0
+          ],
+          "text": "Age/ Sex",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            293.0,
+            1379.0,
+            330.0
+          ],
+          "text": "32 Year(s)Malc",
+          "confidence": 0.9006
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            326.0,
+            192.0,
+            354.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9588
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            354.0,
+            1040.0,
+            380.0
+          ],
+          "text": "Order Date",
+          "confidence": 0.8999
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            344.0,
+            1396.0,
+            372.0
+          ],
+          "text": "hu:16",
+          "confidence": 0.3376
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            374.0,
+            176.0,
+            404.0
+          ],
+          "text": "UHID",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            365.0,
+            504.0,
+            398.0
+          ],
+          "text": "AIGG.20968030",
+          "confidence": 0.9859
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            398.0,
+            996.0,
+            426.0
+          ],
+          "text": "Bill No.",
+          "confidence": 0.8013
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            384.0,
+            1403.0,
+            421.0
+          ],
+          "text": "AGOCS250375793",
+          "confidence": 0.7477
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            418.0,
+            202.0,
+            448.0
+          ],
+          "text": "Episode",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            410.0,
+            370.0,
+            436.0
+          ],
+          "text": "OP",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            436.0,
+            1030.0,
+            464.0
+          ],
+          "text": "Mobile No",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            458.0,
+            244.0,
+            486.0
+          ],
+          "text": "Ref. Doctor",
+          "confidence": 0.9487
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            451.0,
+            552.0,
+            482.0
+          ],
+          "text": "Dr. Siddhant Matnur",
+          "confidence": 0.8301
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            464.0,
+            1448.0,
+            494.0
+          ],
+          "text": "AIG Hospitals, Gachiboli",
+          "confidence": 0.5213
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            480.0,
+            998.0,
+            510.0
+          ],
+          "text": "Facility",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            548.0,
+            1052.0,
+            576.0
+          ],
+          "text": "Collec Date",
+          "confidence": 0.9194
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            544.0,
+            1378.0,
+            572.0
+          ],
+          "text": "10.19",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            560.0,
+            238.0,
+            590.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            555.0,
+            499.0,
+            591.0
+          ],
+          "text": "AGH1031276G",
+          "confidence": 0.7848
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            598.0,
+            226.0,
+            626.0
+          ],
+          "text": "Ack; Date",
+          "confidence": 0.4766
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            590.0,
+            540.0,
+            620.0
+          ],
+          "text": "11.27",
+          "confidence": 0.7448
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            915.0,
+            583.0,
+            1062.0,
+            615.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8931
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            578.0,
+            1382.0,
+            608.0
+          ],
+          "text": "12.03",
+          "confidence": 0.6445
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            672.0,
+            931.0,
+            711.0
+          ],
+          "text": "Biochemistry",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1131.0,
+            725.0,
+            1186.0,
+            752.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            716.0,
+            1524.0,
+            748.0
+          ],
+          "text": "BIOLOGICAL REF INTERVAL",
+          "confidence": 0.9738
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            743.0,
+            733.0,
+            822.0,
+            762.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            750.0,
+            216.0,
+            774.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9787
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            808.0,
+            616.0,
+            856.0
+          ],
+          "text": "RBS (RANDOM BLOOD SUGAR)",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            868.0,
+            284.0,
+            894.0
+          ],
+          "text": "Sumpie Typo -",
+          "confidence": 0.3045
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            864.0,
+            450.0,
+            888.0
+          ],
+          "text": "Scxim Fxntr",
+          "confidence": 0.1957
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            904.0,
+            808.0,
+            932.0
+          ],
+          "text": "126",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            896.0,
+            1188.0,
+            928.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.5439
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            892.0,
+            1350.0,
+            916.0
+          ],
+          "text": "70",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1362.0,
+            888.0,
+            1411.0,
+            921.0
+          ],
+          "text": "140",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            909.0,
+            499.0,
+            949.0
+          ],
+          "text": "RANDOM BLOOD GLUCOSE",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            952.0,
+            226.0,
+            976.0
+          ],
+          "text": "Melitv",
+          "confidence": 0.3224
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            234.0,
+            950.0,
+            334.0,
+            974.0
+          ],
+          "text": "Hexanmiase",
+          "confidence": 0.1151
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            846.0,
+            968.0,
+            892.0,
+            992.0
+          ],
+          "text": "{Wo",
+          "confidence": 0.1768
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            907.0,
+            969.0,
+            935.0,
+            989.0
+          ],
+          "text": "07",
+          "confidence": 0.1499
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            966.0,
+            1008.0,
+            990.0
+          ],
+          "text": "riore",
+          "confidence": 0.5102
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1022.0,
+            962.0,
+            1146.0,
+            988.0
+          ],
+          "text": "occasions;",
+          "confidence": 0.7388
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1161.0,
+            957.0,
+            1228.0,
+            988.0
+          ],
+          "text": "along",
+          "confidence": 0.9805
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1239.0,
+            947.0,
+            1518.0,
+            986.0
+          ],
+          "text": "with   !ypical   symptorris",
+          "confidence": 0.5136
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1526.0,
+            952.0,
+            1552.0,
+            976.0
+          ],
+          "text": "is",
+          "confidence": 0.8994
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            982.0,
+            300.0,
+            1010.0
+          ],
+          "text": "Intorprelaticns:",
+          "confidence": 0.9709
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            978.0,
+            414.0,
+            1004.0
+          ],
+          "text": "Random",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            976.0,
+            514.0,
+            1004.0
+          ],
+          "text": "plasma",
+          "confidence": 0.9956
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            528.0,
+            974.0,
+            620.0,
+            1004.0
+          ],
+          "text": "giucoso",
+          "confidence": 0.5446
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            634.0,
+            967.0,
+            787.0,
+            1000.0
+          ],
+          "text": ">200   mgdl",
+          "confidence": 0.4607
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            973.0,
+            833.0,
+            993.0
+          ],
+          "text": "Jn",
+          "confidence": 0.242
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1009.0,
+            477.0,
+            1048.0
+          ],
+          "text": "dingrostic for diabetes mollitus",
+          "confidence": 0.6632
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1020.0,
+            1552.0,
+            1050.0
+          ],
+          "text": "is above Ihe relerence rangc",
+          "confidence": 0.6228
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1035.0,
+            729.0,
+            1077.0
+          ],
+          "text": "Patients with   Impaired glucose tolerance (IGT} are",
+          "confidence": 0.4589
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            1034.0,
+            980.0,
+            1062.0
+          ],
+          "text": "those whose plasma",
+          "confidence": 0.9597
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1028.0,
+            1198.0,
+            1058.0
+          ],
+          "text": "or serum glucosc",
+          "confidence": 0.695
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            1074.0,
+            608.0,
+            1100.0
+          ],
+          "text": "hour",
+          "confidence": 0.6114
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            1068.0,
+            836.0,
+            1100.0
+          ],
+          "text": "OGTT with lasting",
+          "confidence": 0.5563
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            844.0,
+            1066.0,
+            1030.0,
+            1096.0
+          ],
+          "text": "plasma glucose",
+          "confidence": 0.7695
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            1062.0,
+            1116.0,
+            1090.0
+          ],
+          "text": "valucs",
+          "confidence": 0.8487
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1058.0,
+            1286.0,
+            1086.0
+          ],
+          "text": "less  (han the",
+          "confidence": 0.2759
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            1054.0,
+            1464.0,
+            1084.0
+          ],
+          "text": "diabelic   range_",
+          "confidence": 0.6826
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1484.0,
+            1052.0,
+            1556.0,
+            1078.0
+          ],
+          "text": "These",
+          "confidence": 0.7356
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1078.0,
+            350.0,
+            1110.0
+          ],
+          "text": "but less than 200",
+          "confidence": 0.7696
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            1078.0,
+            514.0,
+            1106.0
+          ],
+          "text": "Quring",
+          "confidence": 0.4841
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            525.0,
+            1077.0,
+            543.0,
+            1101.0
+          ],
+          "text": "2",
+          "confidence": 0.6217
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1223.0,
+            1090.0,
+            1308.0,
+            1120.0
+          ],
+          "text": "testing:",
+          "confidence": 0.9919
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            282.0,
+            1089.0,
+            1229.0,
+            1142.0
+          ],
+          "text": "increascd risk of devoloping type 2 diabeles and should be followed up with ropeated_",
+          "confidence": 0.486
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1114.0,
+            284.0,
+            1146.0
+          ],
+          "text": "pationts have",
+          "confidence": 0.7456
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            676.0,
+            1135.0,
+            786.0,
+            1164.0
+          ],
+          "text": "to   levels",
+          "confidence": 0.2133
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            794.0,
+            1138.0,
+            822.0,
+            1162.0
+          ],
+          "text": "J0",
+          "confidence": 0.3489
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            832.0,
+            1134.0,
+            904.0,
+            1160.0
+          ],
+          "text": "below",
+          "confidence": 0.6771
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            1132.0,
+            1000.0,
+            1160.0
+          ],
+          "text": "normial;",
+          "confidence": 0.5458
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1012.0,
+            1134.0,
+            1068.0,
+            1160.0
+          ],
+          "text": "may",
+          "confidence": 0.9552
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            1128.0,
+            1112.0,
+            1156.0
+          ],
+          "text": "be",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1128.0,
+            1210.0,
+            1154.0
+          ],
+          "text": "caused",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            1115.0,
+            1517.0,
+            1159.0
+          ],
+          "text": "by   excess  admiriistratior",
+          "confidence": 0.5694
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1526.0,
+            1118.0,
+            1556.0,
+            1144.0
+          ],
+          "text": "of",
+          "confidence": 0.6304
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1150.0,
+            300.0,
+            1180.0
+          ],
+          "text": "Hypoglyceria;",
+          "confidence": 0.5522
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            1146.0,
+            450.0,
+            1172.0
+          ],
+          "text": "decreaso",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            1144.0,
+            486.0,
+            1168.0
+          ],
+          "text": "in",
+          "confidence": 0.2458
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            498.0,
+            1140.0,
+            666.0,
+            1170.0
+          ],
+          "text": "blood   glcose",
+          "confidence": 0.9488
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1374.0,
+            1158.0,
+            1456.0,
+            1182.0
+          ],
+          "text": "severe",
+          "confidence": 0.9872
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1468.0,
+            1154.0,
+            1554.0,
+            1182.0
+          ],
+          "text": "hepatic",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            1178.0,
+            450.0,
+            1204.0
+          ],
+          "text": "with",
+          "confidence": 0.8989
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            461.0,
+            1177.0,
+            514.0,
+            1204.0
+          ],
+          "text": "orai",
+          "confidence": 0.7638
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            524.0,
+            1174.0,
+            682.0,
+            1206.0
+          ],
+          "text": "hypoglycemic",
+          "confidence": 0.8554
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            1171.0,
+            768.0,
+            1201.0
+          ],
+          "text": "drugs,",
+          "confidence": 0.8475
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            1172.0,
+            848.0,
+            1196.0
+          ],
+          "text": "scre",
+          "confidence": 0.4424
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            860.0,
+            1168.0,
+            932.0,
+            1194.0
+          ],
+          "text": "toxins",
+          "confidence": 0.9221
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1166.0,
+            1004.0,
+            1192.0
+          ],
+          "text": "such",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1017.0,
+            1169.0,
+            1049.0,
+            1189.0
+          ],
+          "text": "05",
+          "confidence": 0.7361
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1061.0,
+            1158.0,
+            1148.0,
+            1190.0
+          ],
+          "text": "aiconol",
+          "confidence": 0.6768
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1158.0,
+            1156.0,
+            1362.0,
+            1189.0
+          ],
+          "text": "and   hypoglycins,",
+          "confidence": 0.4764
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1184.0,
+            214.0,
+            1210.0
+          ],
+          "text": "insuln,",
+          "confidence": 0.737
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            1175.0,
+            389.0,
+            1213.0
+          ],
+          "text": "ovcrtreatment",
+          "confidence": 0.7592
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            897.0,
+            1193.0,
+            1029.0,
+            1231.0
+          ],
+          "text": "ncoplasms,",
+          "confidence": 0.7553
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            1189.0,
+            1197.0,
+            1226.0
+          ],
+          "text": "septicaemia",
+          "confidence": 0.6165
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1224.0,
+            1188.0,
+            1313.0,
+            1220.0
+          ],
+          "text": "chronic",
+          "confidence": 0.9637
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            1190.0,
+            1396.0,
+            1216.0
+          ],
+          "text": "ranal",
+          "confidence": 0.4928
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1414.0,
+            1188.0,
+            1490.0,
+            1214.0
+          ],
+          "text": "failure",
+          "confidence": 0.4865
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1510.0,
+            1186.0,
+            1558.0,
+            1212.0
+          ],
+          "text": "and",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1215.0,
+            270.0,
+            1246.0
+          ],
+          "text": "dysfunction,",
+          "confidence": 0.7835
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            292.0,
+            1214.0,
+            436.0,
+            1240.0
+          ],
+          "text": "'asulinonas,",
+          "confidence": 0.6431
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            1207.0,
+            538.0,
+            1237.0
+          ],
+          "text": "insulin",
+          "confidence": 0.8157
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            1206.0,
+            684.0,
+            1234.0
+          ],
+          "text": "anlibodics;",
+          "confidence": 0.7183
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            1199.0,
+            881.0,
+            1235.0
+          ],
+          "text": "non-parcrcatic",
+          "confidence": 0.7293
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            1244.0,
+            401.0,
+            1281.0
+          ],
+          "text": "reactive hypogiycaemia.",
+          "confidence": 0.9356
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            814.0,
+            1270.0,
+            856.0,
+            1294.0
+          ],
+          "text": "Ihe",
+          "confidence": 0.7075
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            866.0,
+            1268.0,
+            976.0,
+            1298.0
+          ],
+          "text": "diagrosis",
+          "confidence": 0.9911
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            983.0,
+            1255.0,
+            1313.0,
+            1293.0
+          ],
+          "text": "of diabetes  mellitus   shOuld",
+          "confidence": 0.4772
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            1320.0,
+            1258.0,
+            1352.0,
+            1284.0
+          ],
+          "text": "De",
+          "confidence": 0.3601
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            1361.0,
+            1252.0,
+            1558.0,
+            1289.0
+          ],
+          "text": "made bv ropeal",
+          "confidence": 0.6062
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1281.0,
+            245.0,
+            1309.0
+          ],
+          "text": "Cautions:",
+          "confidence": 0.9444
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            1284.0,
+            280.0,
+            1308.0
+          ],
+          "text": "Xn",
+          "confidence": 0.1917
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            1282.0,
+            330.0,
+            1306.0
+          ],
+          "text": "(he",
+          "confidence": 0.9484
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            1280.0,
+            440.0,
+            1306.0
+          ],
+          "text": "absenco",
+          "confidence": 0.6319
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            1278.0,
+            478.0,
+            1302.0
+          ],
+          "text": "of",
+          "confidence": 0.1673
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            1268.0,
+            807.0,
+            1307.0
+          ],
+          "text": "unoquivocal  hyperglycemia,",
+          "confidence": 0.9467
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1313.0,
+            216.0,
+            1349.0
+          ],
+          "text": "testirig",
+          "confidence": 0.9526
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1366.0,
+            304.0,
+            1396.0
+          ],
+          "text": "Rcport Saveo By",
+          "confidence": 0.4998
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            315.0,
+            1360.0,
+            544.0,
+            1392.0
+          ],
+          "text": "NAMBURU VEERAIAH",
+          "confidence": 0.9893
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            1354.0,
+            804.0,
+            1382.0
+          ],
+          "text": "12,03 PM}",
+          "confidence": 0.3904
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1410.0,
+            902.0,
+            1438.0
+          ],
+          "text": "End of Rcport",
+          "confidence": 0.529
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1456.0,
+            1360.0,
+            1522.0
+          ],
+          "text": "Gri=",
+          "confidence": 0.2543
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            1543.0,
+            1276.0,
+            1570.0
+          ],
+          "text": "Dr,G. DEEPIKA",
+          "confidence": 0.7471
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            1132.0,
+            1588.0,
+            1396.0,
+            1614.0
+          ],
+          "text": "ND Biochemisu y, Sr Ccrs_ltant",
+          "confidence": 0.1466
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            1132.0,
+            1618.0,
+            1290.0,
+            1642.0
+          ],
+          "text": "HOL Bochemistty",
+          "confidence": 0.2636
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            2173.0,
+            643.0,
+            2213.0
+          ],
+          "text": "@Mindspace Road; Gachlbowll; Hyderabad, Telangana",
+          "confidence": 0.5007
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            2182.0,
+            744.0,
+            2210.0
+          ],
+          "text": "500032",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            2182.0,
+            1271.0,
+            2219.0
+          ],
+          "text": "inforwaighospitals,com",
+          "confidence": 0.6349
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            2188.0,
+            1542.0,
+            2218.0
+          ],
+          "text": "Vvwvwaighospitalscom",
+          "confidence": 0.6461
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            317.0,
+            2214.0,
+            929.0,
+            2256.0
+          ],
+          "text": "AIG Hospitals (a unit of Asian Institule of Gastroenterology)",
+          "confidence": 0.6072
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            955.0,
+            2219.0,
+            1293.0,
+            2255.0
+          ],
+          "text": "CIN; Ugg999TG1 994PTCO18352",
+          "confidence": 0.2617
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            353.4789396203098,
+            1073.6109458349029,
+            430.5210603796902,
+            1111.3890541650971
+          ],
+          "text": "mgiaL",
+          "confidence": 0.3573
+        }
+      ]
+    }
+  ],
+  "full_text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nAge/ Sex\n32 Year(s)Malc\nPatient\nOrder Date\nhu:16\nUHID\nAIGG.20968030\nBill No.\nAGOCS250375793\nEpisode\nOP\nMobile No\nRef. Doctor\nDr. Siddhant Matnur\nAIG Hospitals, Gachiboli\nFacility\nCollec Date\n10.19\nSample No\nAGH1031276G\nAck; Date\n11.27\nReport Date\n12.03\nBiochemistry\nUNIT\nBIOLOGICAL REF INTERVAL\nRESULT\nTEST\nRBS (RANDOM BLOOD SUGAR)\nSumpie Typo -\nScxim Fxntr\n126\nmg/dL\n70\n140\nRANDOM BLOOD GLUCOSE\nMelitv\nHexanmiase\n{Wo\n07\nriore\noccasions;\nalong\nwith   !ypical   symptorris\nis\nIntorprelaticns:\nRandom\nplasma\ngiucoso\n>200   mgdl\nJn\ndingrostic for diabetes mollitus\nis above Ihe relerence rangc\nPatients with   Impaired glucose tolerance (IGT} are\nthose whose plasma\nor serum glucosc\nhour\nOGTT with lasting\nplasma glucose\nvalucs\nless  (han the\ndiabelic   range_\nThese\nbut less than 200\nQuring\n2\ntesting:\nincreascd risk of devoloping type 2 diabeles and should be followed up with ropeated_\npationts have\nto   levels\nJ0\nbelow\nnormial;\nmay\nbe\ncaused\nby   excess  admiriistratior\nof\nHypoglyceria;\ndecreaso\nin\nblood   glcose\nsevere\nhepatic\nwith\norai\nhypoglycemic\ndrugs,\nscre\ntoxins\nsuch\n05\naiconol\nand   hypoglycins,\ninsuln,\novcrtreatment\nncoplasms,\nsepticaemia\nchronic\nranal\nfailure\nand\ndysfunction,\n'asulinonas,\ninsulin\nanlibodics;\nnon-parcrcatic\nreactive hypogiycaemia.\nIhe\ndiagrosis\nof diabetes  mellitus   shOuld\nDe\nmade bv ropeal\nCautions:\nXn\n(he\nabsenco\nof\nunoquivocal  hyperglycemia,\ntestirig\nRcport Saveo By\nNAMBURU VEERAIAH\n12,03 PM}\nEnd of Rcport\nGri=\nDr,G. DEEPIKA\nND Biochemisu y, Sr Ccrs_ltant\nHOL Bochemistty\n@Mindspace Road; Gachlbowll; Hyderabad, Telangana\n500032\ninforwaighospitals,com\nVvwvwaighospitalscom\nAIG Hospitals (a unit of Asian Institule of Gastroenterology)\nCIN; Ugg999TG1 994PTCO18352\nmgiaL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "hu",
+          "biomarker_normalized": "hu",
+          "value": "16",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "hu:16",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AIGG.",
+          "biomarker_normalized": "AIGG.",
+          "value": "20968030",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AIGG.20968030",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AGOCS2",
+          "biomarker_normalized": "AGOCS2",
+          "value": "50375793",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AGOCS250375793",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AGH1",
+          "biomarker_normalized": "AGH1",
+          "value": "031276",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AGH1031276G",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "but less than",
+          "biomarker_normalized": "but less than",
+          "value": "200",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "but less than 200",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "increascd risk of devoloping type",
+          "biomarker_normalized": "increascd risk of devoloping type",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "increascd risk of devoloping type 2 diabeles and should be followed up with ropeated_",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CIN; Ugg9",
+          "biomarker_normalized": "CIN; Ugg9",
+          "value": "99",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN; Ugg999TG1 994PTCO18352",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 139,
+    "ocr_avg_confidence": 0.7146,
+    "parsed_row_count": 7
+  }
+}

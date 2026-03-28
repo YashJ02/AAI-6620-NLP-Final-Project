@@ -1,0 +1,1095 @@
+{
+  "document_id": "BLR-0425-PA-0039883_ALL CLAIMS DOCM BHUVANESHWARI VIDAL_0001_27-04-2025_1131-10_AM@E.pdf_page_38",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0039883_ALL CLAIMS DOCM BHUVANESHWARI VIDAL_0001_27-04-2025_1131-10_AM@E.pdf_page_38.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "kauvery\nhospital\nUHID / IP\nIPHS00059614(IP)\nBedNo/Ward\n102-3/IMCU\nPatient]\nDr Raghunath R,\nMBBS\nMD\nReport Date\n108:12 PM\nOrder No\n6245678\nFinal\nELECTROLYTES ALL\n131\nmmol/L\n132-146\nSodium\nMethod: Direct ISE\nPotentiometric\n5.6\nmmolL\n3.5-5\nPotassium\nMethod; Direct ISE\nPotentiometric\n102\nmmollL\n98-107\nChloride\nMethod: Direct ISE\nPotentiometric\nSample Collected Details\nSerum /700229402\nod Glucose Random (RBS)\n94\nmgldL\n70-140\nIviethod: GODIPOD\nSample Collected Details\nSerum /700229402\nE8\nANNIE ROSE\nL,\nMBBS\nDNB\nCONSULTANT\nPATHOLOGIST\nSibiya\nReg No:KMC 102865\nValidated By\nApproved By\nSEROLOGY\nInvestigation\n>90.0\nmg/L\n0-5\nC Reactive\nMelhod: Latex enhanced immunoturbidimetric\nSample Collected Details\nSerum /700229402\nE<\nANNIE ROSE\nL,\nMBBS\nDNB\nCONSULTANT\nPATHOLOGIST )\nSibiya\nReg No:KMC 102865\nValidated By\nApproved By\n\"END OF THE REPORT\nPage 212\n\"PLEASE CORRELATE CLINICALLY\"\nSri Kauvery Medical Care (India) Limited\n35, Shanthi Nagar, Opp: CSI Church; Hosur; Tamil Nadu 635109\nT :04344 272727\nEmergency\n04344 272727\nNA B H\nW: www kauveryhospital com\nACCREDME",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1329.0,
+            116.0,
+            1578.0,
+            206.0
+          ],
+          "text": "kauvery",
+          "confidence": 0.6758
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            178.0,
+            1531.0,
+            242.0
+          ],
+          "text": "hospital",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            302.0,
+            192.0,
+            332.0
+          ],
+          "text": "UHID / IP",
+          "confidence": 0.892
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            529.0,
+            293.0,
+            769.0,
+            329.0
+          ],
+          "text": "IPHS00059614(IP)",
+          "confidence": 0.9283
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            988.0,
+            285.0,
+            1153.0,
+            321.0
+          ],
+          "text": "BedNo/Ward",
+          "confidence": 0.8396
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            281.0,
+            1345.0,
+            318.0
+          ],
+          "text": "102-3/IMCU",
+          "confidence": 0.8667
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            350.0,
+            170.0,
+            382.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.9379
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            289.0,
+            441.0,
+            509.0,
+            479.0
+          ],
+          "text": "Dr Raghunath R,",
+          "confidence": 0.6271
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            438.0,
+            602.0,
+            470.0
+          ],
+          "text": "MBBS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            438.0,
+            664.0,
+            468.0
+          ],
+          "text": "MD",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            991.0,
+            451.0,
+            1147.0,
+            489.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.6482
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            448.0,
+            1462.0,
+            480.0
+          ],
+          "text": "108:12 PM",
+          "confidence": 0.8197
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            508.0,
+            1110.0,
+            536.0
+          ],
+          "text": "Order No",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            502.0,
+            1308.0,
+            534.0
+          ],
+          "text": "6245678",
+          "confidence": 0.7681
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            502.0,
+            1400.0,
+            532.0
+          ],
+          "text": "Final",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            611.0,
+            377.0,
+            651.0
+          ],
+          "text": "ELECTROLYTES ALL",
+          "confidence": 0.9262
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            650.0,
+            736.0,
+            680.0
+          ],
+          "text": "131",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            646.0,
+            982.0,
+            672.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.5431
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            640.0,
+            1214.0,
+            666.0
+          ],
+          "text": "132-146",
+          "confidence": 0.6521
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            62.0,
+            660.0,
+            160.0,
+            690.0
+          ],
+          "text": "Sodium",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            692.0,
+            236.0,
+            718.0
+          ],
+          "text": "Method: Direct ISE",
+          "confidence": 0.9406
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            246.0,
+            690.0,
+            374.0,
+            714.0
+          ],
+          "text": "Potentiometric",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            712.0,
+            734.0,
+            740.0
+          ],
+          "text": "5.6",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            897.0,
+            707.0,
+            982.0,
+            736.0
+          ],
+          "text": "mmolL",
+          "confidence": 0.9135
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            704.0,
+            1184.0,
+            728.0
+          ],
+          "text": "3.5-5",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            722.0,
+            196.0,
+            754.0
+          ],
+          "text": "Potassium",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            756.0,
+            238.0,
+            782.0
+          ],
+          "text": "Method; Direct ISE",
+          "confidence": 0.9827
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            756.0,
+            376.0,
+            780.0
+          ],
+          "text": "Potentiometric",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            776.0,
+            738.0,
+            808.0
+          ],
+          "text": "102",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            774.0,
+            984.0,
+            800.0
+          ],
+          "text": "mmollL",
+          "confidence": 0.5702
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            766.0,
+            1202.0,
+            792.0
+          ],
+          "text": "98-107",
+          "confidence": 0.7388
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            786.0,
+            172.0,
+            818.0
+          ],
+          "text": "Chloride",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            820.0,
+            238.0,
+            846.0
+          ],
+          "text": "Method: Direct ISE",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            820.0,
+            376.0,
+            844.0
+          ],
+          "text": "Potentiometric",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            872.0,
+            296.0,
+            902.0
+          ],
+          "text": "Sample Collected Details",
+          "confidence": 0.8903
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            898.0,
+            234.0,
+            926.0
+          ],
+          "text": "Serum /700229402",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            925.0,
+            469.0,
+            965.0
+          ],
+          "text": "od Glucose Random (RBS)",
+          "confidence": 0.9019
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            922.0,
+            732.0,
+            954.0
+          ],
+          "text": "94",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            914.0,
+            984.0,
+            956.0
+          ],
+          "text": "mgldL",
+          "confidence": 0.7099
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1129.0,
+            910.0,
+            1206.0,
+            941.0
+          ],
+          "text": "70-140",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            965.0,
+            244.0,
+            994.0
+          ],
+          "text": "Iviethod: GODIPOD",
+          "confidence": 0.9532
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            1020.0,
+            298.0,
+            1048.0
+          ],
+          "text": "Sample Collected Details",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1045.0,
+            235.0,
+            1072.0
+          ],
+          "text": "Serum /700229402",
+          "confidence": 0.5621
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1129.0,
+            1069.0,
+            1298.0,
+            1118.0
+          ],
+          "text": "E8",
+          "confidence": 0.1637
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1119.0,
+            1107.0,
+            1155.0
+          ],
+          "text": "ANNIE ROSE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            1122.0,
+            1144.0,
+            1152.0
+          ],
+          "text": "L,",
+          "confidence": 0.9916
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            1118.0,
+            1242.0,
+            1150.0
+          ],
+          "text": "MBBS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            1116.0,
+            1322.0,
+            1148.0
+          ],
+          "text": "DNB",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1338.0,
+            1108.0,
+            1533.0,
+            1150.0
+          ],
+          "text": "CONSULTANT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            1147.0,
+            1299.0,
+            1188.0
+          ],
+          "text": "PATHOLOGIST",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            385.0,
+            1168.0,
+            470.0,
+            1208.0
+          ],
+          "text": "Sibiya",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1069.0,
+            1179.0,
+            1341.0,
+            1223.0
+          ],
+          "text": "Reg No:KMC 102865",
+          "confidence": 0.8578
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            341.0,
+            1203.0,
+            515.0,
+            1239.0
+          ],
+          "text": "Validated By",
+          "confidence": 0.7923
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            1214.0,
+            1295.0,
+            1254.0
+          ],
+          "text": "Approved By",
+          "confidence": 0.7861
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            735.0,
+            1269.0,
+            911.0,
+            1305.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            1331.0,
+            265.0,
+            1371.0
+          ],
+          "text": "Investigation",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            684.0,
+            1366.0,
+            760.0,
+            1396.0
+          ],
+          "text": ">90.0",
+          "confidence": 0.4838
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            1364.0,
+            980.0,
+            1392.0
+          ],
+          "text": "mg/L",
+          "confidence": 0.7343
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            1358.0,
+            1176.0,
+            1382.0
+          ],
+          "text": "0-5",
+          "confidence": 0.8176
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1376.0,
+            218.0,
+            1408.0
+          ],
+          "text": "C Reactive",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            1406.0,
+            472.0,
+            1438.0
+          ],
+          "text": "Melhod: Latex enhanced immunoturbidimetric",
+          "confidence": 0.8489
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1464.0,
+            304.0,
+            1492.0
+          ],
+          "text": "Sample Collected Details",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1490.0,
+            242.0,
+            1516.0
+          ],
+          "text": "Serum /700229402",
+          "confidence": 0.5466
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            1512.0,
+            1282.0,
+            1562.0
+          ],
+          "text": "E<",
+          "confidence": 0.059
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1566.0,
+            1112.0,
+            1598.0
+          ],
+          "text": "ANNIE ROSE",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1566.0,
+            1150.0,
+            1596.0
+          ],
+          "text": "L,",
+          "confidence": 0.9827
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            1562.0,
+            1248.0,
+            1594.0
+          ],
+          "text": "MBBS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            1562.0,
+            1328.0,
+            1594.0
+          ],
+          "text": "DNB",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            1554.0,
+            1537.0,
+            1593.0
+          ],
+          "text": "CONSULTANT",
+          "confidence": 0.8082
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1100.0,
+            1593.0,
+            1321.0,
+            1632.0
+          ],
+          "text": "PATHOLOGIST )",
+          "confidence": 0.8188
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            393.0,
+            1615.0,
+            475.0,
+            1651.0
+          ],
+          "text": "Sibiya",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1077.0,
+            1624.0,
+            1347.0,
+            1668.0
+          ],
+          "text": "Reg No:KMC 102865",
+          "confidence": 0.7946
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            347.0,
+            1649.0,
+            521.0,
+            1685.0
+          ],
+          "text": "Validated By",
+          "confidence": 0.7996
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1124.0,
+            1658.0,
+            1303.0,
+            1700.0
+          ],
+          "text": "Approved By",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            743.0,
+            2089.0,
+            941.0,
+            2109.0
+          ],
+          "text": "\"END OF THE REPORT",
+          "confidence": 0.3531
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1490.0,
+            2076.0,
+            1596.0,
+            2107.0
+          ],
+          "text": "Page 212",
+          "confidence": 0.9214
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            2108.0,
+            976.0,
+            2134.0
+          ],
+          "text": "\"PLEASE CORRELATE CLINICALLY\"",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            2139.0,
+            904.0,
+            2191.0
+          ],
+          "text": "Sri Kauvery Medical Care (India) Limited",
+          "confidence": 0.8431
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            295.0,
+            2186.0,
+            985.0,
+            2226.0
+          ],
+          "text": "35, Shanthi Nagar, Opp: CSI Church; Hosur; Tamil Nadu 635109",
+          "confidence": 0.3864
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            296.0,
+            2224.0,
+            490.0,
+            2254.0
+          ],
+          "text": "T :04344 272727",
+          "confidence": 0.7487
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            2226.0,
+            634.0,
+            2254.0
+          ],
+          "text": "Emergency",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            2222.0,
+            808.0,
+            2252.0
+          ],
+          "text": "04344 272727",
+          "confidence": 0.6769
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            2253.0,
+            175.0,
+            2271.0
+          ],
+          "text": "NA B H",
+          "confidence": 0.8502
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            626.0,
+            2254.0,
+            958.0,
+            2287.0
+          ],
+          "text": "W: www kauveryhospital com",
+          "confidence": 0.7512
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            2276.0,
+            165.0,
+            2290.0
+          ],
+          "text": "ACCREDME",
+          "confidence": 0.1118
+        }
+      ]
+    }
+  ],
+  "full_text": "kauvery\nhospital\nUHID / IP\nIPHS00059614(IP)\nBedNo/Ward\n102-3/IMCU\nPatient]\nDr Raghunath R,\nMBBS\nMD\nReport Date\n108:12 PM\nOrder No\n6245678\nFinal\nELECTROLYTES ALL\n131\nmmol/L\n132-146\nSodium\nMethod: Direct ISE\nPotentiometric\n5.6\nmmolL\n3.5-5\nPotassium\nMethod; Direct ISE\nPotentiometric\n102\nmmollL\n98-107\nChloride\nMethod: Direct ISE\nPotentiometric\nSample Collected Details\nSerum /700229402\nod Glucose Random (RBS)\n94\nmgldL\n70-140\nIviethod: GODIPOD\nSample Collected Details\nSerum /700229402\nE8\nANNIE ROSE\nL,\nMBBS\nDNB\nCONSULTANT\nPATHOLOGIST\nSibiya\nReg No:KMC 102865\nValidated By\nApproved By\nSEROLOGY\nInvestigation\n>90.0\nmg/L\n0-5\nC Reactive\nMelhod: Latex enhanced immunoturbidimetric\nSample Collected Details\nSerum /700229402\nE<\nANNIE ROSE\nL,\nMBBS\nDNB\nCONSULTANT\nPATHOLOGIST )\nSibiya\nReg No:KMC 102865\nValidated By\nApproved By\n\"END OF THE REPORT\nPage 212\n\"PLEASE CORRELATE CLINICALLY\"\nSri Kauvery Medical Care (India) Limited\n35, Shanthi Nagar, Opp: CSI Church; Hosur; Tamil Nadu 635109\nT :04344 272727\nEmergency\n04344 272727\nNA B H\nW: www kauveryhospital com\nACCREDME",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "IPHS0",
+          "biomarker_normalized": "IPHS0",
+          "value": "0059614",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IPHS00059614(IP)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Serum /",
+          "biomarker_normalized": "Serum /",
+          "value": "700229402",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Serum /700229402",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Reg No:KMC",
+          "biomarker_normalized": "Reg No:KMC",
+          "value": "102865",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Reg No:KMC 102865",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Page",
+          "biomarker_normalized": "Page",
+          "value": "212",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Page 212",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "T",
+          "biomarker_normalized": "T",
+          "value": "04344",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "T :04344 272727",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 85,
+    "ocr_avg_confidence": 0.8487,
+    "parsed_row_count": 5
+  }
+}

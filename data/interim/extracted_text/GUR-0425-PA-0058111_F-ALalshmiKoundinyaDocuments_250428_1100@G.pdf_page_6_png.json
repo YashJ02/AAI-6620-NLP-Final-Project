@@ -1,0 +1,2004 @@
+{
+  "document_id": "GUR-0425-PA-0058111_F-ALalshmiKoundinyaDocuments_250428_1100@G.pdf_page_6",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0058111_F-ALalshmiKoundinyaDocuments_250428_1100@G.pdf_page_6.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "HOSPITAL\nCity,\nAmalapuram\nTM\nAP\n533201\nIwwwkims.in\nNA BM\nVIMSI\nLoni ouen\n191\nH-2022-1059\nMrs,\nANIVALLI LAKSHMI KOUNDINYA\n7 2 2\nIt\n56Y/F\nISex\nGYNAECOLOGY\nKIMS-1667722\nVisit No\nOP-25039472\nTime\n10,00\nSpecimen\nBLOOD(EDTA)\nTime\n11,15\nSample No\nBLE133311\nApproved\nDepartment Of_Hematology\nDescription\nResult\nUnits\nReference Range\nMethodology\nComplete Blood Picture\nCBP ), EDTA Whole Blood\nHaemoglobin\n13.1\ng/dL\n12\n15\nSpectrophotmetry\nPacked Cell Volume(PCV)\n37.2\n%\n36\n46\nDerived from Impedance\nTotal RBC Count\n4.20\nmillion/cumm 3.8\n4,8\nElectrical Impedance\nMCV\n88.5\nfL\n83\n101\nCalculated\nMCH\n31.2\nPg\n27\n32\nCalculated\nMCHC\n35.2 #\ng/dL\n31.5\n34.5\nCalculated\nRDW-CV\n12.6\n%\n11.6\n14.0\nDerived from Impedance\nPlatelet Count\n1.72\nLakhs/Cumm\n1.5\n4.1\nElectrical Impedance\nMPV\n8.9\nfl\n7.0\n10.0\nDerived from Impedance\nTotal WBC Count\n6,980\ncells/cumm\n4000\n10000\nElectrical Impedance\nNeutrophils\n65.7\n%\nImpedance and\n40\n80\nAbsorbance\nLymphocytes\n27.6\n%\nImpedance and\n20\n40\nAbsorbance\nEosinophils\n2.4\n%\nImpedance and\n01\n06\nAbsorbance\nMonocytes\n3.3\n%\nImpedance and\n02\n10\nAbsorbance\nBasophils\n1.0\n%\n0.0\n2.0\nImpedance\nAbsorbance\nNote: Please Correlate with Clinical Findings\n*x* End of Report ***\nTechnician\n2035\nDr.\nDivya Duvvada\nPathology\n'SPECIALTY\nGPER\nHealth\nIcnaitanya\nDistrict, _\naavari\n239999 [\n' 8856 _\nName\nIepartment\nand\nDate\nSample\nand\nDate\nReport _\nStatus\nIest_\nand\nOricem/e/1 4Ned",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            124.0,
+            623.0,
+            180.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            347.0,
+            187.0,
+            411.0,
+            223.0
+          ],
+          "text": "City,",
+          "confidence": 0.6926
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            406.0,
+            178.0,
+            587.0,
+            232.0
+          ],
+          "text": "Amalapuram",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1578.0,
+            218.0,
+            1612.0,
+            242.0
+          ],
+          "text": "TM",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            297.0,
+            229.0,
+            354.0,
+            268.0
+          ],
+          "text": "AP",
+          "confidence": 0.9791
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            228.0,
+            476.0,
+            260.0
+          ],
+          "text": "533201",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            325.0,
+            271.0,
+            531.0,
+            309.0
+          ],
+          "text": "Iwwwkims.in",
+          "confidence": 0.3963
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            773.0,
+            273.0,
+            850.0,
+            301.0
+          ],
+          "text": "NA BM",
+          "confidence": 0.3161
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1247.0,
+            222.0,
+            1593.0,
+            350.0
+          ],
+          "text": "VIMSI",
+          "confidence": 0.7671
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            310.0,
+            847.0,
+            328.0
+          ],
+          "text": "Loni ouen",
+          "confidence": 0.0097
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            322.0,
+            168.0,
+            354.0
+          ],
+          "text": "191",
+          "confidence": 0.3878
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            332.0,
+            909.0,
+            373.0
+          ],
+          "text": "H-2022-1059",
+          "confidence": 0.5854
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            362.0,
+            415.0,
+            395.0
+          ],
+          "text": "Mrs,",
+          "confidence": 0.9481
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            435.0,
+            360.0,
+            876.0,
+            422.0
+          ],
+          "text": "ANIVALLI LAKSHMI KOUNDINYA",
+          "confidence": 0.9889
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1486.0,
+            374.0,
+            1560.0,
+            398.0
+          ],
+          "text": "7 2 2",
+          "confidence": 0.9424
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            418.0,
+            114.0,
+            450.0
+          ],
+          "text": "It",
+          "confidence": 0.1357
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            401.0,
+            441.0,
+            440.0
+          ],
+          "text": "56Y/F",
+          "confidence": 0.9606
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            448.0,
+            120.0,
+            478.0
+          ],
+          "text": "ISex",
+          "confidence": 0.2033
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            440.0,
+            568.0,
+            485.0
+          ],
+          "text": "GYNAECOLOGY",
+          "confidence": 0.9827
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            434.0,
+            1543.0,
+            471.0
+          ],
+          "text": "KIMS-1667722",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            470.0,
+            1186.0,
+            502.0
+          ],
+          "text": "Visit No",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1342.0,
+            472.0,
+            1529.0,
+            508.0
+          ],
+          "text": "OP-25039472",
+          "confidence": 0.9177
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            490.0,
+            276.0,
+            520.0
+          ],
+          "text": "Time",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            526.0,
+            490.0,
+            614.0,
+            528.0
+          ],
+          "text": "10,00",
+          "confidence": 0.739
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1079.0,
+            509.0,
+            1213.0,
+            545.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            509.0,
+            1537.0,
+            548.0
+          ],
+          "text": "BLOOD(EDTA)",
+          "confidence": 0.8875
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            530.0,
+            268.0,
+            560.0
+          ],
+          "text": "Time",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            528.0,
+            530.0,
+            615.0,
+            568.0
+          ],
+          "text": "11,15",
+          "confidence": 0.8421
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            546.0,
+            1229.0,
+            582.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            548.0,
+            1498.0,
+            578.0
+          ],
+          "text": "BLE133311",
+          "confidence": 0.8353
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            362.0,
+            566.0,
+            497.0,
+            604.0
+          ],
+          "text": "Approved",
+          "confidence": 0.8836
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            549.0,
+            651.0,
+            1030.0,
+            704.0
+          ],
+          "text": "Department Of_Hematology",
+          "confidence": 0.7145
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            64.0,
+            707.0,
+            227.0,
+            749.0
+          ],
+          "text": "Description",
+          "confidence": 0.6881
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            714.0,
+            573.0,
+            751.0
+          ],
+          "text": "Result",
+          "confidence": 0.9147
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            633.0,
+            717.0,
+            719.0,
+            761.0
+          ],
+          "text": "Units",
+          "confidence": 0.7876
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            719.0,
+            1072.0,
+            767.0
+          ],
+          "text": "Reference Range",
+          "confidence": 0.866
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1220.0,
+            714.0,
+            1417.0,
+            759.0
+          ],
+          "text": "Methodology",
+          "confidence": 0.9649
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            5.0,
+            787.0,
+            335.0,
+            831.0
+          ],
+          "text": "Complete Blood Picture",
+          "confidence": 0.7445
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            359.0,
+            789.0,
+            735.0,
+            833.0
+          ],
+          "text": "CBP ), EDTA Whole Blood",
+          "confidence": 0.7094
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            2.0,
+            823.0,
+            169.0,
+            872.0
+          ],
+          "text": "Haemoglobin",
+          "confidence": 0.9412
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            478.0,
+            834.0,
+            540.0,
+            864.0
+          ],
+          "text": "13.1",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            834.0,
+            706.0,
+            876.0
+          ],
+          "text": "g/dL",
+          "confidence": 0.6681
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            844.0,
+            862.0,
+            874.0
+          ],
+          "text": "12",
+          "confidence": 0.5368
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            842.0,
+            920.0,
+            874.0
+          ],
+          "text": "15",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            846.0,
+            1382.0,
+            870.0
+          ],
+          "text": "Spectrophotmetry",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            3.0,
+            866.0,
+            329.0,
+            903.0
+          ],
+          "text": "Packed Cell Volume(PCV)",
+          "confidence": 0.9699
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            478.0,
+            871.0,
+            545.0,
+            904.0
+          ],
+          "text": "37.2",
+          "confidence": 0.5398
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            876.0,
+            674.0,
+            904.0
+          ],
+          "text": "%",
+          "confidence": 0.9904
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            880.0,
+            862.0,
+            910.0
+          ],
+          "text": "36",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            880.0,
+            920.0,
+            910.0
+          ],
+          "text": "46",
+          "confidence": 0.4941
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            884.0,
+            1440.0,
+            908.0
+          ],
+          "text": "Derived from Impedance",
+          "confidence": 0.9222
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            6.0,
+            906.0,
+            214.0,
+            938.0
+          ],
+          "text": "Total RBC Count",
+          "confidence": 0.8322
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            482.0,
+            912.0,
+            546.0,
+            942.0
+          ],
+          "text": "4.20",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            640.0,
+            912.0,
+            871.0,
+            954.0
+          ],
+          "text": "million/cumm 3.8",
+          "confidence": 0.9882
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            920.0,
+            938.0,
+            946.0
+          ],
+          "text": "4,8",
+          "confidence": 0.8393
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            922.0,
+            1404.0,
+            946.0
+          ],
+          "text": "Electrical Impedance",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            6.0,
+            944.0,
+            64.0,
+            976.0
+          ],
+          "text": "MCV",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            950.0,
+            548.0,
+            980.0
+          ],
+          "text": "88.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            642.0,
+            954.0,
+            674.0,
+            984.0
+          ],
+          "text": "fL",
+          "confidence": 0.9818
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            958.0,
+            864.0,
+            986.0
+          ],
+          "text": "83",
+          "confidence": 0.4645
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            956.0,
+            936.0,
+            986.0
+          ],
+          "text": "101",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            961.0,
+            1313.0,
+            981.0
+          ],
+          "text": "Calculated",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            6.0,
+            984.0,
+            66.0,
+            1012.0
+          ],
+          "text": "MCH",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            486.0,
+            988.0,
+            548.0,
+            1016.0
+          ],
+          "text": "31.2",
+          "confidence": 0.9801
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            996.0,
+            682.0,
+            1026.0
+          ],
+          "text": "Pg",
+          "confidence": 0.8181
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            994.0,
+            866.0,
+            1024.0
+          ],
+          "text": "27",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            994.0,
+            922.0,
+            1024.0
+          ],
+          "text": "32",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1217.0,
+            999.0,
+            1313.0,
+            1019.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            8.0,
+            1020.0,
+            88.0,
+            1052.0
+          ],
+          "text": "MCHC",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            488.0,
+            1028.0,
+            588.0,
+            1058.0
+          ],
+          "text": "35.2 #",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            1030.0,
+            710.0,
+            1062.0
+          ],
+          "text": "g/dL",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1032.0,
+            890.0,
+            1058.0
+          ],
+          "text": "31.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            1032.0,
+            972.0,
+            1060.0
+          ],
+          "text": "34.5",
+          "confidence": 0.9841
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1217.0,
+            1037.0,
+            1311.0,
+            1057.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.7437
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            8.0,
+            1060.0,
+            122.0,
+            1090.0
+          ],
+          "text": "RDW-CV",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            490.0,
+            1064.0,
+            552.0,
+            1092.0
+          ],
+          "text": "12.6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1066.0,
+            680.0,
+            1094.0
+          ],
+          "text": "%",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1068.0,
+            890.0,
+            1098.0
+          ],
+          "text": "11.6",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            910.0,
+            1070.0,
+            974.0,
+            1098.0
+          ],
+          "text": "14.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1074.0,
+            1434.0,
+            1098.0
+          ],
+          "text": "Derived from Impedance",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            10.0,
+            1097.0,
+            194.0,
+            1127.0
+          ],
+          "text": "Platelet Count",
+          "confidence": 0.9906
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            492.0,
+            1104.0,
+            554.0,
+            1130.0
+          ],
+          "text": "1.72",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1104.0,
+            818.0,
+            1134.0
+          ],
+          "text": "Lakhs/Cumm",
+          "confidence": 0.7345
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1106.0,
+            874.0,
+            1132.0
+          ],
+          "text": "1.5",
+          "confidence": 0.9907
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            1106.0,
+            940.0,
+            1132.0
+          ],
+          "text": "4.1",
+          "confidence": 0.9491
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1215.0,
+            1109.0,
+            1400.0,
+            1136.0
+          ],
+          "text": "Electrical Impedance",
+          "confidence": 0.971
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            12.0,
+            1136.0,
+            70.0,
+            1164.0
+          ],
+          "text": "MPV",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            494.0,
+            1140.0,
+            538.0,
+            1166.0
+          ],
+          "text": "8.9",
+          "confidence": 0.9692
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            651.0,
+            1143.0,
+            671.0,
+            1167.0
+          ],
+          "text": "fl",
+          "confidence": 0.9585
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            828.0,
+            1142.0,
+            874.0,
+            1170.0
+          ],
+          "text": "7.0",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            1142.0,
+            958.0,
+            1170.0
+          ],
+          "text": "10.0",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            1148.0,
+            1432.0,
+            1172.0
+          ],
+          "text": "Derived from Impedance",
+          "confidence": 0.7858
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            9.0,
+            1170.0,
+            241.0,
+            1206.0
+          ],
+          "text": "Total WBC Count",
+          "confidence": 0.8152
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            494.0,
+            1176.0,
+            576.0,
+            1206.0
+          ],
+          "text": "6,980",
+          "confidence": 0.9317
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            1178.0,
+            798.0,
+            1206.0
+          ],
+          "text": "cells/cumm",
+          "confidence": 0.9467
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            1178.0,
+            898.0,
+            1208.0
+          ],
+          "text": "4000",
+          "confidence": 0.996
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1178.0,
+            1004.0,
+            1208.0
+          ],
+          "text": "10000",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            1184.0,
+            1396.0,
+            1208.0
+          ],
+          "text": "Electrical Impedance",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            14.0,
+            1212.0,
+            168.0,
+            1240.0
+          ],
+          "text": "Neutrophils",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            498.0,
+            1214.0,
+            558.0,
+            1240.0
+          ],
+          "text": "65.7",
+          "confidence": 0.6269
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            1214.0,
+            684.0,
+            1240.0
+          ],
+          "text": "%",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1220.0,
+            1353.0,
+            1244.0
+          ],
+          "text": "Impedance and",
+          "confidence": 0.8457
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            1228.0,
+            868.0,
+            1258.0
+          ],
+          "text": "40",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            888.0,
+            1228.0,
+            926.0,
+            1258.0
+          ],
+          "text": "80",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1215.0,
+            1251.0,
+            1317.0,
+            1271.0
+          ],
+          "text": "Absorbance",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            20.0,
+            1278.0,
+            196.0,
+            1310.0
+          ],
+          "text": "Lymphocytes",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            1278.0,
+            562.0,
+            1306.0
+          ],
+          "text": "27.6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            656.0,
+            1280.0,
+            686.0,
+            1304.0
+          ],
+          "text": "%",
+          "confidence": 0.9956
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            1286.0,
+            1350.0,
+            1310.0
+          ],
+          "text": "Impedance and",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            832.0,
+            1292.0,
+            870.0,
+            1322.0
+          ],
+          "text": "20",
+          "confidence": 0.478
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            1294.0,
+            928.0,
+            1322.0
+          ],
+          "text": "40",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1314.0,
+            1318.0,
+            1338.0
+          ],
+          "text": "Absorbance",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            20.0,
+            1339.0,
+            175.0,
+            1378.0
+          ],
+          "text": "Eosinophils",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            1344.0,
+            548.0,
+            1370.0
+          ],
+          "text": "2.4",
+          "confidence": 0.5836
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            1344.0,
+            688.0,
+            1370.0
+          ],
+          "text": "%",
+          "confidence": 0.9701
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1350.0,
+            1352.0,
+            1374.0
+          ],
+          "text": "Impedance and",
+          "confidence": 0.699
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            1358.0,
+            874.0,
+            1386.0
+          ],
+          "text": "01",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            1358.0,
+            930.0,
+            1386.0
+          ],
+          "text": "06",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            1380.0,
+            1318.0,
+            1400.0
+          ],
+          "text": "Absorbance",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            23.0,
+            1409.0,
+            169.0,
+            1445.0
+          ],
+          "text": "Monocytes",
+          "confidence": 0.8277
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            504.0,
+            1410.0,
+            550.0,
+            1436.0
+          ],
+          "text": "3.3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            658.0,
+            1408.0,
+            690.0,
+            1434.0
+          ],
+          "text": "%",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            1416.0,
+            1354.0,
+            1440.0
+          ],
+          "text": "Impedance and",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            836.0,
+            1422.0,
+            874.0,
+            1452.0
+          ],
+          "text": "02",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            896.0,
+            1422.0,
+            932.0,
+            1452.0
+          ],
+          "text": "10",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            1221.0,
+            1442.0,
+            1324.0,
+            1468.0
+          ],
+          "text": "Absorbance",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            27.0,
+            1475.0,
+            157.0,
+            1511.0
+          ],
+          "text": "Basophils",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            1474.0,
+            550.0,
+            1502.0
+          ],
+          "text": "1.0",
+          "confidence": 0.8979
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            1474.0,
+            692.0,
+            1500.0
+          ],
+          "text": "%",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            838.0,
+            1488.0,
+            886.0,
+            1514.0
+          ],
+          "text": "0.0",
+          "confidence": 0.9329
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            906.0,
+            1488.0,
+            950.0,
+            1514.0
+          ],
+          "text": "2.0",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            1221.0,
+            1479.0,
+            1322.0,
+            1506.0
+          ],
+          "text": "Impedance",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            1225.0,
+            1511.0,
+            1325.0,
+            1531.0
+          ],
+          "text": "Absorbance",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            539.0,
+            1626.0,
+            1098.0,
+            1669.0
+          ],
+          "text": "Note: Please Correlate with Clinical Findings",
+          "confidence": 0.8982
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            1659.0,
+            963.0,
+            1695.0
+          ],
+          "text": "*x* End of Report ***",
+          "confidence": 0.4193
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            30.0,
+            1737.0,
+            193.0,
+            1774.0
+          ],
+          "text": "Technician",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            34.0,
+            1770.0,
+            106.0,
+            1802.0
+          ],
+          "text": "2035",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            1780.0,
+            1392.0,
+            1806.0
+          ],
+          "text": "Dr.",
+          "confidence": 0.6084
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            1395.0,
+            1776.0,
+            1591.0,
+            1815.0
+          ],
+          "text": "Divya Duvvada",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            1472.0,
+            1808.0,
+            1600.0,
+            1840.0
+          ],
+          "text": "Pathology",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            238.08460847688576,
+            122.55704461763172,
+            429.91539152311424,
+            201.4429553823683
+          ],
+          "text": "'SPECIALTY",
+          "confidence": 0.7951
+        },
+        {
+          "block_no": 141,
+          "block_type": 0,
+          "bbox": [
+            181.42229123600035,
+            168.83965938072515,
+            262.5777087639997,
+            233.16034061927485
+          ],
+          "text": "GPER",
+          "confidence": 0.6156
+        },
+        {
+          "block_no": 142,
+          "block_type": 0,
+          "bbox": [
+            260.4392624013421,
+            186.9420169782899,
+            352.5607375986579,
+            236.0579830217101
+          ],
+          "text": "Health",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 143,
+          "block_type": 0,
+          "bbox": [
+            162.41000317999047,
+            206.1465353442043,
+            271.58999682000956,
+            275.85346465579573
+          ],
+          "text": "Icnaitanya",
+          "confidence": 0.5705
+        },
+        {
+          "block_no": 144,
+          "block_type": 0,
+          "bbox": [
+            209.17157287525382,
+            235.90361029734265,
+            305.8284271247462,
+            288.09638970265735
+          ],
+          "text": "District, _",
+          "confidence": 0.6114
+        },
+        {
+          "block_no": 145,
+          "block_type": 0,
+          "bbox": [
+            138.47893962030983,
+            259.8606268539597,
+            223.52106037969017,
+            323.1393731460403
+          ],
+          "text": "aavari",
+          "confidence": 0.248
+        },
+        {
+          "block_no": 146,
+          "block_type": 0,
+          "bbox": [
+            227.9719194937464,
+            273.2424590107437,
+            333.02808050625356,
+            321.7575409892563
+          ],
+          "text": "239999 [",
+          "confidence": 0.4904
+        },
+        {
+          "block_no": 147,
+          "block_type": 0,
+          "bbox": [
+            156.42229123600035,
+            292.11327370189457,
+            231.57770876399965,
+            346.88672629810543
+          ],
+          "text": "' 8856 _",
+          "confidence": 0.2146
+        },
+        {
+          "block_no": 148,
+          "block_type": 0,
+          "bbox": [
+            105.21456992734423,
+            392.1549046039184,
+            174.78543007265577,
+            434.8450953960816
+          ],
+          "text": "Name",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 149,
+          "block_type": 0,
+          "bbox": [
+            37.478939620309816,
+            462.3180277713107,
+            155.52106037969017,
+            530.6819722286892
+          ],
+          "text": "Iepartment",
+          "confidence": 0.1791
+        },
+        {
+          "block_no": 150,
+          "block_type": 0,
+          "bbox": [
+            154.71019925882297,
+            492.22590900911746,
+            209.28980074117703,
+            528.7740909908825
+          ],
+          "text": "and",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 151,
+          "block_type": 0,
+          "bbox": [
+            100.3358994113243,
+            500.3596332971838,
+            159.6641005886757,
+            535.6403667028162
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 152,
+          "block_type": 0,
+          "bbox": [
+            29.316718427000254,
+            511.0244861763944,
+            109.68328157299975,
+            563.9755138236055
+          ],
+          "text": "Sample",
+          "confidence": 0.8938
+        },
+        {
+          "block_no": 153,
+          "block_type": 0,
+          "bbox": [
+            144.65835921350012,
+            530.1915007324429,
+            200.34164078649988,
+            567.8084992675571
+          ],
+          "text": "and",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 154,
+          "block_type": 0,
+          "bbox": [
+            89.25628541884271,
+            538.3596332971838,
+            149.7437145811573,
+            573.6403667028162
+          ],
+          "text": "Date",
+          "confidence": 0.6766
+        },
+        {
+          "block_no": 155,
+          "block_type": 0,
+          "bbox": [
+            23.0,
+            548.1002866292282,
+            100.0,
+            596.8997133707718
+          ],
+          "text": "Report _",
+          "confidence": 0.7516
+        },
+        {
+          "block_no": 156,
+          "block_type": 0,
+          "bbox": [
+            18.770117561258502,
+            586.3559212280674,
+            92.2298824387415,
+            627.6440787719326
+          ],
+          "text": "Status",
+          "confidence": 0.6501
+        },
+        {
+          "block_no": 157,
+          "block_type": 0,
+          "bbox": [
+            7.4050955543422,
+            719.76649452564,
+            69.5949044456578,
+            759.23350547436
+          ],
+          "text": "Iest_",
+          "confidence": 0.3822
+        },
+        {
+          "block_no": 158,
+          "block_type": 0,
+          "bbox": [
+            1318.7805784783006,
+            1480.9262490156136,
+            1358.2194215216994,
+            1504.0737509843864
+          ],
+          "text": "and",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 159,
+          "block_type": 0,
+          "bbox": [
+            212.00041214806856,
+            2250.065850925475,
+            412.99958785193144,
+            2291.934149074525
+          ],
+          "text": "Oricem/e/1 4Ned",
+          "confidence": 0.1004
+        }
+      ]
+    }
+  ],
+  "full_text": "HOSPITAL\nCity,\nAmalapuram\nTM\nAP\n533201\nIwwwkims.in\nNA BM\nVIMSI\nLoni ouen\n191\nH-2022-1059\nMrs,\nANIVALLI LAKSHMI KOUNDINYA\n7 2 2\nIt\n56Y/F\nISex\nGYNAECOLOGY\nKIMS-1667722\nVisit No\nOP-25039472\nTime\n10,00\nSpecimen\nBLOOD(EDTA)\nTime\n11,15\nSample No\nBLE133311\nApproved\nDepartment Of_Hematology\nDescription\nResult\nUnits\nReference Range\nMethodology\nComplete Blood Picture\nCBP ), EDTA Whole Blood\nHaemoglobin\n13.1\ng/dL\n12\n15\nSpectrophotmetry\nPacked Cell Volume(PCV)\n37.2\n%\n36\n46\nDerived from Impedance\nTotal RBC Count\n4.20\nmillion/cumm 3.8\n4,8\nElectrical Impedance\nMCV\n88.5\nfL\n83\n101\nCalculated\nMCH\n31.2\nPg\n27\n32\nCalculated\nMCHC\n35.2 #\ng/dL\n31.5\n34.5\nCalculated\nRDW-CV\n12.6\n%\n11.6\n14.0\nDerived from Impedance\nPlatelet Count\n1.72\nLakhs/Cumm\n1.5\n4.1\nElectrical Impedance\nMPV\n8.9\nfl\n7.0\n10.0\nDerived from Impedance\nTotal WBC Count\n6,980\ncells/cumm\n4000\n10000\nElectrical Impedance\nNeutrophils\n65.7\n%\nImpedance and\n40\n80\nAbsorbance\nLymphocytes\n27.6\n%\nImpedance and\n20\n40\nAbsorbance\nEosinophils\n2.4\n%\nImpedance and\n01\n06\nAbsorbance\nMonocytes\n3.3\n%\nImpedance and\n02\n10\nAbsorbance\nBasophils\n1.0\n%\n0.0\n2.0\nImpedance\nAbsorbance\nNote: Please Correlate with Clinical Findings\n*x* End of Report ***\nTechnician\n2035\nDr.\nDivya Duvvada\nPathology\n'SPECIALTY\nGPER\nHealth\nIcnaitanya\nDistrict, _\naavari\n239999 [\n' 8856 _\nName\nIepartment\nand\nDate\nSample\nand\nDate\nReport _\nStatus\nIest_\nand\nOricem/e/1 4Ned",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "2022",
+          "unit": "",
+          "reference_range": "-2022-1059",
+          "source_line": "H-2022-1059",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "KIMS",
+          "biomarker_normalized": "KIMS",
+          "value": "1667722",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "KIMS-1667722",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "OP",
+          "biomarker_normalized": "OP",
+          "value": "25039472",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "OP-25039472",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "BLE1",
+          "biomarker_normalized": "BLE1",
+          "value": "33311",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BLE133311",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "million/cumm",
+          "biomarker_normalized": "million/cumm",
+          "value": "3.8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "million/cumm 3.8",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Oricem/e/",
+          "biomarker_normalized": "Oricem/e/",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Oricem/e/1 4Ned",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 160,
+    "ocr_avg_confidence": 0.8588,
+    "parsed_row_count": 6
+  }
+}

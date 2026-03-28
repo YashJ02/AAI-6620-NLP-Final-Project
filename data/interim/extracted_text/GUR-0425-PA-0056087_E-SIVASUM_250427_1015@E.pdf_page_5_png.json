@@ -1,0 +1,1164 @@
+{
+  "document_id": "GUR-0425-PA-0056087_E-SIVASUM_250427_1015@E.pdf_page_5",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056087_E-SIVASUM_250427_1015@E.pdf_page_5.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SRI RAMACHANDRA HOSPITAL\nSri Ramachandra Medical College\nResearch Institute\nINVESTIGATION REPORT\n4c 7520\nPatient\nMR\nReferring Doctor\nSURENDRAN P (G.SUR)\nPLOT NO 161, MADHURAM NAGAR, 2ND\nSTREET,IYYAPANTHANGALCHENNAI,TAMILNADU,INDIA\nDepartment\nGENERAL SURGERY\nPatientid\nJAYAGOPAL\nTest]\nPLASMA GLUCOSE (P.P)\n161\n80-140\nmg/dL\nFluoride Plasma\nHexokinase\nPLASMA GLUCOSE (R)\n128\n80-140\nPlasma\nHexokinase\nRENAL PROFILE (BUN,CREATININE,ELECTROLYTES)\nBUN\n6-20\nmg/dL\nSerum\nUrease\nCREATININE\n0.9\n0.7-1.2\nmg/dL\nSerum\nJaffesKinetic\nSODIUM\n134\n136-145\nmmol/L\nSerum\nISE Indirect\nPOTASSIUM\n4.1\n35-5.1\nmmol/L\nSerum\nISE\nIndirect\nCHLORIDE\n103\n98-107\nmmol/L\nSerum\nISE\nIndirect\nBICARBONATE\n13\n22-29\nmmol/L\nSerum\nEnzymatic,PEPC\nLRT.\nS.G.O.T\n25\n<40\nIUIL\nSerum\nUV without PSP\nS.GPT\n23\n<41\nIU/L\nA oN_DJ@\nLEENA CHAND DR\nASSOCIATE PROFESSOR\nAll investigations have their limitations which are imposed by the limits %f sensitivity and specificity of individual assay procedures as well as the quality of the specimen receiced by laboratory. Isolated laboratory investigations nerer\nconfirm the final diugnosis of the disease.\nonly help in arriving at\ndiagnosis in conjunction with clinical presentation and other related incestigations The contents of this report may be used for statistical analysis and reseach\npurpose in this insititute_\nPARTIAL REPRODUCTION OF THIS REPORT IS NOT PERMITTED\nElectronically signed & released.No\nSignature required\nNo.1,Ramachandra Nagar,Porur;Chennai-600 116 Ph\n044 45928500, Ext.227\n569\n18:57:00\nmgdL\nThey",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            514.0,
+            306.0,
+            1139.0,
+            349.0
+          ],
+          "text": "SRI RAMACHANDRA HOSPITAL",
+          "confidence": 0.8822
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            427.0,
+            357.0,
+            927.0,
+            400.0
+          ],
+          "text": "Sri Ramachandra Medical College",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            963.0,
+            359.0,
+            1231.0,
+            395.0
+          ],
+          "text": "Research Institute",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            404.0,
+            1028.0,
+            436.0
+          ],
+          "text": "INVESTIGATION REPORT",
+          "confidence": 0.7938
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1281.0,
+            425.0,
+            1353.0,
+            439.0
+          ],
+          "text": "4c 7520",
+          "confidence": 0.1663
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            518.0,
+            152.0,
+            542.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            552.0,
+            118.0,
+            576.0
+          ],
+          "text": "MR",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1011.0,
+            534.0,
+            1205.0,
+            571.0
+          ],
+          "text": "Referring Doctor",
+          "confidence": 0.854
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            588.0,
+            1292.0,
+            616.0
+          ],
+          "text": "SURENDRAN P (G.SUR)",
+          "confidence": 0.8274
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            608.0,
+            548.0,
+            638.0
+          ],
+          "text": "PLOT NO 161, MADHURAM NAGAR, 2ND",
+          "confidence": 0.7845
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            636.0,
+            768.0,
+            668.0
+          ],
+          "text": "STREET,IYYAPANTHANGALCHENNAI,TAMILNADU,INDIA",
+          "confidence": 0.827
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1011.0,
+            633.0,
+            1148.0,
+            663.0
+          ],
+          "text": "Department",
+          "confidence": 0.9851
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            692.0,
+            1260.0,
+            718.0
+          ],
+          "text": "GENERAL SURGERY",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            778.0,
+            153.0,
+            804.0
+          ],
+          "text": "Patientid",
+          "confidence": 0.6663
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            806.0,
+            1382.0,
+            832.0
+          ],
+          "text": "JAYAGOPAL",
+          "confidence": 0.8239
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            844.0,
+            94.0,
+            870.0
+          ],
+          "text": "Test]",
+          "confidence": 0.4193
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            986.0,
+            360.0,
+            1016.0
+          ],
+          "text": "PLASMA GLUCOSE (P.P)",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            986.0,
+            938.0,
+            1012.0
+          ],
+          "text": "161",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            986.0,
+            1216.0,
+            1012.0
+          ],
+          "text": "80-140",
+          "confidence": 0.8516
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            986.0,
+            1526.0,
+            1016.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.5025
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1025.0,
+            189.0,
+            1041.0
+          ],
+          "text": "Fluoride Plasma",
+          "confidence": 0.9733
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            1025.0,
+            289.0,
+            1041.0
+          ],
+          "text": "Hexokinase",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            1049.0,
+            342.0,
+            1080.0
+          ],
+          "text": "PLASMA GLUCOSE (R)",
+          "confidence": 0.9848
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1050.0,
+            940.0,
+            1076.0
+          ],
+          "text": "128",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1050.0,
+            1216.0,
+            1076.0
+          ],
+          "text": "80-140",
+          "confidence": 0.5575
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1091.0,
+            127.0,
+            1107.0
+          ],
+          "text": "Plasma",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            1089.0,
+            227.0,
+            1107.0
+          ],
+          "text": "Hexokinase",
+          "confidence": 0.9932
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1116.0,
+            696.0,
+            1144.0
+          ],
+          "text": "RENAL PROFILE (BUN,CREATININE,ELECTROLYTES)",
+          "confidence": 0.9711
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1182.0,
+            130.0,
+            1208.0
+          ],
+          "text": "BUN",
+          "confidence": 0.5802
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1182.0,
+            1192.0,
+            1208.0
+          ],
+          "text": "6-20",
+          "confidence": 0.8978
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1182.0,
+            1526.0,
+            1212.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.5025
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1221.0,
+            123.0,
+            1237.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1221.0,
+            191.0,
+            1237.0
+          ],
+          "text": "Urease",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1248.0,
+            228.0,
+            1272.0
+          ],
+          "text": "CREATININE",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            1248.0,
+            934.0,
+            1272.0
+          ],
+          "text": "0.9",
+          "confidence": 0.7401
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1246.0,
+            1216.0,
+            1272.0
+          ],
+          "text": "0.7-1.2",
+          "confidence": 0.7633
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1246.0,
+            1528.0,
+            1276.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.6518
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1285.0,
+            123.0,
+            1303.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1285.0,
+            237.0,
+            1303.0
+          ],
+          "text": "JaffesKinetic",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            1311.0,
+            175.0,
+            1337.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1312.0,
+            940.0,
+            1338.0
+          ],
+          "text": "134",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1312.0,
+            1228.0,
+            1338.0
+          ],
+          "text": "136-145",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1314.0,
+            1540.0,
+            1338.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.8205
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1351.0,
+            123.0,
+            1369.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1349.0,
+            225.0,
+            1369.0
+          ],
+          "text": "ISE Indirect",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1376.0,
+            218.0,
+            1404.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.633
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            899.0,
+            1381.0,
+            931.0,
+            1401.0
+          ],
+          "text": "4.1",
+          "confidence": 0.7087
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1378.0,
+            1214.0,
+            1404.0
+          ],
+          "text": "35-5.1",
+          "confidence": 0.6729
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1378.0,
+            1540.0,
+            1404.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.9546
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1417.0,
+            123.0,
+            1433.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1415.0,
+            169.0,
+            1433.0
+          ],
+          "text": "ISE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            1417.0,
+            235.0,
+            1433.0
+          ],
+          "text": "Indirect",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            73.0,
+            1443.0,
+            203.0,
+            1469.0
+          ],
+          "text": "CHLORIDE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1444.0,
+            940.0,
+            1468.0
+          ],
+          "text": "103",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1444.0,
+            1216.0,
+            1470.0
+          ],
+          "text": "98-107",
+          "confidence": 0.8653
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1444.0,
+            1540.0,
+            1470.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.9546
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1483.0,
+            123.0,
+            1499.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1481.0,
+            169.0,
+            1499.0
+          ],
+          "text": "ISE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            1483.0,
+            235.0,
+            1499.0
+          ],
+          "text": "Indirect",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1508.0,
+            254.0,
+            1534.0
+          ],
+          "text": "BICARBONATE",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1508.0,
+            928.0,
+            1534.0
+          ],
+          "text": "13",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1508.0,
+            1204.0,
+            1534.0
+          ],
+          "text": "22-29",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1510.0,
+            1540.0,
+            1534.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.8205
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1547.0,
+            123.0,
+            1565.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1544.0,
+            260.0,
+            1568.0
+          ],
+          "text": "Enzymatic,PEPC",
+          "confidence": 0.8064
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1574.0,
+            140.0,
+            1600.0
+          ],
+          "text": "LRT.",
+          "confidence": 0.3776
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1640.0,
+            162.0,
+            1666.0
+          ],
+          "text": "S.G.O.T",
+          "confidence": 0.898
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1640.0,
+            930.0,
+            1668.0
+          ],
+          "text": "25",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1142.0,
+            1640.0,
+            1184.0,
+            1664.0
+          ],
+          "text": "<40",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            1640.0,
+            1508.0,
+            1666.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.4719
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            1679.0,
+            123.0,
+            1695.0
+          ],
+          "text": "Serum",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1677.0,
+            253.0,
+            1695.0
+          ],
+          "text": "UV without PSP",
+          "confidence": 0.8937
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            1704.0,
+            158.0,
+            1730.0
+          ],
+          "text": "S.GPT",
+          "confidence": 0.5747
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            1704.0,
+            928.0,
+            1730.0
+          ],
+          "text": "23",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            1706.0,
+            1188.0,
+            1730.0
+          ],
+          "text": "<41",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1454.0,
+            1704.0,
+            1508.0,
+            1730.0
+          ],
+          "text": "IU/L",
+          "confidence": 0.7671
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            1815.0,
+            1439.0,
+            1901.0
+          ],
+          "text": "A oN_DJ@",
+          "confidence": 0.036
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            1934.0,
+            1316.0,
+            1962.0
+          ],
+          "text": "LEENA CHAND DR",
+          "confidence": 0.7936
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1076.0,
+            1980.0,
+            1388.0,
+            2008.0
+          ],
+          "text": "ASSOCIATE PROFESSOR",
+          "confidence": 0.895
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            35.0,
+            2065.0,
+            1553.0,
+            2085.0
+          ],
+          "text": "All investigations have their limitations which are imposed by the limits %f sensitivity and specificity of individual assay procedures as well as the quality of the specimen receiced by laboratory. Isolated laboratory investigations nerer",
+          "confidence": 0.3719
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            32.0,
+            2082.0,
+            310.0,
+            2107.0
+          ],
+          "text": "confirm the final diugnosis of the disease.",
+          "confidence": 0.6888
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            344.0,
+            2082.0,
+            502.0,
+            2106.0
+          ],
+          "text": "only help in arriving at",
+          "confidence": 0.9217
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            513.0,
+            2085.0,
+            1549.0,
+            2105.0
+          ],
+          "text": "diagnosis in conjunction with clinical presentation and other related incestigations The contents of this report may be used for statistical analysis and reseach",
+          "confidence": 0.5789
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            33.0,
+            2105.0,
+            199.0,
+            2123.0
+          ],
+          "text": "purpose in this insititute_",
+          "confidence": 0.8999
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            491.0,
+            2123.0,
+            1035.0,
+            2141.0
+          ],
+          "text": "PARTIAL REPRODUCTION OF THIS REPORT IS NOT PERMITTED",
+          "confidence": 0.8788
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            581.0,
+            2165.0,
+            821.0,
+            2185.0
+          ],
+          "text": "Electronically signed & released.No",
+          "confidence": 0.8181
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            820.0,
+            2162.0,
+            951.0,
+            2189.0
+          ],
+          "text": "Signature required",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            2187.0,
+            908.0,
+            2216.0
+          ],
+          "text": "No.1,Ramachandra Nagar,Porur;Chennai-600 116 Ph",
+          "confidence": 0.8519
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            2187.0,
+            1124.0,
+            2212.0
+          ],
+          "text": "044 45928500, Ext.227",
+          "confidence": 0.5647
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1132.0,
+            2188.0,
+            1172.0,
+            2212.0
+          ],
+          "text": "569",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            2224.0,
+            1458.0,
+            2254.0
+          ],
+          "text": "18:57:00",
+          "confidence": 0.5278
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1454.543071206464,
+            1047.674947924617,
+            1526.456928793536,
+            1082.325052075383
+          ],
+          "text": "mgdL",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            306.09201256619747,
+            2083.2516854477567,
+            344.90798743380253,
+            2104.7483145522433
+          ],
+          "text": "They",
+          "confidence": 0.5009
+        }
+      ]
+    }
+  ],
+  "full_text": "SRI RAMACHANDRA HOSPITAL\nSri Ramachandra Medical College\nResearch Institute\nINVESTIGATION REPORT\n4c 7520\nPatient\nMR\nReferring Doctor\nSURENDRAN P (G.SUR)\nPLOT NO 161, MADHURAM NAGAR, 2ND\nSTREET,IYYAPANTHANGALCHENNAI,TAMILNADU,INDIA\nDepartment\nGENERAL SURGERY\nPatientid\nJAYAGOPAL\nTest]\nPLASMA GLUCOSE (P.P)\n161\n80-140\nmg/dL\nFluoride Plasma\nHexokinase\nPLASMA GLUCOSE (R)\n128\n80-140\nPlasma\nHexokinase\nRENAL PROFILE (BUN,CREATININE,ELECTROLYTES)\nBUN\n6-20\nmg/dL\nSerum\nUrease\nCREATININE\n0.9\n0.7-1.2\nmg/dL\nSerum\nJaffesKinetic\nSODIUM\n134\n136-145\nmmol/L\nSerum\nISE Indirect\nPOTASSIUM\n4.1\n35-5.1\nmmol/L\nSerum\nISE\nIndirect\nCHLORIDE\n103\n98-107\nmmol/L\nSerum\nISE\nIndirect\nBICARBONATE\n13\n22-29\nmmol/L\nSerum\nEnzymatic,PEPC\nLRT.\nS.G.O.T\n25\n<40\nIUIL\nSerum\nUV without PSP\nS.GPT\n23\n<41\nIU/L\nA oN_DJ@\nLEENA CHAND DR\nASSOCIATE PROFESSOR\nAll investigations have their limitations which are imposed by the limits %f sensitivity and specificity of individual assay procedures as well as the quality of the specimen receiced by laboratory. Isolated laboratory investigations nerer\nconfirm the final diugnosis of the disease.\nonly help in arriving at\ndiagnosis in conjunction with clinical presentation and other related incestigations The contents of this report may be used for statistical analysis and reseach\npurpose in this insititute_\nPARTIAL REPRODUCTION OF THIS REPORT IS NOT PERMITTED\nElectronically signed & released.No\nSignature required\nNo.1,Ramachandra Nagar,Porur;Chennai-600 116 Ph\n044 45928500, Ext.227\n569\n18:57:00\nmgdL\nThey",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "PLOT NO",
+          "biomarker_normalized": "PLOT NO",
+          "value": "161",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PLOT NO 161, MADHURAM NAGAR, 2ND",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "No.",
+          "biomarker_normalized": "No.",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "No.1,Ramachandra Nagar,Porur;Chennai-600 116 Ph",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 93,
+    "ocr_avg_confidence": 0.8438,
+    "parsed_row_count": 2
+  }
+}

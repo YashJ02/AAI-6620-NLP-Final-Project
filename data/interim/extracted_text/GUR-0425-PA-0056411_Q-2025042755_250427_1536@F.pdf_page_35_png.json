@@ -1,0 +1,2979 @@
+{
+  "document_id": "GUR-0425-PA-0056411_Q-2025042755_250427_1536@F.pdf_page_35",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056411_Q-2025042755_250427_1536@F.pdf_page_35.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Kailash Hospital & Heart Institute\nki\nSuper Speciality (NABK ACCREDITED)\nH-33,\nSector\n27 ,\nNoida=201301\nLAB REPORT\nUHID\n2302966\nNo\nIPd/25n/4058\nDate\n243\n12025\nBed\nNo\nCasualty\n12\nD\nDr\nJITENDRA\nGUPTA\nSample\nCollected\n24 /Apr/2025\n12:56:52PM\nCollected\nAt\nCASUALTY-2\nReported\n24_\nApr/2025\n02 : 34 : 53PM\nInvestigation\nResult\nUnit\nBiological\nRef\nInterval\nLIVER FUNCTION\nTEST\n(SERU)\nBILIRUBIN\n[TOTAL)\n0 . 601\nmg / dL\n0 .2\n1.3\nDiphyllIne,\nDiazonium salt\nBILIRUBIN\n(DIRECT)\n492\nmg/ dL\n0 .0\n0.40\nCalculated\nBILIRUBIN\n(INDIRECT)\n0\n19\nmg / dL\n0 . 0\n1.1\nDlrect\nMeasure\n(Dual-wave length scctral\nmeasurcment)\nS.G.0.T\n(AST)\n10\nU/L\n14-36\nMultiple\npoint\nratc ubing PSP\nS.G.P.T\n(ALT)\n32\nu/L\n<35\nKultiple point\nrate using PSP\nG.G.T\n61\nU/L\n12-43\nG-glutanyl-p-nftroanilfde\nALKALINE\nPHOSPHATASE\n126\nU/L\n38\n126\nPNPP, AMP Buffer\nTOTAL\nPROTEINS\n7 . 7\ngm/ dL\n6 .3\n8 . 2\nBfuret method\nALBUMIN\n4 .1\ndL\n3 .5\n5.0\nBromocreso]\ngreen\nGLOBULIN\n36\ndL\n2 . 5\n3 .5\nCalculated\nA/G\nRATIO\n4144\n1.5\n2 .5\nCalculated\nNote\n1\nIn\nan\nasymptomatic patient\nNon\nalcoholic fatty liver\ndisease\n(NAFLD)\nis\nthe\nmost\ncommon\ncause\nof\nincreased\nAST, ALT\nleveles\nNAFLD\nis\nconsidered\nas\nhepatic\nmanifestation\nof\nmetabolic syndrome\n2 _\nIn\nmost\ntype\nof\nliver\ndisease\nALT\nactivity\nis\nhigher\nthan\nthat\nof\nAST ,\nexception\nmay\nbe\nseen\nin\nAlcoholic Hepatitis\nHepatic\nCirrhosis\nand\nLiver neoplasia_\nIn\npatient\nwith\nChronic\nliver\ndisease\nAST:ALT\nratio\n>1\nis\nhighly suggestive\nof\nadvanced\nliver\nfibrosis _\nCOMPLETE BLOOD COUNT (CBC)\n(EDTR Whola Blood)\nHAEMOGLOBIN\n103\ng/dL\n12.0\n15.0\nSLS Heamoglobin Kethod\nPACKED\nCELL\nVOLUME\n(PCV)\n36\n36\n46\nRBC\nse height\ndetection\nmethod\nR.B.C _\nCount\n3.33\nx10^12/1\n3 . 8\n4 . 8\nHydro\nDynanic Focusing\n(CC Detection)\nMCV\n100 . 9\nfL\n83\n-101\nCalculated\nMCH\n30 . 9\npg\n27\n32\nCalculated\nHEALTK CARE PAR EXCELLENCE\nKAILASH HEALTHCARE LTD\nCIN\nU74899DL1993PLC054864\nRegd. Office\nA-101, New Ashok Nagar; Delhi\n110096\niapre\ngm /\ngm/ <\npu] =",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            347.0,
+            64.0,
+            1274.0,
+            153.0
+          ],
+          "text": "Kailash Hospital & Heart Institute",
+          "confidence": 0.5657
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            86.0,
+            262.0,
+            214.0
+          ],
+          "text": "ki",
+          "confidence": 0.8619
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            587.0,
+            140.0,
+            1031.0,
+            181.0
+          ],
+          "text": "Super Speciality (NABK ACCREDITED)",
+          "confidence": 0.5444
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            543.0,
+            175.0,
+            631.0,
+            219.0
+          ],
+          "text": "H-33,",
+          "confidence": 0.5153
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            179.0,
+            755.0,
+            217.0
+          ],
+          "text": "Sector",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            773.0,
+            181.0,
+            819.0,
+            217.0
+          ],
+          "text": "27 ,",
+          "confidence": 0.8603
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            853.0,
+            180.0,
+            1077.0,
+            218.0
+          ],
+          "text": "Noida=201301",
+          "confidence": 0.7794
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            336.0,
+            934.0,
+            368.0
+          ],
+          "text": "LAB REPORT",
+          "confidence": 0.9875
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            394.0,
+            146.0,
+            418.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9912
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            388.0,
+            414.0,
+            414.0
+          ],
+          "text": "2302966",
+          "confidence": 0.8709
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            500.0,
+            394.0,
+            536.0,
+            418.0
+          ],
+          "text": "No",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            392.0,
+            766.0,
+            418.0
+          ],
+          "text": "IPd/25n/4058",
+          "confidence": 0.6482
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            394.0,
+            946.0,
+            418.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            384.0,
+            1040.0,
+            416.0
+          ],
+          "text": "243",
+          "confidence": 0.1655
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            388.0,
+            1158.0,
+            414.0
+          ],
+          "text": "12025",
+          "confidence": 0.6986
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            394.0,
+            1232.0,
+            418.0
+          ],
+          "text": "Bed",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1241.0,
+            397.0,
+            1271.0,
+            417.0
+          ],
+          "text": "No",
+          "confidence": 0.9746
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1385.0,
+            389.0,
+            1498.0,
+            418.0
+          ],
+          "text": "Casualty",
+          "confidence": 0.9586
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1506.0,
+            390.0,
+            1536.0,
+            414.0
+          ],
+          "text": "12",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            71.0,
+            435.0,
+            155.0,
+            521.0
+          ],
+          "text": "D",
+          "confidence": 0.5302
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            492.0,
+            350.0,
+            516.0
+          ],
+          "text": "Dr",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            357.0,
+            490.0,
+            475.0,
+            516.0
+          ],
+          "text": "JITENDRA",
+          "confidence": 0.9685
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            490.0,
+            560.0,
+            516.0
+          ],
+          "text": "GUPTA",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            496.0,
+            974.0,
+            524.0
+          ],
+          "text": "Sample",
+          "confidence": 0.7716
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            496.0,
+            1116.0,
+            522.0
+          ],
+          "text": "Collected",
+          "confidence": 0.842
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            490.0,
+            1346.0,
+            518.0
+          ],
+          "text": "24 /Apr/2025",
+          "confidence": 0.6935
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1370.0,
+            490.0,
+            1514.0,
+            516.0
+          ],
+          "text": "12:56:52PM",
+          "confidence": 0.9074
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            529.0,
+            215.0,
+            555.0
+          ],
+          "text": "Collected",
+          "confidence": 0.9773
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            224.0,
+            532.0,
+            256.0,
+            556.0
+          ],
+          "text": "At",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            524.0,
+            460.0,
+            550.0
+          ],
+          "text": "CASUALTY-2",
+          "confidence": 0.8233
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            883.0,
+            529.0,
+            1002.0,
+            558.0
+          ],
+          "text": "Reported",
+          "confidence": 0.8978
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            524.0,
+            1220.0,
+            550.0
+          ],
+          "text": "24_",
+          "confidence": 0.9848
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            524.0,
+            1348.0,
+            552.0
+          ],
+          "text": "Apr/2025",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            524.0,
+            1514.0,
+            550.0
+          ],
+          "text": "02 : 34 : 53PM",
+          "confidence": 0.4146
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            576.0,
+            294.0,
+            606.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.8304
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            575.0,
+            910.0,
+            601.0
+          ],
+          "text": "Result",
+          "confidence": 0.4919
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1034.0,
+            576.0,
+            1098.0,
+            602.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            576.0,
+            1320.0,
+            606.0
+          ],
+          "text": "Biological",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1330.0,
+            576.0,
+            1380.0,
+            602.0
+          ],
+          "text": "Ref",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1390.0,
+            576.0,
+            1508.0,
+            602.0
+          ],
+          "text": "Interval",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            620.0,
+            348.0,
+            650.0
+          ],
+          "text": "LIVER FUNCTION",
+          "confidence": 0.6518
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            620.0,
+            430.0,
+            650.0
+          ],
+          "text": "TEST",
+          "confidence": 0.8663
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            652.0,
+            192.0,
+            676.0
+          ],
+          "text": "(SERU)",
+          "confidence": 0.9944
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            716.0,
+            280.0,
+            742.0
+          ],
+          "text": "BILIRUBIN",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            716.0,
+            402.0,
+            746.0
+          ],
+          "text": "[TOTAL)",
+          "confidence": 0.8759
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            718.0,
+            884.0,
+            748.0
+          ],
+          "text": "0 . 601",
+          "confidence": 0.9909
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            716.0,
+            1104.0,
+            746.0
+          ],
+          "text": "mg / dL",
+          "confidence": 0.6064
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            716.0,
+            1232.0,
+            744.0
+          ],
+          "text": "0 .2",
+          "confidence": 0.7236
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            716.0,
+            1324.0,
+            744.0
+          ],
+          "text": "1.3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            752.0,
+            250.0,
+            776.0
+          ],
+          "text": "DiphyllIne,",
+          "confidence": 0.8398
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            753.0,
+            411.0,
+            773.0
+          ],
+          "text": "Diazonium salt",
+          "confidence": 0.9607
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            780.0,
+            280.0,
+            810.0
+          ],
+          "text": "BILIRUBIN",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            780.0,
+            416.0,
+            810.0
+          ],
+          "text": "(DIRECT)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            780.0,
+            886.0,
+            812.0
+          ],
+          "text": "492",
+          "confidence": 0.9229
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            780.0,
+            1104.0,
+            810.0
+          ],
+          "text": "mg/ dL",
+          "confidence": 0.97
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            780.0,
+            1234.0,
+            808.0
+          ],
+          "text": "0 .0",
+          "confidence": 0.8065
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            780.0,
+            1340.0,
+            808.0
+          ],
+          "text": "0.40",
+          "confidence": 0.7232
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            817.0,
+            241.0,
+            837.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9787
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            844.0,
+            280.0,
+            872.0
+          ],
+          "text": "BILIRUBIN",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            844.0,
+            446.0,
+            872.0
+          ],
+          "text": "(INDIRECT)",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            846.0,
+            826.0,
+            872.0
+          ],
+          "text": "0",
+          "confidence": 0.3931
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            846.0,
+            868.0,
+            874.0
+          ],
+          "text": "19",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            844.0,
+            1104.0,
+            874.0
+          ],
+          "text": "mg / dL",
+          "confidence": 0.6674
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            844.0,
+            1232.0,
+            870.0
+          ],
+          "text": "0 . 0",
+          "confidence": 0.5072
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            844.0,
+            1322.0,
+            872.0
+          ],
+          "text": "1.1",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            881.0,
+            197.0,
+            901.0
+          ],
+          "text": "Dlrect",
+          "confidence": 0.453
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            885.0,
+            283.0,
+            901.0
+          ],
+          "text": "Measure",
+          "confidence": 0.7337
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            292.0,
+            877.0,
+            564.0,
+            905.0
+          ],
+          "text": "(Dual-wave length scctral",
+          "confidence": 0.8319
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            573.0,
+            883.0,
+            705.0,
+            901.0
+          ],
+          "text": "measurcment)",
+          "confidence": 0.932
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            908.0,
+            248.0,
+            936.0
+          ],
+          "text": "S.G.0.T",
+          "confidence": 0.9311
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            280.0,
+            908.0,
+            354.0,
+            938.0
+          ],
+          "text": "(AST)",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            905.0,
+            841.0,
+            943.0
+          ],
+          "text": "10",
+          "confidence": 0.8832
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            908.0,
+            1070.0,
+            934.0
+          ],
+          "text": "U/L",
+          "confidence": 0.5891
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            906.0,
+            1264.0,
+            936.0
+          ],
+          "text": "14-36",
+          "confidence": 0.9072
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            944.0,
+            220.0,
+            968.0
+          ],
+          "text": "Multiple",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            945.0,
+            283.0,
+            965.0
+          ],
+          "text": "point",
+          "confidence": 0.9633
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            940.0,
+            446.0,
+            968.0
+          ],
+          "text": "ratc ubing PSP",
+          "confidence": 0.3601
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            972.0,
+            248.0,
+            1000.0
+          ],
+          "text": "S.G.P.T",
+          "confidence": 0.8294
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            972.0,
+            352.0,
+            1000.0
+          ],
+          "text": "(ALT)",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            974.0,
+            838.0,
+            1002.0
+          ],
+          "text": "32",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            972.0,
+            1070.0,
+            998.0
+          ],
+          "text": "u/L",
+          "confidence": 0.3758
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            972.0,
+            1230.0,
+            998.0
+          ],
+          "text": "<35",
+          "confidence": 0.9706
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1006.0,
+            284.0,
+            1032.0
+          ],
+          "text": "Kultiple point",
+          "confidence": 0.6485
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            1006.0,
+            446.0,
+            1032.0
+          ],
+          "text": "rate using PSP",
+          "confidence": 0.6492
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1038.0,
+            218.0,
+            1064.0
+          ],
+          "text": "G.G.T",
+          "confidence": 0.8762
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1038.0,
+            838.0,
+            1068.0
+          ],
+          "text": "61",
+          "confidence": 0.5527
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            1036.0,
+            1070.0,
+            1064.0
+          ],
+          "text": "U/L",
+          "confidence": 0.5405
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1036.0,
+            1262.0,
+            1064.0
+          ],
+          "text": "12-43",
+          "confidence": 0.5771
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1072.0,
+            402.0,
+            1096.0
+          ],
+          "text": "G-glutanyl-p-nftroanilfde",
+          "confidence": 0.6408
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1100.0,
+            264.0,
+            1128.0
+          ],
+          "text": "ALKALINE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            276.0,
+            1100.0,
+            450.0,
+            1130.0
+          ],
+          "text": "PHOSPHATASE",
+          "confidence": 0.9444
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1102.0,
+            852.0,
+            1130.0
+          ],
+          "text": "126",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            1100.0,
+            1070.0,
+            1126.0
+          ],
+          "text": "U/L",
+          "confidence": 0.9888
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            1100.0,
+            1218.0,
+            1128.0
+          ],
+          "text": "38",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            1100.0,
+            1308.0,
+            1126.0
+          ],
+          "text": "126",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1137.0,
+            293.0,
+            1157.0
+          ],
+          "text": "PNPP, AMP Buffer",
+          "confidence": 0.8648
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1162.0,
+            218.0,
+            1192.0
+          ],
+          "text": "TOTAL",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            1163.0,
+            358.0,
+            1191.0
+          ],
+          "text": "PROTEINS",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            1168.0,
+            852.0,
+            1192.0
+          ],
+          "text": "7 . 7",
+          "confidence": 0.6529
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            1164.0,
+            1104.0,
+            1194.0
+          ],
+          "text": "gm/ dL",
+          "confidence": 0.6221
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            1164.0,
+            1242.0,
+            1190.0
+          ],
+          "text": "6 .3",
+          "confidence": 0.5739
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1164.0,
+            1324.0,
+            1190.0
+          ],
+          "text": "8 . 2",
+          "confidence": 0.3937
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1201.0,
+            273.0,
+            1221.0
+          ],
+          "text": "Bfuret method",
+          "confidence": 0.922
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1228.0,
+            250.0,
+            1256.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1232.0,
+            852.0,
+            1256.0
+          ],
+          "text": "4 .1",
+          "confidence": 0.6428
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            1228.0,
+            1104.0,
+            1256.0
+          ],
+          "text": "dL",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1228.0,
+            1232.0,
+            1254.0
+          ],
+          "text": "3 .5",
+          "confidence": 0.6243
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1226.0,
+            1324.0,
+            1254.0
+          ],
+          "text": "5.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1265.0,
+            249.0,
+            1285.0
+          ],
+          "text": "Bromocreso]",
+          "confidence": 0.7178
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            1267.0,
+            315.0,
+            1287.0
+          ],
+          "text": "green",
+          "confidence": 0.963
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1292.0,
+            264.0,
+            1320.0
+          ],
+          "text": "GLOBULIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1292.0,
+            856.0,
+            1324.0
+          ],
+          "text": "36",
+          "confidence": 0.4604
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            1065.0,
+            1285.0,
+            1107.0,
+            1321.0
+          ],
+          "text": "dL",
+          "confidence": 0.9803
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1290.0,
+            1234.0,
+            1320.0
+          ],
+          "text": "2 . 5",
+          "confidence": 0.6101
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1290.0,
+            1326.0,
+            1320.0
+          ],
+          "text": "3 .5",
+          "confidence": 0.9847
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1326.0,
+            242.0,
+            1350.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1356.0,
+            186.0,
+            1382.0
+          ],
+          "text": "A/G",
+          "confidence": 0.814
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1356.0,
+            280.0,
+            1382.0
+          ],
+          "text": "RATIO",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1356.0,
+            870.0,
+            1388.0
+          ],
+          "text": "4144",
+          "confidence": 0.1335
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1354.0,
+            1230.0,
+            1382.0
+          ],
+          "text": "1.5",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1354.0,
+            1324.0,
+            1382.0
+          ],
+          "text": "2 .5",
+          "confidence": 0.8827
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            1389.0,
+            251.0,
+            1413.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.8126
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1424.0,
+            184.0,
+            1450.0
+          ],
+          "text": "Note",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1459.0,
+            139.0,
+            1483.0
+          ],
+          "text": "1",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1458.0,
+            200.0,
+            1484.0
+          ],
+          "text": "In",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1463.0,
+            245.0,
+            1483.0
+          ],
+          "text": "an",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            255.0,
+            1452.0,
+            575.0,
+            1491.0
+          ],
+          "text": "asymptomatic patient",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            1458.0,
+            636.0,
+            1484.0
+          ],
+          "text": "Non",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1453.0,
+            979.0,
+            1491.0
+          ],
+          "text": "alcoholic fatty liver",
+          "confidence": 0.7727
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            990.0,
+            1456.0,
+            1104.0,
+            1484.0
+          ],
+          "text": "disease",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            1120.0,
+            1458.0,
+            1228.0,
+            1486.0
+          ],
+          "text": "(NAFLD)",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            1456.0,
+            1276.0,
+            1484.0
+          ],
+          "text": "is",
+          "confidence": 0.9541
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            1290.0,
+            1458.0,
+            1340.0,
+            1484.0
+          ],
+          "text": "the",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            1349.0,
+            1457.0,
+            1416.0,
+            1485.0
+          ],
+          "text": "most",
+          "confidence": 0.9519
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            1428.0,
+            1460.0,
+            1526.0,
+            1484.0
+          ],
+          "text": "common",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1494.0,
+            200.0,
+            1520.0
+          ],
+          "text": "cause",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1492.0,
+            246.0,
+            1518.0
+          ],
+          "text": "of",
+          "confidence": 0.9676
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            1489.0,
+            402.0,
+            1521.0
+          ],
+          "text": "increased",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1492.0,
+            528.0,
+            1520.0
+          ],
+          "text": "AST, ALT",
+          "confidence": 0.8171
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            537.0,
+            1491.0,
+            655.0,
+            1517.0
+          ],
+          "text": "leveles",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            1492.0,
+            762.0,
+            1518.0
+          ],
+          "text": "NAFLD",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 141,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            1492.0,
+            808.0,
+            1518.0
+          ],
+          "text": "is",
+          "confidence": 0.9932
+        },
+        {
+          "block_no": 142,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            1490.0,
+            980.0,
+            1518.0
+          ],
+          "text": "considered",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 143,
+          "block_type": 0,
+          "bbox": [
+            990.0,
+            1494.0,
+            1026.0,
+            1518.0
+          ],
+          "text": "as",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 144,
+          "block_type": 0,
+          "bbox": [
+            1036.0,
+            1492.0,
+            1154.0,
+            1524.0
+          ],
+          "text": "hepatic",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 145,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            1490.0,
+            1372.0,
+            1518.0
+          ],
+          "text": "manifestation",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 146,
+          "block_type": 0,
+          "bbox": [
+            1380.0,
+            1490.0,
+            1416.0,
+            1518.0
+          ],
+          "text": "of",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 147,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1524.0,
+            402.0,
+            1556.0
+          ],
+          "text": "metabolic syndrome",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 148,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1562.0,
+            142.0,
+            1588.0
+          ],
+          "text": "2 _",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 149,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1562.0,
+            200.0,
+            1588.0
+          ],
+          "text": "In",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 150,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            1562.0,
+            276.0,
+            1588.0
+          ],
+          "text": "most",
+          "confidence": 0.9879
+        },
+        {
+          "block_no": 151,
+          "block_type": 0,
+          "bbox": [
+            288.0,
+            1564.0,
+            354.0,
+            1592.0
+          ],
+          "text": "type",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 152,
+          "block_type": 0,
+          "bbox": [
+            364.0,
+            1560.0,
+            400.0,
+            1588.0
+          ],
+          "text": "of",
+          "confidence": 0.9764
+        },
+        {
+          "block_no": 153,
+          "block_type": 0,
+          "bbox": [
+            412.0,
+            1560.0,
+            494.0,
+            1588.0
+          ],
+          "text": "liver",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 154,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            1560.0,
+            620.0,
+            1588.0
+          ],
+          "text": "disease",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 155,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            1562.0,
+            684.0,
+            1586.0
+          ],
+          "text": "ALT",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 156,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            1557.0,
+            827.0,
+            1593.0
+          ],
+          "text": "activity",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 157,
+          "block_type": 0,
+          "bbox": [
+            836.0,
+            1560.0,
+            870.0,
+            1588.0
+          ],
+          "text": "is",
+          "confidence": 0.9824
+        },
+        {
+          "block_no": 158,
+          "block_type": 0,
+          "bbox": [
+            880.0,
+            1560.0,
+            980.0,
+            1592.0
+          ],
+          "text": "higher",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 159,
+          "block_type": 0,
+          "bbox": [
+            992.0,
+            1560.0,
+            1058.0,
+            1588.0
+          ],
+          "text": "than",
+          "confidence": 0.9624
+        },
+        {
+          "block_no": 160,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1560.0,
+            1136.0,
+            1586.0
+          ],
+          "text": "that",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 161,
+          "block_type": 0,
+          "bbox": [
+            1146.0,
+            1560.0,
+            1182.0,
+            1586.0
+          ],
+          "text": "of",
+          "confidence": 0.9819
+        },
+        {
+          "block_no": 162,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            1560.0,
+            1258.0,
+            1588.0
+          ],
+          "text": "AST ,",
+          "confidence": 0.7457
+        },
+        {
+          "block_no": 163,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            1556.0,
+            1419.0,
+            1594.0
+          ],
+          "text": "exception",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 164,
+          "block_type": 0,
+          "bbox": [
+            1426.0,
+            1564.0,
+            1480.0,
+            1590.0
+          ],
+          "text": "may",
+          "confidence": 0.9404
+        },
+        {
+          "block_no": 165,
+          "block_type": 0,
+          "bbox": [
+            1490.0,
+            1560.0,
+            1526.0,
+            1586.0
+          ],
+          "text": "be",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 166,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1598.0,
+            184.0,
+            1622.0
+          ],
+          "text": "seen",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 167,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1596.0,
+            230.0,
+            1622.0
+          ],
+          "text": "in",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 168,
+          "block_type": 0,
+          "bbox": [
+            241.0,
+            1592.0,
+            545.0,
+            1630.0
+          ],
+          "text": "Alcoholic Hepatitis",
+          "confidence": 0.775
+        },
+        {
+          "block_no": 169,
+          "block_type": 0,
+          "bbox": [
+            568.0,
+            1592.0,
+            687.0,
+            1630.0
+          ],
+          "text": "Hepatic",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 170,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            1594.0,
+            838.0,
+            1622.0
+          ],
+          "text": "Cirrhosis",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 171,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            1594.0,
+            900.0,
+            1622.0
+          ],
+          "text": "and",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 172,
+          "block_type": 0,
+          "bbox": [
+            911.0,
+            1592.0,
+            1157.0,
+            1630.0
+          ],
+          "text": "Liver neoplasia_",
+          "confidence": 0.9611
+        },
+        {
+          "block_no": 173,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            1596.0,
+            1214.0,
+            1622.0
+          ],
+          "text": "In",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 174,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            1588.0,
+            1374.0,
+            1629.0
+          ],
+          "text": "patient",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 175,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            1594.0,
+            1448.0,
+            1620.0
+          ],
+          "text": "with",
+          "confidence": 0.9932
+        },
+        {
+          "block_no": 176,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1630.0,
+            232.0,
+            1656.0
+          ],
+          "text": "Chronic",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 177,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1630.0,
+            322.0,
+            1656.0
+          ],
+          "text": "liver",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 178,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            1630.0,
+            448.0,
+            1656.0
+          ],
+          "text": "disease",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 179,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            1630.0,
+            590.0,
+            1656.0
+          ],
+          "text": "AST:ALT",
+          "confidence": 0.9673
+        },
+        {
+          "block_no": 180,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            1628.0,
+            684.0,
+            1656.0
+          ],
+          "text": "ratio",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 181,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            1630.0,
+            728.0,
+            1656.0
+          ],
+          "text": ">1",
+          "confidence": 0.9078
+        },
+        {
+          "block_no": 182,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            1630.0,
+            776.0,
+            1656.0
+          ],
+          "text": "is",
+          "confidence": 0.9912
+        },
+        {
+          "block_no": 183,
+          "block_type": 0,
+          "bbox": [
+            787.0,
+            1627.0,
+            1057.0,
+            1663.0
+          ],
+          "text": "highly suggestive",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 184,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            1630.0,
+            1104.0,
+            1656.0
+          ],
+          "text": "of",
+          "confidence": 0.9842
+        },
+        {
+          "block_no": 185,
+          "block_type": 0,
+          "bbox": [
+            1116.0,
+            1628.0,
+            1248.0,
+            1658.0
+          ],
+          "text": "advanced",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 186,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            1628.0,
+            1340.0,
+            1656.0
+          ],
+          "text": "liver",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 187,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1628.0,
+            1484.0,
+            1656.0
+          ],
+          "text": "fibrosis _",
+          "confidence": 0.7063
+        },
+        {
+          "block_no": 188,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1692.0,
+            520.0,
+            1724.0
+          ],
+          "text": "COMPLETE BLOOD COUNT (CBC)",
+          "confidence": 0.9102
+        },
+        {
+          "block_no": 189,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1727.0,
+            303.0,
+            1747.0
+          ],
+          "text": "(EDTR Whola Blood)",
+          "confidence": 0.3286
+        },
+        {
+          "block_no": 190,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1790.0,
+            309.0,
+            1816.0
+          ],
+          "text": "HAEMOGLOBIN",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 191,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1788.0,
+            870.0,
+            1820.0
+          ],
+          "text": "103",
+          "confidence": 0.4571
+        },
+        {
+          "block_no": 192,
+          "block_type": 0,
+          "bbox": [
+            1015.0,
+            1781.0,
+            1090.0,
+            1822.0
+          ],
+          "text": "g/dL",
+          "confidence": 0.637
+        },
+        {
+          "block_no": 193,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1788.0,
+            1246.0,
+            1814.0
+          ],
+          "text": "12.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 194,
+          "block_type": 0,
+          "bbox": [
+            1288.0,
+            1786.0,
+            1356.0,
+            1814.0
+          ],
+          "text": "15.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 195,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1823.0,
+            370.0,
+            1850.0
+          ],
+          "text": "SLS Heamoglobin Kethod",
+          "confidence": 0.7558
+        },
+        {
+          "block_no": 196,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1854.0,
+            234.0,
+            1880.0
+          ],
+          "text": "PACKED",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 197,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1854.0,
+            310.0,
+            1880.0
+          ],
+          "text": "CELL",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 198,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            1852.0,
+            420.0,
+            1882.0
+          ],
+          "text": "VOLUME",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 199,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1852.0,
+            526.0,
+            1882.0
+          ],
+          "text": "(PCV)",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 200,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1852.0,
+            872.0,
+            1884.0
+          ],
+          "text": "36",
+          "confidence": 0.919
+        },
+        {
+          "block_no": 201,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1850.0,
+            1218.0,
+            1880.0
+          ],
+          "text": "36",
+          "confidence": 0.5263
+        },
+        {
+          "block_no": 202,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            1850.0,
+            1292.0,
+            1876.0
+          ],
+          "text": "46",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 203,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1889.0,
+            165.0,
+            1909.0
+          ],
+          "text": "RBC",
+          "confidence": 0.8728
+        },
+        {
+          "block_no": 204,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1888.0,
+            304.0,
+            1912.0
+          ],
+          "text": "se height",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 205,
+          "block_type": 0,
+          "bbox": [
+            311.0,
+            1889.0,
+            413.0,
+            1909.0
+          ],
+          "text": "detection",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 206,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            1886.0,
+            490.0,
+            1910.0
+          ],
+          "text": "method",
+          "confidence": 0.6854
+        },
+        {
+          "block_no": 207,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1918.0,
+            224.0,
+            1944.0
+          ],
+          "text": "R.B.C _",
+          "confidence": 0.914
+        },
+        {
+          "block_no": 208,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1918.0,
+            324.0,
+            1944.0
+          ],
+          "text": "Count",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 209,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            1916.0,
+            870.0,
+            1946.0
+          ],
+          "text": "3.33",
+          "confidence": 0.3589
+        },
+        {
+          "block_no": 210,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            1914.0,
+            1150.0,
+            1942.0
+          ],
+          "text": "x10^12/1",
+          "confidence": 0.3277
+        },
+        {
+          "block_no": 211,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1914.0,
+            1230.0,
+            1942.0
+          ],
+          "text": "3 . 8",
+          "confidence": 0.6223
+        },
+        {
+          "block_no": 212,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1914.0,
+            1322.0,
+            1940.0
+          ],
+          "text": "4 . 8",
+          "confidence": 0.7685
+        },
+        {
+          "block_no": 213,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1949.0,
+            189.0,
+            1979.0
+          ],
+          "text": "Hydro",
+          "confidence": 0.7943
+        },
+        {
+          "block_no": 214,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            1948.0,
+            370.0,
+            1978.0
+          ],
+          "text": "Dynanic Focusing",
+          "confidence": 0.8259
+        },
+        {
+          "block_no": 215,
+          "block_type": 0,
+          "bbox": [
+            377.0,
+            1953.0,
+            529.0,
+            1973.0
+          ],
+          "text": "(CC Detection)",
+          "confidence": 0.9832
+        },
+        {
+          "block_no": 216,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1982.0,
+            186.0,
+            2008.0
+          ],
+          "text": "MCV",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 217,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1982.0,
+            884.0,
+            2012.0
+          ],
+          "text": "100 . 9",
+          "confidence": 0.911
+        },
+        {
+          "block_no": 218,
+          "block_type": 0,
+          "bbox": [
+            1020.0,
+            1980.0,
+            1056.0,
+            2008.0
+          ],
+          "text": "fL",
+          "confidence": 0.9655
+        },
+        {
+          "block_no": 219,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            1978.0,
+            1216.0,
+            2008.0
+          ],
+          "text": "83",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 220,
+          "block_type": 0,
+          "bbox": [
+            1226.0,
+            1978.0,
+            1290.0,
+            2006.0
+          ],
+          "text": "-101",
+          "confidence": 0.9806
+        },
+        {
+          "block_no": 221,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            2017.0,
+            241.0,
+            2037.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 222,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            2046.0,
+            188.0,
+            2074.0
+          ],
+          "text": "MCH",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 223,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            2046.0,
+            868.0,
+            2074.0
+          ],
+          "text": "30 . 9",
+          "confidence": 0.7638
+        },
+        {
+          "block_no": 224,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            2048.0,
+            1056.0,
+            2076.0
+          ],
+          "text": "pg",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 225,
+          "block_type": 0,
+          "bbox": [
+            1178.0,
+            2042.0,
+            1214.0,
+            2070.0
+          ],
+          "text": "27",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 226,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            2042.0,
+            1310.0,
+            2072.0
+          ],
+          "text": "32",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 227,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            2078.0,
+            242.0,
+            2104.0
+          ],
+          "text": "Calculated",
+          "confidence": 0.9232
+        },
+        {
+          "block_no": 228,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            2254.0,
+            974.0,
+            2280.0
+          ],
+          "text": "HEALTK CARE PAR EXCELLENCE",
+          "confidence": 0.9899
+        },
+        {
+          "block_no": 229,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            2281.0,
+            790.0,
+            2310.0
+          ],
+          "text": "KAILASH HEALTHCARE LTD",
+          "confidence": 0.9603
+        },
+        {
+          "block_no": 230,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            2282.0,
+            846.0,
+            2308.0
+          ],
+          "text": "CIN",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 231,
+          "block_type": 0,
+          "bbox": [
+            862.0,
+            2282.0,
+            1150.0,
+            2308.0
+          ],
+          "text": "U74899DL1993PLC054864",
+          "confidence": 0.7273
+        },
+        {
+          "block_no": 232,
+          "block_type": 0,
+          "bbox": [
+            45.0,
+            2309.0,
+            177.0,
+            2347.0
+          ],
+          "text": "Regd. Office",
+          "confidence": 0.9039
+        },
+        {
+          "block_no": 233,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            2309.0,
+            505.0,
+            2349.0
+          ],
+          "text": "A-101, New Ashok Nagar; Delhi",
+          "confidence": 0.9296
+        },
+        {
+          "block_no": 234,
+          "block_type": 0,
+          "bbox": [
+            516.0,
+            2312.0,
+            596.0,
+            2342.0
+          ],
+          "text": "110096",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 235,
+          "block_type": 0,
+          "bbox": [
+            1031.1172791367187,
+            385.1638810551212,
+            1095.8827208632813,
+            419.8361189448788
+          ],
+          "text": "iapre",
+          "confidence": 0.052
+        },
+        {
+          "block_no": 236,
+          "block_type": 0,
+          "bbox": [
+            1016.4789396203098,
+            1226.4246780188603,
+            1071.5210603796902,
+            1258.5753219811397
+          ],
+          "text": "gm /",
+          "confidence": 0.957
+        },
+        {
+          "block_no": 237,
+          "block_type": 0,
+          "bbox": [
+            1015.6027607015021,
+            1288.3960748621867,
+            1073.3972392984979,
+            1322.6039251378133
+          ],
+          "text": "gm/ <",
+          "confidence": 0.3954
+        },
+        {
+          "block_no": 238,
+          "block_type": 0,
+          "bbox": [
+            168.89059960754955,
+            1886.8564146766237,
+            208.10940039245045,
+            1912.1435853233763
+          ],
+          "text": "pu] =",
+          "confidence": 0.4581
+        }
+      ]
+    }
+  ],
+  "full_text": "Kailash Hospital & Heart Institute\nki\nSuper Speciality (NABK ACCREDITED)\nH-33,\nSector\n27 ,\nNoida=201301\nLAB REPORT\nUHID\n2302966\nNo\nIPd/25n/4058\nDate\n243\n12025\nBed\nNo\nCasualty\n12\nD\nDr\nJITENDRA\nGUPTA\nSample\nCollected\n24 /Apr/2025\n12:56:52PM\nCollected\nAt\nCASUALTY-2\nReported\n24_\nApr/2025\n02 : 34 : 53PM\nInvestigation\nResult\nUnit\nBiological\nRef\nInterval\nLIVER FUNCTION\nTEST\n(SERU)\nBILIRUBIN\n[TOTAL)\n0 . 601\nmg / dL\n0 .2\n1.3\nDiphyllIne,\nDiazonium salt\nBILIRUBIN\n(DIRECT)\n492\nmg/ dL\n0 .0\n0.40\nCalculated\nBILIRUBIN\n(INDIRECT)\n0\n19\nmg / dL\n0 . 0\n1.1\nDlrect\nMeasure\n(Dual-wave length scctral\nmeasurcment)\nS.G.0.T\n(AST)\n10\nU/L\n14-36\nMultiple\npoint\nratc ubing PSP\nS.G.P.T\n(ALT)\n32\nu/L\n<35\nKultiple point\nrate using PSP\nG.G.T\n61\nU/L\n12-43\nG-glutanyl-p-nftroanilfde\nALKALINE\nPHOSPHATASE\n126\nU/L\n38\n126\nPNPP, AMP Buffer\nTOTAL\nPROTEINS\n7 . 7\ngm/ dL\n6 .3\n8 . 2\nBfuret method\nALBUMIN\n4 .1\ndL\n3 .5\n5.0\nBromocreso]\ngreen\nGLOBULIN\n36\ndL\n2 . 5\n3 .5\nCalculated\nA/G\nRATIO\n4144\n1.5\n2 .5\nCalculated\nNote\n1\nIn\nan\nasymptomatic patient\nNon\nalcoholic fatty liver\ndisease\n(NAFLD)\nis\nthe\nmost\ncommon\ncause\nof\nincreased\nAST, ALT\nleveles\nNAFLD\nis\nconsidered\nas\nhepatic\nmanifestation\nof\nmetabolic syndrome\n2 _\nIn\nmost\ntype\nof\nliver\ndisease\nALT\nactivity\nis\nhigher\nthan\nthat\nof\nAST ,\nexception\nmay\nbe\nseen\nin\nAlcoholic Hepatitis\nHepatic\nCirrhosis\nand\nLiver neoplasia_\nIn\npatient\nwith\nChronic\nliver\ndisease\nAST:ALT\nratio\n>1\nis\nhighly suggestive\nof\nadvanced\nliver\nfibrosis _\nCOMPLETE BLOOD COUNT (CBC)\n(EDTR Whola Blood)\nHAEMOGLOBIN\n103\ng/dL\n12.0\n15.0\nSLS Heamoglobin Kethod\nPACKED\nCELL\nVOLUME\n(PCV)\n36\n36\n46\nRBC\nse height\ndetection\nmethod\nR.B.C _\nCount\n3.33\nx10^12/1\n3 . 8\n4 . 8\nHydro\nDynanic Focusing\n(CC Detection)\nMCV\n100 . 9\nfL\n83\n-101\nCalculated\nMCH\n30 . 9\npg\n27\n32\nCalculated\nHEALTK CARE PAR EXCELLENCE\nKAILASH HEALTHCARE LTD\nCIN\nU74899DL1993PLC054864\nRegd. Office\nA-101, New Ashok Nagar; Delhi\n110096\niapre\ngm /\ngm/ <\npu] =",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "33",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "H-33,",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Noida=",
+          "biomarker_normalized": "Noida=",
+          "value": "201301",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Noida=201301",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "IPd/",
+          "biomarker_normalized": "IPd/",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IPd/25n/4058",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "CASUALTY",
+          "biomarker_normalized": "CASUALTY",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CASUALTY-2",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Apr/",
+          "biomarker_normalized": "Apr/",
+          "value": "2025",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Apr/2025",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "S.G.",
+          "biomarker_normalized": "S.G.",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "S.G.0.T",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "x1",
+          "biomarker_normalized": "x1",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "x10^12/1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "U7",
+          "biomarker_normalized": "U7",
+          "value": "4899",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "U74899DL1993PLC054864",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "A",
+          "biomarker_normalized": "A",
+          "value": "101",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "A-101, New Ashok Nagar; Delhi",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 239,
+    "ocr_avg_confidence": 0.8689,
+    "parsed_row_count": 9
+  }
+}

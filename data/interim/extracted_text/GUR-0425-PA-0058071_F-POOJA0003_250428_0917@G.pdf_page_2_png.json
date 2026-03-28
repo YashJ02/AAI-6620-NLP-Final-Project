@@ -1,0 +1,1380 @@
+{
+  "document_id": "GUR-0425-PA-0058071_F-POOJA0003_250428_0917@G.pdf_page_2",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0058071_F-POOJA0003_250428_0917@G.pdf_page_2.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Re\nNolbarcode e\nUjala\n4 L *\n187/06865e\nCygnus]\nR v | \u20ac E $\nCygnus SuperSpecialitv Hospital\nNABH\nLo\nNe\n437985\nACCREDieD\nBilDa\nJSn 025\nUHDNO HP\n8zobj ! Zuj\nName\nSample col Date\n6.16 PM\nMrs. POOJA\nSample Rec\nAge/Gender\n33 Years3 Months25 Days\nFemale\nDoctor\nDTOCHEMIST\nNNVESTIGATION\nLFT(LIVER FUNCTION TEST\nLEI\nBILLIRUBIN TOTAL\n0.44\nBILLIRUBIN DIRECT\n0.18\n0.1 - 1.0\nBILLIRUBIN INDIRECT\n0.26\n0.0 - 0.3\nSGOT (AST)\n0.1 - 0.9\nSGPT\n65\nH\nUlml\n10 _\n40\n(ALT)\n48\nH\nALK PHOSPHATASE ALP\nUlml\n10 - 40\nTOTAL PROTEIN\n110\nIUIL\n28 - 111\n6.0\nSERUM ALBUMIN\n3.5\n6 - 8\nGLOBULIN\n35-5.5\n2.50\nAJG RATIO\n2.5 -3.5\n1,40\n08\nEnd Of The Report ***\nab Technician\nser:\nASHWANI_R\nDr. NEELAKSH KAUL\nPathologist\nDate & Time\n8.53 PM\nMBBS, MD\nHospita\nRegd ICorp_\nCygnu\nGround Floor;\nPark Main, New Delhi\n110016\nTel. No.\n011-41750891\nWebsie . ujalacygnus com\nEmail : info@ujalacygnus.cor\nUjala Cygnus Hospitals\nHaryana\nSonipat | Kaithal\nKarnal\nKurukshetra\nPanipat\nRewari\nDelhi\nNangloi | Rama Vihar | Uttar Pradesh\nVaranasi\nMoradabad\nKanpur | Agra\nUttarakhand\nKashipur\nHaldwani | Sitargani\nOm\nL85 SC:1RZMF.C03426\nDate\nmgldl\nmgldl\nmgldl\ngm/dl\ngm/dl\ngm/dl\nAulbrhka l",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            50.0,
+            264.0,
+            90.0,
+            294.0
+          ],
+          "text": "Re",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            265.0,
+            260.0,
+            296.0
+          ],
+          "text": "Nolbarcode e",
+          "confidence": 0.6347
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            221.0,
+            199.0,
+            347.0,
+            263.0
+          ],
+          "text": "Ujala",
+          "confidence": 0.6175
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            259.0,
+            267.0,
+            305.0,
+            285.0
+          ],
+          "text": "4 L *",
+          "confidence": 0.4904
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            262.0,
+            432.0,
+            294.0
+          ],
+          "text": "187/06865e",
+          "confidence": 0.5023
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            343.0,
+            198.0,
+            524.0,
+            271.0
+          ],
+          "text": "Cygnus]",
+          "confidence": 0.5282
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            431.0,
+            269.0,
+            515.0,
+            285.0
+          ],
+          "text": "R v | \u20ac E $",
+          "confidence": 0.2198
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            219.0,
+            1339.0,
+            304.0
+          ],
+          "text": "Cygnus SuperSpecialitv Hospital",
+          "confidence": 0.7412
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1424.0,
+            266.0,
+            1504.0,
+            296.0
+          ],
+          "text": "NABH",
+          "confidence": 0.3978
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            288.0,
+            86.0,
+            318.0
+          ],
+          "text": "Lo",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            290.0,
+            188.0,
+            316.0
+          ],
+          "text": "Ne",
+          "confidence": 0.4951
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            304.0,
+            290.0,
+            400.0,
+            320.0
+          ],
+          "text": "437985",
+          "confidence": 0.1813
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1424.0,
+            298.0,
+            1502.0,
+            322.0
+          ],
+          "text": "ACCREDieD",
+          "confidence": 0.2687
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            302.0,
+            1061.0,
+            334.0
+          ],
+          "text": "BilDa",
+          "confidence": 0.1564
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            311.0,
+            1305.0,
+            341.0
+          ],
+          "text": "JSn 025",
+          "confidence": 0.0082
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            326.0,
+            219.0,
+            362.0
+          ],
+          "text": "UHDNO HP",
+          "confidence": 0.4442
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            329.0,
+            459.0,
+            366.0
+          ],
+          "text": "8zobj ! Zuj",
+          "confidence": 0.0165
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            41.0,
+            367.0,
+            118.0,
+            398.0
+          ],
+          "text": "Name",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            350.0,
+            1117.0,
+            390.0
+          ],
+          "text": "Sample col Date",
+          "confidence": 0.9877
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            358.0,
+            1475.0,
+            396.0
+          ],
+          "text": "6.16 PM",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            378.0,
+            449.0,
+            409.0
+          ],
+          "text": "Mrs. POOJA",
+          "confidence": 0.8122
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            390.0,
+            1063.0,
+            430.0
+          ],
+          "text": "Sample Rec",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            409.0,
+            189.0,
+            445.0
+          ],
+          "text": "Age/Gender",
+          "confidence": 0.4255
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            415.0,
+            641.0,
+            464.0
+          ],
+          "text": "33 Years3 Months25 Days",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            426.0,
+            750.0,
+            458.0
+          ],
+          "text": "Female",
+          "confidence": 0.6647
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            456.0,
+            134.0,
+            488.0
+          ],
+          "text": "Doctor",
+          "confidence": 0.9355
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            517.0,
+            883.0,
+            555.0
+          ],
+          "text": "DTOCHEMIST",
+          "confidence": 0.4051
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            549.0,
+            311.0,
+            590.0
+          ],
+          "text": "NNVESTIGATION",
+          "confidence": 0.7132
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            595.0,
+            469.0,
+            639.0
+          ],
+          "text": "LFT(LIVER FUNCTION TEST",
+          "confidence": 0.6935
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            638.0,
+            152.0,
+            670.0
+          ],
+          "text": "LEI",
+          "confidence": 0.8093
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            671.0,
+            355.0,
+            711.0
+          ],
+          "text": "BILLIRUBIN TOTAL",
+          "confidence": 0.8799
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            686.0,
+            646.0,
+            716.0
+          ],
+          "text": "0.44",
+          "confidence": 0.5383
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            707.0,
+            363.0,
+            747.0
+          ],
+          "text": "BILLIRUBIN DIRECT",
+          "confidence": 0.9575
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            722.0,
+            646.0,
+            752.0
+          ],
+          "text": "0.18",
+          "confidence": 0.5822
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            703.0,
+            1312.0,
+            734.0
+          ],
+          "text": "0.1 - 1.0",
+          "confidence": 0.9353
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            743.0,
+            391.0,
+            784.0
+          ],
+          "text": "BILLIRUBIN INDIRECT",
+          "confidence": 0.6063
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            758.0,
+            644.0,
+            786.0
+          ],
+          "text": "0.26",
+          "confidence": 0.4762
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            740.0,
+            1312.0,
+            770.0
+          ],
+          "text": "0.0 - 0.3",
+          "confidence": 0.9199
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            781.0,
+            249.0,
+            817.0
+          ],
+          "text": "SGOT (AST)",
+          "confidence": 0.9163
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            776.0,
+            1310.0,
+            806.0
+          ],
+          "text": "0.1 - 0.9",
+          "confidence": 0.5921
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            818.0,
+            168.0,
+            848.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            794.0,
+            622.0,
+            824.0
+          ],
+          "text": "65",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            906.0,
+            802.0,
+            932.0,
+            830.0
+          ],
+          "text": "H",
+          "confidence": 0.7476
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1003.0,
+            803.0,
+            1070.0,
+            840.0
+          ],
+          "text": "Ulml",
+          "confidence": 0.8311
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            812.0,
+            1252.0,
+            842.0
+          ],
+          "text": "10 _",
+          "confidence": 0.7689
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            814.0,
+            1298.0,
+            844.0
+          ],
+          "text": "40",
+          "confidence": 0.628
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            817.0,
+            246.0,
+            855.0
+          ],
+          "text": "(ALT)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            830.0,
+            620.0,
+            860.0
+          ],
+          "text": "48",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            906.0,
+            836.0,
+            932.0,
+            866.0
+          ],
+          "text": "H",
+          "confidence": 0.7587
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            853.0,
+            415.0,
+            893.0
+          ],
+          "text": "ALK PHOSPHATASE ALP",
+          "confidence": 0.9321
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            844.0,
+            1070.0,
+            874.0
+          ],
+          "text": "Ulml",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            850.0,
+            1296.0,
+            880.0
+          ],
+          "text": "10 - 40",
+          "confidence": 0.5704
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            889.0,
+            311.0,
+            928.0
+          ],
+          "text": "TOTAL PROTEIN",
+          "confidence": 0.7034
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            866.0,
+            636.0,
+            898.0
+          ],
+          "text": "110",
+          "confidence": 0.8796
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            880.0,
+            1064.0,
+            910.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            886.0,
+            1306.0,
+            916.0
+          ],
+          "text": "28 - 111",
+          "confidence": 0.7136
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            904.0,
+            624.0,
+            932.0
+          ],
+          "text": "6.0",
+          "confidence": 0.5125
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            927.0,
+            325.0,
+            965.0
+          ],
+          "text": "SERUM ALBUMIN",
+          "confidence": 0.9388
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            940.0,
+            626.0,
+            970.0
+          ],
+          "text": "3.5",
+          "confidence": 0.9436
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            922.0,
+            1268.0,
+            950.0
+          ],
+          "text": "6 - 8",
+          "confidence": 0.9766
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            960.0,
+            235.0,
+            998.0
+          ],
+          "text": "GLOBULIN",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            957.0,
+            1306.0,
+            989.0
+          ],
+          "text": "35-5.5",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            976.0,
+            640.0,
+            1008.0
+          ],
+          "text": "2.50",
+          "confidence": 0.8475
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1000.0,
+            232.0,
+            1032.0
+          ],
+          "text": "AJG RATIO",
+          "confidence": 0.8873
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            994.0,
+            1306.0,
+            1027.0
+          ],
+          "text": "2.5 -3.5",
+          "confidence": 0.7602
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            582.0,
+            1014.0,
+            640.0,
+            1044.0
+          ],
+          "text": "1,40",
+          "confidence": 0.5122
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            665.0,
+            1119.0,
+            709.0,
+            1137.0
+          ],
+          "text": "08",
+          "confidence": 0.3111
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            709.0,
+            1119.0,
+            979.0,
+            1161.0
+          ],
+          "text": "End Of The Report ***",
+          "confidence": 0.8887
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            29.0,
+            1932.0,
+            193.0,
+            1969.0
+          ],
+          "text": "ab Technician",
+          "confidence": 0.82
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            30.0,
+            1976.0,
+            78.0,
+            2000.0
+          ],
+          "text": "ser:",
+          "confidence": 0.4302
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1971.0,
+            249.0,
+            2011.0
+          ],
+          "text": "ASHWANI_R",
+          "confidence": 0.6247
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            1961.0,
+            1449.0,
+            2003.0
+          ],
+          "text": "Dr. NEELAKSH KAUL",
+          "confidence": 0.5614
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1233.0,
+            1988.0,
+            1383.0,
+            2030.0
+          ],
+          "text": "Pathologist",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            37.0,
+            2013.0,
+            200.0,
+            2046.0
+          ],
+          "text": "Date & Time",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            379.0,
+            2021.0,
+            493.0,
+            2057.0
+          ],
+          "text": "8.53 PM",
+          "confidence": 0.6763
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            2026.0,
+            1379.0,
+            2065.0
+          ],
+          "text": "MBBS, MD",
+          "confidence": 0.9004
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            2083.0,
+            160.0,
+            2113.0
+          ],
+          "text": "Hospita",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            2114.0,
+            210.0,
+            2147.0
+          ],
+          "text": "Regd ICorp_",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            2118.0,
+            356.0,
+            2146.0
+          ],
+          "text": "Cygnu",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            2118.0,
+            732.0,
+            2142.0
+          ],
+          "text": "Ground Floor;",
+          "confidence": 0.6989
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            796.0,
+            2116.0,
+            1006.0,
+            2142.0
+          ],
+          "text": "Park Main, New Delhi",
+          "confidence": 0.6842
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            2116.0,
+            1090.0,
+            2142.0
+          ],
+          "text": "110016",
+          "confidence": 0.464
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            2150.0,
+            170.0,
+            2176.0
+          ],
+          "text": "Tel. No.",
+          "confidence": 0.539
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            2150.0,
+            318.0,
+            2176.0
+          ],
+          "text": "011-41750891",
+          "confidence": 0.8609
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            332.0,
+            2152.0,
+            590.0,
+            2181.0
+          ],
+          "text": "Websie . ujalacygnus com",
+          "confidence": 0.5342
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            2149.0,
+            886.0,
+            2177.0
+          ],
+          "text": "Email : info@ujalacygnus.cor",
+          "confidence": 0.682
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            2183.0,
+            326.0,
+            2212.0
+          ],
+          "text": "Ujala Cygnus Hospitals",
+          "confidence": 0.7355
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            335.0,
+            2183.0,
+            426.0,
+            2213.0
+          ],
+          "text": "Haryana",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            2184.0,
+            594.0,
+            2210.0
+          ],
+          "text": "Sonipat | Kaithal",
+          "confidence": 0.9867
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            2184.0,
+            674.0,
+            2208.0
+          ],
+          "text": "Karnal",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            2181.0,
+            799.0,
+            2207.0
+          ],
+          "text": "Kurukshetra",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            809.0,
+            2181.0,
+            888.0,
+            2211.0
+          ],
+          "text": "Panipat",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            2184.0,
+            968.0,
+            2208.0
+          ],
+          "text": "Rewari",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            2216.0,
+            148.0,
+            2240.0
+          ],
+          "text": "Delhi",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            2215.0,
+            516.0,
+            2242.0
+          ],
+          "text": "Nangloi | Rama Vihar | Uttar Pradesh",
+          "confidence": 0.907
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            526.0,
+            2216.0,
+            614.0,
+            2240.0
+          ],
+          "text": "Varanasi",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            2216.0,
+            732.0,
+            2240.0
+          ],
+          "text": "Moradabad",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            2215.0,
+            876.0,
+            2243.0
+          ],
+          "text": "Kanpur | Agra",
+          "confidence": 0.5889
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            886.0,
+            2215.0,
+            1016.0,
+            2239.0
+          ],
+          "text": "Uttarakhand",
+          "confidence": 0.6202
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            2216.0,
+            1116.0,
+            2240.0
+          ],
+          "text": "Kashipur",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1124.0,
+            2213.0,
+            1314.0,
+            2243.0
+          ],
+          "text": "Haldwani | Sitargani",
+          "confidence": 0.9776
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            2251.0,
+            135.0,
+            2271.0
+          ],
+          "text": "Om",
+          "confidence": 0.0556
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            2248.0,
+            430.0,
+            2276.0
+          ],
+          "text": "L85 SC:1RZMF.C03426",
+          "confidence": 0.0245
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            1056.1585662731165,
+            393.1289267866996,
+            1123.8414337268835,
+            431.8710732133004
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            1006.3447882227953,
+            696.1479277798705,
+            1080.6552117772048,
+            734.8520722201295
+          ],
+          "text": "mgldl",
+          "confidence": 0.8916
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1004.4615384615385,
+            732.043976942653,
+            1079.5384615384614,
+            772.956023057347
+          ],
+          "text": "mgldl",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1004.4615384615385,
+            768.043976942653,
+            1079.5384615384614,
+            808.956023057347
+          ],
+          "text": "mgldl",
+          "confidence": 0.75
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1001.2802656784306,
+            914.10360070786,
+            1075.7197343215694,
+            952.89639929214
+          ],
+          "text": "gm/dl",
+          "confidence": 0.957
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            999.2802656784306,
+            950.125989480461,
+            1074.7197343215694,
+            988.874010519539
+          ],
+          "text": "gm/dl",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            998.2802656784306,
+            987.1898817992194,
+            1073.7197343215694,
+            1024.8101182007806
+          ],
+          "text": "gm/dl",
+          "confidence": 0.9668
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            1162.1359352701636,
+            1858.3056352845917,
+            1417.8640647298364,
+            1956.6943647154083
+          ],
+          "text": "Aulbrhka l",
+          "confidence": 0.1054
+        }
+      ]
+    }
+  ],
+  "full_text": "Re\nNolbarcode e\nUjala\n4 L *\n187/06865e\nCygnus]\nR v | \u20ac E $\nCygnus SuperSpecialitv Hospital\nNABH\nLo\nNe\n437985\nACCREDieD\nBilDa\nJSn 025\nUHDNO HP\n8zobj ! Zuj\nName\nSample col Date\n6.16 PM\nMrs. POOJA\nSample Rec\nAge/Gender\n33 Years3 Months25 Days\nFemale\nDoctor\nDTOCHEMIST\nNNVESTIGATION\nLFT(LIVER FUNCTION TEST\nLEI\nBILLIRUBIN TOTAL\n0.44\nBILLIRUBIN DIRECT\n0.18\n0.1 - 1.0\nBILLIRUBIN INDIRECT\n0.26\n0.0 - 0.3\nSGOT (AST)\n0.1 - 0.9\nSGPT\n65\nH\nUlml\n10 _\n40\n(ALT)\n48\nH\nALK PHOSPHATASE ALP\nUlml\n10 - 40\nTOTAL PROTEIN\n110\nIUIL\n28 - 111\n6.0\nSERUM ALBUMIN\n3.5\n6 - 8\nGLOBULIN\n35-5.5\n2.50\nAJG RATIO\n2.5 -3.5\n1,40\n08\nEnd Of The Report ***\nab Technician\nser:\nASHWANI_R\nDr. NEELAKSH KAUL\nPathologist\nDate & Time\n8.53 PM\nMBBS, MD\nHospita\nRegd ICorp_\nCygnu\nGround Floor;\nPark Main, New Delhi\n110016\nTel. No.\n011-41750891\nWebsie . ujalacygnus com\nEmail : info@ujalacygnus.cor\nUjala Cygnus Hospitals\nHaryana\nSonipat | Kaithal\nKarnal\nKurukshetra\nPanipat\nRewari\nDelhi\nNangloi | Rama Vihar | Uttar Pradesh\nVaranasi\nMoradabad\nKanpur | Agra\nUttarakhand\nKashipur\nHaldwani | Sitargani\nOm\nL85 SC:1RZMF.C03426\nDate\nmgldl\nmgldl\nmgldl\ngm/dl\ngm/dl\ngm/dl\nAulbrhka l",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "JSn",
+          "biomarker_normalized": "JSn",
+          "value": "025",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "JSn 025",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "L8",
+          "biomarker_normalized": "L8",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "L85 SC:1RZMF.C03426",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 111,
+    "ocr_avg_confidence": 0.7443,
+    "parsed_row_count": 2
+  }
+}

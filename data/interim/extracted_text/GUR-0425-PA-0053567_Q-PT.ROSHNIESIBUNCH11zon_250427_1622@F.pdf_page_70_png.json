@@ -1,0 +1,1437 @@
+{
+  "document_id": "GUR-0425-PA-0053567_Q-PT.ROSHNIESIBUNCH11zon_250427_1622@F.pdf_page_70",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053567_Q-PT.ROSHNIESIBUNCH11zon_250427_1622@F.pdf_page_70.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DESHWAL'S CLINICAL LABORATORY\nInside\nAR. Mittal Hospital\nDharambir Deshwal\nGohana Road, Krishan Pura, PANIPAT-132103\nDMLT\nM.\n74046-03651\nDr, Rashmi Tayal\nMb0s, MD (Pstholorn\nPatientm\n22-Kpr-25\n66 %F\n1077\nReported\n22-Fpr-25\n0s 5+a\nReferred By Dr Anil Mittal\nReported Status\nFinal\nBiochemistry Report\nInvestigation\nResult_\nNormal\nKED [Kidney Function Test]\nBlood Urea\n27 mg/dl\n[15 - 45\nSerum Creatinine\n0.80\nmg/ dl]\nSerum Uric Acid\nmg/&I\n[Less than 1.5 mg/ dl]\n5.3 mg/dl\n[M -34\n7.0 mg/dl]\n[F -26\n6.0 mg/dl\nSodium(Nat)\n134 mEq/ L\n[135\n155 mEq/ L]\nSerum Potassium(K\n3.4 mEq/ L\n(35\n5.5 mEq/ L]\nSerum Chloride\n94 mEq/ L\n[96\n106 mEq/ L]\nLEDLLiver Function Test]\nSerum Bilirubin (Total)\n1.44\nmg/d1\n[Less than 1.0\nDirect(Conjugated)\n0.4 mg/ dl\n[0.1\nOamgfag/d]\nIndirect(Un-Conjugated)\n1.0\nmg/dl\n[0.2\n0.7 mg/ dI]\nSGOT(AST)\n73 U/L\n[Up to 40 U/L]\nS.GPT(ALT)\n65 U/L\n[Up to 40 U/L]\nS.Alkaline Phosphatase\n267 U/L\n(80\n290 U/L]\nSerum Protein\n7.0 gm/ dl\nSerum Albumin\n[6.0 _\n8.0 gm/ dl]\nSerum Globulin\n4.1 gm/dl\n[3.5 - 5.0 gm/ dl]\n2.9 gm/ dl\n[2.3 -\n3.5gm / dl]\nCRP Quantitative\n30\nmg/1\n[0 - 6 mg/1]\nPANIPAT\nE Rashmi\nMBBS. Md\n(Patnolgv)\nNOt VALID For MEdicO-LEGAL PURPOSE\nFully Auto-Haematology Analyzer\nLab: Technician\nFully Auto-Bio-Chemistry Analyzer\nThis is a professional opinion, not a diagnosis.\nHBAIC Auto-Analyzcr\nPlease co- relate\nwith clinical & other investigations.\nRange\nSerum\nMTIA\nHOSf\nMtehangue\nTayal\n6\nBad\nConcultant\nPalnologisi",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            271.0,
+            100.0,
+            1423.0,
+            217.0
+          ],
+          "text": "DESHWAL'S CLINICAL LABORATORY",
+          "confidence": 0.567
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            211.0,
+            733.0,
+            255.0
+          ],
+          "text": "Inside",
+          "confidence": 0.9876
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            748.0,
+            213.0,
+            1070.0,
+            264.0
+          ],
+          "text": "AR. Mittal Hospital",
+          "confidence": 0.8877
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            265.0,
+            430.0,
+            325.0
+          ],
+          "text": "Dharambir Deshwal",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            259.0,
+            1216.0,
+            314.0
+          ],
+          "text": "Gohana Road, Krishan Pura, PANIPAT-132103",
+          "confidence": 0.7423
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            303.0,
+            234.0,
+            346.0
+          ],
+          "text": "DMLT",
+          "confidence": 0.9506
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            707.0,
+            311.0,
+            753.0,
+            349.0
+          ],
+          "text": "M.",
+          "confidence": 0.304
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            769.0,
+            306.0,
+            980.0,
+            354.0
+          ],
+          "text": "74046-03651",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            295.0,
+            1570.0,
+            343.0
+          ],
+          "text": "Dr, Rashmi Tayal",
+          "confidence": 0.6426
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1315.0,
+            331.0,
+            1567.0,
+            371.0
+          ],
+          "text": "Mb0s, MD (Pstholorn",
+          "confidence": 0.0106
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            377.0,
+            286.0,
+            422.0
+          ],
+          "text": "Patientm",
+          "confidence": 0.4082
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1226.0,
+            455.0,
+            1373.0,
+            496.0
+          ],
+          "text": "22-Kpr-25",
+          "confidence": 0.5745
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1393.0,
+            458.0,
+            1533.0,
+            495.0
+          ],
+          "text": "66 %F",
+          "confidence": 0.2055
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            345.0,
+            475.0,
+            423.0,
+            513.0
+          ],
+          "text": "1077",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1048.0,
+            495.0,
+            1196.0,
+            543.0
+          ],
+          "text": "Reported",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1231.0,
+            501.0,
+            1389.0,
+            543.0
+          ],
+          "text": "22-Fpr-25",
+          "confidence": 0.4623
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1405.0,
+            503.0,
+            1547.0,
+            541.0
+          ],
+          "text": "0s 5+a",
+          "confidence": 0.0885
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            554.0,
+            570.0,
+            610.0
+          ],
+          "text": "Referred By Dr Anil Mittal",
+          "confidence": 0.9878
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1048.0,
+            542.0,
+            1297.0,
+            586.0
+          ],
+          "text": "Reported Status",
+          "confidence": 0.9171
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1332.0,
+            546.0,
+            1415.0,
+            585.0
+          ],
+          "text": "Final",
+          "confidence": 0.9731
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            564.0,
+            658.0,
+            992.0,
+            737.0
+          ],
+          "text": "Biochemistry Report",
+          "confidence": 0.8002
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            705.0,
+            418.0,
+            757.0
+          ],
+          "text": "Investigation",
+          "confidence": 0.9712
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            724.0,
+            805.0,
+            764.0
+          ],
+          "text": "Result_",
+          "confidence": 0.8002
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            734.0,
+            1213.0,
+            774.0
+          ],
+          "text": "Normal",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            785.0,
+            676.0,
+            842.0
+          ],
+          "text": "KED [Kidney Function Test]",
+          "confidence": 0.418
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            828.0,
+            382.0,
+            873.0
+          ],
+          "text": "Blood Urea",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            845.0,
+            844.0,
+            897.0
+          ],
+          "text": "27 mg/dl",
+          "confidence": 0.6582
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1084.0,
+            855.0,
+            1199.0,
+            897.0
+          ],
+          "text": "[15 - 45",
+          "confidence": 0.9949
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            868.0,
+            472.0,
+            919.0
+          ],
+          "text": "Serum Creatinine",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            695.0,
+            889.0,
+            763.0,
+            925.0
+          ],
+          "text": "0.80",
+          "confidence": 0.9839
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            857.0,
+            1317.0,
+            908.0
+          ],
+          "text": "mg/ dl]",
+          "confidence": 0.6715
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            910.0,
+            458.0,
+            960.0
+          ],
+          "text": "Serum Uric Acid",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            888.0,
+            868.0,
+            939.0
+          ],
+          "text": "mg/&I",
+          "confidence": 0.3738
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            898.0,
+            1406.0,
+            950.0
+          ],
+          "text": "[Less than 1.5 mg/ dl]",
+          "confidence": 0.372
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            930.0,
+            848.0,
+            978.0
+          ],
+          "text": "5.3 mg/dl",
+          "confidence": 0.7574
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1081.0,
+            939.0,
+            1212.0,
+            982.0
+          ],
+          "text": "[M -34",
+          "confidence": 0.4789
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            943.0,
+            1399.0,
+            994.0
+          ],
+          "text": "7.0 mg/dl]",
+          "confidence": 0.6034
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1087.0,
+            985.0,
+            1213.0,
+            1025.0
+          ],
+          "text": "[F -26",
+          "confidence": 0.8468
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            985.0,
+            1392.0,
+            1037.0
+          ],
+          "text": "6.0 mg/dl",
+          "confidence": 0.9655
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            305.0,
+            999.0,
+            508.0,
+            1048.0
+          ],
+          "text": "Sodium(Nat)",
+          "confidence": 0.8402
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            691.0,
+            1015.0,
+            863.0,
+            1059.0
+          ],
+          "text": "134 mEq/ L",
+          "confidence": 0.799
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1081.0,
+            1027.0,
+            1153.0,
+            1065.0
+          ],
+          "text": "[135",
+          "confidence": 0.5996
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1171.0,
+            1027.0,
+            1357.0,
+            1071.0
+          ],
+          "text": "155 mEq/ L]",
+          "confidence": 0.7506
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1036.0,
+            502.0,
+            1090.0
+          ],
+          "text": "Serum Potassium(K",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            691.0,
+            1057.0,
+            855.0,
+            1101.0
+          ],
+          "text": "3.4 mEq/ L",
+          "confidence": 0.9291
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1079.0,
+            1067.0,
+            1143.0,
+            1107.0
+          ],
+          "text": "(35",
+          "confidence": 0.9685
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1160.0,
+            1068.0,
+            1340.0,
+            1116.0
+          ],
+          "text": "5.5 mEq/ L]",
+          "confidence": 0.9514
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            201.0,
+            1121.0,
+            444.0,
+            1170.0
+          ],
+          "text": "Serum Chloride",
+          "confidence": 0.8029
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            691.0,
+            1141.0,
+            847.0,
+            1185.0
+          ],
+          "text": "94 mEq/ L",
+          "confidence": 0.663
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1075.0,
+            1149.0,
+            1133.0,
+            1191.0
+          ],
+          "text": "[96",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1151.0,
+            1153.0,
+            1339.0,
+            1198.0
+          ],
+          "text": "106 mEq/ L]",
+          "confidence": 0.6785
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1247.0,
+            621.0,
+            1301.0
+          ],
+          "text": "LEDLLiver Function Test]",
+          "confidence": 0.7301
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1285.0,
+            544.0,
+            1340.0
+          ],
+          "text": "Serum Bilirubin (Total)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            683.0,
+            1305.0,
+            735.0,
+            1341.0
+          ],
+          "text": "1.44",
+          "confidence": 0.5139
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            1302.0,
+            840.0,
+            1355.0
+          ],
+          "text": "mg/d1",
+          "confidence": 0.5917
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1063.0,
+            1315.0,
+            1269.0,
+            1357.0
+          ],
+          "text": "[Less than 1.0",
+          "confidence": 0.7947
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1327.0,
+            486.0,
+            1383.0
+          ],
+          "text": "Direct(Conjugated)",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            1344.0,
+            840.0,
+            1395.0
+          ],
+          "text": "0.4 mg/ dl",
+          "confidence": 0.6638
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1061.0,
+            1355.0,
+            1123.0,
+            1397.0
+          ],
+          "text": "[0.1",
+          "confidence": 0.9944
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            1314.0,
+            1389.0,
+            1411.0
+          ],
+          "text": "Oamgfag/d]",
+          "confidence": 0.1621
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            195.0,
+            1367.0,
+            566.0,
+            1428.0
+          ],
+          "text": "Indirect(Un-Conjugated)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            681.0,
+            1387.0,
+            733.0,
+            1423.0
+          ],
+          "text": "1.0",
+          "confidence": 0.9759
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            1385.0,
+            838.0,
+            1438.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.8714
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1061.0,
+            1397.0,
+            1123.0,
+            1437.0
+          ],
+          "text": "[0.2",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1140.0,
+            1399.0,
+            1311.0,
+            1450.0
+          ],
+          "text": "0.7 mg/ dI]",
+          "confidence": 0.5731
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            193.0,
+            1451.0,
+            401.0,
+            1500.0
+          ],
+          "text": "SGOT(AST)",
+          "confidence": 0.9909
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            1471.0,
+            811.0,
+            1513.0
+          ],
+          "text": "73 U/L",
+          "confidence": 0.7908
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1054.0,
+            1480.0,
+            1287.0,
+            1528.0
+          ],
+          "text": "[Up to 40 U/L]",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            191.0,
+            1533.0,
+            394.0,
+            1582.0
+          ],
+          "text": "S.GPT(ALT)",
+          "confidence": 0.8572
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            687.0,
+            1553.0,
+            801.0,
+            1593.0
+          ],
+          "text": "65 U/L",
+          "confidence": 0.9903
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            1562.0,
+            1285.0,
+            1612.0
+          ],
+          "text": "[Up to 40 U/L]",
+          "confidence": 0.6725
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1616.0,
+            538.0,
+            1673.0
+          ],
+          "text": "S.Alkaline Phosphatase",
+          "confidence": 0.8694
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            1635.0,
+            805.0,
+            1677.0
+          ],
+          "text": "267 U/L",
+          "confidence": 0.9797
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1055.0,
+            1647.0,
+            1117.0,
+            1685.0
+          ],
+          "text": "(80",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1135.0,
+            1649.0,
+            1281.0,
+            1693.0
+          ],
+          "text": "290 U/L]",
+          "confidence": 0.9031
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            1701.0,
+            403.0,
+            1744.0
+          ],
+          "text": "Serum Protein",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            672.0,
+            1715.0,
+            828.0,
+            1765.0
+          ],
+          "text": "7.0 gm/ dl",
+          "confidence": 0.5356
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            1741.0,
+            427.0,
+            1786.0
+          ],
+          "text": "Serum Albumin",
+          "confidence": 0.9507
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1051.0,
+            1729.0,
+            1117.0,
+            1769.0
+          ],
+          "text": "[6.0 _",
+          "confidence": 0.6031
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1132.0,
+            1730.0,
+            1302.0,
+            1780.0
+          ],
+          "text": "8.0 gm/ dl]",
+          "confidence": 0.9881
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            1784.0,
+            426.0,
+            1829.0
+          ],
+          "text": "Serum Globulin",
+          "confidence": 0.8297
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            672.0,
+            1755.0,
+            828.0,
+            1807.0
+          ],
+          "text": "4.1 gm/dl",
+          "confidence": 0.8158
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1048.0,
+            1770.0,
+            1300.0,
+            1822.0
+          ],
+          "text": "[3.5 - 5.0 gm/ dl]",
+          "confidence": 0.6179
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            672.0,
+            1798.0,
+            827.0,
+            1846.0
+          ],
+          "text": "2.9 gm/ dl",
+          "confidence": 0.8996
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1049.0,
+            1813.0,
+            1115.0,
+            1853.0
+          ],
+          "text": "[2.3 -",
+          "confidence": 0.4337
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            1813.0,
+            1292.0,
+            1865.0
+          ],
+          "text": "3.5gm / dl]",
+          "confidence": 0.7005
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            1881.0,
+            447.0,
+            1923.0
+          ],
+          "text": "CRP Quantitative",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            670.0,
+            1898.0,
+            710.0,
+            1930.0
+          ],
+          "text": "30",
+          "confidence": 0.9711
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1895.0,
+            796.0,
+            1947.0
+          ],
+          "text": "mg/1",
+          "confidence": 0.5062
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            1910.0,
+            1244.0,
+            1960.0
+          ],
+          "text": "[0 - 6 mg/1]",
+          "confidence": 0.9348
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            445.0,
+            1977.0,
+            578.0,
+            2021.0
+          ],
+          "text": "PANIPAT",
+          "confidence": 0.6095
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            873.0,
+            2015.0,
+            1032.0,
+            2058.0
+          ],
+          "text": "E Rashmi",
+          "confidence": 0.5775
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            873.0,
+            2047.0,
+            999.0,
+            2085.0
+          ],
+          "text": "MBBS. Md",
+          "confidence": 0.1745
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            990.0,
+            2051.0,
+            1129.0,
+            2100.0
+          ],
+          "text": "(Patnolgv)",
+          "confidence": 0.498
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            2155.0,
+            643.0,
+            2197.0
+          ],
+          "text": "NOt VALID For MEdicO-LEGAL PURPOSE",
+          "confidence": 0.272
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            2203.0,
+            512.0,
+            2245.0
+          ],
+          "text": "Fully Auto-Haematology Analyzer",
+          "confidence": 0.8339
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1269.0,
+            2195.0,
+            1499.0,
+            2231.0
+          ],
+          "text": "Lab: Technician",
+          "confidence": 0.7443
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            2235.0,
+            521.0,
+            2275.0
+          ],
+          "text": "Fully Auto-Bio-Chemistry Analyzer",
+          "confidence": 0.7662
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            897.0,
+            2233.0,
+            1509.0,
+            2293.0
+          ],
+          "text": "This is a professional opinion, not a diagnosis.",
+          "confidence": 0.6839
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            2264.0,
+            381.0,
+            2301.0
+          ],
+          "text": "HBAIC Auto-Analyzcr",
+          "confidence": 0.9332
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            867.0,
+            2275.0,
+            1083.0,
+            2316.0
+          ],
+          "text": "Please co- relate",
+          "confidence": 0.6452
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1079.0,
+            2285.0,
+            1537.0,
+            2330.0
+          ],
+          "text": "with clinical & other investigations.",
+          "confidence": 0.7774
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1209.080631688167,
+            733.1087751412585,
+            1319.919368311833,
+            782.8912248587415
+          ],
+          "text": "Range",
+          "confidence": 0.9471
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            201.0706457343101,
+            993.1039678918432,
+            313.9293542656899,
+            1043.8960321081568
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            425.0248140489501,
+            1880.4375810781496,
+            527.97518595105,
+            1953.5624189218504
+          ],
+          "text": "MTIA",
+          "confidence": 0.1788
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            520.0016792611991,
+            1890.0601719014148,
+            596.9983207388009,
+            1954.9398280985852
+          ],
+          "text": "HOSf",
+          "confidence": 0.0737
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            507.8418973634698,
+            2009.7305783630939,
+            625.1581026365302,
+            2123.2694216369064
+          ],
+          "text": "Mtehangue",
+          "confidence": 0.0673
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1024.1958637250762,
+            2022.1087751412585,
+            1111.8041362749238,
+            2071.8912248587417
+          ],
+          "text": "Tayal",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            414.0513167019495,
+            2025.0370934146067,
+            473.9486832980505,
+            2093.9629065853933
+          ],
+          "text": "6",
+          "confidence": 0.2465
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            457.03430620312895,
+            2064.094008401868,
+            521.965693796871,
+            2108.905991598132
+          ],
+          "text": "Bad",
+          "confidence": 0.1726
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            868.0224214665559,
+            2071.094008401868,
+            995.9775785334441,
+            2115.905991598132
+          ],
+          "text": "Concultant",
+          "confidence": 0.4745
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            985.0233502114203,
+            2077.1039678918432,
+            1121.9766497885796,
+            2127.8960321081568
+          ],
+          "text": "Palnologisi",
+          "confidence": 0.7022
+        }
+      ]
+    }
+  ],
+  "full_text": "DESHWAL'S CLINICAL LABORATORY\nInside\nAR. Mittal Hospital\nDharambir Deshwal\nGohana Road, Krishan Pura, PANIPAT-132103\nDMLT\nM.\n74046-03651\nDr, Rashmi Tayal\nMb0s, MD (Pstholorn\nPatientm\n22-Kpr-25\n66 %F\n1077\nReported\n22-Fpr-25\n0s 5+a\nReferred By Dr Anil Mittal\nReported Status\nFinal\nBiochemistry Report\nInvestigation\nResult_\nNormal\nKED [Kidney Function Test]\nBlood Urea\n27 mg/dl\n[15 - 45\nSerum Creatinine\n0.80\nmg/ dl]\nSerum Uric Acid\nmg/&I\n[Less than 1.5 mg/ dl]\n5.3 mg/dl\n[M -34\n7.0 mg/dl]\n[F -26\n6.0 mg/dl\nSodium(Nat)\n134 mEq/ L\n[135\n155 mEq/ L]\nSerum Potassium(K\n3.4 mEq/ L\n(35\n5.5 mEq/ L]\nSerum Chloride\n94 mEq/ L\n[96\n106 mEq/ L]\nLEDLLiver Function Test]\nSerum Bilirubin (Total)\n1.44\nmg/d1\n[Less than 1.0\nDirect(Conjugated)\n0.4 mg/ dl\n[0.1\nOamgfag/d]\nIndirect(Un-Conjugated)\n1.0\nmg/dl\n[0.2\n0.7 mg/ dI]\nSGOT(AST)\n73 U/L\n[Up to 40 U/L]\nS.GPT(ALT)\n65 U/L\n[Up to 40 U/L]\nS.Alkaline Phosphatase\n267 U/L\n(80\n290 U/L]\nSerum Protein\n7.0 gm/ dl\nSerum Albumin\n[6.0 _\n8.0 gm/ dl]\nSerum Globulin\n4.1 gm/dl\n[3.5 - 5.0 gm/ dl]\n2.9 gm/ dl\n[2.3 -\n3.5gm / dl]\nCRP Quantitative\n30\nmg/1\n[0 - 6 mg/1]\nPANIPAT\nE Rashmi\nMBBS. Md\n(Patnolgv)\nNOt VALID For MEdicO-LEGAL PURPOSE\nFully Auto-Haematology Analyzer\nLab: Technician\nFully Auto-Bio-Chemistry Analyzer\nThis is a professional opinion, not a diagnosis.\nHBAIC Auto-Analyzcr\nPlease co- relate\nwith clinical & other investigations.\nRange\nSerum\nMTIA\nHOSf\nMtehangue\nTayal\n6\nBad\nConcultant\nPalnologisi",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Gohana Road, Krishan Pura, PANIPAT",
+          "biomarker_normalized": "Gohana Road, Krishan Pura, PANIPAT",
+          "value": "132103",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Gohana Road, Krishan Pura, PANIPAT-132103",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "[Less than",
+          "biomarker_normalized": "[Less than",
+          "value": "1.5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "[Less than 1.5 mg/ dl]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "[M",
+          "biomarker_normalized": "[M",
+          "value": "-34",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "[M -34",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "[F",
+          "biomarker_normalized": "[F",
+          "value": "-26",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "[F -26",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "[Less than",
+          "biomarker_normalized": "[Less than",
+          "value": "1.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "[Less than 1.0",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "[Up to",
+          "biomarker_normalized": "[Up to",
+          "value": "40",
+          "unit": "U/L",
+          "reference_range": "",
+          "source_line": "[Up to 40 U/L]",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "mg/",
+          "biomarker_normalized": "mg/",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mg/1",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 112,
+    "ocr_avg_confidence": 0.736,
+    "parsed_row_count": 7
+  }
+}

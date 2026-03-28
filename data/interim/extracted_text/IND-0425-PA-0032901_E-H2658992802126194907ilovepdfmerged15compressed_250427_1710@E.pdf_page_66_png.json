@@ -1,0 +1,1359 @@
+{
+  "document_id": "IND-0425-PA-0032901_E-H2658992802126194907ilovepdfmerged15compressed_250427_1710@E.pdf_page_66",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\IND-0425-PA-0032901_E-H2658992802126194907ilovepdfmerged15compressed_250427_1710@E.pdf_page_66.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mark of Excolianco\nBOMBAY HOSPITAL\nINDORE\nRing Road,Indore-452 010,Ph..4771111,Extension:2156,\nWebsite\nWWW _\nxbombayhospitalindore.com\nHD\nNABH\nDEPARTMENT OF PATHOLOGY\nPatient]\nBy\nDr. Ravi\nRathi\nGender\nMale\nOrdered Loc\n1Oth Floor\nWest\nBed No\n215\nSample Collected On\n25\n0:03.43\nSample Type\nURINE\nSample Reported On\n25\n13.36:20\nSample No\n25050393\nTEST DESCRIPTION\nOBSERVED VALUE\nUNIT\nBIOLOGICAL RFERENCE RANGE\nRQUTINE URINE ANALYSIS\nPHYSICAL EXAMINATION\nQuantity\n25\nml\nColour\nPale Yellow\nPale Yellow\npH\n5.5\n4.5\n8.0\nDeposit\nAbsent\nAbsent\nSpecific Gravity\n1.006\n1.005\n1.030\nCloudiness\nS.Turbid\nAbsent\nCHEMICAL EXAMINATION\nProtein\nPresent (+\nAbsent\nSugar\nPresent (+++)\nAbsent\nKetone Bodies\nAbsent\nAbsent\nBile Salts\nBile Pigments\nAbsent\nAbsent\nBlood\nPresent (+++)\nAbsent\nNitrite\nAbsent\nAbsent\nMICROSCOPY\nRed Blood Cells\n4-5\nIhpf:\n0\n1 /hpf\nWBC\n120-125\nIhpf:\n0 - 5 /hpf\nWBC Clumps\nAbsent\nIhpf:\n0 - 5 /hpf\nEpithelial Cells\n0-1\nIhpf:\nCrystals\nAbsent\nCasts\nGranular few\nBacteria\nPresent\nMethod\nFully Automated Urine Analyzer\nEND OF REPORT\nkZ\nDr: P.S: Singh\nD.P.B_M.D: (Pathology)\nPathologist\nAUTHORISED\nOLA\n'Moay",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1404.0,
+            50.0,
+            1572.0,
+            74.0
+          ],
+          "text": "Mark of Excolianco",
+          "confidence": 0.6988
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            501.0,
+            70.0,
+            936.0,
+            115.0
+          ],
+          "text": "BOMBAY HOSPITAL",
+          "confidence": 0.9696
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            967.0,
+            70.0,
+            1149.0,
+            114.0
+          ],
+          "text": "INDORE",
+          "confidence": 0.9323
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            447.0,
+            124.0,
+            1197.0,
+            165.0
+          ],
+          "text": "Ring Road,Indore-452 010,Ph..4771111,Extension:2156,",
+          "confidence": 0.6099
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            544.0,
+            180.0,
+            656.0,
+            212.0
+          ],
+          "text": "Website",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            674.0,
+            184.0,
+            746.0,
+            210.0
+          ],
+          "text": "WWW _",
+          "confidence": 0.4817
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            176.0,
+            1111.0,
+            218.0
+          ],
+          "text": "xbombayhospitalindore.com",
+          "confidence": 0.6254
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            237.0,
+            177.0,
+            253.0
+          ],
+          "text": "HD",
+          "confidence": 0.7354
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1440.0,
+            224.0,
+            1540.0,
+            254.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9468
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            569.0,
+            275.0,
+            1085.0,
+            313.0
+          ],
+          "text": "DEPARTMENT OF PATHOLOGY",
+          "confidence": 0.9184
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            360.0,
+            220.0,
+            386.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.4159
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            428.0,
+            270.0,
+            458.0
+          ],
+          "text": "By",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            428.0,
+            388.0,
+            452.0
+          ],
+          "text": "Dr. Ravi",
+          "confidence": 0.8455
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            428.0,
+            454.0,
+            452.0
+          ],
+          "text": "Rathi",
+          "confidence": 0.5852
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            428.0,
+            1134.0,
+            452.0
+          ],
+          "text": "Gender",
+          "confidence": 0.7701
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            428.0,
+            1356.0,
+            452.0
+          ],
+          "text": "Male",
+          "confidence": 0.7074
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            460.0,
+            276.0,
+            486.0
+          ],
+          "text": "Ordered Loc",
+          "confidence": 0.8003
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            460.0,
+            414.0,
+            486.0
+          ],
+          "text": "1Oth Floor",
+          "confidence": 0.9165
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            426.0,
+            462.0,
+            484.0,
+            486.0
+          ],
+          "text": "West",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            494.0,
+            460.0,
+            578.0,
+            486.0
+          ],
+          "text": "Bed No",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            460.0,
+            632.0,
+            486.0
+          ],
+          "text": "215",
+          "confidence": 0.5489
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1049.0,
+            459.0,
+            1272.0,
+            489.0
+          ],
+          "text": "Sample Collected On",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            462.0,
+            1442.0,
+            490.0
+          ],
+          "text": "25",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1458.0,
+            462.0,
+            1558.0,
+            492.0
+          ],
+          "text": "0:03.43",
+          "confidence": 0.7866
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            493.0,
+            278.0,
+            523.0
+          ],
+          "text": "Sample Type",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            492.0,
+            374.0,
+            516.0
+          ],
+          "text": "URINE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            494.0,
+            1270.0,
+            522.0
+          ],
+          "text": "Sample Reported On",
+          "confidence": 0.9329
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1410.0,
+            496.0,
+            1440.0,
+            522.0
+          ],
+          "text": "25",
+          "confidence": 0.7853
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1452.0,
+            496.0,
+            1564.0,
+            526.0
+          ],
+          "text": "13.36:20",
+          "confidence": 0.7359
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            523.0,
+            258.0,
+            553.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9006
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            302.0,
+            524.0,
+            404.0,
+            550.0
+          ],
+          "text": "25050393",
+          "confidence": 0.8818
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            596.0,
+            378.0,
+            626.0
+          ],
+          "text": "TEST DESCRIPTION",
+          "confidence": 0.9809
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            598.0,
+            892.0,
+            626.0
+          ],
+          "text": "OBSERVED VALUE",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            598.0,
+            1040.0,
+            624.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            596.0,
+            1548.0,
+            626.0
+          ],
+          "text": "BIOLOGICAL RFERENCE RANGE",
+          "confidence": 0.8503
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            655.0,
+            495.0,
+            688.0
+          ],
+          "text": "RQUTINE URINE ANALYSIS",
+          "confidence": 0.6859
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            696.0,
+            442.0,
+            724.0
+          ],
+          "text": "PHYSICAL EXAMINATION",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            735.0,
+            240.0,
+            768.0
+          ],
+          "text": "Quantity",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            736.0,
+            696.0,
+            766.0
+          ],
+          "text": "25",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            973.0,
+            741.0,
+            1001.0,
+            761.0
+          ],
+          "text": "ml",
+          "confidence": 0.9027
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            778.0,
+            218.0,
+            806.0
+          ],
+          "text": "Colour",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            778.0,
+            794.0,
+            808.0
+          ],
+          "text": "Pale Yellow",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            778.0,
+            1346.0,
+            806.0
+          ],
+          "text": "Pale Yellow",
+          "confidence": 0.8723
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            822.0,
+            176.0,
+            852.0
+          ],
+          "text": "pH",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            822.0,
+            702.0,
+            848.0
+          ],
+          "text": "5.5",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            822.0,
+            1256.0,
+            846.0
+          ],
+          "text": "4.5",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            822.0,
+            1310.0,
+            848.0
+          ],
+          "text": "8.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            862.0,
+            231.0,
+            894.0
+          ],
+          "text": "Deposit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            862.0,
+            746.0,
+            888.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            862.0,
+            1298.0,
+            888.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            904.0,
+            318.0,
+            936.0
+          ],
+          "text": "Specific Gravity",
+          "confidence": 0.9262
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            902.0,
+            730.0,
+            932.0
+          ],
+          "text": "1.006",
+          "confidence": 0.9649
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            904.0,
+            1284.0,
+            930.0
+          ],
+          "text": "1.005",
+          "confidence": 0.8284
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            904.0,
+            1368.0,
+            932.0
+          ],
+          "text": "1.030",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            946.0,
+            268.0,
+            972.0
+          ],
+          "text": "Cloudiness",
+          "confidence": 0.7116
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            946.0,
+            762.0,
+            974.0
+          ],
+          "text": "S.Turbid",
+          "confidence": 0.9223
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            946.0,
+            1298.0,
+            972.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            988.0,
+            446.0,
+            1018.0
+          ],
+          "text": "CHEMICAL EXAMINATION",
+          "confidence": 0.6617
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1030.0,
+            222.0,
+            1056.0
+          ],
+          "text": "Protein",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1030.0,
+            782.0,
+            1058.0
+          ],
+          "text": "Present (+",
+          "confidence": 0.8165
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1030.0,
+            1298.0,
+            1056.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1071.0,
+            212.0,
+            1104.0
+          ],
+          "text": "Sugar",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1072.0,
+            820.0,
+            1102.0
+          ],
+          "text": "Present (+++)",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1072.0,
+            1298.0,
+            1098.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1112.0,
+            306.0,
+            1140.0
+          ],
+          "text": "Ketone Bodies",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1112.0,
+            746.0,
+            1140.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1114.0,
+            1298.0,
+            1140.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1154.0,
+            250.0,
+            1184.0
+          ],
+          "text": "Bile Salts",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            263.0,
+            1152.0,
+            423.0,
+            1191.0
+          ],
+          "text": "Bile Pigments",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1156.0,
+            746.0,
+            1182.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1156.0,
+            1298.0,
+            1182.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1198.0,
+            208.0,
+            1224.0
+          ],
+          "text": "Blood",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            1197.0,
+            820.0,
+            1226.0
+          ],
+          "text": "Present (+++)",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1198.0,
+            1298.0,
+            1224.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1238.0,
+            210.0,
+            1266.0
+          ],
+          "text": "Nitrite",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1240.0,
+            746.0,
+            1266.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1240.0,
+            1298.0,
+            1266.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1280.0,
+            310.0,
+            1310.0
+          ],
+          "text": "MICROSCOPY",
+          "confidence": 0.986
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1322.0,
+            324.0,
+            1350.0
+          ],
+          "text": "Red Blood Cells",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1322.0,
+            702.0,
+            1348.0
+          ],
+          "text": "4-5",
+          "confidence": 0.5889
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            1322.0,
+            1022.0,
+            1352.0
+          ],
+          "text": "Ihpf:",
+          "confidence": 0.4507
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1215.0,
+            1323.0,
+            1235.0,
+            1347.0
+          ],
+          "text": "0",
+          "confidence": 0.5768
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1252.0,
+            1322.0,
+            1322.0,
+            1352.0
+          ],
+          "text": "1 /hpf",
+          "confidence": 0.9695
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1364.0,
+            204.0,
+            1392.0
+          ],
+          "text": "WBC",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            1364.0,
+            760.0,
+            1392.0
+          ],
+          "text": "120-125",
+          "confidence": 0.7156
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            1364.0,
+            1022.0,
+            1396.0
+          ],
+          "text": "Ihpf:",
+          "confidence": 0.7652
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            1364.0,
+            1322.0,
+            1396.0
+          ],
+          "text": "0 - 5 /hpf",
+          "confidence": 0.6971
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1404.0,
+            295.0,
+            1437.0
+          ],
+          "text": "WBC Clumps",
+          "confidence": 0.8778
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1406.0,
+            746.0,
+            1432.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            1406.0,
+            1024.0,
+            1436.0
+          ],
+          "text": "Ihpf:",
+          "confidence": 0.6166
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            1406.0,
+            1322.0,
+            1436.0
+          ],
+          "text": "0 - 5 /hpf",
+          "confidence": 0.7578
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1448.0,
+            308.0,
+            1478.0
+          ],
+          "text": "Epithelial Cells",
+          "confidence": 0.8517
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            1448.0,
+            700.0,
+            1474.0
+          ],
+          "text": "0-1",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            1448.0,
+            1024.0,
+            1478.0
+          ],
+          "text": "Ihpf:",
+          "confidence": 0.6166
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1490.0,
+            236.0,
+            1522.0
+          ],
+          "text": "Crystals",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1490.0,
+            746.0,
+            1516.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1530.0,
+            208.0,
+            1558.0
+          ],
+          "text": "Casts",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            1529.0,
+            808.0,
+            1558.0
+          ],
+          "text": "Granular few",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1574.0,
+            236.0,
+            1600.0
+          ],
+          "text": "Bacteria",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            1571.0,
+            754.0,
+            1601.0
+          ],
+          "text": "Present",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1613.0,
+            228.0,
+            1643.0
+          ],
+          "text": "Method",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            1613.0,
+            1014.0,
+            1646.0
+          ],
+          "text": "Fully Automated Urine Analyzer",
+          "confidence": 0.7565
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            755.0,
+            1703.0,
+            895.0,
+            1723.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1876.0,
+            290.0,
+            1980.0
+          ],
+          "text": "kZ",
+          "confidence": 0.0934
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            2004.0,
+            299.0,
+            2040.0
+          ],
+          "text": "Dr: P.S: Singh",
+          "confidence": 0.5997
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            2042.0,
+            398.0,
+            2070.0
+          ],
+          "text": "D.P.B_M.D: (Pathology)",
+          "confidence": 0.4987
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            2072.0,
+            276.0,
+            2100.0
+          ],
+          "text": "Pathologist",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            2253.0,
+            287.0,
+            2277.0
+          ],
+          "text": "AUTHORISED",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            1488.0704723575245,
+            82.23016355523603,
+            1524.9295276424755,
+            104.76983644476397
+          ],
+          "text": "OLA",
+          "confidence": 0.4183
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            101.01076318221844,
+            216.06927321394346,
+            152.98923681778155,
+            256.93072678605654
+          ],
+          "text": "'Moay",
+          "confidence": 0.0342
+        }
+      ]
+    }
+  ],
+  "full_text": "Mark of Excolianco\nBOMBAY HOSPITAL\nINDORE\nRing Road,Indore-452 010,Ph..4771111,Extension:2156,\nWebsite\nWWW _\nxbombayhospitalindore.com\nHD\nNABH\nDEPARTMENT OF PATHOLOGY\nPatient]\nBy\nDr. Ravi\nRathi\nGender\nMale\nOrdered Loc\n1Oth Floor\nWest\nBed No\n215\nSample Collected On\n25\n0:03.43\nSample Type\nURINE\nSample Reported On\n25\n13.36:20\nSample No\n25050393\nTEST DESCRIPTION\nOBSERVED VALUE\nUNIT\nBIOLOGICAL RFERENCE RANGE\nRQUTINE URINE ANALYSIS\nPHYSICAL EXAMINATION\nQuantity\n25\nml\nColour\nPale Yellow\nPale Yellow\npH\n5.5\n4.5\n8.0\nDeposit\nAbsent\nAbsent\nSpecific Gravity\n1.006\n1.005\n1.030\nCloudiness\nS.Turbid\nAbsent\nCHEMICAL EXAMINATION\nProtein\nPresent (+\nAbsent\nSugar\nPresent (+++)\nAbsent\nKetone Bodies\nAbsent\nAbsent\nBile Salts\nBile Pigments\nAbsent\nAbsent\nBlood\nPresent (+++)\nAbsent\nNitrite\nAbsent\nAbsent\nMICROSCOPY\nRed Blood Cells\n4-5\nIhpf:\n0\n1 /hpf\nWBC\n120-125\nIhpf:\n0 - 5 /hpf\nWBC Clumps\nAbsent\nIhpf:\n0 - 5 /hpf\nEpithelial Cells\n0-1\nIhpf:\nCrystals\nAbsent\nCasts\nGranular few\nBacteria\nPresent\nMethod\nFully Automated Urine Analyzer\nEND OF REPORT\nkZ\nDr: P.S: Singh\nD.P.B_M.D: (Pathology)\nPathologist\nAUTHORISED\nOLA\n'Moay",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Ring Road,Indore",
+          "biomarker_normalized": "Ring Road,Indore",
+          "value": "452",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ring Road,Indore-452 010,Ph..4771111,Extension:2156,",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 110,
+    "ocr_avg_confidence": 0.8676,
+    "parsed_row_count": 1
+  }
+}

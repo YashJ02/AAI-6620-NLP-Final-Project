@@ -1,0 +1,801 @@
+{
+  "document_id": "GUR-0425-PA-0058016_F-KYC_PC_RAMKUMAR_SANTOSH_KUMAR_1_250427_1718@G.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0058016_F-KYC_PC_RAMKUMAR_SANTOSH_KUMAR_1_250427_1718@G.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF BIOCHEMISTRY\nPatient\nKUMAR\nAdmn\nNo\nMRSE252\u20ac\nDr.ER PHYSICIAN\nBill Date\n27-Apr-25\n12:36 pm\nReport Date\n27-Apr-25\n01:24 pm\nParameter\nSpecimen\nResults\nBiological Reference\nMethod\nCreatinine\nSerum\n0.85\n0.67\n1.17\nmg/dl\nModified Jaffe-Kinetic\neGFR\n>90.00\n7=\n85\nmllmin/1.73m2\nby CKD\n***\nEnd Of Report ***\nBOLD\nDenotes Abnormal Results.\nDenotes Critical Alerts\nVerified By\n110809\nTest results related only to the item tested_\nMC-2071\nDr. RADHIKA CHOWDARY: D, M.D\nNo part of the report can be reproduced without written\npermission of the laboratory_\nSR. CONSULTANT BIOCHEMIST\nSuggested Clinical Correlation\nIf neccessary, Please discuss\nDr.D.RADHIKA CHOWDARY\nDr MD.MOUNUDDIN\nDr.M.A. MUQEETH\nM.D\nMD\nMD, DNB\nSR. CONSULTANT BIOCHEMIST\nCONSULTANT BIOCHEMIST\nCONSULTANT BIOCHEMIST\nPrinted By\n90115117\nPrinted On\n27-Apr-2025 04:18:24 PM\nSystem\nREPORF\nROVISIONAL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            505.0,
+            405.0,
+            1131.0,
+            445.0
+          ],
+          "text": "DEPARTMENT OF BIOCHEMISTRY",
+          "confidence": 0.8241
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            476.0,
+            228.0,
+            508.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9798
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            510.0,
+            496.0,
+            534.0
+          ],
+          "text": "KUMAR",
+          "confidence": 0.9469
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            532.0,
+            206.0,
+            562.0
+          ],
+          "text": "Admn",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            534.0,
+            350.0,
+            560.0
+          ],
+          "text": "No",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            532.0,
+            790.0,
+            564.0
+          ],
+          "text": "MRSE252\u20ac",
+          "confidence": 0.8366
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            534.0,
+            1272.0,
+            562.0
+          ],
+          "text": "Dr.ER PHYSICIAN",
+          "confidence": 0.7882
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            582.0,
+            244.0,
+            614.0
+          ],
+          "text": "Bill Date",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            584.0,
+            540.0,
+            616.0
+          ],
+          "text": "27-Apr-25",
+          "confidence": 0.6483
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            584.0,
+            678.0,
+            616.0
+          ],
+          "text": "12:36 pm",
+          "confidence": 0.8437
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            796.0,
+            586.0,
+            968.0,
+            618.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8425
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            586.0,
+            1206.0,
+            618.0
+          ],
+          "text": "27-Apr-25",
+          "confidence": 0.7591
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1215.0,
+            585.0,
+            1347.0,
+            623.0
+          ],
+          "text": "01:24 pm",
+          "confidence": 0.7242
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            708.0,
+            272.0,
+            740.0
+          ],
+          "text": "Parameter",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            497.0,
+            707.0,
+            643.0,
+            743.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            710.0,
+            810.0,
+            742.0
+          ],
+          "text": "Results",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            981.0,
+            710.0,
+            1277.0,
+            747.0
+          ],
+          "text": "Biological Reference",
+          "confidence": 0.8762
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            712.0,
+            1406.0,
+            744.0
+          ],
+          "text": "Method",
+          "confidence": 0.4275
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            750.0,
+            252.0,
+            778.0
+          ],
+          "text": "Creatinine",
+          "confidence": 0.7331
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            498.0,
+            750.0,
+            580.0,
+            780.0
+          ],
+          "text": "Serum",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            698.0,
+            750.0,
+            756.0,
+            778.0
+          ],
+          "text": "0.85",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            752.0,
+            1038.0,
+            780.0
+          ],
+          "text": "0.67",
+          "confidence": 0.9775
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1058.0,
+            754.0,
+            1114.0,
+            780.0
+          ],
+          "text": "1.17",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1126.0,
+            754.0,
+            1200.0,
+            786.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.9024
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            752.0,
+            1544.0,
+            784.0
+          ],
+          "text": "Modified Jaffe-Kinetic",
+          "confidence": 0.5448
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            790.0,
+            188.0,
+            818.0
+          ],
+          "text": "eGFR",
+          "confidence": 0.5877
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            790.0,
+            790.0,
+            820.0
+          ],
+          "text": ">90.00",
+          "confidence": 0.9413
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            983.0,
+            799.0,
+            1019.0,
+            817.0
+          ],
+          "text": "7=",
+          "confidence": 0.9095
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1024.0,
+            792.0,
+            1060.0,
+            820.0
+          ],
+          "text": "85",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            794.0,
+            1252.0,
+            820.0
+          ],
+          "text": "mllmin/1.73m2",
+          "confidence": 0.7221
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1426.0,
+            794.0,
+            1518.0,
+            824.0
+          ],
+          "text": "by CKD",
+          "confidence": 0.9932
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            847.0,
+            715.0,
+            867.0
+          ],
+          "text": "***",
+          "confidence": 0.6135
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            723.0,
+            845.0,
+            985.0,
+            885.0
+          ],
+          "text": "End Of Report ***",
+          "confidence": 0.9512
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1666.0,
+            188.0,
+            1696.0
+          ],
+          "text": "BOLD",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1666.0,
+            516.0,
+            1692.0
+          ],
+          "text": "Denotes Abnormal Results.",
+          "confidence": 0.9082
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1692.0,
+            472.0,
+            1720.0
+          ],
+          "text": "Denotes Critical Alerts",
+          "confidence": 0.8272
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1742.0,
+            242.0,
+            1774.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.8138
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            1740.0,
+            372.0,
+            1770.0
+          ],
+          "text": "110809",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1788.0,
+            604.0,
+            1820.0
+          ],
+          "text": "Test results related only to the item tested_",
+          "confidence": 0.8862
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            796.0,
+            1802.0,
+            898.0,
+            1830.0
+          ],
+          "text": "MC-2071",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            1802.0,
+            1452.0,
+            1830.0
+          ],
+          "text": "Dr. RADHIKA CHOWDARY: D, M.D",
+          "confidence": 0.6902
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1818.0,
+            751.0,
+            1854.0
+          ],
+          "text": "No part of the report can be reproduced without written",
+          "confidence": 0.8801
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1848.0,
+            438.0,
+            1880.0
+          ],
+          "text": "permission of the laboratory_",
+          "confidence": 0.8153
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1044.0,
+            1862.0,
+            1440.0,
+            1890.0
+          ],
+          "text": "SR. CONSULTANT BIOCHEMIST",
+          "confidence": 0.6398
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1884.0,
+            454.0,
+            1916.0
+          ],
+          "text": "Suggested Clinical Correlation",
+          "confidence": 0.6765
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            480.0,
+            1882.0,
+            812.0,
+            1912.0
+          ],
+          "text": "If neccessary, Please discuss",
+          "confidence": 0.8511
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1956.0,
+            520.0,
+            1986.0
+          ],
+          "text": "Dr.D.RADHIKA CHOWDARY",
+          "confidence": 0.7821
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            665.0,
+            1956.0,
+            917.0,
+            1982.0
+          ],
+          "text": "Dr MD.MOUNUDDIN",
+          "confidence": 0.4975
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            1954.0,
+            1322.0,
+            1986.0
+          ],
+          "text": "Dr.M.A. MUQEETH",
+          "confidence": 0.9587
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            470.0,
+            1986.0,
+            518.0,
+            2012.0
+          ],
+          "text": "M.D",
+          "confidence": 0.6305
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            880.0,
+            1986.0,
+            920.0,
+            2012.0
+          ],
+          "text": "MD",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1216.0,
+            1984.0,
+            1322.0,
+            2012.0
+          ],
+          "text": "MD, DNB",
+          "confidence": 0.9932
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            2009.0,
+            521.0,
+            2046.0
+          ],
+          "text": "SR. CONSULTANT BIOCHEMIST",
+          "confidence": 0.8087
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            2012.0,
+            920.0,
+            2042.0
+          ],
+          "text": "CONSULTANT BIOCHEMIST",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            2012.0,
+            1322.0,
+            2042.0
+          ],
+          "text": "CONSULTANT BIOCHEMIST",
+          "confidence": 0.7502
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            2190.0,
+            208.0,
+            2222.0
+          ],
+          "text": "Printed By",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            2192.0,
+            352.0,
+            2220.0
+          ],
+          "text": "90115117",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            538.0,
+            2188.0,
+            664.0,
+            2216.0
+          ],
+          "text": "Printed On",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            2190.0,
+            990.0,
+            2220.0
+          ],
+          "text": "27-Apr-2025 04:18:24 PM",
+          "confidence": 0.5458
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1066.0,
+            2188.0,
+            1158.0,
+            2220.0
+          ],
+          "text": "System",
+          "confidence": 0.7076
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            941.1450111147833,
+            709.2165680617587,
+            1456.8549888852167,
+            1174.7834319382412
+          ],
+          "text": "REPORF",
+          "confidence": 0.4688
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            264.55722983195017,
+            1084.7136329159966,
+            988.4427701680498,
+            1746.2863670840034
+          ],
+          "text": "ROVISIONAL",
+          "confidence": 0.7888
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF BIOCHEMISTRY\nPatient\nKUMAR\nAdmn\nNo\nMRSE252\u20ac\nDr.ER PHYSICIAN\nBill Date\n27-Apr-25\n12:36 pm\nReport Date\n27-Apr-25\n01:24 pm\nParameter\nSpecimen\nResults\nBiological Reference\nMethod\nCreatinine\nSerum\n0.85\n0.67\n1.17\nmg/dl\nModified Jaffe-Kinetic\neGFR\n>90.00\n7=\n85\nmllmin/1.73m2\nby CKD\n***\nEnd Of Report ***\nBOLD\nDenotes Abnormal Results.\nDenotes Critical Alerts\nVerified By\n110809\nTest results related only to the item tested_\nMC-2071\nDr. RADHIKA CHOWDARY: D, M.D\nNo part of the report can be reproduced without written\npermission of the laboratory_\nSR. CONSULTANT BIOCHEMIST\nSuggested Clinical Correlation\nIf neccessary, Please discuss\nDr.D.RADHIKA CHOWDARY\nDr MD.MOUNUDDIN\nDr.M.A. MUQEETH\nM.D\nMD\nMD, DNB\nSR. CONSULTANT BIOCHEMIST\nCONSULTANT BIOCHEMIST\nCONSULTANT BIOCHEMIST\nPrinted By\n90115117\nPrinted On\n27-Apr-2025 04:18:24 PM\nSystem\nREPORF\nROVISIONAL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "MRSE2",
+          "biomarker_normalized": "MRSE2",
+          "value": "52",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MRSE252\u20ac",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "mllmin/",
+          "biomarker_normalized": "mllmin/",
+          "value": "1.73",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mllmin/1.73m2",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MC",
+          "biomarker_normalized": "MC",
+          "value": "2071",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MC-2071",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 62,
+    "ocr_avg_confidence": 0.8433,
+    "parsed_row_count": 3
+  }
+}

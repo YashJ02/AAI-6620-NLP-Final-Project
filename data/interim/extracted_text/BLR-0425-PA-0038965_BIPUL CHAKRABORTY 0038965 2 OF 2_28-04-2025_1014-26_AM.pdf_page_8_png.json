@@ -1,0 +1,1200 @@
+{
+  "document_id": "BLR-0425-PA-0038965_BIPUL CHAKRABORTY 0038965 2 OF 2_28-04-2025_1014-26_AM.pdf_page_8",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0038965_BIPUL CHAKRABORTY 0038965 2 OF 2_28-04-2025_1014-26_AM.pdf_page_8.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatient Name\nMr. BIPUL CHAKRABORTY\nAge/ Sex\n32 Year{s) Male\nUHID\nAIGG.20968030\nOrder Date\n61C.16\nEpisode\nOP\nBill No.\nAGoCS250375793\nRet: Doctor\nDr, Siddhant Mathur\nMobile No\nFacility\n41G Haspilals, Gachibcwvl\nSample No\nAGH1031276F\nCollec Date\n10.19\nAck. Date\n14.27\nReport Date\n12.03\nBiochemistry\nTEST\nRESULT\nUNIT\nBIOLCGICAL REF [NIERVAL\nSERUM CREATININE\nSample Iypc-\n5zn\nSERUM CREATININE\n1,04\nmg/dl\n0.67\n1,7\nNeck\nKner Jares\nIDMS Tracesbit\nInterpretations;\nCreatinine\nis tho\ncatabolic product of creatinino ptosphato\nwhich\nJS\nused by Ihe\nskeletal muscie\nThe\ndaily production  deperds\nO5i\nmnuscular\nmass and i iS\nexcreled Out Of the body entirely by tho kianoys.\nElcvatcd Ievcls\nare\n{ound\n(n\nrenal\ndysiunction;\nroqucod\nreral\nblood\n{low\n(shock,\ndohydration,\ncongestive\nhean\n{ailure)\ndiabeles\nacromegaly, Decreased lovols arc found in (uscular dystrophy\nRepart Saved By\nNAMBURU VEERAIAH\n112.03 PM)\nEnd cl Report\nA-1+\nDr.6 , DEEPIKA\nMC Biochemisu% , Sr,corizullarl\nHOD ochem etrv\nMinaispace Road Gachibowli; Hyderabad Telangana\n500 037\n+91 40 4244 4222\n0\nAIG\ninfoaighospitalscon)\nwwvjighospital;com\nHospitals (a unit of Asian Institute af Gastroenterology)\nCIN:\nU99999T61994PTC018352",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            62.0,
+            476.0,
+            170.0
+          ],
+          "text": "AIG",
+          "confidence": 0.9787
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            150.0,
+            468.0,
+            202.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.935
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            592.0,
+            242.0,
+            1148.0,
+            274.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            314.0,
+            312.0,
+            342.0
+          ],
+          "text": "Patient Name",
+          "confidence": 0.71
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            314.0,
+            656.0,
+            342.0
+          ],
+          "text": "Mr. BIPUL CHAKRABORTY",
+          "confidence": 0.5845
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            312.0,
+            1054.0,
+            342.0
+          ],
+          "text": "Age/ Sex",
+          "confidence": 0.8449
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            310.0,
+            1420.0,
+            340.0
+          ],
+          "text": "32 Year{s) Male",
+          "confidence": 0.5538
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            362.0,
+            222.0,
+            390.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9889
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            376.0,
+            362.0,
+            546.0,
+            390.0
+          ],
+          "text": "AIGG.20968030",
+          "confidence": 0.9909
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            358.0,
+            1082.0,
+            384.0
+          ],
+          "text": "Order Date",
+          "confidence": 0.6901
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1374.0,
+            358.0,
+            1438.0,
+            386.0
+          ],
+          "text": "61C.16",
+          "confidence": 0.1695
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            406.0,
+            248.0,
+            438.0
+          ],
+          "text": "Episode",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            376.0,
+            402.0,
+            412.0,
+            428.0
+          ],
+          "text": "OP",
+          "confidence": 0.9909
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            946.0,
+            401.0,
+            1038.0,
+            430.0
+          ],
+          "text": "Bill No.",
+          "confidence": 0.4887
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1250.0,
+            398.0,
+            1442.0,
+            428.0
+          ],
+          "text": "AGoCS250375793",
+          "confidence": 0.5087
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            445.0,
+            286.0,
+            476.0
+          ],
+          "text": "Ret: Doctor",
+          "confidence": 0.7999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            378.0,
+            446.0,
+            592.0,
+            474.0
+          ],
+          "text": "Dr, Siddhant Mathur",
+          "confidence": 0.6654
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            442.0,
+            1070.0,
+            468.0
+          ],
+          "text": "Mobile No",
+          "confidence": 0.9536
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            482.0,
+            1038.0,
+            514.0
+          ],
+          "text": "Facility",
+          "confidence": 0.9955
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1246.0,
+            476.0,
+            1486.0,
+            504.0
+          ],
+          "text": "41G Haspilals, Gachibcwvl",
+          "confidence": 0.477
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            548.0,
+            278.0,
+            578.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9956
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            376.0,
+            552.0,
+            532.0,
+            580.0
+          ],
+          "text": "AGH1031276F",
+          "confidence": 0.7534
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            552.0,
+            1088.0,
+            578.0
+          ],
+          "text": "Collec Date",
+          "confidence": 0.5733
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            556.0,
+            1416.0,
+            584.0
+          ],
+          "text": "10.19",
+          "confidence": 0.7285
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            584.0,
+            264.0,
+            612.0
+          ],
+          "text": "Ack. Date",
+          "confidence": 0.4452
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            584.0,
+            574.0,
+            612.0
+          ],
+          "text": "14.27",
+          "confidence": 0.5301
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            587.0,
+            1098.0,
+            619.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.6846
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            590.0,
+            1416.0,
+            616.0
+          ],
+          "text": "12.03",
+          "confidence": 0.4248
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            776.0,
+            671.0,
+            967.0,
+            713.0
+          ],
+          "text": "Biochemistry",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            738.0,
+            250.0,
+            762.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9964
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            776.0,
+            734.0,
+            856.0,
+            760.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            734.0,
+            1218.0,
+            758.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.7842
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            731.0,
+            1557.0,
+            758.0
+          ],
+          "text": "BIOLCGICAL REF [NIERVAL",
+          "confidence": 0.8447
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            805.0,
+            491.0,
+            841.0
+          ],
+          "text": "SERUM CREATININE",
+          "confidence": 0.992
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            190.0,
+            858.0,
+            316.0,
+            884.0
+          ],
+          "text": "Sample Iypc-",
+          "confidence": 0.1918
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            342.0,
+            856.0,
+            402.0,
+            880.0
+          ],
+          "text": "5zn",
+          "confidence": 0.1023
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            904.0,
+            444.0,
+            936.0
+          ],
+          "text": "SERUM CREATININE",
+          "confidence": 0.9604
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            792.0,
+            904.0,
+            844.0,
+            930.0
+          ],
+          "text": "1,04",
+          "confidence": 0.5224
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            904.0,
+            1218.0,
+            936.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.714
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            902.0,
+            1398.0,
+            930.0
+          ],
+          "text": "0.67",
+          "confidence": 0.9723
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1414.0,
+            902.0,
+            1464.0,
+            930.0
+          ],
+          "text": "1,7",
+          "confidence": 0.4271
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            940.0,
+            258.0,
+            964.0
+          ],
+          "text": "Neck",
+          "confidence": 0.2921
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            264.0,
+            940.0,
+            382.0,
+            964.0
+          ],
+          "text": "Kner Jares",
+          "confidence": 0.2291
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            392.0,
+            940.0,
+            530.0,
+            964.0
+          ],
+          "text": "IDMS Tracesbit",
+          "confidence": 0.1025
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            969.0,
+            330.0,
+            1002.0
+          ],
+          "text": "Interpretations;",
+          "confidence": 0.7271
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            354.0,
+            970.0,
+            472.0,
+            998.0
+          ],
+          "text": "Creatinine",
+          "confidence": 0.9857
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            478.0,
+            970.0,
+            554.0,
+            996.0
+          ],
+          "text": "is tho",
+          "confidence": 0.9302
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            561.0,
+            963.0,
+            1055.0,
+            999.0
+          ],
+          "text": "catabolic product of creatinino ptosphato",
+          "confidence": 0.3321
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1062.0,
+            968.0,
+            1132.0,
+            994.0
+          ],
+          "text": "which",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            968.0,
+            1164.0,
+            992.0
+          ],
+          "text": "JS",
+          "confidence": 0.217
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            968.0,
+            1324.0,
+            1000.0
+          ],
+          "text": "used by Ihe",
+          "confidence": 0.6901
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1332.0,
+            966.0,
+            1516.0,
+            994.0
+          ],
+          "text": "skeletal muscie",
+          "confidence": 0.6841
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1536.0,
+            966.0,
+            1584.0,
+            994.0
+          ],
+          "text": "The",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1003.0,
+            454.0,
+            1036.0
+          ],
+          "text": "daily production  deperds",
+          "confidence": 0.419
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            1006.0,
+            494.0,
+            1030.0
+          ],
+          "text": "O5i",
+          "confidence": 0.3617
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            1004.0,
+            612.0,
+            1030.0
+          ],
+          "text": "mnuscular",
+          "confidence": 0.8248
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            1002.0,
+            796.0,
+            1028.0
+          ],
+          "text": "mass and i iS",
+          "confidence": 0.4686
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            803.0,
+            997.0,
+            1391.0,
+            1033.0
+          ],
+          "text": "excreled Out Of the body entirely by tho kianoys.",
+          "confidence": 0.5331
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1400.0,
+            1000.0,
+            1580.0,
+            1026.0
+          ],
+          "text": "Elcvatcd Ievcls",
+          "confidence": 0.427
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1040.0,
+            200.0,
+            1064.0
+          ],
+          "text": "are",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1038.0,
+            284.0,
+            1064.0
+          ],
+          "text": "{ound",
+          "confidence": 0.8114
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            297.0,
+            1041.0,
+            321.0,
+            1061.0
+          ],
+          "text": "(n",
+          "confidence": 0.0774
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            1038.0,
+            402.0,
+            1064.0
+          ],
+          "text": "renal",
+          "confidence": 0.871
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            413.0,
+            1035.0,
+            552.0,
+            1066.0
+          ],
+          "text": "dysiunction;",
+          "confidence": 0.7163
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            568.0,
+            1036.0,
+            666.0,
+            1062.0
+          ],
+          "text": "roqucod",
+          "confidence": 0.6513
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            1036.0,
+            744.0,
+            1062.0
+          ],
+          "text": "reral",
+          "confidence": 0.4071
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1036.0,
+            826.0,
+            1062.0
+          ],
+          "text": "blood",
+          "confidence": 0.9634
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            838.0,
+            1034.0,
+            890.0,
+            1062.0
+          ],
+          "text": "{low",
+          "confidence": 0.5045
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            905.0,
+            1032.0,
+            992.0,
+            1064.0
+          ],
+          "text": "(shock,",
+          "confidence": 0.9524
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            1032.0,
+            1152.0,
+            1062.0
+          ],
+          "text": "dohydration,",
+          "confidence": 0.9365
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1165.0,
+            1028.0,
+            1295.0,
+            1068.0
+          ],
+          "text": "congestive",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1308.0,
+            1032.0,
+            1372.0,
+            1060.0
+          ],
+          "text": "hean",
+          "confidence": 0.7329
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1384.0,
+            1034.0,
+            1468.0,
+            1062.0
+          ],
+          "text": "{ailure)",
+          "confidence": 0.6198
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1484.0,
+            1032.0,
+            1584.0,
+            1060.0
+          ],
+          "text": "diabeles",
+          "confidence": 0.8868
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1068.0,
+            857.0,
+            1100.0
+          ],
+          "text": "acromegaly, Decreased lovols arc found in (uscular dystrophy",
+          "confidence": 0.4398
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1120.0,
+            324.0,
+            1150.0
+          ],
+          "text": "Repart Saved By",
+          "confidence": 0.9078
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            1118.0,
+            566.0,
+            1148.0
+          ],
+          "text": "NAMBURU VEERAIAH",
+          "confidence": 0.9858
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            712.0,
+            1118.0,
+            826.0,
+            1146.0
+          ],
+          "text": "112.03 PM)",
+          "confidence": 0.5018
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            1173.0,
+            922.0,
+            1205.0
+          ],
+          "text": "End cl Report",
+          "confidence": 0.7799
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1173.0,
+            1214.0,
+            1384.0,
+            1305.0
+          ],
+          "text": "A-1+",
+          "confidence": 0.1167
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            1319.0,
+            1291.0,
+            1344.0
+          ],
+          "text": "Dr.6 , DEEPIKA",
+          "confidence": 0.245
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            1363.0,
+            1412.0,
+            1390.0
+          ],
+          "text": "MC Biochemisu% , Sr,corizullarl",
+          "confidence": 0.1356
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1148.0,
+            1390.0,
+            1306.0,
+            1414.0
+          ],
+          "text": "HOD ochem etrv",
+          "confidence": 0.3601
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            2166.0,
+            653.0,
+            2215.0
+          ],
+          "text": "Minaispace Road Gachibowli; Hyderabad Telangana",
+          "confidence": 0.6177
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            660.0,
+            2180.0,
+            750.0,
+            2210.0
+          ],
+          "text": "500 037",
+          "confidence": 0.5205
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            2184.0,
+            1000.0,
+            2217.0
+          ],
+          "text": "+91 40 4244 4222",
+          "confidence": 0.8536
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            2190.0,
+            1038.0,
+            2216.0
+          ],
+          "text": "0",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            2210.0,
+            368.0,
+            2238.0
+          ],
+          "text": "AIG",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1036.0,
+            2192.0,
+            1278.0,
+            2224.0
+          ],
+          "text": "infoaighospitalscon)",
+          "confidence": 0.5948
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            2202.0,
+            1552.0,
+            2232.0
+          ],
+          "text": "wwvjighospital;com",
+          "confidence": 0.3884
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            360.0,
+            2207.0,
+            936.0,
+            2260.0
+          ],
+          "text": "Hospitals (a unit of Asian Institute af Gastroenterology)",
+          "confidence": 0.6432
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            2228.0,
+            1016.0,
+            2256.0
+          ],
+          "text": "CIN:",
+          "confidence": 0.9089
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            2225.0,
+            1299.0,
+            2267.0
+          ],
+          "text": "U99999T61994PTC018352",
+          "confidence": 0.5544
+        }
+      ]
+    }
+  ],
+  "full_text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatient Name\nMr. BIPUL CHAKRABORTY\nAge/ Sex\n32 Year{s) Male\nUHID\nAIGG.20968030\nOrder Date\n61C.16\nEpisode\nOP\nBill No.\nAGoCS250375793\nRet: Doctor\nDr, Siddhant Mathur\nMobile No\nFacility\n41G Haspilals, Gachibcwvl\nSample No\nAGH1031276F\nCollec Date\n10.19\nAck. Date\n14.27\nReport Date\n12.03\nBiochemistry\nTEST\nRESULT\nUNIT\nBIOLCGICAL REF [NIERVAL\nSERUM CREATININE\nSample Iypc-\n5zn\nSERUM CREATININE\n1,04\nmg/dl\n0.67\n1,7\nNeck\nKner Jares\nIDMS Tracesbit\nInterpretations;\nCreatinine\nis tho\ncatabolic product of creatinino ptosphato\nwhich\nJS\nused by Ihe\nskeletal muscie\nThe\ndaily production  deperds\nO5i\nmnuscular\nmass and i iS\nexcreled Out Of the body entirely by tho kianoys.\nElcvatcd Ievcls\nare\n{ound\n(n\nrenal\ndysiunction;\nroqucod\nreral\nblood\n{low\n(shock,\ndohydration,\ncongestive\nhean\n{ailure)\ndiabeles\nacromegaly, Decreased lovols arc found in (uscular dystrophy\nRepart Saved By\nNAMBURU VEERAIAH\n112.03 PM)\nEnd cl Report\nA-1+\nDr.6 , DEEPIKA\nMC Biochemisu% , Sr,corizullarl\nHOD ochem etrv\nMinaispace Road Gachibowli; Hyderabad Telangana\n500 037\n+91 40 4244 4222\n0\nAIG\ninfoaighospitalscon)\nwwvjighospital;com\nHospitals (a unit of Asian Institute af Gastroenterology)\nCIN:\nU99999T61994PTC018352",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "AIGG.",
+          "biomarker_normalized": "AIGG.",
+          "value": "20968030",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AIGG.20968030",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AGoCS2",
+          "biomarker_normalized": "AGoCS2",
+          "value": "50375793",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AGoCS250375793",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AGH1",
+          "biomarker_normalized": "AGH1",
+          "value": "031276",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AGH1031276F",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "A",
+          "biomarker_normalized": "A",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "A-1+",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Dr.",
+          "biomarker_normalized": "Dr.",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Dr.6 , DEEPIKA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "U9",
+          "biomarker_normalized": "U9",
+          "value": "9999",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "U99999T61994PTC018352",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 93,
+    "ocr_avg_confidence": 0.6758,
+    "parsed_row_count": 6
+  }
+}

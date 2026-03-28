@@ -1,0 +1,1755 @@
+{
+  "document_id": "CHE-0425-PA-0013990_E-DischargeSummary_250427_1530@E.pdf_page_3",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0013990_E-DischargeSummary_250427_1530@E.pdf_page_3.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "SRV\nMAMATA\nHOSPITAL\nOOM NO 1 & 2,GROUND FLOOR,PLOT NO P 43,PHASE 2, SRV MAMATA HOSPITAL,MIDC,DOMBIVALI EAST, DIST\nHANE\n421203\nINVESTIGATION\nAUSTRALIAN\nNON\nCreatninel\n0.8 mg/dL\n09.24 PM\nREACTIVE\n09.24 PM\nHCV Rapid\nNON\n09.24 PM\nREACTIVE\nCOMPLETE BLOOD\n24-APR\nELECTROLYTES\n24-APR\nCOUNT (CBC)\n09:22 PM\n09:24 PM\nRed Cell Count\n4.51\nCHLORIDE, SERUM\n100.0\nx1o6 /ul\nmmol/L\nPOTASSIUM, SERUM\n3.9\nHaemoglobin\n13.1 g/dL\nmmol/L\nHaematocrit\n38.6 %\nSODIUM, SERUM\n136.0\nMCV\n85.6 fL\nmmol/L\nMCH\n29.0 pg\nHIV [ AND II RAPID\n24-APR\n09:24 PM\nMCHC\n33.9\nHIV -1\nNON\nRDW(SD)\n40.1 %\nREACTIVE\nTotal WBC Count\n6.45 10^3\ncells/ul\nHIV-2\nNON\nREACTIVE\nPlatelet Count\n321 10^3\ncells/ul\nPROTHROMBIN TIME\n24-APR\nNeutrophils %\n55.2 %\n(PT)\n09.23 PM\nEosinophils %\n1.4 %\nControl\n15.7\nLymphocytes %\n36.1 %\nRatio\n0.98\nMonocytes %\n6.8 %\nISI Value\n1.1\nBasophils %\n0.5 %\nINR Value\n0.98\nRDW(CV)\n12.7\nProthrombin Time\n15.6\nMean Platelet\n8.4 fL\nURINE ROUTINE\n25-APR\nvolume(MPV)\nEXAMINATION\n014:02 PM\nPlatelet Distribution\n8.2 %\nColour\nPale\nWidth(PDW)\nPlateletocrit (PCT)\n0.27\nAppearance\nClear\nP-LCR\n12.0 %\nSpecific gravity\n1.015\nRBC Morphology\nNormocyti\npH(Reaction)\n6.5\nNormochr\nOccult Blood\nAbsent\nomic\nBile Salts\nAbsent\nWBC Morphology\nNormal\nUrobilinogen\nAbsent\nPlatelets on Smear\nAdequate\nKetone\nAbsent\nProtein\nAbsent\nGlucose\nAbsent\nNIKHIL MAKARAND VAIDYA\nSRVD-9491\nPage 3 of\ng/dL\nyellow\nHc\nDOMBIVLI}\n455",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            18.0,
+            52.0,
+            116.0,
+            100.0
+          ],
+          "text": "SRV",
+          "confidence": 0.6417
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            53.0,
+            340.0,
+            97.0
+          ],
+          "text": "MAMATA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            353.0,
+            50.0,
+            611.0,
+            98.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            27.0,
+            95.0,
+            1549.0,
+            137.0
+          ],
+          "text": "OOM NO 1 & 2,GROUND FLOOR,PLOT NO P 43,PHASE 2, SRV MAMATA HOSPITAL,MIDC,DOMBIVALI EAST, DIST",
+          "confidence": 0.7781
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            26.0,
+            134.0,
+            112.0,
+            166.0
+          ],
+          "text": "HANE",
+          "confidence": 0.8671
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            133.0,
+            237.0,
+            165.0
+          ],
+          "text": "421203",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            212.0,
+            334.0,
+            238.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            260.0,
+            314.0,
+            288.0
+          ],
+          "text": "AUSTRALIAN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            256.0,
+            782.0,
+            284.0
+          ],
+          "text": "NON",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            890.0,
+            256.0,
+            1000.0,
+            282.0
+          ],
+          "text": "Creatninel",
+          "confidence": 0.9314
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1454.0,
+            252.0,
+            1574.0,
+            284.0
+          ],
+          "text": "0.8 mg/dL",
+          "confidence": 0.8071
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            288.0,
+            680.0,
+            314.0
+          ],
+          "text": "09.24 PM",
+          "confidence": 0.9154
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            286.0,
+            842.0,
+            312.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 0.6571
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            284.0,
+            1406.0,
+            310.0
+          ],
+          "text": "09.24 PM",
+          "confidence": 0.5908
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            372.0,
+            290.0,
+            408.0
+          ],
+          "text": "HCV Rapid",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            372.0,
+            782.0,
+            398.0
+          ],
+          "text": "NON",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            572.0,
+            402.0,
+            680.0,
+            428.0
+          ],
+          "text": "09.24 PM",
+          "confidence": 0.3849
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            400.0,
+            846.0,
+            428.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            526.0,
+            366.0,
+            552.0
+          ],
+          "text": "COMPLETE BLOOD",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            526.0,
+            530.0,
+            550.0
+          ],
+          "text": "24-APR",
+          "confidence": 0.9795
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            912.0,
+            522.0,
+            1078.0,
+            548.0
+          ],
+          "text": "ELECTROLYTES",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            522.0,
+            1278.0,
+            546.0
+          ],
+          "text": "24-APR",
+          "confidence": 0.9447
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            552.0,
+            310.0,
+            580.0
+          ],
+          "text": "COUNT (CBC)",
+          "confidence": 0.9654
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            552.0,
+            552.0,
+            576.0
+          ],
+          "text": "09:22 PM",
+          "confidence": 0.8489
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            548.0,
+            1300.0,
+            572.0
+          ],
+          "text": "09:24 PM",
+          "confidence": 0.8554
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            598.0,
+            328.0,
+            626.0
+          ],
+          "text": "Red Cell Count",
+          "confidence": 0.879
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            598.0,
+            498.0,
+            624.0
+          ],
+          "text": "4.51",
+          "confidence": 0.9101
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            593.0,
+            1124.0,
+            622.0
+          ],
+          "text": "CHLORIDE, SERUM",
+          "confidence": 0.9353
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            594.0,
+            1262.0,
+            620.0
+          ],
+          "text": "100.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            445.0,
+            627.0,
+            549.0,
+            667.0
+          ],
+          "text": "x1o6 /ul",
+          "confidence": 0.2442
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            624.0,
+            1290.0,
+            650.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.6029
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            679.0,
+            1136.0,
+            709.0
+          ],
+          "text": "POTASSIUM, SERUM",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            680.0,
+            1234.0,
+            706.0
+          ],
+          "text": "3.9",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            690.0,
+            317.0,
+            726.0
+          ],
+          "text": "Haemoglobin",
+          "confidence": 0.7535
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            692.0,
+            560.0,
+            724.0
+          ],
+          "text": "13.1 g/dL",
+          "confidence": 0.6122
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            710.0,
+            1290.0,
+            736.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            750.0,
+            308.0,
+            776.0
+          ],
+          "text": "Haematocrit",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            748.0,
+            530.0,
+            774.0
+          ],
+          "text": "38.6 %",
+          "confidence": 0.8376
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            766.0,
+            1098.0,
+            792.0
+          ],
+          "text": "SODIUM, SERUM",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            764.0,
+            1262.0,
+            790.0
+          ],
+          "text": "136.0",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            806.0,
+            226.0,
+            832.0
+          ],
+          "text": "MCV",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            804.0,
+            530.0,
+            832.0
+          ],
+          "text": "85.6 fL",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            794.0,
+            1290.0,
+            822.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.9959
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            862.0,
+            228.0,
+            890.0
+          ],
+          "text": "MCH",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            860.0,
+            534.0,
+            892.0
+          ],
+          "text": "29.0 pg",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            870.0,
+            1116.0,
+            894.0
+          ],
+          "text": "HIV [ AND II RAPID",
+          "confidence": 0.791
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            868.0,
+            1280.0,
+            892.0
+          ],
+          "text": "24-APR",
+          "confidence": 0.8981
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            894.0,
+            1302.0,
+            918.0
+          ],
+          "text": "09:24 PM",
+          "confidence": 0.577
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            918.0,
+            244.0,
+            946.0
+          ],
+          "text": "MCHC",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            916.0,
+            502.0,
+            942.0
+          ],
+          "text": "33.9",
+          "confidence": 0.9574
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            939.0,
+            988.0,
+            971.0
+          ],
+          "text": "HIV -1",
+          "confidence": 0.6799
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            940.0,
+            1252.0,
+            966.0
+          ],
+          "text": "NON",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            974.0,
+            280.0,
+            1006.0
+          ],
+          "text": "RDW(SD)",
+          "confidence": 0.9926
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            972.0,
+            530.0,
+            1000.0
+          ],
+          "text": "40.1 %",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1195.0,
+            968.0,
+            1315.0,
+            994.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 0.9897
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1030.0,
+            356.0,
+            1058.0
+          ],
+          "text": "Total WBC Count",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1028.0,
+            564.0,
+            1056.0
+          ],
+          "text": "6.45 10^3",
+          "confidence": 0.6565
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1058.0,
+            536.0,
+            1088.0
+          ],
+          "text": "cells/ul",
+          "confidence": 0.874
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            1056.0,
+            982.0,
+            1082.0
+          ],
+          "text": "HIV-2",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1054.0,
+            1254.0,
+            1082.0
+          ],
+          "text": "NON",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1197.0,
+            1081.0,
+            1317.0,
+            1111.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1116.0,
+            326.0,
+            1142.0
+          ],
+          "text": "Platelet Count",
+          "confidence": 0.7746
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1114.0,
+            558.0,
+            1142.0
+          ],
+          "text": "321 10^3",
+          "confidence": 0.7737
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1144.0,
+            538.0,
+            1172.0
+          ],
+          "text": "cells/ul",
+          "confidence": 0.7895
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            1186.0,
+            1144.0,
+            1212.0
+          ],
+          "text": "PROTHROMBIN TIME",
+          "confidence": 0.6264
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            1186.0,
+            1282.0,
+            1210.0
+          ],
+          "text": "24-APR",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1200.0,
+            330.0,
+            1230.0
+          ],
+          "text": "Neutrophils %",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1198.0,
+            532.0,
+            1226.0
+          ],
+          "text": "55.2 %",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            914.0,
+            1212.0,
+            966.0,
+            1238.0
+          ],
+          "text": "(PT)",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1195.0,
+            1209.0,
+            1302.0,
+            1237.0
+          ],
+          "text": "09.23 PM",
+          "confidence": 0.7451
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1252.0,
+            331.0,
+            1288.0
+          ],
+          "text": "Eosinophils %",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1254.0,
+            518.0,
+            1280.0
+          ],
+          "text": "1.4 %",
+          "confidence": 0.721
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1258.0,
+            1002.0,
+            1284.0
+          ],
+          "text": "Control",
+          "confidence": 0.9762
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1256.0,
+            1250.0,
+            1282.0
+          ],
+          "text": "15.7",
+          "confidence": 0.8576
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1310.0,
+            346.0,
+            1342.0
+          ],
+          "text": "Lymphocytes %",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1310.0,
+            532.0,
+            1336.0
+          ],
+          "text": "36.1 %",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1314.0,
+            978.0,
+            1340.0
+          ],
+          "text": "Ratio",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1312.0,
+            1252.0,
+            1340.0
+          ],
+          "text": "0.98",
+          "confidence": 0.5802
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            1366.0,
+            320.0,
+            1398.0
+          ],
+          "text": "Monocytes %",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1366.0,
+            520.0,
+            1394.0
+          ],
+          "text": "6.8 %",
+          "confidence": 0.6045
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            1370.0,
+            1016.0,
+            1398.0
+          ],
+          "text": "ISI Value",
+          "confidence": 0.8394
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1370.0,
+            1236.0,
+            1394.0
+          ],
+          "text": "1.1",
+          "confidence": 0.9891
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            1420.0,
+            309.0,
+            1456.0
+          ],
+          "text": "Basophils %",
+          "confidence": 0.9958
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1422.0,
+            518.0,
+            1448.0
+          ],
+          "text": "0.5 %",
+          "confidence": 0.947
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1424.0,
+            1028.0,
+            1452.0
+          ],
+          "text": "INR Value",
+          "confidence": 0.8871
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1424.0,
+            1252.0,
+            1450.0
+          ],
+          "text": "0.98",
+          "confidence": 0.8195
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1478.0,
+            282.0,
+            1510.0
+          ],
+          "text": "RDW(CV)",
+          "confidence": 0.6572
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            1478.0,
+            502.0,
+            1504.0
+          ],
+          "text": "12.7",
+          "confidence": 0.9549
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1480.0,
+            1122.0,
+            1506.0
+          ],
+          "text": "Prothrombin Time",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1480.0,
+            1252.0,
+            1506.0
+          ],
+          "text": "15.6",
+          "confidence": 0.8872
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1534.0,
+            324.0,
+            1560.0
+          ],
+          "text": "Mean Platelet",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1534.0,
+            516.0,
+            1558.0
+          ],
+          "text": "8.4 fL",
+          "confidence": 0.9567
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            1552.0,
+            1092.0,
+            1578.0
+          ],
+          "text": "URINE ROUTINE",
+          "confidence": 0.9845
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1552.0,
+            1284.0,
+            1576.0
+          ],
+          "text": "25-APR",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1564.0,
+            324.0,
+            1592.0
+          ],
+          "text": "volume(MPV)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            1578.0,
+            1074.0,
+            1602.0
+          ],
+          "text": "EXAMINATION",
+          "confidence": 0.7951
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1576.0,
+            1304.0,
+            1602.0
+          ],
+          "text": "014:02 PM",
+          "confidence": 0.7141
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1618.0,
+            392.0,
+            1644.0
+          ],
+          "text": "Platelet Distribution",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            1618.0,
+            518.0,
+            1644.0
+          ],
+          "text": "8.2 %",
+          "confidence": 0.9869
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1624.0,
+            996.0,
+            1650.0
+          ],
+          "text": "Colour",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1622.0,
+            1250.0,
+            1648.0
+          ],
+          "text": "Pale",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1646.0,
+            318.0,
+            1678.0
+          ],
+          "text": "Width(PDW)",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1702.0,
+            376.0,
+            1732.0
+          ],
+          "text": "Plateletocrit (PCT)",
+          "confidence": 0.6661
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            1702.0,
+            504.0,
+            1726.0
+          ],
+          "text": "0.27",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            1706.0,
+            1053.0,
+            1742.0
+          ],
+          "text": "Appearance",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1706.0,
+            1264.0,
+            1732.0
+          ],
+          "text": "Clear",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1758.0,
+            244.0,
+            1784.0
+          ],
+          "text": "P-LCR",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1756.0,
+            534.0,
+            1784.0
+          ],
+          "text": "12.0 %",
+          "confidence": 0.9638
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            1764.0,
+            1086.0,
+            1794.0
+          ],
+          "text": "Specific gravity",
+          "confidence": 0.7675
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1762.0,
+            1268.0,
+            1788.0
+          ],
+          "text": "1.015",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1814.0,
+            358.0,
+            1844.0
+          ],
+          "text": "RBC Morphology",
+          "confidence": 0.9829
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1814.0,
+            574.0,
+            1842.0
+          ],
+          "text": "Normocyti",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            919.0,
+            1818.0,
+            1068.0,
+            1850.0
+          ],
+          "text": "pH(Reaction)",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            1818.0,
+            1240.0,
+            1844.0
+          ],
+          "text": "6.5",
+          "confidence": 0.995
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1872.0,
+            572.0,
+            1896.0
+          ],
+          "text": "Normochr",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            1876.0,
+            1060.0,
+            1902.0
+          ],
+          "text": "Occult Blood",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            1874.0,
+            1284.0,
+            1900.0
+          ],
+          "text": "Absent",
+          "confidence": 0.6088
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1900.0,
+            514.0,
+            1926.0
+          ],
+          "text": "omic",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            1932.0,
+            1024.0,
+            1958.0
+          ],
+          "text": "Bile Salts",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            1930.0,
+            1284.0,
+            1956.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1956.0,
+            366.0,
+            1986.0
+          ],
+          "text": "WBC Morphology",
+          "confidence": 0.843
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            454.0,
+            1956.0,
+            542.0,
+            1982.0
+          ],
+          "text": "Normal",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            920.0,
+            1981.0,
+            1067.0,
+            2018.0
+          ],
+          "text": "Urobilinogen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1984.0,
+            1284.0,
+            2010.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            2010.0,
+            378.0,
+            2038.0
+          ],
+          "text": "Platelets on Smear",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            453.0,
+            2009.0,
+            564.0,
+            2041.0
+          ],
+          "text": "Adequate",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            2042.0,
+            1002.0,
+            2068.0
+          ],
+          "text": "Ketone",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            2040.0,
+            1284.0,
+            2066.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            2096.0,
+            1004.0,
+            2122.0
+          ],
+          "text": "Protein",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            2094.0,
+            1284.0,
+            2120.0
+          ],
+          "text": "Absent",
+          "confidence": 0.9418
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            922.0,
+            2152.0,
+            1010.0,
+            2178.0
+          ],
+          "text": "Glucose",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            1206.0,
+            2150.0,
+            1286.0,
+            2176.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            2244.0,
+            362.0,
+            2270.0
+          ],
+          "text": "NIKHIL MAKARAND VAIDYA",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            379.0,
+            2241.0,
+            507.0,
+            2267.0
+          ],
+          "text": "SRVD-9491",
+          "confidence": 0.8006
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            1515.0,
+            2231.0,
+            1636.0,
+            2261.0
+          ],
+          "text": "Page 3 of",
+          "confidence": 0.8658
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            497.13701426866953,
+            911.8093633012224,
+            563.8629857313305,
+            952.1906366987776
+          ],
+          "text": "g/dL",
+          "confidence": 0.8876
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            1195.4789396203098,
+            1646.7781501794386,
+            1278.5210603796902,
+            1682.2218498205614
+          ],
+          "text": "yellow",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            720.2731679930563,
+            1923.1194299994186,
+            786.7268320069437,
+            1970.8805700005814
+          ],
+          "text": "Hc",
+          "confidence": 0.6929
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            666.8674325266986,
+            1967.059309211598,
+            795.1325674733014,
+            2079.940690788402
+          ],
+          "text": "DOMBIVLI}",
+          "confidence": 0.6145
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            667.1050086084576,
+            2074.095251759264,
+            751.8949913915424,
+            2126.904748240736
+          ],
+          "text": "455",
+          "confidence": 0.1362
+        }
+      ]
+    }
+  ],
+  "full_text": "SRV\nMAMATA\nHOSPITAL\nOOM NO 1 & 2,GROUND FLOOR,PLOT NO P 43,PHASE 2, SRV MAMATA HOSPITAL,MIDC,DOMBIVALI EAST, DIST\nHANE\n421203\nINVESTIGATION\nAUSTRALIAN\nNON\nCreatninel\n0.8 mg/dL\n09.24 PM\nREACTIVE\n09.24 PM\nHCV Rapid\nNON\n09.24 PM\nREACTIVE\nCOMPLETE BLOOD\n24-APR\nELECTROLYTES\n24-APR\nCOUNT (CBC)\n09:22 PM\n09:24 PM\nRed Cell Count\n4.51\nCHLORIDE, SERUM\n100.0\nx1o6 /ul\nmmol/L\nPOTASSIUM, SERUM\n3.9\nHaemoglobin\n13.1 g/dL\nmmol/L\nHaematocrit\n38.6 %\nSODIUM, SERUM\n136.0\nMCV\n85.6 fL\nmmol/L\nMCH\n29.0 pg\nHIV [ AND II RAPID\n24-APR\n09:24 PM\nMCHC\n33.9\nHIV -1\nNON\nRDW(SD)\n40.1 %\nREACTIVE\nTotal WBC Count\n6.45 10^3\ncells/ul\nHIV-2\nNON\nREACTIVE\nPlatelet Count\n321 10^3\ncells/ul\nPROTHROMBIN TIME\n24-APR\nNeutrophils %\n55.2 %\n(PT)\n09.23 PM\nEosinophils %\n1.4 %\nControl\n15.7\nLymphocytes %\n36.1 %\nRatio\n0.98\nMonocytes %\n6.8 %\nISI Value\n1.1\nBasophils %\n0.5 %\nINR Value\n0.98\nRDW(CV)\n12.7\nProthrombin Time\n15.6\nMean Platelet\n8.4 fL\nURINE ROUTINE\n25-APR\nvolume(MPV)\nEXAMINATION\n014:02 PM\nPlatelet Distribution\n8.2 %\nColour\nPale\nWidth(PDW)\nPlateletocrit (PCT)\n0.27\nAppearance\nClear\nP-LCR\n12.0 %\nSpecific gravity\n1.015\nRBC Morphology\nNormocyti\npH(Reaction)\n6.5\nNormochr\nOccult Blood\nAbsent\nomic\nBile Salts\nAbsent\nWBC Morphology\nNormal\nUrobilinogen\nAbsent\nPlatelets on Smear\nAdequate\nKetone\nAbsent\nProtein\nAbsent\nGlucose\nAbsent\nNIKHIL MAKARAND VAIDYA\nSRVD-9491\nPage 3 of\ng/dL\nyellow\nHc\nDOMBIVLI}\n455",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "OOM NO",
+          "biomarker_normalized": "OOM NO",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "OOM NO 1 & 2,GROUND FLOOR,PLOT NO P 43,PHASE 2, SRV MAMATA HOSPITAL,MIDC,DOMBIVALI EAST, DIST",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HIV",
+          "biomarker_normalized": "HIV",
+          "value": "-1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HIV -1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "HIV",
+          "biomarker_normalized": "HIV",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HIV-2",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "SRVD",
+          "biomarker_normalized": "SRVD",
+          "value": "9491",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SRVD-9491",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Page",
+          "biomarker_normalized": "Page",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Page 3 of",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 140,
+    "ocr_avg_confidence": 0.8993,
+    "parsed_row_count": 5
+  }
+}

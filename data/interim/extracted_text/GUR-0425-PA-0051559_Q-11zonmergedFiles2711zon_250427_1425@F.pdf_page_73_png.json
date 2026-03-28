@@ -1,0 +1,609 @@
+{
+  "document_id": "GUR-0425-PA-0051559_Q-11zonmergedFiles2711zon_250427_1425@F.pdf_page_73",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0051559_Q-11zonmergedFiles2711zon_250427_1425@F.pdf_page_73.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "OICAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nCivil Hospital, Sonipat | Mob :\nTronsucton\n42418\nPatieni Nam\nMrS RAKHI\nDate\nMMobile No\n4810\nDoctor Nam\nGSHARMA\nReporting Date\nVTest Name\nCR.P (QUANTITATIVE)\nCOMPONENI\nRESULTS\nUNIS\nREFE RANGE\nICRP (QUALIAIIE ]\nCRP\n36\nUIL\n0 6\nEND OF REPORT\"\n:LL\nD;\n)\nMBES, %\n4338\nRegd: Nc\nPathologistreehnologist\nDr: SiddlLrth Sharma\nMBBS MuL\nConsultani Mediciiie\nRegd. No- 90954\nCBC , Thyrold , Kldney Function Test, Liver Function Test, Lipid Profilc, Blood Sugar LK, FSH,Prolactin,8-HCG,TorcH Ca-125, Cea.PSA\n30/40 Colod popoier Ultrasound  H.S G. IVP Barium Studies - Digital X-Ray: Multi Slice Spiral CT Scan Ec.6\n6\n-21 channeis EMG cV Vep B.era: Pft & Comprenensive Heaith check-Ups etc:\n30/4D Ultra ;ound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FO { MEDICO LEGAL PURPOSE\nF& ylaat 24 Hr gudet \u20ac1\nCpp:\nCURLBEN",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            253.0,
+            67.0,
+            1397.0,
+            155.0
+          ],
+          "text": "OICAR SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.6476
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            164.0,
+            190.0,
+            212.0
+          ],
+          "text": "OS",
+          "confidence": 0.5343
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            523.0,
+            156.0,
+            1129.0,
+            243.0
+          ],
+          "text": "& TRAUMA CENTRE",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            379.0,
+            246.0,
+            877.0,
+            306.0
+          ],
+          "text": "Civil Hospital, Sonipat | Mob :",
+          "confidence": 0.5547
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            498.0,
+            320.0,
+            524.0
+          ],
+          "text": "Tronsucton",
+          "confidence": 0.4467
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            566.0,
+            496.0,
+            644.0,
+            524.0
+          ],
+          "text": "42418",
+          "confidence": 0.9921
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            532.0,
+            330.0,
+            560.0
+          ],
+          "text": "Patieni Nam",
+          "confidence": 0.3674
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            566.0,
+            530.0,
+            700.0,
+            560.0
+          ],
+          "text": "MrS RAKHI",
+          "confidence": 0.3472
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1038.0,
+            530.0,
+            1096.0,
+            558.0
+          ],
+          "text": "Date",
+          "confidence": 0.9557
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            566.0,
+            312.0,
+            598.0
+          ],
+          "text": "MMobile No",
+          "confidence": 0.8627
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            566.0,
+            1268.0,
+            594.0
+          ],
+          "text": "4810",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            186.0,
+            602.0,
+            328.0,
+            630.0
+          ],
+          "text": "Doctor Nam",
+          "confidence": 0.68
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            600.0,
+            848.0,
+            630.0
+          ],
+          "text": "GSHARMA",
+          "confidence": 0.3362
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            928.0,
+            602.0,
+            1102.0,
+            634.0
+          ],
+          "text": "Reporting Date",
+          "confidence": 0.9561
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            732.0,
+            304.0,
+            758.0
+          ],
+          "text": "VTest Name",
+          "confidence": 0.5154
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            391.0,
+            725.0,
+            715.0,
+            761.0
+          ],
+          "text": "CR.P (QUANTITATIVE)",
+          "confidence": 0.9236
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            768.0,
+            333.0,
+            798.0
+          ],
+          "text": "COMPONENI",
+          "confidence": 0.8109
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            764.0,
+            842.0,
+            796.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.7153
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            768.0,
+            1198.0,
+            794.0
+          ],
+          "text": "UNIS",
+          "confidence": 0.8973
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1241.0,
+            762.0,
+            1393.0,
+            798.0
+          ],
+          "text": "REFE RANGE",
+          "confidence": 0.6906
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            805.0,
+            455.0,
+            841.0
+          ],
+          "text": "ICRP (QUALIAIIE ]",
+          "confidence": 0.1938
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            846.0,
+            250.0,
+            878.0
+          ],
+          "text": "CRP",
+          "confidence": 0.6924
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            844.0,
+            844.0,
+            874.0
+          ],
+          "text": "36",
+          "confidence": 0.9363
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1144.0,
+            846.0,
+            1184.0,
+            874.0
+          ],
+          "text": "UIL",
+          "confidence": 0.2751
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1292.0,
+            844.0,
+            1338.0,
+            872.0
+          ],
+          "text": "0 6",
+          "confidence": 0.632
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            698.0,
+            954.0,
+            988.0,
+            986.0
+          ],
+          "text": "END OF REPORT\"",
+          "confidence": 0.3783
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1338.0,
+            946.0,
+            1439.0,
+            997.0
+          ],
+          "text": ":LL",
+          "confidence": 0.451
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1060.0,
+            978.0,
+            1128.0,
+            1026.0
+          ],
+          "text": "D;",
+          "confidence": 0.454
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1395.0,
+            997.0,
+            1441.0,
+            1037.0
+          ],
+          "text": ")",
+          "confidence": 0.278
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1061.0,
+            1014.0,
+            1222.0,
+            1066.0
+          ],
+          "text": "MBES, %",
+          "confidence": 0.2463
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1367.0,
+            1033.0,
+            1443.0,
+            1071.0
+          ],
+          "text": "4338",
+          "confidence": 0.1666
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1070.0,
+            1056.0,
+            1218.0,
+            1104.0
+          ],
+          "text": "Regd: Nc",
+          "confidence": 0.1213
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1138.0,
+            1094.0,
+            1425.0,
+            1130.0
+          ],
+          "text": "Pathologistreehnologist",
+          "confidence": 0.2363
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1700.0,
+            1100.0,
+            1748.0
+          ],
+          "text": "Dr: SiddlLrth Sharma",
+          "confidence": 0.5436
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            737.0,
+            1744.0,
+            906.0,
+            1788.0
+          ],
+          "text": "MBBS MuL",
+          "confidence": 0.3754
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            737.0,
+            1781.0,
+            1023.0,
+            1821.0
+          ],
+          "text": "Consultani Mediciiie",
+          "confidence": 0.3347
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            1813.0,
+            983.0,
+            1857.0
+          ],
+          "text": "Regd. No- 90954",
+          "confidence": 0.6008
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            1991.0,
+            1593.0,
+            2035.0
+          ],
+          "text": "CBC , Thyrold , Kldney Function Test, Liver Function Test, Lipid Profilc, Blood Sugar LK, FSH,Prolactin,8-HCG,TorcH Ca-125, Cea.PSA",
+          "confidence": 0.1358
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            2038.0,
+            1473.0,
+            2079.0
+          ],
+          "text": "30/40 Colod popoier Ultrasound  H.S G. IVP Barium Studies - Digital X-Ray: Multi Slice Spiral CT Scan Ec.6",
+          "confidence": 0.1243
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            2076.0,
+            382.0,
+            2104.0
+          ],
+          "text": "6",
+          "confidence": 0.1466
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            391.0,
+            2069.0,
+            1349.0,
+            2109.0
+          ],
+          "text": "-21 channeis EMG cV Vep B.era: Pft & Comprenensive Heaith check-Ups etc:",
+          "confidence": 0.0809
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            2131.0,
+            1551.0,
+            2197.0
+          ],
+          "text": "30/4D Ultra ;ound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab",
+          "confidence": 0.7554
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            216.0,
+            2214.0,
+            770.0,
+            2266.0
+          ],
+          "text": "NOT FO { MEDICO LEGAL PURPOSE",
+          "confidence": 0.8505
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            918.0,
+            2210.0,
+            1422.0,
+            2264.0
+          ],
+          "text": "F& ylaat 24 Hr gudet \u20ac1",
+          "confidence": 0.0199
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            291.3079002116969,
+            244.10030797009324,
+            389.6920997883031,
+            309.89969202990676
+          ],
+          "text": "Cpp:",
+          "confidence": 0.5412
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1122.7639320225003,
+            954.5610966289582,
+            1338.2360679774997,
+            1018.4389033710418
+          ],
+          "text": "CURLBEN",
+          "confidence": 0.1925
+        }
+      ]
+    }
+  ],
+  "full_text": "OICAR SUPER SPECIALITY HOSPITAL\nOS\n& TRAUMA CENTRE\nCivil Hospital, Sonipat | Mob :\nTronsucton\n42418\nPatieni Nam\nMrS RAKHI\nDate\nMMobile No\n4810\nDoctor Nam\nGSHARMA\nReporting Date\nVTest Name\nCR.P (QUANTITATIVE)\nCOMPONENI\nRESULTS\nUNIS\nREFE RANGE\nICRP (QUALIAIIE ]\nCRP\n36\nUIL\n0 6\nEND OF REPORT\"\n:LL\nD;\n)\nMBES, %\n4338\nRegd: Nc\nPathologistreehnologist\nDr: SiddlLrth Sharma\nMBBS MuL\nConsultani Mediciiie\nRegd. No- 90954\nCBC , Thyrold , Kldney Function Test, Liver Function Test, Lipid Profilc, Blood Sugar LK, FSH,Prolactin,8-HCG,TorcH Ca-125, Cea.PSA\n30/40 Colod popoier Ultrasound  H.S G. IVP Barium Studies - Digital X-Ray: Multi Slice Spiral CT Scan Ec.6\n6\n-21 channeis EMG cV Vep B.era: Pft & Comprenensive Heaith check-Ups etc:\n30/4D Ultra ;ound, Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNOT FO { MEDICO LEGAL PURPOSE\nF& ylaat 24 Hr gudet \u20ac1\nCpp:\nCURLBEN",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Regd. No",
+          "biomarker_normalized": "Regd. No",
+          "value": "90954",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Regd. No- 90954",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CBC , Thyrold , Kldney Function Test, Liver Function Test, Lipid Profilc, Blood Sugar LK, FSH,Prolactin,",
+          "biomarker_normalized": "CBC , Thyrold , Kldney Function Test, Liver Function Test, Lipid Profilc, Blood Sugar LK, FSH,Prolactin,",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBC , Thyrold , Kldney Function Test, Liver Function Test, Lipid Profilc, Blood Sugar LK, FSH,Prolactin,8-HCG,TorcH Ca-125, Cea.PSA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "F& ylaat",
+          "biomarker_normalized": "F& ylaat",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "F& ylaat 24 Hr gudet \u20ac1",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 46,
+    "ocr_avg_confidence": 0.5216,
+    "parsed_row_count": 3
+  }
+}

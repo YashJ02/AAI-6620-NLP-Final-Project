@@ -1,0 +1,1050 @@
+{
+  "document_id": "GUR-0425-PA-0052242_Q-GITADEVI20.04.20250001compressed_250427_1036@F.pdf_page_33",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0052242_Q-GITADEVI20.04.20250001compressed_250427_1036@F.pdf_page_33.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "@\nSWASTIK HOSPITAE\nJhajjar Road, Bahadurgarh\n7kc Skit 7 Zeal\n7ke Spinct 7 Care\nPatient Id\nSrl No.\nSWASTIK HOSPITAL\nTest\nNormal Value\nBIOCHEMISTRY\nBLOOD SUGAR RANDOM\n125.6\nHEXOKINASE\nmgldl\n80\n140\nSEROLOGY\nCRP (QUANTITATIVE)\n46.9\nImmunoturbidimetry\nmgm/L\n0 - 8\nWTERPRETATION\nIdeterca healthy individuals_CRP levels generally do notexceed 10\nhost defence and tissue repair; There is a\ntime of 6\n10 hrs\nmgm/L;\nCRP\nplays a role in\nlevels, as compared to a\ntime of 24-72 hrs_\nfor other\nbetween\nstimulus and rise in serum\nacute phase reactants_\nNS-1 ANTIGEN DENGUE\nImmunochromatography\nRESULT\nNON\nREACTIVE\nREMARKS:\nIn tcaivab-nersarbtropical regions  dengue is the most imporlant arbovirosis in\nAn easy-to-perform, rapid ad specific test is neededs to confirmt\nterms of\nmortality and morality.\ninfection\nthe acute phase of the\nDr: Yogesh Aar Chah~r\nMD\nY,1\nDeli;\nIvub/31\nDr\nWh\nM\nCuicai[021\n4\n3\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAlI Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAll TPA & Insurance\nComputerised Lab\nlag\nlag\nduring\nAl\n9\nEaabo\nPage",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            42.0,
+            222.0,
+            166.0
+          ],
+          "text": "@",
+          "confidence": 0.0757
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            295.0,
+            45.0,
+            1409.0,
+            155.0
+          ],
+          "text": "SWASTIK HOSPITAE",
+          "confidence": 0.7112
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            574.0,
+            156.0,
+            1088.0,
+            204.0
+          ],
+          "text": "Jhajjar Road, Bahadurgarh",
+          "confidence": 0.847
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            254.0,
+            302.0,
+            280.0
+          ],
+          "text": "7kc Skit 7 Zeal",
+          "confidence": 0.2192
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            284.0,
+            306.0,
+            314.0
+          ],
+          "text": "7ke Spinct 7 Care",
+          "confidence": 0.2742
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            425.0,
+            335.0,
+            461.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            442.0,
+            786.0,
+            472.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.7265
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            336.0,
+            508.0,
+            621.0,
+            551.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            596.0,
+            214.0,
+            624.0
+          ],
+          "text": "Test",
+          "confidence": 0.6453
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            628.0,
+            1381.0,
+            664.0
+          ],
+          "text": "Normal Value",
+          "confidence": 0.9034
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            673.0,
+            731.0,
+            1024.0,
+            795.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.5955
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            171.0,
+            789.0,
+            545.0,
+            834.0
+          ],
+          "text": "BLOOD SUGAR RANDOM",
+          "confidence": 0.6612
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            808.0,
+            830.0,
+            840.0
+          ],
+          "text": "125.6",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            822.0,
+            359.0,
+            859.0
+          ],
+          "text": "HEXOKINASE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            947.0,
+            815.0,
+            1033.0,
+            853.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9514
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1208.0,
+            822.0,
+            1252.0,
+            854.0
+          ],
+          "text": "80",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            826.0,
+            1330.0,
+            858.0
+          ],
+          "text": "140",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            898.0,
+            976.0,
+            959.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.8078
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            163.0,
+            952.0,
+            484.0,
+            1002.0
+          ],
+          "text": "CRP (QUANTITATIVE)",
+          "confidence": 0.8814
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            976.0,
+            810.0,
+            1008.0
+          ],
+          "text": "46.9",
+          "confidence": 0.8014
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            184.0,
+            986.0,
+            414.0,
+            1029.0
+          ],
+          "text": "Immunoturbidimetry",
+          "confidence": 0.9792
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            982.0,
+            1047.0,
+            1020.0
+          ],
+          "text": "mgm/L",
+          "confidence": 0.8151
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            990.0,
+            1272.0,
+            1020.0
+          ],
+          "text": "0 - 8",
+          "confidence": 0.677
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            1024.0,
+            517.0,
+            1067.0
+          ],
+          "text": "WTERPRETATION",
+          "confidence": 0.8828
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            237.0,
+            1093.0,
+            1079.0,
+            1155.0
+          ],
+          "text": "Ideterca healthy individuals_CRP levels generally do notexceed 10",
+          "confidence": 0.4581
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1122.0,
+            702.0,
+            1172.0
+          ],
+          "text": "host defence and tissue repair; There is a",
+          "confidence": 0.4901
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            1142.0,
+            860.0,
+            1174.0
+          ],
+          "text": "time of 6",
+          "confidence": 0.8675
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            872.0,
+            1146.0,
+            954.0,
+            1178.0
+          ],
+          "text": "10 hrs",
+          "confidence": 0.9812
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            1122.0,
+            1171.0,
+            1158.0
+          ],
+          "text": "mgm/L;",
+          "confidence": 0.6163
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            1126.0,
+            1250.0,
+            1156.0
+          ],
+          "text": "CRP",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1340.0,
+            1134.0,
+            1516.0,
+            1166.0
+          ],
+          "text": "plays a role in",
+          "confidence": 0.9539
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            1152.0,
+            483.0,
+            1194.0
+          ],
+          "text": "levels, as compared to a",
+          "confidence": 0.7359
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            525.0,
+            1164.0,
+            745.0,
+            1202.0
+          ],
+          "text": "time of 24-72 hrs_",
+          "confidence": 0.6846
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            1174.0,
+            862.0,
+            1204.0
+          ],
+          "text": "for other",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            1145.0,
+            1066.0,
+            1186.0
+          ],
+          "text": "between",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            1153.0,
+            1465.0,
+            1195.0
+          ],
+          "text": "stimulus and rise in serum",
+          "confidence": 0.8866
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1181.0,
+            1217.0,
+            1217.0
+          ],
+          "text": "acute phase reactants_",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1370.0,
+            512.0,
+            1420.0
+          ],
+          "text": "NS-1 ANTIGEN DENGUE",
+          "confidence": 0.8701
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1404.0,
+            451.0,
+            1452.0
+          ],
+          "text": "Immunochromatography",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1512.0,
+            282.0,
+            1544.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            626.0,
+            1526.0,
+            696.0,
+            1558.0
+          ],
+          "text": "NON",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            710.0,
+            1526.0,
+            859.0,
+            1565.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1573.0,
+            321.0,
+            1610.0
+          ],
+          "text": "REMARKS:",
+          "confidence": 0.6682
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            1636.0,
+            1125.0,
+            1703.0
+          ],
+          "text": "In tcaivab-nersarbtropical regions  dengue is the most imporlant arbovirosis in",
+          "confidence": 0.2695
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            1667.0,
+            947.0,
+            1728.0
+          ],
+          "text": "An easy-to-perform, rapid ad specific test is neededs to confirmt",
+          "confidence": 0.526
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1124.0,
+            1670.0,
+            1234.0,
+            1702.0
+          ],
+          "text": "terms of",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            1666.0,
+            1505.0,
+            1717.0
+          ],
+          "text": "mortality and morality.",
+          "confidence": 0.7625
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            940.0,
+            1691.0,
+            1055.0,
+            1729.0
+          ],
+          "text": "infection",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1139.0,
+            1701.0,
+            1421.0,
+            1743.0
+          ],
+          "text": "the acute phase of the",
+          "confidence": 0.9505
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            580.0,
+            1726.0,
+            969.0,
+            1798.0
+          ],
+          "text": "Dr: Yogesh Aar Chah~r",
+          "confidence": 0.4517
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            648.0,
+            1796.0,
+            704.0,
+            1828.0
+          ],
+          "text": "MD",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            1792.0,
+            1460.0,
+            1840.0
+          ],
+          "text": "Y,1",
+          "confidence": 0.0309
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            697.0,
+            1787.0,
+            847.0,
+            1875.0
+          ],
+          "text": "Deli;",
+          "confidence": 0.2776
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            843.0,
+            1819.0,
+            968.0,
+            1862.0
+          ],
+          "text": "Ivub/31",
+          "confidence": 0.3084
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            1819.0,
+            1217.0,
+            1861.0
+          ],
+          "text": "Dr",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            245.0,
+            1827.0,
+            383.0,
+            1917.0
+          ],
+          "text": "Wh",
+          "confidence": 0.2508
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            1866.0,
+            1202.0,
+            1896.0
+          ],
+          "text": "M",
+          "confidence": 0.3528
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            1875.0,
+            1373.0,
+            1938.0
+          ],
+          "text": "Cuicai[021",
+          "confidence": 0.0882
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            369.0,
+            1921.0,
+            409.0,
+            1965.0
+          ],
+          "text": "4",
+          "confidence": 0.1495
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            781.0,
+            1937.0,
+            797.0,
+            1959.0
+          ],
+          "text": "3",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            2041.0,
+            274.0,
+            2077.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.9885
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1338.0,
+            2034.0,
+            1586.0,
+            2064.0
+          ],
+          "text": "3DI4D Ultrasound",
+          "confidence": 0.8651
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            2086.0,
+            401.0,
+            2123.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            447.0,
+            2083.0,
+            1265.0,
+            2125.0
+          ],
+          "text": "AlI Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.5391
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1337.0,
+            2074.0,
+            1538.0,
+            2110.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            2125.0,
+            358.0,
+            2158.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.983
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            2116.0,
+            1458.0,
+            2144.0
+          ],
+          "text": "CT-Scan",
+          "confidence": 0.9816
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            2166.0,
+            318.0,
+            2196.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            2168.0,
+            1157.0,
+            2207.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.9137
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            2150.0,
+            1524.0,
+            2192.0
+          ],
+          "text": "Digital X-Ray",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            2202.0,
+            380.0,
+            2234.0
+          ],
+          "text": "All TPA & Insurance",
+          "confidence": 0.6739
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            2196.0,
+            1598.0,
+            2226.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            694.3234198799278,
+            1137.1539042094366,
+            750.6765801200722,
+            1179.8460957905634
+          ],
+          "text": "lag",
+          "confidence": 0.8785
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            476.32341987992777,
+            1161.1539042094366,
+            532.6765801200722,
+            1203.8460957905634
+          ],
+          "text": "lag",
+          "confidence": 0.9459
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1050.1247891820897,
+            1692.1253445358238,
+            1143.8752108179103,
+            1738.8746554641762
+          ],
+          "text": "during",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            254.56115695660122,
+            1766.4589178435185,
+            338.4388430433988,
+            1822.5410821564815
+          ],
+          "text": "Al",
+          "confidence": 0.2299
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            319.1355265538526,
+            1746.01577537424,
+            454.8644734461474,
+            1920.98422462576
+          ],
+          "text": "9",
+          "confidence": 0.8548
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            239.13003990142172,
+            1917.0630529871278,
+            385.8699600985783,
+            2004.9369470128722
+          ],
+          "text": "Eaabo",
+          "confidence": 0.0061
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            708.0948247803186,
+            1928.1219034952862,
+            779.9051752196814,
+            1967.8780965047138
+          ],
+          "text": "Page",
+          "confidence": 0.9997
+        }
+      ]
+    }
+  ],
+  "full_text": "@\nSWASTIK HOSPITAE\nJhajjar Road, Bahadurgarh\n7kc Skit 7 Zeal\n7ke Spinct 7 Care\nPatient Id\nSrl No.\nSWASTIK HOSPITAL\nTest\nNormal Value\nBIOCHEMISTRY\nBLOOD SUGAR RANDOM\n125.6\nHEXOKINASE\nmgldl\n80\n140\nSEROLOGY\nCRP (QUANTITATIVE)\n46.9\nImmunoturbidimetry\nmgm/L\n0 - 8\nWTERPRETATION\nIdeterca healthy individuals_CRP levels generally do notexceed 10\nhost defence and tissue repair; There is a\ntime of 6\n10 hrs\nmgm/L;\nCRP\nplays a role in\nlevels, as compared to a\ntime of 24-72 hrs_\nfor other\nbetween\nstimulus and rise in serum\nacute phase reactants_\nNS-1 ANTIGEN DENGUE\nImmunochromatography\nRESULT\nNON\nREACTIVE\nREMARKS:\nIn tcaivab-nersarbtropical regions  dengue is the most imporlant arbovirosis in\nAn easy-to-perform, rapid ad specific test is neededs to confirmt\nterms of\nmortality and morality.\ninfection\nthe acute phase of the\nDr: Yogesh Aar Chah~r\nMD\nY,1\nDeli;\nIvub/31\nDr\nWh\nM\nCuicai[021\n4\n3\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAlI Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAll TPA & Insurance\nComputerised Lab\nlag\nlag\nduring\nAl\n9\nEaabo\nPage",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Ideterca healthy individuals_CRP levels generally do notexceed",
+          "biomarker_normalized": "Ideterca healthy individuals_CRP levels generally do notexceed",
+          "value": "10",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ideterca healthy individuals_CRP levels generally do notexceed 10",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "time of",
+          "biomarker_normalized": "time of",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "time of 6",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "time of",
+          "biomarker_normalized": "time of",
+          "value": "24",
+          "unit": "",
+          "reference_range": "24-72",
+          "source_line": "time of 24-72 hrs_",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "NS",
+          "biomarker_normalized": "NS",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NS-1 ANTIGEN DENGUE",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Y,",
+          "biomarker_normalized": "Y,",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Y,1",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Ivub/",
+          "biomarker_normalized": "Ivub/",
+          "value": "31",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ivub/31",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Cuicai[",
+          "biomarker_normalized": "Cuicai[",
+          "value": "021",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Cuicai[021",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AlI Lab Test, ICU & Ambulance Facility",
+          "biomarker_normalized": "AlI Lab Test, ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AlI Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 79,
+    "ocr_avg_confidence": 0.7583,
+    "parsed_row_count": 8
+  }
+}

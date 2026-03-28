@@ -1,0 +1,567 @@
+{
+  "document_id": "GUR-0425-PA-0056892_GUR0425PA0056892_Q_27-04-2025_0620-20_PM.pdf_page_13",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056892_GUR0425PA0056892_Q_27-04-2025_0620-20_PM.pdf_page_13.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "M\nMATA ROOPRANPMAGCONTRE\nNEW DEL\nHOSPITAL& TVFCENTRE\nR\n(AN ISO 5001:2E64UERMAEbespital@vahooin\nNABH\nOm Vihar Phase-1_\nUttam Nagar; Metro Pillar No. 709, New Delhi-110059\n@ccREDiEC\n011-61290000, Mob.955JUEbOJJUEAREA-: e1dre12+124@v8bseda9o59\nLYCOMPUTERISEDLABQRATORY\nNo_\n:UHIDo2955816\n:SIO.SUMIT SHARMA\n0:07\nPM\nM\nSEROLOGY\nAccession No\nRegisteration No\nDENGUE SEROLOGY\nDENGUE IgG\nANTIBODIES\nNEGATIVE\nDENGUE IgM\nANTIBODIES\nNEGATIVE\nMethod\nRapid card test (Rapid solid phase Immuno-chromatography)\nCOMMENT\nNOTE\nThis is screening test only having high sensitivity & specificity. However, false positive & false negative resulls may occur in certain\ncircumstances. Confirmation by alternative method for example PCR, ELISA or other specific methods & clinical correlation is recommended,\nChecked By\nDr. SURESH KAUNDIYAL\nMBBS MD (Pathology)\nCONSULTANT PATHOLOGIST\nALL DISPUTES ARE SUBJECT TO DELHI JURISDICTION\nMRRMHIREVIOZILAB/O1/22\nReg:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            79.0,
+            129.0,
+            141.0
+          ],
+          "text": "M",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            50.0,
+            1416.0,
+            126.0
+          ],
+          "text": "MATA ROOPRANPMAGCONTRE",
+          "confidence": 0.7362
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            124.0,
+            1410.0,
+            154.0
+          ],
+          "text": "NEW DEL",
+          "confidence": 0.6837
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            339.0,
+            109.0,
+            1303.0,
+            197.0
+          ],
+          "text": "HOSPITAL& TVFCENTRE",
+          "confidence": 0.7001
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            184.0,
+            124.0,
+            246.0
+          ],
+          "text": "R",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            192.0,
+            1207.0,
+            237.0
+          ],
+          "text": "(AN ISO 5001:2E64UERMAEbespital@vahooin",
+          "confidence": 0.1379
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1458.0,
+            218.0,
+            1534.0,
+            242.0
+          ],
+          "text": "NABH",
+          "confidence": 0.7139
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            229.0,
+            686.0,
+            259.0
+          ],
+          "text": "Om Vihar Phase-1_",
+          "confidence": 0.8213
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            230.0,
+            1262.0,
+            260.0
+          ],
+          "text": "Uttam Nagar; Metro Pillar No. 709, New Delhi-110059",
+          "confidence": 0.766
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1458.0,
+            245.0,
+            1524.0,
+            269.0
+          ],
+          "text": "@ccREDiEC",
+          "confidence": 0.1262
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            477.0,
+            256.0,
+            1267.0,
+            297.0
+          ],
+          "text": "011-61290000, Mob.955JUEbOJJUEAREA-: e1dre12+124@v8bseda9o59",
+          "confidence": 0.0137
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            308.0,
+            1262.0,
+            362.0
+          ],
+          "text": "LYCOMPUTERISEDLABQRATORY",
+          "confidence": 0.669
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            668.0,
+            370.0,
+            704.0,
+            394.0
+          ],
+          "text": "No_",
+          "confidence": 0.9064
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            852.0,
+            372.0,
+            1008.0,
+            398.0
+          ],
+          "text": ":UHIDo2955816",
+          "confidence": 0.5835
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            460.0,
+            508.0,
+            486.0
+          ],
+          "text": ":SIO.SUMIT SHARMA",
+          "confidence": 0.8506
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            970.0,
+            578.0,
+            1018.0,
+            602.0
+          ],
+          "text": "0:07",
+          "confidence": 0.8698
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1331.0,
+            585.0,
+            1365.0,
+            605.0
+          ],
+          "text": "PM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            863.0,
+            609.0,
+            885.0,
+            629.0
+          ],
+          "text": "M",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            692.0,
+            788.0,
+            718.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.8781
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            745.0,
+            255.0,
+            763.0
+          ],
+          "text": "Accession No",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1421.0,
+            759.0,
+            1552.0,
+            784.0
+          ],
+          "text": "Registeration No",
+          "confidence": 0.8265
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            121.0,
+            907.0,
+            453.0,
+            949.0
+          ],
+          "text": "DENGUE SEROLOGY",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            990.0,
+            319.0,
+            1035.0
+          ],
+          "text": "DENGUE IgG",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            329.0,
+            995.0,
+            527.0,
+            1031.0
+          ],
+          "text": "ANTIBODIES",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            996.0,
+            765.0,
+            1035.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1077.0,
+            319.0,
+            1119.0
+          ],
+          "text": "DENGUE IgM",
+          "confidence": 0.885
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            331.0,
+            1079.0,
+            527.0,
+            1117.0
+          ],
+          "text": "ANTIBODIES",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            603.0,
+            1083.0,
+            767.0,
+            1119.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1172.0,
+            202.0,
+            1202.0
+          ],
+          "text": "Method",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            213.0,
+            1173.0,
+            861.0,
+            1214.0
+          ],
+          "text": "Rapid card test (Rapid solid phase Immuno-chromatography)",
+          "confidence": 0.5979
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1261.0,
+            228.0,
+            1290.0
+          ],
+          "text": "COMMENT",
+          "confidence": 0.9927
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1264.0,
+            304.0,
+            1290.0
+          ],
+          "text": "NOTE",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            1262.0,
+            1536.0,
+            1310.0
+          ],
+          "text": "This is screening test only having high sensitivity & specificity. However, false positive & false negative resulls may occur in certain",
+          "confidence": 0.5663
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1310.0,
+            1431.0,
+            1353.0
+          ],
+          "text": "circumstances. Confirmation by alternative method for example PCR, ELISA or other specific methods & clinical correlation is recommended,",
+          "confidence": 0.5332
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1943.0,
+            275.0,
+            1981.0
+          ],
+          "text": "Checked By",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            2002.0,
+            1391.0,
+            2039.0
+          ],
+          "text": "Dr. SURESH KAUNDIYAL",
+          "confidence": 0.9086
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1069.0,
+            2040.0,
+            1343.0,
+            2082.0
+          ],
+          "text": "MBBS MD (Pathology)",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1067.0,
+            2079.0,
+            1447.0,
+            2117.0
+          ],
+          "text": "CONSULTANT PATHOLOGIST",
+          "confidence": 0.7703
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            456.0,
+            2276.0,
+            1206.0,
+            2308.0
+          ],
+          "text": "ALL DISPUTES ARE SUBJECT TO DELHI JURISDICTION",
+          "confidence": 0.7596
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1328.0,
+            2292.0,
+            1602.0,
+            2318.0
+          ],
+          "text": "MRRMHIREVIOZILAB/O1/22",
+          "confidence": 0.6864
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            614.1070215562487,
+            366.1638810551212,
+            670.8929784437513,
+            400.8361189448788
+          ],
+          "text": "Reg:",
+          "confidence": 0.9625
+        }
+      ]
+    }
+  ],
+  "full_text": "M\nMATA ROOPRANPMAGCONTRE\nNEW DEL\nHOSPITAL& TVFCENTRE\nR\n(AN ISO 5001:2E64UERMAEbespital@vahooin\nNABH\nOm Vihar Phase-1_\nUttam Nagar; Metro Pillar No. 709, New Delhi-110059\n@ccREDiEC\n011-61290000, Mob.955JUEbOJJUEAREA-: e1dre12+124@v8bseda9o59\nLYCOMPUTERISEDLABQRATORY\nNo_\n:UHIDo2955816\n:SIO.SUMIT SHARMA\n0:07\nPM\nM\nSEROLOGY\nAccession No\nRegisteration No\nDENGUE SEROLOGY\nDENGUE IgG\nANTIBODIES\nNEGATIVE\nDENGUE IgM\nANTIBODIES\nNEGATIVE\nMethod\nRapid card test (Rapid solid phase Immuno-chromatography)\nCOMMENT\nNOTE\nThis is screening test only having high sensitivity & specificity. However, false positive & false negative resulls may occur in certain\ncircumstances. Confirmation by alternative method for example PCR, ELISA or other specific methods & clinical correlation is recommended,\nChecked By\nDr. SURESH KAUNDIYAL\nMBBS MD (Pathology)\nCONSULTANT PATHOLOGIST\nALL DISPUTES ARE SUBJECT TO DELHI JURISDICTION\nMRRMHIREVIOZILAB/O1/22\nReg:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "(AN ISO",
+          "biomarker_normalized": "(AN ISO",
+          "value": "5001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "(AN ISO 5001:2E64UERMAEbespital@vahooin",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Om Vihar Phase",
+          "biomarker_normalized": "Om Vihar Phase",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Om Vihar Phase-1_",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Uttam Nagar; Metro Pillar No.",
+          "biomarker_normalized": "Uttam Nagar; Metro Pillar No.",
+          "value": "709",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Uttam Nagar; Metro Pillar No. 709, New Delhi-110059",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "UHIDo2",
+          "biomarker_normalized": "UHIDo2",
+          "value": "955816",
+          "unit": "",
+          "reference_range": "",
+          "source_line": ":UHIDo2955816",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MRRMHIREVIOZILAB/O1/",
+          "biomarker_normalized": "MRRMHIREVIOZILAB/O1/",
+          "value": "22",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MRRMHIREVIOZILAB/O1/22",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 41,
+    "ocr_avg_confidence": 0.803,
+    "parsed_row_count": 5
+  }
+}

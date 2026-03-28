@@ -1,0 +1,749 @@
+{
+  "document_id": "KNP-0425-PA-0004341_H_37142_9265055811_15_20_queryreplyofmamtasrivastavaaa_27-04-2025_1119-57_AM.pdf_page_47",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\KNP-0425-PA-0004341_H_37142_9265055811_15_20_queryreplyofmamtasrivastavaaa_27-04-2025_1119-57_AM.pdf_page_47.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "70\nOF LAB SCIENCES\nLTD\nAus\nX\nDEPARTMENT OF LAB. SCIENCES\nSav\nMis. Mamnta Srmvastava\nLab No\n181727\n6175124\n725/308576\n'Wina\nNo\nSample Date\n55 )rs Female\n1\"MAM\nDL6la\nDSIXTH FLOOR\nReceiving Date\n[2;42AM\nReport Date\n(8.J1AM\nNo.\nReport Status\nProvislonaVinterim\nBy\nDr . PRIYANKA VERMA\n39.7 H\nY\n15 - 35\n~End Of Report -\nL~>Low result;\nCH->Critical High,\nCL >Critical Low\nNote: This report is Io help clinicians fr betler\nmanagement; Discrepancies due lo technicol o tping errors houd\nbe reported within three\nfor correction No compensation liability\nNOT FoR MEDICO LEGAL PURPOSE\n44k\nIRTMENT\nMOSPitAl [\nREGENCY\nHEALTH\nName\nIratient =\nIUHID/IP\n(Age/ Gender\nNo/ Ward\nlead [\nMob: [\n(Refered\nAC\nGub\nresult\nnHigh\npatient\nstands;\ndoys",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            1446.0,
+            0.0,
+            1488.0,
+            24.0
+          ],
+          "text": "70",
+          "confidence": 0.053
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            283.0,
+            0.0,
+            595.0,
+            58.0
+          ],
+          "text": "OF LAB SCIENCES",
+          "confidence": 0.9756
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            285.0,
+            87.0,
+            344.0,
+            124.0
+          ],
+          "text": "LTD",
+          "confidence": 0.4269
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            112.0,
+            381.0,
+            143.0
+          ],
+          "text": "Aus",
+          "confidence": 0.0967
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            329.0,
+            145.0,
+            365.0,
+            165.0
+          ],
+          "text": "X",
+          "confidence": 0.0109
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            502.0,
+            226.0,
+            1039.0,
+            307.0
+          ],
+          "text": "DEPARTMENT OF LAB. SCIENCES",
+          "confidence": 0.6218
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1453.0,
+            229.0,
+            1536.0,
+            279.0
+          ],
+          "text": "Sav",
+          "confidence": 0.1108
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            285.0,
+            286.0,
+            533.0,
+            323.0
+          ],
+          "text": "Mis. Mamnta Srmvastava",
+          "confidence": 0.2248
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            917.0,
+            317.0,
+            1017.0,
+            355.0
+          ],
+          "text": "Lab No",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            330.0,
+            1208.0,
+            360.0
+          ],
+          "text": "181727",
+          "confidence": 0.7487
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            287.0,
+            344.0,
+            389.0,
+            381.0
+          ],
+          "text": "6175124",
+          "confidence": 0.8827
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            344.0,
+            544.0,
+            376.0
+          ],
+          "text": "725/308576",
+          "confidence": 0.3014
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1464.0,
+            338.0,
+            1546.0,
+            382.0
+          ],
+          "text": "'Wina",
+          "confidence": 0.1767
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            218.0,
+            362.0,
+            260.0,
+            394.0
+          ],
+          "text": "No",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            919.0,
+            360.0,
+            1094.0,
+            404.0
+          ],
+          "text": "Sample Date",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            291.0,
+            381.0,
+            451.0,
+            421.0
+          ],
+          "text": "55 )rs Female",
+          "confidence": 0.705
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            380.0,
+            1340.0,
+            420.0
+          ],
+          "text": "1\"MAM",
+          "confidence": 0.3069
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            296.0,
+            424.0,
+            388.0,
+            450.0
+          ],
+          "text": "DL6la",
+          "confidence": 0.0436
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            403.0,
+            418.0,
+            599.0,
+            455.0
+          ],
+          "text": "DSIXTH FLOOR",
+          "confidence": 0.4445
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            921.0,
+            399.0,
+            1129.0,
+            451.0
+          ],
+          "text": "Receiving Date",
+          "confidence": 0.8433
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            419.0,
+            1342.0,
+            457.0
+          ],
+          "text": "[2;42AM",
+          "confidence": 0.2129
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            927.0,
+            440.0,
+            1094.0,
+            482.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1257.0,
+            456.0,
+            1346.0,
+            495.0
+          ],
+          "text": "(8.J1AM",
+          "confidence": 0.1237
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            486.0,
+            228.0,
+            518.0
+          ],
+          "text": "No.",
+          "confidence": 0.521
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            927.0,
+            476.0,
+            1118.0,
+            520.0
+          ],
+          "text": "Report Status",
+          "confidence": 0.9721
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1133.0,
+            488.0,
+            1332.0,
+            531.0
+          ],
+          "text": "ProvislonaVinterim",
+          "confidence": 0.7954
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            223.0,
+            527.0,
+            265.0,
+            563.0
+          ],
+          "text": "By",
+          "confidence": 0.8535
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            299.0,
+            513.0,
+            567.0,
+            549.0
+          ],
+          "text": "Dr . PRIYANKA VERMA",
+          "confidence": 0.8945
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            694.0,
+            580.0,
+            784.0,
+            610.0
+          ],
+          "text": "39.7 H",
+          "confidence": 0.9091
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            904.0,
+            588.0,
+            934.0,
+            616.0
+          ],
+          "text": "Y",
+          "confidence": 0.1856
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1110.0,
+            596.0,
+            1190.0,
+            628.0
+          ],
+          "text": "15 - 35",
+          "confidence": 0.4866
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            641.0,
+            863.0,
+            690.0
+          ],
+          "text": "~End Of Report -",
+          "confidence": 0.7433
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            677.0,
+            486.0,
+            719.0
+          ],
+          "text": "L~>Low result;",
+          "confidence": 0.7577
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            497.0,
+            679.0,
+            723.0,
+            723.0
+          ],
+          "text": "CH->Critical High,",
+          "confidence": 0.7327
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            686.0,
+            935.0,
+            725.0
+          ],
+          "text": "CL >Critical Low",
+          "confidence": 0.7163
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            2160.0,
+            678.0,
+            2208.0
+          ],
+          "text": "Note: This report is Io help clinicians fr betler",
+          "confidence": 0.6134
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            2137.0,
+            1471.0,
+            2209.0
+          ],
+          "text": "management; Discrepancies due lo technicol o tping errors houd",
+          "confidence": 0.1752
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            409.0,
+            2203.0,
+            683.0,
+            2245.0
+          ],
+          "text": "be reported within three",
+          "confidence": 0.6197
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            737.0,
+            2197.0,
+            1179.0,
+            2242.0
+          ],
+          "text": "for correction No compensation liability",
+          "confidence": 0.9195
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            577.0,
+            2245.0,
+            1105.0,
+            2287.0
+          ],
+          "text": "NOT FoR MEDICO LEGAL PURPOSE",
+          "confidence": 0.6191
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1469.1329141583321,
+            -17.95940832342925,
+            1563.8670858416679,
+            69.95940832342926
+          ],
+          "text": "44k",
+          "confidence": 0.1129
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            8.167355885564675,
+            297.0,
+            90.83264411443533
+          ],
+          "text": "IRTMENT",
+          "confidence": 0.4425
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            170.01985123916003,
+            87.99719318309508,
+            295.98014876083994,
+            151.00280681690492
+          ],
+          "text": "MOSPitAl [",
+          "confidence": 0.0241
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1142.035517434904,
+            121.0448886945671,
+            1432.964482565096,
+            230.9551113054329
+          ],
+          "text": "REGENCY",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1148.0844511381133,
+            173.07035354437184,
+            1346.9155488618867,
+            256.9296464556282
+          ],
+          "text": "HEALTH",
+          "confidence": 0.6494
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            193.60276070150212,
+            304.70301163378645,
+            275.3972392984979,
+            342.29698836621355
+          ],
+          "text": "Name",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            112.57002829714982,
+            311.2868795890677,
+            208.42997170285017,
+            376.7131204109323
+          ],
+          "text": "Iratient =",
+          "confidence": 0.1464
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            112.28609323645897,
+            358.6473132092998,
+            227.71390676354105,
+            427.3526867907002
+          ],
+          "text": "IUHID/IP",
+          "confidence": 0.1261
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            115.42229123600033,
+            389.0480984405751,
+            268.5777087639997,
+            463.9519015594249
+          ],
+          "text": "(Age/ Gender",
+          "confidence": 0.6204
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            158.02682341501134,
+            426.32999931379715,
+            285.97317658498866,
+            480.67000068620285
+          ],
+          "text": "No/ Ward",
+          "confidence": 0.7778
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            114.72307231792384,
+            447.80853070431107,
+            177.27692768207615,
+            499.19146929568893
+          ],
+          "text": "lead [",
+          "confidence": 0.0351
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            117.67504722512362,
+            488.32749850552847,
+            186.32495277487638,
+            537.6725014944715
+          ],
+          "text": "Mob: [",
+          "confidence": 0.1111
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            114.57002829714982,
+            528.0820565387265,
+            232.42997170285017,
+            584.9179434612735
+          ],
+          "text": "(Refered",
+          "confidence": 0.2346
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            122.88000423998729,
+            589.6473132092998,
+            194.11999576001273,
+            634.3526867907002
+          ],
+          "text": "AC",
+          "confidence": 0.4012
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            113.21456992734423,
+            618.6847291039358,
+            209.78543007265577,
+            661.3152708960642
+          ],
+          "text": "Gub",
+          "confidence": 0.1155
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            209.2802656784306,
+            686.1307706976621,
+            288.7197343215694,
+            726.8692293023379
+          ],
+          "text": "result",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            116.13701426866952,
+            693.1623083245049,
+            216.8629857313305,
+            741.8376916754951
+          ],
+          "text": "nHigh",
+          "confidence": 0.4841
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            673.1370142686695,
+            2165.3237672901532,
+            760.8629857313305,
+            2204.6762327098468
+          ],
+          "text": "patient",
+          "confidence": 0.9909
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1171.543071206464,
+            2187.6583592135003,
+            1248.456928793536,
+            2224.3416407864997
+          ],
+          "text": "stands;",
+          "confidence": 0.6277
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            674.199370143728,
+            2201.1317018509494,
+            745.800629856272,
+            2246.8682981490506
+          ],
+          "text": "doys",
+          "confidence": 0.5456
+        }
+      ]
+    }
+  ],
+  "full_text": "70\nOF LAB SCIENCES\nLTD\nAus\nX\nDEPARTMENT OF LAB. SCIENCES\nSav\nMis. Mamnta Srmvastava\nLab No\n181727\n6175124\n725/308576\n'Wina\nNo\nSample Date\n55 )rs Female\n1\"MAM\nDL6la\nDSIXTH FLOOR\nReceiving Date\n[2;42AM\nReport Date\n(8.J1AM\nNo.\nReport Status\nProvislonaVinterim\nBy\nDr . PRIYANKA VERMA\n39.7 H\nY\n15 - 35\n~End Of Report -\nL~>Low result;\nCH->Critical High,\nCL >Critical Low\nNote: This report is Io help clinicians fr betler\nmanagement; Discrepancies due lo technicol o tping errors houd\nbe reported within three\nfor correction No compensation liability\nNOT FoR MEDICO LEGAL PURPOSE\n44k\nIRTMENT\nMOSPitAl [\nREGENCY\nHEALTH\nName\nIratient =\nIUHID/IP\n(Age/ Gender\nNo/ Ward\nlead [\nMob: [\n(Refered\nAC\nGub\nresult\nnHigh\npatient\nstands;\ndoys",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": []
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 60,
+    "ocr_avg_confidence": 0.5374,
+    "parsed_row_count": 0
+  }
+}

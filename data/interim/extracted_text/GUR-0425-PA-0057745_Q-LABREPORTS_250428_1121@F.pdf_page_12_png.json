@@ -1,0 +1,1233 @@
+{
+  "document_id": "GUR-0425-PA-0057745_Q-LABREPORTS_250428_1121@F.pdf_page_12",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057745_Q-LABREPORTS_250428_1121@F.pdf_page_12.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Healing Touch\nSuper Speciality\nHospital\nNA BH\nPatient\nBy\nDr, Sanjeev Goyal\nRequisitions\nReq No\n2568173\nReported on\nPatient Type\nOPD\nCLINICAL PATHOLOGY\nURINE ROUTINE MICROSCOPY\nSpecimen Type\nUrine\nBIOLOGICAL\nPHYSICAL\nSample Volume\n20\nml\ncolour\nPale Yellow\nPale Yellow\nAppearance\nClear\nClear\nSpecific gravity.\n1.030\n1.000\n1.030\nIon Exchange\npH -Urine\n5.0\nDouble Indicato\nAlbumin.\n4\nAbsent\nAcidIBase\nExchange\nGlucose\nNIL\nAbsent\nOxidaselPeroxic\nase\nUrobilinogen\nNIL\nNIL\nEhrlich Reactior\nMICROSCOPIC EXAMINATION\nPUS CELLS\nURINE\n2-4\nIHPF\n0 - 5\nRed blood cells\nNil\n/hpf\nNIL\nEpithelial Cells\nUrine\n1-2\nIHPF\n0 - 5\nCasts\nNIL\nNIL\nMicroscopic\nCrystals:\nNIL\nNIL\nMicroscopic\nMicro-organisims\nNIL\nNIL\nAlbumin:\n1+(3Omgldl)\n*x**\nEnd of Report **xx\nPlease Correlate With Clinical Findings\nRio\nDISHALRJURAL\n(This is only professional Opinion and not the diagnosis, Please\ncotina in3EZsjt\nSultanpur Chowk; Nr: Dhulkot Barrier; Ambala Chandigarh Expy Ambala Harvana 434003 Ph\n74320 00qOo, 74969 79727\nPh : 171\n2500000, 74320 000o0, 74969 79727 Toll free No:; 1800 1803\nthe\nhealth\ncare\nproviders\nthe\ncare\nproviders\n(u25\n#NDAL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            98.0,
+            658.0,
+            194.0
+          ],
+          "text": "Healing Touch",
+          "confidence": 0.9616
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            187.0,
+            420.0,
+            241.0
+          ],
+          "text": "Super Speciality",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            185.0,
+            662.0,
+            262.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.9942
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1418.0,
+            194.0,
+            1500.0,
+            218.0
+          ],
+          "text": "NA BH",
+          "confidence": 0.5733
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            110.0,
+            340.0,
+            206.0,
+            366.0
+          ],
+          "text": "Patient",
+          "confidence": 0.8567
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            420.0,
+            254.0,
+            448.0
+          ],
+          "text": "By",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            415.0,
+            568.0,
+            445.0
+          ],
+          "text": "Dr, Sanjeev Goyal",
+          "confidence": 0.8272
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            414.0,
+            1084.0,
+            442.0
+          ],
+          "text": "Requisitions",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            460.0,
+            210.0,
+            491.0
+          ],
+          "text": "Req No",
+          "confidence": 0.9319
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            460.0,
+            472.0,
+            486.0
+          ],
+          "text": "2568173",
+          "confidence": 0.5482
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            457.0,
+            1084.0,
+            488.0
+          ],
+          "text": "Reported on",
+          "confidence": 0.9803
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            504.0,
+            276.0,
+            532.0
+          ],
+          "text": "Patient Type",
+          "confidence": 0.6982
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            496.0,
+            418.0,
+            522.0
+          ],
+          "text": "OPD",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            651.0,
+            588.0,
+            1034.0,
+            621.0
+          ],
+          "text": "CLINICAL PATHOLOGY",
+          "confidence": 0.8199
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            533.0,
+            649.0,
+            1049.0,
+            687.0
+          ],
+          "text": "URINE ROUTINE MICROSCOPY",
+          "confidence": 0.9936
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            710.0,
+            331.0,
+            754.0
+          ],
+          "text": "Specimen Type",
+          "confidence": 0.7058
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            368.0,
+            720.0,
+            444.0,
+            746.0
+          ],
+          "text": "Urine",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            704.0,
+            1368.0,
+            736.0
+          ],
+          "text": "BIOLOGICAL",
+          "confidence": 0.9579
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            817.0,
+            255.0,
+            853.0
+          ],
+          "text": "PHYSICAL",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            865.0,
+            331.0,
+            901.0
+          ],
+          "text": "Sample Volume",
+          "confidence": 0.9449
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            860.0,
+            794.0,
+            890.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            858.0,
+            1024.0,
+            886.0
+          ],
+          "text": "ml",
+          "confidence": 0.9696
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            912.0,
+            186.0,
+            942.0
+          ],
+          "text": "colour",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            904.0,
+            922.0,
+            936.0
+          ],
+          "text": "Pale Yellow",
+          "confidence": 0.9793
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            900.0,
+            1362.0,
+            932.0
+          ],
+          "text": "Pale Yellow",
+          "confidence": 0.6848
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            958.0,
+            271.0,
+            994.0
+          ],
+          "text": "Appearance",
+          "confidence": 0.8629
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            752.0,
+            950.0,
+            838.0,
+            982.0
+          ],
+          "text": "Clear",
+          "confidence": 0.9779
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1190.0,
+            946.0,
+            1276.0,
+            976.0
+          ],
+          "text": "Clear",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            999.0,
+            341.0,
+            1039.0
+          ],
+          "text": "Specific gravity.",
+          "confidence": 0.9478
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            996.0,
+            840.0,
+            1028.0
+          ],
+          "text": "1.030",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            992.0,
+            1280.0,
+            1024.0
+          ],
+          "text": "1.000",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1300.0,
+            990.0,
+            1388.0,
+            1022.0
+          ],
+          "text": "1.030",
+          "confidence": 0.658
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1431.0,
+            988.0,
+            1609.0,
+            1028.0
+          ],
+          "text": "Ion Exchange",
+          "confidence": 0.5364
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            1053.0,
+            243.0,
+            1091.0
+          ],
+          "text": "pH -Urine",
+          "confidence": 0.8303
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1048.0,
+            804.0,
+            1078.0
+          ],
+          "text": "5.0",
+          "confidence": 0.7676
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1432.0,
+            1044.0,
+            1634.0,
+            1072.0
+          ],
+          "text": "Double Indicato",
+          "confidence": 0.9272
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            1100.0,
+            230.0,
+            1130.0
+          ],
+          "text": "Albumin.",
+          "confidence": 0.854
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            757.0,
+            1099.0,
+            777.0,
+            1121.0
+          ],
+          "text": "4",
+          "confidence": 0.1607
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            1087.0,
+            1297.0,
+            1117.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1434.0,
+            1090.0,
+            1566.0,
+            1118.0
+          ],
+          "text": "AcidIBase",
+          "confidence": 0.7599
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1432.0,
+            1123.0,
+            1567.0,
+            1162.0
+          ],
+          "text": "Exchange",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            1171.0,
+            213.0,
+            1208.0
+          ],
+          "text": "Glucose",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1168.0,
+            816.0,
+            1198.0
+          ],
+          "text": "NIL",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1191.0,
+            1160.0,
+            1298.0,
+            1193.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1433.0,
+            1160.0,
+            1640.0,
+            1193.0
+          ],
+          "text": "OxidaselPeroxic",
+          "confidence": 0.8525
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1432.0,
+            1204.0,
+            1484.0,
+            1228.0
+          ],
+          "text": "ase",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            1243.0,
+            295.0,
+            1286.0
+          ],
+          "text": "Urobilinogen",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1242.0,
+            816.0,
+            1272.0
+          ],
+          "text": "NIL",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            1236.0,
+            1254.0,
+            1268.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1434.0,
+            1236.0,
+            1638.0,
+            1268.0
+          ],
+          "text": "Ehrlich Reactior",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            1290.0,
+            580.0,
+            1330.0
+          ],
+          "text": "MICROSCOPIC EXAMINATION",
+          "confidence": 0.9847
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            1338.0,
+            271.0,
+            1375.0
+          ],
+          "text": "PUS CELLS",
+          "confidence": 0.9387
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            1340.0,
+            408.0,
+            1372.0
+          ],
+          "text": "URINE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1336.0,
+            806.0,
+            1366.0
+          ],
+          "text": "2-4",
+          "confidence": 0.7571
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            986.0,
+            1334.0,
+            1066.0,
+            1366.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.7182
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            1332.0,
+            1262.0,
+            1360.0
+          ],
+          "text": "0 - 5",
+          "confidence": 0.968
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            83.0,
+            1387.0,
+            331.0,
+            1423.0
+          ],
+          "text": "Red blood cells",
+          "confidence": 0.9133
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1382.0,
+            806.0,
+            1414.0
+          ],
+          "text": "Nil",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            985.0,
+            1379.0,
+            1055.0,
+            1417.0
+          ],
+          "text": "/hpf",
+          "confidence": 0.3871
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            1378.0,
+            1254.0,
+            1408.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            1429.0,
+            331.0,
+            1474.0
+          ],
+          "text": "Epithelial Cells",
+          "confidence": 0.7972
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            353.0,
+            1431.0,
+            449.0,
+            1463.0
+          ],
+          "text": "Urine",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1430.0,
+            806.0,
+            1458.0
+          ],
+          "text": "1-2",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            1423.0,
+            1069.0,
+            1459.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.5504
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            1424.0,
+            1262.0,
+            1452.0
+          ],
+          "text": "0 - 5",
+          "confidence": 0.8416
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            1484.0,
+            174.0,
+            1512.0
+          ],
+          "text": "Casts",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1474.0,
+            816.0,
+            1506.0
+          ],
+          "text": "NIL",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            1470.0,
+            1256.0,
+            1502.0
+          ],
+          "text": "NIL",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1436.0,
+            1472.0,
+            1590.0,
+            1502.0
+          ],
+          "text": "Microscopic",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            1526.0,
+            227.0,
+            1564.0
+          ],
+          "text": "Crystals:",
+          "confidence": 0.6788
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            1517.0,
+            819.0,
+            1554.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            1516.0,
+            1256.0,
+            1546.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1436.0,
+            1518.0,
+            1590.0,
+            1548.0
+          ],
+          "text": "Microscopic",
+          "confidence": 0.949
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            1570.0,
+            367.0,
+            1608.0
+          ],
+          "text": "Micro-organisims",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1566.0,
+            818.0,
+            1596.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            1562.0,
+            1256.0,
+            1592.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9694
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            1618.0,
+            190.0,
+            1642.0
+          ],
+          "text": "Albumin:",
+          "confidence": 0.8147
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            1646.0,
+            224.0,
+            1674.0
+          ],
+          "text": "1+(3Omgldl)",
+          "confidence": 0.5801
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            765.0,
+            1699.0,
+            829.0,
+            1717.0
+          ],
+          "text": "*x**",
+          "confidence": 0.1139
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            831.0,
+            1693.0,
+            1131.0,
+            1731.0
+          ],
+          "text": "End of Report **xx",
+          "confidence": 0.5212
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            579.0,
+            1731.0,
+            1157.0,
+            1774.0
+          ],
+          "text": "Please Correlate With Clinical Findings",
+          "confidence": 0.619
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            1988.0,
+            1292.0,
+            2068.0
+          ],
+          "text": "Rio",
+          "confidence": 0.1499
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1257.0,
+            1944.0,
+            1568.0,
+            2067.0
+          ],
+          "text": "DISHALRJURAL",
+          "confidence": 0.009
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            2060.0,
+            1176.0,
+            2110.0
+          ],
+          "text": "(This is only professional Opinion and not the diagnosis, Please",
+          "confidence": 0.9258
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1167.0,
+            2034.0,
+            1490.0,
+            2106.0
+          ],
+          "text": "cotina in3EZsjt",
+          "confidence": 0.0456
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            2125.0,
+            1305.0,
+            2169.0
+          ],
+          "text": "Sultanpur Chowk; Nr: Dhulkot Barrier; Ambala Chandigarh Expy Ambala Harvana 434003 Ph",
+          "confidence": 0.6922
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            2126.0,
+            1598.0,
+            2158.0
+          ],
+          "text": "74320 00qOo, 74969 79727",
+          "confidence": 0.1726
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            86.0,
+            2168.0,
+            194.0,
+            2200.0
+          ],
+          "text": "Ph : 171",
+          "confidence": 0.7313
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            2163.0,
+            937.0,
+            2201.0
+          ],
+          "text": "2500000, 74320 000o0, 74969 79727 Toll free No:; 1800 1803",
+          "confidence": 0.2371
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            2221.0,
+            189.0,
+            2259.0
+          ],
+          "text": "the",
+          "confidence": 0.9323
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            2201.0,
+            449.0,
+            2264.0
+          ],
+          "text": "health",
+          "confidence": 0.9871
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            456.0,
+            2226.0,
+            568.0,
+            2256.0
+          ],
+          "text": "care",
+          "confidence": 0.9803
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            577.0,
+            2214.0,
+            820.0,
+            2264.0
+          ],
+          "text": "providers",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            883.0,
+            2219.0,
+            971.0,
+            2257.0
+          ],
+          "text": "the",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            1224.0,
+            2224.0,
+            1336.0,
+            2254.0
+          ],
+          "text": "care",
+          "confidence": 0.985
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1343.0,
+            2212.0,
+            1588.0,
+            2262.0
+          ],
+          "text": "providers",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1328.2205536723275,
+            1830.1609001686002,
+            1653.7794463276725,
+            1969.8390998313998
+          ],
+          "text": "(u25",
+          "confidence": 0.2125
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1422.7639320225003,
+            1941.0930001158115,
+            1581.2360679774997,
+            2003.9069998841885
+          ],
+          "text": "#NDAL",
+          "confidence": 0.9095
+        }
+      ]
+    }
+  ],
+  "full_text": "Healing Touch\nSuper Speciality\nHospital\nNA BH\nPatient\nBy\nDr, Sanjeev Goyal\nRequisitions\nReq No\n2568173\nReported on\nPatient Type\nOPD\nCLINICAL PATHOLOGY\nURINE ROUTINE MICROSCOPY\nSpecimen Type\nUrine\nBIOLOGICAL\nPHYSICAL\nSample Volume\n20\nml\ncolour\nPale Yellow\nPale Yellow\nAppearance\nClear\nClear\nSpecific gravity.\n1.030\n1.000\n1.030\nIon Exchange\npH -Urine\n5.0\nDouble Indicato\nAlbumin.\n4\nAbsent\nAcidIBase\nExchange\nGlucose\nNIL\nAbsent\nOxidaselPeroxic\nase\nUrobilinogen\nNIL\nNIL\nEhrlich Reactior\nMICROSCOPIC EXAMINATION\nPUS CELLS\nURINE\n2-4\nIHPF\n0 - 5\nRed blood cells\nNil\n/hpf\nNIL\nEpithelial Cells\nUrine\n1-2\nIHPF\n0 - 5\nCasts\nNIL\nNIL\nMicroscopic\nCrystals:\nNIL\nNIL\nMicroscopic\nMicro-organisims\nNIL\nNIL\nAlbumin:\n1+(3Omgldl)\n*x**\nEnd of Report **xx\nPlease Correlate With Clinical Findings\nRio\nDISHALRJURAL\n(This is only professional Opinion and not the diagnosis, Please\ncotina in3EZsjt\nSultanpur Chowk; Nr: Dhulkot Barrier; Ambala Chandigarh Expy Ambala Harvana 434003 Ph\n74320 00qOo, 74969 79727\nPh : 171\n2500000, 74320 000o0, 74969 79727 Toll free No:; 1800 1803\nthe\nhealth\ncare\nproviders\nthe\ncare\nproviders\n(u25\n#NDAL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Sultanpur Chowk; Nr: Dhulkot Barrier; Ambala Chandigarh Expy Ambala Harvana",
+          "biomarker_normalized": "Sultanpur Chowk; Nr: Dhulkot Barrier; Ambala Chandigarh Expy Ambala Harvana",
+          "value": "434003",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sultanpur Chowk; Nr: Dhulkot Barrier; Ambala Chandigarh Expy Ambala Harvana 434003 Ph",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ph",
+          "biomarker_normalized": "Ph",
+          "value": "171",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ph : 171",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "(u2",
+          "biomarker_normalized": "(u2",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "(u25",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 98,
+    "ocr_avg_confidence": 0.8327,
+    "parsed_row_count": 3
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "document_id": "GUR-0425-PA-0054044_Q-FINAL0001_250427_1157@F.pdf_page_36",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0054044_Q-FINAL0001_250427_1157@F.pdf_page_36.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ADVANTA SUPER SPECIALITY HOSPITAL\nSilani Gate, Jhajjar (Haryana)\nAByeNta\nPh:: 01251-252128,\nDate\nSrl No\n332\nPatient Id\nDr: MRINAL VERMA\nNo.\n15014\nNo.\n12412\nTesth\nBIOCHEMSTRY\nBLOOD SUGAR RANDOM\n98\nmgldl\n80\n160\nHEXOKINASE\nMALARIA PARASITE (MP)\nThick and thin smears are Negative for Malaria Parasite.\nNB\nMicroscopic methods of detection may miss low levels of parasitemia In case of strong index of clinical\nsuspicion, serologic test for malaria may be performed.\nNS-1 ANTIGEN DENGUE\nImmunochromatography\nRESULT\nNON\nREACTIVE\nREMARKS:\nIn tropical and subtropical regions, dengue is the most important arbovirosis in terms of mortality and morality:\nAn easy-to-perform, rapid and specific test is needed to confirm infection during the acute phase of the\ninfection\nin order to implement appropriate treatment during early course of teh disease. NS1 antigen is an non-\nstructural protein recognized as a marker of acute phase of dengue infection; a period for which traditional\nserological antibodies based methods are of limited value. NS1 antigen was found circulating in sample of\ninfected patients\nfrom the first\nup to 9 days after onset of fever (1,2 & 3)\nDengue NS1 Ag Strip is an individual test for qualitative detection of Dengue virus NS1 antigen\nin human serum or plasma as an aid in the diagnosis of acute dengue infection.\nTYPHIDOT (IgG & IgM)\nDOT EIA FOR DECTECTION QE IqM AND IgG ANTIBODIES\nTQ SALMONELLA TYPHL:\nIgM\nNEGATIVE\nDR. ALKA SINGLA\nMSBS, MD (PATH)\nConsu:ltant Patholagist\nRega: No. DMC-17916\nday",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            309.0,
+            73.0,
+            1424.0,
+            146.0
+          ],
+          "text": "ADVANTA SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.9631
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            156.0,
+            1074.0,
+            204.0
+          ],
+          "text": "Silani Gate, Jhajjar (Haryana)",
+          "confidence": 0.5423
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            175.0,
+            275.0,
+            217.0
+          ],
+          "text": "AByeNta",
+          "confidence": 0.1279
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            583.0,
+            195.0,
+            853.0,
+            231.0
+          ],
+          "text": "Ph:: 01251-252128,",
+          "confidence": 0.6031
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            338.0,
+            274.0,
+            366.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            342.0,
+            916.0,
+            372.0
+          ],
+          "text": "Srl No",
+          "confidence": 0.8597
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            342.0,
+            986.0,
+            374.0
+          ],
+          "text": "332",
+          "confidence": 0.5827
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1185.0,
+            343.0,
+            1323.0,
+            379.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.7306
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            416.0,
+            614.0,
+            448.0
+          ],
+          "text": "Dr: MRINAL VERMA",
+          "confidence": 0.6634
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            902.0,
+            420.0,
+            952.0,
+            450.0
+          ],
+          "text": "No.",
+          "confidence": 0.7169
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            420.0,
+            1050.0,
+            452.0
+          ],
+          "text": "15014",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1240.0,
+            424.0,
+            1290.0,
+            452.0
+          ],
+          "text": "No.",
+          "confidence": 0.9644
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            424.0,
+            1410.0,
+            456.0
+          ],
+          "text": "12412",
+          "confidence": 0.728
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            494.0,
+            224.0,
+            520.0
+          ],
+          "text": "Testh",
+          "confidence": 0.4049
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            596.0,
+            1014.0,
+            644.0
+          ],
+          "text": "BIOCHEMSTRY",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            656.0,
+            529.0,
+            693.0
+          ],
+          "text": "BLOOD SUGAR RANDOM",
+          "confidence": 0.7504
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            664.0,
+            802.0,
+            694.0
+          ],
+          "text": "98",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            961.0,
+            665.0,
+            1041.0,
+            701.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9833
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1224.0,
+            668.0,
+            1264.0,
+            696.0
+          ],
+          "text": "80",
+          "confidence": 0.7654
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1280.0,
+            668.0,
+            1334.0,
+            698.0
+          ],
+          "text": "160",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            690.0,
+            354.0,
+            716.0
+          ],
+          "text": "HEXOKINASE",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            187.0,
+            735.0,
+            533.0,
+            773.0
+          ],
+          "text": "MALARIA PARASITE (MP)",
+          "confidence": 0.9461
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            809.0,
+            943.0,
+            851.0
+          ],
+          "text": "Thick and thin smears are Negative for Malaria Parasite.",
+          "confidence": 0.4871
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            874.0,
+            250.0,
+            904.0
+          ],
+          "text": "NB",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            275.0,
+            871.0,
+            1538.0,
+            920.0
+          ],
+          "text": "Microscopic methods of detection may miss low levels of parasitemia In case of strong index of clinical",
+          "confidence": 0.777
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            902.0,
+            877.0,
+            945.0
+          ],
+          "text": "suspicion, serologic test for malaria may be performed.",
+          "confidence": 0.8102
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            185.0,
+            983.0,
+            511.0,
+            1019.0
+          ],
+          "text": "NS-1 ANTIGEN DENGUE",
+          "confidence": 0.8212
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1012.0,
+            451.0,
+            1050.0
+          ],
+          "text": "Immunochromatography",
+          "confidence": 0.6561
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1127.0,
+            316.0,
+            1159.0
+          ],
+          "text": "RESULT",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            1132.0,
+            730.0,
+            1162.0
+          ],
+          "text": "NON",
+          "confidence": 0.8468
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            745.0,
+            1131.0,
+            891.0,
+            1163.0
+          ],
+          "text": "REACTIVE",
+          "confidence": 0.7071
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1192.0,
+            356.0,
+            1222.0
+          ],
+          "text": "REMARKS:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1252.0,
+            1545.0,
+            1303.0
+          ],
+          "text": "In tropical and subtropical regions, dengue is the most important arbovirosis in terms of mortality and morality:",
+          "confidence": 0.697
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            1282.0,
+            1460.0,
+            1330.0
+          ],
+          "text": "An easy-to-perform, rapid and specific test is needed to confirm infection during the acute phase of the",
+          "confidence": 0.9401
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            1314.0,
+            310.0,
+            1346.0
+          ],
+          "text": "infection",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1343.0,
+            1456.0,
+            1392.0
+          ],
+          "text": "in order to implement appropriate treatment during early course of teh disease. NS1 antigen is an non-",
+          "confidence": 0.8699
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1374.0,
+            1502.0,
+            1422.0
+          ],
+          "text": "structural protein recognized as a marker of acute phase of dengue infection; a period for which traditional",
+          "confidence": 0.6534
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1406.0,
+            1500.0,
+            1454.0
+          ],
+          "text": "serological antibodies based methods are of limited value. NS1 antigen was found circulating in sample of",
+          "confidence": 0.7034
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            1435.0,
+            409.0,
+            1473.0
+          ],
+          "text": "infected patients",
+          "confidence": 0.9805
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            195.0,
+            1465.0,
+            363.0,
+            1504.0
+          ],
+          "text": "from the first",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            411.0,
+            1469.0,
+            923.0,
+            1509.0
+          ],
+          "text": "up to 9 days after onset of fever (1,2 & 3)",
+          "confidence": 0.9237
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1526.0,
+            1362.0,
+            1576.0
+          ],
+          "text": "Dengue NS1 Ag Strip is an individual test for qualitative detection of Dengue virus NS1 antigen",
+          "confidence": 0.7835
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            1558.0,
+            1178.0,
+            1606.0
+          ],
+          "text": "in human serum or plasma as an aid in the diagnosis of acute dengue infection.",
+          "confidence": 0.8992
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            179.0,
+            1607.0,
+            479.0,
+            1647.0
+          ],
+          "text": "TYPHIDOT (IgG & IgM)",
+          "confidence": 0.859
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1685.0,
+            971.0,
+            1727.0
+          ],
+          "text": "DOT EIA FOR DECTECTION QE IqM AND IgG ANTIBODIES",
+          "confidence": 0.2245
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            199.0,
+            1719.0,
+            541.0,
+            1755.0
+          ],
+          "text": "TQ SALMONELLA TYPHL:",
+          "confidence": 0.4935
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            195.0,
+            1791.0,
+            257.0,
+            1831.0
+          ],
+          "text": "IgM",
+          "confidence": 0.9918
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            294.0,
+            1791.0,
+            456.0,
+            1827.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9752
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1043.0,
+            1872.0,
+            1360.0,
+            1934.0
+          ],
+          "text": "DR. ALKA SINGLA",
+          "confidence": 0.7248
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            1911.0,
+            1363.0,
+            1960.0
+          ],
+          "text": "MSBS, MD (PATH)",
+          "confidence": 0.5619
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1039.0,
+            1945.0,
+            1364.0,
+            1993.0
+          ],
+          "text": "Consu:ltant Patholagist",
+          "confidence": 0.4764
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1045.0,
+            1972.0,
+            1367.0,
+            2032.0
+          ],
+          "text": "Rega: No. DMC-17916",
+          "confidence": 0.5499
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            355.2812739981382,
+            1465.1539042094366,
+            415.7187260018618,
+            1507.8460957905634
+          ],
+          "text": "day",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "ADVANTA SUPER SPECIALITY HOSPITAL\nSilani Gate, Jhajjar (Haryana)\nAByeNta\nPh:: 01251-252128,\nDate\nSrl No\n332\nPatient Id\nDr: MRINAL VERMA\nNo.\n15014\nNo.\n12412\nTesth\nBIOCHEMSTRY\nBLOOD SUGAR RANDOM\n98\nmgldl\n80\n160\nHEXOKINASE\nMALARIA PARASITE (MP)\nThick and thin smears are Negative for Malaria Parasite.\nNB\nMicroscopic methods of detection may miss low levels of parasitemia In case of strong index of clinical\nsuspicion, serologic test for malaria may be performed.\nNS-1 ANTIGEN DENGUE\nImmunochromatography\nRESULT\nNON\nREACTIVE\nREMARKS:\nIn tropical and subtropical regions, dengue is the most important arbovirosis in terms of mortality and morality:\nAn easy-to-perform, rapid and specific test is needed to confirm infection during the acute phase of the\ninfection\nin order to implement appropriate treatment during early course of teh disease. NS1 antigen is an non-\nstructural protein recognized as a marker of acute phase of dengue infection; a period for which traditional\nserological antibodies based methods are of limited value. NS1 antigen was found circulating in sample of\ninfected patients\nfrom the first\nup to 9 days after onset of fever (1,2 & 3)\nDengue NS1 Ag Strip is an individual test for qualitative detection of Dengue virus NS1 antigen\nin human serum or plasma as an aid in the diagnosis of acute dengue infection.\nTYPHIDOT (IgG & IgM)\nDOT EIA FOR DECTECTION QE IqM AND IgG ANTIBODIES\nTQ SALMONELLA TYPHL:\nIgM\nNEGATIVE\nDR. ALKA SINGLA\nMSBS, MD (PATH)\nConsu:ltant Patholagist\nRega: No. DMC-17916\nday",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Ph",
+          "biomarker_normalized": "Ph",
+          "value": "01251",
+          "unit": "",
+          "reference_range": "01251-252128",
+          "source_line": "Ph:: 01251-252128,",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "NS",
+          "biomarker_normalized": "NS",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "NS-1 ANTIGEN DENGUE",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "up to",
+          "biomarker_normalized": "up to",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "up to 9 days after onset of fever (1,2 & 3)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Rega: No. DMC",
+          "biomarker_normalized": "Rega: No. DMC",
+          "value": "17916",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Rega: No. DMC-17916",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 53,
+    "ocr_avg_confidence": 0.7876,
+    "parsed_row_count": 4
+  }
+}

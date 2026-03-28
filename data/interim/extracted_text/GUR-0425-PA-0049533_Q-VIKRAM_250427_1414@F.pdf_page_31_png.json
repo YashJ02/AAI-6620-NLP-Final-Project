@@ -1,0 +1,903 @@
+{
+  "document_id": "GUR-0425-PA-0049533_Q-VIKRAM_250427_1414@F.pdf_page_31",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0049533_Q-VIKRAM_250427_1414@F.pdf_page_31.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "6 TRAUMA CCNTER\n0S\nH\nCivil Hospital, Jhajjar\nTransaction No.\n565796\nDate\nPatient\nMobile\n3\nMR\nIP No.\n41693\nDoctor\nSample\n& Time\nDate & Time\n04.03.13 pm\nHAFMATOLOcYREBOR\nTest\nRESULTS\nUNITS\nREFRANGE\nPT -\nNITH\nINR\n[\"]\n'TEST\n16 .0\nsec\n12--16\n11\nCONTROL\n14 .0\nsec\n--14\n1\"T1\nTNDEX\n87 . 5\n8\n12T'T\nTNR\n1.1\n0 .88--1.1\nWespial $\n##tt#\nEND OF REPORT\n##ttt\nJa\nPathologist Technokogi\nUser Nm\nLAB\nPrint Date & Time\nSystem Nm\nPC\nCBC, Throid, Kideny Function Test; Liver Function Test; Lipid Profile, Blood Sugar; LH, FSH, Prolactin, [-HCG, TORCH, CA-125, CEA, PSA\n3DIAD Color Doppler Ultrasound; HS.G\nIVP, Barium Studies, Digital X-Ray; Multi Slice Spiral CT Scan, EC.G\nEE.G:\n21 Channels, EM.G. N.CV, N.CV VEP, B.ERA , PET & Comprehensive Health Check-ups etc.\nThis IS for doctor persual only and not Ior medico legal purpose . This iS only professional opinion and nol a diagnosis\nIn case of unexpecled resull kindly contact the lab_\nAll congenital anomalies can not be ruled out this depends on fetal position. amount of liquor and gestation age\nIdentity of the patient can not be confirmed;\n3D/4D Ultrsound; Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNot FOR MEDICO LEGAL PURPOSE\n(7e5 Tae 24 &2\n3-o\nOpp:\n1\n8\n'OsFaw?",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            562.0,
+            0.0,
+            1118.0,
+            44.0
+          ],
+          "text": "6 TRAUMA CCNTER",
+          "confidence": 0.3457
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            16.0,
+            234.0,
+            70.0
+          ],
+          "text": "0S",
+          "confidence": 0.4674
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            62.0,
+            206.0,
+            114.0
+          ],
+          "text": "H",
+          "confidence": 0.9972
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            434.0,
+            53.0,
+            874.0,
+            109.0
+          ],
+          "text": "Civil Hospital, Jhajjar",
+          "confidence": 0.8706
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            132.0,
+            314.0,
+            164.0
+          ],
+          "text": "Transaction No.",
+          "confidence": 0.7934
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            414.0,
+            128.0,
+            517.0,
+            164.0
+          ],
+          "text": "565796",
+          "confidence": 0.7762
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            142.0,
+            1184.0,
+            172.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            182.0,
+            198.0,
+            210.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            227.0,
+            197.0,
+            263.0
+          ],
+          "text": "Mobile",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            359.0,
+            163.0,
+            585.0,
+            321.0
+          ],
+          "text": "3",
+          "confidence": 0.4436
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            238.0,
+            992.0,
+            268.0
+          ],
+          "text": "MR",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            238.0,
+            1095.0,
+            269.0
+          ],
+          "text": "IP No.",
+          "confidence": 0.8946
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            238.0,
+            1370.0,
+            270.0
+          ],
+          "text": "41693",
+          "confidence": 0.9545
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            280.0,
+            194.0,
+            308.0
+          ],
+          "text": "Doctor",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            328.0,
+            209.0,
+            366.0
+          ],
+          "text": "Sample",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            281.0,
+            329.0,
+            383.0,
+            365.0
+          ],
+          "text": "& Time",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1082.0,
+            340.0,
+            1256.0,
+            372.0
+          ],
+          "text": "Date & Time",
+          "confidence": 0.7433
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1421.0,
+            339.0,
+            1585.0,
+            377.0
+          ],
+          "text": "04.03.13 pm",
+          "confidence": 0.961
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            607.0,
+            383.0,
+            1071.0,
+            423.0
+          ],
+          "text": "HAFMATOLOcYREBOR",
+          "confidence": 0.4549
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            430.0,
+            164.0,
+            462.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            610.0,
+            478.0,
+            741.0,
+            515.0
+          ],
+          "text": "RESULTS",
+          "confidence": 0.9814
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            486.0,
+            1180.0,
+            518.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            490.0,
+            1500.0,
+            522.0
+          ],
+          "text": "REFRANGE",
+          "confidence": 0.7704
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            520.0,
+            144.0,
+            544.0
+          ],
+          "text": "PT -",
+          "confidence": 0.4018
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            520.0,
+            220.0,
+            544.0
+          ],
+          "text": "NITH",
+          "confidence": 0.1496
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            520.0,
+            278.0,
+            544.0
+          ],
+          "text": "INR",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            551.0,
+            150.0,
+            580.0
+          ],
+          "text": "[\"]",
+          "confidence": 0.1503
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            554.0,
+            246.0,
+            584.0
+          ],
+          "text": "'TEST",
+          "confidence": 0.3913
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            554.0,
+            662.0,
+            578.0
+          ],
+          "text": "16 .0",
+          "confidence": 0.5363
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            566.0,
+            1150.0,
+            590.0
+          ],
+          "text": "sec",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1368.0,
+            564.0,
+            1478.0,
+            594.0
+          ],
+          "text": "12--16",
+          "confidence": 0.7685
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            584.0,
+            152.0,
+            610.0
+          ],
+          "text": "11",
+          "confidence": 0.4681
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            584.0,
+            300.0,
+            614.0
+          ],
+          "text": "CONTROL",
+          "confidence": 0.9871
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            584.0,
+            662.0,
+            608.0
+          ],
+          "text": "14 .0",
+          "confidence": 0.5916
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            596.0,
+            1150.0,
+            622.0
+          ],
+          "text": "sec",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1406.0,
+            596.0,
+            1476.0,
+            624.0
+          ],
+          "text": "--14",
+          "confidence": 0.7933
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            614.0,
+            152.0,
+            644.0
+          ],
+          "text": "1\"T1",
+          "confidence": 0.391
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            616.0,
+            264.0,
+            644.0
+          ],
+          "text": "TNDEX",
+          "confidence": 0.601
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            618.0,
+            674.0,
+            644.0
+          ],
+          "text": "87 . 5",
+          "confidence": 0.6588
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1091.0,
+            625.0,
+            1107.0,
+            649.0
+          ],
+          "text": "8",
+          "confidence": 0.8174
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            646.0,
+            152.0,
+            674.0
+          ],
+          "text": "12T'T",
+          "confidence": 0.1596
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            646.0,
+            228.0,
+            676.0
+          ],
+          "text": "TNR",
+          "confidence": 0.8555
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            646.0,
+            648.0,
+            670.0
+          ],
+          "text": "1.1",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1331.0,
+            654.0,
+            1499.0,
+            692.0
+          ],
+          "text": "0 .88--1.1",
+          "confidence": 0.592
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1365.0,
+            715.0,
+            1467.0,
+            753.0
+          ],
+          "text": "Wespial $",
+          "confidence": 0.1066
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            667.0,
+            743.0,
+            721.0,
+            757.0
+          ],
+          "text": "##tt#",
+          "confidence": 0.0534
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            741.0,
+            960.0,
+            772.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.9922
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            961.0,
+            745.0,
+            1017.0,
+            759.0
+          ],
+          "text": "##ttt",
+          "confidence": 0.0515
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1412.0,
+            790.0,
+            1466.0,
+            820.0
+          ],
+          "text": "Ja",
+          "confidence": 0.3196
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1159.0,
+            801.0,
+            1488.0,
+            849.0
+          ],
+          "text": "Pathologist Technokogi",
+          "confidence": 0.6354
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            873.0,
+            213.0,
+            910.0
+          ],
+          "text": "User Nm",
+          "confidence": 0.9558
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            876.0,
+            292.0,
+            908.0
+          ],
+          "text": "LAB",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            482.0,
+            880.0,
+            722.0,
+            912.0
+          ],
+          "text": "Print Date & Time",
+          "confidence": 0.5703
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1233.0,
+            887.0,
+            1395.0,
+            925.0
+          ],
+          "text": "System Nm",
+          "confidence": 0.6879
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1512.0,
+            888.0,
+            1560.0,
+            920.0
+          ],
+          "text": "PC",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1749.0,
+            1539.0,
+            1788.0
+          ],
+          "text": "CBC, Throid, Kideny Function Test; Liver Function Test; Lipid Profile, Blood Sugar; LH, FSH, Prolactin, [-HCG, TORCH, CA-125, CEA, PSA",
+          "confidence": 0.3742
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1790.0,
+            630.0,
+            1820.0
+          ],
+          "text": "3DIAD Color Doppler Ultrasound; HS.G",
+          "confidence": 0.645
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            641.0,
+            1787.0,
+            1463.0,
+            1824.0
+          ],
+          "text": "IVP, Barium Studies, Digital X-Ray; Multi Slice Spiral CT Scan, EC.G",
+          "confidence": 0.5654
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            1816.0,
+            258.0,
+            1844.0
+          ],
+          "text": "EE.G:",
+          "confidence": 0.4643
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            273.0,
+            1813.0,
+            1451.0,
+            1850.0
+          ],
+          "text": "21 Channels, EM.G. N.CV, N.CV VEP, B.ERA , PET & Comprehensive Health Check-ups etc.",
+          "confidence": 0.3864
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1854.0,
+            1112.0,
+            1880.0
+          ],
+          "text": "This IS for doctor persual only and not Ior medico legal purpose . This iS only professional opinion and nol a diagnosis",
+          "confidence": 0.3797
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            1856.0,
+            1570.0,
+            1880.0
+          ],
+          "text": "In case of unexpecled resull kindly contact the lab_",
+          "confidence": 0.5824
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1874.0,
+            1144.0,
+            1904.0
+          ],
+          "text": "All congenital anomalies can not be ruled out this depends on fetal position. amount of liquor and gestation age",
+          "confidence": 0.7796
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1157.0,
+            1875.0,
+            1573.0,
+            1902.0
+          ],
+          "text": "Identity of the patient can not be confirmed;",
+          "confidence": 0.7007
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            95.0,
+            1911.0,
+            1567.0,
+            1979.0
+          ],
+          "text": "3D/4D Ultrsound; Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab",
+          "confidence": 0.5015
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1984.0,
+            788.0,
+            2032.0
+          ],
+          "text": "Not FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.4661
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            863.0,
+            1979.0,
+            1228.0,
+            2033.0
+          ],
+          "text": "(7e5 Tae 24 &2",
+          "confidence": 0.1035
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1238.0,
+            1994.0,
+            1374.0,
+            2026.0
+          ],
+          "text": "3-o",
+          "confidence": 0.2184
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            322.2455554072236,
+            49.10403007750917,
+            438.7544445927764,
+            113.89596992249082
+          ],
+          "text": "Opp:",
+          "confidence": 0.6505
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1458.490279250477,
+            733.0226043003357,
+            1517.509720749523,
+            819.9773956996643
+          ],
+          "text": "1",
+          "confidence": 0.1084
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1476.1806524722288,
+            807.0263162979521,
+            1524.8193475277712,
+            887.9736837020479
+          ],
+          "text": "8",
+          "confidence": 0.4337
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1384.7639320225003,
+            874.3892307018074,
+            1503.2360679774997,
+            939.6107692981926
+          ],
+          "text": "'OsFaw?",
+          "confidence": 0.0676
+        }
+      ]
+    }
+  ],
+  "full_text": "6 TRAUMA CCNTER\n0S\nH\nCivil Hospital, Jhajjar\nTransaction No.\n565796\nDate\nPatient\nMobile\n3\nMR\nIP No.\n41693\nDoctor\nSample\n& Time\nDate & Time\n04.03.13 pm\nHAFMATOLOcYREBOR\nTest\nRESULTS\nUNITS\nREFRANGE\nPT -\nNITH\nINR\n[\"]\n'TEST\n16 .0\nsec\n12--16\n11\nCONTROL\n14 .0\nsec\n--14\n1\"T1\nTNDEX\n87 . 5\n8\n12T'T\nTNR\n1.1\n0 .88--1.1\nWespial $\n##tt#\nEND OF REPORT\n##ttt\nJa\nPathologist Technokogi\nUser Nm\nLAB\nPrint Date & Time\nSystem Nm\nPC\nCBC, Throid, Kideny Function Test; Liver Function Test; Lipid Profile, Blood Sugar; LH, FSH, Prolactin, [-HCG, TORCH, CA-125, CEA, PSA\n3DIAD Color Doppler Ultrasound; HS.G\nIVP, Barium Studies, Digital X-Ray; Multi Slice Spiral CT Scan, EC.G\nEE.G:\n21 Channels, EM.G. N.CV, N.CV VEP, B.ERA , PET & Comprehensive Health Check-ups etc.\nThis IS for doctor persual only and not Ior medico legal purpose . This iS only professional opinion and nol a diagnosis\nIn case of unexpecled resull kindly contact the lab_\nAll congenital anomalies can not be ruled out this depends on fetal position. amount of liquor and gestation age\nIdentity of the patient can not be confirmed;\n3D/4D Ultrsound; Color Doppler; CT-Scan; Digital X-Ray & Computerised Lab\nNot FOR MEDICO LEGAL PURPOSE\n(7e5 Tae 24 &2\n3-o\nOpp:\n1\n8\n'OsFaw?",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "CBC, Throid, Kideny Function Test; Liver Function Test; Lipid Profile, Blood Sugar; LH, FSH, Prolactin, [-HCG, TORCH, CA",
+          "biomarker_normalized": "CBC, Throid, Kideny Function Test; Liver Function Test; Lipid Profile, Blood Sugar; LH, FSH, Prolactin, [-HCG, TORCH, CA",
+          "value": "125",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CBC, Throid, Kideny Function Test; Liver Function Test; Lipid Profile, Blood Sugar; LH, FSH, Prolactin, [-HCG, TORCH, CA-125, CEA, PSA",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 72,
+    "ocr_avg_confidence": 0.6465,
+    "parsed_row_count": 1
+  }
+}

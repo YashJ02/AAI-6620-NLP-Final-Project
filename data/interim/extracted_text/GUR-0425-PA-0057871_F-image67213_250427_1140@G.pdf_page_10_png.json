@@ -1,0 +1,1155 @@
+{
+  "document_id": "GUR-0425-PA-0057871_F-image67213_250427_1140@G.pdf_page_10",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0057871_F-image67213_250427_1140@G.pdf_page_10.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PUSHRAWAD SMCHANLA\nPSRI\nHOSAITAL & RESEARCHA INSTITUIE\nJuLmi\nHOSPITAL\nDISCHARGE SUMMARY\n176203\n25/169645\n10*46 AM\nD 0 D\n20/04/2025\nWard/Bed No\nB-Block-FOURTH FLOOR / 455-2\nCompany\nVidal Health Insurance TPA\nPnvate Limited\nConsultant\nDr DR RAVI BANSALIDR ARUN KUMAR\nCLINICAL PATHOLOGY: URINE RUE; ROUTINE & MICROSCOPY:\nCOLOUR;\nSPECIFIC GRAVITY: 1.015,\nPH: 6.0,\nBILIRUBIN:\nPale Yellow\nNIL,\nBLOOD:\nPROTEIN:\nUROBILINOGEN: NORMAL,\nPUS CELLS: 2-4, CRYSTALS: NIL,\nBIOCHEMISTRY: ELECTROLYTES NA, K, CL: SODIUM: 130 mEqL, POTASSIUM: 4.6\nMEq/L, CHLORIDE: 100 mEqL,\nBIOCHEMISTRY: AMMONIA\": AMMONIA: 57,.3 Hmol,\nHAEMATOLOGY: TLC: TLC (Total Leucocyte Count} 7.39 10*3/1L,\nDate\nBIOCHEMISTRY: CREATININE: CREATININE: 4.60 mgidL,\nBIOCHEMSTRY ELECTROLYTES NA, K, CL: SODIUM: 130 mEqiL, POTASSIUM:\nMEq/L, CHLORIDE: 99 mEqL,\n4.7\nHAEMATOLOGY: PROTHROMBIN TIME PT::\nPatient Value: 12.9\nProlhrombin Time (MNPT): 11.0\nMean Normal\nProthrombin Ratio (PR): 1.17\nInternational\nNormalized Ratio (INR): 1.18\nHAEMATOLOGY: HAEMOGRAM: HB: 8.2 gldL, HEMATOCRIT: 25.30\nTLC: 3.89 10*3/uL, PLATELET\n%, RDW-CV: 15.6\n2.65\nCOUNT: 114.0 10 3uL, ESR: 55 mm / 1 hr; Neutrophil\n1L0 Baso Lymphocyte: 0.54 10-JuL, Monocyie: 0.58 10J/uL, Eosinophit: G.091\n1043/uL , Basophils: 0.03 10-3/14L ,\nX-RAY CHEST AP VIEW (BEDSIDEJMIId\nnoted;\nNon-homogeneous haziness is\npulmonary venous congestion is\nseen in bolh lower zones. Rest of the visualized\nparenchyma does not show any obvious abnormalityBoth CP\ncardiomegaly Is seen.\nangles appear clear Mild\nLeel4te\nJnbddn dini Prang iL da# D4imi 1imtt.\n56140484i1t ,\nEmalla\nnlasoulot\nUrl Md Danruteid ton\nARABHEMAAL Alo#diiad\nFromoted %y\nJK Orpanlaton\n2+ ,\n2+,\nDale\nSec,\nSec,\n%/,\nDate;\nlung\nJ4atd",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            186.0,
+            1195.0,
+            228.0
+          ],
+          "text": "PUSHRAWAD SMCHANLA",
+          "confidence": 0.1859
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1214.0,
+            188.0,
+            1306.0,
+            242.0
+          ],
+          "text": "PSRI",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            872.0,
+            215.0,
+            1194.0,
+            259.0
+          ],
+          "text": "HOSAITAL & RESEARCHA INSTITUIE",
+          "confidence": 0.2491
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1003.0,
+            253.0,
+            1055.0,
+            269.0
+          ],
+          "text": "JuLmi",
+          "confidence": 0.0117
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            228.0,
+            1388.0,
+            289.0
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            625.0,
+            274.0,
+            984.0,
+            324.0
+          ],
+          "text": "DISCHARGE SUMMARY",
+          "confidence": 0.9696
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            358.0,
+            451.0,
+            455.0,
+            487.0
+          ],
+          "text": "176203",
+          "confidence": 0.8083
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            472.0,
+            1209.0,
+            509.0
+          ],
+          "text": "25/169645",
+          "confidence": 0.9899
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            496.0,
+            502.0,
+            612.0,
+            534.0
+          ],
+          "text": "10*46 AM",
+          "confidence": 0.9771
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            514.0,
+            962.0,
+            544.0
+          ],
+          "text": "D 0 D",
+          "confidence": 0.7531
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1074.0,
+            516.0,
+            1215.0,
+            553.0
+          ],
+          "text": "20/04/2025",
+          "confidence": 0.5832
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            533.0,
+            333.0,
+            571.0
+          ],
+          "text": "Ward/Bed No",
+          "confidence": 0.8361
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            355.0,
+            541.0,
+            751.0,
+            583.0
+          ],
+          "text": "B-Block-FOURTH FLOOR / 455-2",
+          "confidence": 0.8377
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            877.0,
+            553.0,
+            1008.0,
+            597.0
+          ],
+          "text": "Company",
+          "confidence": 0.9973
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            559.0,
+            1397.0,
+            601.0
+          ],
+          "text": "Vidal Health Insurance TPA",
+          "confidence": 0.701
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1057.0,
+            597.0,
+            1239.0,
+            636.0
+          ],
+          "text": "Pnvate Limited",
+          "confidence": 0.9103
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            614.0,
+            303.0,
+            650.0
+          ],
+          "text": "Consultant",
+          "confidence": 0.7951
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            352.0,
+            620.0,
+            832.0,
+            668.0
+          ],
+          "text": "Dr DR RAVI BANSALIDR ARUN KUMAR",
+          "confidence": 0.8431
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            800.0,
+            1091.0,
+            868.0
+          ],
+          "text": "CLINICAL PATHOLOGY: URINE RUE; ROUTINE & MICROSCOPY:",
+          "confidence": 0.6236
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            830.0,
+            1253.0,
+            871.0
+          ],
+          "text": "COLOUR;",
+          "confidence": 0.9622
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            847.0,
+            585.0,
+            900.0
+          ],
+          "text": "SPECIFIC GRAVITY: 1.015,",
+          "confidence": 0.7817
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            599.0,
+            863.0,
+            717.0,
+            903.0
+          ],
+          "text": "PH: 6.0,",
+          "confidence": 0.5981
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            864.0,
+            897.0,
+            906.0
+          ],
+          "text": "BILIRUBIN:",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1253.0,
+            837.0,
+            1421.0,
+            875.0
+          ],
+          "text": "Pale Yellow",
+          "confidence": 0.6726
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            869.0,
+            961.0,
+            911.0
+          ],
+          "text": "NIL,",
+          "confidence": 0.8061
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            977.0,
+            875.0,
+            1101.0,
+            911.0
+          ],
+          "text": "BLOOD:",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1168.0,
+            878.0,
+            1323.0,
+            918.0
+          ],
+          "text": "PROTEIN:",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            173.0,
+            891.0,
+            571.0,
+            946.0
+          ],
+          "text": "UROBILINOGEN: NORMAL,",
+          "confidence": 0.9849
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            578.0,
+            907.0,
+            1076.0,
+            962.0
+          ],
+          "text": "PUS CELLS: 2-4, CRYSTALS: NIL,",
+          "confidence": 0.695
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1028.0,
+            1380.0,
+            1108.0
+          ],
+          "text": "BIOCHEMISTRY: ELECTROLYTES NA, K, CL: SODIUM: 130 mEqL, POTASSIUM: 4.6",
+          "confidence": 0.5149
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1077.0,
+            605.0,
+            1132.0
+          ],
+          "text": "MEq/L, CHLORIDE: 100 mEqL,",
+          "confidence": 0.7596
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1118.0,
+            918.0,
+            1190.0
+          ],
+          "text": "BIOCHEMISTRY: AMMONIA\": AMMONIA: 57,.3 Hmol,",
+          "confidence": 0.5341
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1165.0,
+            1086.0,
+            1245.0
+          ],
+          "text": "HAEMATOLOGY: TLC: TLC (Total Leucocyte Count} 7.39 10*3/1L,",
+          "confidence": 0.4507
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1263.0,
+            221.0,
+            1299.0
+          ],
+          "text": "Date",
+          "confidence": 0.8722
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1305.0,
+            970.0,
+            1378.0
+          ],
+          "text": "BIOCHEMISTRY: CREATININE: CREATININE: 4.60 mgidL,",
+          "confidence": 0.6974
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1350.0,
+            1323.0,
+            1434.0
+          ],
+          "text": "BIOCHEMSTRY ELECTROLYTES NA, K, CL: SODIUM: 130 mEqiL, POTASSIUM:",
+          "confidence": 0.557
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1399.0,
+            572.0,
+            1452.0
+          ],
+          "text": "MEq/L, CHLORIDE: 99 mEqL,",
+          "confidence": 0.6385
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            1396.0,
+            1366.0,
+            1428.0
+          ],
+          "text": "4.7",
+          "confidence": 0.7913
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1443.0,
+            803.0,
+            1505.0
+          ],
+          "text": "HAEMATOLOGY: PROTHROMBIN TIME PT::",
+          "confidence": 0.7738
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            825.0,
+            1471.0,
+            1093.0,
+            1513.0
+          ],
+          "text": "Patient Value: 12.9",
+          "confidence": 0.7416
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            1491.0,
+            584.0,
+            1542.0
+          ],
+          "text": "Prolhrombin Time (MNPT): 11.0",
+          "confidence": 0.8213
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1187.0,
+            1483.0,
+            1380.0,
+            1524.0
+          ],
+          "text": "Mean Normal",
+          "confidence": 0.9383
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            673.0,
+            1509.0,
+            1078.0,
+            1560.0
+          ],
+          "text": "Prothrombin Ratio (PR): 1.17",
+          "confidence": 0.9431
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1123.0,
+            1525.0,
+            1305.0,
+            1567.0
+          ],
+          "text": "International",
+          "confidence": 0.8043
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            1535.0,
+            540.0,
+            1588.0
+          ],
+          "text": "Normalized Ratio (INR): 1.18",
+          "confidence": 0.7968
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            1579.0,
+            1126.0,
+            1656.0
+          ],
+          "text": "HAEMATOLOGY: HAEMOGRAM: HB: 8.2 gldL, HEMATOCRIT: 25.30",
+          "confidence": 0.8835
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            188.0,
+            1632.0,
+            628.0,
+            1685.0
+          ],
+          "text": "TLC: 3.89 10*3/uL, PLATELET",
+          "confidence": 0.5273
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1121.0,
+            1618.0,
+            1385.0,
+            1663.0
+          ],
+          "text": "%, RDW-CV: 15.6",
+          "confidence": 0.9273
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            151.0,
+            1677.0,
+            221.0,
+            1713.0
+          ],
+          "text": "2.65",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            1643.0,
+            1395.0,
+            1718.0
+          ],
+          "text": "COUNT: 114.0 10 3uL, ESR: 55 mm / 1 hr; Neutrophil",
+          "confidence": 0.4628
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            1671.0,
+            1313.0,
+            1759.0
+          ],
+          "text": "1L0 Baso Lymphocyte: 0.54 10-JuL, Monocyie: 0.58 10J/uL, Eosinophit: G.091",
+          "confidence": 0.1023
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            1717.0,
+            612.0,
+            1779.0
+          ],
+          "text": "1043/uL , Basophils: 0.03 10-3/14L ,",
+          "confidence": 0.174
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            366.0,
+            1816.0,
+            940.0,
+            1881.0
+          ],
+          "text": "X-RAY CHEST AP VIEW (BEDSIDEJMIId",
+          "confidence": 0.6948
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            1860.0,
+            216.0,
+            1892.0
+          ],
+          "text": "noted;",
+          "confidence": 0.4574
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            219.0,
+            1855.0,
+            653.0,
+            1915.0
+          ],
+          "text": "Non-homogeneous haziness is",
+          "confidence": 0.8017
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            1842.0,
+            1382.0,
+            1895.0
+          ],
+          "text": "pulmonary venous congestion is",
+          "confidence": 0.7728
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            645.0,
+            1877.0,
+            1303.0,
+            1940.0
+          ],
+          "text": "seen in bolh lower zones. Rest of the visualized",
+          "confidence": 0.7791
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1905.0,
+            959.0,
+            1974.0
+          ],
+          "text": "parenchyma does not show any obvious abnormalityBoth CP",
+          "confidence": 0.9466
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1947.0,
+            428.0,
+            1996.0
+          ],
+          "text": "cardiomegaly Is seen.",
+          "confidence": 0.8145
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1932.0,
+            1300.0,
+            1984.0
+          ],
+          "text": "angles appear clear Mild",
+          "confidence": 0.8324
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            633.0,
+            2012.0,
+            704.0,
+            2036.0
+          ],
+          "text": "Leel4te",
+          "confidence": 0.0348
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            2014.0,
+            1107.0,
+            2051.0
+          ],
+          "text": "Jnbddn dini Prang iL da# D4imi 1imtt.",
+          "confidence": 0.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1103.0,
+            2027.0,
+            1242.0,
+            2058.0
+          ],
+          "text": "56140484i1t ,",
+          "confidence": 0.0016
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            769.0,
+            2047.0,
+            825.0,
+            2067.0
+          ],
+          "text": "Emalla",
+          "confidence": 0.0338
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            821.0,
+            2046.0,
+            948.0,
+            2078.0
+          ],
+          "text": "nlasoulot",
+          "confidence": 0.0927
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            960.0,
+            2052.0,
+            1204.0,
+            2085.0
+          ],
+          "text": "Url Md Danruteid ton",
+          "confidence": 0.0039
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            862.0,
+            2072.0,
+            1106.0,
+            2102.0
+          ],
+          "text": "ARABHEMAAL Alo#diiad",
+          "confidence": 0.0161
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            617.0,
+            2100.0,
+            742.0,
+            2130.0
+          ],
+          "text": "Fromoted %y",
+          "confidence": 0.2215
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            783.0,
+            2106.0,
+            942.0,
+            2139.0
+          ],
+          "text": "JK Orpanlaton",
+          "confidence": 0.0541
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1094.3585340901495,
+            873.1317018509494,
+            1156.6414659098505,
+            918.8682981490506
+          ],
+          "text": "2+ ,",
+          "confidence": 0.5631
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1315.344753805519,
+            881.1459283614803,
+            1376.655246194481,
+            924.8540716385197
+          ],
+          "text": "2+,",
+          "confidence": 0.9748
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            151.1701418405615,
+            984.1459283614803,
+            231.8298581594385,
+            1027.8540716385198
+          ],
+          "text": "Dale",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1086.1946838659958,
+            1474.1253445358238,
+            1164.8053161340042,
+            1520.8746554641762
+          ],
+          "text": "Sec,",
+          "confidence": 0.8953
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            577.1840251323949,
+            1503.1317018509494,
+            654.8159748676051,
+            1548.8682981490506
+          ],
+          "text": "Sec,",
+          "confidence": 0.8318
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            131.11542815707753,
+            1626.1039098209153,
+            185.88457184292247,
+            1668.8960901790847
+          ],
+          "text": "%/,",
+          "confidence": 0.6123
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            130.08736102155453,
+            1809.1219034952862,
+            212.91263897844547,
+            1848.8780965047138
+          ],
+          "text": "Date;",
+          "confidence": 0.4657
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1290.199873003838,
+            1900.1194299994186,
+            1367.800126996162,
+            1947.8805700005814
+          ],
+          "text": "lung",
+          "confidence": 0.8904
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            701.0512176086107,
+            2012.133308787594,
+            756.9487823913893,
+            2041.866691212406
+          ],
+          "text": "J4atd",
+          "confidence": 0.0005
+        }
+      ]
+    }
+  ],
+  "full_text": "PUSHRAWAD SMCHANLA\nPSRI\nHOSAITAL & RESEARCHA INSTITUIE\nJuLmi\nHOSPITAL\nDISCHARGE SUMMARY\n176203\n25/169645\n10*46 AM\nD 0 D\n20/04/2025\nWard/Bed No\nB-Block-FOURTH FLOOR / 455-2\nCompany\nVidal Health Insurance TPA\nPnvate Limited\nConsultant\nDr DR RAVI BANSALIDR ARUN KUMAR\nCLINICAL PATHOLOGY: URINE RUE; ROUTINE & MICROSCOPY:\nCOLOUR;\nSPECIFIC GRAVITY: 1.015,\nPH: 6.0,\nBILIRUBIN:\nPale Yellow\nNIL,\nBLOOD:\nPROTEIN:\nUROBILINOGEN: NORMAL,\nPUS CELLS: 2-4, CRYSTALS: NIL,\nBIOCHEMISTRY: ELECTROLYTES NA, K, CL: SODIUM: 130 mEqL, POTASSIUM: 4.6\nMEq/L, CHLORIDE: 100 mEqL,\nBIOCHEMISTRY: AMMONIA\": AMMONIA: 57,.3 Hmol,\nHAEMATOLOGY: TLC: TLC (Total Leucocyte Count} 7.39 10*3/1L,\nDate\nBIOCHEMISTRY: CREATININE: CREATININE: 4.60 mgidL,\nBIOCHEMSTRY ELECTROLYTES NA, K, CL: SODIUM: 130 mEqiL, POTASSIUM:\nMEq/L, CHLORIDE: 99 mEqL,\n4.7\nHAEMATOLOGY: PROTHROMBIN TIME PT::\nPatient Value: 12.9\nProlhrombin Time (MNPT): 11.0\nMean Normal\nProthrombin Ratio (PR): 1.17\nInternational\nNormalized Ratio (INR): 1.18\nHAEMATOLOGY: HAEMOGRAM: HB: 8.2 gldL, HEMATOCRIT: 25.30\nTLC: 3.89 10*3/uL, PLATELET\n%, RDW-CV: 15.6\n2.65\nCOUNT: 114.0 10 3uL, ESR: 55 mm / 1 hr; Neutrophil\n1L0 Baso Lymphocyte: 0.54 10-JuL, Monocyie: 0.58 10J/uL, Eosinophit: G.091\n1043/uL , Basophils: 0.03 10-3/14L ,\nX-RAY CHEST AP VIEW (BEDSIDEJMIId\nnoted;\nNon-homogeneous haziness is\npulmonary venous congestion is\nseen in bolh lower zones. Rest of the visualized\nparenchyma does not show any obvious abnormalityBoth CP\ncardiomegaly Is seen.\nangles appear clear Mild\nLeel4te\nJnbddn dini Prang iL da# D4imi 1imtt.\n56140484i1t ,\nEmalla\nnlasoulot\nUrl Md Danruteid ton\nARABHEMAAL Alo#diiad\nFromoted %y\nJK Orpanlaton\n2+ ,\n2+,\nDale\nSec,\nSec,\n%/,\nDate;\nlung\nJ4atd",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "D",
+          "biomarker_normalized": "D",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "D 0 D",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "B-Block-FOURTH FLOOR /",
+          "biomarker_normalized": "B-Block-FOURTH FLOOR /",
+          "value": "455",
+          "unit": "",
+          "reference_range": "455-2",
+          "source_line": "B-Block-FOURTH FLOOR / 455-2",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "SPECIFIC GRAVITY",
+          "biomarker_normalized": "SPECIFIC GRAVITY",
+          "value": "1.015",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SPECIFIC GRAVITY: 1.015,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "PH",
+          "biomarker_normalized": "PH",
+          "value": "6.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PH: 6.0,",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "PUS CELLS",
+          "biomarker_normalized": "PUS CELLS",
+          "value": "2",
+          "unit": "",
+          "reference_range": "2-4",
+          "source_line": "PUS CELLS: 2-4, CRYSTALS: NIL,",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "BIOCHEMISTRY: ELECTROLYTES NA, K, CL: SODIUM",
+          "biomarker_normalized": "BIOCHEMISTRY: ELECTROLYTES NA, K, CL: SODIUM",
+          "value": "130",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BIOCHEMISTRY: ELECTROLYTES NA, K, CL: SODIUM: 130 mEqL, POTASSIUM: 4.6",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MEq/L, CHLORIDE",
+          "biomarker_normalized": "MEq/L, CHLORIDE",
+          "value": "100",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MEq/L, CHLORIDE: 100 mEqL,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BIOCHEMISTRY: AMMONIA\": AMMONIA",
+          "biomarker_normalized": "BIOCHEMISTRY: AMMONIA\": AMMONIA",
+          "value": "57",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BIOCHEMISTRY: AMMONIA\": AMMONIA: 57,.3 Hmol,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HAEMATOLOGY: TLC: TLC (Total Leucocyte Count}",
+          "biomarker_normalized": "HAEMATOLOGY: TLC: TLC (Total Leucocyte Count}",
+          "value": "7.39",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HAEMATOLOGY: TLC: TLC (Total Leucocyte Count} 7.39 10*3/1L,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BIOCHEMISTRY: CREATININE: CREATININE",
+          "biomarker_normalized": "BIOCHEMISTRY: CREATININE: CREATININE",
+          "value": "4.60",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BIOCHEMISTRY: CREATININE: CREATININE: 4.60 mgidL,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BIOCHEMSTRY ELECTROLYTES NA, K, CL: SODIUM",
+          "biomarker_normalized": "BIOCHEMSTRY ELECTROLYTES NA, K, CL: SODIUM",
+          "value": "130",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BIOCHEMSTRY ELECTROLYTES NA, K, CL: SODIUM: 130 mEqiL, POTASSIUM:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MEq/L, CHLORIDE",
+          "biomarker_normalized": "MEq/L, CHLORIDE",
+          "value": "99",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MEq/L, CHLORIDE: 99 mEqL,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Patient Value",
+          "biomarker_normalized": "Patient Value",
+          "value": "12.9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Patient Value: 12.9",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Prolhrombin Time (MNPT)",
+          "biomarker_normalized": "Prolhrombin Time (MNPT)",
+          "value": "11.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Prolhrombin Time (MNPT): 11.0",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Prothrombin Ratio (PR)",
+          "biomarker_normalized": "Prothrombin Ratio (PR)",
+          "value": "1.17",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Prothrombin Ratio (PR): 1.17",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Normalized Ratio (INR)",
+          "biomarker_normalized": "Normalized Ratio (INR)",
+          "value": "1.18",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Normalized Ratio (INR): 1.18",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "HAEMATOLOGY: HAEMOGRAM: HB",
+          "biomarker_normalized": "HAEMATOLOGY: HAEMOGRAM: HB",
+          "value": "8.2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HAEMATOLOGY: HAEMOGRAM: HB: 8.2 gldL, HEMATOCRIT: 25.30",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "TLC",
+          "biomarker_normalized": "TLC",
+          "value": "3.89",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "TLC: 3.89 10*3/uL, PLATELET",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "%, RDW-CV",
+          "biomarker_normalized": "%, RDW-CV",
+          "value": "15.6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "%, RDW-CV: 15.6",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "COUNT",
+          "biomarker_normalized": "COUNT",
+          "value": "114.0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "COUNT: 114.0 10 3uL, ESR: 55 mm / 1 hr; Neutrophil",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Jnbddn dini Prang iL da# D4imi",
+          "biomarker_normalized": "Jnbddn dini Prang iL da# D4imi",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Jnbddn dini Prang iL da# D4imi 1imtt.",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 78,
+    "ocr_avg_confidence": 0.6547,
+    "parsed_row_count": 21
+  }
+}

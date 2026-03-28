@@ -1,0 +1,1251 @@
+{
+  "document_id": "JPR-0425-PA-0004885_Claim File_27-04-2025_0223-58_AM@E.pdf_page_29",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\JPR-0425-PA-0004885_Claim File_27-04-2025_0223-58_AM@E.pdf_page_29.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MANGLAMPLUS MEDICITY\nMANGLAMPLUS\n(A Multi-Speciality Hospital)\nShipra Path, Sector-5, Mansarovar;\nMEDICITY\nJaipur-302020 (Rajasthan) INDIA\nYour health our priority\nAmbulance\n:VISHAMBHAR\nName\nNo.\n:UHid76507\nIPDIOPD Status\nAPD\nDAYAL SHARMA\nAccession No.\nCatagory\nVidal health TPA\nAgelSex\n:66 YIMale\nIPDIBIII No\nAIP2334692,3\nLocation/Bed No\n#SINGLE RoOM,460\nconsultant\n#SS SANKHALA\nSample Collected: 24/04/2025 3.56.00 PM\nAccept Time :24042025 3.57;J5 PM\nRepont Gen; 240422025 5.55406 PM\nBIOCHEMISTRY\nAccession No\nRegisteration No\nSAMPLE IYPE\nsERUM\nInvestigations\nStatus\nResult\nUnit\nBiological Reference Interval\nLIVER FUNCTION TEST (LFT)\nSerum Bilirubin (Total)\n0.39\nmgldl\n0.2-1.3\nSerum Bilirubin (Direct)\n0.20\nmgldl\n0.0-0.4\nSerum Bilirubin (Indirect)\n0.19\nmgldl\n0.0-1.0\nSGOT (AST)\n21.8\nUIL\n15-46\nSGPT (ALT)\n28.1\nUIL\n13-45\nAlkaline Phosphatase\n62.0\nUIL\n38-126\nTotal Protein\n6.33\ngldL\n6.3-8.2\nAlbumin\n4.15\ngldl\n3.5-5.0\nGlobulin\n2.18\ngldl\n05\nAlbumin Globulin Ratio\n1.90\nRatio\n1.0-2.3\niver enzyme tests, formerly called Liver Function Test (LFTs), are a group of blood tests that detect inflammation and\ntest: Many doctors check the liver in new patients or during annual physicals examination:\niver tests may be done together in a panel or tested separately:\nThe liver filters and processes blood as it circulates through the body: It metabolizes nutrients, detoxifies harmful\nsubstances, makes blood clotting proteins, and performs many other vital functions. The cells in the liver contain proteins\ncalled enzymes that drive these chemical reactions. When liver cells\nleak out into the blood, where\ncan be\nmeasured by blood tests:\nEnd ot Ropon\nManglamplus Medicity LLP (LLPIN\nAAX-7366)\nDr. PRITI SINGHAL\nReg:\nthey",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            990.0,
+            70.0,
+            1575.0,
+            133.0
+          ],
+          "text": "MANGLAMPLUS MEDICITY",
+          "confidence": 0.7989
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            88.0,
+            709.0,
+            173.0
+          ],
+          "text": "MANGLAMPLUS",
+          "confidence": 0.8938
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            125.0,
+            1286.0,
+            156.0
+          ],
+          "text": "(A Multi-Speciality Hospital)",
+          "confidence": 0.8802
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            153.0,
+            1351.0,
+            184.0
+          ],
+          "text": "Shipra Path, Sector-5, Mansarovar;",
+          "confidence": 0.6807
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            151.0,
+            522.0,
+            230.0
+          ],
+          "text": "MEDICITY",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            180.0,
+            1332.0,
+            210.0
+          ],
+          "text": "Jaipur-302020 (Rajasthan) INDIA",
+          "confidence": 0.6768
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            189.0,
+            219.0,
+            509.0,
+            261.0
+          ],
+          "text": "Your health our priority",
+          "confidence": 0.7661
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            316.0,
+            1122.0,
+            340.0
+          ],
+          "text": "Ambulance",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            342.0,
+            370.0,
+            508.0,
+            396.0
+          ],
+          "text": ":VISHAMBHAR",
+          "confidence": 0.5997
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            388.0,
+            170.0,
+            414.0
+          ],
+          "text": "Name",
+          "confidence": 0.5789
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            652.0,
+            386.0,
+            694.0,
+            412.0
+          ],
+          "text": "No.",
+          "confidence": 0.8471
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            838.0,
+            386.0,
+            968.0,
+            412.0
+          ],
+          "text": ":UHid76507",
+          "confidence": 0.6225
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1089.0,
+            382.0,
+            1266.0,
+            413.0
+          ],
+          "text": "IPDIOPD Status",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            386.0,
+            1386.0,
+            410.0
+          ],
+          "text": "APD",
+          "confidence": 0.6335
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            344.0,
+            404.0,
+            530.0,
+            430.0
+          ],
+          "text": "DAYAL SHARMA",
+          "confidence": 0.7131
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            597.0,
+            436.0,
+            758.0,
+            462.0
+          ],
+          "text": "Accession No.",
+          "confidence": 0.8891
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            433.0,
+            1196.0,
+            466.0
+          ],
+          "text": "Catagory",
+          "confidence": 0.621
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            432.0,
+            1524.0,
+            458.0
+          ],
+          "text": "Vidal health TPA",
+          "confidence": 0.9252
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            454.0,
+            196.0,
+            482.0
+          ],
+          "text": "AgelSex",
+          "confidence": 0.9356
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            342.0,
+            452.0,
+            460.0,
+            478.0
+          ],
+          "text": ":66 YIMale",
+          "confidence": 0.9279
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            595.0,
+            484.0,
+            718.0,
+            512.0
+          ],
+          "text": "IPDIBIII No",
+          "confidence": 0.9393
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            840.0,
+            482.0,
+            980.0,
+            510.0
+          ],
+          "text": "AIP2334692,3",
+          "confidence": 0.6396
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            482.0,
+            1278.0,
+            508.0
+          ],
+          "text": "Location/Bed No",
+          "confidence": 0.9677
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            482.0,
+            1552.0,
+            508.0
+          ],
+          "text": "#SINGLE RoOM,460",
+          "confidence": 0.5763
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            502.0,
+            222.0,
+            528.0
+          ],
+          "text": "consultant",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            342.0,
+            499.0,
+            524.0,
+            528.0
+          ],
+          "text": "#SS SANKHALA",
+          "confidence": 0.5198
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            550.0,
+            474.0,
+            580.0
+          ],
+          "text": "Sample Collected: 24/04/2025 3.56.00 PM",
+          "confidence": 0.3855
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            617.0,
+            549.0,
+            946.0,
+            578.0
+          ],
+          "text": "Accept Time :24042025 3.57;J5 PM",
+          "confidence": 0.3978
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1187.0,
+            547.0,
+            1504.0,
+            577.0
+          ],
+          "text": "Repont Gen; 240422025 5.55406 PM",
+          "confidence": 0.3705
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            695.0,
+            593.0,
+            981.0,
+            635.0
+          ],
+          "text": "BIOCHEMISTRY",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            646.0,
+            234.0,
+            670.0
+          ],
+          "text": "Accession No",
+          "confidence": 0.803
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1403.0,
+            635.0,
+            1546.0,
+            663.0
+          ],
+          "text": "Registeration No",
+          "confidence": 0.8314
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            686.0,
+            218.0,
+            710.0
+          ],
+          "text": "SAMPLE IYPE",
+          "confidence": 0.3783
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            233.0,
+            687.0,
+            299.0,
+            707.0
+          ],
+          "text": "sERUM",
+          "confidence": 0.3601
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            715.0,
+            317.0,
+            751.0
+          ],
+          "text": "Investigations",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            573.0,
+            713.0,
+            665.0,
+            745.0
+          ],
+          "text": "Status",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            820.0,
+            713.0,
+            914.0,
+            745.0
+          ],
+          "text": "Result",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1022.0,
+            714.0,
+            1086.0,
+            744.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9729
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1177.0,
+            713.0,
+            1569.0,
+            751.0
+          ],
+          "text": "Biological Reference Interval",
+          "confidence": 0.7682
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            809.0,
+            521.0,
+            849.0
+          ],
+          "text": "LIVER FUNCTION TEST (LFT)",
+          "confidence": 0.8312
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            861.0,
+            441.0,
+            899.0
+          ],
+          "text": "Serum Bilirubin (Total)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            862.0,
+            884.0,
+            894.0
+          ],
+          "text": "0.39",
+          "confidence": 0.9511
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1025.0,
+            858.0,
+            1106.0,
+            902.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9888
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            862.0,
+            1426.0,
+            892.0
+          ],
+          "text": "0.2-1.3",
+          "confidence": 0.4879
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            911.0,
+            451.0,
+            947.0
+          ],
+          "text": "Serum Bilirubin (Direct)",
+          "confidence": 0.8821
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            912.0,
+            884.0,
+            944.0
+          ],
+          "text": "0.20",
+          "confidence": 0.7152
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1027.0,
+            913.0,
+            1105.0,
+            949.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9617
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            912.0,
+            1426.0,
+            940.0
+          ],
+          "text": "0.0-0.4",
+          "confidence": 0.8287
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            961.0,
+            471.0,
+            997.0
+          ],
+          "text": "Serum Bilirubin (Indirect)",
+          "confidence": 0.9022
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            962.0,
+            884.0,
+            992.0
+          ],
+          "text": "0.19",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            964.0,
+            1104.0,
+            996.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.963
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1334.0,
+            962.0,
+            1426.0,
+            990.0
+          ],
+          "text": "0.0-1.0",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            1009.0,
+            323.0,
+            1047.0
+          ],
+          "text": "SGOT (AST)",
+          "confidence": 0.8301
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            822.0,
+            1012.0,
+            882.0,
+            1040.0
+          ],
+          "text": "21.8",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1012.0,
+            1090.0,
+            1042.0
+          ],
+          "text": "UIL",
+          "confidence": 0.9894
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            1010.0,
+            1422.0,
+            1042.0
+          ],
+          "text": "15-46",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            1061.0,
+            317.0,
+            1097.0
+          ],
+          "text": "SGPT (ALT)",
+          "confidence": 0.9317
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            1062.0,
+            882.0,
+            1092.0
+          ],
+          "text": "28.1",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1062.0,
+            1090.0,
+            1092.0
+          ],
+          "text": "UIL",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1346.0,
+            1062.0,
+            1422.0,
+            1092.0
+          ],
+          "text": "13-45",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1107.0,
+            431.0,
+            1148.0
+          ],
+          "text": "Alkaline Phosphatase",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            1112.0,
+            884.0,
+            1142.0
+          ],
+          "text": "62.0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1040.0,
+            1112.0,
+            1090.0,
+            1142.0
+          ],
+          "text": "UIL",
+          "confidence": 0.9858
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            1110.0,
+            1430.0,
+            1142.0
+          ],
+          "text": "38-126",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1162.0,
+            320.0,
+            1194.0
+          ],
+          "text": "Total Protein",
+          "confidence": 0.7344
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            1162.0,
+            886.0,
+            1192.0
+          ],
+          "text": "6.33",
+          "confidence": 0.9503
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1033.0,
+            1161.0,
+            1097.0,
+            1199.0
+          ],
+          "text": "gldL",
+          "confidence": 0.9602
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1335.0,
+            1161.0,
+            1427.0,
+            1189.0
+          ],
+          "text": "6.3-8.2",
+          "confidence": 0.6397
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1212.0,
+            264.0,
+            1242.0
+          ],
+          "text": "Albumin",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            1212.0,
+            888.0,
+            1242.0
+          ],
+          "text": "4.15",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1039.0,
+            1211.0,
+            1095.0,
+            1249.0
+          ],
+          "text": "gldl",
+          "confidence": 0.9852
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            1212.0,
+            1430.0,
+            1242.0
+          ],
+          "text": "3.5-5.0",
+          "confidence": 0.7435
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1262.0,
+            266.0,
+            1292.0
+          ],
+          "text": "Globulin",
+          "confidence": 0.909
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            1262.0,
+            886.0,
+            1292.0
+          ],
+          "text": "2.18",
+          "confidence": 0.8623
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1039.0,
+            1261.0,
+            1095.0,
+            1299.0
+          ],
+          "text": "gldl",
+          "confidence": 0.9552
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1360.0,
+            1262.0,
+            1408.0,
+            1292.0
+          ],
+          "text": "05",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            157.0,
+            1309.0,
+            449.0,
+            1345.0
+          ],
+          "text": "Albumin Globulin Ratio",
+          "confidence": 0.9138
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1312.0,
+            888.0,
+            1344.0
+          ],
+          "text": "1.90",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1032.0,
+            1312.0,
+            1104.0,
+            1344.0
+          ],
+          "text": "Ratio",
+          "confidence": 0.9621
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            1338.0,
+            1312.0,
+            1430.0,
+            1342.0
+          ],
+          "text": "1.0-2.3",
+          "confidence": 0.7747
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            109.0,
+            1375.0,
+            1555.0,
+            1415.0
+          ],
+          "text": "iver enzyme tests, formerly called Liver Function Test (LFTs), are a group of blood tests that detect inflammation and",
+          "confidence": 0.4657
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            1457.0,
+            1343.0,
+            1500.0
+          ],
+          "text": "test: Many doctors check the liver in new patients or during annual physicals examination:",
+          "confidence": 0.7578
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            1501.0,
+            897.0,
+            1542.0
+          ],
+          "text": "iver tests may be done together in a panel or tested separately:",
+          "confidence": 0.7137
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            1544.0,
+            1487.0,
+            1586.0
+          ],
+          "text": "The liver filters and processes blood as it circulates through the body: It metabolizes nutrients, detoxifies harmful",
+          "confidence": 0.6723
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            1584.0,
+            1591.0,
+            1628.0
+          ],
+          "text": "substances, makes blood clotting proteins, and performs many other vital functions. The cells in the liver contain proteins",
+          "confidence": 0.7048
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            1631.0,
+            943.0,
+            1667.0
+          ],
+          "text": "called enzymes that drive these chemical reactions. When liver cells",
+          "confidence": 0.5143
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1676.0,
+            466.0,
+            1706.0
+          ],
+          "text": "leak out into the blood, where",
+          "confidence": 0.8591
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            528.0,
+            1676.0,
+            620.0,
+            1706.0
+          ],
+          "text": "can be",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            1717.0,
+            413.0,
+            1753.0
+          ],
+          "text": "measured by blood tests:",
+          "confidence": 0.9118
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            1782.0,
+            942.0,
+            1806.0
+          ],
+          "text": "End ot Ropon",
+          "confidence": 0.4471
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            509.0,
+            2259.0,
+            1012.0,
+            2311.0
+          ],
+          "text": "Manglamplus Medicity LLP (LLPIN",
+          "confidence": 0.989
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            1029.0,
+            2261.0,
+            1191.0,
+            2299.0
+          ],
+          "text": "AAX-7366)",
+          "confidence": 0.9516
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1376.0,
+            2274.0,
+            1582.0,
+            2302.0
+          ],
+          "text": "Dr. PRITI SINGHAL",
+          "confidence": 0.6386
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            594.0927084782312,
+            384.1638810551212,
+            654.9072915217688,
+            418.8361189448788
+          ],
+          "text": "Reg:",
+          "confidence": 0.9042
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            461.2236330056886,
+            1671.162537993715,
+            531.7763669943114,
+            1712.837462006285
+          ],
+          "text": "they",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "MANGLAMPLUS MEDICITY\nMANGLAMPLUS\n(A Multi-Speciality Hospital)\nShipra Path, Sector-5, Mansarovar;\nMEDICITY\nJaipur-302020 (Rajasthan) INDIA\nYour health our priority\nAmbulance\n:VISHAMBHAR\nName\nNo.\n:UHid76507\nIPDIOPD Status\nAPD\nDAYAL SHARMA\nAccession No.\nCatagory\nVidal health TPA\nAgelSex\n:66 YIMale\nIPDIBIII No\nAIP2334692,3\nLocation/Bed No\n#SINGLE RoOM,460\nconsultant\n#SS SANKHALA\nSample Collected: 24/04/2025 3.56.00 PM\nAccept Time :24042025 3.57;J5 PM\nRepont Gen; 240422025 5.55406 PM\nBIOCHEMISTRY\nAccession No\nRegisteration No\nSAMPLE IYPE\nsERUM\nInvestigations\nStatus\nResult\nUnit\nBiological Reference Interval\nLIVER FUNCTION TEST (LFT)\nSerum Bilirubin (Total)\n0.39\nmgldl\n0.2-1.3\nSerum Bilirubin (Direct)\n0.20\nmgldl\n0.0-0.4\nSerum Bilirubin (Indirect)\n0.19\nmgldl\n0.0-1.0\nSGOT (AST)\n21.8\nUIL\n15-46\nSGPT (ALT)\n28.1\nUIL\n13-45\nAlkaline Phosphatase\n62.0\nUIL\n38-126\nTotal Protein\n6.33\ngldL\n6.3-8.2\nAlbumin\n4.15\ngldl\n3.5-5.0\nGlobulin\n2.18\ngldl\n05\nAlbumin Globulin Ratio\n1.90\nRatio\n1.0-2.3\niver enzyme tests, formerly called Liver Function Test (LFTs), are a group of blood tests that detect inflammation and\ntest: Many doctors check the liver in new patients or during annual physicals examination:\niver tests may be done together in a panel or tested separately:\nThe liver filters and processes blood as it circulates through the body: It metabolizes nutrients, detoxifies harmful\nsubstances, makes blood clotting proteins, and performs many other vital functions. The cells in the liver contain proteins\ncalled enzymes that drive these chemical reactions. When liver cells\nleak out into the blood, where\ncan be\nmeasured by blood tests:\nEnd ot Ropon\nManglamplus Medicity LLP (LLPIN\nAAX-7366)\nDr. PRITI SINGHAL\nReg:\nthey",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Shipra Path, Sector",
+          "biomarker_normalized": "Shipra Path, Sector",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Shipra Path, Sector-5, Mansarovar;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Jaipur",
+          "biomarker_normalized": "Jaipur",
+          "value": "302020",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Jaipur-302020 (Rajasthan) INDIA",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "UHid7",
+          "biomarker_normalized": "UHid7",
+          "value": "6507",
+          "unit": "",
+          "reference_range": "",
+          "source_line": ":UHid76507",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AIP2",
+          "biomarker_normalized": "AIP2",
+          "value": "334692",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AIP2334692,3",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "#SINGLE RoOM,",
+          "biomarker_normalized": "#SINGLE RoOM,",
+          "value": "460",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "#SINGLE RoOM,460",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Sample Collected",
+          "biomarker_normalized": "Sample Collected",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sample Collected: 24/04/2025 3.56.00 PM",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Accept Time",
+          "biomarker_normalized": "Accept Time",
+          "value": "24042025",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Accept Time :24042025 3.57;J5 PM",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Repont Gen;",
+          "biomarker_normalized": "Repont Gen;",
+          "value": "240422025",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Repont Gen; 240422025 5.55406 PM",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "AAX",
+          "biomarker_normalized": "AAX",
+          "value": "7366",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AAX-7366)",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 95,
+    "ocr_avg_confidence": 0.8321,
+    "parsed_row_count": 9
+  }
+}

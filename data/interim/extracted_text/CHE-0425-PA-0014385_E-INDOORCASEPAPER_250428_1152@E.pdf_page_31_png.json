@@ -1,0 +1,639 @@
+{
+  "document_id": "CHE-0425-PA-0014385_E-INDOORCASEPAPER_250428_1152@E.pdf_page_31",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014385_E-INDOORCASEPAPER_250428_1152@E.pdf_page_31.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "WhNt\nSURENDRA\nMULTIsPECiALiTY hospital\n9, Impotlal Road Cucdalorg\n607. 002,\n#5vu4/001010\nMIRN\n(3uCO\nLb No\nIP/OF' No :I/60002 |0\nCollenctecl (l\n(16) Am\nJAYARAMAN MK'\nEutient\nP'agio\n0i\nFlal Ropor\nTest Description\nRosull\nUnlte\nBlologlcal Roloronco Rewngo\nSpecimen\nHOCHEMISIRY\nYIcs\n130,0 imino/l\n130\n146\nS,SODIUM\nUL\nPOTASSIUM\n3.24 MMol/l\n3\n6,0\nS\nMil\nS CilORil\n107,5 imolll\n05\n100\n(L\nEId of Roport--\nC\nRockezzy*,\n236992\n237333 Cell\n91500 23851\n52\nWemol\n'\nLOreihcst",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            601.0,
+            0.0,
+            719.0,
+            15.0
+          ],
+          "text": "WhNt",
+          "confidence": 0.006
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            181.0,
+            1594.0,
+            283.0
+          ],
+          "text": "SURENDRA",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            269.0,
+            1595.0,
+            330.0
+          ],
+          "text": "MULTIsPECiALiTY hospital",
+          "confidence": 0.1668
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1042.0,
+            358.0,
+            1414.0,
+            407.0
+          ],
+          "text": "9, Impotlal Road Cucdalorg",
+          "confidence": 0.4366
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1427.0,
+            355.0,
+            1543.0,
+            395.0
+          ],
+          "text": "607. 002,",
+          "confidence": 0.5036
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            227.0,
+            453.0,
+            408.0,
+            498.0
+          ],
+          "text": "#5vu4/001010",
+          "confidence": 0.0892
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            755.0,
+            447.0,
+            830.0,
+            485.0
+          ],
+          "text": "MIRN",
+          "confidence": 0.7749
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            892.0,
+            448.0,
+            982.0,
+            480.0
+          ],
+          "text": "(3uCO",
+          "confidence": 0.0538
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            81.0,
+            475.0,
+            181.0,
+            513.0
+          ],
+          "text": "Lb No",
+          "confidence": 0.3169
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            483.0,
+            1065.0,
+            525.0
+          ],
+          "text": "IP/OF' No :I/60002 |0",
+          "confidence": 0.1035
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1139.0,
+            481.0,
+            1302.0,
+            514.0
+          ],
+          "text": "Collenctecl (l",
+          "confidence": 0.2114
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1468.0,
+            472.0,
+            1546.0,
+            500.0
+          ],
+          "text": "(16) Am",
+          "confidence": 0.2224
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            220.0,
+            490.0,
+            459.0,
+            541.0
+          ],
+          "text": "JAYARAMAN MK'",
+          "confidence": 0.6043
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            514.0,
+            178.0,
+            552.0
+          ],
+          "text": "Eutient",
+          "confidence": 0.2181
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1385.0,
+            593.0,
+            1450.0,
+            623.0
+          ],
+          "text": "P'agio",
+          "confidence": 0.0443
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1470.0,
+            594.0,
+            1500.0,
+            618.0
+          ],
+          "text": "0i",
+          "confidence": 0.3354
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            713.0,
+            639.0,
+            891.0,
+            675.0
+          ],
+          "text": "Flal Ropor",
+          "confidence": 0.7736
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            257.0,
+            691.0,
+            513.0,
+            733.0
+          ],
+          "text": "Test Description",
+          "confidence": 0.7907
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            690.0,
+            855.0,
+            730.0
+          ],
+          "text": "Rosull",
+          "confidence": 0.7674
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            873.0,
+            689.0,
+            961.0,
+            727.0
+          ],
+          "text": "Unlte",
+          "confidence": 0.7353
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1063.0,
+            676.0,
+            1514.0,
+            728.0
+          ],
+          "text": "Blologlcal Roloronco Rewngo",
+          "confidence": 0.3539
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            699.0,
+            236.0,
+            755.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.7674
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            745.0,
+            295.0,
+            801.0
+          ],
+          "text": "HOCHEMISIRY",
+          "confidence": 0.2098
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            194.0,
+            788.0,
+            258.0,
+            818.0
+          ],
+          "text": "YIcs",
+          "confidence": 0.2572
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            809.0,
+            916.0,
+            842.0
+          ],
+          "text": "130,0 imino/l",
+          "confidence": 0.5246
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1184.0,
+            804.0,
+            1236.0,
+            834.0
+          ],
+          "text": "130",
+          "confidence": 0.8101
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1249.0,
+            797.0,
+            1308.0,
+            833.0
+          ],
+          "text": "146",
+          "confidence": 0.9709
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            251.0,
+            816.0,
+            387.0,
+            852.0
+          ],
+          "text": "S,SODIUM",
+          "confidence": 0.6
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            838.0,
+            114.0,
+            862.0
+          ],
+          "text": "UL",
+          "confidence": 0.2895
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            857.0,
+            435.0,
+            897.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.8314
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            856.0,
+            900.0,
+            886.0
+          ],
+          "text": "3.24 MMol/l",
+          "confidence": 0.1803
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            850.0,
+            1228.0,
+            878.0
+          ],
+          "text": "3",
+          "confidence": 0.9681
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1242.0,
+            846.0,
+            1288.0,
+            876.0
+          ],
+          "text": "6,0",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            868.0,
+            278.0,
+            896.0
+          ],
+          "text": "S",
+          "confidence": 0.4767
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            882.0,
+            114.0,
+            906.0
+          ],
+          "text": "Mil",
+          "confidence": 0.3315
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            250.0,
+            908.0,
+            414.0,
+            938.0
+          ],
+          "text": "S CilORil",
+          "confidence": 0.1119
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            900.0,
+            914.0,
+            932.0
+          ],
+          "text": "107,5 imolll",
+          "confidence": 0.3508
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1180.0,
+            894.0,
+            1220.0,
+            924.0
+          ],
+          "text": "05",
+          "confidence": 0.7486
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            890.0,
+            1288.0,
+            922.0
+          ],
+          "text": "100",
+          "confidence": 0.916
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            82.0,
+            926.0,
+            112.0,
+            950.0
+          ],
+          "text": "(L",
+          "confidence": 0.7985
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            712.0,
+            943.0,
+            884.0,
+            973.0
+          ],
+          "text": "EId of Roport--",
+          "confidence": 0.5181
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            2028.0,
+            1224.0,
+            2054.0
+          ],
+          "text": "C",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            1986.0,
+            1414.0,
+            2063.0
+          ],
+          "text": "Rockezzy*,",
+          "confidence": 0.0614
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            53.0,
+            2245.0,
+            161.0,
+            2281.0
+          ],
+          "text": "236992",
+          "confidence": 0.4688
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            175.0,
+            2247.0,
+            367.0,
+            2296.0
+          ],
+          "text": "237333 Cell",
+          "confidence": 0.7176
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            381.0,
+            2257.0,
+            583.0,
+            2297.0
+          ],
+          "text": "91500 23851",
+          "confidence": 0.995
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            605.0,
+            2259.0,
+            656.0,
+            2300.0
+          ],
+          "text": "52",
+          "confidence": 0.8065
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            78.07944680100655,
+            789.0978395928297,
+            196.92055319899345,
+            825.9021604071703
+          ],
+          "text": "Wemol",
+          "confidence": 0.3917
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            789.5168943256006,
+            1069.0163620437859,
+            870.4831056743994,
+            1228.9836379562141
+          ],
+          "text": "'",
+          "confidence": 0.2154
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            591.0919706611218,
+            1983.0429432739202,
+            844.9080293388782,
+            2102.95705672608
+          ],
+          "text": "LOreihcst",
+          "confidence": 0.1281
+        }
+      ]
+    }
+  ],
+  "full_text": "WhNt\nSURENDRA\nMULTIsPECiALiTY hospital\n9, Impotlal Road Cucdalorg\n607. 002,\n#5vu4/001010\nMIRN\n(3uCO\nLb No\nIP/OF' No :I/60002 |0\nCollenctecl (l\n(16) Am\nJAYARAMAN MK'\nEutient\nP'agio\n0i\nFlal Ropor\nTest Description\nRosull\nUnlte\nBlologlcal Roloronco Rewngo\nSpecimen\nHOCHEMISIRY\nYIcs\n130,0 imino/l\n130\n146\nS,SODIUM\nUL\nPOTASSIUM\n3.24 MMol/l\n3\n6,0\nS\nMil\nS CilORil\n107,5 imolll\n05\n100\n(L\nEId of Roport--\nC\nRockezzy*,\n236992\n237333 Cell\n91500 23851\n52\nWemol\n'\nLOreihcst",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "IP/OF' No :I/",
+          "biomarker_normalized": "IP/OF' No :I/",
+          "value": "60002",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IP/OF' No :I/60002 |0",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 50,
+    "ocr_avg_confidence": 0.4989,
+    "parsed_row_count": 1
+  }
+}

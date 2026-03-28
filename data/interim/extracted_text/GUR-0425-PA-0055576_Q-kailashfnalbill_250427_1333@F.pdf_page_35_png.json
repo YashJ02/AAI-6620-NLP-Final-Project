@@ -1,0 +1,657 @@
+{
+  "document_id": "GUR-0425-PA-0055576_Q-kailashfnalbill_250427_1333@F.pdf_page_35",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055576_Q-kailashfnalbill_250427_1333@F.pdf_page_35.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Vedanta Path Labs\nDro Vshal Yadav\nConsultant Pathologist\nNear Nirankari Bhawan, Circular Road\nDharuhera Chungi, Rewari-123401 (Hr:)\ne-reports\nMob::|\nDate\nSNo.\n211\nPatient's\nReferred\nVedanta Hospital\nZ=\nTEST\nSEROLOGY\nRA. FACTOR\nNegative\nNote:\nGives usefiil objective evidence of RA, but a negative test does not rule out RA.\nNegative in a third of patients with definite RA\nPositive result in < 50%\nfirst 6 months of disease.\nSensitivity\n50\n75%/\nSpecificity\n75\n90%.\n{End of Report}-zrzr=\nMedi /al\nJerintendent\nVEDI\nNS\nOSPITAL\nNear Nianzari Ehawan\nCircular Roed, Rewari\n0\nElr; Vishal Veccv\nXBS\nsultant Pethoiogi Vech Signatory\nNOT VALID FOR MEDICO LEGAL PURPOSES\n31\nIxr\nduring\n3\n6\nL\nALot\n1",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            46.0,
+            856.0,
+            127.0
+          ],
+          "text": "Vedanta Path Labs",
+          "confidence": 0.9064
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            982.0,
+            40.0,
+            1338.0,
+            94.0
+          ],
+          "text": "Dro Vshal Yadav",
+          "confidence": 0.5869
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            985.0,
+            93.0,
+            1317.0,
+            136.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            143.0,
+            602.0,
+            176.0
+          ],
+          "text": "Near Nirankari Bhawan, Circular Road",
+          "confidence": 0.8233
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            177.0,
+            621.0,
+            218.0
+          ],
+          "text": "Dharuhera Chungi, Rewari-123401 (Hr:)",
+          "confidence": 0.9846
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1080.0,
+            156.0,
+            1349.0,
+            233.0
+          ],
+          "text": "e-reports",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            216.0,
+            180.0,
+            248.0
+          ],
+          "text": "Mob::|",
+          "confidence": 0.2604
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            352.0,
+            198.0,
+            384.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1048.0,
+            366.0,
+            1112.0,
+            398.0
+          ],
+          "text": "SNo.",
+          "confidence": 0.532
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            370.0,
+            1280.0,
+            402.0
+          ],
+          "text": "211",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            404.0,
+            242.0,
+            436.0
+          ],
+          "text": "Patient's",
+          "confidence": 0.8966
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            132.0,
+            454.0,
+            242.0,
+            486.0
+          ],
+          "text": "Referred",
+          "confidence": 0.9918
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            360.0,
+            453.0,
+            579.0,
+            495.0
+          ],
+          "text": "Vedanta Hospital",
+          "confidence": 0.9074
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1060.0,
+            402.0,
+            1434.0,
+            570.0
+          ],
+          "text": "Z=",
+          "confidence": 0.2065
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            506.0,
+            208.0,
+            538.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            750.0,
+            565.0,
+            911.0,
+            603.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            130.0,
+            596.0,
+            293.0,
+            627.0
+          ],
+          "text": "RA. FACTOR",
+          "confidence": 0.8805
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            600.0,
+            739.0,
+            643.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            680.0,
+            196.0,
+            711.0
+          ],
+          "text": "Note:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            715.0,
+            1011.0,
+            760.0
+          ],
+          "text": "Gives usefiil objective evidence of RA, but a negative test does not rule out RA.",
+          "confidence": 0.4868
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            746.0,
+            653.0,
+            787.0
+          ],
+          "text": "Negative in a third of patients with definite RA",
+          "confidence": 0.9351
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            782.0,
+            396.0,
+            814.0
+          ],
+          "text": "Positive result in < 50%",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            469.0,
+            785.0,
+            759.0,
+            821.0
+          ],
+          "text": "first 6 months of disease.",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            811.0,
+            250.0,
+            851.0
+          ],
+          "text": "Sensitivity",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            818.0,
+            296.0,
+            848.0
+          ],
+          "text": "50",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            310.0,
+            818.0,
+            370.0,
+            848.0
+          ],
+          "text": "75%/",
+          "confidence": 0.4058
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            397.0,
+            817.0,
+            527.0,
+            855.0
+          ],
+          "text": "Specificity",
+          "confidence": 0.995
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            540.0,
+            820.0,
+            576.0,
+            850.0
+          ],
+          "text": "75",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            590.0,
+            822.0,
+            656.0,
+            852.0
+          ],
+          "text": "90%.",
+          "confidence": 0.9843
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            757.0,
+            924.0,
+            1015.0,
+            961.0
+          ],
+          "text": "{End of Report}-zrzr=",
+          "confidence": 0.0754
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1211.0,
+            1769.0,
+            1331.0,
+            1811.0
+          ],
+          "text": "Medi /al",
+          "confidence": 0.7326
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1363.0,
+            1750.0,
+            1542.0,
+            1803.0
+          ],
+          "text": "Jerintendent",
+          "confidence": 0.7508
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1215.0,
+            1803.0,
+            1293.0,
+            1846.0
+          ],
+          "text": "VEDI",
+          "confidence": 0.2277
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1308.0,
+            1804.0,
+            1338.0,
+            1832.0
+          ],
+          "text": "NS",
+          "confidence": 0.1594
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1371.0,
+            1782.0,
+            1544.0,
+            1838.0
+          ],
+          "text": "OSPITAL",
+          "confidence": 0.7487
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1218.0,
+            1823.0,
+            1544.0,
+            1878.0
+          ],
+          "text": "Near Nianzari Ehawan",
+          "confidence": 0.3126
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1227.0,
+            1850.0,
+            1539.0,
+            1912.0
+          ],
+          "text": "Circular Roed, Rewari",
+          "confidence": 0.5575
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            749.0,
+            2115.0,
+            765.0,
+            2145.0
+          ],
+          "text": "0",
+          "confidence": 0.2144
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1048.0,
+            2112.0,
+            1323.0,
+            2163.0
+          ],
+          "text": "Elr; Vishal Veccv",
+          "confidence": 0.1681
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            789.0,
+            2143.0,
+            829.0,
+            2163.0
+          ],
+          "text": "XBS",
+          "confidence": 0.347
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            2157.0,
+            1528.0,
+            2212.0
+          ],
+          "text": "sultant Pethoiogi Vech Signatory",
+          "confidence": 0.4583
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            530.0,
+            2235.0,
+            1092.0,
+            2268.0
+          ],
+          "text": "NOT VALID FOR MEDICO LEGAL PURPOSES",
+          "confidence": 0.8675
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            801.0,
+            2263.0,
+            879.0,
+            2323.0
+          ],
+          "text": "31",
+          "confidence": 0.9898
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            727.0000502722872,
+            668.0140126691716,
+            1212.9999497277126,
+            974.9859873308284
+          ],
+          "text": "Ixr",
+          "confidence": 0.0014
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            391.1398470631944,
+            778.1253445358238,
+            479.8601529368056,
+            824.8746554641762
+          ],
+          "text": "during",
+          "confidence": 0.613
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            210.17950127406712,
+            815.0032335815025,
+            574.8204987259329,
+            1500.9967664184976
+          ],
+          "text": "3",
+          "confidence": 0.0247
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1155.5239444410743,
+            914.2562576023921,
+            1369.4760555589257,
+            1417.743742397608
+          ],
+          "text": "6",
+          "confidence": 0.3667
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            568.2054488632078,
+            979.3796656794893,
+            1223.7945511367923,
+            1527.6203343205107
+          ],
+          "text": "L",
+          "confidence": 0.5419
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            789.0295764903607,
+            2071.211145618,
+            838.9704235096393,
+            2094.788854382
+          ],
+          "text": "ALot",
+          "confidence": 0.0088
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            853.6636636030019,
+            2106.0384760523593,
+            875.3363363969981,
+            2142.9615239476407
+          ],
+          "text": "1",
+          "confidence": 0.1583
+        }
+      ]
+    }
+  ],
+  "full_text": "Vedanta Path Labs\nDro Vshal Yadav\nConsultant Pathologist\nNear Nirankari Bhawan, Circular Road\nDharuhera Chungi, Rewari-123401 (Hr:)\ne-reports\nMob::|\nDate\nSNo.\n211\nPatient's\nReferred\nVedanta Hospital\nZ=\nTEST\nSEROLOGY\nRA. FACTOR\nNegative\nNote:\nGives usefiil objective evidence of RA, but a negative test does not rule out RA.\nNegative in a third of patients with definite RA\nPositive result in < 50%\nfirst 6 months of disease.\nSensitivity\n50\n75%/\nSpecificity\n75\n90%.\n{End of Report}-zrzr=\nMedi /al\nJerintendent\nVEDI\nNS\nOSPITAL\nNear Nianzari Ehawan\nCircular Roed, Rewari\n0\nElr; Vishal Veccv\nXBS\nsultant Pethoiogi Vech Signatory\nNOT VALID FOR MEDICO LEGAL PURPOSES\n31\nIxr\nduring\n3\n6\nL\nALot\n1",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Dharuhera Chungi, Rewari",
+          "biomarker_normalized": "Dharuhera Chungi, Rewari",
+          "value": "123401",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Dharuhera Chungi, Rewari-123401 (Hr:)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Positive result in <",
+          "biomarker_normalized": "Positive result in <",
+          "value": "50",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Positive result in < 50%",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "first",
+          "biomarker_normalized": "first",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "first 6 months of disease.",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 50,
+    "ocr_avg_confidence": 0.6619,
+    "parsed_row_count": 3
+  }
+}

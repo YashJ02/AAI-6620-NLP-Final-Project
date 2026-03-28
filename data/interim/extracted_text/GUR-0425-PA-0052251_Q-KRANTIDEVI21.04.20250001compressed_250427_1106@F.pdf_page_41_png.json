@@ -1,0 +1,837 @@
+{
+  "document_id": "GUR-0425-PA-0052251_Q-KRANTIDEVI21.04.20250001compressed_250427_1106@F.pdf_page_41",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0052251_Q-KRANTIDEVI21.04.20250001compressed_250427_1106@F.pdf_page_41.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "0\nSWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n76 Skitl 7 #eal\n76e Spendr 7 Care\nPatient Id\nSrl No.\n150\nDate\nSWASTIK HOSPITAL\nTest\nHAEMATOLOGY\nESR (WESTEGREN s METHOD)\n32\nmmllst hr\n0\n20\nVIRAL MARKER\nHIV (AIDS) ANTIBODY | & Il\nANTIBODY TEST FOR\nHIV\n1& Il :\nNON-REACTIVE\nCOMMENTS\nHIV Elisa iS a\nscrcening procedure\nPositive specimens\nshould be retested using another method before diagnosis.\nHBsAG\nNEGATIVE\nCHROMATOGRAPHY\nANTI HCV\nRESULT\nNON REACTIVE\nCQMMENTS\nHevatitis Coirus (HCV) has been identified as the main etiological\n0f Non A\nNon B hepatitis accounting for 80-90 cases of transfusion\nhepatitis cases\nHCV Is transmitted primarily through parenteral\nHCV antibodies have been found in patients with acute or chronic forms\nDr; Vouesh k/iar Chahar\nMD (lekalLrcicvie)\nDr CYa\nDMc\nMP\nR/06131\nRGJRH\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAll Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAll TPA & Insurance\nComputerised Lab\nH2Sp\nVAT\nNC.\nCKC\nL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            51.0,
+            197.0,
+            167.0
+          ],
+          "text": "0",
+          "confidence": 0.1185
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            274.0,
+            49.0,
+            1387.0,
+            157.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.7954
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            156.0,
+            1068.0,
+            209.0
+          ],
+          "text": "Jhajjar Road, Bahadurgarh",
+          "confidence": 0.8958
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            84.0,
+            256.0,
+            282.0,
+            284.0
+          ],
+          "text": "76 Skitl 7 #eal",
+          "confidence": 0.4545
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            76.0,
+            284.0,
+            286.0,
+            316.0
+          ],
+          "text": "76e Spendr 7 Care",
+          "confidence": 0.3556
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            448.0,
+            292.0,
+            478.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.8241
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            650.0,
+            452.0,
+            746.0,
+            482.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.926
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            454.0,
+            842.0,
+            484.0
+          ],
+          "text": "150",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1019.0,
+            455.0,
+            1093.0,
+            491.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            299.0,
+            529.0,
+            580.0,
+            562.0
+          ],
+          "text": "SWASTIK HOSPITAL",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            616.0,
+            174.0,
+            642.0
+          ],
+          "text": "Test",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            639.0,
+            724.0,
+            992.0,
+            778.0
+          ],
+          "text": "HAEMATOLOGY",
+          "confidence": 0.9384
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            823.0,
+            601.0,
+            867.0
+          ],
+          "text": "ESR (WESTEGREN s METHOD)",
+          "confidence": 0.5875
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            716.0,
+            836.0,
+            756.0,
+            868.0
+          ],
+          "text": "32",
+          "confidence": 0.9853
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            915.0,
+            837.0,
+            1057.0,
+            873.0
+          ],
+          "text": "mmllst hr",
+          "confidence": 0.836
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1176.0,
+            842.0,
+            1204.0,
+            874.0
+          ],
+          "text": "0",
+          "confidence": 0.9313
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            841.0,
+            1263.0,
+            877.0
+          ],
+          "text": "20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            876.0,
+            349.0,
+            912.0
+          ],
+          "text": "VIRAL MARKER",
+          "confidence": 0.9349
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            929.0,
+            527.0,
+            970.0
+          ],
+          "text": "HIV (AIDS) ANTIBODY | & Il",
+          "confidence": 0.8202
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            982.0,
+            448.0,
+            1014.0
+          ],
+          "text": "ANTIBODY TEST FOR",
+          "confidence": 0.9749
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            458.0,
+            986.0,
+            510.0,
+            1016.0
+          ],
+          "text": "HIV",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            537.0,
+            986.0,
+            628.0,
+            1018.0
+          ],
+          "text": "1& Il :",
+          "confidence": 0.3781
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            712.0,
+            988.0,
+            931.0,
+            1026.0
+          ],
+          "text": "NON-REACTIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1041.0,
+            321.0,
+            1078.0
+          ],
+          "text": "COMMENTS",
+          "confidence": 0.9816
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1108.0,
+            318.0,
+            1140.0
+          ],
+          "text": "HIV Elisa iS a",
+          "confidence": 0.5639
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            317.0,
+            1104.0,
+            581.0,
+            1147.0
+          ],
+          "text": "scrcening procedure",
+          "confidence": 0.7304
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            589.0,
+            1115.0,
+            833.0,
+            1151.0
+          ],
+          "text": "Positive specimens",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1136.0,
+            872.0,
+            1190.0
+          ],
+          "text": "should be retested using another method before diagnosis.",
+          "confidence": 0.8303
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1284.0,
+            234.0,
+            1316.0
+          ],
+          "text": "HBsAG",
+          "confidence": 0.9854
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            1293.0,
+            867.0,
+            1335.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1315.0,
+            401.0,
+            1354.0
+          ],
+          "text": "CHROMATOGRAPHY",
+          "confidence": 0.8457
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1364.0,
+            275.0,
+            1403.0
+          ],
+          "text": "ANTI HCV",
+          "confidence": 0.9314
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1418.0,
+            260.0,
+            1448.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            377.0,
+            1423.0,
+            595.0,
+            1459.0
+          ],
+          "text": "NON REACTIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1511.0,
+            311.0,
+            1549.0
+          ],
+          "text": "CQMMENTS",
+          "confidence": 0.6153
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            1576.0,
+            975.0,
+            1640.0
+          ],
+          "text": "Hevatitis Coirus (HCV) has been identified as the main etiological",
+          "confidence": 0.5469
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            1612.0,
+            250.0,
+            1642.0
+          ],
+          "text": "0f Non A",
+          "confidence": 0.6025
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            1612.0,
+            974.0,
+            1664.0
+          ],
+          "text": "Non B hepatitis accounting for 80-90 cases of transfusion",
+          "confidence": 0.6564
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            1640.0,
+            327.0,
+            1678.0
+          ],
+          "text": "hepatitis cases",
+          "confidence": 0.8984
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            342.0,
+            1646.0,
+            928.0,
+            1694.0
+          ],
+          "text": "HCV Is transmitted primarily through parenteral",
+          "confidence": 0.8644
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            1672.0,
+            1020.0,
+            1726.0
+          ],
+          "text": "HCV antibodies have been found in patients with acute or chronic forms",
+          "confidence": 0.8515
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            575.0,
+            1773.0,
+            962.0,
+            1840.0
+          ],
+          "text": "Dr; Vouesh k/iar Chahar",
+          "confidence": 0.3089
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            1825.0,
+            960.0,
+            1885.0
+          ],
+          "text": "MD (lekalLrcicvie)",
+          "confidence": 0.2263
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            1807.0,
+            1287.0,
+            1871.0
+          ],
+          "text": "Dr CYa",
+          "confidence": 0.3926
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            693.0,
+            1868.0,
+            774.0,
+            1910.0
+          ],
+          "text": "DMc",
+          "confidence": 0.3957
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1164.0,
+            1855.0,
+            1235.0,
+            1897.0
+          ],
+          "text": "MP",
+          "confidence": 0.156
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            826.0,
+            1876.0,
+            955.0,
+            1925.0
+          ],
+          "text": "R/06131",
+          "confidence": 0.7977
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            1940.0,
+            267.0,
+            1982.0
+          ],
+          "text": "RGJRH",
+          "confidence": 0.1256
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            61.0,
+            2029.0,
+            235.0,
+            2069.0
+          ],
+          "text": "On Panel",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1295.0,
+            2043.0,
+            1547.0,
+            2080.0
+          ],
+          "text": "3DI4D Ultrasound",
+          "confidence": 0.9085
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            57.0,
+            2076.0,
+            359.0,
+            2115.0
+          ],
+          "text": "Haryana Government",
+          "confidence": 0.9565
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            2080.0,
+            1226.0,
+            2130.0
+          ],
+          "text": "All Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.6429
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1294.0,
+            2083.0,
+            1497.0,
+            2121.0
+          ],
+          "text": "Color Doppler",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            59.0,
+            2113.0,
+            317.0,
+            2150.0
+          ],
+          "text": "Delhi Government",
+          "confidence": 0.9792
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            2124.0,
+            1418.0,
+            2154.0
+          ],
+          "text": "CT-Scan",
+          "confidence": 0.9855
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            2154.0,
+            274.0,
+            2186.0
+          ],
+          "text": "Delhi Jal Board",
+          "confidence": 0.8479
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            2164.0,
+            1114.0,
+            2212.0
+          ],
+          "text": "NOT FOR MEDICO LEGAL PURPOSE",
+          "confidence": 0.9595
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1294.0,
+            2161.0,
+            1482.0,
+            2202.0
+          ],
+          "text": "Digital X-Ray",
+          "confidence": 0.9698
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            55.0,
+            2191.0,
+            337.0,
+            2230.0
+          ],
+          "text": "All TPA & Insurance",
+          "confidence": 0.9707
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1292.0,
+            2202.0,
+            1555.0,
+            2240.0
+          ],
+          "text": "Computerised Lab",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            230.05642247887616,
+            1758.0350586290253,
+            338.9435775211238,
+            1851.9649413709747
+          ],
+          "text": "H2Sp",
+          "confidence": 0.1878
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1365.213621794411,
+            1840.0866917312576,
+            1470.786378205589,
+            1902.9133082687424
+          ],
+          "text": "VAT",
+          "confidence": 0.1556
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            769.3234198799278,
+            1873.1459283614802,
+            832.6765801200722,
+            1916.8540716385198
+          ],
+          "text": "NC.",
+          "confidence": 0.5573
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1155.042275052657,
+            1886.0747450012914,
+            1278.957724947343,
+            1944.9252549987086
+          ],
+          "text": "CKC",
+          "confidence": 0.054
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1270.1557227842804,
+            1909.1317018509494,
+            1357.8442772157196,
+            1954.8682981490506
+          ],
+          "text": "L",
+          "confidence": 0.5487
+        }
+      ]
+    }
+  ],
+  "full_text": "0\nSWASTIK HOSPITAL\nJhajjar Road, Bahadurgarh\n76 Skitl 7 #eal\n76e Spendr 7 Care\nPatient Id\nSrl No.\n150\nDate\nSWASTIK HOSPITAL\nTest\nHAEMATOLOGY\nESR (WESTEGREN s METHOD)\n32\nmmllst hr\n0\n20\nVIRAL MARKER\nHIV (AIDS) ANTIBODY | & Il\nANTIBODY TEST FOR\nHIV\n1& Il :\nNON-REACTIVE\nCOMMENTS\nHIV Elisa iS a\nscrcening procedure\nPositive specimens\nshould be retested using another method before diagnosis.\nHBsAG\nNEGATIVE\nCHROMATOGRAPHY\nANTI HCV\nRESULT\nNON REACTIVE\nCQMMENTS\nHevatitis Coirus (HCV) has been identified as the main etiological\n0f Non A\nNon B hepatitis accounting for 80-90 cases of transfusion\nhepatitis cases\nHCV Is transmitted primarily through parenteral\nHCV antibodies have been found in patients with acute or chronic forms\nDr; Vouesh k/iar Chahar\nMD (lekalLrcicvie)\nDr CYa\nDMc\nMP\nR/06131\nRGJRH\nOn Panel\n3DI4D Ultrasound\nHaryana Government\nAll Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE\nColor Doppler\nDelhi Government\nCT-Scan\nDelhi Jal Board\nNOT FOR MEDICO LEGAL PURPOSE\nDigital X-Ray\nAll TPA & Insurance\nComputerised Lab\nH2Sp\nVAT\nNC.\nCKC\nL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Non B hepatitis accounting for",
+          "biomarker_normalized": "Non B hepatitis accounting for",
+          "value": "80",
+          "unit": "",
+          "reference_range": "80-90",
+          "source_line": "Non B hepatitis accounting for 80-90 cases of transfusion",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "R/",
+          "biomarker_normalized": "R/",
+          "value": "06131",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "R/06131",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "All Lab Test, ICU & Ambulance Facility",
+          "biomarker_normalized": "All Lab Test, ICU & Ambulance Facility",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "All Lab Test, ICU & Ambulance Facility 24x7 Hrs. AVAILABLE",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 65,
+    "ocr_avg_confidence": 0.7503,
+    "parsed_row_count": 3
+  }
+}

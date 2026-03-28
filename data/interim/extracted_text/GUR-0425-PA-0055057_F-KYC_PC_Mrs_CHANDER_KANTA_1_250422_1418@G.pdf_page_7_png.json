@@ -1,0 +1,1341 @@
+{
+  "document_id": "GUR-0425-PA-0055057_F-KYC_PC_Mrs_CHANDER_KANTA_1_250422_1418@G.pdf_page_7",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055057_F-KYC_PC_Mrs_CHANDER_KANTA_1_250422_1418@G.pdf_page_7.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Laboratory Investigation Report\nPatientl\nCollection DatelTime\n22/Apr/2025 04.39AM\nDr.Emergency Team Shbg\nReporting DatelTime\n22/Apr/2025 07.24AM\nImmunoassay\nNo:SBZ\nThyroid Profile\nFree T3, Free T4 & TSH), Serum\nDate\n22/Apr/2025\nUnit\nBio Ref\n04.39AM\nInterval\nFree Triiodothyronine (FT3) 3.61\npglmL\n2.6\n4.2\nCLIA\nFree Thyroxine (FT4)\n0.89\n0.58\n1.64\nCLIA\nThyroid Stimulating\n16.832\nHlUlmL\n0.38\n5.33\nHormone\nCLIA\nComment\nPremature\nCord Blood\nUpto 2\nIst\n2nd\n3rd\nParameter\nUnit\n(28\n36\n(>37\nMonth\nTrimester\nTrimester\nTrimester\nweeks)\nweeks)\nFT3\nPglmL\n0.15 - 3.91\n244\n5.6\n2.11 - 3.83\n1.96 - 3.38\n1.96 - 3.38\nFT4\nngldl\n1.7-4.0\n0.7-2.0\n05 - 1.6\n05 - 1.6\nTSH\nulUIml\n0.7\n27.0\n2.3\n13.2\n05\n10\n0.05\n3.7\n0.31 - 4.35\n0.41\n5.18\nNote\nTSH levels are subject to circadian   variation, reaching peak levels between 2 _ 4 am\nand at a minimum between 6 _ 10 pm. The variation is of the order of 50%\n206 %, hence\ntime of the\nhas influence on the measured serum TSH concentrations_\nComment: TSH\nUltrasensitive\nKindly correlate with clinical findings\n***\n#**\nEnd Of Report\nPa e&\nDr. Pooja Bhasin MD:\nDirector & HOD\nDr. Vijay Laxmi Sharma, MD\nLab Service Pathology\nAssociate Director & Quality\nTest Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab\nBooking Centre :1060\nMax Hospital Shalimar Bagh, Max Lab\nThe authenticity of the report can be verified by scanning the Q R Code on top of theb\nMc-2262\nngldL\nday",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            621.0,
+            194.0,
+            1018.0,
+            224.0
+          ],
+          "text": "Laboratory Investigation Report",
+          "confidence": 0.9169
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            80.0,
+            238.0,
+            156.0,
+            262.0
+          ],
+          "text": "Patientl",
+          "confidence": 0.5469
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            307.0,
+            1062.0,
+            332.0
+          ],
+          "text": "Collection DatelTime",
+          "confidence": 0.9712
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            307.0,
+            1284.0,
+            333.0
+          ],
+          "text": "22/Apr/2025 04.39AM",
+          "confidence": 0.8973
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            337.0,
+            582.0,
+            367.0
+          ],
+          "text": "Dr.Emergency Team Shbg",
+          "confidence": 0.8226
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            340.0,
+            1060.0,
+            370.0
+          ],
+          "text": "Reporting DatelTime",
+          "confidence": 0.6994
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1073.0,
+            339.0,
+            1283.0,
+            369.0
+          ],
+          "text": "22/Apr/2025 07.24AM",
+          "confidence": 0.8997
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            695.0,
+            389.0,
+            854.0,
+            420.0
+          ],
+          "text": "Immunoassay",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1319.0,
+            417.0,
+            1377.0,
+            433.0
+          ],
+          "text": "No:SBZ",
+          "confidence": 0.5693
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            438.0,
+            256.0,
+            470.0
+          ],
+          "text": "Thyroid Profile",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            273.0,
+            435.0,
+            657.0,
+            471.0
+          ],
+          "text": "Free T3, Free T4 & TSH), Serum",
+          "confidence": 0.6689
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            72.0,
+            484.0,
+            140.0,
+            512.0
+          ],
+          "text": "Date",
+          "confidence": 0.5396
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            395.0,
+            483.0,
+            557.0,
+            519.0
+          ],
+          "text": "22/Apr/2025",
+          "confidence": 0.975
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1266.0,
+            484.0,
+            1324.0,
+            514.0
+          ],
+          "text": "Unit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            484.0,
+            1486.0,
+            514.0
+          ],
+          "text": "Bio Ref",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            522.0,
+            522.0,
+            552.0
+          ],
+          "text": "04.39AM",
+          "confidence": 0.5911
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            522.0,
+            1484.0,
+            552.0
+          ],
+          "text": "Interval",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            564.0,
+            446.0,
+            596.0
+          ],
+          "text": "Free Triiodothyronine (FT3) 3.61",
+          "confidence": 0.6748
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            564.0,
+            1340.0,
+            596.0
+          ],
+          "text": "pglmL",
+          "confidence": 0.6389
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            564.0,
+            1422.0,
+            590.0
+          ],
+          "text": "2.6",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1434.0,
+            564.0,
+            1474.0,
+            590.0
+          ],
+          "text": "4.2",
+          "confidence": 0.7626
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            595.0,
+            147.0,
+            615.0
+          ],
+          "text": "CLIA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            626.0,
+            324.0,
+            656.0
+          ],
+          "text": "Free Thyroxine (FT4)",
+          "confidence": 0.9895
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            626.0,
+            450.0,
+            652.0
+          ],
+          "text": "0.89",
+          "confidence": 0.5936
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            626.0,
+            1432.0,
+            652.0
+          ],
+          "text": "0.58",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1448.0,
+            626.0,
+            1500.0,
+            652.0
+          ],
+          "text": "1.64",
+          "confidence": 0.7695
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            656.0,
+            148.0,
+            680.0
+          ],
+          "text": "CLIA",
+          "confidence": 0.9742
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            686.0,
+            309.0,
+            723.0
+          ],
+          "text": "Thyroid Stimulating",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            690.0,
+            476.0,
+            716.0
+          ],
+          "text": "16.832",
+          "confidence": 0.8886
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            690.0,
+            1348.0,
+            718.0
+          ],
+          "text": "HlUlmL",
+          "confidence": 0.331
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            690.0,
+            1434.0,
+            716.0
+          ],
+          "text": "0.38",
+          "confidence": 0.8556
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1446.0,
+            690.0,
+            1502.0,
+            716.0
+          ],
+          "text": "5.33",
+          "confidence": 0.9322
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            92.0,
+            720.0,
+            194.0,
+            746.0
+          ],
+          "text": "Hormone",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            748.0,
+            148.0,
+            772.0
+          ],
+          "text": "CLIA",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            69.0,
+            820.0,
+            189.0,
+            848.0
+          ],
+          "text": "Comment",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            299.0,
+            859.0,
+            412.0,
+            885.0
+          ],
+          "text": "Premature",
+          "confidence": 0.7641
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            436.0,
+            860.0,
+            552.0,
+            884.0
+          ],
+          "text": "Cord Blood",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            874.0,
+            620.0,
+            902.0
+          ],
+          "text": "Upto 2",
+          "confidence": 0.6672
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            669.0,
+            877.0,
+            701.0,
+            897.0
+          ],
+          "text": "Ist",
+          "confidence": 0.9762
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            874.0,
+            844.0,
+            898.0
+          ],
+          "text": "2nd",
+          "confidence": 0.7425
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            874.0,
+            980.0,
+            898.0
+          ],
+          "text": "3rd",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            890.0,
+            182.0,
+            914.0
+          ],
+          "text": "Parameter",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            891.0,
+            253.0,
+            911.0
+          ],
+          "text": "Unit",
+          "confidence": 0.9121
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            890.0,
+            338.0,
+            914.0
+          ],
+          "text": "(28",
+          "confidence": 0.9361
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            348.0,
+            890.0,
+            378.0,
+            914.0
+          ],
+          "text": "36",
+          "confidence": 0.7651
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            436.0,
+            890.0,
+            490.0,
+            914.0
+          ],
+          "text": "(>37",
+          "confidence": 0.4773
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            553.0,
+            907.0,
+            621.0,
+            927.0
+          ],
+          "text": "Month",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            904.0,
+            772.0,
+            928.0
+          ],
+          "text": "Trimester",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            904.0,
+            908.0,
+            928.0
+          ],
+          "text": "Trimester",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            904.0,
+            1048.0,
+            928.0
+          ],
+          "text": "Trimester",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            922.0,
+            374.0,
+            946.0
+          ],
+          "text": "weeks)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            436.0,
+            922.0,
+            510.0,
+            946.0
+          ],
+          "text": "weeks)",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            961.0,
+            117.0,
+            981.0
+          ],
+          "text": "FT3",
+          "confidence": 0.9422
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            960.0,
+            270.0,
+            986.0
+          ],
+          "text": "PglmL",
+          "confidence": 0.861
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            436.0,
+            958.0,
+            538.0,
+            984.0
+          ],
+          "text": "0.15 - 3.91",
+          "confidence": 0.9129
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            960.0,
+            588.0,
+            984.0
+          ],
+          "text": "244",
+          "confidence": 0.6879
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            598.0,
+            960.0,
+            634.0,
+            984.0
+          ],
+          "text": "5.6",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            960.0,
+            772.0,
+            984.0
+          ],
+          "text": "2.11 - 3.83",
+          "confidence": 0.5769
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            804.0,
+            958.0,
+            908.0,
+            984.0
+          ],
+          "text": "1.96 - 3.38",
+          "confidence": 0.6149
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            958.0,
+            1048.0,
+            984.0
+          ],
+          "text": "1.96 - 3.38",
+          "confidence": 0.9602
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            75.0,
+            1009.0,
+            117.0,
+            1029.0
+          ],
+          "text": "FT4",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1008.0,
+            254.0,
+            1034.0
+          ],
+          "text": "ngldl",
+          "confidence": 0.5835
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            439.0,
+            1009.0,
+            517.0,
+            1029.0
+          ],
+          "text": "1.7-4.0",
+          "confidence": 0.9854
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1008.0,
+            744.0,
+            1032.0
+          ],
+          "text": "0.7-2.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1006.0,
+            886.0,
+            1032.0
+          ],
+          "text": "05 - 1.6",
+          "confidence": 0.7805
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            1006.0,
+            1026.0,
+            1032.0
+          ],
+          "text": "05 - 1.6",
+          "confidence": 0.6
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            1054.0,
+            122.0,
+            1078.0
+          ],
+          "text": "TSH",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            1054.0,
+            276.0,
+            1078.0
+          ],
+          "text": "ulUIml",
+          "confidence": 0.3241
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            300.0,
+            1054.0,
+            336.0,
+            1078.0
+          ],
+          "text": "0.7",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            346.0,
+            1054.0,
+            394.0,
+            1078.0
+          ],
+          "text": "27.0",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            436.0,
+            1054.0,
+            472.0,
+            1078.0
+          ],
+          "text": "2.3",
+          "confidence": 0.3419
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            484.0,
+            1054.0,
+            530.0,
+            1078.0
+          ],
+          "text": "13.2",
+          "confidence": 0.756
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            1054.0,
+            588.0,
+            1078.0
+          ],
+          "text": "05",
+          "confidence": 0.978
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            1054.0,
+            628.0,
+            1078.0
+          ],
+          "text": "10",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            666.0,
+            1054.0,
+            714.0,
+            1078.0
+          ],
+          "text": "0.05",
+          "confidence": 0.9896
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1054.0,
+            758.0,
+            1078.0
+          ],
+          "text": "3.7",
+          "confidence": 0.3632
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            1054.0,
+            908.0,
+            1078.0
+          ],
+          "text": "0.31 - 4.35",
+          "confidence": 0.3998
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            942.0,
+            1054.0,
+            990.0,
+            1078.0
+          ],
+          "text": "0.41",
+          "confidence": 0.9549
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1000.0,
+            1054.0,
+            1048.0,
+            1078.0
+          ],
+          "text": "5.18",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            1138.0,
+            130.0,
+            1162.0
+          ],
+          "text": "Note",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            1134.0,
+            908.0,
+            1166.0
+          ],
+          "text": "TSH levels are subject to circadian   variation, reaching peak levels between 2 _ 4 am",
+          "confidence": 0.5126
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            1174.0,
+            754.0,
+            1202.0
+          ],
+          "text": "and at a minimum between 6 _ 10 pm. The variation is of the order of 50%",
+          "confidence": 0.5247
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1174.0,
+            894.0,
+            1202.0
+          ],
+          "text": "206 %, hence",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            1212.0,
+            176.0,
+            1238.0
+          ],
+          "text": "time of the",
+          "confidence": 0.9923
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            1212.0,
+            740.0,
+            1238.0
+          ],
+          "text": "has influence on the measured serum TSH concentrations_",
+          "confidence": 0.9294
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            70.0,
+            1286.0,
+            260.0,
+            1316.0
+          ],
+          "text": "Comment: TSH",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            272.0,
+            1286.0,
+            434.0,
+            1316.0
+          ],
+          "text": "Ultrasensitive",
+          "confidence": 0.9966
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1388.0,
+            492.0,
+            1433.0
+          ],
+          "text": "Kindly correlate with clinical findings",
+          "confidence": 0.9466
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            707.0,
+            1439.0,
+            739.0,
+            1451.0
+          ],
+          "text": "***",
+          "confidence": 0.3455
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            917.0,
+            1439.0,
+            949.0,
+            1451.0
+          ],
+          "text": "#**",
+          "confidence": 0.7597
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            742.0,
+            1435.0,
+            914.0,
+            1467.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.7459
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            1494.0,
+            238.0,
+            1566.0
+          ],
+          "text": "Pa e&",
+          "confidence": 0.1896
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1570.0,
+            302.0,
+            1596.0
+          ],
+          "text": "Dr. Pooja Bhasin MD:",
+          "confidence": 0.725
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1594.0,
+            236.0,
+            1618.0
+          ],
+          "text": "Director & HOD",
+          "confidence": 0.8552
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            424.0,
+            1597.0,
+            690.0,
+            1624.0
+          ],
+          "text": "Dr. Vijay Laxmi Sharma, MD",
+          "confidence": 0.7788
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            88.0,
+            1616.0,
+            292.0,
+            1649.0
+          ],
+          "text": "Lab Service Pathology",
+          "confidence": 0.7548
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            1620.0,
+            686.0,
+            1648.0
+          ],
+          "text": "Associate Director & Quality",
+          "confidence": 0.7869
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            1928.0,
+            604.0,
+            1956.0
+          ],
+          "text": "Test Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab",
+          "confidence": 0.6067
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            65.0,
+            1955.0,
+            287.0,
+            1991.0
+          ],
+          "text": "Booking Centre :1060",
+          "confidence": 0.9713
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            1960.0,
+            682.0,
+            1992.0
+          ],
+          "text": "Max Hospital Shalimar Bagh, Max Lab",
+          "confidence": 0.6736
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1992.0,
+            892.0,
+            2024.0
+          ],
+          "text": "The authenticity of the report can be verified by scanning the Q R Code on top of theb",
+          "confidence": 0.527
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1449.0,
+            2135.0,
+            1533.0,
+            2155.0
+          ],
+          "text": "Mc-2262",
+          "confidence": 0.7718
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            1262.543071206464,
+            623.6408504556226,
+            1330.456928793536,
+            657.3591495443774
+          ],
+          "text": "ngldL",
+          "confidence": 0.9884
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            171.24991210587473,
+            1211.2145699273442,
+            215.75008789412527,
+            1241.7854300726558
+          ],
+          "text": "day",
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "full_text": "Laboratory Investigation Report\nPatientl\nCollection DatelTime\n22/Apr/2025 04.39AM\nDr.Emergency Team Shbg\nReporting DatelTime\n22/Apr/2025 07.24AM\nImmunoassay\nNo:SBZ\nThyroid Profile\nFree T3, Free T4 & TSH), Serum\nDate\n22/Apr/2025\nUnit\nBio Ref\n04.39AM\nInterval\nFree Triiodothyronine (FT3) 3.61\npglmL\n2.6\n4.2\nCLIA\nFree Thyroxine (FT4)\n0.89\n0.58\n1.64\nCLIA\nThyroid Stimulating\n16.832\nHlUlmL\n0.38\n5.33\nHormone\nCLIA\nComment\nPremature\nCord Blood\nUpto 2\nIst\n2nd\n3rd\nParameter\nUnit\n(28\n36\n(>37\nMonth\nTrimester\nTrimester\nTrimester\nweeks)\nweeks)\nFT3\nPglmL\n0.15 - 3.91\n244\n5.6\n2.11 - 3.83\n1.96 - 3.38\n1.96 - 3.38\nFT4\nngldl\n1.7-4.0\n0.7-2.0\n05 - 1.6\n05 - 1.6\nTSH\nulUIml\n0.7\n27.0\n2.3\n13.2\n05\n10\n0.05\n3.7\n0.31 - 4.35\n0.41\n5.18\nNote\nTSH levels are subject to circadian   variation, reaching peak levels between 2 _ 4 am\nand at a minimum between 6 _ 10 pm. The variation is of the order of 50%\n206 %, hence\ntime of the\nhas influence on the measured serum TSH concentrations_\nComment: TSH\nUltrasensitive\nKindly correlate with clinical findings\n***\n#**\nEnd Of Report\nPa e&\nDr. Pooja Bhasin MD:\nDirector & HOD\nDr. Vijay Laxmi Sharma, MD\nLab Service Pathology\nAssociate Director & Quality\nTest Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab\nBooking Centre :1060\nMax Hospital Shalimar Bagh, Max Lab\nThe authenticity of the report can be verified by scanning the Q R Code on top of theb\nMc-2262\nngldL\nday",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Free Triiodothyronine (FT3)",
+          "biomarker_normalized": "Free Triiodothyronine (FT3)",
+          "value": "3.61",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Free Triiodothyronine (FT3) 3.61",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Upto",
+          "biomarker_normalized": "Upto",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Upto 2",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "TSH levels are subject to circadian variation, reaching peak levels between",
+          "biomarker_normalized": "TSH levels are subject to circadian variation, reaching peak levels between",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "TSH levels are subject to circadian variation, reaching peak levels between 2 _ 4 am",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "and at a minimum between",
+          "biomarker_normalized": "and at a minimum between",
+          "value": "6",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "and at a minimum between 6 _ 10 pm. The variation is of the order of 50%",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Test Performed at",
+          "biomarker_normalized": "Test Performed at",
+          "value": "1060",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Test Performed at :1060 - Max Hospital Shalimar Bagh; Max Lab",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Booking Centre",
+          "biomarker_normalized": "Booking Centre",
+          "value": "1060",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Booking Centre :1060",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Mc",
+          "biomarker_normalized": "Mc",
+          "value": "2262",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mc-2262",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 104,
+    "ocr_avg_confidence": 0.8242,
+    "parsed_row_count": 7
+  }
+}

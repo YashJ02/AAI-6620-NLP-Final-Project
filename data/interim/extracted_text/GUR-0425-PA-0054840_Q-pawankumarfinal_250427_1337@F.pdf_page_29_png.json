@@ -1,0 +1,339 @@
+{
+  "document_id": "GUR-0425-PA-0054840_Q-pawankumarfinal_250427_1337@F.pdf_page_29",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0054840_Q-pawankumarfinal_250427_1337@F.pdf_page_29.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Vedanta Path Labs\nDro Vshal Yadavv\nConsultant Pathologist\nNear Nirankari Bhawan, Circular Road\nDharuhera Chungi, Rewari-123401 (Hr:)\ne-reports\nMob::|\nDate\nSNo.\n2117\nPatient's)\nReferred\nVedanta Hospital\nTEST\n3\"\n{End of Report}-==n\n~L\nceifal\nperintendent\nVE (MAZOSPITAL\nNear War/ari Bhawan\nCircular Zoed, Rewari\nNOL VALID FOR MEDICO LEGAL PURPOSES\n^\n{",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            30.0,
+            868.0,
+            117.0
+          ],
+          "text": "Vedanta Path Labs",
+          "confidence": 0.7881
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            28.0,
+            1346.0,
+            84.0
+          ],
+          "text": "Dro Vshal Yadavv",
+          "confidence": 0.8195
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            995.0,
+            85.0,
+            1327.0,
+            125.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            103.0,
+            127.0,
+            611.0,
+            165.0
+          ],
+          "text": "Near Nirankari Bhawan, Circular Road",
+          "confidence": 0.8822
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            162.0,
+            631.0,
+            203.0
+          ],
+          "text": "Dharuhera Chungi, Rewari-123401 (Hr:)",
+          "confidence": 0.5012
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            148.0,
+            1358.0,
+            220.0
+          ],
+          "text": "e-reports",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            202.0,
+            190.0,
+            234.0
+          ],
+          "text": "Mob::|",
+          "confidence": 0.2338
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            350.0,
+            204.0,
+            387.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1052.0,
+            372.0,
+            1116.0,
+            404.0
+          ],
+          "text": "SNo.",
+          "confidence": 0.954
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1230.0,
+            376.0,
+            1300.0,
+            408.0
+          ],
+          "text": "2117",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            399.0,
+            250.0,
+            439.0
+          ],
+          "text": "Patient's)",
+          "confidence": 0.6659
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            451.0,
+            247.0,
+            489.0
+          ],
+          "text": "Referred",
+          "confidence": 0.9269
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            367.0,
+            459.0,
+            583.0,
+            500.0
+          ],
+          "text": "Vedanta Hospital",
+          "confidence": 0.8533
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            506.0,
+            212.0,
+            538.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1036.0,
+            406.0,
+            1388.0,
+            580.0
+          ],
+          "text": "3\"",
+          "confidence": 0.19
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            769.0,
+            603.0,
+            997.0,
+            639.0
+          ],
+          "text": "{End of Report}-==n",
+          "confidence": 0.3
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            573.0,
+            1030.0,
+            1198.0,
+            1444.0
+          ],
+          "text": "~L",
+          "confidence": 0.0712
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1105.0,
+            1741.0,
+            1205.0,
+            1777.0
+          ],
+          "text": "ceifal",
+          "confidence": 0.1145
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1238.0,
+            1724.0,
+            1419.0,
+            1773.0
+          ],
+          "text": "perintendent",
+          "confidence": 0.8224
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            1757.0,
+            1420.0,
+            1813.0
+          ],
+          "text": "VE (MAZOSPITAL",
+          "confidence": 0.5623
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            1796.0,
+            1420.0,
+            1846.0
+          ],
+          "text": "Near War/ari Bhawan",
+          "confidence": 0.5653
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1102.0,
+            1825.0,
+            1413.0,
+            1879.0
+          ],
+          "text": "Circular Zoed, Rewari",
+          "confidence": 0.6237
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            531.0,
+            2226.0,
+            1098.0,
+            2258.0
+          ],
+          "text": "NOL VALID FOR MEDICO LEGAL PURPOSES",
+          "confidence": 0.3472
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            736.1288181780823,
+            523.0028994471755,
+            1504.8711818219178,
+            1457.9971005528246
+          ],
+          "text": "^",
+          "confidence": 0.015
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            145.93468695865351,
+            625.5989933487397,
+            786.0653130413465,
+            1505.4010066512603
+          ],
+          "text": "{",
+          "confidence": 0.0153
+        }
+      ]
+    }
+  ],
+  "full_text": "Vedanta Path Labs\nDro Vshal Yadavv\nConsultant Pathologist\nNear Nirankari Bhawan, Circular Road\nDharuhera Chungi, Rewari-123401 (Hr:)\ne-reports\nMob::|\nDate\nSNo.\n2117\nPatient's)\nReferred\nVedanta Hospital\nTEST\n3\"\n{End of Report}-==n\n~L\nceifal\nperintendent\nVE (MAZOSPITAL\nNear War/ari Bhawan\nCircular Zoed, Rewari\nNOL VALID FOR MEDICO LEGAL PURPOSES\n^\n{",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Dharuhera Chungi, Rewari",
+          "biomarker_normalized": "Dharuhera Chungi, Rewari",
+          "value": "123401",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Dharuhera Chungi, Rewari-123401 (Hr:)",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 25,
+    "ocr_avg_confidence": 0.6099,
+    "parsed_row_count": 1
+  }
+}

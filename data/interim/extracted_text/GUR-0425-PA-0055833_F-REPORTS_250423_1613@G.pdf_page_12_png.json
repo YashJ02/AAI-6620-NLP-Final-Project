@@ -1,0 +1,921 @@
+{
+  "document_id": "GUR-0425-PA-0055833_F-REPORTS_250423_1613@G.pdf_page_12",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055833_F-REPORTS_250423_1613@G.pdf_page_12.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "1\nauevr\nNational\nLab\nCLINICAL LAB\nDIGITAL X-RAY* EC.G.\nULTRASOUND\n7/31 , GEETA COLONY, NEAR GURUDWARA 7 BLOCK, DELHI -\n110031 PH:\nSOM BAZAR MAIN ROAD, OPP-BEDI MARKET; DELHI-110051 PH:\nDate\nSrl No.\nCollection Time:- 8 OOam To 2 OOpr\nDr. SELF\nTestl\nLIVER\nFUNCTION\nIESL (LFT)\nBILIRUBIN TOTAL\n0.49\nmgldl\n0\n1.0\nCONJUGATED (D. Bilirubin)\n0.20\nmgldl\n0.00\n0.25\nUNCONJUGATED (I.D.Bilirubin)\n0.29\nmgldl\n0.00 - 0.70\nTOTAL PROTEIN\n6.99\ngm/dl\n6.6 - 8.3\nALBUMIN\n4.29\ngmldl\n3.4 - 4.8\nGLOBULIN:\n2.7\ngmIdl\n2.3\n3.5\nSGOT\n24\nIUIL\n0 - 40\nSGPT\n31\nIUIL\n0.0\n40\nALKALINE PHOSPHATASE\n87\nUIL\n45.0\n250\nIFCC Method\nLFT INTERPRET\n****\nEnd Of Reprt\n###T\nhrsbot\nDARBARI\nMBBS, MD\nCONSULTANT PATHOLOGIST\nHome Collection Facility Available\nContd__5\nNot Valid for Medico Legal Purposes\nPLEASE Co-RELATE RESULTS, CLINICALLY IF THE RESULT(S) OF THE TESTIS) IS ALARMING Or UN EXPECTED, THE PATIENTMREATING DOCTOR IS ADVISEY",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            9.0,
+            35.0,
+            25.0,
+            123.0
+          ],
+          "text": "1",
+          "confidence": 0.2765
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            78.0,
+            134.0,
+            258.0,
+            215.0
+          ],
+          "text": "auevr",
+          "confidence": 0.0882
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            142.0,
+            1038.0,
+            214.0
+          ],
+          "text": "National",
+          "confidence": 0.7037
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1059.0,
+            143.0,
+            1311.0,
+            211.0
+          ],
+          "text": "Lab",
+          "confidence": 0.9517
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            395.0,
+            215.0,
+            665.0,
+            257.0
+          ],
+          "text": "CLINICAL LAB",
+          "confidence": 0.7893
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            215.0,
+            1145.0,
+            257.0
+          ],
+          "text": "DIGITAL X-RAY* EC.G.",
+          "confidence": 0.7106
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            215.0,
+            1460.0,
+            257.0
+          ],
+          "text": "ULTRASOUND",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            281.0,
+            265.0,
+            1031.0,
+            303.0
+          ],
+          "text": "7/31 , GEETA COLONY, NEAR GURUDWARA 7 BLOCK, DELHI -",
+          "confidence": 0.5796
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1042.0,
+            270.0,
+            1178.0,
+            300.0
+          ],
+          "text": "110031 PH:",
+          "confidence": 0.3965
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            411.0,
+            303.0,
+            1203.0,
+            341.0
+          ],
+          "text": "SOM BAZAR MAIN ROAD, OPP-BEDI MARKET; DELHI-110051 PH:",
+          "confidence": 0.492
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            472.0,
+            206.0,
+            504.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            796.0,
+            478.0,
+            884.0,
+            510.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.9791
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            478.0,
+            1549.0,
+            519.0
+          ],
+          "text": "Collection Time:- 8 OOam To 2 OOpr",
+          "confidence": 0.3054
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            278.0,
+            554.0,
+            396.0,
+            586.0
+          ],
+          "text": "Dr. SELF",
+          "confidence": 0.7761
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            630.0,
+            196.0,
+            662.0
+          ],
+          "text": "Testl",
+          "confidence": 0.3884
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            712.0,
+            244.0,
+            744.0
+          ],
+          "text": "LIVER",
+          "confidence": 0.6638
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            712.0,
+            404.0,
+            744.0
+          ],
+          "text": "FUNCTION",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            413.0,
+            711.0,
+            571.0,
+            747.0
+          ],
+          "text": "IESL (LFT)",
+          "confidence": 0.6767
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            759.0,
+            393.0,
+            791.0
+          ],
+          "text": "BILIRUBIN TOTAL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            764.0,
+            796.0,
+            794.0
+          ],
+          "text": "0.49",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            933.0,
+            765.0,
+            1011.0,
+            801.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9926
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            768.0,
+            1222.0,
+            796.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1238.0,
+            768.0,
+            1280.0,
+            796.0
+          ],
+          "text": "1.0",
+          "confidence": 0.3699
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            806.0,
+            517.0,
+            845.0
+          ],
+          "text": "CONJUGATED (D. Bilirubin)",
+          "confidence": 0.7697
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            812.0,
+            796.0,
+            844.0
+          ],
+          "text": "0.20",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            816.0,
+            1012.0,
+            848.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9558
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            816.0,
+            1258.0,
+            848.0
+          ],
+          "text": "0.00",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1274.0,
+            816.0,
+            1336.0,
+            848.0
+          ],
+          "text": "0.25",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            856.0,
+            565.0,
+            897.0
+          ],
+          "text": "UNCONJUGATED (I.D.Bilirubin)",
+          "confidence": 0.4956
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            864.0,
+            794.0,
+            892.0
+          ],
+          "text": "0.29",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            865.0,
+            1011.0,
+            901.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9587
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            866.0,
+            1334.0,
+            898.0
+          ],
+          "text": "0.00 - 0.70",
+          "confidence": 0.6059
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            910.0,
+            378.0,
+            942.0
+          ],
+          "text": "TOTAL PROTEIN",
+          "confidence": 0.9935
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            914.0,
+            796.0,
+            944.0
+          ],
+          "text": "6.99",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            931.0,
+            911.0,
+            1012.0,
+            952.0
+          ],
+          "text": "gm/dl",
+          "confidence": 0.4768
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            916.0,
+            1302.0,
+            946.0
+          ],
+          "text": "6.6 - 8.3",
+          "confidence": 0.6939
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            958.0,
+            284.0,
+            990.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            964.0,
+            796.0,
+            994.0
+          ],
+          "text": "4.29",
+          "confidence": 0.8476
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            960.0,
+            1013.0,
+            1002.0
+          ],
+          "text": "gmldl",
+          "confidence": 0.8079
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            966.0,
+            1300.0,
+            996.0
+          ],
+          "text": "3.4 - 4.8",
+          "confidence": 0.6526
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1010.0,
+            306.0,
+            1042.0
+          ],
+          "text": "GLOBULIN:",
+          "confidence": 0.9323
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1014.0,
+            776.0,
+            1042.0
+          ],
+          "text": "2.7",
+          "confidence": 0.5457
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            929.0,
+            1012.0,
+            1012.0,
+            1054.0
+          ],
+          "text": "gmIdl",
+          "confidence": 0.5234
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            1018.0,
+            1244.0,
+            1048.0
+          ],
+          "text": "2.3",
+          "confidence": 0.9521
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1255.0,
+            1013.0,
+            1305.0,
+            1049.0
+          ],
+          "text": "3.5",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1060.0,
+            240.0,
+            1092.0
+          ],
+          "text": "SGOT",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            1066.0,
+            772.0,
+            1096.0
+          ],
+          "text": "24",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            1068.0,
+            990.0,
+            1098.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9882
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1194.0,
+            1070.0,
+            1272.0,
+            1102.0
+          ],
+          "text": "0 - 40",
+          "confidence": 0.6047
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1112.0,
+            238.0,
+            1144.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            1118.0,
+            768.0,
+            1148.0
+          ],
+          "text": "31",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            1120.0,
+            990.0,
+            1152.0
+          ],
+          "text": "IUIL",
+          "confidence": 0.9532
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            1122.0,
+            1242.0,
+            1150.0
+          ],
+          "text": "0.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1256.0,
+            1124.0,
+            1294.0,
+            1154.0
+          ],
+          "text": "40",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            1163.0,
+            509.0,
+            1201.0
+          ],
+          "text": "ALKALINE PHOSPHATASE",
+          "confidence": 0.6636
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            1170.0,
+            770.0,
+            1200.0
+          ],
+          "text": "87",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            934.0,
+            1172.0,
+            982.0,
+            1202.0
+          ],
+          "text": "UIL",
+          "confidence": 0.9586
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            1174.0,
+            1256.0,
+            1206.0
+          ],
+          "text": "45.0",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            1174.0,
+            1326.0,
+            1206.0
+          ],
+          "text": "250",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            1198.0,
+            312.0,
+            1226.0
+          ],
+          "text": "IFCC Method",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            1236.0,
+            316.0,
+            1268.0
+          ],
+          "text": "LFT INTERPRET",
+          "confidence": 0.9951
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            675.0,
+            1447.0,
+            721.0,
+            1461.0
+          ],
+          "text": "****",
+          "confidence": 0.1762
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            723.0,
+            1443.0,
+            897.0,
+            1479.0
+          ],
+          "text": "End Of Reprt",
+          "confidence": 0.9804
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            897.0,
+            1447.0,
+            943.0,
+            1463.0
+          ],
+          "text": "###T",
+          "confidence": 0.1376
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            1912.0,
+            1266.0,
+            2008.0
+          ],
+          "text": "hrsbot",
+          "confidence": 0.1434
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1264.0,
+            2018.0,
+            1405.0,
+            2054.0
+          ],
+          "text": "DARBARI",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            2054.0,
+            1232.0,
+            2086.0
+          ],
+          "text": "MBBS, MD",
+          "confidence": 0.976
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            2086.0,
+            1467.0,
+            2119.0
+          ],
+          "text": "CONSULTANT PATHOLOGIST",
+          "confidence": 0.8826
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            603.0,
+            2178.0,
+            1021.0,
+            2215.0
+          ],
+          "text": "Home Collection Facility Available",
+          "confidence": 0.7404
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1402.0,
+            2184.0,
+            1525.0,
+            2222.0
+          ],
+          "text": "Contd__5",
+          "confidence": 0.9936
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            589.0,
+            2209.0,
+            1033.0,
+            2246.0
+          ],
+          "text": "Not Valid for Medico Legal Purposes",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            2252.0,
+            1236.0,
+            2278.0
+          ],
+          "text": "PLEASE Co-RELATE RESULTS, CLINICALLY IF THE RESULT(S) OF THE TESTIS) IS ALARMING Or UN EXPECTED, THE PATIENTMREATING DOCTOR IS ADVISEY",
+          "confidence": 0.3309
+        }
+      ]
+    }
+  ],
+  "full_text": "1\nauevr\nNational\nLab\nCLINICAL LAB\nDIGITAL X-RAY* EC.G.\nULTRASOUND\n7/31 , GEETA COLONY, NEAR GURUDWARA 7 BLOCK, DELHI -\n110031 PH:\nSOM BAZAR MAIN ROAD, OPP-BEDI MARKET; DELHI-110051 PH:\nDate\nSrl No.\nCollection Time:- 8 OOam To 2 OOpr\nDr. SELF\nTestl\nLIVER\nFUNCTION\nIESL (LFT)\nBILIRUBIN TOTAL\n0.49\nmgldl\n0\n1.0\nCONJUGATED (D. Bilirubin)\n0.20\nmgldl\n0.00\n0.25\nUNCONJUGATED (I.D.Bilirubin)\n0.29\nmgldl\n0.00 - 0.70\nTOTAL PROTEIN\n6.99\ngm/dl\n6.6 - 8.3\nALBUMIN\n4.29\ngmldl\n3.4 - 4.8\nGLOBULIN:\n2.7\ngmIdl\n2.3\n3.5\nSGOT\n24\nIUIL\n0 - 40\nSGPT\n31\nIUIL\n0.0\n40\nALKALINE PHOSPHATASE\n87\nUIL\n45.0\n250\nIFCC Method\nLFT INTERPRET\n****\nEnd Of Reprt\n###T\nhrsbot\nDARBARI\nMBBS, MD\nCONSULTANT PATHOLOGIST\nHome Collection Facility Available\nContd__5\nNot Valid for Medico Legal Purposes\nPLEASE Co-RELATE RESULTS, CLINICALLY IF THE RESULT(S) OF THE TESTIS) IS ALARMING Or UN EXPECTED, THE PATIENTMREATING DOCTOR IS ADVISEY",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SOM BAZAR MAIN ROAD, OPP-BEDI MARKET; DELHI",
+          "biomarker_normalized": "SOM BAZAR MAIN ROAD, OPP-BEDI MARKET; DELHI",
+          "value": "110051",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SOM BAZAR MAIN ROAD, OPP-BEDI MARKET; DELHI-110051 PH:",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Collection Time",
+          "biomarker_normalized": "Collection Time",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Collection Time:- 8 OOam To 2 OOpr",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Contd__",
+          "biomarker_normalized": "Contd__",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Contd__5",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 72,
+    "ocr_avg_confidence": 0.7894,
+    "parsed_row_count": 3
+  }
+}

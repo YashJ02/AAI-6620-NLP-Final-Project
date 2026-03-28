@@ -1,0 +1,930 @@
+{
+  "document_id": "BLR-0425-PA-0042567_F-RAJEEVPREAUTH_250427_1441@G.pdf_page_16",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042567_F-RAJEEVPREAUTH_250427_1441@G.pdf_page_16.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AAROGYA\nAAROGYA\nHASTHA\nHOSPITALS\nPVT\nLTD.\nAH\n#HASTHA\nSite\n2, No 2816/2,SY8Z,Kasavanahalli Main Road_Off Sarjapura Road,Bengaluru\n560035\nH 8 $\nP | T 4 L $\nFor enquiries\nNo:: 030-666678877/8888 Tel\nCating Responsibly\nPatient)\nBilll\nMar 28 2025 9.2OAM\nAH-15399 /UHID15399\nSample Collected\nMar 28 2025 9.30AM\nNo\nLA25002730\nSample Received\nMar 28 2025 9:50AM\nReferred By\nVerified On\nMar 28 2025 2:22PM\nBar Code\nTest\nCASTS\nAbsent\nIHPF\nMethod\nMICROSCOPY\nCRYSTALS\nAbsent\nBACTERIA\nAbsent\nIHPF\nMethod\nMICROSCOPY\nOTHERS\nAbsent\n%\nMethod\nMICROSCOPY\nEnd of the Report--=\nMr. Nandha Kumar R\nDr. Jahnabi Barman\nMBBS, MD Microbiology\nConsultant Microbiologist\nReg\nPrepared By\nVerified By\nDISCLAIMER\n\"Test results pertain to specimen submitted. *All the results are dependent on quality of the sample received: \"Laboratory\ninvestigations are only a tool to facilitate in arriving at a diagnosis & should be clinically correlated by referring Doctor:\nPrint D & T\n14.37.59 Printed By\nSwapna R (200153)\nJ3 NvKS Hespital\nMaralhalli Quter\nRoad\nDoddznekundl. Banzalore-5600292\nNo\n95/3,\nRing",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            27.0,
+            471.0,
+            69.0
+          ],
+          "text": "AAROGYA",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            645.0,
+            25.0,
+            837.0,
+            61.0
+          ],
+          "text": "AAROGYA",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            852.0,
+            22.0,
+            1013.0,
+            60.0
+          ],
+          "text": "HASTHA",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            19.0,
+            1243.0,
+            60.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1257.0,
+            21.0,
+            1337.0,
+            57.0
+          ],
+          "text": "PVT",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            22.0,
+            1434.0,
+            54.0
+          ],
+          "text": "LTD.",
+          "confidence": 0.7843
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            24.0,
+            265.0,
+            103.0
+          ],
+          "text": "AH",
+          "confidence": 0.6359
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            61.0,
+            480.0,
+            99.0
+          ],
+          "text": "#HASTHA",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            492.0,
+            66.0,
+            544.0,
+            90.0
+          ],
+          "text": "Site",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            583.0,
+            55.0,
+            1479.0,
+            91.0
+          ],
+          "text": "2, No 2816/2,SY8Z,Kasavanahalli Main Road_Off Sarjapura Road,Bengaluru",
+          "confidence": 0.6601
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1491.0,
+            56.0,
+            1583.0,
+            82.0
+          ],
+          "text": "560035",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            192.0,
+            100.0,
+            276.0,
+            132.0
+          ],
+          "text": "H 8 $",
+          "confidence": 0.6097
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            282.0,
+            100.0,
+            436.0,
+            124.0
+          ],
+          "text": "P | T 4 L $",
+          "confidence": 0.3043
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            548.0,
+            88.0,
+            712.0,
+            119.0
+          ],
+          "text": "For enquiries",
+          "confidence": 0.9593
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            116.0,
+            1140.0,
+            140.0
+          ],
+          "text": "No:: 030-666678877/8888 Tel",
+          "confidence": 0.301
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            214.0,
+            126.0,
+            413.0,
+            150.0
+          ],
+          "text": "Cating Responsibly",
+          "confidence": 0.6395
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            192.0,
+            296.0,
+            222.0
+          ],
+          "text": "Patient)",
+          "confidence": 0.5223
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            224.0,
+            250.0,
+            254.0
+          ],
+          "text": "Billl",
+          "confidence": 0.9831
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            222.0,
+            718.0,
+            252.0
+          ],
+          "text": "Mar 28 2025 9.2OAM",
+          "confidence": 0.7198
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1148.0,
+            213.0,
+            1423.0,
+            250.0
+          ],
+          "text": "AH-15399 /UHID15399",
+          "confidence": 0.7237
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            254.0,
+            417.0,
+            292.0
+          ],
+          "text": "Sample Collected",
+          "confidence": 0.7567
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            252.0,
+            718.0,
+            284.0
+          ],
+          "text": "Mar 28 2025 9.30AM",
+          "confidence": 0.7999
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            980.0,
+            252.0,
+            1020.0,
+            282.0
+          ],
+          "text": "No",
+          "confidence": 0.9911
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1150.0,
+            248.0,
+            1304.0,
+            280.0
+          ],
+          "text": "LA25002730",
+          "confidence": 0.9449
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            287.0,
+            417.0,
+            323.0
+          ],
+          "text": "Sample Received",
+          "confidence": 0.8363
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            464.0,
+            286.0,
+            718.0,
+            318.0
+          ],
+          "text": "Mar 28 2025 9:50AM",
+          "confidence": 0.4791
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            931.0,
+            283.0,
+            1077.0,
+            319.0
+          ],
+          "text": "Referred By",
+          "confidence": 0.989
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            210.0,
+            320.0,
+            354.0,
+            352.0
+          ],
+          "text": "Verified On",
+          "confidence": 0.9719
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            318.0,
+            740.0,
+            350.0
+          ],
+          "text": "Mar 28 2025 2:22PM",
+          "confidence": 0.6288
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            316.0,
+            1046.0,
+            346.0
+          ],
+          "text": "Bar Code",
+          "confidence": 0.5985
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            374.0,
+            268.0,
+            402.0
+          ],
+          "text": "Test",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            454.0,
+            282.0,
+            480.0
+          ],
+          "text": "CASTS",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            848.0,
+            456.0,
+            944.0,
+            488.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1110.0,
+            456.0,
+            1182.0,
+            486.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.976
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            496.0,
+            284.0,
+            522.0
+          ],
+          "text": "Method",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            492.0,
+            496.0,
+            520.0
+          ],
+          "text": "MICROSCOPY",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            526.0,
+            328.0,
+            556.0
+          ],
+          "text": "CRYSTALS",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            532.0,
+            944.0,
+            564.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            571.0,
+            320.0,
+            597.0
+          ],
+          "text": "BACTERIA",
+          "confidence": 0.6995
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            574.0,
+            944.0,
+            606.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            574.0,
+            1184.0,
+            606.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            612.0,
+            284.0,
+            638.0
+          ],
+          "text": "Method",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            610.0,
+            496.0,
+            638.0
+          ],
+          "text": "MICROSCOPY",
+          "confidence": 0.9757
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            643.0,
+            304.0,
+            671.0
+          ],
+          "text": "OTHERS",
+          "confidence": 0.7781
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            646.0,
+            944.0,
+            678.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            646.0,
+            1142.0,
+            676.0
+          ],
+          "text": "%",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            684.0,
+            284.0,
+            710.0
+          ],
+          "text": "Method",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            680.0,
+            494.0,
+            708.0
+          ],
+          "text": "MICROSCOPY",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            715.0,
+            974.0,
+            748.0
+          ],
+          "text": "End of the Report--=",
+          "confidence": 0.6229
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1670.0,
+            384.0,
+            1700.0
+          ],
+          "text": "Mr. Nandha Kumar R",
+          "confidence": 0.6732
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            1672.0,
+            1094.0,
+            1698.0
+          ],
+          "text": "Dr. Jahnabi Barman",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            1700.0,
+            1116.0,
+            1730.0
+          ],
+          "text": "MBBS, MD Microbiology",
+          "confidence": 0.8
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            1732.0,
+            1124.0,
+            1760.0
+          ],
+          "text": "Consultant Microbiologist",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            882.0,
+            1768.0,
+            924.0,
+            1796.0
+          ],
+          "text": "Reg",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1802.0,
+            296.0,
+            1832.0
+          ],
+          "text": "Prepared By",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            879.0,
+            1797.0,
+            1001.0,
+            1833.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.987
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1844.0,
+            224.0,
+            1870.0
+          ],
+          "text": "DISCLAIMER",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            1840.0,
+            1384.0,
+            1872.0
+          ],
+          "text": "\"Test results pertain to specimen submitted. *All the results are dependent on quality of the sample received: \"Laboratory",
+          "confidence": 0.5862
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            1868.0,
+            1349.0,
+            1905.0
+          ],
+          "text": "investigations are only a tool to facilitate in arriving at a diagnosis & should be clinically correlated by referring Doctor:",
+          "confidence": 0.8281
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            1924.0,
+            180.0,
+            1948.0
+          ],
+          "text": "Print D & T",
+          "confidence": 0.8514
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            312.0,
+            1924.0,
+            510.0,
+            1950.0
+          ],
+          "text": "14.37.59 Printed By",
+          "confidence": 0.764
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            527.0,
+            1922.0,
+            728.0,
+            1951.0
+          ],
+          "text": "Swapna R (200153)",
+          "confidence": 0.9294
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1012.0,
+            2075.0,
+            1383.0,
+            2163.0
+          ],
+          "text": "J3 NvKS Hespital",
+          "confidence": 0.0468
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1050.0,
+            2132.0,
+            1299.0,
+            2186.0
+          ],
+          "text": "Maralhalli Quter",
+          "confidence": 0.6558
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1357.0,
+            2154.0,
+            1433.0,
+            2192.0
+          ],
+          "text": "Road",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            974.0,
+            2161.0,
+            1411.0,
+            2234.0
+          ],
+          "text": "Doddznekundl. Banzalore-5600292",
+          "confidence": 0.3242
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            542.1333087875939,
+            64.16585988749353,
+            584.8666912124061,
+            90.83414011250647
+          ],
+          "text": "No",
+          "confidence": 0.994
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            977.2104189626534,
+            2122.1139186448677,
+            1058.7895810373466,
+            2170.8860813551323
+          ],
+          "text": "95/3,",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1289.1063313266657,
+            2145.099468576834,
+            1364.8936686733343,
+            2196.900531423166
+          ],
+          "text": "Ring",
+          "confidence": 0.9937
+        }
+      ]
+    }
+  ],
+  "full_text": "AAROGYA\nAAROGYA\nHASTHA\nHOSPITALS\nPVT\nLTD.\nAH\n#HASTHA\nSite\n2, No 2816/2,SY8Z,Kasavanahalli Main Road_Off Sarjapura Road,Bengaluru\n560035\nH 8 $\nP | T 4 L $\nFor enquiries\nNo:: 030-666678877/8888 Tel\nCating Responsibly\nPatient)\nBilll\nMar 28 2025 9.2OAM\nAH-15399 /UHID15399\nSample Collected\nMar 28 2025 9.30AM\nNo\nLA25002730\nSample Received\nMar 28 2025 9:50AM\nReferred By\nVerified On\nMar 28 2025 2:22PM\nBar Code\nTest\nCASTS\nAbsent\nIHPF\nMethod\nMICROSCOPY\nCRYSTALS\nAbsent\nBACTERIA\nAbsent\nIHPF\nMethod\nMICROSCOPY\nOTHERS\nAbsent\n%\nMethod\nMICROSCOPY\nEnd of the Report--=\nMr. Nandha Kumar R\nDr. Jahnabi Barman\nMBBS, MD Microbiology\nConsultant Microbiologist\nReg\nPrepared By\nVerified By\nDISCLAIMER\n\"Test results pertain to specimen submitted. *All the results are dependent on quality of the sample received: \"Laboratory\ninvestigations are only a tool to facilitate in arriving at a diagnosis & should be clinically correlated by referring Doctor:\nPrint D & T\n14.37.59 Printed By\nSwapna R (200153)\nJ3 NvKS Hespital\nMaralhalli Quter\nRoad\nDoddznekundl. Banzalore-5600292\nNo\n95/3,\nRing",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "H 8 $",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "P | T",
+          "biomarker_normalized": "P | T",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "P | T 4 L $",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "No",
+          "biomarker_normalized": "No",
+          "value": "030",
+          "unit": "",
+          "reference_range": "030-666678877",
+          "source_line": "No:: 030-666678877/8888 Tel",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Mar",
+          "biomarker_normalized": "Mar",
+          "value": "28",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mar 28 2025 9.2OAM",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "AH",
+          "biomarker_normalized": "AH",
+          "value": "15399",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AH-15399 /UHID15399",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "LA2",
+          "biomarker_normalized": "LA2",
+          "value": "5002730",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "LA25002730",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Swapna R (",
+          "biomarker_normalized": "Swapna R (",
+          "value": "200153",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Swapna R (200153)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Doddznekundl. Banzalore",
+          "biomarker_normalized": "Doddznekundl. Banzalore",
+          "value": "5600292",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Doddznekundl. Banzalore-5600292",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 69,
+    "ocr_avg_confidence": 0.8449,
+    "parsed_row_count": 8
+  }
+}

@@ -1,0 +1,1947 @@
+{
+  "document_id": "GUR-0425-PA-0056282_F-KYC_PC_SHANAZ_1_250424_1254@G.pdf_page_11",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056282_F-KYC_PC_SHANAZ_1_250424_1254@G.pdf_page_11.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Department of Pathology\nA-1, Damodar Colony; Garh Road,\nANAND HOSPITAL\nPh: +91-121-2792000,\nFax\n+91-121-4\nRun Dy: ANAND NIROGDHAM HOSPITAL PVT LTDE\nAN ISO 9001\n2008 certified\nmanandhospiial com\nAnand Hospital\nWe Believe in Caring, not just\nCuring_.\nProvisional Report\nLab No\nRog Date\n109.OSPM\n(By\nDr;\nReport Date\nDetail : UHID:\nP2523186Reg No: IP90235757 Ward: EMERGENCY Bed No: 0\nTest\nABG\nrial Blood Gas) *\n37.00\nFO2()\n45.00\n%/0\nBLOOD GAS VALUES (37 C)\nPH\n7.46\nH\n7.35\n7.45\npCO2\n29.50\nmmHg\nL\n32\n45\npO2\n119.00\nmmHg\nH\n83\n108\nTemperature Corrected Values\nPH(T)\n7.46\npCO2(T)\n29.50\nmmHg\npO2(T)\n119.00\nmmHg\nOximetry Values\nctHB\n8.10\n9/ di\nL\n12.0\n16.0\n502\n96.20\n%f\n95\n99\nFOZHb\n95.30\n0/0\n:\n90\n98\nFCOHb\n0.10\n%\n0.5\n5.0\nFHHb\n3.80\n%\n0.5\n5.0\nFMetHb\n0.80\n%/\nN\n0.5\n5.0\nElectrolyte Values\ncNa+\n134.00\nmmol/\n136\n146\nck +\n3.70\nmmol/\n3.40\n4.50\ncCa+\n4.58\nmg/ dl\n:\n4.61\n5.17\nCCL\n108.00\nmmoll L\n98\n106\nMetabolite Values\ncGlu\n269\nmg/ dl\nH\n70\n105\ncLac\n3.4\nmmol/ L\nH\n0.5 - 1.5\nAcid Base Status\nchco3(P)c\n20.90\nmmol/ L\n21 - 28\ncHCO3(P stJc\n22.80\nmmol/\nABE\n-1.90\nmmol/ L\nSBE\n-2.30\nmmoll L\nCalculated Values\nctCoz(BJc\n44.10\nVol%\ncco2(P)c\n48.90\nVol%\nHct\n25.30\n%\n27\n54\nph(st)c\n7.37\nPO2(A-a)e\n156.80\nmmHg\nTTar",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            100.0,
+            751.0,
+            150.0
+          ],
+          "text": "Department of Pathology",
+          "confidence": 0.881
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            913.0,
+            133.0,
+            1269.0,
+            169.0
+          ],
+          "text": "A-1, Damodar Colony; Garh Road,",
+          "confidence": 0.7084
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            308.0,
+            141.0,
+            885.0,
+            230.0
+          ],
+          "text": "ANAND HOSPITAL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1078.0,
+            164.0,
+            1310.0,
+            195.0
+          ],
+          "text": "Ph: +91-121-2792000,",
+          "confidence": 0.7518
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1162.0,
+            196.0,
+            1206.0,
+            222.0
+          ],
+          "text": "Fax",
+          "confidence": 0.8894
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            196.0,
+            1329.0,
+            222.0
+          ],
+          "text": "+91-121-4",
+          "confidence": 0.8864
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            356.0,
+            226.0,
+            826.0,
+            258.0
+          ],
+          "text": "Run Dy: ANAND NIROGDHAM HOSPITAL PVT LTDE",
+          "confidence": 0.2352
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            437.0,
+            261.0,
+            547.0,
+            281.0
+          ],
+          "text": "AN ISO 9001",
+          "confidence": 0.5829
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            257.0,
+            705.0,
+            282.0
+          ],
+          "text": "2008 certified",
+          "confidence": 0.6567
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1151.0,
+            252.0,
+            1404.0,
+            285.0
+          ],
+          "text": "manandhospiial com",
+          "confidence": 0.6536
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            295.0,
+            292.0,
+            322.0
+          ],
+          "text": "Anand Hospital",
+          "confidence": 0.8255
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            339.0,
+            328.0,
+            721.0,
+            372.0
+          ],
+          "text": "We Believe in Caring, not just",
+          "confidence": 0.4918
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            325.0,
+            849.0,
+            375.0
+          ],
+          "text": "Curing_.",
+          "confidence": 0.8492
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1182.0,
+            486.0,
+            1442.0,
+            516.0
+          ],
+          "text": "Provisional Report",
+          "confidence": 0.8507
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            264.0,
+            516.0,
+            352.0,
+            544.0
+          ],
+          "text": "Lab No",
+          "confidence": 0.9939
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            522.0,
+            946.0,
+            553.0
+          ],
+          "text": "Rog Date",
+          "confidence": 0.9757
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1186.0,
+            524.0,
+            1292.0,
+            552.0
+          ],
+          "text": "109.OSPM",
+          "confidence": 0.3067
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            368.0,
+            584.0,
+            406.0,
+            616.0
+          ],
+          "text": "(By",
+          "confidence": 0.4763
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            434.0,
+            584.0,
+            470.0,
+            608.0
+          ],
+          "text": "Dr;",
+          "confidence": 0.47
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            833.0,
+            589.0,
+            976.0,
+            619.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.7348
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            350.0,
+            645.0,
+            508.0,
+            675.0
+          ],
+          "text": "Detail : UHID:",
+          "confidence": 0.8812
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            642.0,
+            1233.0,
+            683.0
+          ],
+          "text": "P2523186Reg No: IP90235757 Ward: EMERGENCY Bed No: 0",
+          "confidence": 0.4648
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            730.0,
+            310.0,
+            756.0
+          ],
+          "text": "Test",
+          "confidence": 0.9212
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            784.0,
+            314.0,
+            810.0
+          ],
+          "text": "ABG",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            382.0,
+            785.0,
+            602.0,
+            818.0
+          ],
+          "text": "rial Blood Gas) *",
+          "confidence": 0.768
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            822.0,
+            700.0,
+            848.0
+          ],
+          "text": "37.00",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            845.0,
+            347.0,
+            878.0
+          ],
+          "text": "FO2()",
+          "confidence": 0.7993
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            854.0,
+            700.0,
+            880.0
+          ],
+          "text": "45.00",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            856.0,
+            774.0,
+            880.0
+          ],
+          "text": "%/0",
+          "confidence": 0.5335
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            267.0,
+            879.0,
+            601.0,
+            915.0
+          ],
+          "text": "BLOOD GAS VALUES (37 C)",
+          "confidence": 0.6808
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            912.0,
+            302.0,
+            940.0
+          ],
+          "text": "PH",
+          "confidence": 0.6962
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            918.0,
+            690.0,
+            942.0
+          ],
+          "text": "7.46",
+          "confidence": 0.7425
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            895.0,
+            921.0,
+            915.0,
+            945.0
+          ],
+          "text": "H",
+          "confidence": 0.9236
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            920.0,
+            1012.0,
+            946.0
+          ],
+          "text": "7.35",
+          "confidence": 0.9077
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1028.0,
+            920.0,
+            1084.0,
+            946.0
+          ],
+          "text": "7.45",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            266.0,
+            944.0,
+            330.0,
+            972.0
+          ],
+          "text": "pCO2",
+          "confidence": 0.5853
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            948.0,
+            704.0,
+            974.0
+          ],
+          "text": "29.50",
+          "confidence": 0.8212
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            746.0,
+            952.0,
+            820.0,
+            980.0
+          ],
+          "text": "mmHg",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            899.0,
+            955.0,
+            913.0,
+            977.0
+          ],
+          "text": "L",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            952.0,
+            990.0,
+            978.0
+          ],
+          "text": "32",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            954.0,
+            1040.0,
+            978.0
+          ],
+          "text": "45",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            973.0,
+            315.0,
+            1002.0
+          ],
+          "text": "pO2",
+          "confidence": 0.6819
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            630.0,
+            980.0,
+            718.0,
+            1006.0
+          ],
+          "text": "119.00",
+          "confidence": 0.5166
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            982.0,
+            820.0,
+            1010.0
+          ],
+          "text": "mmHg",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            895.0,
+            983.0,
+            913.0,
+            1007.0
+          ],
+          "text": "H",
+          "confidence": 0.904
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            984.0,
+            990.0,
+            1010.0
+          ],
+          "text": "83",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            984.0,
+            1054.0,
+            1010.0
+          ],
+          "text": "108",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            1004.0,
+            640.0,
+            1040.0
+          ],
+          "text": "Temperature Corrected Values",
+          "confidence": 0.8056
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            262.0,
+            1038.0,
+            332.0,
+            1068.0
+          ],
+          "text": "PH(T)",
+          "confidence": 0.5194
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1044.0,
+            684.0,
+            1068.0
+          ],
+          "text": "7.46",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            1069.0,
+            359.0,
+            1099.0
+          ],
+          "text": "pCO2(T)",
+          "confidence": 0.7655
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            628.0,
+            1074.0,
+            696.0,
+            1100.0
+          ],
+          "text": "29.50",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            1078.0,
+            818.0,
+            1106.0
+          ],
+          "text": "mmHg",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            1102.0,
+            344.0,
+            1132.0
+          ],
+          "text": "pO2(T)",
+          "confidence": 0.5818
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            626.0,
+            1106.0,
+            710.0,
+            1132.0
+          ],
+          "text": "119.00",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            741.0,
+            1106.0,
+            818.0,
+            1136.0
+          ],
+          "text": "mmHg",
+          "confidence": 0.9113
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            259.0,
+            1132.0,
+            464.0,
+            1162.0
+          ],
+          "text": "Oximetry Values",
+          "confidence": 0.7332
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            258.0,
+            1166.0,
+            316.0,
+            1190.0
+          ],
+          "text": "ctHB",
+          "confidence": 0.9816
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            626.0,
+            1170.0,
+            686.0,
+            1194.0
+          ],
+          "text": "8.10",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            1172.0,
+            796.0,
+            1200.0
+          ],
+          "text": "9/ di",
+          "confidence": 0.7559
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            893.0,
+            1175.0,
+            911.0,
+            1197.0
+          ],
+          "text": "L",
+          "confidence": 0.9936
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1174.0,
+            1008.0,
+            1198.0
+          ],
+          "text": "12.0",
+          "confidence": 0.8955
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            1174.0,
+            1082.0,
+            1200.0
+          ],
+          "text": "16.0",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            256.0,
+            1198.0,
+            306.0,
+            1222.0
+          ],
+          "text": "502",
+          "confidence": 0.9119
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            1202.0,
+            694.0,
+            1228.0
+          ],
+          "text": "96.20",
+          "confidence": 0.979
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            1202.0,
+            768.0,
+            1228.0
+          ],
+          "text": "%f",
+          "confidence": 0.3432
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1204.0,
+            986.0,
+            1230.0
+          ],
+          "text": "95",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            1206.0,
+            1038.0,
+            1232.0
+          ],
+          "text": "99",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            256.0,
+            1228.0,
+            334.0,
+            1254.0
+          ],
+          "text": "FOZHb",
+          "confidence": 0.4657
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            624.0,
+            1232.0,
+            692.0,
+            1258.0
+          ],
+          "text": "95.30",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            740.0,
+            1234.0,
+            768.0,
+            1260.0
+          ],
+          "text": "0/0",
+          "confidence": 0.4157
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            890.0,
+            1203.0,
+            914.0,
+            1294.0
+          ],
+          "text": ":",
+          "confidence": 0.1234
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1236.0,
+            986.0,
+            1262.0
+          ],
+          "text": "90",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            1238.0,
+            1038.0,
+            1262.0
+          ],
+          "text": "98",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            1262.0,
+            334.0,
+            1288.0
+          ],
+          "text": "FCOHb",
+          "confidence": 0.6106
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            1266.0,
+            682.0,
+            1290.0
+          ],
+          "text": "0.10",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1266.0,
+            768.0,
+            1292.0
+          ],
+          "text": "%",
+          "confidence": 0.9832
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1268.0,
+            994.0,
+            1294.0
+          ],
+          "text": "0.5",
+          "confidence": 0.7863
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1012.0,
+            1270.0,
+            1054.0,
+            1296.0
+          ],
+          "text": "5.0",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            1294.0,
+            318.0,
+            1320.0
+          ],
+          "text": "FHHb",
+          "confidence": 0.8309
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            622.0,
+            1298.0,
+            678.0,
+            1324.0
+          ],
+          "text": "3.80",
+          "confidence": 0.9718
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            738.0,
+            1298.0,
+            766.0,
+            1324.0
+          ],
+          "text": "%",
+          "confidence": 0.6795
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1302.0,
+            994.0,
+            1328.0
+          ],
+          "text": "0.5",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1012.0,
+            1302.0,
+            1054.0,
+            1328.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9872
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            1326.0,
+            340.0,
+            1352.0
+          ],
+          "text": "FMetHb",
+          "confidence": 0.9653
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            1330.0,
+            676.0,
+            1356.0
+          ],
+          "text": "0.80",
+          "confidence": 0.9902
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            1330.0,
+            766.0,
+            1356.0
+          ],
+          "text": "%/",
+          "confidence": 0.4096
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            887.0,
+            1297.0,
+            913.0,
+            1358.0
+          ],
+          "text": "N",
+          "confidence": 0.7017
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1334.0,
+            994.0,
+            1360.0
+          ],
+          "text": "0.5",
+          "confidence": 0.5932
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1012.0,
+            1334.0,
+            1054.0,
+            1360.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            1358.0,
+            476.0,
+            1386.0
+          ],
+          "text": "Electrolyte Values",
+          "confidence": 0.8813
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            1390.0,
+            312.0,
+            1416.0
+          ],
+          "text": "cNa+",
+          "confidence": 0.884
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            1394.0,
+            710.0,
+            1420.0
+          ],
+          "text": "134.00",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            736.0,
+            1396.0,
+            812.0,
+            1422.0
+          ],
+          "text": "mmol/",
+          "confidence": 0.9554
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            952.0,
+            1396.0,
+            1002.0,
+            1426.0
+          ],
+          "text": "136",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            1018.0,
+            1400.0,
+            1066.0,
+            1426.0
+          ],
+          "text": "146",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            248.0,
+            1424.0,
+            296.0,
+            1448.0
+          ],
+          "text": "ck +",
+          "confidence": 0.4471
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            1428.0,
+            674.0,
+            1454.0
+          ],
+          "text": "3.70",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            1430.0,
+            810.0,
+            1456.0
+          ],
+          "text": "mmol/",
+          "confidence": 0.9244
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1432.0,
+            1008.0,
+            1458.0
+          ],
+          "text": "3.40",
+          "confidence": 0.9086
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1026.0,
+            1434.0,
+            1082.0,
+            1462.0
+          ],
+          "text": "4.50",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            246.0,
+            1456.0,
+            308.0,
+            1482.0
+          ],
+          "text": "cCa+",
+          "confidence": 0.9236
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            1460.0,
+            678.0,
+            1486.0
+          ],
+          "text": "4.58",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            1464.0,
+            812.0,
+            1490.0
+          ],
+          "text": "mg/ dl",
+          "confidence": 0.5138
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            885.0,
+            1427.0,
+            910.0,
+            1522.0
+          ],
+          "text": ":",
+          "confidence": 0.3607
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1466.0,
+            1006.0,
+            1490.0
+          ],
+          "text": "4.61",
+          "confidence": 0.9115
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            1024.0,
+            1466.0,
+            1080.0,
+            1492.0
+          ],
+          "text": "5.17",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            1490.0,
+            290.0,
+            1514.0
+          ],
+          "text": "CCL",
+          "confidence": 0.9627
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            616.0,
+            1492.0,
+            708.0,
+            1518.0
+          ],
+          "text": "108.00",
+          "confidence": 0.9921
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            734.0,
+            1496.0,
+            830.0,
+            1522.0
+          ],
+          "text": "mmoll L",
+          "confidence": 0.7816
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1498.0,
+            986.0,
+            1526.0
+          ],
+          "text": "98",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            1498.0,
+            1050.0,
+            1524.0
+          ],
+          "text": "106",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            246.0,
+            1521.0,
+            468.0,
+            1548.0
+          ],
+          "text": "Metabolite Values",
+          "confidence": 0.9514
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1556.0,
+            296.0,
+            1580.0
+          ],
+          "text": "cGlu",
+          "confidence": 0.9634
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            1558.0,
+            666.0,
+            1584.0
+          ],
+          "text": "269",
+          "confidence": 0.8812
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1562.0,
+            810.0,
+            1590.0
+          ],
+          "text": "mg/ dl",
+          "confidence": 0.5409
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            887.0,
+            1567.0,
+            907.0,
+            1589.0
+          ],
+          "text": "H",
+          "confidence": 0.8312
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1564.0,
+            984.0,
+            1590.0
+          ],
+          "text": "70",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            1566.0,
+            1052.0,
+            1594.0
+          ],
+          "text": "105",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1588.0,
+            296.0,
+            1614.0
+          ],
+          "text": "cLac",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            1592.0,
+            658.0,
+            1618.0
+          ],
+          "text": "3.4",
+          "confidence": 0.9555
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            732.0,
+            1596.0,
+            828.0,
+            1622.0
+          ],
+          "text": "mmol/ L",
+          "confidence": 0.7478
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            884.0,
+            1596.0,
+            908.0,
+            1622.0
+          ],
+          "text": "H",
+          "confidence": 0.9391
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1598.0,
+            1052.0,
+            1626.0
+          ],
+          "text": "0.5 - 1.5",
+          "confidence": 0.6552
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1620.0,
+            450.0,
+            1650.0
+          ],
+          "text": "Acid Base Status",
+          "confidence": 0.8971
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            1654.0,
+            366.0,
+            1686.0
+          ],
+          "text": "chco3(P)c",
+          "confidence": 0.6879
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            1660.0,
+            688.0,
+            1686.0
+          ],
+          "text": "20.90",
+          "confidence": 0.9441
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            730.0,
+            1664.0,
+            828.0,
+            1690.0
+          ],
+          "text": "mmol/ L",
+          "confidence": 0.8881
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1666.0,
+            1036.0,
+            1694.0
+          ],
+          "text": "21 - 28",
+          "confidence": 0.7011
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            238.0,
+            1688.0,
+            392.0,
+            1720.0
+          ],
+          "text": "cHCO3(P stJc",
+          "confidence": 0.5185
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            610.0,
+            1692.0,
+            680.0,
+            1720.0
+          ],
+          "text": "22.80",
+          "confidence": 0.829
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            1698.0,
+            804.0,
+            1724.0
+          ],
+          "text": "mmol/",
+          "confidence": 0.9181
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            1719.0,
+            287.0,
+            1748.0
+          ],
+          "text": "ABE",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            610.0,
+            1728.0,
+            676.0,
+            1756.0
+          ],
+          "text": "-1.90",
+          "confidence": 0.5367
+        },
+        {
+          "block_no": 134,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            1732.0,
+            824.0,
+            1758.0
+          ],
+          "text": "mmol/ L",
+          "confidence": 0.7467
+        },
+        {
+          "block_no": 135,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            1754.0,
+            288.0,
+            1782.0
+          ],
+          "text": "SBE",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 136,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1762.0,
+            674.0,
+            1788.0
+          ],
+          "text": "-2.30",
+          "confidence": 0.6776
+        },
+        {
+          "block_no": 137,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1766.0,
+            824.0,
+            1792.0
+          ],
+          "text": "mmoll L",
+          "confidence": 0.6246
+        },
+        {
+          "block_no": 138,
+          "block_type": 0,
+          "bbox": [
+            235.0,
+            1787.0,
+            456.0,
+            1818.0
+          ],
+          "text": "Calculated Values",
+          "confidence": 0.8437
+        },
+        {
+          "block_no": 139,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            1816.0,
+            356.0,
+            1855.0
+          ],
+          "text": "ctCoz(BJc",
+          "confidence": 0.363
+        },
+        {
+          "block_no": 140,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            1830.0,
+            676.0,
+            1858.0
+          ],
+          "text": "44.10",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 141,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1832.0,
+            788.0,
+            1860.0
+          ],
+          "text": "Vol%",
+          "confidence": 0.9832
+        },
+        {
+          "block_no": 142,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            1854.0,
+            350.0,
+            1886.0
+          ],
+          "text": "cco2(P)c",
+          "confidence": 0.4352
+        },
+        {
+          "block_no": 143,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            1864.0,
+            678.0,
+            1892.0
+          ],
+          "text": "48.90",
+          "confidence": 0.9833
+        },
+        {
+          "block_no": 144,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1866.0,
+            788.0,
+            1894.0
+          ],
+          "text": "Vol%",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 145,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            1886.0,
+            276.0,
+            1912.0
+          ],
+          "text": "Hct",
+          "confidence": 0.9674
+        },
+        {
+          "block_no": 146,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            1898.0,
+            682.0,
+            1924.0
+          ],
+          "text": "25.30",
+          "confidence": 0.9965
+        },
+        {
+          "block_no": 147,
+          "block_type": 0,
+          "bbox": [
+            724.0,
+            1900.0,
+            752.0,
+            1926.0
+          ],
+          "text": "%",
+          "confidence": 0.8793
+        },
+        {
+          "block_no": 148,
+          "block_type": 0,
+          "bbox": [
+            944.0,
+            1904.0,
+            980.0,
+            1932.0
+          ],
+          "text": "27",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 149,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            1904.0,
+            1032.0,
+            1930.0
+          ],
+          "text": "54",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 150,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            1916.0,
+            320.0,
+            1948.0
+          ],
+          "text": "ph(st)c",
+          "confidence": 0.4644
+        },
+        {
+          "block_no": 151,
+          "block_type": 0,
+          "bbox": [
+            602.0,
+            1929.0,
+            660.0,
+            1959.0
+          ],
+          "text": "7.37",
+          "confidence": 0.6779
+        },
+        {
+          "block_no": 152,
+          "block_type": 0,
+          "bbox": [
+            231.0,
+            1949.0,
+            352.0,
+            1982.0
+          ],
+          "text": "PO2(A-a)e",
+          "confidence": 0.4251
+        },
+        {
+          "block_no": 153,
+          "block_type": 0,
+          "bbox": [
+            604.0,
+            1964.0,
+            688.0,
+            1990.0
+          ],
+          "text": "156.80",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 154,
+          "block_type": 0,
+          "bbox": [
+            722.0,
+            1968.0,
+            802.0,
+            1996.0
+          ],
+          "text": "mmHg",
+          "confidence": 0.9312
+        },
+        {
+          "block_no": 155,
+          "block_type": 0,
+          "bbox": [
+            177.03883864861817,
+            267.1092540367475,
+            235.96116135138183,
+            299.8907459632525
+          ],
+          "text": "TTar",
+          "confidence": 0.0266
+        }
+      ]
+    }
+  ],
+  "full_text": "Department of Pathology\nA-1, Damodar Colony; Garh Road,\nANAND HOSPITAL\nPh: +91-121-2792000,\nFax\n+91-121-4\nRun Dy: ANAND NIROGDHAM HOSPITAL PVT LTDE\nAN ISO 9001\n2008 certified\nmanandhospiial com\nAnand Hospital\nWe Believe in Caring, not just\nCuring_.\nProvisional Report\nLab No\nRog Date\n109.OSPM\n(By\nDr;\nReport Date\nDetail : UHID:\nP2523186Reg No: IP90235757 Ward: EMERGENCY Bed No: 0\nTest\nABG\nrial Blood Gas) *\n37.00\nFO2()\n45.00\n%/0\nBLOOD GAS VALUES (37 C)\nPH\n7.46\nH\n7.35\n7.45\npCO2\n29.50\nmmHg\nL\n32\n45\npO2\n119.00\nmmHg\nH\n83\n108\nTemperature Corrected Values\nPH(T)\n7.46\npCO2(T)\n29.50\nmmHg\npO2(T)\n119.00\nmmHg\nOximetry Values\nctHB\n8.10\n9/ di\nL\n12.0\n16.0\n502\n96.20\n%f\n95\n99\nFOZHb\n95.30\n0/0\n:\n90\n98\nFCOHb\n0.10\n%\n0.5\n5.0\nFHHb\n3.80\n%\n0.5\n5.0\nFMetHb\n0.80\n%/\nN\n0.5\n5.0\nElectrolyte Values\ncNa+\n134.00\nmmol/\n136\n146\nck +\n3.70\nmmol/\n3.40\n4.50\ncCa+\n4.58\nmg/ dl\n:\n4.61\n5.17\nCCL\n108.00\nmmoll L\n98\n106\nMetabolite Values\ncGlu\n269\nmg/ dl\nH\n70\n105\ncLac\n3.4\nmmol/ L\nH\n0.5 - 1.5\nAcid Base Status\nchco3(P)c\n20.90\nmmol/ L\n21 - 28\ncHCO3(P stJc\n22.80\nmmol/\nABE\n-1.90\nmmol/ L\nSBE\n-2.30\nmmoll L\nCalculated Values\nctCoz(BJc\n44.10\nVol%\ncco2(P)c\n48.90\nVol%\nHct\n25.30\n%\n27\n54\nph(st)c\n7.37\nPO2(A-a)e\n156.80\nmmHg\nTTar",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "A",
+          "biomarker_normalized": "A",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "A-1, Damodar Colony; Garh Road,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ph: +",
+          "biomarker_normalized": "Ph: +",
+          "value": "91",
+          "unit": "",
+          "reference_range": "91-121",
+          "source_line": "Ph: +91-121-2792000,",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "AN ISO",
+          "biomarker_normalized": "AN ISO",
+          "value": "9001",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AN ISO 9001",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "P2",
+          "biomarker_normalized": "P2",
+          "value": "523186",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "P2523186Reg No: IP90235757 Ward: EMERGENCY Bed No: 0",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BLOOD GAS VALUES (",
+          "biomarker_normalized": "BLOOD GAS VALUES (",
+          "value": "37",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BLOOD GAS VALUES (37 C)",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 156,
+    "ocr_avg_confidence": 0.8177,
+    "parsed_row_count": 5
+  }
+}

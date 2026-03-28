@@ -1,0 +1,1140 @@
+{
+  "document_id": "GUR-0425-PA-0055942_IV_REPORTS_27-04-2025_1112-47_AM@E.pdf_page_1",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0055942_IV_REPORTS_27-04-2025_1112-47_AM@E.pdf_page_1.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PARAMEDICAL CENTRE\n(COMPUTERISED PATHOLOGICAL LABORATORY)\n471, School Road, Kolkata- 51 (Near Uttarayan School),\n2514-9592 (Lab.)\nSarat Bose Road,Kolkata-81,\n2514-3858, Mob.\nPatient]\nPatient\nAPR /989\nGender\nReceiving Date\n09.50\nRefering By Dr:\nRakhi Sanyal (Dutta Sarma)\nDate Of Report\n18.15\nDEPARTMENT QF CLINICAL PATHOLOGY (URINE)\nTEST NAME\nRESULT\nUNIT\nPHYSICAL EXAMINATION\nQuantity\n30 ml\nColour\nLight Straw\nAppearance\nClear\nDeposit\nAbsent\nSpecific Gravity\n1.015\nCHEMICAL EXAMINATION\nReaction\nAcidic\nProtein (Alb)\nPresent(+)\nSugar\nAbsent\nKetone bodies\nPH\nChyle\nBlood\nAbsent:\nBile Salt\nAbsent\nBile Pigment\nAbsent\nPhosphates\nAbsent\nNitrite\nAbsent\nMICROSCOPICAL EXAMINATION\nPus Cells\n0\n1\nIH.PF\nRBC\n0 - 1\nIH.P.F\nEpithelial Cells\nFew\nCasts\nAbsent\nCrystals\nAbsent\nYeast Cell\nAbsent\nParasite\nAbsent\nMicro-organisms\nFew\nOthers\nNB -\nAIl reference ranges are\nprovided along with the\nne entrurne\npport\nZhecked By\nG\nLab IOutside\nConsultant Biochemist\nPathologist in Charge\nConsultant Microbiologist\nDr: Bilas Kumar Sarkar\nDr: Subrata Pal\nDr: Arpita Neogi\nMD (Biochemistry)\nConsultant Pathologist\nMD (Microbiology)\nMD (Cal)\nReg:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            2.0,
+            1404.0,
+            78.0
+          ],
+          "text": "PARAMEDICAL CENTRE",
+          "confidence": 0.5412
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            457.0,
+            74.0,
+            1408.0,
+            122.0
+          ],
+          "text": "(COMPUTERISED PATHOLOGICAL LABORATORY)",
+          "confidence": 0.8581
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            403.0,
+            124.0,
+            1164.0,
+            168.0
+          ],
+          "text": "471, School Road, Kolkata- 51 (Near Uttarayan School),",
+          "confidence": 0.6775
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1212.0,
+            127.0,
+            1455.0,
+            171.0
+          ],
+          "text": "2514-9592 (Lab.)",
+          "confidence": 0.5604
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            392.0,
+            214.0,
+            801.0,
+            253.0
+          ],
+          "text": "Sarat Bose Road,Kolkata-81,",
+          "confidence": 0.7555
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            857.0,
+            217.0,
+            1087.0,
+            253.0
+          ],
+          "text": "2514-3858, Mob.",
+          "confidence": 0.9919
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            24.0,
+            302.0,
+            122.0,
+            332.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.6061
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            24.0,
+            342.0,
+            118.0,
+            372.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9841
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            342.0,
+            358.0,
+            372.0
+          ],
+          "text": "APR /989",
+          "confidence": 0.7131
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            696.0,
+            344.0,
+            796.0,
+            374.0
+          ],
+          "text": "Gender",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1154.0,
+            337.0,
+            1333.0,
+            377.0
+          ],
+          "text": "Receiving Date",
+          "confidence": 0.9279
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1476.0,
+            344.0,
+            1544.0,
+            372.0
+          ],
+          "text": "09.50",
+          "confidence": 0.5248
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            23.0,
+            376.0,
+            223.0,
+            417.0
+          ],
+          "text": "Refering By Dr:",
+          "confidence": 0.9771
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            233.0,
+            380.0,
+            595.0,
+            420.0
+          ],
+          "text": "Rakhi Sanyal (Dutta Sarma)",
+          "confidence": 0.65
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1156.0,
+            387.0,
+            1332.0,
+            419.0
+          ],
+          "text": "Date Of Report",
+          "confidence": 0.8703
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1482.0,
+            388.0,
+            1550.0,
+            416.0
+          ],
+          "text": "18.15",
+          "confidence": 0.4098
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            353.0,
+            443.0,
+            1177.0,
+            487.0
+          ],
+          "text": "DEPARTMENT QF CLINICAL PATHOLOGY (URINE)",
+          "confidence": 0.8972
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            478.0,
+            220.0,
+            508.0
+          ],
+          "text": "TEST NAME",
+          "confidence": 0.9248
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            634.0,
+            484.0,
+            752.0,
+            514.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9437
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            898.0,
+            486.0,
+            972.0,
+            514.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            512.0,
+            422.0,
+            542.0
+          ],
+          "text": "PHYSICAL EXAMINATION",
+          "confidence": 0.8461
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            40.0,
+            541.0,
+            154.0,
+            581.0
+          ],
+          "text": "Quantity",
+          "confidence": 0.9343
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            546.0,
+            712.0,
+            574.0
+          ],
+          "text": "30 ml",
+          "confidence": 0.6038
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            42.0,
+            580.0,
+            130.0,
+            608.0
+          ],
+          "text": "Colour",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            642.0,
+            580.0,
+            774.0,
+            612.0
+          ],
+          "text": "Light Straw",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            40.0,
+            612.0,
+            197.0,
+            650.0
+          ],
+          "text": "Appearance",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            642.0,
+            614.0,
+            710.0,
+            642.0
+          ],
+          "text": "Clear",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            647.0,
+            147.0,
+            683.0
+          ],
+          "text": "Deposit",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            648.0,
+            728.0,
+            674.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            681.0,
+            243.0,
+            717.0
+          ],
+          "text": "Specific Gravity",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            682.0,
+            712.0,
+            708.0
+          ],
+          "text": "1.015",
+          "confidence": 0.6956
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            52.0,
+            748.0,
+            428.0,
+            780.0
+          ],
+          "text": "CHEMICAL EXAMINATION",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            784.0,
+            158.0,
+            814.0
+          ],
+          "text": "Reaction",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            784.0,
+            720.0,
+            814.0
+          ],
+          "text": "Acidic",
+          "confidence": 0.9422
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            817.0,
+            205.0,
+            853.0
+          ],
+          "text": "Protein (Alb)",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            818.0,
+            768.0,
+            850.0
+          ],
+          "text": "Present(+)",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            39.0,
+            849.0,
+            127.0,
+            889.0
+          ],
+          "text": "Sugar",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            852.0,
+            730.0,
+            878.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            884.0,
+            226.0,
+            916.0
+          ],
+          "text": "Ketone bodies",
+          "confidence": 0.855
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            920.0,
+            88.0,
+            950.0
+          ],
+          "text": "PH",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            953.0,
+            123.0,
+            989.0
+          ],
+          "text": "Chyle",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            990.0,
+            120.0,
+            1020.0
+          ],
+          "text": "Blood",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            990.0,
+            730.0,
+            1016.0
+          ],
+          "text": "Absent:",
+          "confidence": 0.6946
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1022.0,
+            154.0,
+            1054.0
+          ],
+          "text": "Bile Salt",
+          "confidence": 0.6106
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1024.0,
+            730.0,
+            1050.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            1055.0,
+            209.0,
+            1093.0
+          ],
+          "text": "Bile Pigment",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1058.0,
+            730.0,
+            1084.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1092.0,
+            196.0,
+            1124.0
+          ],
+          "text": "Phosphates",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1092.0,
+            730.0,
+            1118.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1124.0,
+            124.0,
+            1154.0
+          ],
+          "text": "Nitrite",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1124.0,
+            730.0,
+            1152.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            54.0,
+            1191.0,
+            516.0,
+            1224.0
+          ],
+          "text": "MICROSCOPICAL EXAMINATION",
+          "confidence": 0.9505
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1228.0,
+            176.0,
+            1258.0
+          ],
+          "text": "Pus Cells",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            645.0,
+            1229.0,
+            665.0,
+            1253.0
+          ],
+          "text": "0",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            683.0,
+            1231.0,
+            697.0,
+            1253.0
+          ],
+          "text": "1",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            1230.0,
+            986.0,
+            1260.0
+          ],
+          "text": "IH.PF",
+          "confidence": 0.9733
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1262.0,
+            122.0,
+            1290.0
+          ],
+          "text": "RBC",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1260.0,
+            698.0,
+            1288.0
+          ],
+          "text": "0 - 1",
+          "confidence": 0.9904
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            1264.0,
+            988.0,
+            1294.0
+          ],
+          "text": "IH.P.F",
+          "confidence": 0.9045
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            1292.0,
+            235.0,
+            1329.0
+          ],
+          "text": "Epithelial Cells",
+          "confidence": 0.7749
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1294.0,
+            698.0,
+            1322.0
+          ],
+          "text": "Few",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1328.0,
+            122.0,
+            1358.0
+          ],
+          "text": "Casts",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            1328.0,
+            730.0,
+            1356.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            1361.0,
+            153.0,
+            1397.0
+          ],
+          "text": "Crystals",
+          "confidence": 0.982
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            643.0,
+            1360.0,
+            730.0,
+            1390.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            1396.0,
+            178.0,
+            1426.0
+          ],
+          "text": "Yeast Cell",
+          "confidence": 0.8373
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            1396.0,
+            730.0,
+            1424.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1430.0,
+            154.0,
+            1462.0
+          ],
+          "text": "Parasite",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            1430.0,
+            730.0,
+            1458.0
+          ],
+          "text": "Absent",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            44.0,
+            1462.0,
+            257.0,
+            1502.0
+          ],
+          "text": "Micro-organisms",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            644.0,
+            1466.0,
+            698.0,
+            1492.0
+          ],
+          "text": "Few",
+          "confidence": 0.985
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            43.0,
+            1497.0,
+            133.0,
+            1527.0
+          ],
+          "text": "Others",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            28.0,
+            1630.0,
+            96.0,
+            1660.0
+          ],
+          "text": "NB -",
+          "confidence": 0.6391
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1629.0,
+            419.0,
+            1667.0
+          ],
+          "text": "AIl reference ranges are",
+          "confidence": 0.7853
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1657.0,
+            407.0,
+            1698.0
+          ],
+          "text": "provided along with the",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            1690.0,
+            774.0,
+            1715.0
+          ],
+          "text": "ne entrurne",
+          "confidence": 0.1198
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1685.0,
+            825.0,
+            1716.0
+          ],
+          "text": "pport",
+          "confidence": 0.8583
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            99.0,
+            1983.0,
+            253.0,
+            2021.0
+          ],
+          "text": "Zhecked By",
+          "confidence": 0.4542
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            976.0,
+            1994.0,
+            1048.0,
+            2068.0
+          ],
+          "text": "G",
+          "confidence": 0.2411
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            2062.0,
+            212.0,
+            2092.0
+          ],
+          "text": "Lab IOutside",
+          "confidence": 0.8416
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            410.0,
+            2060.0,
+            693.0,
+            2096.0
+          ],
+          "text": "Consultant Biochemist",
+          "confidence": 0.7894
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            831.0,
+            2063.0,
+            1102.0,
+            2102.0
+          ],
+          "text": "Pathologist in Charge",
+          "confidence": 0.8234
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            2064.0,
+            1511.0,
+            2105.0
+          ],
+          "text": "Consultant Microbiologist",
+          "confidence": 0.9204
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            385.0,
+            2091.0,
+            721.0,
+            2134.0
+          ],
+          "text": "Dr: Bilas Kumar Sarkar",
+          "confidence": 0.8673
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            855.0,
+            2095.0,
+            1079.0,
+            2131.0
+          ],
+          "text": "Dr: Subrata Pal",
+          "confidence": 0.7244
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1233.0,
+            2098.0,
+            1471.0,
+            2139.0
+          ],
+          "text": "Dr: Arpita Neogi",
+          "confidence": 0.9886
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            435.0,
+            2125.0,
+            669.0,
+            2165.0
+          ],
+          "text": "MD (Biochemistry)",
+          "confidence": 0.9866
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            824.0,
+            2126.0,
+            1109.0,
+            2168.0
+          ],
+          "text": "Consultant Pathologist",
+          "confidence": 0.8559
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1235.0,
+            2130.0,
+            1467.0,
+            2169.0
+          ],
+          "text": "MD (Microbiology)",
+          "confidence": 0.7321
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            908.0,
+            2162.0,
+            1024.0,
+            2192.0
+          ],
+          "text": "MD (Cal)",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            691.2178496565357,
+            379.1539042094367,
+            759.7821503434643,
+            421.8460957905633
+          ],
+          "text": "Reg:",
+          "confidence": 0.7324
+        }
+      ]
+    }
+  ],
+  "full_text": "PARAMEDICAL CENTRE\n(COMPUTERISED PATHOLOGICAL LABORATORY)\n471, School Road, Kolkata- 51 (Near Uttarayan School),\n2514-9592 (Lab.)\nSarat Bose Road,Kolkata-81,\n2514-3858, Mob.\nPatient]\nPatient\nAPR /989\nGender\nReceiving Date\n09.50\nRefering By Dr:\nRakhi Sanyal (Dutta Sarma)\nDate Of Report\n18.15\nDEPARTMENT QF CLINICAL PATHOLOGY (URINE)\nTEST NAME\nRESULT\nUNIT\nPHYSICAL EXAMINATION\nQuantity\n30 ml\nColour\nLight Straw\nAppearance\nClear\nDeposit\nAbsent\nSpecific Gravity\n1.015\nCHEMICAL EXAMINATION\nReaction\nAcidic\nProtein (Alb)\nPresent(+)\nSugar\nAbsent\nKetone bodies\nPH\nChyle\nBlood\nAbsent:\nBile Salt\nAbsent\nBile Pigment\nAbsent\nPhosphates\nAbsent\nNitrite\nAbsent\nMICROSCOPICAL EXAMINATION\nPus Cells\n0\n1\nIH.PF\nRBC\n0 - 1\nIH.P.F\nEpithelial Cells\nFew\nCasts\nAbsent\nCrystals\nAbsent\nYeast Cell\nAbsent\nParasite\nAbsent\nMicro-organisms\nFew\nOthers\nNB -\nAIl reference ranges are\nprovided along with the\nne entrurne\npport\nZhecked By\nG\nLab IOutside\nConsultant Biochemist\nPathologist in Charge\nConsultant Microbiologist\nDr: Bilas Kumar Sarkar\nDr: Subrata Pal\nDr: Arpita Neogi\nMD (Biochemistry)\nConsultant Pathologist\nMD (Microbiology)\nMD (Cal)\nReg:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Sarat Bose Road,Kolkata",
+          "biomarker_normalized": "Sarat Bose Road,Kolkata",
+          "value": "81",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sarat Bose Road,Kolkata-81,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "APR /",
+          "biomarker_normalized": "APR /",
+          "value": "989",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "APR /989",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 91,
+    "ocr_avg_confidence": 0.8763,
+    "parsed_row_count": 2
+  }
+}

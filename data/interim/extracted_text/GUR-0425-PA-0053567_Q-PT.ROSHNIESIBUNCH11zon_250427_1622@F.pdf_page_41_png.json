@@ -1,0 +1,972 @@
+{
+  "document_id": "GUR-0425-PA-0053567_Q-PT.ROSHNIESIBUNCH11zon_250427_1622@F.pdf_page_41",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0053567_Q-PT.ROSHNIESIBUNCH11zon_250427_1622@F.pdf_page_41.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DeshWAL'S CLInIcAL LABORATORY\nInsldo . A.R: Mlttal Hospltal\nDharambir Doshwal\nGohana Road; Krlshan Pura, PANIPAT:132103\nDr; Rashml Tayal\nM;\n74046-03651\nMobo, MD (Palholovy)\nPationt[\n882\nReporled\n18-Apr-25\n03.50 PM\nReported Slalus\nFiral\nRelerred By Dr Anil Miltal\nBiochemistry Report\nInvesligation\nResult\nNormal Range\nLipid Urofilc\nSerum ( holesterol\n159\n(130\n250 mg;/ &l]\nSerum Triglyceridles\n124\n[Less than 150) mg/ dlJ]\nI  Cholesterol\n36 mS;/ dl\n[30\n65\ndl]\nLDL Cholesterol\n98.2 mw/ &l\n[Less than 130 mg/ &l]\nVID, Cholesterol\n24,8\n(Less than 4\nmg/ dl]\nSerum Amylase\n105 U/L\n[Up to 85 U/L]\nSerum Lipase\n180 U/ L\n[Up to 160 U/L]\nCRP Quatitative\n40\n[0 - 6 mg/I]\nJho\nIQua\nRastii\n\"Ins, MO (F'alhnlcy,\n\"sullatnt |'athok)\nVALiD For medico LEGAL Purpose\nLab: Techniclan\nFully Auto Haematology Analyzur\nAuto Blo Chemistry Analyzer\nThis Is & professional opinion, not a dlagnosls.\nAuto Analyzer\nPloaso co-rolato with clinical & othor Invostigations.\nDMLT\nms dl\nmS/ dl\nmg\nmg/ dl\nmg/I\nW\nPAMAT\nGumsl\nTy2\"\nNOt\nSemi\nHBAIC",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            53.0,
+            1420.0,
+            174.0
+          ],
+          "text": "DeshWAL'S CLInIcAL LABORATORY",
+          "confidence": 0.1517
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            612.0,
+            164.0,
+            1062.0,
+            212.0
+          ],
+          "text": "Insldo . A.R: Mlttal Hospltal",
+          "confidence": 0.3729
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            108.0,
+            233.0,
+            419.0,
+            294.0
+          ],
+          "text": "Dharambir Doshwal",
+          "confidence": 0.9695
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            210.0,
+            1214.0,
+            266.0
+          ],
+          "text": "Gohana Road; Krlshan Pura, PANIPAT:132103",
+          "confidence": 0.4692
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            232.0,
+            1571.0,
+            280.0
+          ],
+          "text": "Dr; Rashml Tayal",
+          "confidence": 0.9099
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            701.0,
+            267.0,
+            747.0,
+            305.0
+          ],
+          "text": "M;",
+          "confidence": 0.7624
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            765.0,
+            259.0,
+            973.0,
+            303.0
+          ],
+          "text": "74046-03651",
+          "confidence": 0.7701
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1317.0,
+            269.0,
+            1571.0,
+            307.0
+          ],
+          "text": "Mobo, MD (Palholovy)",
+          "confidence": 0.174
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            378.0,
+            281.0,
+            416.0
+          ],
+          "text": "Pationt[",
+          "confidence": 0.3746
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            339.0,
+            467.0,
+            403.0,
+            503.0
+          ],
+          "text": "882",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1047.0,
+            471.0,
+            1193.0,
+            513.0
+          ],
+          "text": "Reporled",
+          "confidence": 0.9754
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1233.0,
+            469.0,
+            1389.0,
+            509.0
+          ],
+          "text": "18-Apr-25",
+          "confidence": 0.931
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1407.0,
+            467.0,
+            1551.0,
+            503.0
+          ],
+          "text": "03.50 PM",
+          "confidence": 0.7242
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1046.0,
+            514.0,
+            1296.0,
+            557.0
+          ],
+          "text": "Reported Slalus",
+          "confidence": 0.7806
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1335.0,
+            513.0,
+            1417.0,
+            549.0
+          ],
+          "text": "Firal",
+          "confidence": 0.5092
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            552.0,
+            571.0,
+            597.0
+          ],
+          "text": "Relerred By Dr Anil Miltal",
+          "confidence": 0.7107
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            546.0,
+            597.0,
+            977.0,
+            669.0
+          ],
+          "text": "Biochemistry Report",
+          "confidence": 0.9952
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            657.0,
+            417.0,
+            699.0
+          ],
+          "text": "Invesligation",
+          "confidence": 0.7216
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            706.0,
+            662.0,
+            810.0,
+            698.0
+          ],
+          "text": "Result",
+          "confidence": 0.4843
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1103.0,
+            661.0,
+            1335.0,
+            705.0
+          ],
+          "text": "Normal Range",
+          "confidence": 0.7711
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            693.0,
+            421.0,
+            737.0
+          ],
+          "text": "Lipid Urofilc",
+          "confidence": 0.2241
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            734.0,
+            489.0,
+            776.0
+          ],
+          "text": "Serum ( holesterol",
+          "confidence": 0.3693
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            743.0,
+            765.0,
+            779.0
+          ],
+          "text": "159",
+          "confidence": 0.9945
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1075.0,
+            745.0,
+            1147.0,
+            785.0
+          ],
+          "text": "(130",
+          "confidence": 0.5401
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            740.0,
+            1348.0,
+            788.0
+          ],
+          "text": "250 mg;/ &l]",
+          "confidence": 0.1873
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            204.0,
+            816.0,
+            518.0,
+            866.0
+          ],
+          "text": "Serum Triglyceridles",
+          "confidence": 0.5041
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            827.0,
+            763.0,
+            863.0
+          ],
+          "text": "124",
+          "confidence": 0.8002
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            822.0,
+            1413.0,
+            874.0
+          ],
+          "text": "[Less than 150) mg/ dlJ]",
+          "confidence": 0.1552
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            901.0,
+            467.0,
+            942.0
+          ],
+          "text": "I  Cholesterol",
+          "confidence": 0.3859
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            703.0,
+            909.0,
+            851.0,
+            953.0
+          ],
+          "text": "36 mS;/ dl",
+          "confidence": 0.3921
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            909.0,
+            1129.0,
+            951.0
+          ],
+          "text": "[30",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1149.0,
+            911.0,
+            1195.0,
+            947.0
+          ],
+          "text": "65",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1259.0,
+            909.0,
+            1313.0,
+            951.0
+          ],
+          "text": "dl]",
+          "confidence": 0.3465
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            209.0,
+            985.0,
+            459.0,
+            1026.0
+          ],
+          "text": "LDL Cholesterol",
+          "confidence": 0.8413
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            702.0,
+            989.0,
+            878.0,
+            1041.0
+          ],
+          "text": "98.2 mw/ &l",
+          "confidence": 0.3667
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            990.0,
+            1411.0,
+            1042.0
+          ],
+          "text": "[Less than 130 mg/ &l]",
+          "confidence": 0.5693
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            1069.0,
+            483.0,
+            1107.0
+          ],
+          "text": "VID, Cholesterol",
+          "confidence": 0.4206
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            705.0,
+            1075.0,
+            773.0,
+            1111.0
+          ],
+          "text": "24,8",
+          "confidence": 0.7799
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            1079.0,
+            1275.0,
+            1119.0
+          ],
+          "text": "(Less than 4",
+          "confidence": 0.6465
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1268.0,
+            1072.0,
+            1394.0,
+            1128.0
+          ],
+          "text": "mg/ dl]",
+          "confidence": 0.6705
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            202.0,
+            1236.0,
+            452.0,
+            1288.0
+          ],
+          "text": "Serum Amylase",
+          "confidence": 0.9782
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            711.0,
+            1245.0,
+            843.0,
+            1285.0
+          ],
+          "text": "105 U/L",
+          "confidence": 0.9238
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1089.0,
+            1244.0,
+            1328.0,
+            1295.0
+          ],
+          "text": "[Up to 85 U/L]",
+          "confidence": 0.896
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            200.0,
+            1432.0,
+            414.0,
+            1480.0
+          ],
+          "text": "Serum Lipase",
+          "confidence": 0.7514
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            707.0,
+            1441.0,
+            841.0,
+            1481.0
+          ],
+          "text": "180 U/ L",
+          "confidence": 0.7468
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1092.0,
+            1442.0,
+            1344.0,
+            1490.0
+          ],
+          "text": "[Up to 160 U/L]",
+          "confidence": 0.6825
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            203.0,
+            1611.0,
+            471.0,
+            1651.0
+          ],
+          "text": "CRP Quatitative",
+          "confidence": 0.94
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            700.0,
+            1618.0,
+            742.0,
+            1650.0
+          ],
+          "text": "40",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1090.0,
+            1618.0,
+            1288.0,
+            1668.0
+          ],
+          "text": "[0 - 6 mg/I]",
+          "confidence": 0.7872
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            546.0,
+            1806.0,
+            594.0,
+            1838.0
+          ],
+          "text": "Jho",
+          "confidence": 0.3989
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            1990.0,
+            556.0,
+            2014.0
+          ],
+          "text": "IQua",
+          "confidence": 0.1765
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1120.0,
+            1972.0,
+            1243.0,
+            2020.0
+          ],
+          "text": "Rastii",
+          "confidence": 0.175
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1089.0,
+            2007.0,
+            1320.0,
+            2047.0
+          ],
+          "text": "\"Ins, MO (F'alhnlcy,",
+          "confidence": 0.0826
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            2040.0,
+            1304.0,
+            2072.0
+          ],
+          "text": "\"sullatnt |'athok)",
+          "confidence": 0.1425
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            176.0,
+            2117.0,
+            669.0,
+            2159.0
+          ],
+          "text": "VALiD For medico LEGAL Purpose",
+          "confidence": 0.417
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1313.0,
+            2139.0,
+            1551.0,
+            2177.0
+          ],
+          "text": "Lab: Techniclan",
+          "confidence": 0.5199
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            2169.0,
+            543.0,
+            2209.0
+          ],
+          "text": "Fully Auto Haematology Analyzur",
+          "confidence": 0.5835
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            211.0,
+            2198.0,
+            555.0,
+            2237.0
+          ],
+          "text": "Auto Blo Chemistry Analyzer",
+          "confidence": 0.4905
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            2191.0,
+            1563.0,
+            2235.0
+          ],
+          "text": "This Is & professional opinion, not a dlagnosls.",
+          "confidence": 0.2605
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            232.0,
+            2226.0,
+            405.0,
+            2267.0
+          ],
+          "text": "Auto Analyzer",
+          "confidence": 0.9872
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            900.0,
+            2226.0,
+            1596.0,
+            2274.0
+          ],
+          "text": "Ploaso co-rolato with clinical & othor Invostigations.",
+          "confidence": 0.3458
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            106.03359835525511,
+            267.0875762840607,
+            228.96640164474488,
+            321.9124237159393
+          ],
+          "text": "DMLT",
+          "confidence": 0.2115
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            761.0063694429277,
+            739.8197706779533,
+            870.9936305570723,
+            791.1802293220467
+          ],
+          "text": "ms dl",
+          "confidence": 0.197
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            761.2051046034557,
+            824.8778306188464,
+            867.7948953965443,
+            874.1221693811536
+          ],
+          "text": "mS/ dl",
+          "confidence": 0.3387
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1191.3183180150093,
+            909.1539501058485,
+            1268.6816819849907,
+            959.8460498941515
+          ],
+          "text": "mg",
+          "confidence": 0.9286
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            767.0769230769231,
+            1071.7268971332448,
+            876.9230769230769,
+            1125.2731028667552
+          ],
+          "text": "mg/ dl",
+          "confidence": 0.3223
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            739.1430466182295,
+            1613.4771599035262,
+            828.8569533817705,
+            1663.5228400964738
+          ],
+          "text": "mg/I",
+          "confidence": 0.6591
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            444.0769230769231,
+            1788.956319578484,
+            553.9230769230769,
+            1885.043680421516
+          ],
+          "text": "W",
+          "confidence": 0.0139
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            475.7230723179238,
+            1879.2111456180003,
+            618.2769276820761,
+            1943.7888543819997
+          ],
+          "text": "PAMAT",
+          "confidence": 0.0587
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            448.15572278428044,
+            1947.0390939795766,
+            535.8442772157196,
+            2025.9609060204234
+          ],
+          "text": "Gumsl",
+          "confidence": 0.0832
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1233.1870774492027,
+            1978.1087751412585,
+            1322.8129225507973,
+            2027.8912248587415
+          ],
+          "text": "Ty2\"",
+          "confidence": 0.1173
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            106.21114561800017,
+            2120.514421155992,
+            181.78885438199984,
+            2171.485578844008
+          ],
+          "text": "NOt",
+          "confidence": 0.2693
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            145.60276070150212,
+            2200.543071206464,
+            218.39723929849788,
+            2238.456928793536
+          ],
+          "text": "Semi",
+          "confidence": 0.6498
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            146.2802656784306,
+            2224.228449907109,
+            239.7197343215694,
+            2268.771550092891
+          ],
+          "text": "HBAIC",
+          "confidence": 0.7754
+        }
+      ]
+    }
+  ],
+  "full_text": "DeshWAL'S CLInIcAL LABORATORY\nInsldo . A.R: Mlttal Hospltal\nDharambir Doshwal\nGohana Road; Krlshan Pura, PANIPAT:132103\nDr; Rashml Tayal\nM;\n74046-03651\nMobo, MD (Palholovy)\nPationt[\n882\nReporled\n18-Apr-25\n03.50 PM\nReported Slalus\nFiral\nRelerred By Dr Anil Miltal\nBiochemistry Report\nInvesligation\nResult\nNormal Range\nLipid Urofilc\nSerum ( holesterol\n159\n(130\n250 mg;/ &l]\nSerum Triglyceridles\n124\n[Less than 150) mg/ dlJ]\nI  Cholesterol\n36 mS;/ dl\n[30\n65\ndl]\nLDL Cholesterol\n98.2 mw/ &l\n[Less than 130 mg/ &l]\nVID, Cholesterol\n24,8\n(Less than 4\nmg/ dl]\nSerum Amylase\n105 U/L\n[Up to 85 U/L]\nSerum Lipase\n180 U/ L\n[Up to 160 U/L]\nCRP Quatitative\n40\n[0 - 6 mg/I]\nJho\nIQua\nRastii\n\"Ins, MO (F'alhnlcy,\n\"sullatnt |'athok)\nVALiD For medico LEGAL Purpose\nLab: Techniclan\nFully Auto Haematology Analyzur\nAuto Blo Chemistry Analyzer\nThis Is & professional opinion, not a dlagnosls.\nAuto Analyzer\nPloaso co-rolato with clinical & othor Invostigations.\nDMLT\nms dl\nmS/ dl\nmg\nmg/ dl\nmg/I\nW\nPAMAT\nGumsl\nTy2\"\nNOt\nSemi\nHBAIC",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Gohana Road; Krlshan Pura, PANIPAT",
+          "biomarker_normalized": "Gohana Road; Krlshan Pura, PANIPAT",
+          "value": "132103",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Gohana Road; Krlshan Pura, PANIPAT:132103",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "[Less than",
+          "biomarker_normalized": "[Less than",
+          "value": "150",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "[Less than 150) mg/ dlJ]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "[Less than",
+          "biomarker_normalized": "[Less than",
+          "value": "130",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "[Less than 130 mg/ &l]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "(Less than",
+          "biomarker_normalized": "(Less than",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "(Less than 4",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "[Up to",
+          "biomarker_normalized": "[Up to",
+          "value": "85",
+          "unit": "U/L",
+          "reference_range": "",
+          "source_line": "[Up to 85 U/L]",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "[Up to",
+          "biomarker_normalized": "[Up to",
+          "value": "160",
+          "unit": "U/L",
+          "reference_range": "",
+          "source_line": "[Up to 160 U/L]",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 74,
+    "ocr_avg_confidence": 0.5629,
+    "parsed_row_count": 6
+  }
+}

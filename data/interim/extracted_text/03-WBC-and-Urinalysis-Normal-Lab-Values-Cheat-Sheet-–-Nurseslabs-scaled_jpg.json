@@ -1,0 +1,1260 @@
+{
+  "document_id": "03-WBC-and-Urinalysis-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled",
+  "source_path": "data\\raw\\images_reference\\nurseslabs\\03-WBC-and-Urinalysis-Normal-Lab-Values-Cheat-Sheet-\u2013-Nurseslabs-scaled.jpg",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABSCOM/LABS/\nWhite Blood Cells and Differential\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nWhite blood cell count (WBC), Leukocytes\nNeutrophils\nAdult:\nAdult:\n2,500_8,000/mm'\n55_70%\n5-10 X 102/L\n5000-10,000/mm]\nLymphocytes\nChild (<2 years):\nChild (<2 years):\n6.2-17 X 109 cells/L\n6,200-17,000/mms\n1,000_4,000/mm'\n20_40%\nNewborn:\nNewborn:\nMonocytes\n9.0-30.0 X 109 cells/L\n9,000-30,000/mm'\nCritical values:\nCritical values:\n100-700/mm'\n2-8%\n<2.0 or >40 X 109 cells/L\n<2,000 or\n4o,00o/mm\nEosinophils\n50_soo/mm'\n1-4%\nBasophils\n25-1oo/mm'\n0.5-1%\nBands\n0_7oo/mms\n0-2%\nUrinalysis\nNAME\nRANGE\nNAME\nRANGE\nColor\nPale yellow\nRed blood cells\n< 3 cells/HPF\nOdor\nAromatic odor\nWhite blood cells\n<4 cells/HPF\nTurbidity\nClear\nBacteria\nNone or > 1,000/mL\nSpecific gravity\n1.010 to 1.025\nCasts\nNone to few\npH\n4.5 to 7.8\nCrystals\nNone\nLeukocyte esterase\nNegative\nUric acid\n250 to 750 mg/24hours\nProtein\nFresh: 0-8\nmg/dL\nSodium\n40 to 220 mEq/24hours\nAt Rest: 50-80 mg/24 hrs\nExercise: <250\nmg/24 hrs\nPotassium\n25 to 125 mEq/24hours\nKetones\nNone\nMagnesium\n7.3 to 12.2 mg/dL\nBilirubin\nNone\nNitrites\nNone\nGlucose\nFresh: none\nUrobilinogen\n0.01-1 ehrlich unit/mL\n24-hr specimen:\n50-300mg/24 hr\nNurseslabs\n02022 NURSESLABSCOM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            144.0,
+            131.0,
+            1677.0,
+            242.0
+          ],
+          "text": "Normal Lab Values Cheatsheet",
+          "confidence": 0.7397
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            280.0,
+            1726.0,
+            306.0
+          ],
+          "text": "LEARN MORE AT NURSESLABSCOM/LABS/",
+          "confidence": 0.497
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            352.0,
+            1437.0,
+            438.0
+          ],
+          "text": "White Blood Cells and Differential",
+          "confidence": 0.6327
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            252.0,
+            500.0,
+            486.0,
+            532.0
+          ],
+          "text": "RANGE (SI UNITS)",
+          "confidence": 0.9852
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            500.0,
+            879.0,
+            532.0
+          ],
+          "text": "RANGE (CONVENTIONAL)",
+          "confidence": 0.9513
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            984.0,
+            500.0,
+            1216.0,
+            532.0
+          ],
+          "text": "RANGE (SI UNITS)",
+          "confidence": 0.7747
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1287.0,
+            500.0,
+            1609.0,
+            532.0
+          ],
+          "text": "RANGE (CONVENTIONAL)",
+          "confidence": 0.9961
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            577.0,
+            729.0,
+            615.0
+          ],
+          "text": "White blood cell count (WBC), Leukocytes",
+          "confidence": 0.8719
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            581.0,
+            1089.0,
+            617.0
+          ],
+          "text": "Neutrophils",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            646.0,
+            284.0,
+            676.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.8746
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            646.0,
+            632.0,
+            674.0
+          ],
+          "text": "Adult:",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            987.0,
+            642.0,
+            1212.0,
+            682.0
+          ],
+          "text": "2,500_8,000/mm'",
+          "confidence": 0.5285
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1396.0,
+            648.0,
+            1498.0,
+            674.0
+          ],
+          "text": "55_70%",
+          "confidence": 0.9345
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            674.0,
+            378.0,
+            706.0
+          ],
+          "text": "5-10 X 102/L",
+          "confidence": 0.5403
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            673.0,
+            784.0,
+            706.0
+          ],
+          "text": "5000-10,000/mm]",
+          "confidence": 0.4298
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            711.0,
+            1109.0,
+            747.0
+          ],
+          "text": "Lymphocytes",
+          "confidence": 0.9948
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            736.0,
+            404.0,
+            768.0
+          ],
+          "text": "Child (<2 years):",
+          "confidence": 0.7678
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            736.0,
+            752.0,
+            768.0
+          ],
+          "text": "Child (<2 years):",
+          "confidence": 0.9485
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            766.0,
+            450.0,
+            796.0
+          ],
+          "text": "6.2-17 X 109 cells/L",
+          "confidence": 0.7823
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            762.0,
+            787.0,
+            798.0
+          ],
+          "text": "6,200-17,000/mms",
+          "confidence": 0.8629
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            987.0,
+            772.0,
+            1210.0,
+            809.0
+          ],
+          "text": "1,000_4,000/mm'",
+          "confidence": 0.6598
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            1394.0,
+            778.0,
+            1498.0,
+            804.0
+          ],
+          "text": "20_40%",
+          "confidence": 0.9021
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            828.0,
+            328.0,
+            856.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            828.0,
+            676.0,
+            856.0
+          ],
+          "text": "Newborn:",
+          "confidence": 0.8299
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            841.0,
+            1074.0,
+            872.0
+          ],
+          "text": "Monocytes",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            856.0,
+            474.0,
+            886.0
+          ],
+          "text": "9.0-30.0 X 109 cells/L",
+          "confidence": 0.8919
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            855.0,
+            792.0,
+            888.0
+          ],
+          "text": "9,000-30,000/mm'",
+          "confidence": 0.2809
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            918.0,
+            384.0,
+            948.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9045
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            916.0,
+            736.0,
+            946.0
+          ],
+          "text": "Critical values:",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1007.0,
+            903.0,
+            1186.0,
+            935.0
+          ],
+          "text": "100-700/mm'",
+          "confidence": 0.9452
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            908.0,
+            1484.0,
+            932.0
+          ],
+          "text": "2-8%",
+          "confidence": 0.9859
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            948.0,
+            502.0,
+            980.0
+          ],
+          "text": "<2.0 or >40 X 109 cells/L",
+          "confidence": 0.7491
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            948.0,
+            670.0,
+            976.0
+          ],
+          "text": "<2,000 or",
+          "confidence": 0.928
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            692.0,
+            948.0,
+            834.0,
+            976.0
+          ],
+          "text": "4o,00o/mm",
+          "confidence": 0.382
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            937.0,
+            969.0,
+            1087.0,
+            1005.0
+          ],
+          "text": "Eosinophils",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1014.0,
+            1030.0,
+            1181.0,
+            1067.0
+          ],
+          "text": "50_soo/mm'",
+          "confidence": 0.634
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            1036.0,
+            1484.0,
+            1062.0
+          ],
+          "text": "1-4%",
+          "confidence": 0.8522
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            934.0,
+            1096.0,
+            1065.0,
+            1134.0
+          ],
+          "text": "Basophils",
+          "confidence": 0.9847
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1016.0,
+            1160.0,
+            1179.0,
+            1196.0
+          ],
+          "text": "25-1oo/mm'",
+          "confidence": 0.4217
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            1166.0,
+            1494.0,
+            1192.0
+          ],
+          "text": "0.5-1%",
+          "confidence": 0.7144
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1228.0,
+            1020.0,
+            1258.0
+          ],
+          "text": "Bands",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1020.0,
+            1288.0,
+            1175.0,
+            1326.0
+          ],
+          "text": "0_7oo/mms",
+          "confidence": 0.3068
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1408.0,
+            1294.0,
+            1484.0,
+            1320.0
+          ],
+          "text": "0-2%",
+          "confidence": 0.5642
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            1379.0,
+            559.0,
+            1471.0
+          ],
+          "text": "Urinalysis",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            330.0,
+            1524.0,
+            410.0,
+            1554.0
+          ],
+          "text": "NAME",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            669.0,
+            1523.0,
+            765.0,
+            1553.0
+          ],
+          "text": "RANGE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1060.0,
+            1524.0,
+            1140.0,
+            1554.0
+          ],
+          "text": "NAME",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1399.0,
+            1523.0,
+            1495.0,
+            1553.0
+          ],
+          "text": "RANGE",
+          "confidence": 0.8754
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1606.0,
+            276.0,
+            1634.0
+          ],
+          "text": "Color",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            1603.0,
+            696.0,
+            1639.0
+          ],
+          "text": "Pale yellow",
+          "confidence": 0.5962
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1606.0,
+            1120.0,
+            1636.0
+          ],
+          "text": "Red blood cells",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1606.0,
+            1442.0,
+            1634.0
+          ],
+          "text": "< 3 cells/HPF",
+          "confidence": 0.905
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1672.0,
+            274.0,
+            1698.0
+          ],
+          "text": "Odor",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            1672.0,
+            734.0,
+            1700.0
+          ],
+          "text": "Aromatic odor",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1670.0,
+            1142.0,
+            1700.0
+          ],
+          "text": "White blood cells",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            1672.0,
+            1446.0,
+            1700.0
+          ],
+          "text": "<4 cells/HPF",
+          "confidence": 0.9757
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            1735.0,
+            321.0,
+            1771.0
+          ],
+          "text": "Turbidity",
+          "confidence": 0.82
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            555.0,
+            1734.0,
+            624.0,
+            1765.0
+          ],
+          "text": "Clear",
+          "confidence": 0.6307
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            938.0,
+            1734.0,
+            1042.0,
+            1762.0
+          ],
+          "text": "Bacteria",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1736.0,
+            1524.0,
+            1766.0
+          ],
+          "text": "None or > 1,000/mL",
+          "confidence": 0.696
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            1799.0,
+            401.0,
+            1835.0
+          ],
+          "text": "Specific gravity",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            1802.0,
+            720.0,
+            1828.0
+          ],
+          "text": "1.010 to 1.025",
+          "confidence": 0.9897
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            935.0,
+            1799.0,
+            1008.0,
+            1830.0
+          ],
+          "text": "Casts",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1800.0,
+            1434.0,
+            1828.0
+          ],
+          "text": "None to few",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1866.0,
+            248.0,
+            1896.0
+          ],
+          "text": "pH",
+          "confidence": 0.9941
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            1866.0,
+            666.0,
+            1892.0
+          ],
+          "text": "4.5 to 7.8",
+          "confidence": 0.3322
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1866.0,
+            1036.0,
+            1896.0
+          ],
+          "text": "Crystals",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1866.0,
+            1354.0,
+            1892.0
+          ],
+          "text": "None",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            206.0,
+            1926.0,
+            443.0,
+            1966.0
+          ],
+          "text": "Leukocyte esterase",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            1927.0,
+            673.0,
+            1966.0
+          ],
+          "text": "Negative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1928.0,
+            1046.0,
+            1958.0
+          ],
+          "text": "Uric acid",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1930.0,
+            1564.0,
+            1960.0
+          ],
+          "text": "250 to 750 mg/24hours",
+          "confidence": 0.876
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            1994.0,
+            298.0,
+            2022.0
+          ],
+          "text": "Protein",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            1994.0,
+            688.0,
+            2022.0
+          ],
+          "text": "Fresh: 0-8",
+          "confidence": 0.9747
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            687.0,
+            1990.0,
+            780.0,
+            2031.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            1992.0,
+            1030.0,
+            2020.0
+          ],
+          "text": "Sodium",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            1994.0,
+            1565.0,
+            2022.0
+          ],
+          "text": "40 to 220 mEq/24hours",
+          "confidence": 0.7929
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            2023.0,
+            867.0,
+            2060.0
+          ],
+          "text": "At Rest: 50-80 mg/24 hrs",
+          "confidence": 0.8982
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            2056.0,
+            726.0,
+            2082.0
+          ],
+          "text": "Exercise: <250",
+          "confidence": 0.9592
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            725.0,
+            2052.0,
+            855.0,
+            2092.0
+          ],
+          "text": "mg/24 hrs",
+          "confidence": 0.9812
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            2058.0,
+            1062.0,
+            2086.0
+          ],
+          "text": "Potassium",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            2056.0,
+            1562.0,
+            2089.0
+          ],
+          "text": "25 to 125 mEq/24hours",
+          "confidence": 0.9913
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            207.0,
+            2118.0,
+            310.0,
+            2150.0
+          ],
+          "text": "Ketones",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            557.0,
+            2119.0,
+            626.0,
+            2148.0
+          ],
+          "text": "None",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            2119.0,
+            1079.0,
+            2156.0
+          ],
+          "text": "Magnesium",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            2124.0,
+            1492.0,
+            2156.0
+          ],
+          "text": "7.3 to 12.2 mg/dL",
+          "confidence": 0.812
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            2183.0,
+            312.0,
+            2213.0
+          ],
+          "text": "Bilirubin",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            2186.0,
+            626.0,
+            2212.0
+          ],
+          "text": "None",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            2188.0,
+            1030.0,
+            2214.0
+          ],
+          "text": "Nitrites",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1286.0,
+            2188.0,
+            1354.0,
+            2214.0
+          ],
+          "text": "None",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            208.0,
+            2250.0,
+            306.0,
+            2276.0
+          ],
+          "text": "Glucose",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            2250.0,
+            696.0,
+            2276.0
+          ],
+          "text": "Fresh: none",
+          "confidence": 0.752
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            934.0,
+            2246.0,
+            1096.0,
+            2289.0
+          ],
+          "text": "Urobilinogen",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1284.0,
+            2252.0,
+            1558.0,
+            2282.0
+          ],
+          "text": "0.01-1 ehrlich unit/mL",
+          "confidence": 0.6354
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            555.0,
+            2276.0,
+            751.0,
+            2312.0
+          ],
+          "text": "24-hr specimen:",
+          "confidence": 0.8471
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            555.0,
+            2309.0,
+            766.0,
+            2341.0
+          ],
+          "text": "50-300mg/24 hr",
+          "confidence": 0.9404
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            834.0,
+            2460.0,
+            1019.0,
+            2504.0
+          ],
+          "text": "Nurseslabs",
+          "confidence": 0.5961
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            551.0,
+            2517.0,
+            1259.0,
+            2537.0
+          ],
+          "text": "02022 NURSESLABSCOM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+          "confidence": 0.8211
+        }
+      ]
+    }
+  ],
+  "full_text": "Normal Lab Values Cheatsheet\nLEARN MORE AT NURSESLABSCOM/LABS/\nWhite Blood Cells and Differential\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nRANGE (SI UNITS)\nRANGE (CONVENTIONAL)\nWhite blood cell count (WBC), Leukocytes\nNeutrophils\nAdult:\nAdult:\n2,500_8,000/mm'\n55_70%\n5-10 X 102/L\n5000-10,000/mm]\nLymphocytes\nChild (<2 years):\nChild (<2 years):\n6.2-17 X 109 cells/L\n6,200-17,000/mms\n1,000_4,000/mm'\n20_40%\nNewborn:\nNewborn:\nMonocytes\n9.0-30.0 X 109 cells/L\n9,000-30,000/mm'\nCritical values:\nCritical values:\n100-700/mm'\n2-8%\n<2.0 or >40 X 109 cells/L\n<2,000 or\n4o,00o/mm\nEosinophils\n50_soo/mm'\n1-4%\nBasophils\n25-1oo/mm'\n0.5-1%\nBands\n0_7oo/mms\n0-2%\nUrinalysis\nNAME\nRANGE\nNAME\nRANGE\nColor\nPale yellow\nRed blood cells\n< 3 cells/HPF\nOdor\nAromatic odor\nWhite blood cells\n<4 cells/HPF\nTurbidity\nClear\nBacteria\nNone or > 1,000/mL\nSpecific gravity\n1.010 to 1.025\nCasts\nNone to few\npH\n4.5 to 7.8\nCrystals\nNone\nLeukocyte esterase\nNegative\nUric acid\n250 to 750 mg/24hours\nProtein\nFresh: 0-8\nmg/dL\nSodium\n40 to 220 mEq/24hours\nAt Rest: 50-80 mg/24 hrs\nExercise: <250\nmg/24 hrs\nPotassium\n25 to 125 mEq/24hours\nKetones\nNone\nMagnesium\n7.3 to 12.2 mg/dL\nBilirubin\nNone\nNitrites\nNone\nGlucose\nFresh: none\nUrobilinogen\n0.01-1 ehrlich unit/mL\n24-hr specimen:\n50-300mg/24 hr\nNurseslabs\n02022 NURSESLABSCOM ATTRIBUTION-NONCOMMERCIAL-SHAREALIKE 4.0 INTERNATIONAL",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Child (<",
+          "biomarker_normalized": "Child (<",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Child (<2 years):",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "None or >",
+          "biomarker_normalized": "None or >",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "None or > 1,000/mL",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Fresh",
+          "biomarker_normalized": "Fresh",
+          "value": "0",
+          "unit": "",
+          "reference_range": "0-8",
+          "source_line": "Fresh: 0-8",
+          "confidence": 0.65
+        },
+        {
+          "biomarker": "At Rest",
+          "biomarker_normalized": "At Rest",
+          "value": "50",
+          "unit": "",
+          "reference_range": "50-80",
+          "source_line": "At Rest: 50-80 mg/24 hrs",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Exercise: <",
+          "biomarker_normalized": "Exercise: <",
+          "value": "250",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Exercise: <250",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "mg/",
+          "biomarker_normalized": "mg/",
+          "value": "24",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mg/24 hrs",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 98,
+    "ocr_avg_confidence": 0.8643,
+    "parsed_row_count": 6
+  }
+}

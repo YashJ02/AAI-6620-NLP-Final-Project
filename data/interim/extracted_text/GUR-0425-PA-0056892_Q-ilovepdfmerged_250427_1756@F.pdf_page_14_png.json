@@ -1,0 +1,642 @@
+{
+  "document_id": "GUR-0425-PA-0056892_Q-ilovepdfmerged_250427_1756@F.pdf_page_14",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0056892_Q-ilovepdfmerged_250427_1756@F.pdf_page_14.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MATA ROOp?RAINP MAGGOENTRE\nHOSPiTAL & IFCENTRE\nNEW DELI\n11oF\nR\n(AN ISO 9001-2ED3EIERf:ibospital@yahooin\nNABH\nOm Vihar Phase-1, Uttam Nagar; Metro Pillar No 709, Newr\n00\n011-61290000, Mob.9555UESB3YUE4RER : rAHnfzzpnare\nUELX COMPUTERISED LABORATQRY\nAUFIIDuzs55816\nName\nMasterRISHIT SHARMA\nAccession No.\nIPDIOPD Status\n:IPD\nRelative\n:SIO_SUMIT SHARMA\nCatagory\nVIDAL HEALTHCARE\n10:0-\nPM\nSample Collected\nPM\nSEROLOGY\nAccession No\nRegisteration No\nTYPHIDOT TEST\nTYPHIDOT IGG\nNEGATIVE\nTYPHIDOT IGM\nNEGATIVE\nMethod\nRapid card test (Lateral flow chromatographic immunoassay_\nCOMMENT\nNOTE\nThis is screening test only having high sensitivity & specificity. However; false positive & false negative may occur in certain\ncircumstances Confirmation by alternative method for example PCR, ELISA or other specific methods etc, is recommended.\nChecked By\nDr. SURESH KAUNDIYAL\nMBBS MD (Pathology)\nCONSULTANT PATHOLOGIST\nALL DISPUTES ARE SUBJECT TO DELHI JURISDICTION\nMRRMHIREVIOZILAB/01/22\n\"Accrepic\n'Reg\nINo",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            324.0,
+            48.0,
+            1419.0,
+            137.0
+          ],
+          "text": "MATA ROOp?RAINP MAGGOENTRE",
+          "confidence": 0.2703
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            338.0,
+            108.0,
+            1303.0,
+            211.0
+          ],
+          "text": "HOSPiTAL & IFCENTRE",
+          "confidence": 0.378
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1296.0,
+            126.0,
+            1416.0,
+            156.0
+          ],
+          "text": "NEW DELI",
+          "confidence": 0.8386
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            1440.0,
+            125.0,
+            1519.0,
+            158.0
+          ],
+          "text": "11oF",
+          "confidence": 0.0298
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            66.0,
+            192.0,
+            122.0,
+            256.0
+          ],
+          "text": "R",
+          "confidence": 0.5561
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            632.0,
+            196.0,
+            1206.0,
+            244.0
+          ],
+          "text": "(AN ISO 9001-2ED3EIERf:ibospital@yahooin",
+          "confidence": 0.1099
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1456.0,
+            224.0,
+            1532.0,
+            248.0
+          ],
+          "text": "NABH",
+          "confidence": 0.9087
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            482.0,
+            237.0,
+            1114.0,
+            268.0
+          ],
+          "text": "Om Vihar Phase-1, Uttam Nagar; Metro Pillar No 709, Newr",
+          "confidence": 0.4818
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            241.0,
+            1231.0,
+            253.0
+          ],
+          "text": "00",
+          "confidence": 0.0564
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            476.0,
+            259.0,
+            1114.0,
+            308.0
+          ],
+          "text": "011-61290000, Mob.9555UESB3YUE4RER : rAHnfzzpnare",
+          "confidence": 0.0752
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            405.0,
+            314.0,
+            1259.0,
+            377.0
+          ],
+          "text": "UELX COMPUTERISED LABORATQRY",
+          "confidence": 0.6325
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            852.0,
+            376.0,
+            1008.0,
+            400.0
+          ],
+          "text": "AUFIIDuzs55816",
+          "confidence": 0.0893
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            138.0,
+            414.0,
+            200.0,
+            438.0
+          ],
+          "text": "Name",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            416.0,
+            538.0,
+            442.0
+          ],
+          "text": "MasterRISHIT SHARMA",
+          "confidence": 0.9882
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            418.0,
+            766.0,
+            444.0
+          ],
+          "text": "Accession No.",
+          "confidence": 0.9795
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1096.0,
+            408.0,
+            1258.0,
+            436.0
+          ],
+          "text": "IPDIOPD Status",
+          "confidence": 0.9098
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1332.0,
+            412.0,
+            1378.0,
+            438.0
+          ],
+          "text": ":IPD",
+          "confidence": 0.9366
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            460.0,
+            222.0,
+            484.0
+          ],
+          "text": "Relative",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            290.0,
+            462.0,
+            508.0,
+            488.0
+          ],
+          "text": ":SIO_SUMIT SHARMA",
+          "confidence": 0.6987
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1094.0,
+            454.0,
+            1194.0,
+            487.0
+          ],
+          "text": "Catagory",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1338.0,
+            458.0,
+            1558.0,
+            488.0
+          ],
+          "text": "VIDAL HEALTHCARE",
+          "confidence": 0.912
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            963.0,
+            583.0,
+            1007.0,
+            603.0
+          ],
+          "text": "10:0-",
+          "confidence": 0.327
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1332.0,
+            586.0,
+            1368.0,
+            610.0
+          ],
+          "text": "PM",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            591.0,
+            794.0,
+            619.0
+          ],
+          "text": "Sample Collected",
+          "confidence": 0.9231
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            610.0,
+            884.0,
+            634.0
+          ],
+          "text": "PM",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            696.0,
+            788.0,
+            722.0
+          ],
+          "text": "SEROLOGY",
+          "confidence": 0.9901
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            747.0,
+            255.0,
+            765.0
+          ],
+          "text": "Accession No",
+          "confidence": 0.9751
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1421.0,
+            761.0,
+            1554.0,
+            786.0
+          ],
+          "text": "Registeration No",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            826.0,
+            355.0,
+            864.0
+          ],
+          "text": "TYPHIDOT TEST",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            959.0,
+            331.0,
+            995.0
+          ],
+          "text": "TYPHIDOT IGG",
+          "confidence": 0.9954
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            966.0,
+            704.0,
+            998.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1004.0,
+            333.0,
+            1043.0
+          ],
+          "text": "TYPHIDOT IGM",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            550.0,
+            1009.0,
+            705.0,
+            1047.0
+          ],
+          "text": "NEGATIVE",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1059.0,
+            194.0,
+            1087.0
+          ],
+          "text": "Method",
+          "confidence": 0.9523
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            205.0,
+            1061.0,
+            769.0,
+            1097.0
+          ],
+          "text": "Rapid card test (Lateral flow chromatographic immunoassay_",
+          "confidence": 0.5822
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1150.0,
+            230.0,
+            1176.0
+          ],
+          "text": "COMMENT",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            242.0,
+            1152.0,
+            306.0,
+            1176.0
+          ],
+          "text": "NOTE",
+          "confidence": 0.9931
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            314.0,
+            1148.0,
+            1472.0,
+            1196.0
+          ],
+          "text": "This is screening test only having high sensitivity & specificity. However; false positive & false negative may occur in certain",
+          "confidence": 0.7439
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            115.0,
+            1197.0,
+            1279.0,
+            1239.0
+          ],
+          "text": "circumstances Confirmation by alternative method for example PCR, ELISA or other specific methods etc, is recommended.",
+          "confidence": 0.8533
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1944.0,
+            275.0,
+            1983.0
+          ],
+          "text": "Checked By",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1071.0,
+            2005.0,
+            1393.0,
+            2041.0
+          ],
+          "text": "Dr. SURESH KAUNDIYAL",
+          "confidence": 0.9585
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1067.0,
+            2044.0,
+            1343.0,
+            2086.0
+          ],
+          "text": "MBBS MD (Pathology)",
+          "confidence": 0.9644
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1067.0,
+            2083.0,
+            1446.0,
+            2120.0
+          ],
+          "text": "CONSULTANT PATHOLOGIST",
+          "confidence": 0.9907
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            460.0,
+            2284.0,
+            1208.0,
+            2316.0
+          ],
+          "text": "ALL DISPUTES ARE SUBJECT TO DELHI JURISDICTION",
+          "confidence": 0.8622
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1332.0,
+            2300.0,
+            1606.0,
+            2324.0
+          ],
+          "text": "MRRMHIREVIOZILAB/01/22",
+          "confidence": 0.8256
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            1456.0282268707185,
+            249.15384615384616,
+            1512.9717731292815,
+            276.84615384615387
+          ],
+          "text": "\"Accrepic",
+          "confidence": 0.0689
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            614.0832286328275,
+            374.1658598874935,
+            664.9167713671725,
+            400.8341401125065
+          ],
+          "text": "'Reg",
+          "confidence": 0.1741
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            659.0652555532395,
+            375.21114561800016,
+            704.9347444467605,
+            398.78885438199984
+          ],
+          "text": "INo",
+          "confidence": 0.2623
+        }
+      ]
+    }
+  ],
+  "full_text": "MATA ROOp?RAINP MAGGOENTRE\nHOSPiTAL & IFCENTRE\nNEW DELI\n11oF\nR\n(AN ISO 9001-2ED3EIERf:ibospital@yahooin\nNABH\nOm Vihar Phase-1, Uttam Nagar; Metro Pillar No 709, Newr\n00\n011-61290000, Mob.9555UESB3YUE4RER : rAHnfzzpnare\nUELX COMPUTERISED LABORATQRY\nAUFIIDuzs55816\nName\nMasterRISHIT SHARMA\nAccession No.\nIPDIOPD Status\n:IPD\nRelative\n:SIO_SUMIT SHARMA\nCatagory\nVIDAL HEALTHCARE\n10:0-\nPM\nSample Collected\nPM\nSEROLOGY\nAccession No\nRegisteration No\nTYPHIDOT TEST\nTYPHIDOT IGG\nNEGATIVE\nTYPHIDOT IGM\nNEGATIVE\nMethod\nRapid card test (Lateral flow chromatographic immunoassay_\nCOMMENT\nNOTE\nThis is screening test only having high sensitivity & specificity. However; false positive & false negative may occur in certain\ncircumstances Confirmation by alternative method for example PCR, ELISA or other specific methods etc, is recommended.\nChecked By\nDr. SURESH KAUNDIYAL\nMBBS MD (Pathology)\nCONSULTANT PATHOLOGIST\nALL DISPUTES ARE SUBJECT TO DELHI JURISDICTION\nMRRMHIREVIOZILAB/01/22\n\"Accrepic\n'Reg\nINo",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "(AN ISO",
+          "biomarker_normalized": "(AN ISO",
+          "value": "9001",
+          "unit": "",
+          "reference_range": "9001-2",
+          "source_line": "(AN ISO 9001-2ED3EIERf:ibospital@yahooin",
+          "confidence": 0.85
+        },
+        {
+          "biomarker": "Om Vihar Phase",
+          "biomarker_normalized": "Om Vihar Phase",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Om Vihar Phase-1, Uttam Nagar; Metro Pillar No 709, Newr",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "AUFIIDuzs5",
+          "biomarker_normalized": "AUFIIDuzs5",
+          "value": "5816",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AUFIIDuzs55816",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MRRMHIREVIOZILAB/",
+          "biomarker_normalized": "MRRMHIREVIOZILAB/",
+          "value": "01",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MRRMHIREVIOZILAB/01/22",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 48,
+    "ocr_avg_confidence": 0.7349,
+    "parsed_row_count": 4
+  }
+}

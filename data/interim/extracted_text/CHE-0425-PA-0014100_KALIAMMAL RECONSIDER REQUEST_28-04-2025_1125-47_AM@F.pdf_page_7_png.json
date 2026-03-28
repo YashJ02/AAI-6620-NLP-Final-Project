@@ -1,0 +1,1158 @@
+{
+  "document_id": "CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_28-04-2025_1125-47_AM@F.pdf_page_7",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHE-0425-PA-0014100_KALIAMMAL RECONSIDER REQUEST_28-04-2025_1125-47_AM@F.pdf_page_7.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "DEPARTMENT OF HAEMATOLOGY\nASHM-QF-Ls(HM)-26\nNane\nMrs_ KALIAMMAL m\nUHID\nASM\nMmhip137802\nEMERGENCYIEMG 3 B\nSIN ILRN\n51180407 | +7001330\nSpecimen\nwhole Blaod ( EDTA\nRef Doctor\nD RAJESHPRABHUP\nCollected on\n22-APR 20250: 14J1PV\nReceived on\n22-APR-?2025 05.07.25 PN\nReported on\n22-APR-2025 05 26 45 PM\nRENAL\nLESLNALE\nRESULT\nBIOLQGICAL REFERENCE INTERVALS\nUNITS\nHEMOGLOBIN (AutomATiONI\nHemoglobin(Oplicalllmpedanca)\n42.0\n15\n16,0\nPacked cell volumo(Calculaled)\n37\n37\n47\n80\nWBC Count OplicavlmpedunCU)\n11,7\n11\n10\"mm'\nPlatelel Cour (Opllcalllmpodanco)\n271\n150\n450\n10von)\nRBC COUNT(Oplcallmpedancc)\n16\n3.7\n5.6\nMilontul\nMCVIOpilcalllmpedance)\n88\n75\n95\nMCH(Calculalud)\n29\n26\n32\nDQ\nMCHC(Calculaled)\n33\n31\n36\nGldl\nDlffcrential Count(Oplicalllmpedance/microscopy)\nNoutroph ls\n93\n40\n80\n80\nLymphocyles\n04\n20\n40\n40\nMonocytes\n03\n2\n10\n40\nRenont Status Fia|\nEND Of Report\nCHECKED BY\n1146573\n128487 1\nh\"\nDRBNANDHINI BALA\nPrinled On\n26-APR-2025 05 48.37 Pl\nPATHOLOGY\nPaqo | 0f $\ngm%",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            717.0,
+            223.0,
+            1173.0,
+            259.0
+          ],
+          "text": "DEPARTMENT OF HAEMATOLOGY",
+          "confidence": 0.8944
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1263.0,
+            303.0,
+            1539.0,
+            339.0
+          ],
+          "text": "ASHM-QF-Ls(HM)-26",
+          "confidence": 0.7999
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            374.0,
+            222.0,
+            402.0
+          ],
+          "text": "Nane",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            381.0,
+            371.0,
+            609.0,
+            407.0
+          ],
+          "text": "Mrs_ KALIAMMAL m",
+          "confidence": 0.4921
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            422.0,
+            216.0,
+            448.0
+          ],
+          "text": "UHID",
+          "confidence": 0.9131
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            424.0,
+            442.0,
+            452.0
+          ],
+          "text": "ASM",
+          "confidence": 0.7964
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            420.0,
+            842.0,
+            450.0
+          ],
+          "text": "Mmhip137802",
+          "confidence": 0.5377
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1272.0,
+            422.0,
+            1526.0,
+            450.0
+          ],
+          "text": "EMERGENCYIEMG 3 B",
+          "confidence": 0.6479
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            470.0,
+            264.0,
+            498.0
+          ],
+          "text": "SIN ILRN",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            468.0,
+            614.0,
+            498.0
+          ],
+          "text": "51180407 | +7001330",
+          "confidence": 0.3812
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            516.0,
+            268.0,
+            544.0
+          ],
+          "text": "Specimen",
+          "confidence": 0.9156
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            374.0,
+            514.0,
+            592.0,
+            542.0
+          ],
+          "text": "whole Blaod ( EDTA",
+          "confidence": 0.3129
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            564.0,
+            276.0,
+            590.0
+          ],
+          "text": "Ref Doctor",
+          "confidence": 0.9782
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            384.0,
+            561.0,
+            612.0,
+            588.0
+          ],
+          "text": "D RAJESHPRABHUP",
+          "confidence": 0.4024
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            824.0,
+            284.0,
+            850.0
+          ],
+          "text": "Collected on",
+          "confidence": 0.5523
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            344.0,
+            824.0,
+            602.0,
+            850.0
+          ],
+          "text": "22-APR 20250: 14J1PV",
+          "confidence": 0.1858
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            614.0,
+            828.0,
+            740.0,
+            854.0
+          ],
+          "text": "Received on",
+          "confidence": 0.8668
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            782.0,
+            828.0,
+            1040.0,
+            854.0
+          ],
+          "text": "22-APR-?2025 05.07.25 PN",
+          "confidence": 0.2782
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            828.0,
+            1214.0,
+            854.0
+          ],
+          "text": "Reported on",
+          "confidence": 0.8574
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            824.0,
+            1522.0,
+            850.0
+          ],
+          "text": "22-APR-2025 05 26 45 PM",
+          "confidence": 0.4982
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            145.0,
+            894.0,
+            237.0,
+            922.0
+          ],
+          "text": "RENAL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            928.0,
+            275.0,
+            958.0
+          ],
+          "text": "LESLNALE",
+          "confidence": 0.5456
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            575.0,
+            930.0,
+            667.0,
+            958.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.6602
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            850.0,
+            928.0,
+            1256.0,
+            958.0
+          ],
+          "text": "BIOLQGICAL REFERENCE INTERVALS",
+          "confidence": 0.796
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1330.0,
+            928.0,
+            1408.0,
+            958.0
+          ],
+          "text": "UNITS",
+          "confidence": 0.4091
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            990.0,
+            479.0,
+            1020.0
+          ],
+          "text": "HEMOGLOBIN (AutomATiONI",
+          "confidence": 0.2905
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            1020.0,
+            476.0,
+            1052.0
+          ],
+          "text": "Hemoglobin(Oplicalllmpedanca)",
+          "confidence": 0.4867
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1022.0,
+            658.0,
+            1046.0
+          ],
+          "text": "42.0",
+          "confidence": 0.8154
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1020.0,
+            1000.0,
+            1046.0
+          ],
+          "text": "15",
+          "confidence": 0.7296
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1024.0,
+            1020.0,
+            1076.0,
+            1046.0
+          ],
+          "text": "16,0",
+          "confidence": 0.7188
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1049.0,
+            468.0,
+            1080.0
+          ],
+          "text": "Packed cell volumo(Calculaled)",
+          "confidence": 0.6764
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            1052.0,
+            638.0,
+            1078.0
+          ],
+          "text": "37",
+          "confidence": 0.7021
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1050.0,
+            982.0,
+            1080.0
+          ],
+          "text": "37",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1050.0,
+            1038.0,
+            1076.0
+          ],
+          "text": "47",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1050.0,
+            1378.0,
+            1076.0
+          ],
+          "text": "80",
+          "confidence": 0.7588
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1082.0,
+            476.0,
+            1112.0
+          ],
+          "text": "WBC Count OplicavlmpedunCU)",
+          "confidence": 0.1741
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1082.0,
+            658.0,
+            1110.0
+          ],
+          "text": "11,7",
+          "confidence": 0.6219
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            994.0,
+            1082.0,
+            1022.0,
+            1106.0
+          ],
+          "text": "11",
+          "confidence": 0.9892
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1080.0,
+            1444.0,
+            1108.0
+          ],
+          "text": "10\"mm'",
+          "confidence": 0.5833
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1113.0,
+            498.0,
+            1144.0
+          ],
+          "text": "Platelel Cour (Opllcalllmpodanco)",
+          "confidence": 0.3575
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            606.0,
+            1114.0,
+            650.0,
+            1142.0
+          ],
+          "text": "271",
+          "confidence": 0.9847
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1114.0,
+            996.0,
+            1142.0
+          ],
+          "text": "150",
+          "confidence": 0.8043
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1020.0,
+            1114.0,
+            1066.0,
+            1140.0
+          ],
+          "text": "450",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1112.0,
+            1446.0,
+            1142.0
+          ],
+          "text": "10von)",
+          "confidence": 0.1216
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1143.0,
+            491.0,
+            1179.0
+          ],
+          "text": "RBC COUNT(Oplcallmpedancc)",
+          "confidence": 0.6989
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            618.0,
+            1148.0,
+            658.0,
+            1174.0
+          ],
+          "text": "16",
+          "confidence": 0.9649
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1146.0,
+            988.0,
+            1172.0
+          ],
+          "text": "3.7",
+          "confidence": 0.1063
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            1012.0,
+            1146.0,
+            1054.0,
+            1172.0
+          ],
+          "text": "5.6",
+          "confidence": 0.8922
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1351.0,
+            1143.0,
+            1451.0,
+            1173.0
+          ],
+          "text": "Milontul",
+          "confidence": 0.2006
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1177.0,
+            406.0,
+            1210.0
+          ],
+          "text": "MCVIOpilcalllmpedance)",
+          "confidence": 0.3542
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1180.0,
+            640.0,
+            1204.0
+          ],
+          "text": "88",
+          "confidence": 0.9719
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1178.0,
+            984.0,
+            1206.0
+          ],
+          "text": "75",
+          "confidence": 0.5194
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1178.0,
+            1042.0,
+            1206.0
+          ],
+          "text": "95",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1207.0,
+            324.0,
+            1238.0
+          ],
+          "text": "MCH(Calculalud)",
+          "confidence": 0.7104
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1210.0,
+            638.0,
+            1234.0
+          ],
+          "text": "29",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1210.0,
+            982.0,
+            1234.0
+          ],
+          "text": "26",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1210.0,
+            1040.0,
+            1234.0
+          ],
+          "text": "32",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1212.0,
+            1384.0,
+            1238.0
+          ],
+          "text": "DQ",
+          "confidence": 0.1857
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1240.0,
+            342.0,
+            1270.0
+          ],
+          "text": "MCHC(Calculaled)",
+          "confidence": 0.8577
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1240.0,
+            640.0,
+            1266.0
+          ],
+          "text": "33",
+          "confidence": 0.3977
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1240.0,
+            980.0,
+            1266.0
+          ],
+          "text": "31",
+          "confidence": 0.5786
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            1240.0,
+            1042.0,
+            1268.0
+          ],
+          "text": "36",
+          "confidence": 0.8489
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            1240.0,
+            1398.0,
+            1270.0
+          ],
+          "text": "Gldl",
+          "confidence": 0.1214
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            143.0,
+            1269.0,
+            681.0,
+            1299.0
+          ],
+          "text": "Dlffcrential Count(Oplicalllmpedance/microscopy)",
+          "confidence": 0.566
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1302.0,
+            264.0,
+            1330.0
+          ],
+          "text": "Noutroph ls",
+          "confidence": 0.1619
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1302.0,
+            640.0,
+            1328.0
+          ],
+          "text": "93",
+          "confidence": 0.7385
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1302.0,
+            982.0,
+            1328.0
+          ],
+          "text": "40",
+          "confidence": 0.931
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            1302.0,
+            1042.0,
+            1328.0
+          ],
+          "text": "80",
+          "confidence": 0.9988
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1300.0,
+            1382.0,
+            1330.0
+          ],
+          "text": "80",
+          "confidence": 0.3369
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            142.0,
+            1334.0,
+            284.0,
+            1364.0
+          ],
+          "text": "Lymphocyles",
+          "confidence": 0.5722
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1332.0,
+            640.0,
+            1358.0
+          ],
+          "text": "04",
+          "confidence": 0.9808
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            1332.0,
+            982.0,
+            1358.0
+          ],
+          "text": "20",
+          "confidence": 0.9497
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            1332.0,
+            1040.0,
+            1358.0
+          ],
+          "text": "40",
+          "confidence": 0.7663
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1330.0,
+            1382.0,
+            1360.0
+          ],
+          "text": "40",
+          "confidence": 0.1825
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            141.0,
+            1363.0,
+            260.0,
+            1395.0
+          ],
+          "text": "Monocytes",
+          "confidence": 0.997
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            608.0,
+            1364.0,
+            642.0,
+            1392.0
+          ],
+          "text": "03",
+          "confidence": 0.8701
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            948.0,
+            1364.0,
+            972.0,
+            1390.0
+          ],
+          "text": "2",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            1364.0,
+            1030.0,
+            1392.0
+          ],
+          "text": "10",
+          "confidence": 0.6977
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1362.0,
+            1378.0,
+            1390.0
+          ],
+          "text": "40",
+          "confidence": 0.2946
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1396.0,
+            340.0,
+            1422.0
+          ],
+          "text": "Renont Status Fia|",
+          "confidence": 0.1832
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            1491.0,
+            900.0,
+            1516.0
+          ],
+          "text": "END Of Report",
+          "confidence": 0.5245
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1762.0,
+            304.0,
+            1792.0
+          ],
+          "text": "CHECKED BY",
+          "confidence": 0.9773
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            440.0,
+            1762.0,
+            534.0,
+            1788.0
+          ],
+          "text": "1146573",
+          "confidence": 0.4519
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            439.0,
+            1806.0,
+            534.0,
+            1836.0
+          ],
+          "text": "128487 1",
+          "confidence": 0.3537
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1217.0,
+            1794.0,
+            1303.0,
+            1850.0
+          ],
+          "text": "h\"",
+          "confidence": 0.1411
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1108.0,
+            1918.0,
+            1356.0,
+            1946.0
+          ],
+          "text": "DRBNANDHINI BALA",
+          "confidence": 0.6459
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            270.0,
+            1932.0,
+            388.0,
+            1960.0
+          ],
+          "text": "Prinled On",
+          "confidence": 0.7308
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            438.0,
+            1932.0,
+            722.0,
+            1962.0
+          ],
+          "text": "26-APR-2025 05 48.37 Pl",
+          "confidence": 0.2955
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1158.0,
+            1948.0,
+            1308.0,
+            1978.0
+          ],
+          "text": "PATHOLOGY",
+          "confidence": 0.9886
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            728.0,
+            2024.0,
+            842.0,
+            2056.0
+          ],
+          "text": "Paqo | 0f $",
+          "confidence": 0.2217
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1348.4100031799906,
+            1017.6772883610396,
+            1412.5899968200094,
+            1048.3227116389603
+          ],
+          "text": "gm%",
+          "confidence": 0.682
+        }
+      ]
+    }
+  ],
+  "full_text": "DEPARTMENT OF HAEMATOLOGY\nASHM-QF-Ls(HM)-26\nNane\nMrs_ KALIAMMAL m\nUHID\nASM\nMmhip137802\nEMERGENCYIEMG 3 B\nSIN ILRN\n51180407 | +7001330\nSpecimen\nwhole Blaod ( EDTA\nRef Doctor\nD RAJESHPRABHUP\nCollected on\n22-APR 20250: 14J1PV\nReceived on\n22-APR-?2025 05.07.25 PN\nReported on\n22-APR-2025 05 26 45 PM\nRENAL\nLESLNALE\nRESULT\nBIOLQGICAL REFERENCE INTERVALS\nUNITS\nHEMOGLOBIN (AutomATiONI\nHemoglobin(Oplicalllmpedanca)\n42.0\n15\n16,0\nPacked cell volumo(Calculaled)\n37\n37\n47\n80\nWBC Count OplicavlmpedunCU)\n11,7\n11\n10\"mm'\nPlatelel Cour (Opllcalllmpodanco)\n271\n150\n450\n10von)\nRBC COUNT(Oplcallmpedancc)\n16\n3.7\n5.6\nMilontul\nMCVIOpilcalllmpedance)\n88\n75\n95\nMCH(Calculalud)\n29\n26\n32\nDQ\nMCHC(Calculaled)\n33\n31\n36\nGldl\nDlffcrential Count(Oplicalllmpedance/microscopy)\nNoutroph ls\n93\n40\n80\n80\nLymphocyles\n04\n20\n40\n40\nMonocytes\n03\n2\n10\n40\nRenont Status Fia|\nEND Of Report\nCHECKED BY\n1146573\n128487 1\nh\"\nDRBNANDHINI BALA\nPrinled On\n26-APR-2025 05 48.37 Pl\nPATHOLOGY\nPaqo | 0f $\ngm%",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "ASHM-QF-Ls(HM)",
+          "biomarker_normalized": "ASHM-QF-Ls(HM)",
+          "value": "-26",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ASHM-QF-Ls(HM)-26",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Mmhip1",
+          "biomarker_normalized": "Mmhip1",
+          "value": "37802",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Mmhip137802",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "EMERGENCYIEMG",
+          "biomarker_normalized": "EMERGENCYIEMG",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EMERGENCYIEMG 3 B",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Paqo |",
+          "biomarker_normalized": "Paqo |",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Paqo | 0f $",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 91,
+    "ocr_avg_confidence": 0.6503,
+    "parsed_row_count": 4
+  }
+}

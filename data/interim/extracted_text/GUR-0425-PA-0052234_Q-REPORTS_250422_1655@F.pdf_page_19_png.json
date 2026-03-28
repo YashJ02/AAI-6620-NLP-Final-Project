@@ -1,0 +1,1146 @@
+{
+  "document_id": "GUR-0425-PA-0052234_Q-REPORTS_250422_1655@F.pdf_page_19",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0052234_Q-REPORTS_250422_1655@F.pdf_page_19.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MBHAGWAN\nDAS\nBhagwan Das Hospital\nDepartment 0f Lab Sciences\nARd'\nMC-4795\nDiagnostics S. No.\nMR No:\nMR/25/004852/3116573\nPatient\nDate\n16-Apr-2025\nPM\nIPD No.\n29802\nISample Receiving Date\n16-Apr-2025 11:10 AM\nPanel\nSample Collection Date\n16-Apr-2025 11:10AM\nMCHC\n30.5*\n31.5-34.5\ngmldl\n(calculated)\nKFL (KIDNEY FUNCTION TESL (KFT\nRETUSERUM\nBLOOD UREA\n24.3\n19-44\nmg/dl\n(Urease-GLDH UV Melhod)\nCREATININE, SERUM\n0.91\n0.7-1.3\n(Jaffe melhod wlo compensalion)\n'JRIC ACID\n5.25\n3.5-7.2\nmgldl\n(Enzymalic pholomelric test with TBHBA)\nSODIUM\n138.1\n135-145\nmmolll\n(L.S E.direct Method)\nPOTASSIUM\n3.40*\n3.5-5.5\nmmol/l\n(L.S E.direct Melliod)\nCALCIUM\n8.95\n8.6-10.3\nmgldl\n(Arsenazo IIl Melhod)\nINORGANIC PHOSPHORUS\n4.05\n2.6-4.5\n(Molybdale UV Melfiod with endpoint delermination))\nTOTAL PROTEIN\n7.05\n6.6-8.8\ngmldl\n(Biuret Meihod)\nALBUMIN, SERUM\n4.12\n3.5-5.2\ngmldl\n\"omocresol Green)\nGLOBULIN\n2.9\n2-3.5\ngm/dl\n(Calciilated)\nAG Ratio\n1.44\n0.8-2.0\n(Calculaled)\nEnd Of Report #**\n'81-401235\nezexked/3\nK\nHospital\n)\nmgldl\nmg/dl\nJVaNos\ndH)\nSvq",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            80.0,
+            320.0,
+            128.0
+          ],
+          "text": "MBHAGWAN",
+          "confidence": 0.6709
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            317.0,
+            83.0,
+            397.0,
+            127.0
+          ],
+          "text": "DAS",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            419.0,
+            61.0,
+            1281.0,
+            170.0
+          ],
+          "text": "Bhagwan Das Hospital",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            509.0,
+            168.0,
+            1189.0,
+            229.0
+          ],
+          "text": "Department 0f Lab Sciences",
+          "confidence": 0.8957
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1510.0,
+            190.0,
+            1564.0,
+            214.0
+          ],
+          "text": "ARd'",
+          "confidence": 0.2692
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1485.0,
+            265.0,
+            1577.0,
+            291.0
+          ],
+          "text": "MC-4795",
+          "confidence": 0.9275
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            105.0,
+            307.0,
+            324.0,
+            339.0
+          ],
+          "text": "Diagnostics S. No.",
+          "confidence": 0.6968
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            936.0,
+            314.0,
+            1020.0,
+            342.0
+          ],
+          "text": "MR No:",
+          "confidence": 0.7462
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            313.0,
+            1499.0,
+            349.0
+          ],
+          "text": "MR/25/004852/3116573",
+          "confidence": 0.7555
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            347.0,
+            196.0,
+            373.0
+          ],
+          "text": "Patient",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            428.0,
+            290.0,
+            454.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            404.0,
+            428.0,
+            560.0,
+            458.0
+          ],
+          "text": "16-Apr-2025",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            642.0,
+            430.0,
+            680.0,
+            456.0
+          ],
+          "text": "PM",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            426.0,
+            1040.0,
+            458.0
+          ],
+          "text": "IPD No.",
+          "confidence": 0.7201
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1213.0,
+            425.0,
+            1301.0,
+            461.0
+          ],
+          "text": "29802",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            465.0,
+            381.0,
+            501.0
+          ],
+          "text": "ISample Receiving Date",
+          "confidence": 0.7235
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            465.0,
+            681.0,
+            501.0
+          ],
+          "text": "16-Apr-2025 11:10 AM",
+          "confidence": 0.9088
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            932.0,
+            470.0,
+            1002.0,
+            498.0
+          ],
+          "text": "Panel",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            510.0,
+            384.0,
+            542.0
+          ],
+          "text": "Sample Collection Date",
+          "confidence": 0.9102
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            510.0,
+            672.0,
+            542.0
+          ],
+          "text": "16-Apr-2025 11:10AM",
+          "confidence": 0.6268
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            590.0,
+            204.0,
+            620.0
+          ],
+          "text": "MCHC",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            592.0,
+            834.0,
+            620.0
+          ],
+          "text": "30.5*",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            592.0,
+            1122.0,
+            622.0
+          ],
+          "text": "31.5-34.5",
+          "confidence": 0.8011
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1397.0,
+            590.0,
+            1474.0,
+            628.0
+          ],
+          "text": "gmldl",
+          "confidence": 0.9686
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            652.0,
+            220.0,
+            678.0
+          ],
+          "text": "(calculated)",
+          "confidence": 0.9279
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            101.0,
+            685.0,
+            601.0,
+            721.0
+          ],
+          "text": "KFL (KIDNEY FUNCTION TESL (KFT",
+          "confidence": 0.3613
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            613.0,
+            687.0,
+            819.0,
+            723.0
+          ],
+          "text": "RETUSERUM",
+          "confidence": 0.5242
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            732.0,
+            286.0,
+            762.0
+          ],
+          "text": "BLOOD UREA",
+          "confidence": 0.5587
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            734.0,
+            824.0,
+            762.0
+          ],
+          "text": "24.3",
+          "confidence": 0.9839
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            734.0,
+            1078.0,
+            760.0
+          ],
+          "text": "19-44",
+          "confidence": 0.6113
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1397.0,
+            731.0,
+            1474.0,
+            769.0
+          ],
+          "text": "mg/dl",
+          "confidence": 0.581
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            790.0,
+            362.0,
+            818.0
+          ],
+          "text": "(Urease-GLDH UV Melhod)",
+          "confidence": 0.7907
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            828.0,
+            368.0,
+            858.0
+          ],
+          "text": "CREATININE, SERUM",
+          "confidence": 0.7284
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            830.0,
+            820.0,
+            856.0
+          ],
+          "text": "0.91",
+          "confidence": 0.9754
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            830.0,
+            1090.0,
+            856.0
+          ],
+          "text": "0.7-1.3",
+          "confidence": 0.7202
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            886.0,
+            422.0,
+            916.0
+          ],
+          "text": "(Jaffe melhod wlo compensalion)",
+          "confidence": 0.9199
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            924.0,
+            252.0,
+            952.0
+          ],
+          "text": "'JRIC ACID",
+          "confidence": 0.8773
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            926.0,
+            820.0,
+            952.0
+          ],
+          "text": "5.25",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            926.0,
+            1088.0,
+            952.0
+          ],
+          "text": "3.5-7.2",
+          "confidence": 0.8459
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1397.0,
+            925.0,
+            1471.0,
+            961.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9719
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            981.0,
+            498.0,
+            1012.0
+          ],
+          "text": "(Enzymalic pholomelric test with TBHBA)",
+          "confidence": 0.9204
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1020.0,
+            222.0,
+            1048.0
+          ],
+          "text": "SODIUM",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1022.0,
+            832.0,
+            1048.0
+          ],
+          "text": "138.1",
+          "confidence": 0.8462
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            1022.0,
+            1106.0,
+            1052.0
+          ],
+          "text": "135-145",
+          "confidence": 0.9543
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            1398.0,
+            1024.0,
+            1482.0,
+            1050.0
+          ],
+          "text": "mmolll",
+          "confidence": 0.811
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            98.0,
+            1076.0,
+            302.0,
+            1106.0
+          ],
+          "text": "(L.S E.direct Method)",
+          "confidence": 0.7817
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1114.0,
+            264.0,
+            1144.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.8527
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1116.0,
+            830.0,
+            1144.0
+          ],
+          "text": "3.40*",
+          "confidence": 0.9781
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            1118.0,
+            1088.0,
+            1144.0
+          ],
+          "text": "3.5-5.5",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1396.0,
+            1120.0,
+            1480.0,
+            1146.0
+          ],
+          "text": "mmol/l",
+          "confidence": 0.6039
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            1171.0,
+            301.0,
+            1202.0
+          ],
+          "text": "(L.S E.direct Melliod)",
+          "confidence": 0.4847
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1210.0,
+            232.0,
+            1238.0
+          ],
+          "text": "CALCIUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1212.0,
+            818.0,
+            1240.0
+          ],
+          "text": "8.95",
+          "confidence": 0.9593
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            1212.0,
+            1100.0,
+            1242.0
+          ],
+          "text": "8.6-10.3",
+          "confidence": 0.8277
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1395.0,
+            1213.0,
+            1469.0,
+            1249.0
+          ],
+          "text": "mgldl",
+          "confidence": 0.9101
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            1268.0,
+            306.0,
+            1298.0
+          ],
+          "text": "(Arsenazo IIl Melhod)",
+          "confidence": 0.7247
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1306.0,
+            440.0,
+            1336.0
+          ],
+          "text": "INORGANIC PHOSPHORUS",
+          "confidence": 0.7033
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1308.0,
+            818.0,
+            1336.0
+          ],
+          "text": "4.05",
+          "confidence": 0.9604
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1000.0,
+            1310.0,
+            1086.0,
+            1336.0
+          ],
+          "text": "2.6-4.5",
+          "confidence": 0.5918
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            93.0,
+            1363.0,
+            612.0,
+            1396.0
+          ],
+          "text": "(Molybdale UV Melfiod with endpoint delermination))",
+          "confidence": 0.8652
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1402.0,
+            312.0,
+            1432.0
+          ],
+          "text": "TOTAL PROTEIN",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1404.0,
+            818.0,
+            1434.0
+          ],
+          "text": "7.05",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1000.0,
+            1406.0,
+            1084.0,
+            1434.0
+          ],
+          "text": "6.6-8.8",
+          "confidence": 0.7309
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1391.0,
+            1402.0,
+            1468.0,
+            1442.0
+          ],
+          "text": "gmldl",
+          "confidence": 0.8582
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            1459.0,
+            250.0,
+            1488.0
+          ],
+          "text": "(Biuret Meihod)",
+          "confidence": 0.8144
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1496.0,
+            320.0,
+            1526.0
+          ],
+          "text": "ALBUMIN, SERUM",
+          "confidence": 0.8875
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1500.0,
+            816.0,
+            1530.0
+          ],
+          "text": "4.12",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            1500.0,
+            1084.0,
+            1528.0
+          ],
+          "text": "3.5-5.2",
+          "confidence": 0.4387
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1389.0,
+            1498.0,
+            1466.0,
+            1538.0
+          ],
+          "text": "gmldl",
+          "confidence": 0.8493
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            1557.0,
+            294.0,
+            1586.0
+          ],
+          "text": "\"omocresol Green)",
+          "confidence": 0.6331
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1592.0,
+            246.0,
+            1622.0
+          ],
+          "text": "GLOBULIN",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1596.0,
+            800.0,
+            1624.0
+          ],
+          "text": "2.9",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            1598.0,
+            1062.0,
+            1624.0
+          ],
+          "text": "2-3.5",
+          "confidence": 0.9633
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1387.0,
+            1596.0,
+            1464.0,
+            1632.0
+          ],
+          "text": "gm/dl",
+          "confidence": 0.7284
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            91.0,
+            1651.0,
+            216.0,
+            1680.0
+          ],
+          "text": "(Calciilated)",
+          "confidence": 0.9788
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1688.0,
+            222.0,
+            1716.0
+          ],
+          "text": "AG Ratio",
+          "confidence": 0.6935
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1694.0,
+            798.0,
+            1720.0
+          ],
+          "text": "1.44",
+          "confidence": 0.4953
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            996.0,
+            1694.0,
+            1082.0,
+            1722.0
+          ],
+          "text": "0.8-2.0",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            90.0,
+            1750.0,
+            214.0,
+            1778.0
+          ],
+          "text": "(Calculaled)",
+          "confidence": 0.7714
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            744.0,
+            1808.0,
+            920.0,
+            1839.0
+          ],
+          "text": "End Of Report #**",
+          "confidence": 0.6289
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1958.0,
+            298.0,
+            2013.0
+          ],
+          "text": "'81-401235",
+          "confidence": 0.7748
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            134.0,
+            1980.0,
+            355.0,
+            2076.0
+          ],
+          "text": "ezexked/3",
+          "confidence": 0.1027
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            2083.0,
+            163.0,
+            2123.0
+          ],
+          "text": "K",
+          "confidence": 0.599
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            140.0,
+            2138.0,
+            269.0,
+            2180.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.6908
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1157.0,
+            2141.0,
+            1367.0,
+            2281.0
+          ],
+          "text": ")",
+          "confidence": 0.4482
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1398.6583592135,
+            827.6095074199,
+            1471.3416407865,
+            864.3904925801
+          ],
+          "text": "mgldl",
+          "confidence": 0.9658
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            1392.1370142686694,
+            1306.062000688057,
+            1467.8629857313306,
+            1345.937999311943
+          ],
+          "text": "mg/dl",
+          "confidence": 0.6492
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            172.00993436725523,
+            1843.0303715420669,
+            335.9900656327448,
+            1963.9696284579331
+          ],
+          "text": "JVaNos",
+          "confidence": 0.1981
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            118.28352926876417,
+            1860.6546763430981,
+            200.71647073123583,
+            1934.3453236569019
+          ],
+          "text": "dH)",
+          "confidence": 0.4408
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            148.22862412302086,
+            2089.086691731258,
+            240.77137587697914,
+            2151.913308268742
+          ],
+          "text": "Svq",
+          "confidence": 0.8982
+        }
+      ]
+    }
+  ],
+  "full_text": "MBHAGWAN\nDAS\nBhagwan Das Hospital\nDepartment 0f Lab Sciences\nARd'\nMC-4795\nDiagnostics S. No.\nMR No:\nMR/25/004852/3116573\nPatient\nDate\n16-Apr-2025\nPM\nIPD No.\n29802\nISample Receiving Date\n16-Apr-2025 11:10 AM\nPanel\nSample Collection Date\n16-Apr-2025 11:10AM\nMCHC\n30.5*\n31.5-34.5\ngmldl\n(calculated)\nKFL (KIDNEY FUNCTION TESL (KFT\nRETUSERUM\nBLOOD UREA\n24.3\n19-44\nmg/dl\n(Urease-GLDH UV Melhod)\nCREATININE, SERUM\n0.91\n0.7-1.3\n(Jaffe melhod wlo compensalion)\n'JRIC ACID\n5.25\n3.5-7.2\nmgldl\n(Enzymalic pholomelric test with TBHBA)\nSODIUM\n138.1\n135-145\nmmolll\n(L.S E.direct Method)\nPOTASSIUM\n3.40*\n3.5-5.5\nmmol/l\n(L.S E.direct Melliod)\nCALCIUM\n8.95\n8.6-10.3\nmgldl\n(Arsenazo IIl Melhod)\nINORGANIC PHOSPHORUS\n4.05\n2.6-4.5\n(Molybdale UV Melfiod with endpoint delermination))\nTOTAL PROTEIN\n7.05\n6.6-8.8\ngmldl\n(Biuret Meihod)\nALBUMIN, SERUM\n4.12\n3.5-5.2\ngmldl\n\"omocresol Green)\nGLOBULIN\n2.9\n2-3.5\ngm/dl\n(Calciilated)\nAG Ratio\n1.44\n0.8-2.0\n(Calculaled)\nEnd Of Report #**\n'81-401235\nezexked/3\nK\nHospital\n)\nmgldl\nmg/dl\nJVaNos\ndH)\nSvq",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Department",
+          "biomarker_normalized": "Department",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Department 0f Lab Sciences",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MC",
+          "biomarker_normalized": "MC",
+          "value": "4795",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MC-4795",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "MR/",
+          "biomarker_normalized": "MR/",
+          "value": "25",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MR/25/004852/3116573",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ezexked/",
+          "biomarker_normalized": "ezexked/",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ezexked/3",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 90,
+    "ocr_avg_confidence": 0.8001,
+    "parsed_row_count": 4
+  }
+}

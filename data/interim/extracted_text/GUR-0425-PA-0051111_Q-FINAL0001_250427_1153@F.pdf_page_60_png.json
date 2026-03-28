@@ -1,0 +1,819 @@
+{
+  "document_id": "GUR-0425-PA-0051111_Q-FINAL0001_250427_1153@F.pdf_page_60",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0051111_Q-FINAL0001_250427_1153@F.pdf_page_60.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "ADVANTA SUPER SPECIALITY HOSPITAL\nSilani Gate, Jhajjar (Haryana)\nABVANta\nPh.\nDate\nSrl No.\n9\nPatient Id\nDr: MRINAL VERMA\nNo.\n21723\nNo.\n12361\nTesth\nLRINE EXAMINATION TEST\nURINE EXAMINATION\nPHYSICAL EXAMINATION\nQUANTITY\n15\nml.\nCOLOUR\nPALE YELLOW\nTRANSPARENCY\nTURBID\nSPECIFIC GRAVITY\nQ.N.S:\nPH\n6.5\nCHEMICAL EXAMINATION\nALBUMIN\nNIL\nREDUCING SUGAR\nNIL\nMICROSCOPIC EXAMINATION\nPUS CELLS\n10-15\nIHPF\nRBC'S\nNIL\nIHPF\nCASTS\nNIL\nCRYSTALS\nNIL\nEPITHELIAL CELLS\n5-7\nIHPF\nBACTERIA\nOTHERS\nNIL\n#Kxr\nEnd Of Report\n*rr\n16\nNo-\nRegd:\nSINGLA\nALEA\n(PATH)\nDR:\nMD\n[33S,\nPathologist\nConsultant\nDMC-i79 =",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            293.0,
+            81.0,
+            1407.0,
+            145.0
+          ],
+          "text": "ADVANTA SUPER SPECIALITY HOSPITAL",
+          "confidence": 0.8494
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            639.0,
+            162.0,
+            1057.0,
+            202.0
+          ],
+          "text": "Silani Gate, Jhajjar (Haryana)",
+          "confidence": 0.5649
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            185.0,
+            261.0,
+            229.0
+          ],
+          "text": "ABVANta",
+          "confidence": 0.1575
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            568.0,
+            202.0,
+            616.0,
+            234.0
+          ],
+          "text": "Ph.",
+          "confidence": 0.4447
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            196.0,
+            348.0,
+            262.0,
+            378.0
+          ],
+          "text": "Date",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            810.0,
+            344.0,
+            906.0,
+            374.0
+          ],
+          "text": "Srl No.",
+          "confidence": 0.7325
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            916.0,
+            344.0,
+            940.0,
+            370.0
+          ],
+          "text": "9",
+          "confidence": 0.8142
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            340.0,
+            1304.0,
+            372.0
+          ],
+          "text": "Patient Id",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            334.0,
+            424.0,
+            600.0,
+            456.0
+          ],
+          "text": "Dr: MRINAL VERMA",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            890.0,
+            422.0,
+            938.0,
+            450.0
+          ],
+          "text": "No.",
+          "confidence": 0.9783
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            950.0,
+            422.0,
+            1036.0,
+            452.0
+          ],
+          "text": "21723",
+          "confidence": 0.7142
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1228.0,
+            420.0,
+            1278.0,
+            450.0
+          ],
+          "text": "No.",
+          "confidence": 0.7964
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            420.0,
+            1396.0,
+            450.0
+          ],
+          "text": "12361",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            506.0,
+            212.0,
+            532.0
+          ],
+          "text": "Testh",
+          "confidence": 0.4872
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            620.0,
+            584.0,
+            1083.0,
+            625.0
+          ],
+          "text": "LRINE EXAMINATION TEST",
+          "confidence": 0.5221
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            642.0,
+            467.0,
+            679.0
+          ],
+          "text": "URINE EXAMINATION",
+          "confidence": 0.8207
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            702.0,
+            502.0,
+            734.0
+          ],
+          "text": "PHYSICAL EXAMINATION",
+          "confidence": 0.9859
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            751.0,
+            321.0,
+            783.0
+          ],
+          "text": "QUANTITY",
+          "confidence": 0.9245
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            750.0,
+            794.0,
+            780.0
+          ],
+          "text": "15",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            954.0,
+            750.0,
+            992.0,
+            776.0
+          ],
+          "text": "ml.",
+          "confidence": 0.4276
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            802.0,
+            302.0,
+            832.0
+          ],
+          "text": "COLOUR",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            798.0,
+            956.0,
+            830.0
+          ],
+          "text": "PALE YELLOW",
+          "confidence": 0.7886
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            178.0,
+            850.0,
+            410.0,
+            882.0
+          ],
+          "text": "TRANSPARENCY",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            848.0,
+            866.0,
+            880.0
+          ],
+          "text": "TURBID",
+          "confidence": 0.8623
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            177.0,
+            900.0,
+            440.0,
+            932.0
+          ],
+          "text": "SPECIFIC GRAVITY",
+          "confidence": 0.6883
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            898.0,
+            840.0,
+            930.0
+          ],
+          "text": "Q.N.S:",
+          "confidence": 0.3189
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            954.0,
+            224.0,
+            982.0
+          ],
+          "text": "PH",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            950.0,
+            802.0,
+            978.0
+          ],
+          "text": "6.5",
+          "confidence": 0.6389
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1005.0,
+            513.0,
+            1042.0
+          ],
+          "text": "CHEMICAL EXAMINATION",
+          "confidence": 0.8675
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1056.0,
+            308.0,
+            1088.0
+          ],
+          "text": "ALBUMIN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1054.0,
+            808.0,
+            1084.0
+          ],
+          "text": "NIL",
+          "confidence": 0.5601
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            1105.0,
+            439.0,
+            1138.0
+          ],
+          "text": "REDUCING SUGAR",
+          "confidence": 0.8228
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            758.0,
+            1104.0,
+            808.0,
+            1134.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            1160.0,
+            568.0,
+            1193.0
+          ],
+          "text": "MICROSCOPIC EXAMINATION",
+          "confidence": 0.8713
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            1212.0,
+            340.0,
+            1242.0
+          ],
+          "text": "PUS CELLS",
+          "confidence": 0.8349
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1208.0,
+            838.0,
+            1238.0
+          ],
+          "text": "10-15",
+          "confidence": 0.9526
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            1206.0,
+            1026.0,
+            1236.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            1260.0,
+            270.0,
+            1292.0
+          ],
+          "text": "RBC'S",
+          "confidence": 0.8894
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1258.0,
+            808.0,
+            1288.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            956.0,
+            1258.0,
+            1026.0,
+            1286.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9985
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            1312.0,
+            280.0,
+            1342.0
+          ],
+          "text": "CASTS",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1308.0,
+            810.0,
+            1340.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            1360.0,
+            332.0,
+            1392.0
+          ],
+          "text": "CRYSTALS",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1360.0,
+            810.0,
+            1390.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            1409.0,
+            441.0,
+            1445.0
+          ],
+          "text": "EPITHELIAL CELLS",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1410.0,
+            804.0,
+            1438.0
+          ],
+          "text": "5-7",
+          "confidence": 0.9194
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            958.0,
+            1408.0,
+            1028.0,
+            1438.0
+          ],
+          "text": "IHPF",
+          "confidence": 0.9929
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            183.0,
+            1459.0,
+            325.0,
+            1491.0
+          ],
+          "text": "BACTERIA",
+          "confidence": 0.8182
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            181.0,
+            1511.0,
+            305.0,
+            1541.0
+          ],
+          "text": "OTHERS",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1508.0,
+            810.0,
+            1538.0
+          ],
+          "text": "NIL",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            703.0,
+            1621.0,
+            749.0,
+            1635.0
+          ],
+          "text": "#Kxr",
+          "confidence": 0.0707
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            753.0,
+            1615.0,
+            951.0,
+            1653.0
+          ],
+          "text": "End Of Report",
+          "confidence": 0.7855
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            951.0,
+            1619.0,
+            997.0,
+            1633.0
+          ],
+          "text": "*rr",
+          "confidence": 0.1156
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            1383.0,
+            1795.0,
+            1425.0,
+            1831.0
+          ],
+          "text": "16",
+          "confidence": 0.9946
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1836.0,
+            1244.0,
+            1864.0
+          ],
+          "text": "No-",
+          "confidence": 0.9264
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            1113.0,
+            1841.0,
+            1196.0,
+            1885.0
+          ],
+          "text": "Regd:",
+          "confidence": 0.5969
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1263.7230723179239,
+            1695.2913279897764,
+            1410.2769276820761,
+            1758.7086720102236
+          ],
+          "text": "SINGLA",
+          "confidence": 0.99
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1167.5611569566013,
+            1722.9125764461032,
+            1271.4388430433987,
+            1779.0874235538968
+          ],
+          "text": "ALEA",
+          "confidence": 0.1453
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1307.3093088240148,
+            1732.0899467183206,
+            1416.6906911759852,
+            1785.9100532816794
+          ],
+          "text": "(PATH)",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            1097.2802656784306,
+            1744.4162310341353,
+            1164.7197343215694,
+            1793.5837689658647
+          ],
+          "text": "DR:",
+          "confidence": 0.3893
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            1252.2802656784306,
+            1753.5895893346576,
+            1314.7197343215694,
+            1795.4104106653424
+          ],
+          "text": "MD",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1149.1715728752538,
+            1764.0676906283547,
+            1253.8284271247462,
+            1815.9323093716453
+          ],
+          "text": "[33S,",
+          "confidence": 0.2017
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            1255.01985123916,
+            1765.4845012824371,
+            1424.98014876084,
+            1829.5154987175629
+          ],
+          "text": "Pathologist",
+          "confidence": 0.9968
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1099.0,
+            1796.9838415951817,
+            1264.0,
+            1853.0161584048183
+          ],
+          "text": "Consultant",
+          "confidence": 0.728
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1246.01985123916,
+            1799.3937686482661,
+            1395.98014876084,
+            1859.6062313517339
+          ],
+          "text": "DMC-i79 =",
+          "confidence": 0.3213
+        }
+      ]
+    }
+  ],
+  "full_text": "ADVANTA SUPER SPECIALITY HOSPITAL\nSilani Gate, Jhajjar (Haryana)\nABVANta\nPh.\nDate\nSrl No.\n9\nPatient Id\nDr: MRINAL VERMA\nNo.\n21723\nNo.\n12361\nTesth\nLRINE EXAMINATION TEST\nURINE EXAMINATION\nPHYSICAL EXAMINATION\nQUANTITY\n15\nml.\nCOLOUR\nPALE YELLOW\nTRANSPARENCY\nTURBID\nSPECIFIC GRAVITY\nQ.N.S:\nPH\n6.5\nCHEMICAL EXAMINATION\nALBUMIN\nNIL\nREDUCING SUGAR\nNIL\nMICROSCOPIC EXAMINATION\nPUS CELLS\n10-15\nIHPF\nRBC'S\nNIL\nIHPF\nCASTS\nNIL\nCRYSTALS\nNIL\nEPITHELIAL CELLS\n5-7\nIHPF\nBACTERIA\nOTHERS\nNIL\n#Kxr\nEnd Of Report\n*rr\n16\nNo-\nRegd:\nSINGLA\nALEA\n(PATH)\nDR:\nMD\n[33S,\nPathologist\nConsultant\nDMC-i79 =",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "DMC-i7",
+          "biomarker_normalized": "DMC-i7",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "DMC-i79 =",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 65,
+    "ocr_avg_confidence": 0.7889,
+    "parsed_row_count": 1
+  }
+}

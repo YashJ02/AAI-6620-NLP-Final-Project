@@ -1,0 +1,567 @@
+{
+  "document_id": "IND-0425-PA-0033745_SANKET CBC_27-04-2025_0431-24_PM@F.pdf_page_2",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\IND-0425-PA-0033745_SANKET CBC_27-04-2025_0431-24_PM@F.pdf_page_2.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "LAB TEST REPORT\nEpisode No\n13804200\nReport Date\nJ09.05.51.000\nOrdering Doctor\nDr.Subhaprakash Sanyal & Team\nEpisode Type\nIPD\nPPROTEIN, SERUM (1535D-SRL)\nC-REACTIVE PROTEIN\n164.0\n5.0\nHigh\nmg/L\nCREATININE EGFR- EPI (132OHGFREP\nSRL)\nCREATININE\n0.67\n0.80\n1.30\nLow\nmg/dL\nFILTRATION\n104.91\nRefer\nmL/min/1.73\nRATE (MALE)\nInterpretatio\nm2\nBelow\nPOTASSIUM, SERUM (5311HD-SRL)\nPOTASSIUM\n4.11\n3.5\n5.3\nmmol/L\nTested\nSYSTEM USER\nVerified by-:\nby:",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            214.0,
+            924.0,
+            244.0
+          ],
+          "text": "LAB TEST REPORT",
+          "confidence": 0.8515
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            212.0,
+            356.0,
+            348.0,
+            388.0
+          ],
+          "text": "Episode No",
+          "confidence": 0.9771
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            355.0,
+            536.0,
+            385.0
+          ],
+          "text": "13804200",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            820.0,
+            356.0,
+            970.0,
+            386.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.6924
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            1207.0,
+            355.0,
+            1364.0,
+            386.0
+          ],
+          "text": "J09.05.51.000",
+          "confidence": 0.5598
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            403.0,
+            321.0,
+            443.0
+          ],
+          "text": "Ordering Doctor",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            415.0,
+            406.0,
+            793.0,
+            442.0
+          ],
+          "text": "Dr.Subhaprakash Sanyal & Team",
+          "confidence": 0.784
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            405.0,
+            983.0,
+            443.0
+          ],
+          "text": "Episode Type",
+          "confidence": 0.9853
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1072.0,
+            410.0,
+            1116.0,
+            434.0
+          ],
+          "text": "IPD",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            254.0,
+            527.0,
+            570.0,
+            556.0
+          ],
+          "text": "PPROTEIN, SERUM (1535D-SRL)",
+          "confidence": 0.6437
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            578.0,
+            374.0,
+            604.0
+          ],
+          "text": "C-REACTIVE PROTEIN",
+          "confidence": 0.7409
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            578.0,
+            536.0,
+            604.0
+          ],
+          "text": "164.0",
+          "confidence": 0.9465
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            680.0,
+            580.0,
+            720.0,
+            604.0
+          ],
+          "text": "5.0",
+          "confidence": 0.9719
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            816.0,
+            577.0,
+            870.0,
+            607.0
+          ],
+          "text": "High",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            580.0,
+            1022.0,
+            606.0
+          ],
+          "text": "mg/L",
+          "confidence": 0.9856
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            624.0,
+            510.0,
+            652.0
+          ],
+          "text": "CREATININE EGFR- EPI (132OHGFREP",
+          "confidence": 0.8643
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            522.0,
+            626.0,
+            572.0,
+            652.0
+          ],
+          "text": "SRL)",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            676.0,
+            282.0,
+            700.0
+          ],
+          "text": "CREATININE",
+          "confidence": 0.7381
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            472.0,
+            676.0,
+            522.0,
+            700.0
+          ],
+          "text": "0.67",
+          "confidence": 0.8703
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            676.0,
+            716.0,
+            700.0
+          ],
+          "text": "0.80",
+          "confidence": 0.9963
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            726.0,
+            676.0,
+            776.0,
+            700.0
+          ],
+          "text": "1.30",
+          "confidence": 0.7001
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            818.0,
+            676.0,
+            866.0,
+            700.0
+          ],
+          "text": "Low",
+          "confidence": 0.7865
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            676.0,
+            1034.0,
+            704.0
+          ],
+          "text": "mg/dL",
+          "confidence": 0.7825
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            306.0,
+            770.0,
+            428.0,
+            796.0
+          ],
+          "text": "FILTRATION",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            770.0,
+            548.0,
+            796.0
+          ],
+          "text": "104.91",
+          "confidence": 0.8498
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            770.0,
+            724.0,
+            796.0
+          ],
+          "text": "Refer",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            770.0,
+            1102.0,
+            796.0
+          ],
+          "text": "mL/min/1.73",
+          "confidence": 0.7583
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            800.0,
+            290.0,
+            828.0
+          ],
+          "text": "RATE (MALE)",
+          "confidence": 0.6947
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            661.0,
+            799.0,
+            800.0,
+            829.0
+          ],
+          "text": "Interpretatio",
+          "confidence": 0.9934
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            966.0,
+            800.0,
+            1002.0,
+            826.0
+          ],
+          "text": "m2",
+          "confidence": 0.8468
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            832.0,
+            750.0,
+            856.0
+          ],
+          "text": "Below",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            872.0,
+            494.0,
+            902.0
+          ],
+          "text": "POTASSIUM, SERUM (5311HD-SRL)",
+          "confidence": 0.8365
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            924.0,
+            282.0,
+            948.0
+          ],
+          "text": "POTASSIUM",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            474.0,
+            924.0,
+            522.0,
+            948.0
+          ],
+          "text": "4.11",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            664.0,
+            924.0,
+            702.0,
+            948.0
+          ],
+          "text": "3.5",
+          "confidence": 0.7929
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            714.0,
+            924.0,
+            750.0,
+            948.0
+          ],
+          "text": "5.3",
+          "confidence": 0.4924
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            965.0,
+            922.0,
+            1048.0,
+            951.0
+          ],
+          "text": "mmol/L",
+          "confidence": 0.9312
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            982.0,
+            210.0,
+            1010.0
+          ],
+          "text": "Tested",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            260.0,
+            982.0,
+            426.0,
+            1012.0
+          ],
+          "text": "SYSTEM USER",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            1067.0,
+            983.0,
+            1217.0,
+            1019.0
+          ],
+          "text": "Verified by-:",
+          "confidence": 0.98
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            205.14851402447306,
+            978.1094462711102,
+            262.85148597552694,
+            1019.8905537288898
+          ],
+          "text": "by:",
+          "confidence": 0.9076
+        }
+      ]
+    }
+  ],
+  "full_text": "LAB TEST REPORT\nEpisode No\n13804200\nReport Date\nJ09.05.51.000\nOrdering Doctor\nDr.Subhaprakash Sanyal & Team\nEpisode Type\nIPD\nPPROTEIN, SERUM (1535D-SRL)\nC-REACTIVE PROTEIN\n164.0\n5.0\nHigh\nmg/L\nCREATININE EGFR- EPI (132OHGFREP\nSRL)\nCREATININE\n0.67\n0.80\n1.30\nLow\nmg/dL\nFILTRATION\n104.91\nRefer\nmL/min/1.73\nRATE (MALE)\nInterpretatio\nm2\nBelow\nPOTASSIUM, SERUM (5311HD-SRL)\nPOTASSIUM\n4.11\n3.5\n5.3\nmmol/L\nTested\nSYSTEM USER\nVerified by-:\nby:",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "J0",
+          "biomarker_normalized": "J0",
+          "value": "9.05",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "J09.05.51.000",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "PPROTEIN, SERUM (",
+          "biomarker_normalized": "PPROTEIN, SERUM (",
+          "value": "1535",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PPROTEIN, SERUM (1535D-SRL)",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CREATININE EGFR- EPI (",
+          "biomarker_normalized": "CREATININE EGFR- EPI (",
+          "value": "132",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CREATININE EGFR- EPI (132OHGFREP",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "mL/min/",
+          "biomarker_normalized": "mL/min/",
+          "value": "1.73",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "mL/min/1.73",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "POTASSIUM, SERUM (",
+          "biomarker_normalized": "POTASSIUM, SERUM (",
+          "value": "5311",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "POTASSIUM, SERUM (5311HD-SRL)",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 41,
+    "ocr_avg_confidence": 0.877,
+    "parsed_row_count": 5
+  }
+}

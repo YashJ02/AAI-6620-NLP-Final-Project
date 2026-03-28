@@ -1,0 +1,1566 @@
+{
+  "document_id": "DEL-0425-PA-0052238_F-THIRUSHANTHINIPREAUTHREQUEST_250427_1458@G.pdf_page_12",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\DEL-0425-PA-0052238_F-THIRUSHANTHINIPREAUTHREQUEST_250427_1458@G.pdf_page_12.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "krela\nHospital\nCLINICAL LABORATORY REPORT\n63\nBED\nBAD WING/84076\nRequested On\n112,57 AM\nER CARE GROUP\nReported On\nE\n103.09 AM\nINVESTIGATION\nTEST METHOD\nRESULT\nUNIT\nBIOLOGICAL REFERENCE INTERVAL\nHaematology and Clinical Pathology\nCOMPLETE BLOOD COUNT\nWhole Blood\nRDW\nCakculated\n12.7\n%\n11.6 - 14\nPLATELET COUNT\nLight Scattering\n238000\nIcumm\n150000\n410000\nMPV\nLight SCATTERING\n6.8\nfl\n7.5\n12.0\nAbsolute Count\nABSOLUTE NEUTROPKIL\nAUTOMATED-OPTICAL\n3.9\nX10 3/ul\n2.0-7.0\nFLOW CytomeTRY With\nCOUNT\nMPO REACTION\nABSOLUTE LYMPHOCYTE\nAUTOMATED-OPTICRL\n1.1\nX10n3/uL\n1.0-3.0\nCOUNT\nFLOW CYTOMETRY WitH\nMPO REACTION\nABSOLUTE MONOCYTE\nAUTOMATED-OPTICAL\n0.3\nX10 3/uL\n0,2-1,0\nCOUNT\nFLOW CYTOMETRY WITh\nMPO REACTION\nABSOLUTE EOSINOPHIL\nAUTOMATED-OPTICAL\n03\nX10^3fuL\n0.0\n0.5\nCOUNT\nFLOw CYTOMETRY With\nMPO REACTION\nABSOLUTE BASOPHIL\nAUTOMATED-OPTICAE\n0.0\nX10 3/ul\n0.02\n0.1\nCOUNT\nFLOW CYTOMETRY With\nMPO REACTION\nDifferential Count (Methodology:Light Scattering)\nNEUTROPHIL\n67\n%\n40\n80\nLYMPHOCYTE\n21\n%\n20\n40\nMONOCYTE\n06\n2 - 10\nEOSINOPHIL\n06\n%\n1 -6\nBASOPHIL\nO0\n%\n1-2\nMlukuJi\nMrs Devi M\nIMUKUL VIJ; MD,PDCC\nDr Anpama Patil\nSr.CONSULTANT PATKOLOGIST\nConsultant Hematopathologist\nResult Entered / Verified By\nOycaeanroice\nTxr {lex So bimate:\nMedica} Ceatie:\nTWdW\n44r0m1e1-4\nSat {a\nMX\nprertv*rx:tenslilutt;,&)n\n24*7 EnCr4Cuy0me:+914486567780\n#r02'ro Juf)xsliitte-.6:(1tt)\nAppsini {nct;+91 44 0680TTT?\n\"'#Mf\n{nilo M5t\n{nTtt0xint0\n44\n7911417",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            701.0,
+            0.0,
+            968.0,
+            121.0
+          ],
+          "text": "krela",
+          "confidence": 0.3017
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            775.0,
+            82.0,
+            956.0,
+            137.0
+          ],
+          "text": "Hospital",
+          "confidence": 0.8347
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            613.0,
+            191.0,
+            1063.0,
+            231.0
+          ],
+          "text": "CLINICAL LABORATORY REPORT",
+          "confidence": 0.9249
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            106.0,
+            222.0,
+            554.0,
+            398.0
+          ],
+          "text": "63",
+          "confidence": 0.2706
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            708.0,
+            292.0,
+            762.0,
+            322.0
+          ],
+          "text": "BED",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            791.0,
+            291.0,
+            1005.0,
+            327.0
+          ],
+          "text": "BAD WING/84076",
+          "confidence": 0.6109
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1137.0,
+            295.0,
+            1313.0,
+            331.0
+          ],
+          "text": "Requested On",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1488.0,
+            296.0,
+            1606.0,
+            328.0
+          ],
+          "text": "112,57 AM",
+          "confidence": 0.3139
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            298.0,
+            388.0,
+            496.0,
+            420.0
+          ],
+          "text": "ER CARE GROUP",
+          "confidence": 0.9379
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            392.0,
+            1295.0,
+            430.0
+          ],
+          "text": "Reported On",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1344.0,
+            258.0,
+            1520.0,
+            428.0
+          ],
+          "text": "E",
+          "confidence": 0.1574
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1485.0,
+            391.0,
+            1609.0,
+            429.0
+          ],
+          "text": "103.09 AM",
+          "confidence": 0.6605
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            438.0,
+            312.0,
+            468.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 0.9649
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            452.0,
+            440.0,
+            628.0,
+            470.0
+          ],
+          "text": "TEST METHOD",
+          "confidence": 0.9814
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            763.0,
+            442.0,
+            855.0,
+            472.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9993
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1012.0,
+            444.0,
+            1076.0,
+            472.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9848
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            1171.0,
+            442.0,
+            1583.0,
+            478.0
+          ],
+          "text": "BIOLOGICAL REFERENCE INTERVAL",
+          "confidence": 0.8998
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            477.0,
+            554.0,
+            522.0
+          ],
+          "text": "Haematology and Clinical Pathology",
+          "confidence": 0.8821
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            527.0,
+            434.0,
+            560.0
+          ],
+          "text": "COMPLETE BLOOD COUNT",
+          "confidence": 0.4069
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            560.0,
+            240.0,
+            584.0
+          ],
+          "text": "Whole Blood",
+          "confidence": 0.9447
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            600.0,
+            184.0,
+            628.0
+          ],
+          "text": "RDW",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            598.0,
+            552.0,
+            624.0
+          ],
+          "text": "Cakculated",
+          "confidence": 0.9187
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            784.0,
+            604.0,
+            840.0,
+            630.0
+          ],
+          "text": "12.7",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            1010.0,
+            606.0,
+            1034.0,
+            632.0
+          ],
+          "text": "%",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            606.0,
+            1310.0,
+            636.0
+          ],
+          "text": "11.6 - 14",
+          "confidence": 0.4893
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            657.0,
+            328.0,
+            689.0
+          ],
+          "text": "PLATELET COUNT",
+          "confidence": 0.7733
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            657.0,
+            598.0,
+            686.0
+          ],
+          "text": "Light Scattering",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            662.0,
+            860.0,
+            694.0
+          ],
+          "text": "238000",
+          "confidence": 0.9135
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            664.0,
+            1098.0,
+            696.0
+          ],
+          "text": "Icumm",
+          "confidence": 0.9975
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1203.0,
+            665.0,
+            1295.0,
+            695.0
+          ],
+          "text": "150000",
+          "confidence": 0.767
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            666.0,
+            1404.0,
+            696.0
+          ],
+          "text": "410000",
+          "confidence": 0.9976
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            718.0,
+            178.0,
+            744.0
+          ],
+          "text": "MPV",
+          "confidence": 0.8578
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            718.0,
+            628.0,
+            742.0
+          ],
+          "text": "Light SCATTERING",
+          "confidence": 0.5851
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            722.0,
+            834.0,
+            750.0
+          ],
+          "text": "6.8",
+          "confidence": 0.9843
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1009.0,
+            725.0,
+            1029.0,
+            749.0
+          ],
+          "text": "fl",
+          "confidence": 0.5059
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            724.0,
+            1248.0,
+            754.0
+          ],
+          "text": "7.5",
+          "confidence": 0.8537
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1262.0,
+            726.0,
+            1318.0,
+            754.0
+          ],
+          "text": "12.0",
+          "confidence": 0.87
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            775.0,
+            309.0,
+            808.0
+          ],
+          "text": "Absolute Count",
+          "confidence": 0.8461
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            822.0,
+            404.0,
+            854.0
+          ],
+          "text": "ABSOLUTE NEUTROPKIL",
+          "confidence": 0.758
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            449.0,
+            819.0,
+            658.0,
+            848.0
+          ],
+          "text": "AUTOMATED-OPTICAL",
+          "confidence": 0.8428
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            828.0,
+            832.0,
+            854.0
+          ],
+          "text": "3.9",
+          "confidence": 0.9887
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            1008.0,
+            828.0,
+            1124.0,
+            860.0
+          ],
+          "text": "X10 3/ul",
+          "confidence": 0.5089
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1204.0,
+            828.0,
+            1302.0,
+            858.0
+          ],
+          "text": "2.0-7.0",
+          "confidence": 0.9651
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            848.0,
+            678.0,
+            874.0
+          ],
+          "text": "FLOW CytomeTRY With",
+          "confidence": 0.2959
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            856.0,
+            210.0,
+            886.0
+          ],
+          "text": "COUNT",
+          "confidence": 0.97
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            874.0,
+            598.0,
+            900.0
+          ],
+          "text": "MPO REACTION",
+          "confidence": 0.9284
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            926.0,
+            410.0,
+            958.0
+          ],
+          "text": "ABSOLUTE LYMPHOCYTE",
+          "confidence": 0.824
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            926.0,
+            656.0,
+            952.0
+          ],
+          "text": "AUTOMATED-OPTICRL",
+          "confidence": 0.8348
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            934.0,
+            830.0,
+            960.0
+          ],
+          "text": "1.1",
+          "confidence": 0.5401
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            932.0,
+            1126.0,
+            964.0
+          ],
+          "text": "X10n3/uL",
+          "confidence": 0.563
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1202.0,
+            934.0,
+            1302.0,
+            964.0
+          ],
+          "text": "1.0-3.0",
+          "confidence": 0.3617
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            118.0,
+            960.0,
+            208.0,
+            992.0
+          ],
+          "text": "COUNT",
+          "confidence": 0.9928
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            954.0,
+            680.0,
+            980.0
+          ],
+          "text": "FLOW CYTOMETRY WitH",
+          "confidence": 0.5859
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            980.0,
+            598.0,
+            1006.0
+          ],
+          "text": "MPO REACTION",
+          "confidence": 0.9615
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            117.0,
+            1031.0,
+            389.0,
+            1067.0
+          ],
+          "text": "ABSOLUTE MONOCYTE",
+          "confidence": 0.8667
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            450.0,
+            1034.0,
+            658.0,
+            1060.0
+          ],
+          "text": "AUTOMATED-OPTICAL",
+          "confidence": 0.9116
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            1040.0,
+            832.0,
+            1066.0
+          ],
+          "text": "0.3",
+          "confidence": 0.5136
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1006.0,
+            1039.0,
+            1124.0,
+            1071.0
+          ],
+          "text": "X10 3/uL",
+          "confidence": 0.8128
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1042.0,
+            1302.0,
+            1070.0
+          ],
+          "text": "0,2-1,0",
+          "confidence": 0.7234
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1068.0,
+            208.0,
+            1098.0
+          ],
+          "text": "COUNT",
+          "confidence": 0.9897
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            1060.0,
+            678.0,
+            1086.0
+          ],
+          "text": "FLOW CYTOMETRY WITh",
+          "confidence": 0.55
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            1086.0,
+            596.0,
+            1112.0
+          ],
+          "text": "MPO REACTION",
+          "confidence": 0.8984
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1138.0,
+            392.0,
+            1170.0
+          ],
+          "text": "ABSOLUTE EOSINOPHIL",
+          "confidence": 0.9732
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            1138.0,
+            656.0,
+            1164.0
+          ],
+          "text": "AUTOMATED-OPTICAL",
+          "confidence": 0.991
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            1144.0,
+            830.0,
+            1170.0
+          ],
+          "text": "03",
+          "confidence": 0.7161
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1005.0,
+            1143.0,
+            1125.0,
+            1179.0
+          ],
+          "text": "X10^3fuL",
+          "confidence": 0.5318
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1148.0,
+            1246.0,
+            1174.0
+          ],
+          "text": "0.0",
+          "confidence": 0.9888
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1258.0,
+            1148.0,
+            1302.0,
+            1178.0
+          ],
+          "text": "0.5",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1172.0,
+            208.0,
+            1202.0
+          ],
+          "text": "COUNT",
+          "confidence": 0.6992
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            1163.0,
+            678.0,
+            1190.0
+          ],
+          "text": "FLOw CYTOMETRY With",
+          "confidence": 0.5489
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            1190.0,
+            596.0,
+            1216.0
+          ],
+          "text": "MPO REACTION",
+          "confidence": 0.7637
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1239.0,
+            365.0,
+            1275.0
+          ],
+          "text": "ABSOLUTE BASOPHIL",
+          "confidence": 0.9732
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            1244.0,
+            656.0,
+            1270.0
+          ],
+          "text": "AUTOMATED-OPTICAE",
+          "confidence": 0.7581
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            1248.0,
+            832.0,
+            1278.0
+          ],
+          "text": "0.0",
+          "confidence": 0.9977
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1003.0,
+            1249.0,
+            1119.0,
+            1285.0
+          ],
+          "text": "X10 3/ul",
+          "confidence": 0.5956
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1252.0,
+            1260.0,
+            1282.0
+          ],
+          "text": "0.02",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1270.0,
+            1254.0,
+            1312.0,
+            1284.0
+          ],
+          "text": "0.1",
+          "confidence": 0.999
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1276.0,
+            208.0,
+            1306.0
+          ],
+          "text": "COUNT",
+          "confidence": 0.6704
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            446.0,
+            1270.0,
+            676.0,
+            1296.0
+          ],
+          "text": "FLOW CYTOMETRY With",
+          "confidence": 0.6734
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            1296.0,
+            594.0,
+            1322.0
+          ],
+          "text": "MPO REACTION",
+          "confidence": 0.9086
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            113.0,
+            1346.0,
+            709.0,
+            1389.0
+          ],
+          "text": "Differential Count (Methodology:Light Scattering)",
+          "confidence": 0.8695
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            116.0,
+            1394.0,
+            272.0,
+            1424.0
+          ],
+          "text": "NEUTROPHIL",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            1400.0,
+            824.0,
+            1430.0
+          ],
+          "text": "67",
+          "confidence": 0.9984
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            1404.0,
+            1032.0,
+            1436.0
+          ],
+          "text": "%",
+          "confidence": 0.9995
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1406.0,
+            1236.0,
+            1436.0
+          ],
+          "text": "40",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            1406.0,
+            1286.0,
+            1436.0
+          ],
+          "text": "80",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1454.0,
+            278.0,
+            1484.0
+          ],
+          "text": "LYMPHOCYTE",
+          "confidence": 0.9978
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            1460.0,
+            826.0,
+            1490.0
+          ],
+          "text": "21",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            1004.0,
+            1462.0,
+            1030.0,
+            1494.0
+          ],
+          "text": "%",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1200.0,
+            1466.0,
+            1236.0,
+            1494.0
+          ],
+          "text": "20",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            1466.0,
+            1286.0,
+            1496.0
+          ],
+          "text": "40",
+          "confidence": 0.761
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            114.0,
+            1512.0,
+            256.0,
+            1544.0
+          ],
+          "text": "MONOCYTE",
+          "confidence": 0.9924
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            790.0,
+            1520.0,
+            826.0,
+            1550.0
+          ],
+          "text": "06",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1526.0,
+            1272.0,
+            1556.0
+          ],
+          "text": "2 - 10",
+          "confidence": 0.6756
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            111.0,
+            1571.0,
+            264.0,
+            1604.0
+          ],
+          "text": "EOSINOPHIL",
+          "confidence": 0.975
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            1582.0,
+            824.0,
+            1610.0
+          ],
+          "text": "06",
+          "confidence": 0.9969
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            1002.0,
+            1519.0,
+            1030.0,
+            1615.0
+          ],
+          "text": "%",
+          "confidence": 0.9229
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1198.0,
+            1588.0,
+            1254.0,
+            1614.0
+          ],
+          "text": "1 -6",
+          "confidence": 0.707
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            112.0,
+            1630.0,
+            234.0,
+            1662.0
+          ],
+          "text": "BASOPHIL",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            788.0,
+            1640.0,
+            824.0,
+            1670.0
+          ],
+          "text": "O0",
+          "confidence": 0.2218
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1000.0,
+            1642.0,
+            1030.0,
+            1674.0
+          ],
+          "text": "%",
+          "confidence": 0.9979
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1196.0,
+            1648.0,
+            1254.0,
+            1674.0
+          ],
+          "text": "1-2",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            647.0,
+            1898.0,
+            840.0,
+            1972.0
+          ],
+          "text": "MlukuJi",
+          "confidence": 0.7452
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            136.0,
+            1966.0,
+            266.0,
+            1994.0
+          ],
+          "text": "Mrs Devi M",
+          "confidence": 0.7301
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            691.0,
+            1973.0,
+            935.0,
+            2009.0
+          ],
+          "text": "IMUKUL VIJ; MD,PDCC",
+          "confidence": 0.2205
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1175.0,
+            1981.0,
+            1367.0,
+            2017.0
+          ],
+          "text": "Dr Anpama Patil",
+          "confidence": 0.7325
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            646.0,
+            2011.0,
+            1001.0,
+            2049.0
+          ],
+          "text": "Sr.CONSULTANT PATKOLOGIST",
+          "confidence": 0.8633
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            1174.0,
+            2020.0,
+            1473.0,
+            2060.0
+          ],
+          "text": "Consultant Hematopathologist",
+          "confidence": 0.9343
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            135.0,
+            2046.0,
+            431.0,
+            2083.0
+          ],
+          "text": "Result Entered / Verified By",
+          "confidence": 0.8403
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            408.0,
+            2176.0,
+            510.0,
+            2182.0
+          ],
+          "text": "Oycaeanroice",
+          "confidence": 0.0
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            529.0,
+            2163.0,
+            799.0,
+            2199.0
+          ],
+          "text": "Txr {lex So bimate:",
+          "confidence": 0.0266
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            830.0,
+            2166.0,
+            1073.0,
+            2206.0
+          ],
+          "text": "Medica} Ceatie:",
+          "confidence": 0.1528
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            2203.0,
+            275.0,
+            2224.0
+          ],
+          "text": "TWdW",
+          "confidence": 0.0753
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            289.0,
+            2203.0,
+            408.0,
+            2229.0
+          ],
+          "text": "44r0m1e1-4",
+          "confidence": 0.0894
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            2232.0,
+            140.0,
+            2240.0
+          ],
+          "text": "Sat {a",
+          "confidence": 0.0005
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            149.0,
+            2225.0,
+            217.0,
+            2245.0
+          ],
+          "text": "MX",
+          "confidence": 0.3665
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            633.0,
+            2209.0,
+            890.0,
+            2237.0
+          ],
+          "text": "prertv*rx:tenslilutt;,&)n",
+          "confidence": 0.0066
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            1112.0,
+            2215.0,
+            1548.0,
+            2247.0
+          ],
+          "text": "24*7 EnCr4Cuy0me:+914486567780",
+          "confidence": 0.0199
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            613.0,
+            2233.0,
+            908.0,
+            2261.0
+          ],
+          "text": "#r02'ro Juf)xsliitte-.6:(1tt)",
+          "confidence": 0.0045
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            1203.0,
+            2243.0,
+            1548.0,
+            2270.0
+          ],
+          "text": "Appsini {nct;+91 44 0680TTT?",
+          "confidence": 0.0115
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            563.0,
+            2259.0,
+            681.0,
+            2275.0
+          ],
+          "text": "\"'#Mf",
+          "confidence": 0.0638
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            819.0,
+            2265.0,
+            941.0,
+            2281.0
+          ],
+          "text": "{nilo M5t",
+          "confidence": 0.0434
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            1169.0,
+            2269.0,
+            1403.0,
+            2289.0
+          ],
+          "text": "{nTtt0xint0",
+          "confidence": 0.0183
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            1409.0,
+            2273.0,
+            1437.0,
+            2289.0
+          ],
+          "text": "44",
+          "confidence": 0.6017
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            1435.0,
+            2268.0,
+            1548.0,
+            2293.0
+          ],
+          "text": "7911417",
+          "confidence": 0.2081
+        }
+      ]
+    }
+  ],
+  "full_text": "krela\nHospital\nCLINICAL LABORATORY REPORT\n63\nBED\nBAD WING/84076\nRequested On\n112,57 AM\nER CARE GROUP\nReported On\nE\n103.09 AM\nINVESTIGATION\nTEST METHOD\nRESULT\nUNIT\nBIOLOGICAL REFERENCE INTERVAL\nHaematology and Clinical Pathology\nCOMPLETE BLOOD COUNT\nWhole Blood\nRDW\nCakculated\n12.7\n%\n11.6 - 14\nPLATELET COUNT\nLight Scattering\n238000\nIcumm\n150000\n410000\nMPV\nLight SCATTERING\n6.8\nfl\n7.5\n12.0\nAbsolute Count\nABSOLUTE NEUTROPKIL\nAUTOMATED-OPTICAL\n3.9\nX10 3/ul\n2.0-7.0\nFLOW CytomeTRY With\nCOUNT\nMPO REACTION\nABSOLUTE LYMPHOCYTE\nAUTOMATED-OPTICRL\n1.1\nX10n3/uL\n1.0-3.0\nCOUNT\nFLOW CYTOMETRY WitH\nMPO REACTION\nABSOLUTE MONOCYTE\nAUTOMATED-OPTICAL\n0.3\nX10 3/uL\n0,2-1,0\nCOUNT\nFLOW CYTOMETRY WITh\nMPO REACTION\nABSOLUTE EOSINOPHIL\nAUTOMATED-OPTICAL\n03\nX10^3fuL\n0.0\n0.5\nCOUNT\nFLOw CYTOMETRY With\nMPO REACTION\nABSOLUTE BASOPHIL\nAUTOMATED-OPTICAE\n0.0\nX10 3/ul\n0.02\n0.1\nCOUNT\nFLOW CYTOMETRY With\nMPO REACTION\nDifferential Count (Methodology:Light Scattering)\nNEUTROPHIL\n67\n%\n40\n80\nLYMPHOCYTE\n21\n%\n20\n40\nMONOCYTE\n06\n2 - 10\nEOSINOPHIL\n06\n%\n1 -6\nBASOPHIL\nO0\n%\n1-2\nMlukuJi\nMrs Devi M\nIMUKUL VIJ; MD,PDCC\nDr Anpama Patil\nSr.CONSULTANT PATKOLOGIST\nConsultant Hematopathologist\nResult Entered / Verified By\nOycaeanroice\nTxr {lex So bimate:\nMedica} Ceatie:\nTWdW\n44r0m1e1-4\nSat {a\nMX\nprertv*rx:tenslilutt;,&)n\n24*7 EnCr4Cuy0me:+914486567780\n#r02'ro Juf)xsliitte-.6:(1tt)\nAppsini {nct;+91 44 0680TTT?\n\"'#Mf\n{nilo M5t\n{nTtt0xint0\n44\n7911417",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "BAD WING/",
+          "biomarker_normalized": "BAD WING/",
+          "value": "84076",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BAD WING/84076",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "X1",
+          "biomarker_normalized": "X1",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "X10 3/ul",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "#r0",
+          "biomarker_normalized": "#r0",
+          "value": "2",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "#r02'ro Juf)xsliitte-.6:(1tt)",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Appsini {nct;+",
+          "biomarker_normalized": "Appsini {nct;+",
+          "value": "91",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Appsini {nct;+91 44 0680TTT?",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 125,
+    "ocr_avg_confidence": 0.7221,
+    "parsed_row_count": 4
+  }
+}

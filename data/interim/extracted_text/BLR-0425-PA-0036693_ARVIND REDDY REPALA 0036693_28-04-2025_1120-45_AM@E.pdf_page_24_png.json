@@ -1,0 +1,1692 @@
+{
+  "document_id": "BLR-0425-PA-0036693_ARVIND REDDY REPALA 0036693_28-04-2025_1120-45_AM@E.pdf_page_24",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0036693_ARVIND REDDY REPALA 0036693_28-04-2025_1120-45_AM@E.pdf_page_24.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatientl\nUHID\nAIGG,20825010\nO0;17\nEpisode\nIP\n113160\n806\nRef: Doctor\nDr; ARABIND PANDA\nFacility\nAIG Hospitals; Gachibowl\nHaematology\nTEsT\nRESULT\nUNIT\nBIOLOGICAL PEF INTERVAL\nSumple %0\nAG][03231J4\nCcllectlon\n18/04,25 04 53\nAck Date\n18/04/2075\n10.59\nReport Date\n1B/04,25 1J*42\nCBP (COMPLETE BLOOD PICTURE)\nSample Typo -\nEDTA Whate Bixxd\nHEMOGLOBIN\n13,.7\nMeutxvt - #atousticy\n{moherexrietry Calo ottx\ngldl\n13.0 - 17.0\nRBC\n4,51\nsedtd . Erneyx Ionqkaixr'\nImxdance\ncellsicumi\n4.5 -5.5\nPCV\n42.6\n90\n{t\nCat?\n40.0\n50,0\nMCV\n91.4\nMrix\nVCS Tectnabgy / CJkuarv\nNunxerk\"\n83.0\n101.0\nIategratitn\nMCH\n30.4\nMan\nCkittat\nFg\n27.0\n32.0\nMCHC\n32.2\nn\nCaid\n31,5\n34,5\nRDW\n12.8\n%0\nMarNt\nVCS Tec\"riuog/ { Cataxuted\n11,6 - 14\nTOTAL WBC\n8120\nXclrd\nExertrieal Imnearite' / FbwVlcxncty LXH4SS &nd\ncells cumm\n4000\n10000\nImpexkanxeFrwyonktry (St (UBE}\nDIEFERENTIAL COUNI\nNEUTROPHILS\n76.8\n%\nMetcv\nVCS {exhRXv / Caivckotcy / FVioftty\n40\n80\nOi55\nLYMPHOCYTES\n13.3 > (L)\n%a\nMndd\nVS Textakgy / Caiuciated / Flowryoxncty\n20\n40\n04S\nEOSINOPHILS\n0.3 > (L)\n%\nMan\nVCS\nTexhngixv / Cairkalcx / FbwrMammetry\n1.0\n6.0\n{S\nMONOCYTES\n9.5\nMavitp\nVCS Tex#xiy / Cakulatad { Tbxicyitoiketry\nQa\n2.0 - 10,0\nDHss\nBASOPHILS\n0.1\n{cthod\nWCS Terhnyovy { Caexclated / Inxxxtvxe\n%\n0 -2.0\nABSOLUIE LEUCOCYTE CQUNI\nMincspace Road; Gachibowli Hyderabar Telangana\n500032\n491 40 42444222\ninforaighospitalscom\nAIG Hospitals (a unit of Asian Institule of Gastroenterology)\nCIN; U9999916/994PTCO18352\nDate\ng/dl",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            226.0,
+            80.0,
+            428.0,
+            182.0
+          ],
+          "text": "AIG",
+          "confidence": 0.9806
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            217.0,
+            168.0,
+            423.0,
+            210.0
+          ],
+          "text": "HOSPITALS",
+          "confidence": 0.9079
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            600.0,
+            262.0,
+            1159.0,
+            307.0
+          ],
+          "text": "LABORATORY INVESTIGATION REPORT",
+          "confidence": 0.856
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            324.0,
+            256.0,
+            352.0
+          ],
+          "text": "Patientl",
+          "confidence": 0.4393
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            370.0,
+            236.0,
+            398.0
+          ],
+          "text": "UHID",
+          "confidence": 0.5543
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            418.0,
+            378.0,
+            588.0,
+            408.0
+          ],
+          "text": "AIGG,20825010",
+          "confidence": 0.7414
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            1364.0,
+            402.0,
+            1428.0,
+            430.0
+          ],
+          "text": "O0;17",
+          "confidence": 0.2993
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            414.0,
+            262.0,
+            446.0
+          ],
+          "text": "Episode",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            418.0,
+            446.0,
+            444.0
+          ],
+          "text": "IP",
+          "confidence": 0.9565
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            1236.0,
+            440.0,
+            1322.0,
+            470.0
+          ],
+          "text": "113160",
+          "confidence": 0.8372
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            1336.0,
+            442.0,
+            1382.0,
+            470.0
+          ],
+          "text": "806",
+          "confidence": 0.5782
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            454.0,
+            300.0,
+            486.0
+          ],
+          "text": "Ref: Doctor",
+          "confidence": 0.8744
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            416.0,
+            462.0,
+            636.0,
+            494.0
+          ],
+          "text": "Dr; ARABIND PANDA",
+          "confidence": 0.8025
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            977.0,
+            511.0,
+            1072.0,
+            549.0
+          ],
+          "text": "Facility",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            1232.0,
+            518.0,
+            1488.0,
+            551.0
+          ],
+          "text": "AIG Hospitals; Gachibowl",
+          "confidence": 0.6664
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            775.0,
+            623.0,
+            973.0,
+            672.0
+          ],
+          "text": "Haematology",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            678.0,
+            250.0,
+            702.0
+          ],
+          "text": "TEsT",
+          "confidence": 0.2725
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            690.0,
+            858.0,
+            714.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9989
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            1166.0,
+            698.0,
+            1220.0,
+            722.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.9762
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            1295.0,
+            698.0,
+            1556.0,
+            730.0
+          ],
+          "text": "BIOLOGICAL PEF INTERVAL",
+          "confidence": 0.752
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            732.0,
+            268.0,
+            756.0
+          ],
+          "text": "Sumple %0",
+          "confidence": 0.5601
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            303.0,
+            733.0,
+            419.0,
+            757.0
+          ],
+          "text": "AG][03231J4",
+          "confidence": 0.3109
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            487.0,
+            737.0,
+            574.0,
+            764.0
+          ],
+          "text": "Ccllectlon",
+          "confidence": 0.8339
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            662.0,
+            742.0,
+            800.0,
+            766.0
+          ],
+          "text": "18/04,25 04 53",
+          "confidence": 0.6154
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            854.0,
+            746.0,
+            934.0,
+            770.0
+          ],
+          "text": "Ack Date",
+          "confidence": 0.9006
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            964.0,
+            748.0,
+            1064.0,
+            772.0
+          ],
+          "text": "18/04/2075",
+          "confidence": 0.3909
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            1068.0,
+            750.0,
+            1122.0,
+            774.0
+          ],
+          "text": "10.59",
+          "confidence": 0.7216
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            1205.0,
+            753.0,
+            1310.0,
+            781.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.288
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1348.0,
+            756.0,
+            1484.0,
+            782.0
+          ],
+          "text": "1B/04,25 1J*42",
+          "confidence": 0.2375
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            778.0,
+            696.0,
+            828.0
+          ],
+          "text": "CBP (COMPLETE BLOOD PICTURE)",
+          "confidence": 0.693
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            174.0,
+            823.0,
+            306.0,
+            853.0
+          ],
+          "text": "Sample Typo -",
+          "confidence": 0.3761
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            318.0,
+            830.0,
+            480.0,
+            857.0
+          ],
+          "text": "EDTA Whate Bixxd",
+          "confidence": 0.275
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            869.0,
+            351.0,
+            907.0
+          ],
+          "text": "HEMOGLOBIN",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            778.0,
+            886.0,
+            830.0,
+            912.0
+          ],
+          "text": "13,.7",
+          "confidence": 0.317
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            908.0,
+            356.0,
+            935.0
+          ],
+          "text": "Meutxvt - #atousticy",
+          "confidence": 0.1206
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            390.0,
+            914.0,
+            620.0,
+            940.0
+          ],
+          "text": "{moherexrietry Calo ottx",
+          "confidence": 0.0145
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1136.0,
+            894.0,
+            1186.0,
+            926.0
+          ],
+          "text": "gldl",
+          "confidence": 0.3128
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1322.0,
+            900.0,
+            1438.0,
+            928.0
+          ],
+          "text": "13.0 - 17.0",
+          "confidence": 0.7365
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            172.0,
+            942.0,
+            230.0,
+            972.0
+          ],
+          "text": "RBC",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            776.0,
+            956.0,
+            828.0,
+            982.0
+          ],
+          "text": "4,51",
+          "confidence": 0.859
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            977.0,
+            430.0,
+            1006.0
+          ],
+          "text": "sedtd . Erneyx Ionqkaixr'",
+          "confidence": 0.0187
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            439.0,
+            981.0,
+            540.0,
+            1010.0
+          ],
+          "text": "Imxdance",
+          "confidence": 0.2585
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            964.0,
+            1256.0,
+            992.0
+          ],
+          "text": "cellsicumi",
+          "confidence": 0.507
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            970.0,
+            1412.0,
+            998.0
+          ],
+          "text": "4.5 -5.5",
+          "confidence": 0.9729
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            170.0,
+            1010.0,
+            224.0,
+            1042.0
+          ],
+          "text": "PCV",
+          "confidence": 0.967
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            774.0,
+            1024.0,
+            826.0,
+            1050.0
+          ],
+          "text": "42.6",
+          "confidence": 0.6484
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1134.0,
+            1032.0,
+            1162.0,
+            1058.0
+          ],
+          "text": "90",
+          "confidence": 0.2927
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1046.0,
+            238.0,
+            1070.0
+          ],
+          "text": "{t",
+          "confidence": 0.1149
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            246.0,
+            1048.0,
+            338.0,
+            1072.0
+          ],
+          "text": "Cat?",
+          "confidence": 0.4363
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            1318.0,
+            1038.0,
+            1370.0,
+            1066.0
+          ],
+          "text": "40.0",
+          "confidence": 0.993
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            1384.0,
+            1040.0,
+            1436.0,
+            1066.0
+          ],
+          "text": "50,0",
+          "confidence": 0.9908
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1080.0,
+            230.0,
+            1112.0
+          ],
+          "text": "MCV",
+          "confidence": 0.9962
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            1094.0,
+            824.0,
+            1120.0
+          ],
+          "text": "91.4",
+          "confidence": 0.7489
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            167.0,
+            1117.0,
+            237.0,
+            1137.0
+          ],
+          "text": "Mrix",
+          "confidence": 0.3095
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            246.0,
+            1116.0,
+            486.0,
+            1145.0
+          ],
+          "text": "VCS Tectnabgy / CJkuarv",
+          "confidence": 0.0657
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            493.0,
+            1121.0,
+            572.0,
+            1147.0
+          ],
+          "text": "Nunxerk\"",
+          "confidence": 0.2203
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            1108.0,
+            1368.0,
+            1136.0
+          ],
+          "text": "83.0",
+          "confidence": 0.9413
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            1110.0,
+            1446.0,
+            1136.0
+          ],
+          "text": "101.0",
+          "confidence": 0.5885
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1144.0,
+            264.0,
+            1168.0
+          ],
+          "text": "Iategratitn",
+          "confidence": 0.1024
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            168.0,
+            1176.0,
+            230.0,
+            1208.0
+          ],
+          "text": "MCH",
+          "confidence": 0.7637
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            772.0,
+            1190.0,
+            822.0,
+            1216.0
+          ],
+          "text": "30.4",
+          "confidence": 0.9932
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            166.0,
+            1212.0,
+            236.0,
+            1236.0
+          ],
+          "text": "Man",
+          "confidence": 0.1794
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            244.0,
+            1214.0,
+            336.0,
+            1238.0
+          ],
+          "text": "Ckittat",
+          "confidence": 0.0451
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1130.0,
+            1202.0,
+            1164.0,
+            1230.0
+          ],
+          "text": "Fg",
+          "confidence": 0.7116
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1316.0,
+            1204.0,
+            1366.0,
+            1230.0
+          ],
+          "text": "27.0",
+          "confidence": 0.9599
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1380.0,
+            1206.0,
+            1432.0,
+            1232.0
+          ],
+          "text": "32.0",
+          "confidence": 0.8255
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            164.0,
+            1246.0,
+            246.0,
+            1278.0
+          ],
+          "text": "MCHC",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            770.0,
+            1260.0,
+            822.0,
+            1286.0
+          ],
+          "text": "32.2",
+          "confidence": 0.6778
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            165.0,
+            1283.0,
+            233.0,
+            1303.0
+          ],
+          "text": "n",
+          "confidence": 0.7554
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            243.0,
+            1284.0,
+            333.0,
+            1304.0
+          ],
+          "text": "Caid",
+          "confidence": 0.1277
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            1274.0,
+            1366.0,
+            1300.0
+          ],
+          "text": "31,5",
+          "confidence": 0.5272
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1380.0,
+            1276.0,
+            1432.0,
+            1304.0
+          ],
+          "text": "34,5",
+          "confidence": 0.5685
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            1316.0,
+            232.0,
+            1346.0
+          ],
+          "text": "RDW",
+          "confidence": 0.9865
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1328.0,
+            820.0,
+            1354.0
+          ],
+          "text": "12.8",
+          "confidence": 0.9429
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1128.0,
+            1336.0,
+            1156.0,
+            1362.0
+          ],
+          "text": "%0",
+          "confidence": 0.7022
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            162.0,
+            1350.0,
+            232.0,
+            1374.0
+          ],
+          "text": "MarNt",
+          "confidence": 0.0561
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            240.0,
+            1351.0,
+            482.0,
+            1381.0
+          ],
+          "text": "VCS Tec\"riuog/ { Cataxuted",
+          "confidence": 0.1009
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1312.0,
+            1344.0,
+            1412.0,
+            1372.0
+          ],
+          "text": "11,6 - 14",
+          "confidence": 0.6994
+        },
+        {
+          "block_no": 78,
+          "block_type": 0,
+          "bbox": [
+            160.0,
+            1384.0,
+            318.0,
+            1416.0
+          ],
+          "text": "TOTAL WBC",
+          "confidence": 0.9994
+        },
+        {
+          "block_no": 79,
+          "block_type": 0,
+          "bbox": [
+            766.0,
+            1398.0,
+            826.0,
+            1426.0
+          ],
+          "text": "8120",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 80,
+          "block_type": 0,
+          "bbox": [
+            161.0,
+            1421.0,
+            229.0,
+            1441.0
+          ],
+          "text": "Xclrd",
+          "confidence": 0.0701
+        },
+        {
+          "block_no": 81,
+          "block_type": 0,
+          "bbox": [
+            236.0,
+            1418.0,
+            639.0,
+            1454.0
+          ],
+          "text": "Exertrieal Imnearite' / FbwVlcxncty LXH4SS &nd",
+          "confidence": 0.0451
+        },
+        {
+          "block_no": 82,
+          "block_type": 0,
+          "bbox": [
+            1124.0,
+            1406.0,
+            1246.0,
+            1434.0
+          ],
+          "text": "cells cumm",
+          "confidence": 0.5798
+        },
+        {
+          "block_no": 83,
+          "block_type": 0,
+          "bbox": [
+            1310.0,
+            1412.0,
+            1368.0,
+            1438.0
+          ],
+          "text": "4000",
+          "confidence": 0.6515
+        },
+        {
+          "block_no": 84,
+          "block_type": 0,
+          "bbox": [
+            1382.0,
+            1414.0,
+            1450.0,
+            1440.0
+          ],
+          "text": "10000",
+          "confidence": 0.9467
+        },
+        {
+          "block_no": 85,
+          "block_type": 0,
+          "bbox": [
+            159.0,
+            1444.0,
+            472.0,
+            1476.0
+          ],
+          "text": "ImpexkanxeFrwyonktry (St (UBE}",
+          "confidence": 0.0358
+        },
+        {
+          "block_no": 86,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1477.0,
+            479.0,
+            1520.0
+          ],
+          "text": "DIEFERENTIAL COUNI",
+          "confidence": 0.7339
+        },
+        {
+          "block_no": 87,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1520.0,
+            343.0,
+            1557.0
+          ],
+          "text": "NEUTROPHILS",
+          "confidence": 0.8053
+        },
+        {
+          "block_no": 88,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1536.0,
+            818.0,
+            1564.0
+          ],
+          "text": "76.8",
+          "confidence": 0.8924
+        },
+        {
+          "block_no": 89,
+          "block_type": 0,
+          "bbox": [
+            1122.0,
+            1544.0,
+            1150.0,
+            1570.0
+          ],
+          "text": "%",
+          "confidence": 0.9555
+        },
+        {
+          "block_no": 90,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            1556.0,
+            226.0,
+            1582.0
+          ],
+          "text": "Metcv",
+          "confidence": 0.095
+        },
+        {
+          "block_no": 91,
+          "block_type": 0,
+          "bbox": [
+            235.0,
+            1557.0,
+            613.0,
+            1594.0
+          ],
+          "text": "VCS {exhRXv / Caivckotcy / FVioftty",
+          "confidence": 0.055
+        },
+        {
+          "block_no": 92,
+          "block_type": 0,
+          "bbox": [
+            1306.0,
+            1552.0,
+            1340.0,
+            1576.0
+          ],
+          "text": "40",
+          "confidence": 0.5597
+        },
+        {
+          "block_no": 93,
+          "block_type": 0,
+          "bbox": [
+            1354.0,
+            1552.0,
+            1390.0,
+            1580.0
+          ],
+          "text": "80",
+          "confidence": 0.9231
+        },
+        {
+          "block_no": 94,
+          "block_type": 0,
+          "bbox": [
+            158.0,
+            1584.0,
+            212.0,
+            1608.0
+          ],
+          "text": "Oi55",
+          "confidence": 0.1596
+        },
+        {
+          "block_no": 95,
+          "block_type": 0,
+          "bbox": [
+            154.0,
+            1616.0,
+            347.0,
+            1655.0
+          ],
+          "text": "LYMPHOCYTES",
+          "confidence": 0.8784
+        },
+        {
+          "block_no": 96,
+          "block_type": 0,
+          "bbox": [
+            762.0,
+            1634.0,
+            876.0,
+            1666.0
+          ],
+          "text": "13.3 > (L)",
+          "confidence": 0.3718
+        },
+        {
+          "block_no": 97,
+          "block_type": 0,
+          "bbox": [
+            1120.0,
+            1642.0,
+            1150.0,
+            1666.0
+          ],
+          "text": "%a",
+          "confidence": 0.6083
+        },
+        {
+          "block_no": 98,
+          "block_type": 0,
+          "bbox": [
+            155.0,
+            1657.0,
+            223.0,
+            1677.0
+          ],
+          "text": "Mndd",
+          "confidence": 0.0648
+        },
+        {
+          "block_no": 99,
+          "block_type": 0,
+          "bbox": [
+            233.0,
+            1653.0,
+            611.0,
+            1692.0
+          ],
+          "text": "VS Textakgy / Caiuciated / Flowryoxncty",
+          "confidence": 0.1288
+        },
+        {
+          "block_no": 100,
+          "block_type": 0,
+          "bbox": [
+            1304.0,
+            1648.0,
+            1340.0,
+            1676.0
+          ],
+          "text": "20",
+          "confidence": 0.9983
+        },
+        {
+          "block_no": 101,
+          "block_type": 0,
+          "bbox": [
+            1352.0,
+            1650.0,
+            1384.0,
+            1676.0
+          ],
+          "text": "40",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 102,
+          "block_type": 0,
+          "bbox": [
+            156.0,
+            1682.0,
+            210.0,
+            1706.0
+          ],
+          "text": "04S",
+          "confidence": 0.3305
+        },
+        {
+          "block_no": 103,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1712.0,
+            333.0,
+            1751.0
+          ],
+          "text": "EOSINOPHILS",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 104,
+          "block_type": 0,
+          "bbox": [
+            760.0,
+            1730.0,
+            858.0,
+            1760.0
+          ],
+          "text": "0.3 > (L)",
+          "confidence": 0.6172
+        },
+        {
+          "block_no": 105,
+          "block_type": 0,
+          "bbox": [
+            1118.0,
+            1738.0,
+            1148.0,
+            1764.0
+          ],
+          "text": "%",
+          "confidence": 0.9572
+        },
+        {
+          "block_no": 106,
+          "block_type": 0,
+          "bbox": [
+            153.0,
+            1753.0,
+            221.0,
+            1773.0
+          ],
+          "text": "Man",
+          "confidence": 0.1068
+        },
+        {
+          "block_no": 107,
+          "block_type": 0,
+          "bbox": [
+            233.0,
+            1755.0,
+            271.0,
+            1775.0
+          ],
+          "text": "VCS",
+          "confidence": 0.8825
+        },
+        {
+          "block_no": 108,
+          "block_type": 0,
+          "bbox": [
+            268.0,
+            1749.0,
+            609.0,
+            1788.0
+          ],
+          "text": "Texhngixv / Cairkalcx / FbwrMammetry",
+          "confidence": 0.1002
+        },
+        {
+          "block_no": 109,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            1744.0,
+            1344.0,
+            1770.0
+          ],
+          "text": "1.0",
+          "confidence": 0.9307
+        },
+        {
+          "block_no": 110,
+          "block_type": 0,
+          "bbox": [
+            1356.0,
+            1746.0,
+            1396.0,
+            1772.0
+          ],
+          "text": "6.0",
+          "confidence": 0.6869
+        },
+        {
+          "block_no": 111,
+          "block_type": 0,
+          "bbox": [
+            152.0,
+            1778.0,
+            208.0,
+            1802.0
+          ],
+          "text": "{S",
+          "confidence": 0.0291
+        },
+        {
+          "block_no": 112,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1810.0,
+            319.0,
+            1849.0
+          ],
+          "text": "MONOCYTES",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 113,
+          "block_type": 0,
+          "bbox": [
+            756.0,
+            1826.0,
+            796.0,
+            1852.0
+          ],
+          "text": "9.5",
+          "confidence": 0.5638
+        },
+        {
+          "block_no": 114,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1848.0,
+            220.0,
+            1872.0
+          ],
+          "text": "Mavitp",
+          "confidence": 0.2331
+        },
+        {
+          "block_no": 115,
+          "block_type": 0,
+          "bbox": [
+            230.0,
+            1850.0,
+            606.0,
+            1883.0
+          ],
+          "text": "VCS Tex#xiy / Cakulatad { Tbxicyitoiketry",
+          "confidence": 0.1121
+        },
+        {
+          "block_no": 116,
+          "block_type": 0,
+          "bbox": [
+            1119.0,
+            1839.0,
+            1145.0,
+            1859.0
+          ],
+          "text": "Qa",
+          "confidence": 0.2121
+        },
+        {
+          "block_no": 117,
+          "block_type": 0,
+          "bbox": [
+            1302.0,
+            1842.0,
+            1406.0,
+            1870.0
+          ],
+          "text": "2.0 - 10,0",
+          "confidence": 0.6925
+        },
+        {
+          "block_no": 118,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1876.0,
+            206.0,
+            1900.0
+          ],
+          "text": "DHss",
+          "confidence": 0.074
+        },
+        {
+          "block_no": 119,
+          "block_type": 0,
+          "bbox": [
+            150.0,
+            1910.0,
+            298.0,
+            1942.0
+          ],
+          "text": "BASOPHILS",
+          "confidence": 0.9974
+        },
+        {
+          "block_no": 120,
+          "block_type": 0,
+          "bbox": [
+            754.0,
+            1924.0,
+            794.0,
+            1950.0
+          ],
+          "text": "0.1",
+          "confidence": 0.6345
+        },
+        {
+          "block_no": 121,
+          "block_type": 0,
+          "bbox": [
+            148.0,
+            1946.0,
+            218.0,
+            1970.0
+          ],
+          "text": "{cthod",
+          "confidence": 0.0878
+        },
+        {
+          "block_no": 122,
+          "block_type": 0,
+          "bbox": [
+            228.0,
+            1946.0,
+            576.0,
+            1976.0
+          ],
+          "text": "WCS Terhnyovy { Caexclated / Inxxxtvxe",
+          "confidence": 0.0578
+        },
+        {
+          "block_no": 123,
+          "block_type": 0,
+          "bbox": [
+            1114.0,
+            1932.0,
+            1142.0,
+            1958.0
+          ],
+          "text": "%",
+          "confidence": 0.9857
+        },
+        {
+          "block_no": 124,
+          "block_type": 0,
+          "bbox": [
+            1298.0,
+            1940.0,
+            1374.0,
+            1966.0
+          ],
+          "text": "0 -2.0",
+          "confidence": 0.9587
+        },
+        {
+          "block_no": 125,
+          "block_type": 0,
+          "bbox": [
+            147.0,
+            1977.0,
+            581.0,
+            2021.0
+          ],
+          "text": "ABSOLUIE LEUCOCYTE CQUNI",
+          "confidence": 0.6808
+        },
+        {
+          "block_no": 126,
+          "block_type": 0,
+          "bbox": [
+            97.0,
+            2177.0,
+            647.0,
+            2220.0
+          ],
+          "text": "Mincspace Road; Gachibowli Hyderabar Telangana",
+          "confidence": 0.545
+        },
+        {
+          "block_no": 127,
+          "block_type": 0,
+          "bbox": [
+            654.0,
+            2186.0,
+            748.0,
+            2214.0
+          ],
+          "text": "500032",
+          "confidence": 0.9998
+        },
+        {
+          "block_no": 128,
+          "block_type": 0,
+          "bbox": [
+            784.0,
+            2186.0,
+            996.0,
+            2216.0
+          ],
+          "text": "491 40 42444222",
+          "confidence": 0.6002
+        },
+        {
+          "block_no": 129,
+          "block_type": 0,
+          "bbox": [
+            1030.0,
+            2190.0,
+            1272.0,
+            2220.0
+          ],
+          "text": "inforaighospitalscom",
+          "confidence": 0.7098
+        },
+        {
+          "block_no": 130,
+          "block_type": 0,
+          "bbox": [
+            321.0,
+            2219.0,
+            931.0,
+            2259.0
+          ],
+          "text": "AIG Hospitals (a unit of Asian Institule of Gastroenterology)",
+          "confidence": 0.735
+        },
+        {
+          "block_no": 131,
+          "block_type": 0,
+          "bbox": [
+            960.0,
+            2226.0,
+            1294.0,
+            2258.0
+          ],
+          "text": "CIN; U9999916/994PTCO18352",
+          "confidence": 0.3559
+        },
+        {
+          "block_no": 132,
+          "block_type": 0,
+          "bbox": [
+            572.0623945910448,
+            740.1658598874935,
+            618.9376054089552,
+            766.8341401125065
+          ],
+          "text": "Date",
+          "confidence": 0.9836
+        },
+        {
+          "block_no": 133,
+          "block_type": 0,
+          "bbox": [
+            1125.6027607015021,
+            1265.2259090091175,
+            1180.3972392984979,
+            1301.7740909908825
+          ],
+          "text": "g/dl",
+          "confidence": 0.9141
+        }
+      ]
+    }
+  ],
+  "full_text": "AIG\nHOSPITALS\nLABORATORY INVESTIGATION REPORT\nPatientl\nUHID\nAIGG,20825010\nO0;17\nEpisode\nIP\n113160\n806\nRef: Doctor\nDr; ARABIND PANDA\nFacility\nAIG Hospitals; Gachibowl\nHaematology\nTEsT\nRESULT\nUNIT\nBIOLOGICAL PEF INTERVAL\nSumple %0\nAG][03231J4\nCcllectlon\n18/04,25 04 53\nAck Date\n18/04/2075\n10.59\nReport Date\n1B/04,25 1J*42\nCBP (COMPLETE BLOOD PICTURE)\nSample Typo -\nEDTA Whate Bixxd\nHEMOGLOBIN\n13,.7\nMeutxvt - #atousticy\n{moherexrietry Calo ottx\ngldl\n13.0 - 17.0\nRBC\n4,51\nsedtd . Erneyx Ionqkaixr'\nImxdance\ncellsicumi\n4.5 -5.5\nPCV\n42.6\n90\n{t\nCat?\n40.0\n50,0\nMCV\n91.4\nMrix\nVCS Tectnabgy / CJkuarv\nNunxerk\"\n83.0\n101.0\nIategratitn\nMCH\n30.4\nMan\nCkittat\nFg\n27.0\n32.0\nMCHC\n32.2\nn\nCaid\n31,5\n34,5\nRDW\n12.8\n%0\nMarNt\nVCS Tec\"riuog/ { Cataxuted\n11,6 - 14\nTOTAL WBC\n8120\nXclrd\nExertrieal Imnearite' / FbwVlcxncty LXH4SS &nd\ncells cumm\n4000\n10000\nImpexkanxeFrwyonktry (St (UBE}\nDIEFERENTIAL COUNI\nNEUTROPHILS\n76.8\n%\nMetcv\nVCS {exhRXv / Caivckotcy / FVioftty\n40\n80\nOi55\nLYMPHOCYTES\n13.3 > (L)\n%a\nMndd\nVS Textakgy / Caiuciated / Flowryoxncty\n20\n40\n04S\nEOSINOPHILS\n0.3 > (L)\n%\nMan\nVCS\nTexhngixv / Cairkalcx / FbwrMammetry\n1.0\n6.0\n{S\nMONOCYTES\n9.5\nMavitp\nVCS Tex#xiy / Cakulatad { Tbxicyitoiketry\nQa\n2.0 - 10,0\nDHss\nBASOPHILS\n0.1\n{cthod\nWCS Terhnyovy { Caexclated / Inxxxtvxe\n%\n0 -2.0\nABSOLUIE LEUCOCYTE CQUNI\nMincspace Road; Gachibowli Hyderabar Telangana\n500032\n491 40 42444222\ninforaighospitalscom\nAIG Hospitals (a unit of Asian Institule of Gastroenterology)\nCIN; U9999916/994PTCO18352\nDate\ng/dl",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "AIGG,",
+          "biomarker_normalized": "AIGG,",
+          "value": "20825010",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AIGG,20825010",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "O0;",
+          "biomarker_normalized": "O0;",
+          "value": "17",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "O0;17",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Sumple %",
+          "biomarker_normalized": "Sumple %",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sumple %0",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "AG][",
+          "biomarker_normalized": "AG][",
+          "value": "03231",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AG][03231J4",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Oi5",
+          "biomarker_normalized": "Oi5",
+          "value": "5",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Oi55",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "CIN; U9",
+          "biomarker_normalized": "CIN; U9",
+          "value": "999916",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CIN; U9999916/994PTCO18352",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 134,
+    "ocr_avg_confidence": 0.5984,
+    "parsed_row_count": 6
+  }
+}

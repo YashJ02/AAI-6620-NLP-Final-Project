@@ -1,0 +1,546 @@
+{
+  "document_id": "BLR-0425-PA-0042579_F-SARAFATHIMAPREAUTHREQUEST_250427_1545@G.pdf_page_11",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\BLR-0425-PA-0042579_F-SARAFATHIMAPREAUTHREQUEST_250427_1545@G.pdf_page_11.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "CLINICAL REPORT\nMETRO\nCRITICAL CARE\nCURE\nH 0 $ P |TA L $\n928-1470-108\nBY XENON CRITICAL CARE COMPANIONS\nPatient]\n[07:09 PM\nMCH0425675\nCollected Date\n[08:15 PM\nIPD No\nIP0425063\nDr Shaik Khaled\nEmergency And Critical Care\nWardiFloorIRoom/B\nICU/3rd Floor/ICU/Bed-36\ned\nReferred By\nMrs.SUNITA SISTER\nMCROBIOLOGY\nTEST\nHcv)\nNON-REACTIVE\nHIV 182\nNON-REACTIVE\nEnd Of The Report\nVerified By\nDr: Mohd; Irshad Ahmed (MD)\nConsultation Pathologist\nLane Beside Bajaj Electronics, Metro Pillar No: A-l438 MalakpetHyderabad\n500 036\nPh: 040 2455 0100\nCell: 928-1470-108\nWWWmetrocurehospital in\n6Nea",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            657.0,
+            69.0,
+            1086.0,
+            153.0
+          ],
+          "text": "CLINICAL REPORT",
+          "confidence": 0.9925
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            74.0,
+            104.0,
+            332.0,
+            178.0
+          ],
+          "text": "METRO",
+          "confidence": 0.9645
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            1326.0,
+            168.0,
+            1503.0,
+            205.0
+          ],
+          "text": "CRITICAL CARE",
+          "confidence": 0.9348
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            167.0,
+            326.0,
+            244.0
+          ],
+          "text": "CURE",
+          "confidence": 0.9716
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            77.0,
+            243.0,
+            347.0,
+            279.0
+          ],
+          "text": "H 0 $ P |TA L $",
+          "confidence": 0.6574
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1292.0,
+            244.0,
+            1533.0,
+            288.0
+          ],
+          "text": "928-1470-108",
+          "confidence": 0.7338
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            277.0,
+            343.0,
+            295.0
+          ],
+          "text": "BY XENON CRITICAL CARE COMPANIONS",
+          "confidence": 0.9685
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            104.0,
+            322.0,
+            206.0,
+            354.0
+          ],
+          "text": "Patient]",
+          "confidence": 0.3895
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1249.0,
+            381.0,
+            1377.0,
+            417.0
+          ],
+          "text": "[07:09 PM",
+          "confidence": 0.7781
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            402.0,
+            402.0,
+            583.0,
+            441.0
+          ],
+          "text": "MCH0425675",
+          "confidence": 0.8878
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            802.0,
+            405.0,
+            1007.0,
+            449.0
+          ],
+          "text": "Collected Date",
+          "confidence": 0.9844
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            1248.0,
+            418.0,
+            1377.0,
+            456.0
+          ],
+          "text": "[08:15 PM",
+          "confidence": 0.5576
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            440.0,
+            200.0,
+            470.0
+          ],
+          "text": "IPD No",
+          "confidence": 0.7934
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            444.0,
+            544.0,
+            476.0
+          ],
+          "text": "IP0425063",
+          "confidence": 0.7176
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            400.0,
+            519.0,
+            619.0,
+            556.0
+          ],
+          "text": "Dr Shaik Khaled",
+          "confidence": 0.8076
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            399.0,
+            558.0,
+            767.0,
+            600.0
+          ],
+          "text": "Emergency And Critical Care",
+          "confidence": 0.8871
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            592.0,
+            353.0,
+            630.0
+          ],
+          "text": "WardiFloorIRoom/B",
+          "confidence": 0.4773
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            396.0,
+            595.0,
+            729.0,
+            634.0
+          ],
+          "text": "ICU/3rd Floor/ICU/Bed-36",
+          "confidence": 0.8415
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            624.0,
+            138.0,
+            650.0
+          ],
+          "text": "ed",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            100.0,
+            657.0,
+            257.0,
+            699.0
+          ],
+          "text": "Referred By",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            398.0,
+            663.0,
+            673.0,
+            701.0
+          ],
+          "text": "Mrs.SUNITA SISTER",
+          "confidence": 0.7716
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            651.0,
+            782.0,
+            946.0,
+            830.0
+          ],
+          "text": "MCROBIOLOGY",
+          "confidence": 0.6891
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            836.0,
+            166.0,
+            866.0
+          ],
+          "text": "TEST",
+          "confidence": 0.9992
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            96.0,
+            888.0,
+            152.0,
+            918.0
+          ],
+          "text": "Hcv)",
+          "confidence": 0.256
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            894.0,
+            897.0,
+            932.0
+          ],
+          "text": "NON-REACTIVE",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            94.0,
+            960.0,
+            204.0,
+            992.0
+          ],
+          "text": "HIV 182",
+          "confidence": 0.8632
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            682.0,
+            970.0,
+            896.0,
+            1002.0
+          ],
+          "text": "NON-REACTIVE",
+          "confidence": 0.947
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            688.0,
+            1066.0,
+            902.0,
+            1097.0
+          ],
+          "text": "End Of The Report",
+          "confidence": 0.8178
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            146.0,
+            1932.0,
+            299.0,
+            1973.0
+          ],
+          "text": "Verified By",
+          "confidence": 0.9818
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            1117.0,
+            1945.0,
+            1517.0,
+            1989.0
+          ],
+          "text": "Dr: Mohd; Irshad Ahmed (MD)",
+          "confidence": 0.7446
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            1119.0,
+            1977.0,
+            1457.0,
+            2020.0
+          ],
+          "text": "Consultation Pathologist",
+          "confidence": 0.9796
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            261.0,
+            2053.0,
+            1353.0,
+            2097.0
+          ],
+          "text": "Lane Beside Bajaj Electronics, Metro Pillar No: A-l438 MalakpetHyderabad",
+          "confidence": 0.5494
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1378.0,
+            2066.0,
+            1508.0,
+            2098.0
+          ],
+          "text": "500 036",
+          "confidence": 0.9971
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            255.0,
+            2089.0,
+            543.0,
+            2125.0
+          ],
+          "text": "Ph: 040 2455 0100",
+          "confidence": 0.939
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            573.0,
+            2091.0,
+            867.0,
+            2129.0
+          ],
+          "text": "Cell: 928-1470-108",
+          "confidence": 0.9201
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            903.0,
+            2209.0,
+            1504.0,
+            2265.0
+          ],
+          "text": "WWWmetrocurehospital in",
+          "confidence": 0.5069
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            1344.4883718877334,
+            86.07206055671742,
+            1490.5116281122666,
+            175.92793944328258
+          ],
+          "text": "6Nea",
+          "confidence": 0.0598
+        }
+      ]
+    }
+  ],
+  "full_text": "CLINICAL REPORT\nMETRO\nCRITICAL CARE\nCURE\nH 0 $ P |TA L $\n928-1470-108\nBY XENON CRITICAL CARE COMPANIONS\nPatient]\n[07:09 PM\nMCH0425675\nCollected Date\n[08:15 PM\nIPD No\nIP0425063\nDr Shaik Khaled\nEmergency And Critical Care\nWardiFloorIRoom/B\nICU/3rd Floor/ICU/Bed-36\ned\nReferred By\nMrs.SUNITA SISTER\nMCROBIOLOGY\nTEST\nHcv)\nNON-REACTIVE\nHIV 182\nNON-REACTIVE\nEnd Of The Report\nVerified By\nDr: Mohd; Irshad Ahmed (MD)\nConsultation Pathologist\nLane Beside Bajaj Electronics, Metro Pillar No: A-l438 MalakpetHyderabad\n500 036\nPh: 040 2455 0100\nCell: 928-1470-108\nWWWmetrocurehospital in\n6Nea",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "H",
+          "biomarker_normalized": "H",
+          "value": "0",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "H 0 $ P |TA L $",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "MCH0",
+          "biomarker_normalized": "MCH0",
+          "value": "425675",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "MCH0425675",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "IP0",
+          "biomarker_normalized": "IP0",
+          "value": "425063",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IP0425063",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "ICU/",
+          "biomarker_normalized": "ICU/",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ICU/3rd Floor/ICU/Bed-36",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "HIV",
+          "biomarker_normalized": "HIV",
+          "value": "182",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HIV 182",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "Lane Beside Bajaj Electronics, Metro Pillar No: A-l4",
+          "biomarker_normalized": "Lane Beside Bajaj Electronics, Metro Pillar No: A-l4",
+          "value": "38",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Lane Beside Bajaj Electronics, Metro Pillar No: A-l438 MalakpetHyderabad",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Ph",
+          "biomarker_normalized": "Ph",
+          "value": "040",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Ph: 040 2455 0100",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Cell",
+          "biomarker_normalized": "Cell",
+          "value": "928",
+          "unit": "",
+          "reference_range": "928-1470",
+          "source_line": "Cell: 928-1470-108",
+          "confidence": 0.65
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 37,
+    "ocr_avg_confidence": 0.7936,
+    "parsed_row_count": 8
+  }
+}

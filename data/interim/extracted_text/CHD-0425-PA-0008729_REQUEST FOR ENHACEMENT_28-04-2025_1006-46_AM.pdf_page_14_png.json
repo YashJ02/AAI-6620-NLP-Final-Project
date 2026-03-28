@@ -1,0 +1,651 @@
+{
+  "document_id": "CHD-0425-PA-0008729_REQUEST FOR ENHACEMENT_28-04-2025_1006-46_AM.pdf_page_14",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\CHD-0425-PA-0008729_REQUEST FOR ENHACEMENT_28-04-2025_1006-46_AM.pdf_page_14.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "GKHOSPITAL & CLINICAL LAB\nOpp. Hero Cycles & Oswal Woollen Mill No. 3,\nG.T Road, LUDHIANA\nPh\n5015246\nSample No\n09\nDatel\n\"\nG.K HOSPITAL\nHAEMATOLOGY-REPORT\nTEST\nFINDING\nNORMAL RANGE\nRENAL FUNCTION TESI\nBbod Urea\n28 mgldl\n20-40mgldl\nS.Creatinine\n0.8 mgldl\n0.2-1.Omgldl\nLIVER FUNCTION TESI\nS.Protien T\n7.2\n6.0-8.Ogm/dl\nAlbumin\n4.1\ngmldl\n3.5-5.5gm/dl\nGlobulin\n3.1\n3.5-5.Ogmldl\nS.Bilurubin(T)\n0.6 mgldl\n0.2-1.Omgldl\nS.Bilurubin(D)\n0.2 mgldl\n0.0-0.3mgldl\nSGOT\n36U/L\n05-35 UIL\nSGPT\n20 UIL\n05-35 UIL\nAlk phosphatase\n205 UIL\n30-120 UIL\nEND OF REPORT\nSIGNAJARE\ngm/dl\ngmldl",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            198.0,
+            52.0,
+            1281.0,
+            166.0
+          ],
+          "text": "GKHOSPITAL & CLINICAL LAB",
+          "confidence": 0.624
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            285.0,
+            151.0,
+            1190.0,
+            224.0
+          ],
+          "text": "Opp. Hero Cycles & Oswal Woollen Mill No. 3,",
+          "confidence": 0.8186
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            512.0,
+            199.0,
+            962.0,
+            255.0
+          ],
+          "text": "G.T Road, LUDHIANA",
+          "confidence": 0.8936
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            461.0,
+            255.0,
+            525.0,
+            297.0
+          ],
+          "text": "Ph",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            845.0,
+            252.0,
+            1020.0,
+            305.0
+          ],
+          "text": "5015246",
+          "confidence": 0.7369
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            376.0,
+            324.0,
+            430.0
+          ],
+          "text": "Sample No",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            345.0,
+            373.0,
+            401.0,
+            415.0
+          ],
+          "text": "09",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            1088.0,
+            382.0,
+            1183.0,
+            427.0
+          ],
+          "text": "Datel",
+          "confidence": 0.5898
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            1192.0,
+            372.0,
+            1396.0,
+            542.0
+          ],
+          "text": "\"",
+          "confidence": 0.1585
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            274.0,
+            551.0,
+            575.0,
+            600.0
+          ],
+          "text": "G.K HOSPITAL",
+          "confidence": 0.835
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            466.0,
+            678.0,
+            968.0,
+            728.0
+          ],
+          "text": "HAEMATOLOGY-REPORT",
+          "confidence": 0.6369
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            773.0,
+            225.0,
+            817.0
+          ],
+          "text": "TEST",
+          "confidence": 0.6246
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            771.0,
+            753.0,
+            813.0
+          ],
+          "text": "FINDING",
+          "confidence": 0.7376
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            1045.0,
+            772.0,
+            1367.0,
+            820.0
+          ],
+          "text": "NORMAL RANGE",
+          "confidence": 0.9996
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            852.0,
+            586.0,
+            904.0
+          ],
+          "text": "RENAL FUNCTION TESI",
+          "confidence": 0.5612
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            941.0,
+            287.0,
+            977.0
+          ],
+          "text": "Bbod Urea",
+          "confidence": 0.7828
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            941.0,
+            721.0,
+            981.0
+          ],
+          "text": "28 mgldl",
+          "confidence": 0.8376
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            1043.0,
+            943.0,
+            1213.0,
+            983.0
+          ],
+          "text": "20-40mgldl",
+          "confidence": 0.8681
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1013.0,
+            305.0,
+            1051.0
+          ],
+          "text": "S.Creatinine",
+          "confidence": 0.9784
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            1012.0,
+            732.0,
+            1061.0
+          ],
+          "text": "0.8 mgldl",
+          "confidence": 0.7599
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            1043.0,
+            1017.0,
+            1231.0,
+            1057.0
+          ],
+          "text": "0.2-1.Omgldl",
+          "confidence": 0.987
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            125.0,
+            1084.0,
+            568.0,
+            1134.0
+          ],
+          "text": "LIVER FUNCTION TESI",
+          "confidence": 0.7223
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            129.0,
+            1177.0,
+            287.0,
+            1213.0
+          ],
+          "text": "S.Protien T",
+          "confidence": 0.9032
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            1177.0,
+            641.0,
+            1213.0
+          ],
+          "text": "7.2",
+          "confidence": 0.9284
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            1041.0,
+            1176.0,
+            1228.0,
+            1216.0
+          ],
+          "text": "6.0-8.Ogm/dl",
+          "confidence": 0.9516
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            131.0,
+            1251.0,
+            245.0,
+            1287.0
+          ],
+          "text": "Albumin",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            1254.0,
+            634.0,
+            1284.0
+          ],
+          "text": "4.1",
+          "confidence": 0.9356
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            635.0,
+            1246.0,
+            732.0,
+            1295.0
+          ],
+          "text": "gmldl",
+          "confidence": 0.6846
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            1041.0,
+            1250.0,
+            1228.0,
+            1290.0
+          ],
+          "text": "3.5-5.5gm/dl",
+          "confidence": 0.6605
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1322.0,
+            247.0,
+            1363.0
+          ],
+          "text": "Globulin",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            586.0,
+            1328.0,
+            636.0,
+            1360.0
+          ],
+          "text": "3.1",
+          "confidence": 0.9839
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            1041.0,
+            1322.0,
+            1228.0,
+            1364.0
+          ],
+          "text": "3.5-5.Ogmldl",
+          "confidence": 0.8187
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1391.0,
+            327.0,
+            1443.0
+          ],
+          "text": "S.Bilurubin(T)",
+          "confidence": 0.6954
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            1399.0,
+            729.0,
+            1439.0
+          ],
+          "text": "0.6 mgldl",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1041.0,
+            1396.0,
+            1228.0,
+            1436.0
+          ],
+          "text": "0.2-1.Omgldl",
+          "confidence": 0.9217
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            128.0,
+            1467.0,
+            330.0,
+            1517.0
+          ],
+          "text": "S.Bilurubin(D)",
+          "confidence": 0.5939
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            584.0,
+            1469.0,
+            732.0,
+            1519.0
+          ],
+          "text": "0.2 mgldl",
+          "confidence": 0.9263
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            1041.0,
+            1468.0,
+            1229.0,
+            1512.0
+          ],
+          "text": "0.0-0.3mgldl",
+          "confidence": 0.9603
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1542.0,
+            223.0,
+            1583.0
+          ],
+          "text": "SGOT",
+          "confidence": 0.9991
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            1547.0,
+            681.0,
+            1585.0
+          ],
+          "text": "36U/L",
+          "confidence": 0.7435
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            1043.0,
+            1543.0,
+            1191.0,
+            1579.0
+          ],
+          "text": "05-35 UIL",
+          "confidence": 0.9382
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            127.0,
+            1613.0,
+            220.0,
+            1656.0
+          ],
+          "text": "SGPT",
+          "confidence": 0.9986
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            1623.0,
+            691.0,
+            1659.0
+          ],
+          "text": "20 UIL",
+          "confidence": 0.7528
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1043.0,
+            1615.0,
+            1191.0,
+            1651.0
+          ],
+          "text": "05-35 UIL",
+          "confidence": 0.9495
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            126.0,
+            1686.0,
+            368.0,
+            1739.0
+          ],
+          "text": "Alk phosphatase",
+          "confidence": 0.9917
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            585.0,
+            1695.0,
+            707.0,
+            1733.0
+          ],
+          "text": "205 UIL",
+          "confidence": 0.8856
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            1043.0,
+            1689.0,
+            1209.0,
+            1725.0
+          ],
+          "text": "30-120 UIL",
+          "confidence": 0.8081
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            623.0,
+            1813.0,
+            895.0,
+            1853.0
+          ],
+          "text": "END OF REPORT",
+          "confidence": 0.9967
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            1043.0,
+            1879.0,
+            1239.0,
+            1923.0
+          ],
+          "text": "SIGNAJARE",
+          "confidence": 0.6274
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            637.3447882227953,
+            1175.2634323122327,
+            729.6552117772047,
+            1218.7365676877673
+          ],
+          "text": "gm/dl",
+          "confidence": 0.6161
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            637.4050955543422,
+            1321.1764965207774,
+            729.5949044456578,
+            1366.8235034792226
+          ],
+          "text": "gmldl",
+          "confidence": 0.8212
+        }
+      ]
+    }
+  ],
+  "full_text": "GKHOSPITAL & CLINICAL LAB\nOpp. Hero Cycles & Oswal Woollen Mill No. 3,\nG.T Road, LUDHIANA\nPh\n5015246\nSample No\n09\nDatel\n\"\nG.K HOSPITAL\nHAEMATOLOGY-REPORT\nTEST\nFINDING\nNORMAL RANGE\nRENAL FUNCTION TESI\nBbod Urea\n28 mgldl\n20-40mgldl\nS.Creatinine\n0.8 mgldl\n0.2-1.Omgldl\nLIVER FUNCTION TESI\nS.Protien T\n7.2\n6.0-8.Ogm/dl\nAlbumin\n4.1\ngmldl\n3.5-5.5gm/dl\nGlobulin\n3.1\n3.5-5.Ogmldl\nS.Bilurubin(T)\n0.6 mgldl\n0.2-1.Omgldl\nS.Bilurubin(D)\n0.2 mgldl\n0.0-0.3mgldl\nSGOT\n36U/L\n05-35 UIL\nSGPT\n20 UIL\n05-35 UIL\nAlk phosphatase\n205 UIL\n30-120 UIL\nEND OF REPORT\nSIGNAJARE\ngm/dl\ngmldl",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "Opp. Hero Cycles & Oswal Woollen Mill No.",
+          "biomarker_normalized": "Opp. Hero Cycles & Oswal Woollen Mill No.",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Opp. Hero Cycles & Oswal Woollen Mill No. 3,",
+          "confidence": 0.7
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 51,
+    "ocr_avg_confidence": 0.8281,
+    "parsed_row_count": 1
+  }
+}

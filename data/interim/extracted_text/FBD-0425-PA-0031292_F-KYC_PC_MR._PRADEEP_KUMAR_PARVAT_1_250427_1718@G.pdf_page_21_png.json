@@ -1,0 +1,630 @@
+{
+  "document_id": "FBD-0425-PA-0031292_F-KYC_PC_MR._PRADEEP_KUMAR_PARVAT_1_250427_1718@G.pdf_page_21",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\FBD-0425-PA-0031292_F-KYC_PC_MR._PRADEEP_KUMAR_PARVAT_1_250427_1718@G.pdf_page_21.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "sarvodaya\nSARVODAYA HOSPITAL\nac\nHEALTHCARE\nSECTOR-8, FARIDABAD\nHELPLINE: 1800 313 1414\nPRADEEP KUMAR PARVAT [ SR948669 ]\nD\nIP339099\nOrder\n496198\nAccepted on\n106.17\nDr; RAJENDER SINGLA\nReport Date\n107.35 AM\n16 / HDU\n1F-MICU-2\nIMMUNOLOGY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nHCV By ECLIA\n0.04\n0 -0.9\nInterpretation:\nCOI < 090 Non-reactive;\nCOI > 0.90 t0 < 1.0 Borderline.\nCoI > 1,0 Reaclive,\nNote:-This is a screening test, For All borderline and reactive result AdvHCV RNA pcr for confirmation:\nMr; BIJAN FOGHAT\nDr. Ranjan Kumar\nMBBS, MD (Pathology)\nthe QR code to\ncheck interpretations\nAbovo Results are of tho Tests performed at Sarvodaya Hospital and Research Centre Lab adhering to Quality tosting Guidolinos_\nIPRADEEP KUMAR PARVAT\nSR948569\n39 Yr\nMale\n7p339099 / 496198\nIby\nOanthsen",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            133.0,
+            62.0,
+            432.0,
+            147.0
+          ],
+          "text": "sarvodaya",
+          "confidence": 0.9999
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            1086.0,
+            70.0,
+            1596.0,
+            122.0
+          ],
+          "text": "SARVODAYA HOSPITAL",
+          "confidence": 0.9214
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            68.0,
+            120.0,
+            126.0,
+            150.0
+          ],
+          "text": "ac",
+          "confidence": 0.11
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            139.0,
+            137.0,
+            427.0,
+            179.0
+          ],
+          "text": "HEALTHCARE",
+          "confidence": 0.9982
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            858.0,
+            131.0,
+            1205.0,
+            171.0
+          ],
+          "text": "SECTOR-8, FARIDABAD",
+          "confidence": 0.6604
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            1219.0,
+            131.0,
+            1595.0,
+            169.0
+          ],
+          "text": "HELPLINE: 1800 313 1414",
+          "confidence": 0.5791
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            137.0,
+            267.0,
+            1080.0,
+            324.0
+          ],
+          "text": "PRADEEP KUMAR PARVAT [ SR948669 ]",
+          "confidence": 0.7869
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            102.0,
+            374.0,
+            138.0,
+            404.0
+          ],
+          "text": "D",
+          "confidence": 0.9933
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            180.0,
+            374.0,
+            306.0,
+            404.0
+          ],
+          "text": "IP339099",
+          "confidence": 0.9341
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            320.0,
+            374.0,
+            398.0,
+            404.0
+          ],
+          "text": "Order",
+          "confidence": 0.7233
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            422.0,
+            372.0,
+            520.0,
+            404.0
+          ],
+          "text": "496198",
+          "confidence": 0.9029
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            925.0,
+            373.0,
+            1095.0,
+            409.0
+          ],
+          "text": "Accepted on",
+          "confidence": 0.9981
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            372.0,
+            1358.0,
+            404.0
+          ],
+          "text": "106.17",
+          "confidence": 0.3256
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            410.0,
+            484.0,
+            442.0
+          ],
+          "text": "Dr; RAJENDER SINGLA",
+          "confidence": 0.762
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            924.0,
+            410.0,
+            1087.0,
+            446.0
+          ],
+          "text": "Report Date",
+          "confidence": 0.8056
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            1278.0,
+            410.0,
+            1404.0,
+            442.0
+          ],
+          "text": "107.35 AM",
+          "confidence": 0.2375
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            182.0,
+            484.0,
+            300.0,
+            514.0
+          ],
+          "text": "16 / HDU",
+          "confidence": 0.9237
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            316.0,
+            484.0,
+            458.0,
+            514.0
+          ],
+          "text": "1F-MICU-2",
+          "confidence": 0.6984
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            715.0,
+            533.0,
+            971.0,
+            571.0
+          ],
+          "text": "IMMUNOLOGY",
+          "confidence": 0.9807
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            595.0,
+            243.0,
+            623.0
+          ],
+          "text": "INVESTIGATION",
+          "confidence": 0.9957
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            689.0,
+            595.0,
+            793.0,
+            623.0
+          ],
+          "text": "RESULT",
+          "confidence": 0.9997
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            930.0,
+            596.0,
+            994.0,
+            622.0
+          ],
+          "text": "UNIT",
+          "confidence": 0.6084
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            1172.0,
+            594.0,
+            1584.0,
+            626.0
+          ],
+          "text": "BIOLOGICAL REFERENCE RANGE",
+          "confidence": 0.5786
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            89.0,
+            649.0,
+            285.0,
+            687.0
+          ],
+          "text": "HCV By ECLIA",
+          "confidence": 0.9893
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            690.0,
+            652.0,
+            748.0,
+            678.0
+          ],
+          "text": "0.04",
+          "confidence": 0.6454
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            1170.0,
+            652.0,
+            1256.0,
+            680.0
+          ],
+          "text": "0 -0.9",
+          "confidence": 0.8795
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            46.0,
+            704.0,
+            238.0,
+            734.0
+          ],
+          "text": "Interpretation:",
+          "confidence": 0.7362
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            276.0,
+            702.0,
+            574.0,
+            732.0
+          ],
+          "text": "COI < 090 Non-reactive;",
+          "confidence": 0.637
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            778.0,
+            422.0,
+            808.0
+          ],
+          "text": "COI > 0.90 t0 < 1.0 Borderline.",
+          "confidence": 0.6452
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            48.0,
+            856.0,
+            290.0,
+            884.0
+          ],
+          "text": "CoI > 1,0 Reaclive,",
+          "confidence": 0.4029
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            47.0,
+            963.0,
+            1281.0,
+            1003.0
+          ],
+          "text": "Note:-This is a screening test, For All borderline and reactive result AdvHCV RNA pcr for confirmation:",
+          "confidence": 0.4394
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            58.0,
+            1235.0,
+            305.0,
+            1266.0
+          ],
+          "text": "Mr; BIJAN FOGHAT",
+          "confidence": 0.4752
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            1395.0,
+            1234.0,
+            1633.0,
+            1272.0
+          ],
+          "text": "Dr. Ranjan Kumar",
+          "confidence": 0.828
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            1331.0,
+            1269.0,
+            1633.0,
+            1312.0
+          ],
+          "text": "MBBS, MD (Pathology)",
+          "confidence": 0.9883
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            1422.0,
+            1368.0,
+            1624.0,
+            1400.0
+          ],
+          "text": "the QR code to",
+          "confidence": 0.7309
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            1350.0,
+            1408.0,
+            1630.0,
+            1438.0
+          ],
+          "text": "check interpretations",
+          "confidence": 0.8324
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            123.0,
+            1584.0,
+            1514.0,
+            1621.0
+          ],
+          "text": "Abovo Results are of tho Tests performed at Sarvodaya Hospital and Research Centre Lab adhering to Quality tosting Guidolinos_",
+          "confidence": 0.4474
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            79.0,
+            2263.0,
+            332.0,
+            2290.0
+          ],
+          "text": "IPRADEEP KUMAR PARVAT",
+          "confidence": 0.9148
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            340.0,
+            2264.0,
+            440.0,
+            2290.0
+          ],
+          "text": "SR948569",
+          "confidence": 0.7161
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            448.0,
+            2266.0,
+            504.0,
+            2290.0
+          ],
+          "text": "39 Yr",
+          "confidence": 0.9853
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            512.0,
+            2266.0,
+            566.0,
+            2290.0
+          ],
+          "text": "Male",
+          "confidence": 1.0
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            36.0,
+            2286.0,
+            212.0,
+            2312.0
+          ],
+          "text": "7p339099 / 496198",
+          "confidence": 0.3773
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            97.2978121751773,
+            406.1385464278869,
+            148.70218782482272,
+            450.8614535721131
+          ],
+          "text": "Iby",
+          "confidence": 0.4994
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            1388.7426694080675,
+            1110.5038285257435,
+            1586.2573305919325,
+            1203.4961714742565
+          ],
+          "text": "Oanthsen",
+          "confidence": 0.1297
+        }
+      ]
+    }
+  ],
+  "full_text": "sarvodaya\nSARVODAYA HOSPITAL\nac\nHEALTHCARE\nSECTOR-8, FARIDABAD\nHELPLINE: 1800 313 1414\nPRADEEP KUMAR PARVAT [ SR948669 ]\nD\nIP339099\nOrder\n496198\nAccepted on\n106.17\nDr; RAJENDER SINGLA\nReport Date\n107.35 AM\n16 / HDU\n1F-MICU-2\nIMMUNOLOGY\nINVESTIGATION\nRESULT\nUNIT\nBIOLOGICAL REFERENCE RANGE\nHCV By ECLIA\n0.04\n0 -0.9\nInterpretation:\nCOI < 090 Non-reactive;\nCOI > 0.90 t0 < 1.0 Borderline.\nCoI > 1,0 Reaclive,\nNote:-This is a screening test, For All borderline and reactive result AdvHCV RNA pcr for confirmation:\nMr; BIJAN FOGHAT\nDr. Ranjan Kumar\nMBBS, MD (Pathology)\nthe QR code to\ncheck interpretations\nAbovo Results are of tho Tests performed at Sarvodaya Hospital and Research Centre Lab adhering to Quality tosting Guidolinos_\nIPRADEEP KUMAR PARVAT\nSR948569\n39 Yr\nMale\n7p339099 / 496198\nIby\nOanthsen",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "SECTOR",
+          "biomarker_normalized": "SECTOR",
+          "value": "8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SECTOR-8, FARIDABAD",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "HELPLINE",
+          "biomarker_normalized": "HELPLINE",
+          "value": "1800",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "HELPLINE: 1800 313 1414",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "PRADEEP KUMAR PARVAT [ SR9",
+          "biomarker_normalized": "PRADEEP KUMAR PARVAT [ SR9",
+          "value": "48669",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "PRADEEP KUMAR PARVAT [ SR948669 ]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "IP3",
+          "biomarker_normalized": "IP3",
+          "value": "39099",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "IP339099",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "COI <",
+          "biomarker_normalized": "COI <",
+          "value": "090",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "COI < 090 Non-reactive;",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "COI >",
+          "biomarker_normalized": "COI >",
+          "value": "0.90",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "COI > 0.90 t0 < 1.0 Borderline.",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CoI >",
+          "biomarker_normalized": "CoI >",
+          "value": "1",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CoI > 1,0 Reaclive,",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SR9",
+          "biomarker_normalized": "SR9",
+          "value": "48569",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SR948569",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 44,
+    "ocr_avg_confidence": 0.7233,
+    "parsed_row_count": 8
+  }
+}

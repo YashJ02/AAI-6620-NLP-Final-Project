@@ -1,0 +1,1281 @@
+{
+  "document_id": "GUR-0425-PA-0045348_Q-FINALBILLWITHDISCHARGEDOCUMENTS_250411_1130@F.pdf_page_126",
+  "source_path": "data\\raw\\images_scanned\\lbmaske\\GUR-0425-PA-0045348_Q-FINALBILLWITHDISCHARGEDOCUMENTS_250411_1130@F.pdf_page_126.png",
+  "engine": "surya",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "~COMPLETE B OOD COUNT5\n~HaEMoslOBiNHBi\n10,Aem/dl\nTOTAL LEUCOCYTE CCNT(C- 9, ?/Mm\nDIFFERENTIAL LEUCOCYTECOUNT\n~NEUTROP IL\n52.6\n~YMpF DCne-40.8%\n~MCNOC TE-3.8\nEOSNOPHL>3\"\nPUATELET CCUNT *\nRBC(RcaBoodCcll:, 3AGMillions/cLMm\n~MC\"-92.30 cubicm Icton\n~MCH-30 1 gram\n~MCHC 32 6\nBICCHE  STRY INNVESTIGAMON\nBLCOD SUGAR RANDOM-110\nELecTROLYTES\nSodilm-145,0\nPOTASSiUM-47\nUVER FUNICTION TEST\nTOTAL BIIRUBIN 0.67 meldl\nCCNUGATED (D. Dili-ubin) 0.35 mpldi\nUNCONIUGATED (LD.eilirubin)- Calmpfal\nTOTAL PROTEING: 7,2SgnV/4]\nSERUM ALBUMIN- 3.61 gn/dl\nAST / SGoT 42,oiu/l\nALt/SG '|-43 DDU/L\nAL AVNE PHOSPHATASE-93.C0\nRENALFUNCTICN TEST\n0LOQD UREA- 32,70 ME /cl\nSerUM CFEATIMNE 0.95 meldi\nUrIc ACID + 15 mejdl\nSEROLCSICAL\nca QLAYTITATIVE-12 A\nPROCALCITCNiN\n0,31\n{10/4/2SIHAEMAtOlOGY:\n~COMplen BLOOD COUNTS\n~#AEMOGLOBINIHDI\n10 2gmvdl\n~TOTALLEUCOCHTE CCNT (TLCI - & B/mm\n~DIFFERENTIAL LEUCOCMTECOUNT\n~NELTRCPHL\n61,5\n~LYMPHCOT -4,35\n~MO CCTTE 4,2\n~OJNOPHL 22\"\n~PLATELET CCUNT-131 /NL\n~R8 {Redeoouce Is} 3 41MIlllens{cumm\n~MCV - 93.50 cubicmicron\nMcH- 19,9 Cram\n~cHC 32,0\nBIOCHEMISTRY INVESTIGATOM\nBLOOD SUGAR RANDOM-131\nElecTROLYTES\nSODIJM - 1120\nPOIASSiUM-4,9\nLIVER F UNCTIOR I5[\nTCTAL BILIRUBIN 0.15 mg/cl\nCONUGATEO |D. Dillrubin)-0.43 meldl\n4\n0r\nSUPRITENDENT\nHOSPITAL\nMEDICAL:\nISHWAR\nCiT\nAMBALA\nMAZUMDAR\nGne)\n(ed (\nHamzir\nN24342\n10.\nVl\nMJ:\nIo",
+      "blocks": [
+        {
+          "block_no": 0,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            252.0,
+            829.0,
+            280.0
+          ],
+          "text": "~COMPLETE B OOD COUNT5",
+          "confidence": 0.1602
+        },
+        {
+          "block_no": 1,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            283.0,
+            748.0,
+            315.0
+          ],
+          "text": "~HaEMoslOBiNHBi",
+          "confidence": 0.0879
+        },
+        {
+          "block_no": 2,
+          "block_type": 0,
+          "bbox": [
+            768.0,
+            284.0,
+            894.0,
+            316.0
+          ],
+          "text": "10,Aem/dl",
+          "confidence": 0.2254
+        },
+        {
+          "block_no": 3,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            316.0,
+            986.0,
+            348.0
+          ],
+          "text": "TOTAL LEUCOCYTE CCNT(C- 9, ?/Mm",
+          "confidence": 0.2841
+        },
+        {
+          "block_no": 4,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            348.0,
+            896.0,
+            378.0
+          ],
+          "text": "DIFFERENTIAL LEUCOCYTECOUNT",
+          "confidence": 0.6369
+        },
+        {
+          "block_no": 5,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            382.0,
+            664.0,
+            410.0
+          ],
+          "text": "~NEUTROP IL",
+          "confidence": 0.7158
+        },
+        {
+          "block_no": 6,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            382.0,
+            738.0,
+            410.0
+          ],
+          "text": "52.6",
+          "confidence": 0.8349
+        },
+        {
+          "block_no": 7,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            414.0,
+            764.0,
+            444.0
+          ],
+          "text": "~YMpF DCne-40.8%",
+          "confidence": 0.0777
+        },
+        {
+          "block_no": 8,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            446.0,
+            700.0,
+            476.0
+          ],
+          "text": "~MCNOC TE-3.8",
+          "confidence": 0.1913
+        },
+        {
+          "block_no": 9,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            480.0,
+            720.0,
+            510.0
+          ],
+          "text": "EOSNOPHL>3\"",
+          "confidence": 0.2282
+        },
+        {
+          "block_no": 10,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            512.0,
+            814.0,
+            544.0
+          ],
+          "text": "PUATELET CCUNT *",
+          "confidence": 0.2037
+        },
+        {
+          "block_no": 11,
+          "block_type": 0,
+          "bbox": [
+            518.0,
+            545.0,
+            963.0,
+            578.0
+          ],
+          "text": "RBC(RcaBoodCcll:, 3AGMillions/cLMm",
+          "confidence": 0.1431
+        },
+        {
+          "block_no": 12,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            580.0,
+            796.0,
+            608.0
+          ],
+          "text": "~MC\"-92.30 cubicm Icton",
+          "confidence": 0.1872
+        },
+        {
+          "block_no": 13,
+          "block_type": 0,
+          "bbox": [
+            507.0,
+            609.0,
+            705.0,
+            645.0
+          ],
+          "text": "~MCH-30 1 gram",
+          "confidence": 0.6568
+        },
+        {
+          "block_no": 14,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            644.0,
+            654.0,
+            674.0
+          ],
+          "text": "~MCHC 32 6",
+          "confidence": 0.5395
+        },
+        {
+          "block_no": 15,
+          "block_type": 0,
+          "bbox": [
+            122.0,
+            676.0,
+            476.0,
+            706.0
+          ],
+          "text": "BICCHE  STRY INNVESTIGAMON",
+          "confidence": 0.141
+        },
+        {
+          "block_no": 16,
+          "block_type": 0,
+          "bbox": [
+            552.0,
+            710.0,
+            884.0,
+            740.0
+          ],
+          "text": "BLCOD SUGAR RANDOM-110",
+          "confidence": 0.3659
+        },
+        {
+          "block_no": 17,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            742.0,
+            292.0,
+            772.0
+          ],
+          "text": "ELecTROLYTES",
+          "confidence": 0.1984
+        },
+        {
+          "block_no": 18,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            776.0,
+            748.0,
+            808.0
+          ],
+          "text": "Sodilm-145,0",
+          "confidence": 0.1868
+        },
+        {
+          "block_no": 19,
+          "block_type": 0,
+          "bbox": [
+            556.0,
+            812.0,
+            758.0,
+            842.0
+          ],
+          "text": "POTASSiUM-47",
+          "confidence": 0.4567
+        },
+        {
+          "block_no": 20,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            843.0,
+            372.0,
+            876.0
+          ],
+          "text": "UVER FUNICTION TEST",
+          "confidence": 0.4158
+        },
+        {
+          "block_no": 21,
+          "block_type": 0,
+          "bbox": [
+            520.0,
+            880.0,
+            856.0,
+            912.0
+          ],
+          "text": "TOTAL BIIRUBIN 0.67 meldl",
+          "confidence": 0.2452
+        },
+        {
+          "block_no": 22,
+          "block_type": 0,
+          "bbox": [
+            527.0,
+            908.0,
+            965.0,
+            950.0
+          ],
+          "text": "CCNUGATED (D. Dili-ubin) 0.35 mpldi",
+          "confidence": 0.3958
+        },
+        {
+          "block_no": 23,
+          "block_type": 0,
+          "bbox": [
+            527.0,
+            943.0,
+            1005.0,
+            981.0
+          ],
+          "text": "UNCONIUGATED (LD.eilirubin)- Calmpfal",
+          "confidence": 0.2111
+        },
+        {
+          "block_no": 24,
+          "block_type": 0,
+          "bbox": [
+            521.0,
+            979.0,
+            849.0,
+            1015.0
+          ],
+          "text": "TOTAL PROTEING: 7,2SgnV/4]",
+          "confidence": 0.1097
+        },
+        {
+          "block_no": 25,
+          "block_type": 0,
+          "bbox": [
+            520.0,
+            1007.0,
+            864.0,
+            1050.0
+          ],
+          "text": "SERUM ALBUMIN- 3.61 gn/dl",
+          "confidence": 0.2256
+        },
+        {
+          "block_no": 26,
+          "block_type": 0,
+          "bbox": [
+            522.0,
+            1046.0,
+            774.0,
+            1078.0
+          ],
+          "text": "AST / SGoT 42,oiu/l",
+          "confidence": 0.1351
+        },
+        {
+          "block_no": 27,
+          "block_type": 0,
+          "bbox": [
+            522.0,
+            1080.0,
+            756.0,
+            1112.0
+          ],
+          "text": "ALt/SG '|-43 DDU/L",
+          "confidence": 0.1049
+        },
+        {
+          "block_no": 28,
+          "block_type": 0,
+          "bbox": [
+            522.0,
+            1114.0,
+            876.0,
+            1144.0
+          ],
+          "text": "AL AVNE PHOSPHATASE-93.C0",
+          "confidence": 0.1668
+        },
+        {
+          "block_no": 29,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1148.0,
+            382.0,
+            1178.0
+          ],
+          "text": "RENALFUNCTICN TEST",
+          "confidence": 0.903
+        },
+        {
+          "block_no": 30,
+          "block_type": 0,
+          "bbox": [
+            534.0,
+            1182.0,
+            846.0,
+            1214.0
+          ],
+          "text": "0LOQD UREA- 32,70 ME /cl",
+          "confidence": 0.1123
+        },
+        {
+          "block_no": 31,
+          "block_type": 0,
+          "bbox": [
+            543.0,
+            1215.0,
+            905.0,
+            1251.0
+          ],
+          "text": "SerUM CFEATIMNE 0.95 meldi",
+          "confidence": 0.1706
+        },
+        {
+          "block_no": 32,
+          "block_type": 0,
+          "bbox": [
+            541.0,
+            1246.0,
+            797.0,
+            1288.0
+          ],
+          "text": "UrIc ACID + 15 mejdl",
+          "confidence": 0.1914
+        },
+        {
+          "block_no": 33,
+          "block_type": 0,
+          "bbox": [
+            120.0,
+            1284.0,
+            284.0,
+            1314.0
+          ],
+          "text": "SEROLCSICAL",
+          "confidence": 0.9752
+        },
+        {
+          "block_no": 34,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            1317.0,
+            836.0,
+            1348.0
+          ],
+          "text": "ca QLAYTITATIVE-12 A",
+          "confidence": 0.2495
+        },
+        {
+          "block_no": 35,
+          "block_type": 0,
+          "bbox": [
+            555.0,
+            1351.0,
+            749.0,
+            1383.0
+          ],
+          "text": "PROCALCITCNiN",
+          "confidence": 0.309
+        },
+        {
+          "block_no": 36,
+          "block_type": 0,
+          "bbox": [
+            764.0,
+            1352.0,
+            822.0,
+            1384.0
+          ],
+          "text": "0,31",
+          "confidence": 0.9987
+        },
+        {
+          "block_no": 37,
+          "block_type": 0,
+          "bbox": [
+            119.0,
+            1417.0,
+            419.0,
+            1453.0
+          ],
+          "text": "{10/4/2SIHAEMAtOlOGY:",
+          "confidence": 0.2477
+        },
+        {
+          "block_no": 38,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            1452.0,
+            832.0,
+            1484.0
+          ],
+          "text": "~COMplen BLOOD COUNTS",
+          "confidence": 0.0616
+        },
+        {
+          "block_no": 39,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1486.0,
+            748.0,
+            1518.0
+          ],
+          "text": "~#AEMOGLOBINIHDI",
+          "confidence": 0.1772
+        },
+        {
+          "block_no": 40,
+          "block_type": 0,
+          "bbox": [
+            767.0,
+            1485.0,
+            895.0,
+            1521.0
+          ],
+          "text": "10 2gmvdl",
+          "confidence": 0.1699
+        },
+        {
+          "block_no": 41,
+          "block_type": 0,
+          "bbox": [
+            507.0,
+            1517.0,
+            989.0,
+            1553.0
+          ],
+          "text": "~TOTALLEUCOCHTE CCNT (TLCI - & B/mm",
+          "confidence": 0.2502
+        },
+        {
+          "block_no": 42,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1554.0,
+            896.0,
+            1584.0
+          ],
+          "text": "~DIFFERENTIAL LEUCOCMTECOUNT",
+          "confidence": 0.4272
+        },
+        {
+          "block_no": 43,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1588.0,
+            666.0,
+            1618.0
+          ],
+          "text": "~NELTRCPHL",
+          "confidence": 0.7162
+        },
+        {
+          "block_no": 44,
+          "block_type": 0,
+          "bbox": [
+            678.0,
+            1588.0,
+            738.0,
+            1618.0
+          ],
+          "text": "61,5",
+          "confidence": 0.6179
+        },
+        {
+          "block_no": 45,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1622.0,
+            766.0,
+            1652.0
+          ],
+          "text": "~LYMPHCOT -4,35",
+          "confidence": 0.1693
+        },
+        {
+          "block_no": 46,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1656.0,
+            702.0,
+            1686.0
+          ],
+          "text": "~MO CCTTE 4,2",
+          "confidence": 0.1392
+        },
+        {
+          "block_no": 47,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1690.0,
+            720.0,
+            1720.0
+          ],
+          "text": "~OJNOPHL 22\"",
+          "confidence": 0.1905
+        },
+        {
+          "block_no": 48,
+          "block_type": 0,
+          "bbox": [
+            506.0,
+            1720.0,
+            815.0,
+            1756.0
+          ],
+          "text": "~PLATELET CCUNT-131 /NL",
+          "confidence": 0.5672
+        },
+        {
+          "block_no": 49,
+          "block_type": 0,
+          "bbox": [
+            509.0,
+            1753.0,
+            969.0,
+            1789.0
+          ],
+          "text": "~R8 {Redeoouce Is} 3 41MIlllens{cumm",
+          "confidence": 0.0864
+        },
+        {
+          "block_no": 50,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            1790.0,
+            798.0,
+            1820.0
+          ],
+          "text": "~MCV - 93.50 cubicmicron",
+          "confidence": 0.611
+        },
+        {
+          "block_no": 51,
+          "block_type": 0,
+          "bbox": [
+            508.0,
+            1824.0,
+            704.0,
+            1856.0
+          ],
+          "text": "McH- 19,9 Cram",
+          "confidence": 0.2769
+        },
+        {
+          "block_no": 52,
+          "block_type": 0,
+          "bbox": [
+            510.0,
+            1856.0,
+            654.0,
+            1886.0
+          ],
+          "text": "~cHC 32,0",
+          "confidence": 0.1262
+        },
+        {
+          "block_no": 53,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1890.0,
+            478.0,
+            1922.0
+          ],
+          "text": "BIOCHEMISTRY INVESTIGATOM",
+          "confidence": 0.6568
+        },
+        {
+          "block_no": 54,
+          "block_type": 0,
+          "bbox": [
+            554.0,
+            1922.0,
+            884.0,
+            1954.0
+          ],
+          "text": "BLOOD SUGAR RANDOM-131",
+          "confidence": 0.5233
+        },
+        {
+          "block_no": 55,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            1958.0,
+            294.0,
+            1988.0
+          ],
+          "text": "ElecTROLYTES",
+          "confidence": 0.1991
+        },
+        {
+          "block_no": 56,
+          "block_type": 0,
+          "bbox": [
+            558.0,
+            1990.0,
+            752.0,
+            2022.0
+          ],
+          "text": "SODIJM - 1120",
+          "confidence": 0.5856
+        },
+        {
+          "block_no": 57,
+          "block_type": 0,
+          "bbox": [
+            560.0,
+            2024.0,
+            760.0,
+            2056.0
+          ],
+          "text": "POIASSiUM-4,9",
+          "confidence": 0.2286
+        },
+        {
+          "block_no": 58,
+          "block_type": 0,
+          "bbox": [
+            124.0,
+            2060.0,
+            374.0,
+            2092.0
+          ],
+          "text": "LIVER F UNCTIOR I5[",
+          "confidence": 0.1712
+        },
+        {
+          "block_no": 59,
+          "block_type": 0,
+          "bbox": [
+            524.0,
+            2091.0,
+            858.0,
+            2124.0
+          ],
+          "text": "TCTAL BILIRUBIN 0.15 mg/cl",
+          "confidence": 0.3479
+        },
+        {
+          "block_no": 60,
+          "block_type": 0,
+          "bbox": [
+            529.0,
+            2123.0,
+            965.0,
+            2159.0
+          ],
+          "text": "CONUGATEO |D. Dillrubin)-0.43 meldl",
+          "confidence": 0.1628
+        },
+        {
+          "block_no": 61,
+          "block_type": 0,
+          "bbox": [
+            1210.0,
+            2132.0,
+            1240.0,
+            2160.0
+          ],
+          "text": "4",
+          "confidence": 0.1821
+        },
+        {
+          "block_no": 62,
+          "block_type": 0,
+          "bbox": [
+            998.0,
+            2134.0,
+            1054.0,
+            2182.0
+          ],
+          "text": "0r",
+          "confidence": 0.2218
+        },
+        {
+          "block_no": 63,
+          "block_type": 0,
+          "bbox": [
+            1247.2051046034558,
+            1771.9916925245748,
+            1497.7948953965442,
+            1876.0083074754252
+          ],
+          "text": "SUPRITENDENT",
+          "confidence": 0.5921
+        },
+        {
+          "block_no": 64,
+          "block_type": 0,
+          "bbox": [
+            1290.8550424457248,
+            1820.291844739033,
+            1493.1449575542752,
+            1912.708155260967
+          ],
+          "text": "HOSPITAL",
+          "confidence": 0.995
+        },
+        {
+          "block_no": 65,
+          "block_type": 0,
+          "bbox": [
+            1108.0970966215455,
+            1833.5299529619524,
+            1269.9029033784545,
+            1913.4700470380476
+          ],
+          "text": "MEDICAL:",
+          "confidence": 0.3916
+        },
+        {
+          "block_no": 66,
+          "block_type": 0,
+          "bbox": [
+            1139.02481404895,
+            1868.4960373135823,
+            1309.97518595105,
+            1954.5039626864177
+          ],
+          "text": "ISHWAR",
+          "confidence": 0.5895
+        },
+        {
+          "block_no": 67,
+          "block_type": 0,
+          "bbox": [
+            1351.3093088240148,
+            1884.3802778463287,
+            1434.6906911759852,
+            1941.6197221536713
+          ],
+          "text": "CiT",
+          "confidence": 0.3968
+        },
+        {
+          "block_no": 68,
+          "block_type": 0,
+          "bbox": [
+            1220.3576165455736,
+            1906.662239857273,
+            1366.6423834544264,
+            1975.337760142727
+          ],
+          "text": "AMBALA",
+          "confidence": 0.743
+        },
+        {
+          "block_no": 69,
+          "block_type": 0,
+          "bbox": [
+            1162.800239928024,
+            1966.3865687978098,
+            1373.199760071976,
+            2102.6134312021904
+          ],
+          "text": "MAZUMDAR",
+          "confidence": 0.998
+        },
+        {
+          "block_no": 70,
+          "block_type": 0,
+          "bbox": [
+            1301.01985123916,
+            2015.1011890106927,
+            1392.98014876084,
+            2081.8988109893075
+          ],
+          "text": "Gne)",
+          "confidence": 0.793
+        },
+        {
+          "block_no": 71,
+          "block_type": 0,
+          "bbox": [
+            1230.7125353714373,
+            2040.2074900520777,
+            1332.2874646285627,
+            2118.7925099479226
+          ],
+          "text": "(ed (",
+          "confidence": 0.1935
+        },
+        {
+          "block_no": 72,
+          "block_type": 0,
+          "bbox": [
+            1035.8461255241468,
+            2056.9203626183184,
+            1188.1538744758532,
+            2167.0796373816816
+          ],
+          "text": "Hamzir",
+          "confidence": 0.3492
+        },
+        {
+          "block_no": 73,
+          "block_type": 0,
+          "bbox": [
+            1222.1430466182294,
+            2062.61159492072,
+            1362.8569533817706,
+            2163.38840507928
+          ],
+          "text": "N24342",
+          "confidence": 0.7873
+        },
+        {
+          "block_no": 74,
+          "block_type": 0,
+          "bbox": [
+            1176.3183180150093,
+            2085.2705976131756,
+            1253.6816819849907,
+            2133.7294023868244
+          ],
+          "text": "10.",
+          "confidence": 0.084
+        },
+        {
+          "block_no": 75,
+          "block_type": 0,
+          "bbox": [
+            1303.1686948591155,
+            2090.23809701327,
+            1401.8313051408845,
+            2158.76190298673
+          ],
+          "text": "Vl",
+          "confidence": 0.0713
+        },
+        {
+          "block_no": 76,
+          "block_type": 0,
+          "bbox": [
+            1212.9038403974048,
+            2131.1998320577604,
+            1312.0961596025952,
+            2207.8001679422396
+          ],
+          "text": "MJ:",
+          "confidence": 0.1603
+        },
+        {
+          "block_no": 77,
+          "block_type": 0,
+          "bbox": [
+            1121.9719194937463,
+            2135.230684712815,
+            1226.0280805062537,
+            2211.769315287185
+          ],
+          "text": "Io",
+          "confidence": 0.0182
+        }
+      ]
+    }
+  ],
+  "full_text": "~COMPLETE B OOD COUNT5\n~HaEMoslOBiNHBi\n10,Aem/dl\nTOTAL LEUCOCYTE CCNT(C- 9, ?/Mm\nDIFFERENTIAL LEUCOCYTECOUNT\n~NEUTROP IL\n52.6\n~YMpF DCne-40.8%\n~MCNOC TE-3.8\nEOSNOPHL>3\"\nPUATELET CCUNT *\nRBC(RcaBoodCcll:, 3AGMillions/cLMm\n~MC\"-92.30 cubicm Icton\n~MCH-30 1 gram\n~MCHC 32 6\nBICCHE  STRY INNVESTIGAMON\nBLCOD SUGAR RANDOM-110\nELecTROLYTES\nSodilm-145,0\nPOTASSiUM-47\nUVER FUNICTION TEST\nTOTAL BIIRUBIN 0.67 meldl\nCCNUGATED (D. Dili-ubin) 0.35 mpldi\nUNCONIUGATED (LD.eilirubin)- Calmpfal\nTOTAL PROTEING: 7,2SgnV/4]\nSERUM ALBUMIN- 3.61 gn/dl\nAST / SGoT 42,oiu/l\nALt/SG '|-43 DDU/L\nAL AVNE PHOSPHATASE-93.C0\nRENALFUNCTICN TEST\n0LOQD UREA- 32,70 ME /cl\nSerUM CFEATIMNE 0.95 meldi\nUrIc ACID + 15 mejdl\nSEROLCSICAL\nca QLAYTITATIVE-12 A\nPROCALCITCNiN\n0,31\n{10/4/2SIHAEMAtOlOGY:\n~COMplen BLOOD COUNTS\n~#AEMOGLOBINIHDI\n10 2gmvdl\n~TOTALLEUCOCHTE CCNT (TLCI - & B/mm\n~DIFFERENTIAL LEUCOCMTECOUNT\n~NELTRCPHL\n61,5\n~LYMPHCOT -4,35\n~MO CCTTE 4,2\n~OJNOPHL 22\"\n~PLATELET CCUNT-131 /NL\n~R8 {Redeoouce Is} 3 41MIlllens{cumm\n~MCV - 93.50 cubicmicron\nMcH- 19,9 Cram\n~cHC 32,0\nBIOCHEMISTRY INVESTIGATOM\nBLOOD SUGAR RANDOM-131\nElecTROLYTES\nSODIJM - 1120\nPOIASSiUM-4,9\nLIVER F UNCTIOR I5[\nTCTAL BILIRUBIN 0.15 mg/cl\nCONUGATEO |D. Dillrubin)-0.43 meldl\n4\n0r\nSUPRITENDENT\nHOSPITAL\nMEDICAL:\nISHWAR\nCiT\nAMBALA\nMAZUMDAR\nGne)\n(ed (\nHamzir\nN24342\n10.\nVl\nMJ:\nIo",
+  "tables": [
+    {
+      "table_id": "ocr_heuristic_rows",
+      "parser": "regex_heuristic",
+      "rows": [
+        {
+          "biomarker": "TOTAL LEUCOCYTE CCNT(C",
+          "biomarker_normalized": "TOTAL LEUCOCYTE CCNT(C",
+          "value": "9",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "TOTAL LEUCOCYTE CCNT(C- 9, ?/Mm",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~YMpF DCne",
+          "biomarker_normalized": "~YMpF DCne",
+          "value": "40.8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~YMpF DCne-40.8%",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "~MCNOC TE",
+          "biomarker_normalized": "~MCNOC TE",
+          "value": "3.8",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~MCNOC TE-3.8",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "EOSNOPHL>",
+          "biomarker_normalized": "EOSNOPHL>",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "EOSNOPHL>3\"",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "RBC(RcaBoodCcll:,",
+          "biomarker_normalized": "RBC(RcaBoodCcll:,",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "RBC(RcaBoodCcll:, 3AGMillions/cLMm",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "~MC\"",
+          "biomarker_normalized": "~MC\"",
+          "value": "-92.30",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~MC\"-92.30 cubicm Icton",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~MCH",
+          "biomarker_normalized": "~MCH",
+          "value": "30",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~MCH-30 1 gram",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~MCHC",
+          "biomarker_normalized": "~MCHC",
+          "value": "32",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~MCHC 32 6",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "BLCOD SUGAR RANDOM",
+          "biomarker_normalized": "BLCOD SUGAR RANDOM",
+          "value": "110",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BLCOD SUGAR RANDOM-110",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "Sodilm",
+          "biomarker_normalized": "Sodilm",
+          "value": "145",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "Sodilm-145,0",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "POTASSiUM",
+          "biomarker_normalized": "POTASSiUM",
+          "value": "47",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "POTASSiUM-47",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "TOTAL BIIRUBIN",
+          "biomarker_normalized": "TOTAL BIIRUBIN",
+          "value": "0.67",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "TOTAL BIIRUBIN 0.67 meldl",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CCNUGATED (D. Dili-ubin)",
+          "biomarker_normalized": "CCNUGATED (D. Dili-ubin)",
+          "value": "0.35",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CCNUGATED (D. Dili-ubin) 0.35 mpldi",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "TOTAL PROTEING",
+          "biomarker_normalized": "TOTAL PROTEING",
+          "value": "7",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "TOTAL PROTEING: 7,2SgnV/4]",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SERUM ALBUMIN",
+          "biomarker_normalized": "SERUM ALBUMIN",
+          "value": "3.61",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SERUM ALBUMIN- 3.61 gn/dl",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "AST / SGoT",
+          "biomarker_normalized": "AST / SGoT",
+          "value": "42",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AST / SGoT 42,oiu/l",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "ALt/SG '|",
+          "biomarker_normalized": "ALt/SG '|",
+          "value": "-43",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ALt/SG '|-43 DDU/L",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "AL AVNE PHOSPHATASE",
+          "biomarker_normalized": "AL AVNE PHOSPHATASE",
+          "value": "93",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "AL AVNE PHOSPHATASE-93.C0",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SerUM CFEATIMNE",
+          "biomarker_normalized": "SerUM CFEATIMNE",
+          "value": "0.95",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SerUM CFEATIMNE 0.95 meldi",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "UrIc ACID +",
+          "biomarker_normalized": "UrIc ACID +",
+          "value": "15",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "UrIc ACID + 15 mejdl",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "ca QLAYTITATIVE",
+          "biomarker_normalized": "ca QLAYTITATIVE",
+          "value": "12",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "ca QLAYTITATIVE-12 A",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~LYMPHCOT",
+          "biomarker_normalized": "~LYMPHCOT",
+          "value": "-4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~LYMPHCOT -4,35",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "~MO CCTTE",
+          "biomarker_normalized": "~MO CCTTE",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~MO CCTTE 4,2",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~OJNOPHL",
+          "biomarker_normalized": "~OJNOPHL",
+          "value": "22",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~OJNOPHL 22\"",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "~PLATELET CCUNT",
+          "biomarker_normalized": "~PLATELET CCUNT",
+          "value": "131",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~PLATELET CCUNT-131 /NL",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~R8 {Redeoouce Is}",
+          "biomarker_normalized": "~R8 {Redeoouce Is}",
+          "value": "3",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~R8 {Redeoouce Is} 3 41MIlllens{cumm",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~MCV",
+          "biomarker_normalized": "~MCV",
+          "value": "93.50",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~MCV - 93.50 cubicmicron",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "McH",
+          "biomarker_normalized": "McH",
+          "value": "19",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "McH- 19,9 Cram",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "~cHC",
+          "biomarker_normalized": "~cHC",
+          "value": "32",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "~cHC 32,0",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "BLOOD SUGAR RANDOM",
+          "biomarker_normalized": "BLOOD SUGAR RANDOM",
+          "value": "131",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "BLOOD SUGAR RANDOM-131",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "SODIJM",
+          "biomarker_normalized": "SODIJM",
+          "value": "1120",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "SODIJM - 1120",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "POIASSiUM",
+          "biomarker_normalized": "POIASSiUM",
+          "value": "4",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "POIASSiUM-4,9",
+          "confidence": 0.5
+        },
+        {
+          "biomarker": "TCTAL BILIRUBIN",
+          "biomarker_normalized": "TCTAL BILIRUBIN",
+          "value": "0.15",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "TCTAL BILIRUBIN 0.15 mg/cl",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "CONUGATEO |D. Dillrubin)",
+          "biomarker_normalized": "CONUGATEO |D. Dillrubin)",
+          "value": "-0.43",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "CONUGATEO |D. Dillrubin)-0.43 meldl",
+          "confidence": 0.7
+        },
+        {
+          "biomarker": "N2",
+          "biomarker_normalized": "N2",
+          "value": "4342",
+          "unit": "",
+          "reference_range": "",
+          "source_line": "N24342",
+          "confidence": 0.5
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "page_count": 1,
+    "source_type": "image",
+    "has_text": true,
+    "ocr_blocks": 78,
+    "ocr_avg_confidence": 0.3554,
+    "parsed_row_count": 35
+  }
+}
