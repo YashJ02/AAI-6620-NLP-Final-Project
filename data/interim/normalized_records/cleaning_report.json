@@ -1,0 +1,137 @@
+{
+  "initial_rows": 336969,
+  "steps": [
+    {
+      "step": "Remove non-medical fields",
+      "removed": 60422,
+      "remaining": 276547,
+      "fields_removed": [
+        "age",
+        "bmi",
+        "diabetes",
+        "diagnosis",
+        "hypertension",
+        "mortality",
+        "patient_id",
+        "readmission_30d",
+        "sex",
+        "visit"
+      ]
+    },
+    {
+      "step": "Drop null values",
+      "removed": 0,
+      "remaining": 276547
+    },
+    {
+      "step": "Canonicalize biomarker names and units",
+      "mapped": 276547,
+      "unmapped_biomarkers": []
+    },
+    {
+      "step": "Normalize Platelet_Count to 10^3/uL",
+      "converted": 417
+    },
+    {
+      "step": "Normalize WBC to 10^3/uL",
+      "converted": 417
+    },
+    {
+      "step": "Convert Lymphocyte_Pct from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Convert Basophil_Pct from decimal to percentage",
+      "converted": 1
+    },
+    {
+      "step": "Convert Hematocrit from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Convert RDW from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Convert Monocyte_Pct from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Convert Neutrophil_Pct from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Convert Eosinophil_Pct from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Remove zero/negative values",
+      "removed": 0,
+      "remaining": 276547
+    },
+    {
+      "step": "Remove rows with missing units",
+      "removed": 0,
+      "remaining": 276547
+    },
+    {
+      "step": "Remove clinically implausible values",
+      "removed": 2,
+      "remaining": 276545
+    },
+    {
+      "step": "Remove duplicate rows",
+      "removed": 6,
+      "remaining": 276539
+    }
+  ],
+  "final_rows": 276539,
+  "final_biomarkers": 43,
+  "final_biomarker_counts": {
+    "Diastolic_BP": 34841,
+    "Blood_Glucose": 34839,
+    "Systolic_BP": 34838,
+    "Hemoglobin": 25257,
+    "MCV": 25255,
+    "HDL_Cholesterol": 24840,
+    "LDL_Cholesterol": 24840,
+    "Triglycerides": 24840,
+    "HbA1c": 24838,
+    "Total_Cholesterol": 10002,
+    "Creatinine": 10000,
+    "MCH": 419,
+    "MCHC": 419,
+    "Platelet_Count": 419,
+    "RBC": 419,
+    "WBC": 419,
+    "Heart_Rate": 3,
+    "Adiponectin": 2,
+    "Albumin": 2,
+    "Basophils": 2,
+    "CRP": 2,
+    "Eosinophil_Pct": 2,
+    "Eosinophils": 2,
+    "HOMA_IR": 2,
+    "HbA1c_IFCC": 2,
+    "Hematocrit": 2,
+    "Homocysteine": 2,
+    "IgA": 2,
+    "IgE": 2,
+    "IgG": 2,
+    "IgM": 2,
+    "Insulin": 2,
+    "Lymphocyte_Pct": 2,
+    "Lymphocytes": 2,
+    "MPV": 2,
+    "Monocyte_Pct": 2,
+    "Monocytes": 2,
+    "Neutrophil_Pct": 2,
+    "Neutrophils": 2,
+    "Prealbumin": 2,
+    "RDW": 2,
+    "TNF_Alpha": 2,
+    "Basophil_Pct": 1
+  },
+  "removed_total": 60430,
+  "removal_pct": 17.9
+}

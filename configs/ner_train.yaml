@@ -1,10 +1,10 @@
 model:
   name: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
 training:
-  epochs: 8
-  batch_size: 16
+  epochs: 12
+  batch_size: 32
   learning_rate: 3e-5
-  max_length: 128
+  max_length: 64
   weight_decay: 0.01
   warmup_ratio: 0.1
   logging_steps: 50

@@ -23,21 +23,36 @@ source .venv/bin/activate
 export PYTHONPATH="$SLURM_SUBMIT_DIR:${PYTHONPATH:-}"
 
 # Helpful runtime info
+echo "=== GPU Info ==="
 python - <<'PY'
 import torch
 print("CUDA available:", torch.cuda.is_available())
 print("GPU count:", torch.cuda.device_count())
 if torch.cuda.is_available():
     print("GPU name:", torch.cuda.get_device_name(0))
+    print("GPU memory:", round(torch.cuda.get_device_properties(0).total_mem / 1e9, 1), "GB")
 PY
 
+echo ""
+echo "=== Training Config ==="
+cat configs/ner_train.yaml
+echo ""
+
+# Count training data
+echo "=== Data Stats ==="
+wc -l data/processed/train.jsonl data/processed/val.jsonl data/processed/test.jsonl
+echo ""
+
 # Train NER model
+echo "=== Starting Training ==="
 python scripts/run_ner_training.py \
   --config configs/ner_train.yaml \
   --data-dir data/processed \
   --output-dir artifacts/models/pubmedbert_ner
 
-# Evaluate NER + retrieval after training
+# Evaluate NER on test set
+echo ""
+echo "=== Running Evaluation ==="
 python scripts/run_evaluation.py \
   --data-dir data/processed \
   --model-dir artifacts/models/pubmedbert_ner/model \
@@ -45,4 +60,9 @@ python scripts/run_evaluation.py \
   --top-k 5 \
   --output artifacts/metrics/evaluation_metrics.json
 
+echo ""
+echo "=== Evaluation Results ==="
+cat artifacts/metrics/evaluation_metrics.json
+
+echo ""
 echo "[OK] Training + evaluation finished"

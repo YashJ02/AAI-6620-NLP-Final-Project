@@ -23,33 +23,45 @@ TOKEN_RE = re.compile(r"\S+")
 # ---------------------------------------------------------------------------
 # Medical biomarkers only (exclude demographic / outcome fields)
 # ---------------------------------------------------------------------------
-EXCLUDE_BIOMARKERS = {
-    "age", "bmi", "mortality", "readmission_30d", "diabetes",
-    "hypertension", "visit",
-}
+EXCLUDE_BIOMARKERS: set[str] = set()  # Already cleaned in clean_observations.py
 
 # Canonical display names for biomarkers (how they appear in real reports)
 BIOMARKER_ALIASES: dict[str, list[str]] = {
-    "blood_glucose": ["Blood Glucose", "BLOOD SUGAR RANDOM", "Blood Sugar", "Glucose", "GLUCOSE", "RBS", "FBS", "Fasting Blood Sugar", "Random Blood Sugar", "Glu"],
-    "glucose": ["Glucose", "GLUCOSE", "Blood Sugar", "RBS", "BLOOD SUGAR", "Glu", "Fasting Glucose"],
-    "haemoglobin": ["Haemoglobin", "Hemoglobin", "HEMOGLOBIN", "Hb", "HB", "HGB", "Hgb"],
-    "hemoglobin": ["Hemoglobin", "HEMOGLOBIN", "Haemoglobin", "Hb", "HB", "HGB", "Hgb"],
-    "hdl": ["HDL", "HDL Cholesterol", "HDL-C", "HDL CHOLESTEROL", "High Density Lipoprotein"],
-    "ldl": ["LDL", "LDL Cholesterol", "LDL-C", "LDL CHOLESTEROL", "Low Density Lipoprotein"],
-    "cholesterol": ["Total Cholesterol", "TOTAL CHOLESTEROL", "Cholesterol", "CHOLESTEROL", "Serum Cholesterol", "T.Cholesterol"],
-    "triglycerides": ["Triglycerides", "TRIGLYCERIDES", "TG", "Triglyceride", "TRIGLYCERIDE"],
-    "hba1c": ["HbA1C", "HbA1c", "GLYCOSYLATED HEMOGLOBIN", "Glycated Hemoglobin", "HBA1C", "A1C"],
-    "creatinine": ["Creatinine", "CREATININE", "Serum Creatinine", "S.Creatinine", "S. Creatinine", "SERUM CREATININE"],
-    "systolic_bp": ["Systolic BP", "Systolic Blood Pressure", "SYSTOLIC BP", "SBP", "Sys BP"],
-    "diastolic_bp": ["Diastolic BP", "Diastolic Blood Pressure", "DIASTOLIC BP", "DBP", "Dia BP"],
-    "red_blood_cells": ["RBC", "Red Blood Cells", "RED BLOOD CELLS", "RBC COUNT", "Total RBC", "Erythrocyte Count", "RBC Count"],
-    "white_blood_cells": ["WBC", "White Blood Cells", "WHITE BLOOD CELLS", "WBC COUNT", "Total WBC", "Leukocyte Count", "Total W.B.C", "WBC Count"],
-    "platelet_count": ["Platelet Count", "PLATELET COUNT", "Platelets", "PLATELETS", "PLT", "Plt Count"],
-    "mcv": ["MCV", "Mean Corpuscular Volume", "MEAN CORPUSCULAR VOLUME"],
-    "mch": ["MCH", "Mean Corpuscular Hemoglobin", "MEAN CORPUSCULAR HEMOGLOBIN", "Mean Corp. Hb"],
-    "mchc": ["MCHC", "Mean Corpuscular Hb Conc", "MEAN CORPUSCULAR HB CONC", "Mean Corp. Hb Conc."],
-    "eritrosit": ["Erythrocyte", "RBC", "Eritrosit", "Red Cell Count"],
-    "ferritin": ["Ferritin", "FERRITIN", "Serum Ferritin", "S.Ferritin"],
+    # Uses canonical names from clean_observations.py
+    "Blood_Glucose": ["Blood Glucose", "BLOOD SUGAR RANDOM", "Blood Sugar", "Glucose", "GLUCOSE", "RBS", "FBS", "Fasting Blood Sugar", "Random Blood Sugar", "Glu", "BLOOD SUGAR", "Blood Sugar Random", "Fasting Glucose"],
+    "Hemoglobin": ["Hemoglobin", "HEMOGLOBIN", "Haemoglobin", "Hb", "HB", "HGB", "Hgb", "HAEMOGLOBIN"],
+    "HDL_Cholesterol": ["HDL", "HDL Cholesterol", "HDL-C", "HDL CHOLESTEROL", "High Density Lipoprotein", "HDL-Cholesterol"],
+    "LDL_Cholesterol": ["LDL", "LDL Cholesterol", "LDL-C", "LDL CHOLESTEROL", "Low Density Lipoprotein", "LDL-Cholesterol"],
+    "Total_Cholesterol": ["Total Cholesterol", "TOTAL CHOLESTEROL", "Cholesterol", "CHOLESTEROL", "Serum Cholesterol", "T.Cholesterol", "TC"],
+    "Triglycerides": ["Triglycerides", "TRIGLYCERIDES", "TG", "Triglyceride", "TRIGLYCERIDE", "Serum Triglycerides"],
+    "HbA1c": ["HbA1c", "HbA1C", "GLYCOSYLATED HEMOGLOBIN", "Glycated Hemoglobin", "HBA1C", "A1C", "Glycated Hb"],
+    "Creatinine": ["Creatinine", "CREATININE", "Serum Creatinine", "S.Creatinine", "S. Creatinine", "SERUM CREATININE", "Creat"],
+    "Systolic_BP": ["Systolic BP", "Systolic Blood Pressure", "SYSTOLIC BP", "SBP", "Sys BP"],
+    "Diastolic_BP": ["Diastolic BP", "Diastolic Blood Pressure", "DIASTOLIC BP", "DBP", "Dia BP"],
+    "RBC": ["RBC", "Red Blood Cells", "RED BLOOD CELLS", "RBC COUNT", "Total RBC", "Erythrocyte Count", "RBC Count", "Erythrocytes"],
+    "WBC": ["WBC", "White Blood Cells", "WHITE BLOOD CELLS", "WBC COUNT", "Total WBC", "Leukocyte Count", "Total W.B.C", "WBC Count", "Leucocytes"],
+    "Platelet_Count": ["Platelet Count", "PLATELET COUNT", "Platelets", "PLATELETS", "PLT", "Plt Count", "Thrombocytes"],
+    "MCV": ["MCV", "Mean Corpuscular Volume", "MEAN CORPUSCULAR VOLUME"],
+    "MCH": ["MCH", "Mean Corpuscular Hemoglobin", "MEAN CORPUSCULAR HEMOGLOBIN", "Mean Corp. Hb"],
+    "MCHC": ["MCHC", "Mean Corpuscular Hb Conc", "MEAN CORPUSCULAR HB CONC", "Mean Corp. Hb Conc."],
+    "Hematocrit": ["Hematocrit", "HEMATOCRIT", "HCT", "Hct", "PCV", "Packed Cell Volume"],
+    "RDW": ["RDW", "Red Cell Distribution Width", "RDW-CV"],
+    "MPV": ["MPV", "Mean Platelet Volume", "MEAN PLATELET VOLUME"],
+    "Insulin": ["Insulin", "INSULIN", "Fasting Insulin", "Serum Insulin"],
+    "Albumin": ["Albumin", "ALBUMIN", "Serum Albumin", "S. Albumin"],
+    "CRP": ["CRP", "C-Reactive Protein", "C Reactive Protein", "hs-CRP"],
+    "Heart_Rate": ["Heart Rate", "HEART RATE", "Pulse", "HR", "Pulse Rate"],
+    "Lymphocytes": ["Lymphocytes", "LYMPHOCYTES", "Lymph", "Lymphocyte Count"],
+    "Monocytes": ["Monocytes", "MONOCYTES", "Mono", "Monocyte Count"],
+    "Neutrophils": ["Neutrophils", "NEUTROPHILS", "Neut", "Neutrophil Count", "Polymorphs"],
+    "Eosinophils": ["Eosinophils", "EOSINOPHILS", "Eos", "Eosinophil Count"],
+    "Basophils": ["Basophils", "BASOPHILS", "Baso", "Basophil Count"],
+    "IgA": ["IgA", "Immunoglobulin A", "IMMUNOGLOBULIN A"],
+    "IgG": ["IgG", "Immunoglobulin G", "IMMUNOGLOBULIN G"],
+    "IgM": ["IgM", "Immunoglobulin M", "IMMUNOGLOBULIN M"],
+    "IgE": ["IgE", "Immunoglobulin E", "IMMUNOGLOBULIN E", "Total IgE"],
+    "Homocysteine": ["Homocysteine", "HOMOCYSTEINE", "Serum Homocysteine"],
+    "Prealbumin": ["Prealbumin", "PREALBUMIN", "Transthyretin"],
 }
 
 # Units with common OCR variations
@@ -738,7 +750,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--observations-csv",
-        default="data/interim/normalized_records/biomarker_observations.csv",
+        default="data/interim/normalized_records/biomarker_observations_clean.csv",
     )
     parser.add_argument(
         "--ranges-csv",
