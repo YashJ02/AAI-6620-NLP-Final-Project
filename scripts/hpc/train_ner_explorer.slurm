@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #SBATCH --job-name=ner_pubmedbert
 #SBATCH --partition=gpu
-#SBATCH --gres=gpu:1
+#SBATCH --gres=gpu:h200:1
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=32G
 #SBATCH --time=08:00:00
