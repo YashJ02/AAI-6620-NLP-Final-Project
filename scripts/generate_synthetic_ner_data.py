@@ -95,6 +95,61 @@ def _build_fallback_ranges(obs_df: pd.DataFrame) -> dict[str, tuple[float, float
     return fallback
 
 
+TEMPLATES = [
+    # --- clinical report style ---
+    "{biomarker} : {value} {unit} ( {range} )",
+    "{biomarker} : {value} {unit} (Ref: {range} )",
+    "{biomarker} : {value} {unit} [Normal: {range} ]",
+    "{biomarker} ......... {value} {unit} Reference Range: {range}",
+    "{biomarker} - {value} {unit} Ref Range {range}",
+    "{biomarker} {value} {unit} ( {range} )",
+    "{biomarker} {value} {unit} Normal Range: {range}",
+    # --- sentence style ---
+    "The patient's {biomarker} was {value} {unit} , with a reference range of {range} .",
+    "Lab results show {biomarker} at {value} {unit} ( normal {range} ) .",
+    "Test: {biomarker} Result: {value} {unit} Expected: {range}",
+    "{biomarker} level measured at {value} {unit} against normal range {range} .",
+    "Observed {biomarker} of {value} {unit} ; reference interval {range} .",
+    "Report indicates {biomarker} is {value} {unit} , normal being {range} .",
+    "{biomarker} was found to be {value} {unit} compared to the expected {range} .",
+    # --- table-like / OCR style ---
+    "{biomarker} | {value} | {unit} | {range}",
+    "{biomarker} .. {value} {unit} .. {range}",
+    "Investigation: {biomarker} Value: {value} Unit: {unit} Ref: {range}",
+    "Parameter {biomarker} Observed {value} {unit} Bio Ref {range}",
+    # --- discharge summary style ---
+    "During admission , {biomarker} was recorded as {value} {unit} ( ref {range} ) .",
+    "On investigation , {biomarker} came back {value} {unit} , within the reference of {range} .",
+    "Blood work revealed {biomarker} at {value} {unit} , reference {range} .",
+    "Complete blood count shows {biomarker} {value} {unit} ( {range} ) .",
+    "Biochemistry panel: {biomarker} {value} {unit} Normal {range} .",
+    # --- multi-entity context ---
+    "The {biomarker} value of {value} {unit} falls within reference {range} for this age group .",
+    "Patient presented with {biomarker} of {value} {unit} against expected {range} on day 3 of admission .",
+    "{biomarker} reading was {value} {unit} . Normal reference range is {range} . No action required .",
+    "Urgent: {biomarker} recorded {value} {unit} ( expected {range} ) - please review .",
+]
+
+NOISE_PREFIXES = [
+    "", "", "",  # empty most of the time
+    "Page 2 of 5 ",
+    "Date: 2024-01-15 ",
+    "Patient ID: XXXX ",
+    "Dr. Smith Lab Report ",
+    "CONFIDENTIAL ",
+    "Hospital Lab Services ",
+]
+
+NOISE_SUFFIXES = [
+    "", "", "",
+    " Specimen: Blood",
+    " Method: Automated",
+    " Status: Final",
+    " Collected: Morning",
+    " Fasting: Yes",
+]
+
+
 def _make_example(
     *,
     example_id: int,
@@ -103,16 +158,40 @@ def _make_example(
     unit: str,
     ref_low: float,
     ref_high: float,
+    rng: random.Random | None = None,
 ) -> dict:
+    if rng is None:
+        rng = random.Random(example_id)
+
     biomarker_text = str(biomarker).replace("_", " ").strip()
+    # Random casing variations
+    case_roll = rng.random()
+    if case_roll < 0.15:
+        biomarker_text = biomarker_text.upper()
+    elif case_roll < 0.30:
+        biomarker_text = biomarker_text.lower()
+
     value_text = _format_number(float(value))
     unit_text = str(unit).strip() if str(unit).strip() else "unitless"
     range_text = f"{_format_number(ref_low)}-{_format_number(ref_high)}"
+    # Alternative range formats
+    range_roll = rng.random()
+    if range_roll < 0.2:
+        range_text = f"{_format_number(ref_low)} - {_format_number(ref_high)}"
+    elif range_roll < 0.35:
+        range_text = f"{_format_number(ref_low)} to {_format_number(ref_high)}"
 
-    text = (
-        f"Biomarker {biomarker_text} has value {value_text} {unit_text} "
-        f"with reference range {range_text}."
+    template = rng.choice(TEMPLATES)
+    prefix = rng.choice(NOISE_PREFIXES)
+    suffix = rng.choice(NOISE_SUFFIXES)
+
+    core = template.format(
+        biomarker=biomarker_text,
+        value=value_text,
+        unit=unit_text,
+        range=range_text,
     )
+    text = prefix + core + suffix
 
     bio_start = text.find(biomarker_text)
     val_start = text.find(value_text, bio_start + len(biomarker_text))
@@ -168,6 +247,7 @@ def generate_dataset(
 
     examples: list[dict] = []
     used_fallback = 0
+    rng = random.Random(seed)
 
     for idx, row in obs_df.iterrows():
         biomarker = str(row.get("biomarker", "")).strip()
@@ -205,6 +285,7 @@ def generate_dataset(
                 unit=unit,
                 ref_low=float(ref_low),
                 ref_high=float(ref_high),
+                rng=rng,
             )
         )
 

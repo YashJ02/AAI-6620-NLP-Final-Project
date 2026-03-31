@@ -1,11 +1,11 @@
 {
-  "source_observations": "data\\interim\\normalized_records\\biomarker_observations.csv",
-  "source_ranges": "knowledge_base\\reference_ranges\\biomarker_reference_ranges.csv",
+  "source_observations": "data/interim/normalized_records/biomarker_observations.csv",
+  "source_ranges": "knowledge_base/reference_ranges/biomarker_reference_ranges.csv",
   "total_examples": 12000,
   "train_examples": 9600,
   "val_examples": 1200,
   "test_examples": 1200,
-  "used_fallback_ranges": 11987,
+  "used_fallback_ranges": 322,
   "labels": [
     "BIOMARKER",
     "VALUE",
