@@ -1,0 +1,10 @@
+transformers
+torch
+accelerate
+numpy
+pyyaml
+scikit-learn
+pandas
+sentence-transformers
+faiss-cpu
+jinja2
