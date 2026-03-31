@@ -20,7 +20,7 @@ mkdir -p logs artifacts/models artifacts/metrics
 source .venv/bin/activate
 
 # Ensure src package is importable
-export PYTHONPATH="$SLURM_SUBMIT_DIR:$PYTHONPATH"
+export PYTHONPATH="$SLURM_SUBMIT_DIR:${PYTHONPATH:-}"
 
 # Helpful runtime info
 python - <<'PY'
