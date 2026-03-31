@@ -142,14 +142,18 @@ def train(config_path: str, data_dir: str, output_dir: str) -> None:
 
     args = TrainingArguments(
         output_dir=str(out_dir),
-        learning_rate=float(training_cfg.get("learning_rate", 2e-5)),
-        per_device_train_batch_size=int(training_cfg.get("batch_size", 8)),
-        per_device_eval_batch_size=int(training_cfg.get("batch_size", 8)),
-        num_train_epochs=int(training_cfg.get("epochs", 5)),
+        learning_rate=float(training_cfg.get("learning_rate", 3e-5)),
+        per_device_train_batch_size=int(training_cfg.get("batch_size", 16)),
+        per_device_eval_batch_size=int(training_cfg.get("batch_size", 16)),
+        num_train_epochs=int(training_cfg.get("epochs", 8)),
         weight_decay=float(training_cfg.get("weight_decay", 0.01)),
+        warmup_ratio=float(training_cfg.get("warmup_ratio", 0.1)),
         eval_strategy="epoch",
         save_strategy="epoch",
-        logging_steps=int(training_cfg.get("logging_steps", 20)),
+        load_best_model_at_end=True,
+        metric_for_best_model="token_accuracy",
+        logging_steps=int(training_cfg.get("logging_steps", 50)),
+        fp16=True,
         report_to=[],
     )
 
