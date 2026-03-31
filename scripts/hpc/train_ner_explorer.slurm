@@ -19,6 +19,9 @@ mkdir -p logs artifacts/models artifacts/metrics
 # Activate virtual environment created by setup_env_explorer.sh
 source .venv/bin/activate
 
+# Ensure src package is importable
+export PYTHONPATH="$SLURM_SUBMIT_DIR:$PYTHONPATH"
+
 # Helpful runtime info
 python - <<'PY'
 import torch
