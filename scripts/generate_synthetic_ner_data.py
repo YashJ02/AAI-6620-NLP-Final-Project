@@ -586,6 +586,9 @@ def generate_dataset(
     output_dir: Path,
     max_examples: int,
     seed: int,
+    train_ratio: float,
+    val_ratio: float,
+    test_ratio: float,
 ) -> dict:
     obs_df = pd.read_csv(observations_csv, low_memory=False)
     obs_df = _clean_observations(obs_df)
@@ -709,8 +712,8 @@ def generate_dataset(
         ex["id"] = i
 
     total = len(examples)
-    train_end = int(total * 0.8)
-    val_end = int(total * 0.9)
+    train_end = int(total * train_ratio)
+    val_end = int(total * (train_ratio + val_ratio))
 
     train = examples[:train_end]
     val = examples[train_end:val_end]
@@ -734,6 +737,11 @@ def generate_dataset(
         "train_examples": len(train),
         "val_examples": len(val),
         "test_examples": len(test),
+        "split": {
+            "train": train_ratio,
+            "val": val_ratio,
+            "test": test_ratio,
+        },
         "used_fallback_ranges": used_fallback,
         "labels": labels,
         "seed": seed,
@@ -759,7 +767,16 @@ def main() -> None:
     parser.add_argument("--output-dir", default="data/processed")
     parser.add_argument("--max-examples", type=int, default=15000)
     parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--train-ratio", type=float, default=0.8)
+    parser.add_argument("--val-ratio", type=float, default=0.1)
+    parser.add_argument("--test-ratio", type=float, default=0.1)
     args = parser.parse_args()
+
+    ratios = [float(args.train_ratio), float(args.val_ratio), float(args.test_ratio)]
+    if any(r <= 0 for r in ratios):
+        raise ValueError("train/val/test ratios must all be > 0")
+    if abs(sum(ratios) - 1.0) > 1e-6:
+        raise ValueError("train/val/test ratios must sum to 1.0")
 
     meta = generate_dataset(
         observations_csv=Path(args.observations_csv),
@@ -767,6 +784,9 @@ def main() -> None:
         output_dir=Path(args.output_dir),
         max_examples=int(args.max_examples),
         seed=int(args.seed),
+        train_ratio=float(args.train_ratio),
+        val_ratio=float(args.val_ratio),
+        test_ratio=float(args.test_ratio),
     )
 
     print("[OK] Synthetic NER dataset generated")

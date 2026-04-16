@@ -9,8 +9,10 @@ import numpy as np
 import yaml
 from transformers import AutoModelForTokenClassification
 from transformers import AutoTokenizer
+from transformers import EarlyStoppingCallback
 from transformers import Trainer
 from transformers import TrainingArguments
+from transformers import set_seed
 
 
 def _read_jsonl(path: Path) -> list[dict]:
@@ -89,16 +91,45 @@ class TokenDataset:
         }
 
 
-def _compute_metrics(eval_pred: tuple[np.ndarray, np.ndarray]) -> dict[str, float]:
-    logits, labels = eval_pred
-    preds = np.argmax(logits, axis=-1)
+def _build_compute_metrics(o_label_id: int):
+    def _compute_metrics(eval_pred: tuple[np.ndarray, np.ndarray]) -> dict[str, float]:
+        logits, labels = eval_pred
+        preds = np.argmax(logits, axis=-1)
 
-    valid_mask = labels != -100
-    if not np.any(valid_mask):
-        return {"token_accuracy": 0.0}
+        valid_mask = labels != -100
+        if not np.any(valid_mask):
+            return {
+                "token_accuracy": 0.0,
+                "entity_token_precision": 0.0,
+                "entity_token_recall": 0.0,
+                "entity_token_f1": 0.0,
+                "entity_f1": 0.0,
+            }
 
-    accuracy = float((preds[valid_mask] == labels[valid_mask]).mean())
-    return {"token_accuracy": round(accuracy, 4)}
+        accuracy = float((preds[valid_mask] == labels[valid_mask]).mean())
+
+        true_entity = (labels != o_label_id) & valid_mask
+        pred_entity = (preds != o_label_id) & valid_mask
+        exact_entity_match = (preds == labels) & true_entity
+        entity_label_mismatch = pred_entity & true_entity & (preds != labels)
+
+        tp = int(np.sum(exact_entity_match))
+        fp = int(np.sum((pred_entity & ~true_entity) | entity_label_mismatch))
+        fn = int(np.sum((true_entity & ~pred_entity) | entity_label_mismatch))
+
+        precision = (tp / (tp + fp)) if (tp + fp) else 0.0
+        recall = (tp / (tp + fn)) if (tp + fn) else 0.0
+        f1 = (2 * precision * recall / (precision + recall)) if (precision + recall) else 0.0
+
+        return {
+            "token_accuracy": round(accuracy, 4),
+            "entity_token_precision": round(float(precision), 4),
+            "entity_token_recall": round(float(recall), 4),
+            "entity_token_f1": round(float(f1), 4),
+            "entity_f1": round(float(f1), 4),
+        }
+
+    return _compute_metrics
 
 
 def train(config_path: str, data_dir: str, output_dir: str) -> None:
@@ -120,6 +151,10 @@ def train(config_path: str, data_dir: str, output_dir: str) -> None:
     label_list = _build_label_list(train_rows, val_rows)
     label_to_id = {label: idx for idx, label in enumerate(label_list)}
     id_to_label = {idx: label for label, idx in label_to_id.items()}
+    o_label_id = int(label_to_id.get("O", 0))
+
+    seed = int(training_cfg.get("seed", 42))
+    set_seed(seed)
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     max_length = int(training_cfg.get("max_length", 256))
@@ -140,22 +175,50 @@ def train(config_path: str, data_dir: str, output_dir: str) -> None:
     out_dir = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    args = TrainingArguments(
-        output_dir=str(out_dir),
-        learning_rate=float(training_cfg.get("learning_rate", 3e-5)),
-        per_device_train_batch_size=int(training_cfg.get("batch_size", 16)),
-        per_device_eval_batch_size=int(training_cfg.get("batch_size", 16)),
-        num_train_epochs=int(training_cfg.get("epochs", 8)),
-        weight_decay=float(training_cfg.get("weight_decay", 0.01)),
-        warmup_ratio=float(training_cfg.get("warmup_ratio", 0.1)),
-        eval_strategy="epoch",
-        save_strategy="epoch",
-        load_best_model_at_end=True,
-        metric_for_best_model="token_accuracy",
-        logging_steps=int(training_cfg.get("logging_steps", 50)),
-        fp16=True,
-        report_to=[],
-    )
+    warmup_steps = int(training_cfg.get("warmup_steps", 0))
+    args_kwargs = {
+        "output_dir": str(out_dir),
+        "learning_rate": float(training_cfg.get("learning_rate", 3e-5)),
+        "per_device_train_batch_size": int(training_cfg.get("batch_size", 16)),
+        "per_device_eval_batch_size": int(training_cfg.get("batch_size", 16)),
+        "gradient_accumulation_steps": int(training_cfg.get("gradient_accumulation_steps", 1)),
+        "num_train_epochs": int(training_cfg.get("epochs", 8)),
+        "weight_decay": float(training_cfg.get("weight_decay", 0.01)),
+        "lr_scheduler_type": str(training_cfg.get("lr_scheduler_type", "linear")),
+        "eval_strategy": "epoch",
+        "save_strategy": "epoch",
+        "load_best_model_at_end": True,
+        "metric_for_best_model": str(training_cfg.get("metric_for_best_model", "entity_f1")),
+        "greater_is_better": bool(training_cfg.get("greater_is_better", True)),
+        "logging_steps": int(training_cfg.get("logging_steps", 50)),
+        "seed": seed,
+        "data_seed": seed,
+        "save_total_limit": int(training_cfg.get("save_total_limit", 2)),
+        "bf16": bool(training_cfg.get("bf16", False)),
+        "fp16": bool(training_cfg.get("fp16", True)),
+        "report_to": [],
+    }
+
+    if args_kwargs["bf16"]:
+        args_kwargs["fp16"] = False
+
+    if warmup_steps > 0:
+        args_kwargs["warmup_steps"] = warmup_steps
+    else:
+        args_kwargs["warmup_ratio"] = float(training_cfg.get("warmup_ratio", 0.1))
+
+    args = TrainingArguments(**args_kwargs)
+
+    callbacks = []
+    early_cfg = training_cfg.get("early_stopping", {}) or {}
+    early_patience = int(early_cfg.get("patience", 0))
+    if early_patience > 0:
+        callbacks.append(
+            EarlyStoppingCallback(
+                early_stopping_patience=early_patience,
+                early_stopping_threshold=float(early_cfg.get("threshold", 0.0)),
+            )
+        )
 
     trainer = Trainer(
         model=model,
@@ -163,7 +226,8 @@ def train(config_path: str, data_dir: str, output_dir: str) -> None:
         train_dataset=train_dataset,
         eval_dataset=val_dataset,
         tokenizer=tokenizer,
-        compute_metrics=_compute_metrics,
+        compute_metrics=_build_compute_metrics(o_label_id=o_label_id),
+        callbacks=callbacks,
     )
 
     trainer.train()

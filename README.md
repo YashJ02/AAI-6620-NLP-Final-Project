@@ -119,6 +119,12 @@ Train token-classification model from processed JSONL splits:
 python scripts/run_ner_training.py --config configs/ner_train.yaml --data-dir data/processed --output-dir artifacts/models/pubmedbert_ner
 ```
 
+Regenerate train/val/test with explicit split ratios and seed before training:
+
+```bash
+python scripts/generate_synthetic_ner_data.py --observations-csv data/interim/normalized_records/biomarker_observations_clean.csv --ranges-csv knowledge_base/reference_ranges/biomarker_reference_ranges.csv --output-dir data/processed --max-examples 20000 --seed 42 --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1
+```
+
 Training outputs:
 - `artifacts/models/pubmedbert_ner/model/`
 - `artifacts/models/pubmedbert_ner/label_mapping.json`

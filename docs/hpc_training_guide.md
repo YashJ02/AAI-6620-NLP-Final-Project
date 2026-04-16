@@ -1,44 +1,59 @@
 # Northeastern Explorer HPC Training Guide
 
-This guide runs NER training for this project on Explorer with Slurm.
+This guide covers end-to-end retraining on Explorer, including data refresh and Slurm training.
 
 ## 1) Copy project to Explorer
-From your local machine, sync project once:
 
-rsync -av --progress --exclude ".git" --exclude ".venv" /Users/ruthvikbandari/Desktop/NLP/nlp-final/ Bandari.ru@login.explorer.northeastern.edu:~/nlp-final/
+From local machine:
+
+rsync -av --progress --exclude ".git" --exclude ".venv" /Users/ruthvikbandari/Desktop/NLP/AAI-6620-NLP-Final-Project/ bandari.ru@login.explorer.northeastern.edu:~/AAI-6620-NLP-Final-Project/
 
 ## 2) SSH to Explorer
-ssh Bandari.ru@login.explorer.northeastern.edu
 
-## 3) Prepare Python environment (first time only)
+ssh bandari.ru@login.explorer.northeastern.edu
 
-cd ~/nlp-final
+## 3) Prepare Python environment (first time)
+
+cd ~/AAI-6620-NLP-Final-Project
 bash scripts/hpc/setup_env_explorer.sh
 
-## 4) Submit GPU training job
+## 4) Prepare training data on Explorer
 
-cd ~/nlp-final
+Populate `data/raw/sources_manifest.csv` first, then run:
+
+cd ~/AAI-6620-NLP-Final-Project
+bash scripts/hpc/prepare_data_explorer.sh
+
+This runs:
+- dataset download from manifest
+- normalization + cleaning
+- synthetic NER split regeneration
+- readiness synthesis
+
+## 5) Submit H200 training job
+
+cd ~/AAI-6620-NLP-Final-Project
 sbatch scripts/hpc/train_ner_explorer.slurm
 
-## 5) Monitor status
+## 6) Monitor status
 
-squeue -u Bandari.ru
+squeue -u bandari.ru
 
-## 6) Inspect logs and outputs
+## 7) Inspect outputs
 
-- Slurm logs: `logs/`
-- Model: `artifacts/models/pubmedbert_ner/model/`
-- Label mapping: `artifacts/models/pubmedbert_ner/label_mapping.json`
-- Metrics: `artifacts/metrics/evaluation_metrics.json`
+- Slurm logs: logs/
+- Model: artifacts/models/pubmedbert_ner/model/
+- Label mapping: artifacts/models/pubmedbert_ner/label_mapping.json
+- Metrics: artifacts/metrics/evaluation_metrics.json
+- Data prep report: artifacts/metrics/download_sources_report.json
 
-## 7) Copy artifacts back to local machine
-From your local machine:
+## 8) Copy artifacts back to local machine
 
-rsync -av --progress Bandari.ru@login.explorer.northeastern.edu:~/nlp-final/artifacts/ /Users/ruthvikbandari/Desktop/NLP/nlp-final/artifacts/
+From local machine:
+
+rsync -av --progress bandari.ru@login.explorer.northeastern.edu:~/AAI-6620-NLP-Final-Project/artifacts/ /Users/ruthvikbandari/Desktop/NLP/AAI-6620-NLP-Final-Project/artifacts/
 
 ## Notes
-- Current dataset sizes in this repo are:
-  - `data/processed/train.jsonl`: 9600 rows
-  - `data/processed/val.jsonl`: 1200 rows
-  - `data/processed/test.jsonl`: 1200 rows
-- If your account uses a different GPU partition name, update `--partition=gpu` in the Slurm script.
+
+- If Explorer uses a different partition/QoS/account, update Slurm directives in `scripts/hpc/train_ner_explorer.slurm`.
+- Training now supports warmup, early stopping, and deterministic `seed` from `configs/ner_train.yaml`.
