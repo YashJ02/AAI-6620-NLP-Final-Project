@@ -7,6 +7,20 @@ from pathlib import Path
 
 import numpy as np
 import yaml
+
+try:
+    import datasets as _datasets  # type: ignore
+
+    # Workspace has a top-level "datasets/" folder that can shadow the HF package.
+    # Trainer checks `isinstance(dataset, datasets.Dataset)`; ensure attribute exists.
+    if not hasattr(_datasets, "Dataset"):
+        class _DatasetShim:  # pragma: no cover
+            pass
+
+        _datasets.Dataset = _DatasetShim  # type: ignore[attr-defined]
+except Exception:  # pragma: no cover
+    pass
+
 from transformers import AutoModelForTokenClassification
 from transformers import AutoTokenizer
 from transformers import EarlyStoppingCallback
