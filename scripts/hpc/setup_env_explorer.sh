@@ -6,7 +6,36 @@ set -euo pipefail
 
 cd "$(dirname "$0")/../.."
 
-PYTHON_BIN="${PYTHON_BIN:-python3}"
+choose_python_bin() {
+  if [[ -n "${PYTHON_BIN:-}" ]]; then
+    echo "$PYTHON_BIN"
+    return 0
+  fi
+
+  for cand in python3.11 python3.10 python3; do
+    if ! command -v "$cand" >/dev/null 2>&1; then
+      continue
+    fi
+    if "$cand" - <<'PY' >/dev/null 2>&1
+import sys
+raise SystemExit(0 if sys.version_info >= (3, 10) else 1)
+PY
+    then
+      echo "$cand"
+      return 0
+    fi
+  done
+
+  return 1
+}
+
+if ! PYTHON_BIN="$(choose_python_bin)"; then
+  echo "[ERROR] Python >= 3.10 is required. Set PYTHON_BIN to a compatible interpreter." >&2
+  echo "[ERROR] Example: PYTHON_BIN=python3.10 bash scripts/hpc/setup_env_explorer.sh" >&2
+  exit 1
+fi
+
+echo "[INFO] Using Python interpreter: $PYTHON_BIN"
 VENV_DIR="${VENV_DIR:-.venv}"
 
 if [[ ! -d "$VENV_DIR" ]]; then
