@@ -225,7 +225,6 @@ def train(config_path: str, data_dir: str, output_dir: str) -> None:
         args=args,
         train_dataset=train_dataset,
         eval_dataset=val_dataset,
-        tokenizer=tokenizer,
         compute_metrics=_build_compute_metrics(o_label_id=o_label_id),
         callbacks=callbacks,
     )
