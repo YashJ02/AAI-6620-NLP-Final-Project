@@ -6,6 +6,11 @@ set -euo pipefail
 
 cd "$(dirname "$0")/../.."
 
+if command -v module >/dev/null 2>&1; then
+  PYTHON_MODULE="${PYTHON_MODULE:-python/3.13.5}"
+  module load "$PYTHON_MODULE" || true
+fi
+
 choose_python_bin() {
   if [[ -n "${PYTHON_BIN:-}" ]]; then
     echo "$PYTHON_BIN"

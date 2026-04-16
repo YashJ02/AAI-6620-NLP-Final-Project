@@ -16,6 +16,11 @@ set -euo pipefail
 cd "$SLURM_SUBMIT_DIR"
 mkdir -p logs artifacts/models artifacts/metrics
 
+if command -v module >/dev/null 2>&1; then
+  PYTHON_MODULE="${PYTHON_MODULE:-python/3.13.5}"
+  module load "$PYTHON_MODULE" || true
+fi
+
 # Activate virtual environment created by setup_env_explorer.sh
 source .venv/bin/activate
 

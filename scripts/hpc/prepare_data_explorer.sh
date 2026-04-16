@@ -6,6 +6,12 @@ set -euo pipefail
 #   bash scripts/hpc/prepare_data_explorer.sh
 
 cd "$(dirname "$0")/../.."
+
+if command -v module >/dev/null 2>&1; then
+  PYTHON_MODULE="${PYTHON_MODULE:-python/3.13.5}"
+  module load "$PYTHON_MODULE" || true
+fi
+
 source .venv/bin/activate
 export PYTHONPATH="$PWD:${PYTHONPATH:-}"
 
