@@ -37,10 +37,6 @@
       "converted": 417
     },
     {
-      "step": "Convert Lymphocyte_Pct from decimal to percentage",
-      "converted": 2
-    },
-    {
       "step": "Convert Basophil_Pct from decimal to percentage",
       "converted": 1
     },
@@ -49,7 +45,15 @@
       "converted": 2
     },
     {
-      "step": "Convert RDW from decimal to percentage",
+      "step": "Convert Neutrophil_Pct from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Convert Eosinophil_Pct from decimal to percentage",
+      "converted": 2
+    },
+    {
+      "step": "Convert Lymphocyte_Pct from decimal to percentage",
       "converted": 2
     },
     {
@@ -57,11 +61,7 @@
       "converted": 2
     },
     {
-      "step": "Convert Neutrophil_Pct from decimal to percentage",
-      "converted": 2
-    },
-    {
-      "step": "Convert Eosinophil_Pct from decimal to percentage",
+      "step": "Convert RDW from decimal to percentage",
       "converted": 2
     },
     {

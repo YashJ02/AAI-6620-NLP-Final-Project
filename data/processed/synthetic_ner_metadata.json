@@ -1,10 +1,15 @@
 {
-  "source_observations": "data/interim/normalized_records/biomarker_observations_clean.csv",
+  "source_observations": "data/interim/normalized_records/biomarker_observations_clean_robust.csv",
   "source_ranges": "knowledge_base/reference_ranges/biomarker_reference_ranges.csv",
-  "total_examples": 9081,
-  "train_examples": 7264,
-  "val_examples": 908,
-  "test_examples": 909,
+  "total_examples": 19807,
+  "train_examples": 15845,
+  "val_examples": 1981,
+  "test_examples": 1981,
+  "split": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
   "used_fallback_ranges": 0,
   "labels": [
     "B-BIOMARKER",

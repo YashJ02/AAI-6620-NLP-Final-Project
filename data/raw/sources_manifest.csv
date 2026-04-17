@@ -1,3 +1,4 @@
 source_name,source_url,license,notes,destination_relpath,sha256
-
-
+uci_blood_transfusion,https://archive.ics.uci.edu/ml/machine-learning-databases/blood-transfusion/transfusion.data,UCI,donor/blood related tabular,uci/transfusion.data,
+uci_heart_failure,https://archive.ics.uci.edu/ml/machine-learning-databases/00519/heart_failure_clinical_records_dataset.csv,UCI,clinical biomarkers,uci/heart_failure_clinical_records_dataset.csv,
+pima_diabetes,https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv,Public GitHub mirror,metabolic risk dataset,public/pima-indians-diabetes.data.csv,

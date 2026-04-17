@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/bandari.ru/AAI-6620-NLP-Final-Project/scripts/run_ner_training.py", line 5, in <module>
+    from src.ner.train_pubmedbert import train
+  File "/home/bandari.ru/AAI-6620-NLP-Final-Project/src/ner/train_pubmedbert.py", line 9, in <module>
+    import yaml
+ModuleNotFoundError: No module named 'yaml'

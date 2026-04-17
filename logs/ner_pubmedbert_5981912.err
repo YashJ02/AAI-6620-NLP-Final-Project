@@ -1,0 +1,37 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/197 [00:00<?, ?it/s]Loading weights: 100%|██████████| 197/197 [00:00<00:00, 49510.33it/s]
+[1mBertForTokenClassification LOAD REPORT[0m from: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+Key                                        | Status     | 
+-------------------------------------------+------------+-
+bert.pooler.dense.weight                   | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED | 
+cls.predictions.transform.dense.weight     | UNEXPECTED | 
+cls.seq_relationship.bias                  | UNEXPECTED | 
+cls.seq_relationship.weight                | UNEXPECTED | 
+cls.predictions.decoder.weight             | UNEXPECTED | 
+cls.predictions.transform.dense.bias       | UNEXPECTED | 
+cls.predictions.decoder.bias               | UNEXPECTED | 
+cls.predictions.bias                       | UNEXPECTED | 
+bert.pooler.dense.bias                     | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED | 
+classifier.bias                            | MISSING    | 
+classifier.weight                          | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+warmup_ratio is deprecated and will be removed in v5.2. Use `warmup_steps` instead.
+Traceback (most recent call last):
+  File "/home/bandari.ru/AAI-6620-NLP-Final-Project/scripts/run_ner_training.py", line 32, in <module>
+    main()
+    ~~~~^^
+  File "/home/bandari.ru/AAI-6620-NLP-Final-Project/scripts/run_ner_training.py", line 27, in main
+    train(config_path=args.config, data_dir=args.data_dir, output_dir=args.output_dir)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bandari.ru/AAI-6620-NLP-Final-Project/src/ner/train_pubmedbert.py", line 223, in train
+    trainer = Trainer(
+        model=model,
+    ...<5 lines>...
+        callbacks=callbacks,
+    )
+TypeError: Trainer.__init__() got an unexpected keyword argument 'tokenizer'

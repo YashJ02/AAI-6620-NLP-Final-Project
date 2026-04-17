@@ -1,0 +1,37 @@
+=== GPU Info ===
+CUDA available: True
+GPU count: 1
+GPU name: NVIDIA H200
+GPU memory: 150.1 GB
+
+=== Training Config ===
+model:
+  name: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+training:
+  seed: 42
+  epochs: 18
+  batch_size: 16
+  gradient_accumulation_steps: 2
+  learning_rate: 3e-5
+  max_length: 128
+  weight_decay: 0.01
+  lr_scheduler_type: linear
+  warmup_ratio: 0.1
+  warmup_steps: 0
+  metric_for_best_model: entity_f1
+  greater_is_better: true
+  save_total_limit: 2
+  logging_steps: 25
+  fp16: true
+  bf16: false
+  early_stopping:
+    patience: 3
+    threshold: 0.0005
+
+=== Data Stats ===
+  15845 data/processed/train.jsonl
+   1981 data/processed/val.jsonl
+   1981 data/processed/test.jsonl
+  19807 total
+
+=== Starting Training ===

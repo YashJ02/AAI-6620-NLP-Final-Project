@@ -6594,9 +6594,12 @@ FINAL FOOD DATASET/METADATA/GROUP-2_analysis_summary.csv,.csv,1316,nutrition_met
 FINAL FOOD DATASET/METADATA/GROUP-3_analysis_summary.csv,.csv,1316,nutrition_metadata
 FINAL FOOD DATASET/METADATA/GROUP-4_analysis_summary.csv,.csv,1314,nutrition_metadata
 FINAL FOOD DATASET/METADATA/GROUP-5_analysis_summary.csv,.csv,1330,nutrition_metadata
+external/uci/transfusion.data,.data,12843,other
 FINAL FOOD DATASET/DATASET/GROUP-1_Description.csv,.csv,2905,other_csv
 FINAL FOOD DATASET/DATASET/GROUP-2_Description.csv,.csv,2963,other_csv
 FINAL FOOD DATASET/DATASET/GROUP-3_Description.csv,.csv,2910,other_csv
 FINAL FOOD DATASET/DATASET/GROUP-4_Description.csv,.csv,2937,other_csv
 FINAL FOOD DATASET/DATASET/GROUP-5_Description.csv,.csv,2981,other_csv
+external/public/pima-indians-diabetes.data.csv,.csv,23278,other_csv
+external/uci/heart_failure_clinical_records_dataset.csv,.csv,12239,other_csv
 cbc information.xlsx,.xlsx,68258,spreadsheet_reference

@@ -1,0 +1,25 @@
+{
+  "input_rows": 276539,
+  "output_rows": 276485,
+  "removed_rows": 54,
+  "kept_biomarkers": [
+    "Blood_Glucose",
+    "Creatinine",
+    "Diastolic_BP",
+    "HDL_Cholesterol",
+    "HbA1c",
+    "Hemoglobin",
+    "LDL_Cholesterol",
+    "MCH",
+    "MCHC",
+    "MCV",
+    "Platelet_Count",
+    "RBC",
+    "Systolic_BP",
+    "Total_Cholesterol",
+    "Triglycerides",
+    "WBC"
+  ],
+  "kept_biomarker_count": 16,
+  "min_samples_per_biomarker": 100
+}
