@@ -1,0 +1,48 @@
+{
+  "add_cross_attention": false,
+  "architectures": [
+    "BertForTokenClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": null,
+  "classifier_dropout": null,
+  "dtype": "float32",
+  "eos_token_id": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "B-BIOMARKER",
+    "1": "B-REFERENCE_RANGE",
+    "2": "B-UNIT",
+    "3": "B-VALUE",
+    "4": "I-BIOMARKER",
+    "5": "I-REFERENCE_RANGE",
+    "6": "I-UNIT",
+    "7": "O"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "is_decoder": false,
+  "label2id": {
+    "B-BIOMARKER": 0,
+    "B-REFERENCE_RANGE": 1,
+    "B-UNIT": 2,
+    "B-VALUE": 3,
+    "I-BIOMARKER": 4,
+    "I-REFERENCE_RANGE": 5,
+    "I-UNIT": 6,
+    "O": 7
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "tie_word_embeddings": true,
+  "transformers_version": "5.5.4",
+  "type_vocab_size": 2,
+  "use_cache": false,
+  "vocab_size": 30522
+}
