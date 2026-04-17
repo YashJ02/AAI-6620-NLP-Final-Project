@@ -177,6 +177,45 @@ Evaluation output:
 - `artifacts/metrics/evaluation_metrics.json`
 - Contains NER token metrics and retrieval precision/recall/MRR
 
+## Latest Training Results (April 2026)
+
+Final single-run evaluation (HPC):
+
+- NER token accuracy: `0.9233`
+- NER entity precision: `0.9621`
+- NER entity recall: `0.8236`
+- NER entity F1: `0.8875`
+
+5-fold cross-validation summary (robustness check):
+
+- Entity-token F1 mean: `0.8902`
+- Entity-token F1 std: `0.0034`
+- Precision mean: `0.9561`
+- Recall mean: `0.8329`
+- Token accuracy mean: `0.9235`
+
+Cross-validation artifacts:
+
+- `artifacts/runs/cv5/fold_0.json`
+- `artifacts/runs/cv5/fold_1.json`
+- `artifacts/runs/cv5/fold_2.json`
+- `artifacts/runs/cv5/fold_3.json`
+- `artifacts/runs/cv5/fold_4.json`
+- `artifacts/runs/cv5/summary.json`
+
+## Model Artifacts and Git LFS
+
+The final PubMedBERT model is committed with Git LFS under:
+
+- `artifacts/models/pubmedbert_ner/model/`
+
+To fetch model files after cloning:
+
+```bash
+git lfs install
+git lfs pull
+```
+
 ## Detailed Folder Structure (Implementation)
 
 Use the following structure to keep data, models, services, and experiments cleanly separated:
@@ -294,7 +333,7 @@ Completed:
 
 Next:
 - Implement real OCR extraction for scanned PDFs in `surya_ocr_extractor.py`
-- Finalize annotation set and retrain NER with larger, cleaner labels
+- Improve retrieval quality (current retrieval benchmark remains lower than NER quality)
 - Add production smoke tests and refresh docs/contracts for release
 
 ## Team Responsibilities (Primary Ownership)
