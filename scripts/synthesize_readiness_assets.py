@@ -6,6 +6,11 @@ import argparse
 import json
 from pathlib import Path
 
+from _bootstrap import ensure_project_root_on_path
+
+
+ensure_project_root_on_path()
+
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer

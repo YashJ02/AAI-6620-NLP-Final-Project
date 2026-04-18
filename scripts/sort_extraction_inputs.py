@@ -7,6 +7,11 @@ import json
 import shutil
 from pathlib import Path
 
+from _bootstrap import ensure_project_root_on_path
+
+
+ensure_project_root_on_path()
+
 from src.extraction.router import route_document
 
 

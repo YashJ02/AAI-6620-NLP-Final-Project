@@ -2,6 +2,11 @@
 
 import argparse
 
+from _bootstrap import ensure_project_root_on_path
+
+
+ensure_project_root_on_path()
+
 from src.ner.train_pubmedbert import train
 
 

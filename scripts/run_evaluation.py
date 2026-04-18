@@ -5,6 +5,12 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
+from typing import Any
+
+from _bootstrap import ensure_project_root_on_path
+
+
+ensure_project_root_on_path()
 
 import torch
 from transformers import AutoModelForTokenClassification
@@ -13,10 +19,10 @@ from transformers import AutoTokenizer
 from src.recommendation.service import generate_recommendations
 
 
-def _read_jsonl(path: Path) -> list[dict]:
+def _read_jsonl(path: Path) -> list[dict[str, Any]]:
     if not path.exists():
         return []
-    rows: list[dict] = []
+    rows: list[dict[str, Any]] = []
     with path.open("r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -26,7 +32,7 @@ def _read_jsonl(path: Path) -> list[dict]:
     return rows
 
 
-def _evaluate_ner(test_rows: list[dict], model_dir: Path, max_length: int = 256) -> dict:
+def _evaluate_ner(test_rows: list[dict[str, Any]], model_dir: Path, max_length: int = 256) -> dict[str, Any]:
     if not test_rows:
         return {"status": "skipped", "reason": "empty_test_set"}
     if not model_dir.exists():
@@ -115,28 +121,36 @@ def _evaluate_ner(test_rows: list[dict], model_dir: Path, max_length: int = 256)
     }
 
 
-def _evaluate_retrieval(benchmark_rows: list[dict], top_k: int = 5) -> dict:
+def _evaluate_retrieval(benchmark_rows: list[dict[str, Any]], top_k: int = 5) -> dict[str, Any]:
     if not benchmark_rows:
         return {"status": "skipped", "reason": "missing_or_empty_benchmark"}
 
     precisions: list[float] = []
     recalls: list[float] = []
     mrrs: list[float] = []
+    skipped_rows = 0
+    error_rows = 0
 
     for row in benchmark_rows:
         query = str(row.get("query", "")).strip()
         relevant_ids = [str(x) for x in row.get("relevant_ids", [])]
         if not query or not relevant_ids:
+            skipped_rows += 1
             continue
 
-        rec = generate_recommendations(
-            interpreted_rows=[],
-            ner_entities=[],
-            status_summary={"low": 0, "normal": 0, "high": 0, "unknown": 0},
-            patient_id="eval",
-            query=query,
-            top_k=top_k,
-        )
+        try:
+            rec = generate_recommendations(
+                interpreted_rows=[],
+                ner_entities=[],
+                status_summary={"low": 0, "normal": 0, "high": 0, "unknown": 0},
+                patient_id="eval",
+                query=query,
+                top_k=top_k,
+            )
+        except Exception:
+            error_rows += 1
+            continue
+
         result_ids = [str(item.get("id", "")) for item in rec.get("results", [])[:top_k]]
 
         hits = [rid for rid in result_ids if rid in relevant_ids]
@@ -158,7 +172,10 @@ def _evaluate_retrieval(benchmark_rows: list[dict], top_k: int = 5) -> dict:
 
     return {
         "status": "ok",
+        "benchmark_row_count": len(benchmark_rows),
         "query_count": len(precisions),
+        "skipped_rows": skipped_rows,
+        "error_rows": error_rows,
         "precision_at_k": round(sum(precisions) / len(precisions), 4),
         "recall_at_k": round(sum(recalls) / len(recalls), 4),
         "mrr_at_k": round(sum(mrrs) / len(mrrs), 4),
@@ -166,7 +183,7 @@ def _evaluate_retrieval(benchmark_rows: list[dict], top_k: int = 5) -> dict:
     }
 
 
-def main() -> None:
+def _parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Evaluate NER and recommendation retrieval")
     parser.add_argument("--data-dir", default="data/processed", help="Directory with test.jsonl")
     parser.add_argument("--model-dir", default="artifacts/models/pubmedbert_ner/model", help="NER model directory")
@@ -177,13 +194,18 @@ def main() -> None:
     )
     parser.add_argument("--top-k", type=int, default=5, help="Top-k for retrieval metrics")
     parser.add_argument("--output", default="artifacts/metrics/evaluation_metrics.json", help="Output metrics JSON path")
-    args = parser.parse_args()
+    return parser.parse_args()
+
+
+def main() -> None:
+    args = _parse_args()
+    top_k = max(1, int(args.top_k))
 
     test_rows = _read_jsonl(Path(args.data_dir) / "test.jsonl")
     benchmark_rows = _read_jsonl(Path(args.retrieval_benchmark))
 
     ner_metrics = _evaluate_ner(test_rows=test_rows, model_dir=Path(args.model_dir))
-    retrieval_metrics = _evaluate_retrieval(benchmark_rows=benchmark_rows, top_k=args.top_k)
+    retrieval_metrics = _evaluate_retrieval(benchmark_rows=benchmark_rows, top_k=top_k)
 
     report = {
         "ner": ner_metrics,

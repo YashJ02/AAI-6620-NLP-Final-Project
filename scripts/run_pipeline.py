@@ -4,6 +4,11 @@ import argparse
 import json
 from pathlib import Path
 
+from _bootstrap import ensure_project_root_on_path
+
+
+ensure_project_root_on_path()
+
 from src.extraction.pymupdf_extractor import extract_text_pymupdf
 from src.extraction.router import is_supported_document
 from src.extraction.router import route_document

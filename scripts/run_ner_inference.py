@@ -4,6 +4,11 @@ import argparse
 import json
 from pathlib import Path
 
+from _bootstrap import ensure_project_root_on_path
+
+
+ensure_project_root_on_path()
+
 from src.ner.infer_pubmedbert import predict
 
 

@@ -1,9 +1,14 @@
 """API routes for extraction, NER, interpretation, and full pipeline."""
 
+import tempfile
 from pathlib import Path
+from shutil import copyfileobj
 
 from fastapi import APIRouter
+from fastapi import File
+from fastapi import Form
 from fastapi import HTTPException
+from fastapi import UploadFile
 
 from src.api.models import ExtractionRequest
 from src.api.models import InterpretationRequest
@@ -26,7 +31,13 @@ def _extract_from_source(source_path: Path) -> dict:
 	engine = route_document(str(source_path))
 	if engine == "pymupdf":
 		return extract_text_pymupdf(str(source_path))
-	return extract_text_surya(str(source_path))
+	try:
+		return extract_text_surya(str(source_path))
+	except RuntimeError as exc:
+		# If OCR runtime is unavailable for a PDF, fallback to text extraction instead of hard failing.
+		if source_path.suffix.lower() == ".pdf" and "easyocr runtime is unavailable" in str(exc):
+			return extract_text_pymupdf(str(source_path))
+		raise
 
 
 def _predict_entities(text: str, model_dir: str) -> list[dict]:
@@ -38,11 +49,75 @@ def _predict_entities(text: str, model_dir: str) -> list[dict]:
 	return predict(text=text, model_dir=model_dir)
 
 
+def _run_pipeline_for_source(
+	source_path: Path,
+	*,
+	model_dir: str,
+	source_display_path: str | None = None,
+	document_id_fallback: str | None = None,
+) -> dict:
+	try:
+		extraction_output = _extract_from_source(source_path)
+	except FileNotFoundError as exc:
+		raise HTTPException(status_code=400, detail=str(exc)) from exc
+	except RuntimeError as exc:
+		raise HTTPException(status_code=503, detail=str(exc)) from exc
+
+	full_text = extraction_output.get("full_text", "")
+
+	try:
+		ner_entities = _predict_entities(text=full_text, model_dir=model_dir) if full_text else []
+	except FileNotFoundError as exc:
+		raise HTTPException(status_code=400, detail=str(exc)) from exc
+	except RuntimeError as exc:
+		raise HTTPException(status_code=500, detail=str(exc)) from exc
+
+	tables = extraction_output.get("tables", [])
+	rows = []
+	if tables and isinstance(tables[0], dict):
+		rows = tables[0].get("rows", []) if isinstance(tables[0].get("rows", []), list) else []
+
+	interpreted_rows = classify_records(rows)
+	status_summary = summarize_statuses(interpreted_rows)
+
+	document_id = extraction_output.get("document_id")
+	if not document_id:
+		document_id = document_id_fallback or source_path.stem
+
+	recommendation = generate_recommendations(
+		interpreted_rows=interpreted_rows,
+		ner_entities=ner_entities,
+		status_summary=status_summary,
+		patient_id=document_id,
+		top_k=5,
+	)
+
+	return {
+		"document_id": document_id,
+		"source_path": source_display_path or str(source_path),
+		"extraction": extraction_output,
+		"ner": {
+			"entity_count": len(ner_entities),
+			"entities": ner_entities,
+		},
+		"interpretation": {
+			"row_count": len(interpreted_rows),
+			"status_summary": status_summary,
+			"rows": interpreted_rows,
+		},
+		"recommendation": {
+			"query": recommendation["query"],
+			"results": recommendation["results"],
+			"summary": recommendation["summary"],
+		},
+	}
+
+
 @router.post("/extract")
 def extract_endpoint(payload: ExtractionRequest) -> dict:
 	source_path = Path(payload.pdf_path)
 	if not source_path.exists() or not is_supported_document(source_path):
-		raise HTTPException(status_code=400, detail="Invalid extraction input path.")
+		raise HTTPException(status_code=400, detail="Invalid PDF path or unsupported document input path.")
 	return _extract_from_source(source_path)
 
 
@@ -80,50 +155,39 @@ def recommend_endpoint(payload: RecommendationRequest) -> dict:
 def pipeline_endpoint(payload: PipelineRequest) -> dict:
 	source_path = Path(payload.pdf_path)
 	if not source_path.exists() or not is_supported_document(source_path):
-		raise HTTPException(status_code=400, detail="Invalid extraction input path.")
+		raise HTTPException(status_code=400, detail="Invalid PDF path or unsupported document input path.")
+	return _run_pipeline_for_source(source_path, model_dir=payload.model_dir)
 
-	extraction_output = _extract_from_source(source_path)
-	full_text = extraction_output.get("full_text", "")
+
+
+@router.post("/pipeline/upload")
+async def pipeline_upload_endpoint(
+	file: UploadFile = File(...),
+	model_dir: str = Form("artifacts/models/pubmedbert_ner/model"),
+) -> dict:
+	filename = (file.filename or "uploaded_document").strip() or "uploaded_document"
+	suffix = Path(filename).suffix.lower()
+	temp_path: Path | None = None
 
 	try:
-		ner_entities = _predict_entities(text=full_text, model_dir=payload.model_dir) if full_text else []
-	except FileNotFoundError as exc:
-		raise HTTPException(status_code=400, detail=str(exc)) from exc
-	except RuntimeError as exc:
-		raise HTTPException(status_code=500, detail=str(exc)) from exc
+		with tempfile.NamedTemporaryFile(delete=False, suffix=suffix, prefix="upload_") as tmp:
+			temp_path = Path(tmp.name)
+			copyfileobj(file.file, tmp)
 
-	tables = extraction_output.get("tables", [])
-	rows = []
-	if tables and isinstance(tables[0], dict):
-		rows = tables[0].get("rows", []) if isinstance(tables[0].get("rows", []), list) else []
+		if temp_path is None or not is_supported_document(temp_path):
+			raise HTTPException(
+				status_code=400,
+				detail="Unsupported uploaded file type. Upload PDF or supported image format.",
+			)
 
-	interpreted_rows = classify_records(rows)
-	status_summary = summarize_statuses(interpreted_rows)
-	recommendation = generate_recommendations(
-		interpreted_rows=interpreted_rows,
-		ner_entities=ner_entities,
-		status_summary=status_summary,
-		patient_id=extraction_output.get("document_id", source_path.stem),
-		top_k=5,
-	)
-
-	return {
-		"document_id": extraction_output.get("document_id", source_path.stem),
-		"source_path": str(source_path),
-		"extraction": extraction_output,
-		"ner": {
-			"entity_count": len(ner_entities),
-			"entities": ner_entities,
-		},
-		"interpretation": {
-			"row_count": len(interpreted_rows),
-			"status_summary": status_summary,
-			"rows": interpreted_rows,
-		},
-		"recommendation": {
-			"query": recommendation["query"],
-			"results": recommendation["results"],
-			"summary": recommendation["summary"],
-		},
-	}
+		return _run_pipeline_for_source(
+			temp_path,
+			model_dir=model_dir,
+			source_display_path=filename,
+			document_id_fallback=Path(filename).stem,
+		)
+	finally:
+		await file.close()
+		if temp_path is not None and temp_path.exists():
+			temp_path.unlink(missing_ok=True)
 

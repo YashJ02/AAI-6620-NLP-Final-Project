@@ -1,0 +1,92 @@
+@import "@mantine/core/styles.css";
+@import "@mantine/notifications/styles.css";
+@import "tailwindcss";
+
+:root {
+  --bg-light: #f6fbff;
+  --bg-dark: #09131f;
+  --surface-light: rgba(255, 255, 255, 0.78);
+  --surface-dark: rgba(9, 20, 33, 0.8);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body,
+.mantine-Card-root,
+.mantine-Button-root,
+.mantine-TextInput-input,
+.mantine-Textarea-input,
+.mantine-NumberInput-input {
+  transition:
+    background-color 180ms ease,
+    color 180ms ease,
+    border-color 180ms ease,
+    box-shadow 220ms ease;
+}
+
+.app-body {
+  margin: 0;
+  font-family: var(--font-manrope), sans-serif;
+  background:
+    radial-gradient(circle at 12% 10%, rgba(20, 184, 166, 0.2), transparent 34%),
+    radial-gradient(circle at 88% 16%, rgba(255, 180, 46, 0.24), transparent 32%),
+    linear-gradient(155deg, var(--bg-light), #eef4ff 42%, #f8f5f0 100%);
+}
+
+[data-mantine-color-scheme="dark"] .app-body {
+  background:
+    radial-gradient(circle at 8% 8%, rgba(20, 184, 166, 0.2), transparent 32%),
+    radial-gradient(circle at 92% 10%, rgba(255, 180, 46, 0.16), transparent 28%),
+    linear-gradient(155deg, #08101b, var(--bg-dark) 38%, #141124 100%);
+}
+
+.dashboard-root {
+  position: relative;
+}
+
+.hero-card {
+  backdrop-filter: blur(10px);
+  background: var(--surface-light);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+[data-mantine-color-scheme="dark"] .hero-card {
+  background: var(--surface-dark);
+  border-color: rgba(148, 163, 184, 0.2);
+}
+
+.hero-title {
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  max-width: 18ch;
+}
+
+.hero-image-wrap {
+  position: relative;
+  overflow: hidden;
+  min-height: 290px;
+  background: linear-gradient(120deg, rgba(20, 184, 166, 0.26), rgba(255, 180, 46, 0.2));
+}
+
+.hero-image {
+  object-fit: cover;
+  transform: scale(1.04);
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    max-width: none;
+    font-size: clamp(1.8rem, 6vw, 2.4rem);
+  }
+
+  .hero-image-wrap {
+    min-height: 220px;
+  }
+}

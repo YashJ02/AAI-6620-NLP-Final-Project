@@ -16,32 +16,37 @@ Blood reports are hard for patients to understand because labs use different tem
 We are building a multi-stage system with the following components:
 
 1. PDF Ingestion and Text Extraction
+
 - Route digital PDFs to PyMuPDF.
 - Route scanned/image-based PDFs to Surya OCR.
 - Preserve document structure for rows, tables, and labels.
 
 2. Biomedical Entity Extraction (NER)
+
 - Train a custom NER model (PubMedBERT token classification) on our annotated corpus.
 - Extract four entity types with BIO tagging:
-	- BIOMARKER
-	- VALUE
-	- UNIT
-	- REFERENCE_RANGE
+  - BIOMARKER
+  - VALUE
+  - UNIT
+  - REFERENCE_RANGE
 - Use a SpaCy rule-based fallback for strongly structured report rows.
 
 3. Clinical Value Interpretation
+
 - Normalize biomarker names and units.
 - Compare extracted values against curated reference ranges.
 - Use rule-based logic for standard cases and an ML classifier for ambiguous edge cases.
 
 4. Recommendation Engine
+
 - Build a health knowledge base from reliable sources (USDA FoodData Central and medical references).
 - Compare two retrieval approaches:
-	- TF-IDF baseline (scikit-learn)
-	- Semantic retrieval with Sentence-Transformers + FAISS
+  - TF-IDF baseline (scikit-learn)
+  - Semantic retrieval with Sentence-Transformers + FAISS
 - Generate explainable recommendations using template-based NLG (Jinja2).
 
 5. Product Interface
+
 - FastAPI backend for pipeline services.
 - Streamlit frontend for report upload and interpretation display.
 - Plotly charts for intuitive result visualization.
@@ -60,9 +65,9 @@ By the end of this project, we aim to deliver:
 ## Corpus and Annotation Plan
 
 - Sources:
-	- Public lab report templates
-	- Kaggle synthetic blood test datasets
-	- Team-generated synthetic report PDFs
+  - Public lab report templates
+  - Kaggle synthetic blood test datasets
+  - Team-generated synthetic report PDFs
 - Target size: 90+ reports (30 per team member)
 - Annotation tool: Label Studio
 - Annotation format: BIO tagging with finalized guidelines
@@ -93,6 +98,7 @@ python scripts/run_extraction.py --input data/raw --output-dir data/interim/extr
 ```
 
 Output format:
+
 - One JSON file per input document in `data/interim/extracted_text/`
 - Includes routed engine (`pymupdf` or `surya`), page text, blocks, and metadata
 - Supported inputs: `.pdf`, `.png`, `.jpg`, `.jpeg`, `.tif`, `.tiff`, `.bmp`, `.webp`
@@ -106,6 +112,7 @@ python scripts/run_annotation_export.py --input-dir data/annotations/label_studi
 ```
 
 Generated files:
+
 - `data/processed/train.jsonl`
 - `data/processed/val.jsonl`
 - `data/processed/test.jsonl`
@@ -126,6 +133,7 @@ python scripts/generate_synthetic_ner_data.py --observations-csv data/interim/no
 ```
 
 Training outputs:
+
 - `artifacts/models/pubmedbert_ner/model/`
 - `artifacts/models/pubmedbert_ner/label_mapping.json`
 
@@ -138,6 +146,7 @@ python scripts/run_ner_inference.py --input data/interim/extracted_text/sample.j
 ```
 
 Inference output:
+
 - `artifacts/sample_outputs/ner_predictions.json`
 - Contains normalized entity objects with `label`, `text`, `start`, `end`, and `score`
 
@@ -150,6 +159,7 @@ python scripts/run_pipeline.py --input data/raw/pdfs_digital/sample.pdf --model-
 ```
 
 Pipeline output:
+
 - `artifacts/sample_outputs/pipeline_output.json`
 - Includes extraction payload, NER entities, interpreted rows, and status summary
 
@@ -162,6 +172,7 @@ python scripts/build_indexes.py
 ```
 
 Generated index artifacts:
+
 - `knowledge_base/retrieval_index/tfidf/tfidf_index.npz`
 - `knowledge_base/retrieval_index/faiss/faiss.index` (when semantic deps are available)
 
@@ -174,6 +185,7 @@ python scripts/run_evaluation.py --data-dir data/processed --model-dir artifacts
 ```
 
 Evaluation output:
+
 - `artifacts/metrics/evaluation_metrics.json`
 - Contains NER token metrics and retrieval precision/recall/MRR
 
@@ -326,12 +338,14 @@ Recommended ownership mapping:
 ## Current Status
 
 Completed:
+
 - End-to-end digital PDF pipeline (extraction -> NER -> interpretation -> recommendation)
 - FastAPI endpoints for extraction, NER, interpretation, recommendation, and full pipeline
 - Label Studio dataset conversion and PubMedBERT training/inference scripts
 - Retrieval and recommendation modules with TF-IDF + semantic retrieval
 
 Next:
+
 - Implement real OCR extraction for scanned PDFs in `surya_ocr_extractor.py`
 - Improve retrieval quality (current retrieval benchmark remains lower than NER quality)
 - Add production smoke tests and refresh docs/contracts for release
@@ -339,22 +353,24 @@ Next:
 ## Team Responsibilities (Primary Ownership)
 
 - Om Patel:
-	- Hybrid extraction router and preprocessing
-	- PubMedBERT training pipeline
-	- FAISS retrieval pipeline
-	- FastAPI backend
+
+  - Hybrid extraction router and preprocessing
+  - PubMedBERT training pipeline
+  - FAISS retrieval pipeline
+  - FastAPI backend
 
 - Yash Jain:
-	- PyMuPDF extraction module
-	- SpaCy rule-based fallback
-	- Alert system/specialist mapping
-	- Plotly visualizations and PDF export
+
+  - PyMuPDF extraction module
+  - SpaCy rule-based fallback
+  - Alert system/specialist mapping
+  - Plotly visualizations and PDF export
 
 - Ruthvik Bandari:
-	- Surya OCR module
-	- NER evaluation and error analysis
-	- Rule-based classification and unit logic
-	- Streamlit UI
+  - Surya OCR module
+  - NER evaluation and error analysis
+  - Rule-based classification and unit logic
+  - Streamlit UI
 
 All team members contribute to data collection, annotation, template design, integration testing, and final report writing.
 
@@ -362,4 +378,68 @@ All team members contribute to data collection, annotation, template design, int
 
 This system is designed to reduce confusion around blood reports and make health information more accessible. It combines NLP, information extraction, retrieval, and explainable generation to transform raw lab reports into understandable guidance.
 
+## Environment Setup (Windows)
 
+Python backend setup:
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+Notes:
+
+- All project CLI scripts now self-bootstrap project imports, so commands in this README run directly from repository root without manually setting `PYTHONPATH`.
+- Semantic retrieval gracefully degrades to TF-IDF if FAISS/Sentence-Transformers runtime pieces are unavailable.
+
+Next.js frontend setup (Bun runtime):
+
+```bash
+cd frontend-next
+bun install
+bun run dev
+```
+
+Frontend quality checks:
+
+```bash
+cd frontend-next
+bun run check
+bun run build
+```
+
+## Next.js Frontend (Bun + TypeScript)
+
+A modern App Router frontend is available under `frontend-next/` with:
+
+- TypeScript-only setup (strict mode)
+- Mantine UI components and theming
+- Smooth light/dark theme toggle
+- React Query for request caching and mutation orchestration
+- Zustand for app-level state
+- Zod + React Hook Form for validated input flows
+- Framer Motion page/section transitions
+- Loading skeletons and route-level loading/error boundaries
+- `sharp`-powered image blur placeholder generation for optimized hero imagery
+
+Default backend URL in UI: `http://localhost:8000`
+
+## Latest Verified Evaluation (Local Run)
+
+Command:
+
+```bash
+python scripts/run_evaluation.py --data-dir data/processed --model-dir artifacts/models/pubmedbert_ner/model --retrieval-benchmark data/processed/retrieval_eval.jsonl --top-k 5 --output artifacts/metrics/evaluation_metrics.json
+```
+
+Output snapshot:
+
+- NER token accuracy: `0.9237`
+- Entity-token precision: `0.9615`
+- Entity-token recall: `0.8254`
+- Entity-token F1: `0.8883`
+- Retrieval precision@5: `0.5867`
+- Retrieval recall@5: `0.9854`
+- Retrieval MRR@5: `0.9958`

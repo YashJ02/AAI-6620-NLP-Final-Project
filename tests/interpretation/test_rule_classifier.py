@@ -39,3 +39,20 @@ def test_summarize_statuses_counts_all_categories():
     )
 
     assert summary == {"low": 1, "normal": 1, "high": 1, "unknown": 1}
+
+
+def test_classify_record_infers_range_for_fasting_glucose():
+    record = {
+        "biomarker": "a) Fasting Plasma Glucose =",
+        "biomarker_normalized": "a) Fasting Plasma Glucose =",
+        "value": "126",
+        "unit": "mg/dL",
+        "reference_range": "",
+    }
+
+    result = classify_record(record)
+
+    assert result["status"] == "high"
+    assert result["reference_range"] == "70.0-99.0"
+    assert result["range_source"] == "inferred"
+    assert result["biomarker"] == "Fasting Plasma Glucose"
