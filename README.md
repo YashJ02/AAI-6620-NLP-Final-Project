@@ -4,49 +4,83 @@ NLP Final Project (AAI 6620)
 
 Team: Om Patel, Yash Jain, Ruthvik Bandari
 
+An end-to-end clinical NLP system that ingests blood reports, extracts biomarker entities, interprets findings against reference ranges, and produces explainable food and lifestyle recommendations.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [System Architecture](#system-architecture)
+- [Repository Layout](#repository-layout)
+- [Installation and Setup](#installation-and-setup)
+- [Quickstart Commands](#quickstart-commands)
+- [Model Architecture and Mathematical Algorithms](#model-architecture-and-mathematical-algorithms)
+  - [NER Model (Clinical Entity Extraction)](#1-ner-model-clinical-entity-extraction)
+  - [Lexical Retrieval (TF-IDF)](#2-lexical-retrieval-tf-idf-baseline)
+  - [Semantic Retrieval (Embeddings and FAISS)](#3-semantic-retrieval-embeddings-and-faiss)
+  - [Weighted Fusion Ranking](#4-score-fusion-and-global-ranking)
+  - [Evaluation Metrics Formulation](#5-evaluation-metrics-and-formulas)
+- [Current Project Status](#current-project-status)
+- [Metrics and Validation Summary](#metrics-and-validation-summary)
+- [Model Artifacts and Git LFS](#model-artifacts-and-git-lfs)
+- [Notes](#notes)
+
 ## Overview
 
-This project provides an end-to-end pipeline that reads blood report documents, extracts clinical entities, interprets biomarker values against reference ranges, and generates explainable food and lifestyle recommendations.
+This project provides a practical pipeline for medical report understanding with the following goals:
 
-The stack includes:
+- Robust extraction from both digital PDFs and scanned reports (OCR fallback)
+- Biomedical named-entity recognition using PubMedBERT
+- Clinical interpretation from extracted observations plus reference ranges
+- Retrieval-augmented recommendation generation
+- API-first deployment with a frontend integration path
 
-- Hybrid document extraction (digital PDF and OCR fallback)
-- PubMedBERT-based NER with biomedical BIO labels
-- Rule-based and classifier-assisted interpretation
-- Recommendation retrieval (TF-IDF and semantic options)
-- FastAPI backend and Next.js frontend
+## Key Features
 
-## Current Status
+- Hybrid extraction stack: direct text extraction with OCR fallback when needed
+- Domain-adapted NER: PubMedBERT token classification with BIO labels
+- Multi-stage interpretation: rule-based and classifier-assisted decision flow
+- Retrieval options: TF-IDF and semantic retrieval pipelines
+- Service interfaces: FastAPI endpoints plus scriptable CLI workflows
+- Evaluation utilities: repeatable benchmarks for NER and retrieval quality
 
-Completed:
+## System Architecture
 
-- End-to-end pipeline from extraction to recommendations
-- PubMedBERT training and inference scripts
-- FastAPI endpoints for extraction, NER, interpretation, recommendation, and full pipeline
-- Frontend integration and validated local build checks
-
-In progress:
-
-- OCR quality improvements for scanned reports
-- Continued retrieval benchmarking and tuning
-- Production smoke-test coverage expansion
+```text
+Input Report (PDF/Image)
+  |
+  v
+Document Extraction (digital parser + OCR fallback)
+  |
+  v
+NER (PubMedBERT token classification)
+  |
+  v
+Observation Normalization and Interpretation
+  |
+  v
+Recommendation Retrieval (TF-IDF / Semantic / Hybrid Fusion)
+  |
+  v
+Template Generation + API Response
+```
 
 ## Repository Layout
 
-Key folders:
+| Path | Purpose |
+|---|---|
+| `src/` | Core implementation modules (`api`, `extraction`, `ner`, `interpretation`, `recommendation`) |
+| `scripts/` | CLI entry points for training, inference, evaluation, and pipeline orchestration |
+| `configs/` | YAML configuration for training/evaluation workflows |
+| `data/` | Raw, interim, annotation, and processed datasets |
+| `artifacts/` | Model checkpoints, run outputs, metrics, and samples |
+| `frontend-next/` | Next.js + TypeScript frontend |
+| `tests/` | Regression and integration tests |
+| `docs/` | Supporting technical docs and project playbooks |
 
-- `src/` core modules (extraction, ner, interpretation, recommendation, api)
-- `scripts/` runnable CLI entry points for each pipeline stage
-- `configs/` training and pipeline configuration files
-- `data/` raw, interim, annotations, and processed datasets
-- `artifacts/` saved models, metrics, run outputs, sample outputs
-- `frontend-next/` Next.js + TypeScript frontend
-- `tests/` API and pipeline regression tests
-- `docs/` design, API contract, and playbooks
+## Installation and Setup
 
-## Setup
-
-Backend (Windows):
+### Backend (Windows)
 
 ```bash
 python -m venv .venv
@@ -55,7 +89,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Frontend:
+### Frontend
 
 ```bash
 cd frontend-next
@@ -63,7 +97,7 @@ bun install
 bun run dev
 ```
 
-Frontend checks:
+### Frontend validation checks
 
 ```bash
 cd frontend-next
@@ -73,37 +107,37 @@ bun run build
 
 ## Quickstart Commands
 
-Run extraction:
+### 1) Run extraction
 
 ```bash
 python scripts/run_extraction.py --input data/raw/pdfs_digital/sample.pdf
 ```
 
-Create NER train/val/test splits from Label Studio exports:
+### 2) Build NER train/val/test splits
 
 ```bash
 python scripts/run_annotation_export.py --input-dir data/annotations/label_studio_exports --output-dir data/processed
 ```
 
-Train PubMedBERT NER:
+### 3) Train PubMedBERT NER
 
 ```bash
 python scripts/run_ner_training.py --config configs/ner_train.yaml --data-dir data/processed --output-dir artifacts/models/pubmedbert_ner
 ```
 
-Run one-command pipeline:
+### 4) Run end-to-end pipeline
 
 ```bash
 python scripts/run_pipeline.py --input data/raw/pdfs_digital/sample.pdf --model-dir artifacts/models/pubmedbert_ner/model --output artifacts/sample_outputs/pipeline_output.json
 ```
 
-Build retrieval indexes:
+### 5) Build retrieval indexes
 
 ```bash
 python scripts/build_indexes.py
 ```
 
-Run evaluation:
+### 6) Run evaluation
 
 ```bash
 python scripts/run_evaluation.py --data-dir data/processed --model-dir artifacts/models/pubmedbert_ner/model --retrieval-benchmark data/processed/retrieval_eval.jsonl --top-k 5 --output artifacts/metrics/evaluation_metrics.json
@@ -111,53 +145,50 @@ python scripts/run_evaluation.py --data-dir data/processed --model-dir artifacts
 
 ## Model Architecture and Mathematical Algorithms
 
-This section documents the core modeling stack and mathematical methods implemented in this repository.
+This section documents the implemented model stack and the mathematical logic used during training, retrieval, and evaluation.
 
-### 1) NER Model Architecture (Clinical Entity Extraction)
+### 1) NER Model (Clinical Entity Extraction)
 
 - Base encoder: `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext`
-- Task head: token-classification head (`AutoModelForTokenClassification`)
-- Labeling scheme: BIO tags with entity classes (for example `BIOMARKER`, `VALUE`, `UNIT`, `REFERENCE_RANGE`)
-- Training split source: processed JSONL token-tag rows
-- Inference strategy: chunked text inference with overlap and aggregated token spans
+- Task head: `AutoModelForTokenClassification`
+- Labeling scheme: BIO tags, including entities like `BIOMARKER`, `VALUE`, `UNIT`, `REFERENCE_RANGE`
+- Inference strategy: chunked inference with overlap and span aggregation
 
-For each token representation `h_t` from PubMedBERT, logits are computed by a linear classifier and converted to probabilities:
+For each token representation $h_t$ from PubMedBERT, logits are produced by a linear layer and then converted to a class distribution. This formulation is logically correct.
 
 $$
-z_t = W h_t + b, \quad p_t = \operatorname{softmax}(z_t)
+z_t = W h_t + b, \quad p_t = \mathrm{softmax}(z_t)
 $$
 
-Training minimizes token-level cross-entropy over valid tokens (special/padding/subword-ignored tokens use label `-100`):
+Training objective (masked token-level cross-entropy, ignoring labels set to `-100`):
 
 $$
 \mathcal{L}_{\mathrm{NER}} = -\frac{1}{N} \sum_{t=1}^{T} \mathbf{1}[y_t \neq -100] \log p_t(y_t)
 $$
 
-Optimization and schedule (from training config):
+Configured optimization schedule:
 
 - Learning rate: `2e-5`
 - Weight decay: `0.02`
 - Scheduler: linear
 - Warmup steps: `500`
-- Early stopping with patience and threshold
+- Early stopping: enabled with patience and threshold
 
-### 2) Lexical Retrieval Algorithm (TF-IDF Baseline)
+### 2) Lexical Retrieval (TF-IDF Baseline)
 
-The lexical retriever uses `TfidfVectorizer` with uni-grams and bi-grams (`ngram_range=(1,2)`) and English stop-word filtering.
+The lexical retriever uses `TfidfVectorizer` with `ngram_range=(1,2)` and English stop-word filtering.
 
-Each document and query are embedded in sparse TF-IDF space and ranked by cosine similarity:
+Documents and query vectors are ranked by cosine similarity:
 
 $$
 \mathrm{score}_{\mathrm{tfidf}}(q, d) = \frac{v_q \cdot v_d}{\lVert v_q \rVert_2 \lVert v_d \rVert_2}
 $$
 
-Top-k documents are selected by descending cosine score.
-
-### 3) Semantic Retrieval Algorithm (Embeddings + FAISS)
+### 3) Semantic Retrieval (Embeddings and FAISS)
 
 - Embedding model: `all-MiniLM-L6-v2` (Sentence-Transformers)
-- Index: FAISS `IndexFlatIP` (inner-product search)
-- Embeddings are L2-normalized before indexing and querying
+- ANN backend: FAISS `IndexFlatIP`
+- Embeddings are L2-normalized before indexing and search
 
 With normalized vectors, inner product equals cosine similarity:
 
@@ -165,16 +196,12 @@ $$
 \mathrm{score}_{\mathrm{semantic}}(q, d) = q^\top d = \cos(\theta_{q,d})
 $$
 
-The retriever performs nearest-neighbor search in embedding space and returns top-k semantic matches.
-
 ### 4) Score Fusion and Global Ranking
 
-TF-IDF and semantic candidates are merged and re-ranked with weighted score fusion:
+Semantic and lexical candidates are merged and re-ranked with weighted score fusion:
 
 - Semantic weight: `0.6`
 - TF-IDF weight: `0.4`
-
-For candidate `d`, combined score is:
 
 $$
 \mathrm{combined}(d) = \sum_{m \in \{\mathrm{semantic},\mathrm{tfidf}\}} \alpha_m \cdot s_m(d)
@@ -184,7 +211,7 @@ where $\alpha_{\mathrm{semantic}} = 0.6$ and $\alpha_{\mathrm{tfidf}} = 0.4$.
 
 ### 5) Evaluation Metrics and Formulas
 
-NER token/entity metrics:
+NER metrics:
 
 - Token accuracy
 - Entity-token precision
@@ -204,60 +231,73 @@ $$
 \mathrm{Recall@k} = \frac{|\mathrm{relevant} \cap \mathrm{topk}|}{|\mathrm{relevant}|}
 $$
 
-Mean Reciprocal Rank (MRR@k):
+Mean Reciprocal Rank:
 
 $$
 \mathrm{MRR@k} = \frac{1}{Q} \sum_{i=1}^{Q} \frac{1}{\mathrm{rank}_i}
 $$
 
-where $\mathrm{rank}_i$ is the first relevant-hit position for query $i$ (or 0 contribution if no hit in top-k).
+where $\mathrm{rank}_i$ is the first relevant-hit position for query $i$ (or 0 if no relevant item appears in top-$k$).
 
-## Metrics (Cleaned and De-duplicated)
+## Current Project Status
 
-This section replaces overlapping historical metric blocks and uses explicit sources.
+Completed:
 
-### Latest Verified Evaluation (Local)
+- End-to-end extraction to recommendation pipeline
+- PubMedBERT NER training and inference utilities
+- FastAPI endpoints for extraction, NER, interpretation, recommendation, and pipeline orchestration
+- Frontend integration plus successful local build checks
+
+In progress:
+
+- OCR quality improvements for noisy scanned reports
+- Retrieval benchmarking and relevance tuning
+- Expanded production-oriented smoke testing
+
+## Metrics and Validation Summary
+
+This section intentionally consolidates metrics into one canonical view to avoid duplication.
+
+### Latest verified local evaluation
 
 Source: `artifacts/metrics/evaluation_metrics.json`
 
-- NER token accuracy: `0.9237`
-- NER entity-token precision: `0.9615`
-- NER entity-token recall: `0.8254`
-- NER entity-token F1: `0.8883`
-- Retrieval precision@5: `0.5867`
-- Retrieval recall@5: `0.9854`
-- Retrieval MRR@5: `0.9958`
+| Metric | Value |
+|---|---:|
+| NER token accuracy | `0.9237` |
+| NER entity-token precision | `0.9615` |
+| NER entity-token recall | `0.8254` |
+| NER entity-token F1 | `0.8883` |
+| Retrieval precision@5 | `0.5867` |
+| Retrieval recall@5 | `0.9854` |
+| Retrieval MRR@5 | `0.9958` |
 
-### 5-Fold Cross-Validation Summary
+### 5-fold cross-validation summary
 
 Source: `artifacts/runs/cv5/summary.json`
 
-- Entity-token F1 mean: `0.8902`
-- Entity-token F1 std: `0.0034`
-- Precision mean: `0.9561`
-- Recall mean: `0.8329`
-- Token accuracy mean: `0.9235`
+| Metric | Value |
+|---|---:|
+| Entity-token F1 mean | `0.8902` |
+| Entity-token F1 std | `0.0034` |
+| Precision mean | `0.9561` |
+| Recall mean | `0.8329` |
+| Token accuracy mean | `0.9235` |
 
-### Training Log Snapshot (HPC NER Runs)
+### HPC NER log snapshot
 
-Source logs: `logs/ner_pubmedbert_*.out` (final metrics blocks)
+Source logs: `logs/ner_pubmedbert_*.out`
 
-- Best logged NER run: `ner_pubmedbert_5985702.out`
-  - Token accuracy: `0.9267`
-  - Entity-token precision: `0.9535`
-  - Entity-token recall: `0.8446`
-  - Entity-token F1: `0.8958`
-- Most recent logged NER run: `ner_pubmedbert_5986331.out`
-  - Token accuracy: `0.9242`
-  - Entity-token precision: `0.9547`
-  - Entity-token recall: `0.8369`
-  - Entity-token F1: `0.8919`
+| Run | Token Acc | Precision | Recall | F1 |
+|---|---:|---:|---:|---:|
+| Best (`ner_pubmedbert_5985702.out`) | `0.9267` | `0.9535` | `0.8446` | `0.8958` |
+| Most recent (`ner_pubmedbert_5986331.out`) | `0.9242` | `0.9547` | `0.8369` | `0.8919` |
 
-Note: Retrieval values inside these HPC training logs are consistently `0.0417/0.0771/0.1833` for precision/recall/MRR@5 and represent an older benchmark setup. The local verified retrieval metrics above come from the latest unified evaluation artifact.
+Note: Retrieval values in older HPC logs (`0.0417/0.0771/0.1833` for precision/recall/MRR@5) were computed under a previous benchmark setup. Prefer the local verified retrieval metrics above for current comparisons.
 
 ## Model Artifacts and Git LFS
 
-Model weights are stored with Git LFS under:
+Model weights are versioned with Git LFS under:
 
 - `artifacts/models/pubmedbert_ner/model/`
 
@@ -270,5 +310,6 @@ git lfs pull
 
 ## Notes
 
-- CLI scripts are runnable from repository root (manual `PYTHONPATH` setup is not required).
-- Semantic retrieval degrades gracefully to TF-IDF when semantic runtime dependencies are unavailable.
+- CLI scripts are runnable from repository root (manual `PYTHONPATH` export is not required).
+- Semantic retrieval gracefully falls back to TF-IDF if semantic dependencies are unavailable at runtime.
+
